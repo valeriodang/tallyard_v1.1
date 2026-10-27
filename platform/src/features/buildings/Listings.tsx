@@ -1,14 +1,15 @@
 // Listings: for each lot, private, shared with selected projects, or published, with the ask, reserve and date;
-// and the building's disclosure settings with the score they give. Owner only.
+// and the building's disclosure settings with the score they give. For whoever sells: the owner, or (round 3) the
+// deconstruction contractor the owner passed title to. The owner reads it then, and can take title back.
 import { useState } from 'react'
 import { Link, useParams } from 'react-router'
-import { ArrowRight, Pencil, RotateCcw, Store } from 'lucide-react'
+import { ArrowRight, Landmark, Pencil, RotateCcw, Store } from 'lucide-react'
 import { formatDate } from '../../domain/dates'
 import * as f from '../../domain/format'
 import { act, selectors, useView } from '../../store'
-import type { ListingRow } from '../../store/selectors/owner'
+import type { ListingRow, ListingsView } from '../../store/selectors/owner'
 import { disclosureMeter } from '../../store/selectors/roles-views'
-import { Badge, Button, Card, CardBody, CardHeader, EmptyState, Pill, SegmentedControl, Sheet, Table, TBody, TD, TH, THead, TR, toast } from '../../ui'
+import { Badge, Button, Card, CardBody, CardHeader, Dialog, EmptyState, Pill, SegmentedControl, Sheet, Table, TBody, TD, TH, THead, TR, toast } from '../../ui'
 import { DisclosureBox, ListingEditor } from './ListingEditor'
 import { VISIBILITY_SHORT, VISIBILITY_TONE } from './labels'
 
@@ -36,15 +37,18 @@ export function Listings() {
   }
   return (
     <div className="flex flex-col gap-6" data-testid="listings">
+      <TitleCard v={v} buildingId={buildingId} />
       <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
         <Card>
           <CardHeader
             title="Disclosure settings"
             description="How precisely published listings say where and when. The less you show, the harder the building is to identify."
             actions={
-              <Button size="sm" variant="ghost" icon={RotateCcw} onClick={reset}>
-                Reset
-              </Button>
+              v.sells ? (
+                <Button size="sm" variant="ghost" icon={RotateCcw} onClick={reset}>
+                  Reset
+                </Button>
+              ) : null
             }
           />
           <CardBody className="flex flex-col gap-5">
@@ -53,14 +57,22 @@ export function Listings() {
                 <p className="m-0 text-base font-medium text-ink">Location</p>
                 <p className="m-0 text-sm text-muted">Shown as the region or the local authority</p>
               </div>
-              <SegmentedControl label="Location shown" value={v.locationLevel} onValueChange={(x) => disclose({ locationLevel: x as 'region' | 'local_authority' })} items={[{ value: 'region', label: 'Region' }, { value: 'local_authority', label: 'Local authority' }]} />
+              {v.sells ? (
+                <SegmentedControl label="Location shown" value={v.locationLevel} onValueChange={(x) => disclose({ locationLevel: x as 'region' | 'local_authority' })} items={[{ value: 'region', label: 'Region' }, { value: 'local_authority', label: 'Local authority' }]} />
+              ) : (
+                <span className="text-base font-medium text-ink">{v.locationLevel === 'region' ? 'Region' : 'Local authority'}</span>
+              )}
             </div>
             <div className="flex flex-wrap items-center justify-between gap-3">
               <div>
                 <p className="m-0 text-base font-medium text-ink">Timing</p>
                 <p className="m-0 text-sm text-muted">Availability shown as a month or a three-month window</p>
               </div>
-              <SegmentedControl label="Timing shown" value={v.timingLevel} onValueChange={(x) => disclose({ timingLevel: x as 'quarter' | 'month' })} items={[{ value: 'quarter', label: 'Three-month window' }, { value: 'month', label: 'Month' }]} />
+              {v.sells ? (
+                <SegmentedControl label="Timing shown" value={v.timingLevel} onValueChange={(x) => disclose({ timingLevel: x as 'quarter' | 'month' })} items={[{ value: 'quarter', label: 'Three-month window' }, { value: 'month', label: 'Month' }]} />
+              ) : (
+                <span className="text-base font-medium text-ink">{v.timingLevel === 'quarter' ? 'Three-month window' : 'Month'}</span>
+              )}
             </div>
           </CardBody>
         </Card>
@@ -155,6 +167,62 @@ export function Listings() {
         {current ? <ListingEditor key={current.lotId + current.visibility} lot={toEditorLot(current)} onSaved={() => setEditing(null)} compact /> : null}
       </Sheet>
     </div>
+  )
+}
+
+/** Who holds title to the arisings, and the owner's way to pass it to the contractor or take it back. */
+function TitleCard({ v, buildingId }: { v: ListingsView; buildingId: string }) {
+  const [confirming, setConfirming] = useState(false)
+  const t = v.title
+  const change = () => {
+    const r = act.setArisingsTitle(buildingId, t.holder === 'owner' ? 'contractor' : 'owner')
+    setConfirming(false)
+    if (!r.ok) return toast.error(r.error ?? 'Could not change who holds title.')
+    toast.success(t.holder === 'owner' ? `Title passed to ${t.contractorName}` : 'Title taken back', { description: t.holder === 'owner' ? 'They now list and sell what comes out, and answer requests.' : 'You list and sell what comes out again.', action: { label: 'Undo', onClick: r.undo } })
+  }
+  return (
+    <Card padding="md" className="flex flex-col gap-3" data-testid="title-card">
+      <div className="flex flex-wrap items-start justify-between gap-3">
+        <div className="flex min-w-0 items-start gap-2.5">
+          <Landmark aria-hidden="true" className="mt-0.5 size-4 shrink-0 text-muted" />
+          <div className="min-w-0">
+            <p className="m-0 text-base font-semibold text-ink">Title to the arisings</p>
+            <p className="m-0 mt-0.5 max-w-3xl text-sm text-ink-soft" data-testid="title-text">
+              {t.text}
+            </p>
+            {t.blockedText ? <p className="m-0 mt-1 text-sm text-muted">{t.blockedText}</p> : null}
+          </div>
+        </div>
+        {t.canPass ? (
+          <Button onClick={() => setConfirming(true)} data-testid="pass-title">
+            Pass title to {t.contractorName}
+          </Button>
+        ) : t.canTakeBack ? (
+          <Button onClick={() => setConfirming(true)} data-testid="take-title-back">
+            Take title back
+          </Button>
+        ) : null}
+      </div>
+      <Dialog
+        open={confirming}
+        onOpenChange={setConfirming}
+        title={t.holder === 'owner' ? `Pass title to ${t.contractorName}?` : 'Take title back?'}
+        description={
+          t.holder === 'owner'
+            ? 'They will list and sell what comes out, set prices and answer requests, as the seller. The projects you share with keep their access. You keep the building and can take title back while no request waits.'
+            : 'You will list and sell what comes out again. Requests they already decided stay with them.'
+        }
+        testId="title-dialog"
+        footer={
+          <>
+            <Button onClick={() => setConfirming(false)}>Cancel</Button>
+            <Button variant="primary" onClick={change} data-testid="confirm-title">
+              {t.holder === 'owner' ? 'Pass title' : 'Take title back'}
+            </Button>
+          </>
+        }
+      />
+    </Card>
   )
 }
 

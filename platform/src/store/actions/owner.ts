@@ -11,7 +11,8 @@ import { timelineFit } from '../../domain/engines/timeline'
 import { blindBuyerText, toBlindBuyer } from '../../domain/privacy/blindBuyer'
 import { normaliseStructure } from '../../domain/engines/structure'
 import type { ActionResult, Actor, AppData, SurveyRecord } from '../types'
-import { ERRORS, buildingOrgIds, buildingSide, buyerSideOrgIds, isBuildingOwner, isProjectClient, projectOrgIds, roleOfOrg, roleOfUser } from '../access'
+import { sellerOrgOfLot } from '../../domain/visibility'
+import { ERRORS, buildingOrgIds, buildingSide, buildingsSoldBy, buyerSideOrgIds, canSellIn, isBuildingOwner, isProjectClient, projectOrgIds, roleOfOrg, roleOfUser } from '../access'
 import { mint } from '../ids'
 import { acceptedReservation, listIdFor, listingOf } from '../lots'
 import { listJoin, log, notify, plural } from '../notifications'
@@ -310,7 +311,7 @@ export function setLotVisibility(state: AppData, actor: Actor, lotId: string, in
   const lot = state.world.lots[lotId]
   const item = lot ? state.world.items[lot.itemId] : null
   if (!lot || !item) return fail(state, OWNER_ERRORS.noLot)
-  if (!isBuildingOwner(state, actor.userId, item.buildingId)) return fail(state, ERRORS.role)
+  if (!canSellIn(state, actor.userId, item.buildingId)) return fail(state, ERRORS.role)
   if (acceptedReservation(state, lotId)) return fail(state, OWNER_ERRORS.reserved)
   const target = TO_VISIBILITY[input.visibility]
   const building = state.world.buildings[item.buildingId]
@@ -374,7 +375,7 @@ export function setLotAvailability(state: AppData, actor: Actor, lotId: string, 
   const lot = state.world.lots[lotId]
   const item = lot ? state.world.items[lot.itemId] : null
   if (!lot || !item) return fail(state, OWNER_ERRORS.noLot)
-  if (!isBuildingOwner(state, actor.userId, item.buildingId)) return fail(state, ERRORS.role)
+  if (!canSellIn(state, actor.userId, item.buildingId)) return fail(state, ERRORS.role)
   if (lot.visibility !== 'private') return fail(state, OWNER_ERRORS.notPrivate)
   if (!isIsoDate(isoDate)) return fail(state, OWNER_ERRORS.badDate)
   if (lot.availableFrom === isoDate) return ok(state)
@@ -391,7 +392,7 @@ export function setDisclosure(state: AppData, actor: Actor, buildingId: string, 
   if (typeof a === 'string') return fail(state, a)
   const b = state.world.buildings[buildingId]
   if (!b) return fail(state, ERRORS.noBuilding)
-  if (!isBuildingOwner(state, actor.userId, buildingId)) return fail(state, ERRORS.role)
+  if (!canSellIn(state, actor.userId, buildingId)) return fail(state, ERRORS.role)
   if ((patch.locationLevel === undefined || patch.locationLevel === b.locationLevel) && (patch.timingLevel === undefined || patch.timingLevel === b.timingLevel)) return ok(state)
   return ok(withWorld(state, ops.setDisclosure(state.world, buildingId, patch)))
 }
@@ -401,7 +402,7 @@ export function resetDisclosure(state: AppData, actor: Actor, buildingId: string
   const a = acting(state, actor)
   if (typeof a === 'string') return fail(state, a)
   if (!state.world.buildings[buildingId]) return fail(state, ERRORS.noBuilding)
-  if (!isBuildingOwner(state, actor.userId, buildingId)) return fail(state, ERRORS.role)
+  if (!canSellIn(state, actor.userId, buildingId)) return fail(state, ERRORS.role)
   return ok(withWorld(state, ops.resetDisclosureDefaults(state.world, buildingId)))
 }
 
@@ -411,7 +412,7 @@ export function setPhotoPublic(state: AppData, actor: Actor, itemId: string, pho
   if (typeof a === 'string') return fail(state, a)
   const item = state.world.items[itemId]
   if (!item) return fail(state, ERRORS.noItem)
-  if (!isBuildingOwner(state, actor.userId, item.buildingId)) return fail(state, ERRORS.role)
+  if (!canSellIn(state, actor.userId, item.buildingId)) return fail(state, ERRORS.role)
   const photo = item.photos.find((p) => p.id === photoId)
   if (!photo) return fail(state, OWNER_ERRORS.noPhoto)
   if (photo.isPublic === isPublic) return ok(state)
@@ -422,22 +423,23 @@ export function setPhotoPublic(state: AppData, actor: Actor, itemId: string, pho
 export function setProjectAccess(state: AppData, actor: Actor, projectId: string, granted: boolean): ActionResult {
   const a = acting(state, actor)
   if (typeof a === 'string') return fail(state, a)
-  if (a.role !== 'owner') return fail(state, ERRORS.role)
+  // Round 3: a contractor holding title to a building's arisings shares its lots too.
+  if (a.role !== 'owner' && buildingsSoldBy(state, actor.userId).length === 0) return fail(state, ERRORS.role)
   const p = state.world.projects[projectId]
   if (!p) return fail(state, ERRORS.noProject)
   if (p.clientOrgId === a.org.id || p.architectOrgId === a.org.id) return fail(state, ERRORS.role)
   if (p.approvedByOwnerOrgIds.includes(a.org.id) === granted) return ok(state)
   let s = withWorld(state, ops.setOwnerProjectApproval(state.world, a.org.id, projectId, granted))
   const blind = blindBuyerText(toBlindBuyer(p))
-  const shared = Object.values(s.world.lots).filter((l) => l.visibility === 'matched_only' && s.world.buildings[s.world.items[l.itemId].buildingId].ownerOrgId === a.org.id).length
-  const firstBuilding = Object.values(s.world.buildings).find((b) => b.ownerOrgId === a.org.id)
+  const shared = Object.values(s.world.lots).filter((l) => l.visibility === 'matched_only' && sellerOrgOfLot(s.world, l.id) === a.org.id).length
+  const firstBuilding = a.role === 'owner' ? Object.values(s.world.buildings).find((b) => b.ownerOrgId === a.org.id) : buildingsSoldBy(state, actor.userId)[0]
   s = log(s, { at: a.now, orgIds: [a.org.id], buildingId: null, projectId: null, actorUserId: a.user.id, actor: a.user.name, text: granted ? `shared lots with ${blind}` : `stopped sharing lots with ${blind}`, href: firstBuilding ? `/app/buildings/${firstBuilding.id}/sharing` : null })
   if (granted && shared > 0) {
     s = notify(s, {
       orgIds: buyerSideOrgIds(p),
       kind: 'lots_shared',
       title: `${plural(shared, 'lot')} shared with ${p.name}`,
-      body: p.termsAccepted ? 'Shared in confidence by a donor building owner. They are in the Marketplace, under Shared with you.' : 'Shared in confidence by a donor building owner. Accept the confidentiality terms to see them.',
+      body: `Shared in confidence by ${a.role === 'owner' ? 'a donor building owner' : 'a deconstruction contractor'}. ${p.termsAccepted ? 'They are in the Marketplace, under Shared with you.' : 'Accept the confidentiality terms to see them.'}`,
       href: sharedWithProjectHref(p.id),
       at: a.now,
       actorUserId: null,

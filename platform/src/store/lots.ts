@@ -3,7 +3,7 @@
 import type { Lot, Project, PublicListing, World } from '../domain/types'
 import type { Wishlist, WishlistItem } from '../domain/v1types'
 import { DEFAULT_ASSUMPTIONS as A } from '../domain/reference/assumptions'
-import { listingFor, lotsVisibleToProject } from '../domain/visibility'
+import { listingFor, lotsVisibleToProject, sellerOrgOfLot } from '../domain/visibility'
 import type { AppData, Reservation } from './types'
 
 export const LOT_ERRORS = {
@@ -28,9 +28,9 @@ export function listingOf(world: World, lot: Lot): PublicListing {
   return listingFor(world, lot.id, A)
 }
 
-export function ownerOrgOfLot(world: World, lot: Lot): string | null {
-  const item = world.items[lot.itemId]
-  return item ? (world.buildings[item.buildingId]?.ownerOrgId ?? null) : null
+/** Who sells the lot: the building's owner, or the contractor holding title to its arisings (round 3). */
+export function sellerOrgOfLotIn(world: World, lot: Lot): string | null {
+  return sellerOrgOfLot(world, lot.id)
 }
 
 export function reservationsForLot(state: AppData, lotId: string): Reservation[] {

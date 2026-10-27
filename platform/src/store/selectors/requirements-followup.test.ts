@@ -127,7 +127,8 @@ describe('the at-risk count on a donor building', () => {
     const s = fresh()
     const tabs = sel.buildingHeader(s, viewer(U.tom), TIVERNE_ID)!.tabs
     // Changed in round 3, stage 2: the Audits tab sits after the inventory, with no badge.
-    expect(tabs.map((t) => [t.id, t.badge])).toEqual([['overview', null], ['inventory', null], ['audits', null], ['priorities', null], ['listings', null], ['sharing', null], ['testing', null], ['requirements', 1]])
+    // Changed in round 3, stage 3: the Destinations tab sits before Requirements, with no badge.
+    expect(tabs.map((t) => [t.id, t.badge])).toEqual([['overview', null], ['inventory', null], ['audits', null], ['priorities', null], ['listings', null], ['sharing', null], ['testing', null], ['destinations', null], ['requirements', 1]])
     const tom = sel.navModel(s, viewer(U.tom))!.sections.find((x) => x.id === 'buildings')!.items.find((i) => i.id === `building-${TIVERNE_ID}`)!
     expect(tom.children.find((c) => c.label === 'Requirements')!.badge).toBe(1)
     const dana = sel.navModel(s, viewer(U.dana))!.sections[1].items.flatMap((g) => g.children).find((i) => i.id === `building-${TIVERNE_ID}`)!

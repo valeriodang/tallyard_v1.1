@@ -2,6 +2,7 @@
 // working records of each role. Everything here is plain data so it persists as JSON.
 import type { CostLine, SteelGrade, World } from '../domain/types'
 import type { BuildingAudit } from '../domain/auditTypes'
+import type { ContractorWork } from '../domain/contractorTypes'
 import type { Fit } from '../domain/v1types'
 import type { TestService } from '../domain/reference/testing'
 import type { ProjectSustainability, RequirementTrack } from '../domain/sustainabilityTypes'
@@ -259,6 +260,8 @@ export type AppData = {
   buildingTracks: Record<string, Record<string, RequirementTrack>>
   /** Round 3: pre-redevelopment and pre-deconstruction audits of donor buildings, by audit ID. Owner-private. */
   audits: Record<string, BuildingAudit>
+  /** Round 3: the deconstruction contractor's methods, destination logs and carrier registers. Building-private. */
+  contractorWork: ContractorWork
   ui: UiState
 }
 

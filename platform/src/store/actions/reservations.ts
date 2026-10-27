@@ -3,9 +3,9 @@
 // other's organisation and contact; the architect and the consultant never see the seller.
 import { blindBuyerText, toBlindBuyer } from '../../domain/privacy/blindBuyer'
 import type { ActionResult, Actor, AppData, ExchangedContacts, Reservation } from '../types'
-import { ERRORS, isBuildingOwner, isProjectClient, linkedConsultantOrgId, usersOfOrg } from '../access'
+import { ERRORS, canSellIn, isProjectClient, linkedConsultantOrgId, usersOfOrg } from '../access'
 import { mint } from '../ids'
-import { acceptedReservation, isLotAvailable, listingOf, lotByPublicId, ownerOrgOfLot, projectCanSee, projectWishlist, reservationsForLot } from '../lots'
+import { acceptedReservation, isLotAvailable, listingOf, lotByPublicId, sellerOrgOfLotIn, projectCanSee, projectWishlist, reservationsForLot } from '../lots'
 import { estimateForLot } from '../estimate'
 import { log, notify } from '../notifications'
 import { acting, clean, fail, ok } from './common'
@@ -39,7 +39,7 @@ export function requestReservation(state: AppData, actor: Actor, projectId: stri
   const lot = lotByPublicId(state.world, item.publicId)
   if (!lot || !projectCanSee(state.world, p, lot)) return fail(state, RESERVATION_ERRORS.notShared)
   // Round 2: a donor building owner building a New project does not reserve from itself (self-allocation is version 2).
-  if (ownerOrgOfLot(state.world, lot) === p.clientOrgId) return fail(state, RESERVATION_ERRORS.ownLot)
+  if (sellerOrgOfLotIn(state.world, lot) === p.clientOrgId) return fail(state, RESERVATION_ERRORS.ownLot)
   const mine = reservationsForLot(state, lot.id).filter((r) => r.projectId === projectId)
   if (mine.some((r) => r.status === 'accepted')) return fail(state, RESERVATION_ERRORS.held)
   if (mine.some((r) => r.status === 'pending')) return fail(state, RESERVATION_ERRORS.pending)
@@ -65,7 +65,7 @@ export function requestReservation(state: AppData, actor: Actor, projectId: stri
   }
   let s: AppData = { ...m.state, reservations: { ...m.state.reservations, [m.id]: reservation } }
   const blind = blindBuyerText(toBlindBuyer(p))
-  const ownerOrgId = ownerOrgOfLot(s.world, lot)
+  const ownerOrgId = sellerOrgOfLotIn(s.world, lot)
   const item2 = s.world.items[lot.itemId]
   s = log(s, { at: a.now, orgIds: [p.clientOrgId, p.architectOrgId, linkedConsultantOrgId(p)], projectId, buildingId: null, actorUserId: a.user.id, actor: a.user.name, text: `requested a reservation of ${listing.title}`, href: `/app/projects/${projectId}/reservations` })
   if (ownerOrgId) {
@@ -88,7 +88,7 @@ export function withdrawReservation(state: AppData, actor: Actor, reservationId:
   const lot = s.world.lots[r.lotId]
   const listing = listingOf(s.world, lot)
   const item = s.world.items[lot.itemId]
-  const ownerOrgId = ownerOrgOfLot(s.world, lot)
+  const ownerOrgId = sellerOrgOfLotIn(s.world, lot)
   s = log(s, { at: a.now, orgIds: [p.clientOrgId, p.architectOrgId, linkedConsultantOrgId(p)], projectId: p.id, buildingId: null, actorUserId: a.user.id, actor: a.user.name, text: `withdrew the reservation request for ${listing.title}`, href: `/app/projects/${p.id}/reservations` })
   if (ownerOrgId) {
     s = log(s, { at: a.now, orgIds: [ownerOrgId], projectId: null, buildingId: item.buildingId, actorUserId: null, actor: 'A buyer', text: `withdrew a reservation request for ${item.tag}`, href: '/app/requests' })
@@ -120,7 +120,7 @@ export function decideReservation(state: AppData, actor: Actor, reservationId: s
   if (!r) return fail(state, RESERVATION_ERRORS.noReservation)
   const lot = state.world.lots[r.lotId]
   const item = lot ? state.world.items[lot.itemId] : null
-  if (!lot || !item || !isBuildingOwner(state, actor.userId, item.buildingId)) return fail(state, ERRORS.role)
+  if (!lot || !item || !canSellIn(state, actor.userId, item.buildingId)) return fail(state, ERRORS.role)
   if (r.status !== 'pending') return fail(state, RESERVATION_ERRORS.notPending)
   if (decision === 'accepted' && acceptedReservation(state, lot.id)) return fail(state, RESERVATION_ERRORS.reservedElsewhere)
   const text = clean(note, 1000)

@@ -53,3 +53,43 @@ Decisions taken while building round 3 (`BRIEF.md` section 15), with the reason 
 - **Seeded audits use fixed IDs** (`aud_tiv_pra`, `aud_tiv_pda`, `aud_har_pda`). They add no notification or activity line, so earlier counts on the homes and the inbox are unchanged.
 - **The independent reviewer of the Tiverne House options** is a new fictional name pair in `names.ts`: Nadia Orrin of Ellery Carbon Review.
 - `SEED_REVISION` is now 2.
+
+## Stage 3
+
+- **The contractor's records sit in their own store key, `contractorWork`.** It holds, for each building, the methods and the destination log, plus each firm's carrier register.
+  - The records belong to the contractor the building has now. A new contractor starts with an empty log; the old one's records stay stored, unread.
+  - The owner reads Destinations. The surveyor does not.
+  - Buyers see neither. `contractorWorkPrivateStrings` is checked against every buyer view.
+- **The destination log uses the demolition bill's own destinations** (reused, recycled, recovered, landfill, hazardous disposal), so the consultant's waste engine and the contractor's log speak the same words.
+- **Shares are over non-hazardous tonnes**, as the London Plan target reads. Hazardous tonnes are shown on their own.
+  - "Reused, recycled or recovered" counts everything but landfill and hazardous disposal.
+- **The forecast from the audit splits each reuse line by its reusable share.**
+  - The reusable part is reused on site or elsewhere, as its route says. The rest is recycled.
+  - Waste lines go to landfill, or to hazardous disposal when the waste code is asbestos or the element is hazardous material removal.
+- **Duty of care checks are indicative.** English waste law is not in the reference folder.
+  - Each moved stream of waste needs:
+    - an upper tier carrier, with a registration that was in date when the stream moved;
+    - a receiving site, with its permit or exemption;
+    - a transfer note, or a consignment note for hazardous waste.
+  - Reused material is not waste, so it needs none of these.
+- **The true cost of waste follows the site waste calculator's method.** Per tonne: handling, haulage, the receiving site's fee and landfill tax, rounded to pence as each amount is made, then VAT on the total.
+  - Demolition arisings carry no purchase cost, as the calculator says.
+  - Handling, haulage and fees are placeholders.
+  - Landfill tax is £126.15 standard and £4.05 for inert codes, from 1 April 2025. It is indicative, to confirm against the current year.
+  - Hazardous disposal pays the standard rate.
+  - The two published site studies are cited as context, without the firms' names.
+- **Title to the arisings is held at building level.** It uses the existing `arisingsTitle` field, which already drove the public seller type.
+  - The seller is the owner, or the contractor once the owner passes title.
+  - The seller sets visibility, the disclosure settings and public photos; answers requests; and shares with projects.
+  - The owner keeps the building, its records and its audits.
+- **Title passes only while no request waits**, so no buyer is left waiting on the wrong seller.
+  - Decided requests stay with the organisation that decided them. A buyer's contact never passes to a later seller.
+  - The projects the owner shared with keep their access: the contractor is added to their approvals.
+- **While the contractor holds title it cannot be replaced.** The owner takes title back first.
+- **The contractor's method shows on the item's page for the owner and the surveyor.** The owner gets no Method tab, which keeps the owner's tabs to nine.
+- **Seeded records use fixed IDs.**
+  - Fennick's three carriers include one lower tier carrier whose registration has expired, so the register shows its warning.
+  - There are methods for ten of the eleven Tiverne House items. The bricks are broken out.
+  - The destination forecast comes from the seeded audit. The asbestos stream is already weighed out, with its papers complete.
+  - No notification or activity line is seeded.
+- `SEED_REVISION` is now 3.

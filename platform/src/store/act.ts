@@ -17,6 +17,7 @@ import * as links from './actions/links'
 import * as sustainability from './actions/sustainability'
 import * as buildingRequirements from './actions/buildingRequirements'
 import * as audits from './actions/audits'
+import * as contractorWork from './actions/contractorWork'
 
 function bind<V, A extends unknown[]>(fn: (s: AppData, actor: Actor, ...args: A) => ActionResult<V>): (...args: A) => Outcome<V> {
   return (...args: A) => useApp.getState().run(fn, ...args)
@@ -126,6 +127,14 @@ export const act = {
   completeAudit: bind(audits.completeAudit),
   reopenAudit: bind(audits.reopenAudit),
   createListingsFromAudit: bind(audits.createListingsFromAudit),
+  // The deconstruction contractor's workspace, and title to the arisings
+  setItemMethod: bind(contractorWork.setItemMethod),
+  saveDestination: bind(contractorWork.saveDestination),
+  removeDestination: bind(contractorWork.removeDestination),
+  forecastDestinationsFromAudit: bind(contractorWork.forecastDestinationsFromAudit),
+  saveCarrier: bind(contractorWork.saveCarrier),
+  removeCarrier: bind(contractorWork.removeCarrier),
+  setArisingsTitle: bind(contractorWork.setArisingsTitle),
   // Team, profile, organisation and notifications
   createInvite: bind(team.createInvite),
   revokeInvite: bind(team.revokeInvite),

@@ -9,8 +9,9 @@ import { createSurveyBuilding } from '../store/actions/claims'
 import { FENNICK_ID, TIVERNE_LINK_ID } from '../sandbox/seed-owner-surveyor'
 import { dateFormats } from '../domain/dates'
 import type { AppData, Viewer } from '../store/types'
-import { auditPrivateStrings, lotPrivateStrings, projectPrivateStrings, INTERNAL_ID } from '../domain/privacy/privateStrings'
+import { auditPrivateStrings, contractorWorkPrivateStrings, lotPrivateStrings, projectPrivateStrings, INTERNAL_ID } from '../domain/privacy/privateStrings'
 import { createListingsFromAudit } from '../store/actions/audits'
+import { setArisingsTitle, workFor } from '../store/actions/contractorWork'
 import { SEEDED_AUDIT_IDS } from '../sandbox/seed-v3'
 import type { PreDemolitionAudit } from '../domain/auditTypes'
 import { HARROWDEN_ID, itemByTag, lotForItem, MERROWGATE_ID, ORG_IDS, SALLOW_ID, TIVERNE_ID } from '../domain/seed/world'
@@ -604,5 +605,62 @@ describe('P3, round 3: the audits of a donor building stay with the building', (
     expect(sel.routeAccess(s, v, `/app/buildings/${TIVERNE_ID}/audits/${SEEDED_AUDIT_IDS.tiverneDeconstruction}`)).toBe('ok')
     // An audit of another building never opens under this one.
     expect(sel.routeAccess(s, viewer(U.tom), `/app/buildings/${TIVERNE_ID}/audits/${SEEDED_AUDIT_IDS.harrowdenDeconstruction}`)).toBe('forbidden')
+  })
+})
+
+describe('P3, round 3: the contractor workspace and title to the arisings', () => {
+  const buyers = [['Priya', U.priya], ['Isla', U.isla], ['Marcus', U.marcus]] as const
+
+  function titled(): AppData {
+    let s = fresh()
+    const waiting = Object.values(s.reservations).find((r) => r.status === 'pending')!
+    s = must(decideReservation(s, actor(U.tom), waiting.id, 'declined', '')).state
+    return must(setArisingsTitle(s, actor(U.tom), TIVERNE_ID, 'contractor')).state
+  }
+
+  it("no buyer view holds the contractor's methods, papers or carrier registrations", () => {
+    const s = fresh()
+    const work = workFor(s, TIVERNE_ID)!
+    const strings = contractorWorkPrivateStrings(work, s.contractorWork.carriers[FENNICK_ID])
+    expect(strings.length).toBeGreaterThan(10)
+    for (const [who, id] of buyers) {
+      expectNone(buyerViews(s, viewer(id)), strings, who)
+      expect(sel.destinationsView(s, viewer(id), TIVERNE_ID), who).toBeNull()
+      expect(sel.methodView(s, viewer(id), TIVERNE_ID), who).toBeNull()
+    }
+  })
+
+  it('a contractor selling under title sees the buyer as a blind line until it accepts', () => {
+    let s = titled()
+    const lot = lotForItem(s.world, itemByTag(s.world, 'TH-02').id)
+    const wished = projectWishlist(s.world, MERROWGATE_ID)!.items.find((x) => x.publicId === lot.publicId)!
+    s = must(requestReservation(s, actor(U.isla), MERROWGATE_ID, wished.id, 'For the upper floors.')).state
+    const v = viewer(U.kofi)
+    const views: [string, unknown][] = [
+      ['requests', sel.requestsView(s, v)],
+      ['listings', sel.listingsView(s, v, TIVERNE_ID)],
+      ['sharing', sel.sharingView(s, v)],
+      ['nav', sel.navModel(s, v)],
+      ['inbox', sel.inboxView(s, v)],
+      ['activity', sel.activityFor(s, v, {}, 500)],
+      ['home', sel.contractorDashboard(s, v)],
+      ['method', sel.methodView(s, v, TIVERNE_ID)],
+      ['destinations', sel.destinationsView(s, v, TIVERNE_ID)],
+      ['carriers', sel.carriersView(s, v)],
+    ]
+    expect(sel.requestsView(s, v)!.pending).toHaveLength(1)
+    expectNone(views, allProjectStrings(s), 'Kofi')
+    expect(JSON.stringify(sel.requestsView(s, v))).not.toContain('For the upper floors.')
+    // The buying side still never sees the seller: the listing says only what kind of firm sells it.
+    const listing = listingOf(s.world, lot)
+    expect(listing.sellerType).toBe('Deconstruction contractor')
+    for (const [who, id] of buyers) expectNone(buyerViews(s, viewer(id)), allLotStrings(s), who)
+  })
+
+  it('the owner reads no request the contractor answers, and the contractor none the owner decided', () => {
+    const s = titled()
+    const decided = Object.values(s.reservations).find((r) => r.status === 'declined')!
+    expect(sel.requestsView(s, viewer(U.kofi))!.decided.map((r) => r.id)).not.toContain(decided.id)
+    expect(sel.requestsView(s, viewer(U.tom))!.decided.map((r) => r.id)).toContain(decided.id)
   })
 })

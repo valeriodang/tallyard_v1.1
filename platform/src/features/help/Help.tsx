@@ -84,7 +84,7 @@ const GUIDES: Record<PlatformRole, { title: string; intro: string; steps: Step[]
       { icon: Building2, title: 'Add a building and appoint a surveyor', text: 'The surveyor captures each item. You are told as items arrive and when the survey is submitted.', href: '/app/buildings', cta: 'Buildings' },
       { icon: ClipboardCheck, title: 'Audit the building', text: 'On Audits, the pre-redevelopment audit asks whether the building can be kept and compares the carbon of each option. The pre-deconstruction audit lists what comes out and where it goes, and lists reusable lines early.' },
       { icon: ListOrdered, title: 'Decide what to recover', text: 'The recovery plan ranks items by net value, avoided carbon, demand and ease, with their route on the UK decision tree.' },
-      { icon: Share2, title: 'Share or publish', text: 'Keep a lot private, share it in confidence with projects you choose, or publish it. Set the ask, the reserve and the date.' },
+      { icon: Share2, title: 'Share or publish', text: 'Keep a lot private, share it in confidence with projects you choose, or publish it. Set the ask, the reserve and the date. Or pass title to the arisings to your deconstruction contractor on Listings, and it sells instead.' },
       { icon: Handshake, title: 'Answer requests', text: 'Buyers stay anonymous until you accept. Accepting holds the lot and exchanges contacts.', href: '/app/requests', cta: 'Requests' },
     ],
   },
@@ -105,7 +105,8 @@ const GUIDES: Record<PlatformRole, { title: string; intro: string; steps: Step[]
       { icon: HardHat, title: 'Your buildings', text: 'An owner or their surveyor appoints your firm to a building, or invites you by email. Each building shows its programme and what its survey holds.', href: '/app/home', cta: 'Home' },
       { icon: Timer, title: 'Say when each item comes out', text: 'On Availability, set the month you expect each item to be free. The owner applies the dates they agree with and decides what buyers see.' },
       { icon: ClipboardCheck, title: 'Read the audit', text: 'On Audits, the pre-deconstruction audit lists what comes out, the hazards to deal with first and the route for every reusable line.' },
-      { icon: Recycle, title: 'Record where it goes', text: 'Record the method for each item and where every stream goes, with the carrier and the transfer note, so the owner can show what was reused against what was forecast.' },
+      { icon: Recycle, title: 'Record where it goes', text: 'On Method, say how each item comes out. On Destinations, forecast every stream from the audit, then log what was weighed out with the carrier, the receiving site and the transfer note. The true cost of waste follows.' },
+      { icon: Handshake, title: 'Sell under title', text: 'When the owner passes title to the arisings to your firm, you list what comes out, share it with projects and answer requests on Requests. Buyers stay anonymous until you accept.' },
     ],
   },
   consultant: {

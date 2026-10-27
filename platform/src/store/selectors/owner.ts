@@ -26,7 +26,8 @@ import { titleFor } from '../../domain/reference/families'
 import type { Disclosure } from '../../domain/engines/disclosure'
 import * as f from '../../domain/format'
 import type { AppData, ReservationStatus, SurveyStatus, Viewer } from '../types'
-import { buildingSide, buildingsOfUser, canBeContractor, isBuildingContractor, projectSide, projectsOfUser, roleOfOrg, roleOfUser, type BuildingSide } from '../access'
+import { buildingSide, buildingsOfUser, buildingsSoldBy, canBeContractor, canSellIn, contractorHoldsTitle, isBuildingContractor, projectSide, projectsOfUser, roleOfOrg, roleOfUser, type BuildingSide } from '../access'
+import { sellerOrgOfLot } from '../../domain/visibility'
 import { acceptedReservation, lotOfItem, projectWishlist } from '../lots'
 import { checkPrices, disclosureWith, type LotVisibilityChoice, type PriceCheck } from '../actions/owner'
 import { PROJECT_TYPES } from '../actions/projects'
@@ -34,6 +35,7 @@ import { datesClearedText } from '../actions/contractor'
 import { claimRowsForOwner, claimStateFor, type ClaimRow, type ClaimState } from './claims'
 import { activitySummary, type ActivitySummary } from './dashboard'
 import { buildingRequirementsRollup } from './buildingRequirements'
+import { itemMethodText } from './contractorWork'
 import { activityFor, firstName, greeting, listingCard, longDate, RESERVATION_STATUS_LABELS, stageLabel, timeAgo, todayOf, type ActivityRow, type ListingCard } from './common'
 
 export const SURVEY_STATUS_LABELS: Record<SurveyStatus, string> = { not_started: 'Not started', in_progress: 'In progress', submitted: 'Submitted' }
@@ -70,26 +72,33 @@ export const NEW_PROJECT = 'New project'
  * the surveyor both track the requirements that apply before demolition. A surveying firm that is also the
  * building's deconstruction contractor gets Availability too; a contractor alone, Overview and Availability.
  */
-export function buildingTabs(side: BuildingSide, buildingId: string, opts: { contractor: boolean } = { contractor: false }): BuildingTab[] {
+/**
+ * The tabs of a building for each side. `contractor` is set when the viewer's firm is the building's deconstruction
+ * contractor; `sells` (round 3) when that firm also holds title to the arisings, so it lists and shares them.
+ */
+export function buildingTabs(side: BuildingSide, buildingId: string, opts: { contractor: boolean; sells?: boolean } = { contractor: false }): BuildingTab[] {
   const base = `/app/buildings/${buildingId}`
   const tab = (id: string, label: string, path: string): BuildingTab => ({ id, label, href: `${base}${path}` })
-  if (side === 'owner') return [tab('overview', 'Overview', ''), tab('inventory', 'Inventory', '/inventory'), tab('audits', 'Audits', '/audits'), tab('priorities', 'Recovery plan', '/priorities'), tab('listings', 'Listings', '/listings'), tab('sharing', 'Sharing', '/sharing'), tab('testing', 'Testing', '/testing'), tab('requirements', 'Requirements', '/requirements')]
-  if (side === 'contractor') return [tab('overview', 'Overview', ''), tab('availability', 'Availability', '/availability'), tab('audits', 'Audits', '/audits')]
-  return [tab('overview', 'Overview', ''), tab('capture', 'Capture', '/capture'), tab('inventory', 'Inventory', '/inventory'), tab('audits', 'Audits', '/audits'), tab('testing', 'Testing', '/testing'), tab('requirements', 'Requirements', '/requirements'), ...(opts.contractor ? [tab('availability', 'Availability', '/availability')] : [])]
+  const contractorTabs = [tab('availability', 'Availability', '/availability'), tab('method', 'Method', '/method'), tab('destinations', 'Destinations', '/destinations')]
+  const sellerTabs = opts.sells ? [tab('listings', 'Listings', '/listings'), tab('sharing', 'Sharing', '/sharing')] : []
+  if (side === 'owner') return [tab('overview', 'Overview', ''), tab('inventory', 'Inventory', '/inventory'), tab('audits', 'Audits', '/audits'), tab('priorities', 'Recovery plan', '/priorities'), tab('listings', 'Listings', '/listings'), tab('sharing', 'Sharing', '/sharing'), tab('testing', 'Testing', '/testing'), tab('destinations', 'Destinations', '/destinations'), tab('requirements', 'Requirements', '/requirements')]
+  if (side === 'contractor') return [tab('overview', 'Overview', ''), ...contractorTabs, tab('audits', 'Audits', '/audits'), ...sellerTabs]
+  return [tab('overview', 'Overview', ''), tab('capture', 'Capture', '/capture'), tab('inventory', 'Inventory', '/inventory'), tab('audits', 'Audits', '/audits'), tab('testing', 'Testing', '/testing'), tab('requirements', 'Requirements', '/requirements'), ...(opts.contractor ? [...contractorTabs, ...sellerTabs] : [])]
 }
 
 export type BadgedBuildingTab = BuildingTab & { badge: number | null }
 
 /** The tabs with their badges: the Requirements tab counts the requirements at risk, as a project's tab does. */
 export function badgedBuildingTabs(state: AppData, b: SourceBuilding, side: BuildingSide, opts: { contractor: boolean }): BadgedBuildingTab[] {
-  const tabs = buildingTabs(side, b.id, opts)
+  const tabs = buildingTabs(side, b.id, { ...opts, sells: opts.contractor && contractorHoldsTitle(b) })
   const atRisk = tabs.some((t) => t.id === 'requirements') ? buildingRequirementsRollup(state, b).atRisk : 0
   return tabs.map((t) => ({ ...t, badge: t.id === 'requirements' && atRisk > 0 ? atRisk : null }))
 }
 
 /** The tabs the viewer gets on a building, from their side and whether their firm is its contractor. */
 export function tabsFor(state: AppData, viewer: Viewer, b: SourceBuilding, side: BuildingSide): BuildingTab[] {
-  return buildingTabs(side, b.id, { contractor: isBuildingContractor(state, viewer.userId, b.id) })
+  const contractor = isBuildingContractor(state, viewer.userId, b.id)
+  return buildingTabs(side, b.id, { contractor, sells: contractor && canSellIn(state, viewer.userId, b.id) })
 }
 
 export type BuildingRef = {
@@ -287,16 +296,27 @@ function ownerOrg(state: AppData, viewer: Viewer): string | null {
   return roleOfUser(state, viewer.userId) === 'owner' ? (state.users[viewer.userId]?.orgId ?? null) : null
 }
 
+/** The viewer's organisation when it sells: every owner, and (round 3) a contractor holding title to a building's arisings. */
+export function sellerOrg(state: AppData, viewer: Viewer): string | null {
+  if (ownerOrg(state, viewer)) return ownerOrg(state, viewer)
+  return buildingsSoldBy(state, viewer.userId).length > 0 ? (state.users[viewer.userId]?.orgId ?? null) : null
+}
+
+/**
+ * Whose request this is to answer or read: a waiting request goes to whoever sells the lot now; a decided one stays
+ * with the organisation that decided it, so a buyer's contact never passes to a later seller.
+ */
+function requestOrgOf(state: AppData, r: AppData['reservations'][string]): string | null {
+  if (r.status !== 'pending' && r.decidedByUserId) return state.users[r.decidedByUserId]?.orgId ?? null
+  return sellerOrgOfLot(state.world, r.lotId)
+}
+
 export function requestRows(state: AppData, viewer: Viewer): RequestRow[] {
-  const orgId = ownerOrg(state, viewer)
+  const orgId = sellerOrg(state, viewer)
   if (!orgId) return []
   const today = todayOf(viewer)
   return Object.values(state.reservations)
-    .filter((r) => {
-      const lot = state.world.lots[r.lotId]
-      const item = lot ? state.world.items[lot.itemId] : null
-      return !!item && state.world.buildings[item.buildingId]?.ownerOrgId === orgId && r.status !== 'withdrawn'
-    })
+    .filter((r) => r.status !== 'withdrawn' && !!state.world.lots[r.lotId] && requestOrgOf(state, r) === orgId)
     .sort((a, b) => (a.requestedAt < b.requestedAt ? 1 : -1))
     .map((r) => {
       const lot = state.world.lots[r.lotId]
@@ -334,7 +354,7 @@ export function requestRows(state: AppData, viewer: Viewer): RequestRow[] {
 export type RequestsView = { pending: RequestRow[]; decided: RequestRow[]; empty: boolean }
 
 export function requestsView(state: AppData, viewer: Viewer): RequestsView | null {
-  if (!ownerOrg(state, viewer)) return null
+  if (!sellerOrg(state, viewer)) return null
   const rows = requestRows(state, viewer)
   return { pending: rows.filter((r) => r.status === 'pending'), decided: rows.filter((r) => r.status !== 'pending'), empty: rows.length === 0 }
 }
@@ -663,8 +683,14 @@ export type ItemDetail = {
   /** Grades and the expected date can change while the lot is private. */
   canEditGrades: boolean
   canEditNotes: boolean
+  /** How the contractor takes it out (round 3), or null until the contractor says. */
+  methodText: string | null
   /** Owner only from here. */
   owner: {
+    /** The owner sells it; false once title has passed to the contractor (round 3). */
+    sells: boolean
+    /** Who sells it instead, when the owner does not. */
+    sellerText: string | null
     visibility: Visibility
     visibilityLabel: string
     availableFrom: string | null
@@ -693,7 +719,11 @@ export function itemDetail(state: AppData, viewer: Viewer, buildingId: string, i
     const row = priorityFor(state, buildingId).rows.find((r) => r.itemId === itemId)
     const route = decisionTreeRoute(item.family, row?.route ?? 'recover')
     const preview = listingCard(state, previewListing(state, lot, lot.visibility === 'matched_only' ? 'matched_only' : 'open', null, today), null, today)
+    const sells = canSellIn(state, viewer.userId, buildingId)
+    const b = state.world.buildings[buildingId]
     owner = {
+      sells,
+      sellerText: sells ? null : `${b.contractorOrgId ? (state.world.orgs[b.contractorOrgId]?.name ?? 'Your contractor') : 'Your contractor'} holds title to the arisings and lists this item.`,
       visibility: lot.visibility,
       visibilityLabel: OWNER_VISIBILITY_LABELS[lot.visibility],
       availableFrom: lot.availableFrom,
@@ -710,7 +740,7 @@ export function itemDetail(state: AppData, viewer: Viewer, buildingId: string, i
         contractorText: item.contractorAvailableFrom ? formatMonth(item.contractorAvailableFrom) : 'Not set',
         contractorDatedOn: item.contractorDatedOn,
         buyersSeeText: preview.availabilityText,
-        canUseContractor: contractorApplies(state, item, lot),
+        canUseContractor: sells && contractorApplies(state, item, lot),
       },
     }
   }
@@ -729,6 +759,7 @@ export function itemDetail(state: AppData, viewer: Viewer, buildingId: string, i
     photos: item.photos.map((p) => ({ id: p.id, src: p.src, kind: p.kind, isPublic: p.isPublic })),
     canEditGrades: lot.visibility === 'private',
     canEditNotes: true,
+    methodText: itemMethodText(state, itemId),
     owner,
   }
 }
@@ -802,8 +833,43 @@ export type ListingRow = {
   canChange: boolean
 }
 
+/** Who holds title to the building's arisings, and what the viewer can do about it (round 3). */
+export type TitleView = {
+  holder: 'owner' | 'contractor'
+  text: string
+  contractorName: string | null
+  /** The owner may pass title to the appointed contractor now. */
+  canPass: boolean
+  /** The owner may take title back now. */
+  canTakeBack: boolean
+  /** Why neither is open to the owner, when one would be. */
+  blockedText: string | null
+}
+
+function titleView(state: AppData, b: SourceBuilding, side: BuildingSide): TitleView {
+  const holder = contractorHoldsTitle(b) ? 'contractor' : 'owner'
+  const contractorName = b.contractorOrgId ? (state.world.orgs[b.contractorOrgId]?.name ?? null) : null
+  const ownerName = b.ownerOrgId ? (state.world.orgs[b.ownerOrgId]?.name ?? 'The owner') : 'The owner'
+  const lots = new Set(Object.values(state.world.lots).filter((l) => state.world.items[l.itemId]?.buildingId === b.id).map((l) => l.id))
+  const waiting = Object.values(state.reservations).some((r) => lots.has(r.lotId) && r.status === 'pending')
+  const owner = side === 'owner'
+  const text =
+    holder === 'owner'
+      ? owner
+        ? 'You hold title to the arisings: you list and sell what comes out. You can pass title to your deconstruction contractor, who then lists and sells instead.'
+        : `${ownerName} holds title to the arisings and decides what buyers see.`
+      : owner
+        ? `${contractorName} holds title to the arisings: it lists and sells what comes out, and answers requests. You read the listings here.`
+        : `${ownerName} passed title to the arisings to your firm: you list and sell what comes out. Buyers stay anonymous until you accept a request.`
+  const blockedText = !owner ? null : waiting ? 'Answer the open requests first, so no buyer is left waiting on the wrong seller.' : holder === 'owner' && !b.contractorOrgId ? 'Appoint a deconstruction contractor on Overview to pass title to it.' : null
+  return { holder, text, contractorName, canPass: owner && holder === 'owner' && !!b.contractorOrgId && !waiting, canTakeBack: owner && holder === 'contractor' && !waiting, blockedText }
+}
+
 export type ListingsView = {
   header: BuildingRef
+  title: TitleView
+  /** The viewer sells here and so may change the lots. */
+  sells: boolean
   locationLevel: SourceBuilding['locationLevel']
   timingLevel: SourceBuilding['timingLevel']
   disclosure: Disclosure
@@ -816,7 +882,9 @@ export type ListingsView = {
 
 export function listingsView(state: AppData, viewer: Viewer, buildingId: string): ListingsView | null {
   const header = buildingHeader(state, viewer, buildingId)
-  if (!header || header.side !== 'owner') return null
+  if (!header) return null
+  const sells = canSellIn(state, viewer.userId, buildingId)
+  if (header.side !== 'owner' && !sells) return null
   const b = state.world.buildings[buildingId]
   const today = todayOf(viewer)
   const orgId = state.users[viewer.userId].orgId
@@ -842,11 +910,13 @@ export function listingsView(state: AppData, viewer: Viewer, buildingId: string)
       availableFrom: lot.availableFrom,
       expectedText: item.expectedAvailableFrom ? formatMonth(item.expectedAvailableFrom) : 'Not set',
       reserved,
-      canChange: !reserved,
+      canChange: !reserved && sells,
     }
   })
   return {
     header,
+    title: titleView(state, b, header.side),
+    sells,
     locationLevel: b.locationLevel,
     timingLevel: b.timingLevel,
     disclosure: disclosureWith(state, buildingId, null),
@@ -876,7 +946,7 @@ export type ListingDraftView = {
 export function listingDraftView(state: AppData, viewer: Viewer, lotId: string, draft: ListingDraft): ListingDraftView | null {
   const lot = state.world.lots[lotId]
   const item = lot ? state.world.items[lot.itemId] : null
-  if (!lot || !item || buildingSide(state, viewer.userId, item.buildingId) !== 'owner') return null
+  if (!lot || !item || !canSellIn(state, viewer.userId, item.buildingId)) return null
   const today = todayOf(viewer)
   const target: Visibility = draft.visibility === 'published' ? 'open' : draft.visibility === 'shared' ? 'matched_only' : 'private'
   const prices = draft.visibility === 'private' ? { ask: NaN, reserve: NaN, valid: true, problem: null } : checkPrices(draft.ask.trim() === '' ? NaN : Number(draft.ask), draft.reserve.trim() === '' ? NaN : Number(draft.reserve), item.family)
@@ -892,7 +962,7 @@ export function listingDraftView(state: AppData, viewer: Viewer, lotId: string, 
 
 /** The disclosure score with trial settings, before the owner saves them. */
 export function disclosurePreview(state: AppData, viewer: Viewer, buildingId: string, override: { locationLevel?: SourceBuilding['locationLevel']; timingLevel?: SourceBuilding['timingLevel'] }): Disclosure | null {
-  if (buildingSide(state, viewer.userId, buildingId) !== 'owner') return null
+  if (!canSellIn(state, viewer.userId, buildingId)) return null
   return disclosureWith(state, buildingId, null, override)
 }
 
@@ -904,7 +974,7 @@ export type SharingView = { rows: SharingRow[]; sharedLotCount: number; grantedC
 
 /** Every other project on the platform as a blind line, and whether the owner shares lots with it. */
 export function sharingView(state: AppData, viewer: Viewer): SharingView | null {
-  const orgId = ownerOrg(state, viewer)
+  const orgId = sellerOrg(state, viewer)
   if (!orgId) return null
   const rows = Object.values(state.world.projects)
     .filter((p) => p.clientOrgId !== orgId && p.architectOrgId !== orgId)
@@ -912,7 +982,7 @@ export function sharingView(state: AppData, viewer: Viewer): SharingView | null 
       const blind = toBlindBuyer(p)
       return { projectId: p.id, text: blindBuyerText(blind), orgType: blind.orgType, projectType: blind.projectType, region: blind.region, needByQuarter: blind.needByQuarter, granted: p.approvedByOwnerOrgIds.includes(orgId) }
     })
-  const sharedLotCount = Object.values(state.world.lots).filter((l) => l.visibility === 'matched_only' && state.world.buildings[state.world.items[l.itemId].buildingId]?.ownerOrgId === orgId).length
+  const sharedLotCount = Object.values(state.world.lots).filter((l) => l.visibility === 'matched_only' && sellerOrgOfLot(state.world, l.id) === orgId).length
   return { rows, sharedLotCount, grantedCount: rows.filter((r) => r.granted).length, empty: rows.length === 0 }
 }
 

@@ -71,5 +71,10 @@ scripts/               scan.mjs, make-samples.mjs, make-photo-fixture.mjs, shots
      - The pre-redevelopment audit has the six factors, the GLA decision tree, the City carbon options with the retrofit test and an independent reviewer.
      - The pre-deconstruction audit has the desk study, the hazard screen, three inventories with scores, routes and condition bands, the targets, and listing reusable lines early.
      - Both have checks against the London guidance and a workbook export.
+   - Stage 3 is done: the contractor workspace.
+     - Method tab: how each item comes out.
+     - Destinations tab: forecast from the audit, then weighed out, with the duty of care papers and the true cost of waste.
+     - The firm's carrier register.
+     - Title to the arisings: the owner can pass it to the contractor, which then lists, shares and answers requests as the seller.
    - Test changes are logged in `platform/feedback/r3-test-changes-*.md` and decisions in `platform/feedback/r3-decisions.md`.
 5. Literature review of `reference literature/` done (27 October 2026): `reports/Tallyard literature review.md`, notes in `research_notes/Literature review/`. It recommends reference-value updates and ranks 17 features; none is built until the user chooses. Eight later documents (D53 to D60) are reviewed in note 08 with the updated gap status.

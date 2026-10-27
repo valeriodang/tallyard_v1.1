@@ -2,7 +2,7 @@
 import { DEFAULT_NAV_PROJECT_VIEW, type AppData, type NavProjectView, type PlatformRole, type Viewer } from '../types'
 import type { Project } from '../../domain/types'
 import { MARKETPLACE_PATH } from '../paths'
-import { buildingSide, buildingsOfUser, canCaptureIn, canReadAudit, canOpenEngagement, isBuildingContractor, isProjectClient, orgOfUser, projectSide, projectsOfUser, roleOfUser } from '../access'
+import { buildingSide, buildingsOfUser, buildingsSoldBy, canCaptureIn, canReadAudit, canOpenEngagement, canSellIn, isBuildingContractor, isProjectClient, orgOfUser, projectSide, projectsOfUser, roleOfUser } from '../access'
 import { orgTypeLabel, ROLE_LABELS } from '../../sandbox/accounts'
 import { projectWishlist } from '../lots'
 import { initials } from './common'
@@ -14,6 +14,7 @@ import { pendingClaimCount } from './claims'
 import { engagementsOf } from './consultant'
 import { unreadCount } from './notifications'
 import { materialView } from './discover'
+import { sellerOrgOfLot } from '../../domain/visibility'
 import { arrangeNavProjects, type ArrangedProjects } from './nav-projects'
 
 /** Icon names from lucide-react; the shell maps them to components. */
@@ -116,12 +117,12 @@ export function ownerHasClientProject(state: AppData, userId: string): boolean {
 }
 
 function pendingRequests(state: AppData, orgId: string): number {
-  return Object.values(state.reservations).filter((r) => {
-    if (r.status !== 'pending') return false
-    const lot = state.world.lots[r.lotId]
-    const it = lot ? state.world.items[lot.itemId] : null
-    return !!it && state.world.buildings[it.buildingId]?.ownerOrgId === orgId
-  }).length
+  return Object.values(state.reservations).filter((r) => r.status === 'pending' && sellerOrgOfLot(state.world, r.lotId) === orgId).length
+}
+
+/** Requests, for a contractor or a surveying firm while it holds title to a building's arisings (round 3). */
+function sellerRequestsItem(state: AppData, viewer: Viewer, orgId: string): NavItem[] {
+  return buildingsSoldBy(state, viewer.userId).length > 0 ? [item('requests', 'Requests', '/app/requests', 'Inbox', { badge: badge(pendingRequests(state, orgId)) })] : []
 }
 
 export function navModel(state: AppData, viewer: Viewer): NavModel | null {
@@ -204,11 +205,15 @@ export function navModel(state: AppData, viewer: Viewer): NavModel | null {
         ...(datesOnly ? [] : [item('new-building', 'Add building', '/app/buildings?new=1', 'Plus')]),
       ],
     })
+    const trade = sellerRequestsItem(state, viewer, org.id)
+    if (trade.length > 0) sections.push(navSection('trade', null, trade))
   } else if (role === 'contractor') {
     // Round 3: a deconstruction contractor reads the buildings it is appointed to, each with the contractor tabs.
     const buildings = buildingsOfUser(state, viewer.userId).filter((b) => buildingSide(state, viewer.userId, b.id) === 'contractor')
     sections.push(navSection('main', null, [item('home', 'Home', '/app/home', 'House')]))
     sections.push(navSection('buildings', 'Appointed buildings', buildings.map((b) => item(`building-${b.id}`, b.name, `/app/buildings/${b.id}`, 'Building2', { children: badgedBuildingTabs(state, b, 'contractor', { contractor: true }).map((t) => item(`building-${b.id}-${t.id}`, t.label, t.href, null, { badge: t.badge })) }))))
+    const trade = sellerRequestsItem(state, viewer, org.id)
+    if (trade.length > 0) sections.push(navSection('trade', null, trade))
   } else {
     sections.push(navSection('main', null, [item('home', 'Home', '/app/home', 'House')]))
     const a = arranged(projects.filter((p) => projectSide(state, viewer.userId, p.id) === 'consultant'))
@@ -282,7 +287,7 @@ export function routeAccess(state: AppData, viewer: Viewer, pathname: string): R
     const side = buildingSide(state, viewer.userId, id)
     if (!side) return 'forbidden'
     if (tab === undefined) return 'ok'
-    if (!['inventory', 'capture', 'priorities', 'listings', 'sharing', 'testing', 'requirements', 'availability', 'audits', 'activity'].includes(tab)) return 'not_found'
+    if (!['inventory', 'capture', 'priorities', 'listings', 'sharing', 'testing', 'requirements', 'availability', 'audits', 'method', 'destinations', 'activity'].includes(tab)) return 'not_found'
     // Everyone with a side on the building reads its activity, filtered to what their organisation may read.
     if (tab === 'activity') return sub === undefined ? 'ok' : 'not_found'
     // Round 3: every side reads the building's audits; the owner and the surveyor write them.
@@ -300,10 +305,15 @@ export function routeAccess(state: AppData, viewer: Viewer, pathname: string): R
     }
     if (sub !== undefined) return 'not_found'
     if (tab === 'inventory' || tab === 'capture' || tab === 'testing' || tab === 'requirements') return records ? 'ok' : 'forbidden'
-    if (tab === 'availability') return isBuildingContractor(state, viewer.userId, id) ? 'ok' : 'forbidden'
+    if (tab === 'availability' || tab === 'method') return isBuildingContractor(state, viewer.userId, id) ? 'ok' : 'forbidden'
+    // Round 3: the destination log is the contractor's to write and the owner's to read.
+    if (tab === 'destinations') return side === 'owner' || isBuildingContractor(state, viewer.userId, id) ? 'ok' : 'forbidden'
+    // Round 3: a contractor holding title to the arisings lists and shares them.
+    if (tab === 'listings' || tab === 'sharing') return side === 'owner' || canSellIn(state, viewer.userId, id) ? 'ok' : 'forbidden'
     return side === 'owner' ? 'ok' : 'forbidden'
   }
-  if (section === 'requests') return id === undefined ? roles('owner') : 'not_found'
+  // Round 3: a contractor holding title to a building's arisings answers its requests too.
+  if (section === 'requests') return id === undefined ? (role === 'owner' || buildingsSoldBy(state, viewer.userId).length > 0 ? 'ok' : 'forbidden') : 'not_found'
   if (section === 'engagements') {
     if (id === undefined) return roles('consultant')
     if (sub !== undefined || (tab !== undefined && tab !== 'waste')) return 'not_found'

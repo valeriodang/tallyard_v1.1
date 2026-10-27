@@ -5,7 +5,7 @@ import { monthKey } from '../../domain/dates'
 import type { World } from '../../domain/types'
 import type { ActionResult, Actor, AppData } from '../types'
 import { isEmail, normaliseEmail } from '../../sandbox/accounts'
-import { ERRORS, buildingOrgIds, buildingSide, canBeContractor, isBuildingContractor, roleOfOrg } from '../access'
+import { ERRORS, buildingOrgIds, buildingSide, canBeContractor, contractorHoldsTitle, isBuildingContractor, roleOfOrg } from '../access'
 import { acceptedReservation, lotOfItem } from '../lots'
 import { log, notify, plural } from '../notifications'
 import { acting, fail, ok, withWorld } from './common'
@@ -16,6 +16,7 @@ export const CONTRACTOR_ERRORS = {
   badMonth: 'Choose a valid month.',
   unknownItem: 'That item is not in this building.',
   email: "Enter the contractor's email address.",
+  titleHeld: 'The contractor holds title to the arisings. Take title back on Listings before changing the contractor.',
 } as const
 
 const MONTH = /^\d{4}-(0[1-9]|1[0-2])$/
@@ -76,6 +77,7 @@ export function appointContractor(state: AppData, actor: Actor, buildingId: stri
   if (contractorOrgId !== null && (!contractorOrgId || !canBeContractor(roleOfOrg(state, contractorOrgId)))) return fail(state, CONTRACTOR_ERRORS.contractor)
   const previousName = b.contractorOrgId ? (state.world.orgs[b.contractorOrgId]?.name ?? null) : null
   if ((b.contractorOrgId ?? null) === contractorOrgId) return ok(state, { cleared: 0, previousName })
+  if (contractorHoldsTitle(b)) return fail(state, CONTRACTOR_ERRORS.titleHeld)
   const w = structuredClone(state.world)
   const cleared = setContractorIn(w, buildingId, contractorOrgId)
   let s = withWorld(state, w)
@@ -119,6 +121,7 @@ export function inviteContractorByEmail(state: AppData, actor: Actor, buildingId
   const side = buildingSide(state, actor.userId, buildingId)
   if (side !== 'owner' && side !== 'surveyor') return fail(state, ERRORS.role)
   if (!isEmail(email)) return fail(state, CONTRACTOR_ERRORS.email)
+  if (contractorHoldsTitle(b)) return fail(state, CONTRACTOR_ERRORS.titleHeld)
   // An email at an organisation of another kind is treated like an unknown one, so the invite never tells anyone who
   // is on Tallyard: it waits, and only a surveying or deconstruction firm joining with it takes it up.
   const found = contractorOrgByEmail(state, email)

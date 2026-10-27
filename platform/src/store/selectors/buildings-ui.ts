@@ -11,7 +11,7 @@ import { testingCompanyById } from '../../domain/reference/testing'
 import { titleFor } from '../../domain/reference/families'
 import * as f from '../../domain/format'
 import type { AppData, Viewer } from '../types'
-import { buildingSide, canCaptureIn } from '../access'
+import { buildingSide, canCaptureIn, roleOfUser } from '../access'
 import { lotOfItem } from '../lots'
 import { plural } from '../notifications'
 import type { ContractorDateEntry } from '../actions/contractor'
@@ -82,6 +82,8 @@ export type RequestsPage = {
   counts: { reservations: number; buildings: number }
   /** The tab to open when the address names none: buildings when only confirmations wait. */
   defaultTab: RequestsTab
+  /** Owners also confirm buildings; a contractor selling under title (round 3) has reservations only. */
+  showBuildings: boolean
 }
 
 /** The owner's Requests page: reservation requests and buildings surveyors ask them to confirm. */
@@ -92,7 +94,8 @@ export function requestsPage(state: AppData, viewer: Viewer): RequestsPage | nul
   const waiting = rows.filter((r) => r.status === 'pending')
   const answered = rows.filter((r) => r.status !== 'pending')
   const counts = { reservations: reservations.pending.length, buildings: waiting.length }
-  return { reservations, claims: { waiting, answered }, counts, defaultTab: counts.reservations === 0 && counts.buildings > 0 ? 'buildings' : 'reservations' }
+  const showBuildings = roleOfUser(state, viewer.userId) === 'owner'
+  return { reservations, claims: { waiting, answered }, counts, defaultTab: showBuildings && counts.reservations === 0 && counts.buildings > 0 ? 'buildings' : 'reservations', showBuildings }
 }
 
 /** The contractor's months as a draft keyed by item, from the saved rows. */

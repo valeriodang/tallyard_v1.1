@@ -200,6 +200,12 @@ function EditRecord({ d, buildingId }: { d: ItemDetail; buildingId: string }) {
           <SegmentedControl label="Recoverability" value={recov} onValueChange={(x) => d.canEditGrades && setRecov(x as Recoverability)} items={GRADES.map((g) => ({ value: g, label: g }))} className={cx('w-full [&>*]:flex-1', !d.canEditGrades && 'pointer-events-none opacity-60')} />
         </Field>
       </div>
+      {d.methodText ? (
+        <p className="m-0 text-sm text-ink-soft" data-testid="item-method">
+          <span className="text-muted">The contractor takes it out: </span>
+          {d.methodText}
+        </p>
+      ) : null}
       <Field label="Expected availability" hint={LABELS.L43}>
         <MonthPicker idPrefix={`expected-${d.itemId}`} value={month} years={cap?.yearOptions ?? []} onChange={setMonth} disabled={!d.canEditGrades} />
       </Field>
@@ -268,11 +274,17 @@ function OwnerSide({ d, buildingId }: { d: ItemDetail; buildingId: string }) {
             {o.visibilityLabel}
           </Pill>
         </div>
-        <ListingEditor
-          key={`${o.visibility}${o.ask}${o.reserve}${o.availableFrom}`}
-          compact
-          lot={{ lotId: d.lotId, family: d.item.family, visibility: o.visibility, ask: o.ask, reserve: o.reserve, availableFrom: o.availableFrom, suggested: { ask: fig.sellerMandate.ask, reserve: fig.sellerMandate.reserve }, guide: fig.guide.guide, unitLabel: FAMILIES[d.item.family].pricingUnitLabel, reserved: o.reserved }}
-        />
+        {o.sells ? (
+          <ListingEditor
+            key={`${o.visibility}${o.ask}${o.reserve}${o.availableFrom}`}
+            compact
+            lot={{ lotId: d.lotId, family: d.item.family, visibility: o.visibility, ask: o.ask, reserve: o.reserve, availableFrom: o.availableFrom, suggested: { ask: fig.sellerMandate.ask, reserve: fig.sellerMandate.reserve }, guide: fig.guide.guide, unitLabel: FAMILIES[d.item.family].pricingUnitLabel, reserved: o.reserved }}
+          />
+        ) : (
+          <p className="m-0 text-sm text-ink-soft" data-testid="item-seller">
+            {o.sellerText}
+          </p>
+        )}
       </section>
 
       <section aria-label="Dates" data-testid="item-dates">

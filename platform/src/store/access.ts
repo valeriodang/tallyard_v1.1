@@ -1,6 +1,7 @@
 // Who the signed-in person is in the world, and what they may open. Built on src/domain/access.ts.
 import type { Org, Persona, Project, SourceBuilding } from '../domain/types'
 import { canAccess, clientLinked, consultantLinked } from '../domain/access'
+import { sellerOrgOf } from '../domain/visibility'
 import { roleForOrgType } from '../sandbox/accounts'
 import type { AppData, PlatformRole, User } from './types'
 
@@ -133,6 +134,27 @@ export function isBuildingContractor(state: AppData, userId: string, buildingId:
 export function canCaptureIn(state: AppData, userId: string, buildingId: string): boolean {
   const side = buildingSide(state, userId, buildingId)
   return side === 'owner' || side === 'surveyor'
+}
+
+/**
+ * Whether the person sells the building's arisings (round 3): its owner, until the owner passes title to the
+ * deconstruction contractor; then the contractor. The seller sets what buyers see and answers their requests.
+ */
+export function canSellIn(state: AppData, userId: string, buildingId: string): boolean {
+  const b = state.world.buildings[buildingId]
+  const u = userOf(state, userId)
+  if (!b || !u || sellerOrgOf(b) !== u.orgId) return false
+  return isBuildingOwner(state, userId, buildingId) || isBuildingContractor(state, userId, buildingId)
+}
+
+/** The buildings whose arisings the person sells. */
+export function buildingsSoldBy(state: AppData, userId: string): SourceBuilding[] {
+  return Object.values(state.world.buildings).filter((b) => canSellIn(state, userId, b.id))
+}
+
+/** Whether the deconstruction contractor holds title to the building's arisings. */
+export function contractorHoldsTitle(building: SourceBuilding): boolean {
+  return sellerOrgOf(building) !== building.ownerOrgId
 }
 
 /**

@@ -1,12 +1,13 @@
 // The deconstruction contractor's dashboard (round 3, BRIEF section 15.2): the buildings an owner or surveyor
-// appointed the firm to, the items still to date and the dates set, each building drawn from its survey. Stage 3
-// adds methods, destinations and the true cost of waste. It reads only what the contractor side may see: no lots,
-// prices, visibility or buyers.
+// appointed the firm to, the items still to date and the dates set, each building drawn from its survey, with the
+// methods chosen and the streams moved (stage 3). It reads only what the contractor side may see: no lots, prices,
+// visibility or buyers, unless the owner passed title to the firm, and then only through Listings and Requests.
 import type { Typology } from '../../domain/v1types'
 import { buildingSketch, type BuildingSketch } from '../../domain/sketch'
 import { formatDate } from '../../domain/dates'
 import type { AppData, Viewer } from '../types'
-import { buildingSide, buildingsOfUser, roleOfUser, userOf } from '../access'
+import { buildingSide, buildingsOfUser, canSellIn, roleOfUser, userOf } from '../access'
+import { workFor } from '../actions/contractorWork'
 import { activityFor, firstName, greeting, longDate, todayOf, type ActivityRow } from './common'
 import { itemsOf } from './owner'
 import { activitySummary, typologyCounts, type ActivitySummary, type TileState } from './dashboard'
@@ -20,6 +21,12 @@ export type ContractorBuildingRow = {
   itemCount: number
   datedCount: number
   dismantlingText: string
+  /** Round 3: how many items have a method, and how many logged streams have moved. */
+  methodText: string
+  streamsText: string
+  destinationsHref: string
+  /** The firm holds title to the arisings and sells them. */
+  sells: boolean
   sketch: BuildingSketch
   byTypology: Record<Typology, number>
 }
@@ -32,6 +39,11 @@ export type ContractorDashboard = {
   activity: ActivityRow[]
   activitySummary: ActivitySummary
   firstRun: boolean
+}
+
+function streamsText(entries: { actualT: number | null }[]): string {
+  if (entries.length === 0) return 'No streams logged'
+  return `${entries.filter((e) => e.actualT !== null).length} of ${entries.length} streams moved`
 }
 
 export function contractorDashboard(state: AppData, viewer: Viewer): ContractorDashboard | null {
@@ -52,6 +64,10 @@ export function contractorDashboard(state: AppData, viewer: Viewer): ContractorD
         itemCount: items.length,
         datedCount: items.filter((i) => !!i.contractorAvailableFrom).length,
         dismantlingText: b.programme.dismantlingStart ? `Dismantling from ${formatDate(b.programme.dismantlingStart)}` : 'No dismantling date yet',
+        methodText: `Method for ${Object.keys(workFor(state, b.id)?.methods ?? {}).filter((id) => items.some((i) => i.id === id)).length} of ${items.length}`,
+        streamsText: streamsText(workFor(state, b.id)?.destinations ?? []),
+        destinationsHref: `/app/buildings/${b.id}/destinations`,
+        sells: canSellIn(state, viewer.userId, b.id),
         sketch: buildingSketch({ id: b.id, storeys: b.storeys ?? null, structureType: b.structureType ?? '', structure: b.structure ?? [] }, families),
         byTypology: typologyCounts(families),
       }

@@ -1,6 +1,7 @@
 // The strings that must never reach the other side (04 section 4). Used by tests and the end-to-end checks.
 import type { InventoryItem, Lot, Project, SourceBuilding, World } from '../types'
 import type { BuildingAudit } from '../auditTypes'
+import type { BuildingWork, Carrier } from '../contractorTypes'
 import { dateFormats } from '../dates'
 
 export function lotPrivateStrings(lot: Lot, item: InventoryItem, building: SourceBuilding, world: World): string[] {
@@ -69,4 +70,16 @@ export function auditPrivateStrings(audit: BuildingAudit): string[] {
     for (const r of audit.rows) out.push(r.description, r.considerations, r.broker.outlet)
   }
   return [...new Set(out.map((s) => s.trim()).filter((s) => s.length >= 12))]
+}
+
+/**
+ * Round 3: the deconstruction contractor's records on a building, which never reach the buying side. Carrier and
+ * facility names are left out: they are the generic partner names that public packages use too.
+ */
+export function contractorWorkPrivateStrings(work: BuildingWork, carriers: Carrier[]): string[] {
+  const out: string[] = []
+  for (const m of Object.values(work.methods)) out.push(m.protection, m.note)
+  for (const d of work.destinations) out.push(d.permitRef, d.transferNoteRef, d.note)
+  for (const c of carriers) out.push(c.registration)
+  return [...new Set(out.map((s) => s.trim()).filter((s) => s.length >= 8))]
 }

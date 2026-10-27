@@ -24,7 +24,7 @@ export function Requests() {
   if (!page) return null
   const v = page.reservations
   const asked = params.get('tab')
-  const section: RequestsTab = asked === 'buildings' || asked === 'reservations' ? asked : page.defaultTab
+  const section: RequestsTab = page.showBuildings && (asked === 'buildings' || asked === 'reservations') ? asked : page.defaultTab
   const choose = (x: string) => {
     const next = new URLSearchParams(params)
     next.set('tab', x)
@@ -34,16 +34,18 @@ export function Requests() {
   return (
     <Page testId="requests">
       <PageHeader title="Requests" subtitle={section === 'buildings' ? 'Buildings surveyors ask you to confirm as yours.' : 'Buyers asking you to reserve a lot. They stay anonymous until you accept.'} />
-      <SegmentedControl
-        label="Requests"
-        value={section}
-        onValueChange={choose}
-        items={[
-          { value: 'reservations', label: `Reservations ${page.counts.reservations}` },
-          { value: 'buildings', label: `Buildings ${page.counts.buildings}` },
-        ]}
-        className="mt-5"
-      />
+      {page.showBuildings ? (
+        <SegmentedControl
+          label="Requests"
+          value={section}
+          onValueChange={choose}
+          items={[
+            { value: 'reservations', label: `Reservations ${page.counts.reservations}` },
+            { value: 'buildings', label: `Buildings ${page.counts.buildings}` },
+          ]}
+          className="mt-5"
+        />
+      ) : null}
       {section === 'buildings' ? (
         <div className="mt-6">
           <BuildingClaims waiting={page.claims.waiting} answered={page.claims.answered} />

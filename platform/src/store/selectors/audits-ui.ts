@@ -5,7 +5,7 @@ import type { AuditRow, BrokerRoute, BrokerStatus, RetentionOption, RetentionOpt
 import type { FamilyId } from '../../domain/types'
 import type { AuditRowInput, RetentionOptionInput } from '../actions/audits'
 
-function numberOrNull(text: string): number | null {
+export function numberOrNull(text: string): number | null {
   const t = text.trim().replace(/,/g, '')
   if (t === '') return null
   return /^-?\d+(\.\d+)?$/.test(t) ? Number(t) : Number.NaN

@@ -17,7 +17,7 @@ import * as f from '../../domain/format'
 import type { ActivityEntry, AppData, ReservationStatus, Viewer } from '../types'
 import { roleForOrgType, orgTypeLabel } from '../../sandbox/accounts'
 import { generalWishlist, projectWishlist } from '../lots'
-import { buildingSide, canOpenEngagement, canReadAudit, isBuildingContractor, projectSide, roleOfUser, type BuildingSide, type ProjectSide } from '../access'
+import { buildingSide, canOpenEngagement, canReadAudit, canSellIn, isBuildingContractor, projectSide, roleOfUser, type BuildingSide, type ProjectSide } from '../access'
 
 // ---------- Time ----------
 
@@ -262,9 +262,9 @@ const PROJECT_TABS_OF: Record<ProjectSide, string[]> = {
 /** The consultant's own sustainability pages: other sides read the same records on the Sustainability tab. */
 const CONSULTANT_SUSTAINABILITY_TABS = ['targets', 'certification', 'compliance', 'statement']
 const BUILDING_TABS_OF: Record<BuildingSide, string[]> = {
-  owner: ['inventory', 'capture', 'audits', 'priorities', 'listings', 'sharing', 'testing', 'requirements'],
-  surveyor: ['inventory', 'capture', 'audits', 'testing', 'requirements', 'availability'],
-  contractor: ['availability', 'audits'],
+  owner: ['inventory', 'capture', 'audits', 'priorities', 'listings', 'sharing', 'testing', 'destinations', 'requirements'],
+  surveyor: ['inventory', 'capture', 'audits', 'testing', 'requirements', 'availability', 'method', 'destinations', 'listings', 'sharing'],
+  contractor: ['availability', 'method', 'destinations', 'audits', 'listings', 'sharing'],
 }
 
 /**
@@ -293,7 +293,9 @@ export function hrefForReader(state: AppData, userId: string, href: string | nul
   if (section === 'buildings' && id) {
     const side = buildingSide(state, userId, id)
     if (!side) return null
-    if (tab === 'availability' && !isBuildingContractor(state, userId, id)) return `/app/buildings/${id}`
+    if ((tab === 'availability' || tab === 'method') && !isBuildingContractor(state, userId, id)) return `/app/buildings/${id}`
+    if ((tab === 'listings' || tab === 'sharing') && side !== 'owner' && !canSellIn(state, userId, id)) return `/app/buildings/${id}`
+    if (tab === 'destinations' && side !== 'owner' && !isBuildingContractor(state, userId, id)) return `/app/buildings/${id}`
     if (tab === 'audits' && rest[0]) {
       const audit = state.audits[rest[0]]
       return audit && audit.buildingId === id && canReadAudit(state, userId, audit) ? href : `/app/buildings/${id}/audits`

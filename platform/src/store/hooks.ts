@@ -28,6 +28,7 @@ export function useData(): AppData {
       testingRequests: s.testingRequests,
       buildingTracks: s.buildingTracks,
       audits: s.audits,
+      contractorWork: s.contractorWork,
       ui: s.ui,
     })),
   )

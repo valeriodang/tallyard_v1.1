@@ -18,7 +18,7 @@ import { sustainabilityBand } from '../../domain/engines/band'
 import * as f from '../../domain/format'
 import type { AppData, Viewer } from '../types'
 import { projectSide, projectsOfUser, roleOfUser } from '../access'
-import { lotsSharedByLinkWithOrg } from '../../domain/visibility'
+import { lotsSharedByLinkWithOrg, sellerOrgOfLot } from '../../domain/visibility'
 import { acceptedReservation, generalWishlist, isLotAvailable, listingOf, lotByPublicId, marketplaceListings, projectCanSee, projectWishlist, saveBlock } from '../lots'
 import { familyLabel, listingCard, projectRef, sellerPhrase, storageText, todayOf, collectionPointText, type ListingCard, type ProjectRef, fitText, FIT_LABELS, SHORTLIST_STATUS_LABELS } from './common'
 import { availabilityFilterView, categoryFolders, checkingProjectSketch, fitSummary, newForProjectsFeed, newForProjectsJump, type AvailabilityFilterView, type CategoryFolder, type FitSummary, type NewForProjects, type NewForProjectsJump } from './marketplace'
@@ -160,8 +160,8 @@ export function sharedGroups(state: AppData, viewer: Viewer): SharedGroup[] {
 }
 
 function approvedOwnerLot(state: AppData, p: Project, l: Lot): boolean {
-  const owner = state.world.buildings[state.world.items[l.itemId].buildingId]?.ownerOrgId ?? null
-  return owner !== null && p.approvedByOwnerOrgIds.includes(owner)
+  const seller = sellerOrgOfLot(state.world, l.id)
+  return seller !== null && p.approvedByOwnerOrgIds.includes(seller)
 }
 
 export type DiscoverView = {

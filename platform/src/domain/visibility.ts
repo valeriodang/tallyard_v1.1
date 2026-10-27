@@ -1,5 +1,5 @@
 // Which lots a project or the open market can see (02 section 4, rule 5; 04 section 2).
-import type { Project, PublicListing, ShareLink, World } from './types'
+import type { Project, PublicListing, ShareLink, SourceBuilding, World } from './types'
 import type { Assumptions } from './reference/assumptions'
 import { toPublicListing } from './privacy/publicListing'
 
@@ -10,15 +10,31 @@ export function listingFor(world: World, lotId: string, a: Assumptions): PublicL
   return toPublicListing(lot, item, building, world.snapshot, a)
 }
 
-/** The link's lots still shared or published, from the link owner's own buildings, in the link's order. Empty when revoked. */
+/**
+ * Who sells a building's arisings: its owner, or (round 3) the deconstruction contractor the owner passed title to.
+ * The seller sets visibility, answers requests and shares with projects; the owner keeps the building.
+ */
+export function sellerOrgOf(building: Pick<SourceBuilding, 'ownerOrgId' | 'contractorOrgId' | 'arisingsTitle'>): string | null {
+  if (building.arisingsTitle === 'contractor' && building.ownerOrgId && building.contractorOrgId) return building.contractorOrgId
+  return building.ownerOrgId
+}
+
+/** The organisation selling a lot, or null for a lot no one on the platform sells. */
+export function sellerOrgOfLot(world: World, lotId: string): string | null {
+  const lot = world.lots[lotId]
+  const item = lot ? world.items[lot.itemId] : null
+  const building = item ? world.buildings[item.buildingId] : null
+  return building ? sellerOrgOf(building) : null
+}
+
+/** The link's lots still shared or published, that the link's owner sells, in the link's order. Empty when revoked. */
 export function activeLinkLots(world: World, link: ShareLink): string[] {
   if (link.revokedAt !== null) return []
   return link.lotIds.filter((id) => {
     const lot = world.lots[id]
     if (!lot || lot.visibility === 'private') return false
-    const item = world.items[lot.itemId]
-    const owner = item ? (world.buildings[item.buildingId]?.ownerOrgId ?? null) : null
-    return owner !== null && owner === link.ownerOrgId
+    const seller = sellerOrgOfLot(world, id)
+    return seller !== null && seller === link.ownerOrgId
   })
 }
 
@@ -45,8 +61,8 @@ export function lotsVisibleToProject(world: World, project: Project): string[] {
       if (lot.visibility !== 'matched_only') return false
       if (byLink.has(lot.id)) return true
       if (!project.termsAccepted) return false
-      const owner = world.buildings[world.items[lot.itemId].buildingId].ownerOrgId
-      return owner !== null && project.approvedByOwnerOrgIds.includes(owner)
+      const seller = sellerOrgOfLot(world, lot.id)
+      return seller !== null && project.approvedByOwnerOrgIds.includes(seller)
     })
     .map((l) => l.id)
 }

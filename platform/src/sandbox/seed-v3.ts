@@ -5,7 +5,10 @@ import type { AuditRow, PreDemolitionAudit, PreRedevelopmentAudit } from '../dom
 import { notify } from '../store/notifications'
 import { HARROWDEN_ID, ORG_IDS, PERSONA_IDS, TIVERNE_ID } from '../domain/seed/world'
 import { rowsFromItems } from '../domain/engines/audit'
-import { FENNICK_ID } from './sampleIds'
+import { forecastFromAudit } from '../domain/engines/contractorWork'
+import type { BuildingWork, Carrier, DismantlingMethod, ItemMethod } from '../domain/contractorTypes'
+import { addDays } from '../domain/dates'
+import { FENNICK_ID, KOFI_PERSONA_ID } from './sampleIds'
 import { SAMPLE_ACCOUNTS } from './accounts'
 
 type At = (daysAgo: number, hour: number, minute?: number) => string
@@ -20,7 +23,46 @@ export function withRound3Records(state: AppData, h: { at: At }): AppData {
   }
   // Round 3, stage 2: the audits of Tiverne House (one complete, one in progress) and a first draft for Harrowden Court.
   s = withSeededAudits(s, h)
+  // Round 3, stage 3: Fennick Dismantling's carriers, methods and destination forecast for Tiverne House.
+  s = withSeededContractorWork(s, h)
   return s
+}
+
+function withSeededContractorWork(state: AppData, h: { at: At }): AppData {
+  const tiverne = state.world.buildings[TIVERNE_ID]
+  const audit = state.audits[SEEDED_AUDIT_IDS.tiverneDeconstruction]
+  if (!tiverne || tiverne.contractorOrgId !== FENNICK_ID || !audit || audit.kind !== 'pre_demolition') return state
+  const kofi = SAMPLE_ACCOUNTS.find((a) => a.personaId === KOFI_PERSONA_ID)!.userId
+  const today = h.at(0, 0).slice(0, 10)
+  const carriers: Carrier[] = [
+    { id: `${FENNICK_ID}_c1`, name: 'Haulier A', registration: 'CBDU204871', tier: 'upper', expiresOn: addDays(today, 410) },
+    { id: `${FENNICK_ID}_c2`, name: 'Haulier C', registration: 'CBDU377105', tier: 'upper', expiresOn: addDays(today, 130) },
+    { id: `${FENNICK_ID}_c3`, name: 'Haulier B', registration: 'CBDL118842', tier: 'lower', expiresOn: addDays(today, -20) },
+  ]
+  const at = h.at(4, 11)
+  const method = (m: DismantlingMethod | null, extractability: number | null, protection = '', note = ''): ItemMethod => ({ method: m, extractability, protection, note, updatedAt: at, byUserId: kofi })
+  const byTag: Record<string, ItemMethod> = {
+    'TH-01': method('unbolt', 4, 'Lifted in pairs on spreader beams', 'Bolted end plates; shear studs ground off on the top flange.'),
+    'TH-02': method('unbolt', 3, 'Lifted on spreader beams', 'Composite slab broken out around the studs first.'),
+    'TH-03': method('cut_connections', 2, '', 'Concrete casing broken out first; cut above each floor.'),
+    'TH-04': method('unbolt', 3, 'Lifted on spreader beams'),
+    'TH-05': method('unbolt', 4, '', 'Two-storey lengths released at the bolted splices.'),
+    'TH-06': method('unbolt', 4, 'Stacked on timber bearers'),
+    'TH-07': method('hand_strip', 3, 'Timber bearers and corner protection on pallets', 'Released from the fixings by hand from the scaffold.'),
+    'TH-08': method('crane_lift', 4, 'Glazing protected with board on both faces', 'Units lifted out whole in the reverse of installation.'),
+    'TH-10': method('break_out', 1, '', 'Cement mortar: the bricks break before the joints do.'),
+    'TH-11': method('hand_strip', 4, 'Panels stacked flat in their original crates'),
+  }
+  const methods: Record<string, ItemMethod> = {}
+  for (const i of Object.values(state.world.items)) if (i.buildingId === TIVERNE_ID && byTag[i.tag]) methods[i.id] = byTag[i.tag]
+  let n = 0
+  const destinations = forecastFromAudit(audit.rows, () => `${TIVERNE_ID}_d${++n}`).map((e) =>
+    e.ewcCode === '17 06 05'
+      ? { ...e, actualT: 1.8, carrierId: `${FENNICK_ID}_c2`, facility: 'Hazardous waste landfill, Northamptonshire', permitRef: 'EPR/HP3456KL', transferNoteRef: 'HWCN-0007', movedOn: h.at(5, 9).slice(0, 10), note: 'Removed by the licensed asbestos contractor before the strip-out.' }
+      : e,
+  )
+  const work: BuildingWork = { buildingId: TIVERNE_ID, contractorOrgId: FENNICK_ID, methods, destinations, updatedAt: at }
+  return { ...state, contractorWork: { buildings: { ...state.contractorWork.buildings, [TIVERNE_ID]: work }, carriers: { ...state.contractorWork.carriers, [FENNICK_ID]: carriers } } }
 }
 
 /** Audit IDs are fixed, so they never take a minted ID from later records. */

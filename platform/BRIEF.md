@@ -343,6 +343,15 @@ Round 3 is a working name, used in documents and test logs. Screens say "Updated
 - A destination log with forecast against actual, carrier, licence, facility and waste transfer note reference.
 - The true cost of waste.
 - Title to arisings passing from the owner. A contractor that holds title lists and sells as seller, behind the same blind request rules.
+- As built (stage 3):
+  - **Method tab:** method and extractability per item, shown to the owner on each item.
+  - **Destinations tab:**
+    - forecast from the pre-deconstruction audit, then weighed out;
+    - the duty of care papers, checked;
+    - the true cost of waste;
+    - read by the owner.
+  - **The carrier register:** one per contractor firm.
+  - **Title:** the owner passes and takes back title on Listings while no request waits. Decided requests stay with whoever decided them.
 
 ### 15.5 Grading, steel and provenance (stage 4)
 

@@ -2,7 +2,7 @@
 // drawn from its survey with the items still to date, and recent activity (collapsed). Every figure comes from
 // contractorDashboard (P2).
 import { Link } from 'react-router'
-import { Building2, CalendarClock, ClipboardList, HardHat, Users } from 'lucide-react'
+import { Building2, CalendarClock, ClipboardList, HardHat, Users, Waypoints } from 'lucide-react'
 import { useView } from '../../store'
 import { contractorDashboard, type ContractorDashboard } from '../../store/selectors/home-contractor'
 import { BuildingThumbnail, Button, Card, MetricGrid, MetricTile, PageHeader, Pill } from '../../ui'
@@ -54,6 +54,9 @@ export function ContractorHome() {
                     <p className="m-0 text-sm text-muted">
                       {b.ownerName}. {b.dismantlingText}
                     </p>
+                    <p className="m-0 mt-0.5 text-sm text-ink-soft" data-testid={`contractor-progress-${b.id}`}>
+                      {b.methodText}. {b.streamsText}.{b.sells ? ' Your firm holds title and sells what comes out.' : ''}
+                    </p>
                   </div>
                   <div className="flex flex-wrap items-center gap-3">
                     <Pill tone={b.datedCount < b.itemCount ? 'warning' : 'brand'} dot size="sm" data-testid={`contractor-dated-${b.id}`}>
@@ -61,6 +64,9 @@ export function ContractorHome() {
                     </Pill>
                     <Button asChild variant="secondary" size="sm" icon={HardHat}>
                       <Link to={b.availabilityHref}>Set dates</Link>
+                    </Button>
+                    <Button asChild variant="secondary" size="sm" icon={Waypoints}>
+                      <Link to={b.destinationsHref}>Destinations</Link>
                     </Button>
                   </div>
                 </li>
