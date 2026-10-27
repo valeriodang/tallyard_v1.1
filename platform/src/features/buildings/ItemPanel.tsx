@@ -15,6 +15,7 @@ import { Button, Card, CardBody, cx, DescriptionList, Field, IndicativeMarker, I
 import { PhotoTile } from './photos'
 import { MonthPicker } from './MonthPicker'
 import { ListingEditor } from './ListingEditor'
+import { QualityPanel } from '../quality/QualityPanel'
 import { CONDITION_TEXT, RECOVERABILITY_TEXT, VISIBILITY_TONE } from './labels'
 
 const GRADES = ['A', 'B', 'C'] as const
@@ -28,6 +29,7 @@ export function ItemPanel({ buildingId, itemId, layout = 'sheet' }: { buildingId
       <RecordFacts d={d} />
       <RequestTestingLink buildingId={buildingId} itemId={itemId} />
       <EditRecord key={`${d.item.condition}${d.item.recoverability}${d.item.expectedAvailableFrom}${d.item.location}${d.item.notes}`} d={d} buildingId={buildingId} />
+      <QualityPanel buildingId={buildingId} itemId={itemId} />
     </>
   )
   if (layout === 'sheet')
@@ -40,6 +42,7 @@ export function ItemPanel({ buildingId, itemId, layout = 'sheet' }: { buildingId
           <RecordFacts d={d} />
           <RequestTestingLink buildingId={buildingId} itemId={itemId} />
           <EditRecord key={`${d.item.condition}${d.item.recoverability}${d.item.expectedAvailableFrom}${d.item.location}${d.item.notes}`} d={d} buildingId={buildingId} />
+          <QualityPanel buildingId={buildingId} itemId={itemId} />
         </div>
       </div>
     )
@@ -200,12 +203,6 @@ function EditRecord({ d, buildingId }: { d: ItemDetail; buildingId: string }) {
           <SegmentedControl label="Recoverability" value={recov} onValueChange={(x) => d.canEditGrades && setRecov(x as Recoverability)} items={GRADES.map((g) => ({ value: g, label: g }))} className={cx('w-full [&>*]:flex-1', !d.canEditGrades && 'pointer-events-none opacity-60')} />
         </Field>
       </div>
-      {d.methodText ? (
-        <p className="m-0 text-sm text-ink-soft" data-testid="item-method">
-          <span className="text-muted">The contractor takes it out: </span>
-          {d.methodText}
-        </p>
-      ) : null}
       <Field label="Expected availability" hint={LABELS.L43}>
         <MonthPicker idPrefix={`expected-${d.itemId}`} value={month} years={cap?.yearOptions ?? []} onChange={setMonth} disabled={!d.canEditGrades} />
       </Field>

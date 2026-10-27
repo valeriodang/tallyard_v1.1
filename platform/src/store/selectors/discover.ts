@@ -19,6 +19,7 @@ import * as f from '../../domain/format'
 import type { AppData, Viewer } from '../types'
 import { projectSide, projectsOfUser, roleOfUser } from '../access'
 import { lotsSharedByLinkWithOrg, sellerOrgOfLot } from '../../domain/visibility'
+import { listingQualityView, type ListingQualityView } from './quality'
 import { acceptedReservation, generalWishlist, isLotAvailable, listingOf, lotByPublicId, marketplaceListings, projectCanSee, projectWishlist, saveBlock } from '../lots'
 import { familyLabel, listingCard, projectRef, sellerPhrase, storageText, todayOf, collectionPointText, type ListingCard, type ProjectRef, fitText, FIT_LABELS, SHORTLIST_STATUS_LABELS } from './common'
 import { availabilityFilterView, categoryFolders, checkingProjectSketch, fitSummary, newForProjectsFeed, newForProjectsJump, type AvailabilityFilterView, type CategoryFolder, type FitSummary, type NewForProjects, type NewForProjectsJump } from './marketplace'
@@ -368,6 +369,8 @@ export type MaterialView = {
   /** Held for one of the viewer's projects by an accepted reservation. */
   reservedFor: string | null
   similar: ListingCard[]
+  /** Round 3: assurance, processing, warranty, steel codes, hazards and the fit against the project's steel limits. */
+  quality: ListingQualityView
 }
 
 /**
@@ -478,6 +481,7 @@ export function materialView(state: AppData, viewer: Viewer, publicId: string, p
     showPurchaseNote: roleOfUser(state, viewer.userId) === 'architect',
     reservedFor: held ? (state.world.projects[held.projectId]?.name ?? null) : null,
     similar,
+    quality: listingQualityView(listing, project?.steelLimits),
   }
 }
 

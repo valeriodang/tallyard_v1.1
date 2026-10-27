@@ -1,5 +1,7 @@
 // Projects: create and edit, the programme, planning and sustainability requirements, the client's acceptance,
 // terms, consultant, and the architect's specification notes.
+import type { SteelLimits } from '../../domain/qualityTypes'
+import { CONSEQUENCE_CLASSES, EXECUTION_CLASSES } from '../../domain/reference/steelAssessment'
 import type { ClientLink, ProgrammeDates, Project, ProjectProgramme } from '../../domain/types'
 import type { ProjectType } from '../../domain/v1types'
 import { REGIONS } from '../../domain/reference/assumptions'
@@ -552,4 +554,24 @@ export function editSpecClauseNote(state: AppData, actor: Actor, projectId: stri
   if (note) clauseNotes[publicId] = note
   else delete clauseNotes[publicId]
   return ok({ ...state, specs: { ...state.specs, [projectId]: { ...spec, clauseNotes, updatedAt: actor.now } } })
+}
+
+export const STEEL_LIMIT_ERRORS = { limits: 'Choose an execution class, a consequence class and a grade from the lists.' } as const
+
+/**
+ * Round 3: the architect records what the structural engineer allows of reclaimed steel on the project, or clears
+ * it. Steel listings then show what testing each needs and how long it takes.
+ */
+export function setProjectSteelLimits(state: AppData, actor: Actor, projectId: string, limits: SteelLimits | null): ActionResult {
+  const a = acting(state, actor)
+  if (typeof a === 'string') return fail(state, a)
+  const p = state.world.projects[projectId]
+  if (!p) return fail(state, ERRORS.noProject)
+  if (!isProjectArchitect(state, actor.userId, projectId)) return fail(state, ERRORS.role)
+  if (limits && (!EXECUTION_CLASSES.includes(limits.exc) || !CONSEQUENCE_CLASSES.includes(limits.cc) || !['S275', 'S355'].includes(limits.grade) || typeof limits.fatigue !== 'boolean' || typeof limits.seismic !== 'boolean')) return fail(state, STEEL_LIMIT_ERRORS.limits)
+  const w = structuredClone(state.world)
+  w.projects[projectId].steelLimits = limits ? { exc: limits.exc, cc: limits.cc, fatigue: limits.fatigue, seismic: limits.seismic, grade: limits.grade } : null
+  let s = withWorld(state, w)
+  s = log(s, { at: a.now, orgIds: projectOrgIds(p), projectId, buildingId: null, actorUserId: a.user.id, actor: a.user.name, text: limits ? `set the reclaimed steel limits to ${limits.exc}, ${limits.cc}, ${limits.grade}` : 'cleared the reclaimed steel limits', href: `/app/projects/${projectId}/requirements` })
+  return ok(s)
 }

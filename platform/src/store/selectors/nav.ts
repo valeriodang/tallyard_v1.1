@@ -15,6 +15,7 @@ import { engagementsOf } from './consultant'
 import { unreadCount } from './notifications'
 import { materialView } from './discover'
 import { sellerOrgOfLot } from '../../domain/visibility'
+import { provenancePackView } from './quality'
 import { arrangeNavProjects, type ArrangedProjects } from './nav-projects'
 
 /** Icon names from lucide-react; the shell maps them to components. */
@@ -275,6 +276,8 @@ export function routeAccess(state: AppData, viewer: Viewer, pathname: string): R
     const side = projectSide(state, viewer.userId, id)
     if (!side) return 'forbidden'
     if (tab === undefined) return 'ok'
+    // Round 3: a reservation's provenance pack, for the client once the seller has accepted.
+    if (tab === 'reservations' && sub !== undefined) return rest.length === 0 && provenancePackView(state, viewer, id, sub) ? 'ok' : 'forbidden'
     if (sub !== undefined) return 'not_found'
     const allowed = projectTabs(state, side, state.world.projects[id]).map((t) => t.id)
     if (!['shortlist', 'specification', 'approvals', 'reservations', 'carbon', 'sustainability', 'targets', 'certification', 'requirements', 'statement', 'compliance', 'team', 'activity', 'matching'].includes(tab)) return 'not_found'

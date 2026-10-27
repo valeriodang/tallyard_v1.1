@@ -76,5 +76,12 @@ scripts/               scan.mjs, make-samples.mjs, make-photo-fixture.mjs, shots
      - Destinations tab: forecast from the audit, then weighed out, with the duty of care papers and the true cost of waste.
      - The firm's carrier register.
      - Title to the arisings: the owner can pass it to the contractor, which then lists, shares and answers requests as the seller.
+   - Stage 4 is done: grading, steel assessment and provenance.
+     - A quality record on every item: checks, reject criteria, hazards, yield, processing, warranty.
+     - For steel: the P427 screen, provenance P0 to P3, assessment S0 to S4, protocols A to D with group sampling, and certificates.
+     - Assurance by layer, and a `quality` key on listings.
+     - Project steel limits with lead time by status.
+     - A tested-for-reuse label.
+     - The provenance pack for the client after acceptance.
    - Test changes are logged in `platform/feedback/r3-test-changes-*.md` and decisions in `platform/feedback/r3-decisions.md`.
 5. Literature review of `reference literature/` done (27 October 2026): `reports/Tallyard literature review.md`, notes in `research_notes/Literature review/`. It recommends reference-value updates and ranks 17 features; none is built until the user chooses. Eight later documents (D53 to D60) are reviewed in note 08 with the updated gap status.

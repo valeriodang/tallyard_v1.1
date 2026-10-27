@@ -18,6 +18,7 @@ import * as sustainability from './actions/sustainability'
 import * as buildingRequirements from './actions/buildingRequirements'
 import * as audits from './actions/audits'
 import * as contractorWork from './actions/contractorWork'
+import * as quality from './actions/quality'
 
 function bind<V, A extends unknown[]>(fn: (s: AppData, actor: Actor, ...args: A) => ActionResult<V>): (...args: A) => Outcome<V> {
   return (...args: A) => useApp.getState().run(fn, ...args)
@@ -36,6 +37,7 @@ export const act = {
   setProjectConsultant: bind(projects.setProjectConsultant),
   editSpecHeader: bind(projects.editSpecHeader),
   editSpecClauseNote: bind(projects.editSpecClauseNote),
+  setProjectSteelLimits: bind(projects.setProjectSteelLimits),
   // Shortlists
   saveToProject: bind(shortlist.saveToProject),
   removeFromList: bind(shortlist.removeFromList),
@@ -135,6 +137,9 @@ export const act = {
   saveCarrier: bind(contractorWork.saveCarrier),
   removeCarrier: bind(contractorWork.removeCarrier),
   setArisingsTitle: bind(contractorWork.setArisingsTitle),
+  // Grading, hazards, warranty and the steel pathway of an item
+  saveItemQuality: bind(quality.saveItemQuality),
+  saveSteelRecord: bind(quality.saveSteelRecord),
   // Team, profile, organisation and notifications
   createInvite: bind(team.createInvite),
   revokeInvite: bind(team.revokeInvite),

@@ -1,4 +1,5 @@
 // Data model (03-ENGINES.md section 2, extended by brief/09-V1-PRODUCT.md section 5.1). The private and public split is the point.
+import type { ItemQuality, PublicQuality, SteelLimits } from './qualityTypes'
 import type { ProjectType, Wishlist } from './v1types'
 
 export type FamilyId =
@@ -152,6 +153,8 @@ export type InventoryItem = {
   contractorAvailableFrom: string | null
   /** The day the contractor last set it. */
   contractorDatedOn: string | null
+  /** Round 3: grading, hazards, yield, processing, warranty and the steel pathway. Absent until someone records it. */
+  quality?: ItemQuality
 }
 
 export type Lot = {
@@ -205,6 +208,8 @@ export type PublicListing = {
   price: PublicPrice
   carbon: PublicCarbon
   photos: { id: string; src: string | null }[]
+  /** Round 3: the assurance tier, processing, warranty, steel codes and confirmed hazards, as fixed values. */
+  quality: PublicQuality
 }
 
 export type BlindBuyer = { orgType: string; projectType: string; region: string; needByQuarter: string }
@@ -371,6 +376,8 @@ export type Project = {
   matchResult: MatchResult | null
   planItems: PlanItem[]
   termsAccepted: boolean
+  /** Round 3: what the structural engineer allows of reclaimed steel on this project. Absent until set. */
+  steelLimits?: SteelLimits | null
   approvedByOwnerOrgIds: string[]
   seededDeals: SeededDeal[]
   /** Record data: km from each hub to the site. */

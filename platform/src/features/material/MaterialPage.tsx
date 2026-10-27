@@ -6,7 +6,7 @@
 // consultants do not get them.
 import type { ReactNode } from 'react'
 import { Link, useParams } from 'react-router'
-import { Bookmark, BookmarkCheck, Box, CalendarRange, ChevronDown, Download, FileBox, FileText, Leaf, LockKeyhole, MapPin, PackageCheck, PenLine, ScrollText, Tag, Wallet } from 'lucide-react'
+import { Bookmark, BookmarkCheck, Box, CalendarRange, ChevronDown, Download, FileBox, FileText, Leaf, LockKeyhole, MapPin, PackageCheck, PenLine, ScrollText, ShieldCheck, Tag, TriangleAlert, Wallet } from 'lucide-react'
 import { LABELS } from '../../domain/reference/labels'
 import * as f from '../../domain/format'
 import { getData, useNow, useView, useViewer } from '../../store'
@@ -244,6 +244,38 @@ function Sustainability({ view }: { view: MaterialView }) {
   )
 }
 
+function Quality({ view }: { view: MaterialView }) {
+  const q = view.quality
+  return (
+    <Section id="quality-h" title="Quality and assurance" icon={ShieldCheck} testId="quality">
+      <DescriptionList
+        layout="grid"
+        columns={2}
+        items={[
+          { label: 'Assurance', value: q.assuranceText },
+          { label: 'Processing', value: q.processingText },
+          { label: 'Warranty', value: q.warrantyText },
+          ...(q.steelText ? [{ label: 'Steel record', value: q.steelText }] : []),
+        ]}
+      />
+      <p className="m-0 mt-3 text-sm text-ink-soft" data-testid="quality-need">
+        {q.needText}. {q.meetsText}
+      </p>
+      {q.hazardsText.map((h) => (
+        <p key={h} className="m-0 mt-2 flex items-start gap-1.5 text-sm text-warning">
+          <TriangleAlert aria-hidden="true" className="mt-0.5 size-3.5 shrink-0" />
+          {h}
+        </p>
+      ))}
+      {q.steelFit ? (
+        <Callout tone={q.steelFit.meets ? 'brand' : 'warning'} className="mt-3" title={q.steelFit.text}>
+          {q.steelFit.notes.length > 0 ? q.steelFit.notes.join('. ') + '.' : null}
+        </Callout>
+      ) : null}
+    </Section>
+  )
+}
+
 export function MaterialPage() {
   const { publicId = '' } = useParams()
   const [projectId, setProject] = useCheckingProject()
@@ -327,6 +359,8 @@ export function MaterialPage() {
           <Section id="facts-h" title="Key facts" icon={FileText} testId="key-facts">
             <DescriptionList layout="grid" columns={2} items={view.keyFacts.map((k) => ({ label: k.label, value: k.value }))} />
           </Section>
+
+          <Quality view={view} />
 
           {view.price ? (
             <Section id="price-h" title="Guide price" icon={Wallet} aside={<IndicativeMarker />} testId="guide-price">

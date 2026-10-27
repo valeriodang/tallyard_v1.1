@@ -3,7 +3,8 @@
 import type { AppData } from '../store/types'
 import type { AuditRow, PreDemolitionAudit, PreRedevelopmentAudit } from '../domain/auditTypes'
 import { notify } from '../store/notifications'
-import { HARROWDEN_ID, ORG_IDS, PERSONA_IDS, TIVERNE_ID } from '../domain/seed/world'
+import { HARROWDEN_ID, MERROWGATE_ID, ORG_IDS, PERSONA_IDS, TIVERNE_ID } from '../domain/seed/world'
+import type { ItemQuality } from '../domain/qualityTypes'
 import { rowsFromItems } from '../domain/engines/audit'
 import { forecastFromAudit } from '../domain/engines/contractorWork'
 import type { BuildingWork, Carrier, DismantlingMethod, ItemMethod } from '../domain/contractorTypes'
@@ -25,7 +26,37 @@ export function withRound3Records(state: AppData, h: { at: At }): AppData {
   s = withSeededAudits(s, h)
   // Round 3, stage 3: Fennick Dismantling's carriers, methods and destination forecast for Tiverne House.
   s = withSeededContractorWork(s, h)
+  // Round 3, stage 4: quality records on Tiverne House, and Merrowgate Wharf's limits on reclaimed steel.
+  s = withSeededQuality(s, h)
   return s
+}
+
+function withSeededQuality(state: AppData, h: { at: At }): AppData {
+  const tiverne = state.world.buildings[TIVERNE_ID]
+  if (!tiverne) return state
+  const at = h.at(11, 15)
+  const w = structuredClone(state.world)
+  const answered = { builtAfter1970: 'yes', fireExposure: 'no', plasticDeformation: 'no', sectionLossOver5: 'no', builtUpOrSpliced: 'no', fatigueLoading: 'no', withinTolerances: 'unknown' } as const
+  const steelGroups: Record<string, string> = { 'TH-01': 'UB secondary', 'TH-02': 'UB primary', 'TH-03': 'UC lower', 'TH-04': 'UB primary', 'TH-05': 'UC upper', 'TH-06': 'UB secondary' }
+  for (const item of Object.values(w.items)) {
+    if (item.buildingId !== TIVERNE_ID) continue
+    const base: ItemQuality = { checks: {}, rejects: [], hazards: [], yieldShare: null, processing: 'as_removed', warranty: { kind: 'none', years: null, note: '' }, steel: null, updatedAt: at }
+    if (item.family === 'steel_section') {
+      item.quality = {
+        ...base,
+        checks: { group: true, coating: item.tag !== 'TH-03' },
+        hazards: [{ id: 'red_lead', status: 'suspected' }],
+        steel: { provenance: 'P1', assessment: 'S0', groupId: steelGroups[item.tag] ?? item.tag, admissibility: { ...answered, withinTolerances: item.tag === 'TH-03' ? 'unknown' : 'yes' }, samplesTested: 0, certificate: null },
+      }
+    } else if (item.tag === 'TH-11') {
+      item.quality = { ...base, checks: { photos: true, dry: true, carpet_off: true, label: true, pallets: false }, yieldShare: 0.7 }
+    } else if (item.tag === 'TH-07') {
+      item.quality = { ...base, checks: { rock: true }, processing: 'cleaned' }
+    }
+  }
+  const merrowgate = w.projects[MERROWGATE_ID]
+  if (merrowgate) merrowgate.steelLimits = { exc: 'EXC2', cc: 'CC2', fatigue: false, seismic: false, grade: 'S355' }
+  return { ...state, world: w }
 }
 
 function withSeededContractorWork(state: AppData, h: { at: At }): AppData {

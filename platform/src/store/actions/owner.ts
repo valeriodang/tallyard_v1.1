@@ -12,6 +12,8 @@ import { blindBuyerText, toBlindBuyer } from '../../domain/privacy/blindBuyer'
 import { normaliseStructure } from '../../domain/engines/structure'
 import type { ActionResult, Actor, AppData, SurveyRecord } from '../types'
 import { sellerOrgOfLot } from '../../domain/visibility'
+import { gradingVerdict } from '../../domain/engines/grading'
+import { admissibility } from '../../domain/engines/steelAssessment'
 import { ERRORS, buildingOrgIds, buildingSide, buildingsSoldBy, buyerSideOrgIds, canSellIn, isBuildingOwner, isProjectClient, projectOrgIds, roleOfOrg, roleOfUser } from '../access'
 import { mint } from '../ids'
 import { acceptedReservation, listIdFor, listingOf } from '../lots'
@@ -23,6 +25,8 @@ import { pendingClientLink, PROJECT_ERRORS, projectRecord, validateNewProject, n
 import { PROGRAMME_ERRORS } from '../../domain/engines/programme'
 
 export const OWNER_ERRORS = {
+  rejected: 'This item fails a reject check in its quality record, so it cannot be offered for reuse. Keep it private.',
+  notAdmissible: 'This steel is not admissible for reuse under SCI P427. Keep it private.',
   name: 'Enter the building name.',
   address: 'Enter the address.',
   region: 'Choose a region.',
@@ -314,6 +318,8 @@ export function setLotVisibility(state: AppData, actor: Actor, lotId: string, in
   if (!canSellIn(state, actor.userId, item.buildingId)) return fail(state, ERRORS.role)
   if (acceptedReservation(state, lotId)) return fail(state, OWNER_ERRORS.reserved)
   const target = TO_VISIBILITY[input.visibility]
+  if (target !== 'private' && gradingVerdict(item.family, item.quality).rejected) return fail(state, OWNER_ERRORS.rejected)
+  if (target !== 'private' && item.quality?.steel && admissibility(item.quality.steel.admissibility).verdict === 'not_admissible') return fail(state, OWNER_ERRORS.notAdmissible)
   const building = state.world.buildings[item.buildingId]
   let w = state.world
   if (input.availableFrom !== undefined && input.availableFrom !== null && input.availableFrom !== lot.availableFrom) {

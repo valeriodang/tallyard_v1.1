@@ -370,6 +370,12 @@ Round 3 is a working name, used in documents and test logs. Screens say "Updated
   - the assurance tier by layer, and warranty or recertification;
   - a printable tested-for-reuse label.
   - It is released to the client organisation only, after the reservation is accepted.
+- **As built (stage 4):**
+  - the quality panel on each item;
+  - the quality section on each material page;
+  - the steel limits card on the project's Requirements tab;
+  - the provenance pack at `/app/projects/:projectId/reservations/:reservationId`;
+  - the label as an SVG to download and print.
 
 ### 15.6 Recovery, stock and deals (stage 5)
 

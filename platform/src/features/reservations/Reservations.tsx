@@ -2,7 +2,7 @@
 // and the request to the seller. The seller sees a blind line until they accept; then both sides see each other.
 import { useState } from 'react'
 import { Link, useParams } from 'react-router'
-import { ArrowRight, Building2, Clock, EyeOff, Handshake, Leaf, Mail, RotateCcw, Send, Undo2, UserRound, Wallet } from 'lucide-react'
+import { ArrowRight, Building2, Clock, EyeOff, FileBadge, Handshake, Leaf, Mail, RotateCcw, Send, Undo2, UserRound, Wallet } from 'lucide-react'
 import { act, selectors, useView } from '../../store'
 import type { ReservationRow, ReservationsView } from '../../store/selectors/client'
 import { reservationCounts, sellerSeesLine, whenText } from '../../store/selectors/roles-views'
@@ -262,6 +262,18 @@ function ReservationCard({ row, onRequest }: { row: ReservationRow; onRequest: (
   )
 }
 
+/** Round 3: the provenance pack opens once the seller has accepted. */
+function ProvenanceLink({ reservationId }: { reservationId: string }) {
+  const { projectId = '' } = useParams()
+  return (
+    <Button asChild size="sm" variant="secondary" icon={FileBadge} className="mt-3">
+      <Link to={`/app/projects/${projectId}/reservations/${reservationId}`} data-testid="provenance-link">
+        Provenance pack
+      </Link>
+    </Button>
+  )
+}
+
 function Status({ row, onRequest, onWithdraw }: { row: ReservationRow; onRequest: () => void; onWithdraw: () => void }) {
   const r = row.reservation
   if (r?.status === 'accepted' && r.exchanged) {
@@ -300,6 +312,7 @@ function Status({ row, onRequest, onWithdraw }: { row: ReservationRow; onRequest
           </div>
         </dl>
         {r.decisionNote ? <p className="m-0 mt-3 text-sm text-ink-soft">The seller's note: {r.decisionNote}</p> : null}
+        <ProvenanceLink reservationId={r.id} />
       </div>
     )
   }

@@ -11,6 +11,7 @@ import { ERRORS, buildingOrgIds, buildingSide, canCaptureIn } from '../access'
 import { mint } from '../ids'
 import { acceptedReservation, lotOfItem } from '../lots'
 import { listJoin, log, notify, plural } from '../notifications'
+import { steelAfterResult } from './quality'
 import { acting, clean, fail, isIsoDate, ok, withWorld, type Acting } from './common'
 
 export const TESTING_ERRORS = {
@@ -133,9 +134,13 @@ export function recordTestResults(state: AppData, actor: Actor, requestId: strin
   if (lots.some((l) => !!l && !!acceptedReservation(state, l.id))) return fail(state, TESTING_ERRORS.reserved)
   if (buildingSide(state, actor.userId, r.buildingId) !== 'owner' && lots.some((l) => !!l && l.visibility !== 'private')) return fail(state, TESTING_ERRORS.locked)
   const w = structuredClone(state.world)
+  const lab = testingCompanyById(r.companyId)?.name ?? 'The testing company'
   for (const x of results) {
-    w.items[x.itemId].testStatus = x.testStatus
-    if (x.grade !== null) w.items[x.itemId].grade = x.grade
+    const it = w.items[x.itemId]
+    it.testStatus = x.testStatus
+    if (x.grade !== null) it.grade = x.grade
+    // Round 3: a steel record moves on with the results, so the record and the status buyers see agree.
+    if (it.quality?.steel) it.quality = { ...it.quality, steel: steelAfterResult(it.quality.steel, x, { ref: `${r.id}-${it.tag}`, lab, issuedOn: a.today }), updatedAt: a.now }
   }
   const clean_ = results.map((x) => ({ itemId: x.itemId, testStatus: x.testStatus, grade: x.grade, note: clean(x.note, 600) }))
   let s = withRequest(withWorld(state, w), { ...r, status: 'results', results: clean_, history: [...r.history, { at: a.now, status: 'results', byUserId: a.user.id, note: '' }] })

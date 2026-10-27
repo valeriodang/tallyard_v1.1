@@ -12,6 +12,7 @@ import type { AppData, Viewer } from '../store/types'
 import { auditPrivateStrings, contractorWorkPrivateStrings, lotPrivateStrings, projectPrivateStrings, INTERNAL_ID } from '../domain/privacy/privateStrings'
 import { createListingsFromAudit } from '../store/actions/audits'
 import { setArisingsTitle, workFor } from '../store/actions/contractorWork'
+import { saveItemQuality, saveSteelRecord } from '../store/actions/quality'
 import { SEEDED_AUDIT_IDS } from '../sandbox/seed-v3'
 import type { PreDemolitionAudit } from '../domain/auditTypes'
 import { HARROWDEN_ID, itemByTag, lotForItem, MERROWGATE_ID, ORG_IDS, SALLOW_ID, TIVERNE_ID } from '../domain/seed/world'
@@ -662,5 +663,47 @@ describe('P3, round 3: the contractor workspace and title to the arisings', () =
     const decided = Object.values(s.reservations).find((r) => r.status === 'declined')!
     expect(sel.requestsView(s, viewer(U.kofi))!.decided.map((r) => r.id)).not.toContain(decided.id)
     expect(sel.requestsView(s, viewer(U.tom))!.decided.map((r) => r.id)).toContain(decided.id)
+  })
+})
+
+describe('P3, round 3: quality on the listing and the provenance pack', () => {
+  const buyers = [['Priya', U.priya], ['Isla', U.isla], ['Marcus', U.marcus]] as const
+
+  function withPrivateQuality(): AppData {
+    let s = fresh()
+    const th01 = itemByTag(s.world, 'TH-01')
+    s = must(saveSteelRecord(s, actor(U.tom), th01.id, { ...th01.quality!.steel!, groupId: 'Secondary beams north', assessment: 'S3', samplesTested: 1, certificate: { ref: 'CERT-77310', lab: 'Brindmoor Testing', issuedOn: '2026-10-01', grade: 'S355' } })).state
+    s = must(saveItemQuality(s, actor(U.tom), th01.id, { warranty: { kind: 'seller', years: 2, note: 'Warranty held by Ostlea under the deed of 2024' }, hazards: [{ id: 'red_lead', status: 'confirmed' }] })).state
+    return s
+  }
+
+  it('the public quality key holds fixed values only', () => {
+    const s = withPrivateQuality()
+    for (const l of Object.values(s.world.lots)) {
+      const q = listingOf(s.world, l).quality
+      expect(Object.keys(q).sort()).toEqual(['assurance', 'hazards', 'processing', 'steel', 'warranty'])
+      expect(['declared', 'inspected', 'tested', 'warranted']).toContain(q.assurance)
+      expect(['as_removed', 'cleaned', 'refurbished', 'recertified']).toContain(q.processing)
+      expect(['none', 'seller', 'manufacturer', 'insured']).toContain(q.warranty)
+      if (q.steel) expect(Object.keys(q.steel).sort()).toEqual(['assessment', 'provenance'])
+    }
+    const th01 = listingOf(s.world, lotForItem(s.world, itemByTag(s.world, 'TH-01').id)).quality
+    expect(th01).toEqual({ assurance: 'warranted', processing: 'as_removed', warranty: 'seller', steel: { provenance: 'P1', assessment: 'S3' }, hazards: ['red_lead'] })
+  })
+
+  it("no buyer view holds the steel group, the certificate number or the warranty's note", () => {
+    const s = withPrivateQuality()
+    for (const [who, id] of buyers) expectNone(buyerViews(s, viewer(id)), ['Secondary beams north', 'CERT-77310', 'Warranty held by Ostlea'], who)
+  })
+
+  it('the provenance pack reaches the client only, after acceptance', () => {
+    let s = fresh()
+    const waiting = Object.values(s.reservations).find((r) => r.status === 'pending')!
+    for (const [who, id] of buyers) expect(sel.provenancePackView(s, viewer(id), MERROWGATE_ID, waiting.id), who).toBeNull()
+    s = must(decideReservation(s, actor(U.tom), waiting.id, 'accepted', '')).state
+    expect(sel.provenancePackView(s, viewer(U.isla), MERROWGATE_ID, waiting.id)).not.toBeNull()
+    for (const [who, id] of [['Priya', U.priya], ['Marcus', U.marcus]] as const) expect(sel.provenancePackView(s, viewer(id), MERROWGATE_ID, waiting.id), who).toBeNull()
+    // The architect's and the consultant's views still name no seller-private string.
+    for (const [who, id] of [['Priya', U.priya], ['Marcus', U.marcus]] as const) expectNone(buyerViews(s, viewer(id)), allLotStrings(s), who)
   })
 })

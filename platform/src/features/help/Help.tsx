@@ -4,7 +4,7 @@
 import { useMemo, type ReactNode } from 'react'
 import { Link, useParams } from 'react-router'
 import type { LucideIcon } from 'lucide-react'
-import { Award, BookOpen, Boxes, Building2, CalendarRange, Camera, ChevronDown, ClipboardCheck, Compass, Database, FileSpreadsheet, FileText, Gauge, GripHorizontal, HardHat, Handshake, History, Inbox, Info, KeyRound, Landmark, Layers, Leaf, ListOrdered, Network, PackageCheck, Recycle, Rocket, Scale, Share2, ShieldCheck, Tag, Target, Timer, Users } from 'lucide-react'
+import { Award, BookOpen, Boxes, Building2, CalendarRange, Camera, ChevronDown, ClipboardCheck, Columns3, Compass, Database, FileSpreadsheet, FileText, Gauge, GripHorizontal, Handshake, HardHat, History, Inbox, Info, KeyRound, Landmark, Layers, Leaf, ListOrdered, Network, PackageCheck, Recycle, Rocket, Scale, Share2, ShieldCheck, Tag, Target, Timer, Users } from 'lucide-react'
 import { LABELS } from '../../domain/reference/labels'
 import { useSession, type PlatformRole } from '../../store'
 import { MARKETPLACE_PATH } from '../../store/paths'
@@ -63,6 +63,7 @@ const GUIDES: Record<PlatformRole, { title: string; intro: string; steps: Step[]
       { icon: CalendarRange, title: 'Set up a project', text: 'Give it a site start and the dates are suggested for each RIBA stage: confirm or edit them. Choose the planning and sustainability requirements for its location. Your client accepts before they see it.', href: '/app/projects', cta: 'Your projects' },
       { icon: Compass, title: 'Browse the Marketplace', text: 'Filter by typology, family and availability. Pick a project in "Checking against" to see whether each material arrives in time.', href: MARKETPLACE_PATH, cta: 'Open the Marketplace' },
       { icon: Tag, title: 'Save to a project', text: 'Save materials to a project shortlist, or to Saved when you have no project for them yet.', href: '/app/saved', cta: 'Saved' },
+      { icon: Columns3, title: 'Set the steel limits', text: "On a project's Requirements tab, record the execution class, consequence class and grade the engineer allows. Steel listings then show the testing each needs and about how long it takes." },
       { icon: Handshake, title: 'Send to your client', text: 'Once your client has accepted the project, select materials on the shortlist and send them for approval with a message. The client approves or declines.' },
       { icon: FileSpreadsheet, title: 'Export the specification', text: 'Approved materials make the specification schedule: export the spreadsheet or print it, and download DXF, OBJ or IFC geometry.' },
     ],
@@ -93,6 +94,7 @@ const GUIDES: Record<PlatformRole, { title: string; intro: string; steps: Step[]
     intro: 'Capture each material on site from a phone, then hand the survey to the owner.',
     steps: [
       { icon: Camera, title: 'Capture on site', text: 'Describe the item in your own words and the fields fill: family, size, quantity. Grade its condition and recoverability, add photos.', href: '/app/capture', cta: 'Capture' },
+      { icon: ShieldCheck, title: 'Grade and screen it', text: "On each item, tick the checks for its material, note any reject reason or hazard, and for steel answer the P427 screen and keep its assessment record. Buyers see only the assurance it reaches." },
       { icon: Timer, title: 'Say when it comes out', text: 'Set the month you expect it to be free. It starts at the dismantling date in the programme; the owner sets the final date.' },
       { icon: ClipboardCheck, title: 'Submit the survey', text: 'When the walk-round is done, submit the survey. The owner is told at once. You can reopen it to add more.' },
       { icon: ListOrdered, title: 'Write the audits', text: 'On Audits, bring the surveyed items into the pre-deconstruction audit, add what the survey did not cover, screen the hazards and give every reusable line a route. Each audit checks itself against the London guidance.' },

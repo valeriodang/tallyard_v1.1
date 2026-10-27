@@ -36,7 +36,7 @@ function allProjections(w: World) {
 describe('B15 and P1: privacy at data level', () => {
   const w = createSeed()
   publishTh01(w, 730)
-  it('P1 every seeded projection has exactly the 21 keys and none of the private strings', () => {
+  it('P1 every seeded projection has exactly the public keys (22 since round 3) and none of the private strings', () => {
     for (const p of allProjections(w)) {
       expect(Object.keys(p.listing).sort()).toEqual([...PUBLIC_LISTING_KEYS].sort())
       const text = JSON.stringify(p.listing)

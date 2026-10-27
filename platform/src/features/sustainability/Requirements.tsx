@@ -15,6 +15,7 @@ import { RequirementsDialog } from '../projects/RequirementsDialog'
 import { Button, Callout, Card, cx, EmptyState, Pill, Select, Textarea, toast, TRACK_STATUS, TrackStatusPill, TrackStatusSelect } from '../../ui'
 import { Page } from '../../app/Page'
 import { TabHeader, TrackBar } from './parts'
+import { SteelLimitsCard } from '../quality/SteelLimitsCard'
 
 function EvidenceForm({ row, v, projectId }: { row: RequirementTrackRow; v: RequirementsView; projectId: string }) {
   const [open, setOpen] = useState(false)
@@ -280,6 +281,9 @@ export function Requirements() {
             )}
           </>
         )}
+      </div>
+      <div className="mt-6">
+        <SteelLimitsCard projectId={projectId} />
       </div>
       {canChoose ? <RequirementsDialog projectId={projectId} open={choosing} onOpenChange={setChoosing} /> : null}
     </Page>

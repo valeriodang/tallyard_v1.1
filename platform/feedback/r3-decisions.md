@@ -93,3 +93,48 @@ Decisions taken while building round 3 (`BRIEF.md` section 15), with the reason 
   - The destination forecast comes from the seeded audit. The asbestos stream is already weighed out, with its papers complete.
   - No notification or activity line is seeded.
 - `SEED_REVISION` is now 3.
+
+## Stage 4
+
+- **Quality lives on the item, as an optional `quality` record in the world.** The public projection reads it. Items without a record read as before.
+  - The record holds the family's checks, reject criteria, hazards, yield, processing and warranty.
+  - For steel it also holds the provenance and assessment pathway.
+- **For steel the record drives the four statuses.**
+  - Saving it sets the test status and the usable grade, through `statusFrom` and `usableGrade`.
+  - Test results from the Testing tab move the record on: an inspection to S1 at least; a test to S3 at least, with a certificate named after the request.
+  - Traceable EN 10204 papers confirmed by NDT (P2 at S2) count as tested.
+- **Provenance and assessment follow the literature review's scheme:**
+  - P0 to P3 and S0 to S4;
+  - the ADVANCE protocols A to D, testing none, one, three or every member of a group;
+  - NDT alone is enough for EXC1 at any grade and for EXC2 below S355;
+  - S355 at EXC2, anything at EXC3 or EXC4, and fatigue or seismic uses need S3;
+  - consequence class 3 gets a note that the engineer sets extra testing.
+- **The P427 screen routes steel made before 1970 to P440 rather than rejecting it.**
+  - Fire, plastic deformation, section loss over 5% and members out of tolerance rule a member out.
+  - Built-up members and fatigue-loaded members are admitted on a condition.
+  - Steel that is not admissible, and any item that fails a reject check, cannot be shared or published.
+- **Lead time by status is indicative:** S0 8 weeks, S1 6, S2 5, S3 2, S4 1. These are read from the DISRUPT toolkit's 6 to 8 weeks to recover, test and refabricate, and about a week in the lab.
+  - It shows on a steel listing against the steel limits of the project being checked, from public facts only.
+- **Grading guides follow the FCRBE grading table** for steel, timber, brick, stone, precast and raised floor.
+  - The raised floor checks are the London audit's acceptance rules.
+  - Other families carry guides written from the toolkit's candidate-family notes. Their yields are placeholders and say so.
+  - Hazards are suggested by the building's age and only for the materials each can be found in.
+- **Assurance by layer**, from the DISRUPT toolkit:
+  - structure needs test proof;
+  - skin needs inspection;
+  - the space plan needs a warranty;
+  - site work needs the seller's declaration.
+  A warranty never stands in for test proof in the structure.
+- **The public listing gains one key, `quality`, so it now has 22.** It holds the assurance tier, processing, warranty kind, the steel codes and confirmed hazards. It never holds notes, groups, certificate numbers, labs or warranty notes, and a privacy test proves it.
+- **The provenance pack is a page for the client side of the project once the seller has accepted.** The client side may be an owner building something of its own.
+  - It names the donor building, which the CEN technical specification needs in the test record.
+  - Its custody events are derived from the existing records (capture, testing, the audit, the contractor's dates, stock and the acceptance), so nothing is entered twice.
+  - It is never shown to the architect or the consultant.
+- **The tested-for-reuse label is an SVG** built from public facts only: the public ID, title, status, steel codes, tester and date. It is offered once an item is tested or certified.
+- **Steel limits sit on the project**, set by the architect on the Requirements tab. Merrowgate Wharf is seeded at EXC2, CC2, S355.
+- **The seed records quality on Tiverne House:**
+  - every steel member is at P1, S0, in four test groups, with red lead suspected;
+  - the raised floor has four of its five acceptance checks;
+  - the stone has been cleaned.
+  No figure on any listing changes.
+- `SEED_REVISION` is now 4.

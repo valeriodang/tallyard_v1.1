@@ -8,6 +8,7 @@ import { itemMeasures, lotMeasures } from '../engines/measures'
 import { guidePrice, signalForLot } from '../engines/pricing'
 import { carbonAvoided } from '../engines/carbon'
 import { factorQty } from '../engines/measures'
+import { publicQualityOf } from '../engines/grading'
 
 export const PUBLIC_LISTING_KEYS = [
   'publicId',
@@ -31,6 +32,7 @@ export const PUBLIC_LISTING_KEYS = [
   'price',
   'carbon',
   'photos',
+  'quality',
 ] as const
 
 export function availabilityFor(lot: Lot, building: SourceBuilding): Availability {
@@ -80,5 +82,6 @@ export function toPublicListing(lot: Lot, item: InventoryItem, building: SourceB
     price: { guide: gp.guide, low: gp.low, high: gp.high, signal },
     carbon: carbonResult ? { avoidedT: carbonResult.avoided, percent: carbonResult.percent } : null,
     photos: item.photos.filter((p) => p.isPublic).map((p) => ({ id: p.id, src: p.src })),
+    quality: publicQualityOf(item),
   }
 }

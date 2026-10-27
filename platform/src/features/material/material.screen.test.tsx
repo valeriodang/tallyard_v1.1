@@ -81,7 +81,8 @@ describe('material page for an architect', () => {
     open('/app/marketplace/L-9F4CQQ')
     await waitFor(() => document.querySelector('[data-testid="material-title"]'))
     expect(byTestId('gallery-stage').getAttribute('data-kind')).toBe('model')
-    expect(headings().slice(0, 4)).toEqual(['Availability', 'Sustainability', 'Key facts', 'Specification'])
+    // Changed in round 3, stage 4: quality and assurance follows the key facts.
+    expect(headings().slice(0, 5)).toEqual(['Availability', 'Sustainability', 'Key facts', 'Quality and assurance', 'Specification'])
     expect(byTestId('availability-text').textContent).toBe('Expected January to March 2027')
     // No project chosen: the fit against every project.
     expect(byTestId('fit-text').textContent).toContain('Against your projects')
