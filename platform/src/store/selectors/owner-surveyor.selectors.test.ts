@@ -58,11 +58,12 @@ describe('building tabs', () => {
   it('reads Recovery plan for the owner and follows each side', () => {
     const ids = (side: Parameters<typeof sel.buildingTabs>[0], contractor = false) => sel.buildingTabs(side, TIVERNE_ID, { contractor }).map((t) => t.id)
     // Changed 16 October 2026 (recording audit, note C1): the owner and the surveyor track requirements on the building.
-    expect(sel.buildingTabs('owner', TIVERNE_ID).map((t) => t.label)).toEqual(['Overview', 'Inventory', 'Recovery plan', 'Listings', 'Sharing', 'Testing', 'Requirements'])
-    expect(sel.buildingTabs('owner', TIVERNE_ID)[2].href).toBe(`/app/buildings/${TIVERNE_ID}/priorities`)
-    expect(ids('surveyor')).toEqual(['overview', 'capture', 'inventory', 'testing', 'requirements'])
-    expect(ids('surveyor', true)).toEqual(['overview', 'capture', 'inventory', 'testing', 'requirements', 'availability'])
-    expect(ids('contractor')).toEqual(['overview', 'availability'])
+    // Changed in round 3, stage 2: every side gets the Audits tab, after the inventory it builds on.
+    expect(sel.buildingTabs('owner', TIVERNE_ID).map((t) => t.label)).toEqual(['Overview', 'Inventory', 'Audits', 'Recovery plan', 'Listings', 'Sharing', 'Testing', 'Requirements'])
+    expect(sel.buildingTabs('owner', TIVERNE_ID)[3].href).toBe(`/app/buildings/${TIVERNE_ID}/priorities`)
+    expect(ids('surveyor')).toEqual(['overview', 'capture', 'inventory', 'audits', 'testing', 'requirements'])
+    expect(ids('surveyor', true)).toEqual(['overview', 'capture', 'inventory', 'audits', 'testing', 'requirements', 'availability'])
+    expect(ids('contractor')).toEqual(['overview', 'availability', 'audits'])
   })
 
   it('the header says how the viewer sits on the building', () => {
@@ -323,7 +324,8 @@ describe('the sidebar', () => {
     const unlinked = clients.find((i) => i.label === 'Not yet linked')!
     expect(unlinked.children.map((c) => c.label)).toEqual(['Ambrey House'])
     // Changed 16 October 2026 (recording audit, note C1): Requirements on every surveyed building.
-    expect(unlinked.children[0].children.map((c) => c.label)).toEqual(['Overview', 'Capture', 'Inventory', 'Testing', 'Requirements'])
+    // Changed in round 3, stage 2: Audits on every building.
+    expect(unlinked.children[0].children.map((c) => c.label)).toEqual(['Overview', 'Capture', 'Inventory', 'Audits', 'Testing', 'Requirements'])
     expect(clients.at(-1)).toMatchObject({ label: 'Add building', href: '/app/buildings?new=1', icon: 'Plus' })
   })
 
@@ -333,12 +335,14 @@ describe('the sidebar', () => {
     const nav = sel.navModel(s, viewer(lee))!
     const tiverne = nav.sections[1].items[0]
     expect(nav.sections[1].title).toBe('Appointed buildings')
-    expect(tiverne.children.map((c) => c.label)).toEqual(['Overview', 'Availability'])
+    // Changed in round 3, stage 2: the contractor reads the pre-deconstruction audit.
+    expect(tiverne.children.map((c) => c.label)).toEqual(['Overview', 'Availability', 'Audits'])
     // A surveying firm that is also the contractor gets both.
     s = must(appointContractor(s, actor(U.tom), TIVERNE_ID, ORG_IDS.tarnbrook)).state
     const dana = sel.navModel(s, viewer(U.dana))!.sections[1].items[0].children[0]
     // Changed 16 October 2026 (recording audit, note C1): Requirements on every surveyed building.
-    expect(dana.children.map((c) => c.label)).toEqual(['Overview', 'Capture', 'Inventory', 'Testing', 'Requirements', 'Availability'])
+    // Changed in round 3, stage 2: Audits on every building.
+    expect(dana.children.map((c) => c.label)).toEqual(['Overview', 'Capture', 'Inventory', 'Audits', 'Testing', 'Requirements', 'Availability'])
   })
 
   it('gives the owner Donor buildings with Recovery plan, then New projects and the marketplace once it has one', () => {
@@ -346,7 +350,8 @@ describe('the sidebar', () => {
     const before = sel.navModel(s0, viewer(U.tom))!
     expect(before.sections.map((x) => x.title)).toEqual([null, 'Donor buildings', null])
     // Changed 16 October 2026 (recording audit, note C1): Requirements on every donor building.
-    expect(before.sections[1].items[0].children.map((c) => c.label)).toEqual(['Overview', 'Inventory', 'Recovery plan', 'Listings', 'Sharing', 'Testing', 'Requirements'])
+    // Changed in round 3, stage 2: Audits on every donor building.
+    expect(before.sections[1].items[0].children.map((c) => c.label)).toEqual(['Overview', 'Inventory', 'Audits', 'Recovery plan', 'Listings', 'Sharing', 'Testing', 'Requirements'])
     // Audit 16 October, note C5: the Marketplace is there before any New project too.
     expect(before.sections[0].items.map((i) => i.label)).toEqual(['Home', 'Marketplace'])
     const r = must(createOwnerProject(s0, actor(U.tom), WEXCOMBE))

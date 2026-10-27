@@ -73,9 +73,9 @@ export const NEW_PROJECT = 'New project'
 export function buildingTabs(side: BuildingSide, buildingId: string, opts: { contractor: boolean } = { contractor: false }): BuildingTab[] {
   const base = `/app/buildings/${buildingId}`
   const tab = (id: string, label: string, path: string): BuildingTab => ({ id, label, href: `${base}${path}` })
-  if (side === 'owner') return [tab('overview', 'Overview', ''), tab('inventory', 'Inventory', '/inventory'), tab('priorities', 'Recovery plan', '/priorities'), tab('listings', 'Listings', '/listings'), tab('sharing', 'Sharing', '/sharing'), tab('testing', 'Testing', '/testing'), tab('requirements', 'Requirements', '/requirements')]
-  if (side === 'contractor') return [tab('overview', 'Overview', ''), tab('availability', 'Availability', '/availability')]
-  return [tab('overview', 'Overview', ''), tab('capture', 'Capture', '/capture'), tab('inventory', 'Inventory', '/inventory'), tab('testing', 'Testing', '/testing'), tab('requirements', 'Requirements', '/requirements'), ...(opts.contractor ? [tab('availability', 'Availability', '/availability')] : [])]
+  if (side === 'owner') return [tab('overview', 'Overview', ''), tab('inventory', 'Inventory', '/inventory'), tab('audits', 'Audits', '/audits'), tab('priorities', 'Recovery plan', '/priorities'), tab('listings', 'Listings', '/listings'), tab('sharing', 'Sharing', '/sharing'), tab('testing', 'Testing', '/testing'), tab('requirements', 'Requirements', '/requirements')]
+  if (side === 'contractor') return [tab('overview', 'Overview', ''), tab('availability', 'Availability', '/availability'), tab('audits', 'Audits', '/audits')]
+  return [tab('overview', 'Overview', ''), tab('capture', 'Capture', '/capture'), tab('inventory', 'Inventory', '/inventory'), tab('audits', 'Audits', '/audits'), tab('testing', 'Testing', '/testing'), tab('requirements', 'Requirements', '/requirements'), ...(opts.contractor ? [tab('availability', 'Availability', '/availability')] : [])]
 }
 
 export type BadgedBuildingTab = BuildingTab & { badge: number | null }

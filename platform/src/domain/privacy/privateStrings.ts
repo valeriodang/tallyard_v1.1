@@ -1,5 +1,6 @@
 // The strings that must never reach the other side (04 section 4). Used by tests and the end-to-end checks.
 import type { InventoryItem, Lot, Project, SourceBuilding, World } from '../types'
+import type { BuildingAudit } from '../auditTypes'
 import { dateFormats } from '../dates'
 
 export function lotPrivateStrings(lot: Lot, item: InventoryItem, building: SourceBuilding, world: World): string[] {
@@ -50,3 +51,22 @@ export function projectPrivateStrings(project: Project, world: World): string[] 
 }
 
 export const INTERNAL_ID = /\b(bld|itm)_[A-Za-z0-9]{6}\b/
+
+/**
+ * Round 3: what an audit of a donor building says, which never reaches the buying side. Short strings are left out:
+ * they turn up inside public words by chance.
+ */
+export function auditPrivateStrings(audit: BuildingAudit): string[] {
+  const out: string[] = [audit.summary]
+  if (audit.reviewer) out.push(audit.reviewer.name, audit.reviewer.organisation, audit.reviewer.note)
+  if (audit.kind === 'pre_redevelopment') {
+    out.push(audit.justification)
+    for (const f of Object.values(audit.factors)) out.push(f.note)
+    for (const o of audit.options) out.push(o.label, o.note)
+  } else {
+    out.push(audit.deskStudy.history)
+    for (const h of audit.hazards) out.push(h.note)
+    for (const r of audit.rows) out.push(r.description, r.considerations, r.broker.outlet)
+  }
+  return [...new Set(out.map((s) => s.trim()).filter((s) => s.length >= 12))]
+}

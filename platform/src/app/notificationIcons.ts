@@ -1,6 +1,6 @@
 // An icon for each kind of notification, shared by the bell and the inbox.
 import type { LucideIcon } from 'lucide-react'
-import { Building2, CalendarClock, CalendarPlus, Camera, ClipboardCheck, FlaskConical, Handshake, Inbox, Leaf, Link2, PackagePlus, Send, Share2, SquareCheckBig, Users } from 'lucide-react'
+import { Building2, ClipboardList, CalendarClock, CalendarPlus, Camera, ClipboardCheck, FlaskConical, Handshake, Inbox, Leaf, Link2, PackagePlus, Send, Share2, SquareCheckBig, Users } from 'lucide-react'
 import type { NotificationKind } from '../store/types'
 
 export const NOTIFICATION_ICONS: Record<NotificationKind, LucideIcon> = {
@@ -19,4 +19,5 @@ export const NOTIFICATION_ICONS: Record<NotificationKind, LucideIcon> = {
   availability_set: CalendarClock,
   link_opened: Link2,
   sustainability: Leaf,
+  audit: ClipboardList,
 }

@@ -135,6 +135,21 @@ export function canCaptureIn(state: AppData, userId: string, buildingId: string)
   return side === 'owner' || side === 'surveyor'
 }
 
+/**
+ * Whether the person may read an audit of the building (round 3): its owner and its surveyor read both kinds; a
+ * deconstruction contractor reads the pre-deconstruction audit, which says what comes out and where it goes.
+ */
+export function canReadAudit(state: AppData, userId: string, audit: { buildingId: string; kind: string }): boolean {
+  const side = buildingSide(state, userId, audit.buildingId)
+  if (side === 'owner' || side === 'surveyor') return true
+  return side === 'contractor' && audit.kind === 'pre_demolition'
+}
+
+/** The organisations that hear about an audit: the building's sides, without the contractor for a pre-redevelopment audit. */
+export function auditOrgIds(building: SourceBuilding, kind: string): string[] {
+  return buildingOrgIds(building).filter((o) => kind === 'pre_demolition' || o !== building.contractorOrgId || o === building.ownerOrgId || o === building.surveyorOrgId)
+}
+
 /** The buildings the person owns, surveys or dates as contractor, in seed order. */
 export function buildingsOfUser(state: AppData, userId: string): SourceBuilding[] {
   return Object.values(state.world.buildings).filter((b) => buildingSide(state, userId, b.id) !== null)

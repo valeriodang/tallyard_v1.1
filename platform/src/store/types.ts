@@ -1,6 +1,7 @@
 // The platform's state beyond the world: people, invites, notifications, activity, reservations and the
 // working records of each role. Everything here is plain data so it persists as JSON.
 import type { CostLine, SteelGrade, World } from '../domain/types'
+import type { BuildingAudit } from '../domain/auditTypes'
 import type { Fit } from '../domain/v1types'
 import type { TestService } from '../domain/reference/testing'
 import type { ProjectSustainability, RequirementTrack } from '../domain/sustainabilityTypes'
@@ -28,6 +29,7 @@ export const NOTIFICATION_KINDS = [
   'availability_set',
   'link_opened',
   'sustainability',
+  'audit',
 ] as const
 export type NotificationKind = (typeof NOTIFICATION_KINDS)[number]
 
@@ -255,6 +257,8 @@ export type AppData = {
    * ID (review of 16 October 2026). Read defensively: a sandbox stored before then has none.
    */
   buildingTracks: Record<string, Record<string, RequirementTrack>>
+  /** Round 3: pre-redevelopment and pre-deconstruction audits of donor buildings, by audit ID. Owner-private. */
+  audits: Record<string, BuildingAudit>
   ui: UiState
 }
 

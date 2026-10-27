@@ -2,7 +2,7 @@
 import { DEFAULT_NAV_PROJECT_VIEW, type AppData, type NavProjectView, type PlatformRole, type Viewer } from '../types'
 import type { Project } from '../../domain/types'
 import { MARKETPLACE_PATH } from '../paths'
-import { buildingSide, buildingsOfUser, canCaptureIn, canOpenEngagement, isBuildingContractor, isProjectClient, orgOfUser, projectSide, projectsOfUser, roleOfUser } from '../access'
+import { buildingSide, buildingsOfUser, canCaptureIn, canReadAudit, canOpenEngagement, isBuildingContractor, isProjectClient, orgOfUser, projectSide, projectsOfUser, roleOfUser } from '../access'
 import { orgTypeLabel, ROLE_LABELS } from '../../sandbox/accounts'
 import { projectWishlist } from '../lots'
 import { initials } from './common'
@@ -282,9 +282,16 @@ export function routeAccess(state: AppData, viewer: Viewer, pathname: string): R
     const side = buildingSide(state, viewer.userId, id)
     if (!side) return 'forbidden'
     if (tab === undefined) return 'ok'
-    if (!['inventory', 'capture', 'priorities', 'listings', 'sharing', 'testing', 'requirements', 'availability', 'activity'].includes(tab)) return 'not_found'
+    if (!['inventory', 'capture', 'priorities', 'listings', 'sharing', 'testing', 'requirements', 'availability', 'audits', 'activity'].includes(tab)) return 'not_found'
     // Everyone with a side on the building reads its activity, filtered to what their organisation may read.
     if (tab === 'activity') return sub === undefined ? 'ok' : 'not_found'
+    // Round 3: every side reads the building's audits; the owner and the surveyor write them.
+    if (tab === 'audits') {
+      if (sub === undefined) return 'ok'
+      if (rest.length > 0) return 'not_found'
+      const audit = state.audits[sub]
+      return audit?.buildingId === id && canReadAudit(state, viewer.userId, audit) ? 'ok' : 'forbidden'
+    }
     // The records (inventory, capture, testing) are for the owner and the surveyor; a contractor alone sets dates only.
     const records = canCaptureIn(state, viewer.userId, id)
     if (tab === 'inventory' && sub !== undefined) {

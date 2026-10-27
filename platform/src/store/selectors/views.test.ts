@@ -401,7 +401,8 @@ describe('inbox, navigation, routes and search', () => {
     expect(sel.inboxView(s, viewer(U.isla), 'unread').groups).toHaveLength(1)
     expect(sel.bellView(s, viewer(U.tom)).unread).toBe(2)
     // Round 2 merge: an owner who is the client of a New project also hears of its sustainability records (BRIEF 14.1; client-consultant design).
-    expect(sel.notificationSettings(s, viewer(U.tom)).map((x) => x.kind)).toEqual(['sent_to_client', 'reservation_requested', 'reservation_decided', 'survey_submitted', 'item_captured', 'team', 'building_claim', 'testing', 'availability_set', 'link_opened', 'sustainability'])
+    // Changed in round 3, stage 2: owners also hear when an audit of one of their buildings is completed.
+    expect(sel.notificationSettings(s, viewer(U.tom)).map((x) => x.kind)).toEqual(['sent_to_client', 'reservation_requested', 'reservation_decided', 'survey_submitted', 'item_captured', 'team', 'building_claim', 'testing', 'availability_set', 'link_opened', 'sustainability', 'audit'])
   })
 
   it('relative times', () => {

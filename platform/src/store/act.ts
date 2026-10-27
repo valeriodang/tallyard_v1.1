@@ -16,6 +16,7 @@ import * as testing from './actions/testing'
 import * as links from './actions/links'
 import * as sustainability from './actions/sustainability'
 import * as buildingRequirements from './actions/buildingRequirements'
+import * as audits from './actions/audits'
 
 function bind<V, A extends unknown[]>(fn: (s: AppData, actor: Actor, ...args: A) => ActionResult<V>): (...args: A) => Outcome<V> {
   return (...args: A) => useApp.getState().run(fn, ...args)
@@ -114,6 +115,17 @@ export const act = {
   setBuildingRequirementStatus: bind(buildingRequirements.setBuildingRequirementStatus),
   addBuildingRequirementEvidence: bind(buildingRequirements.addBuildingRequirementEvidence),
   removeBuildingRequirementEvidence: bind(buildingRequirements.removeBuildingRequirementEvidence),
+  // Audits of a donor building
+  createAudit: bind(audits.createAudit),
+  saveAudit: bind(audits.saveAudit),
+  saveAuditRow: bind(audits.saveAuditRow),
+  removeAuditRow: bind(audits.removeAuditRow),
+  importSurveyedItems: bind(audits.importSurveyedItems),
+  saveRetentionOption: bind(audits.saveRetentionOption),
+  removeRetentionOption: bind(audits.removeRetentionOption),
+  completeAudit: bind(audits.completeAudit),
+  reopenAudit: bind(audits.reopenAudit),
+  createListingsFromAudit: bind(audits.createListingsFromAudit),
   // Team, profile, organisation and notifications
   createInvite: bind(team.createInvite),
   revokeInvite: bind(team.revokeInvite),

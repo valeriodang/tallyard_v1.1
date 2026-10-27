@@ -67,5 +67,9 @@ scripts/               scan.mjs, make-samples.mjs, make-photo-fixture.mjs, shots
 4. Version 2 items stay greyed until asked for: matching an uploaded BIM model or steel schedule against the whole marketplace, and the BIM family download.
 6. Round 3 of the platform, the literature upgrade (`platform/BRIEF.md` section 15). It is built in six stages, each tested and pushed.
    - Stage 1 is done: the RICS carbon method and values, the literature reference tables and engines in Methodology, six new material families, and the deconstruction contractor as a sign-in role.
+   - Stage 2 is done: the Audits tab on every donor building.
+     - The pre-redevelopment audit has the six factors, the GLA decision tree, the City carbon options with the retrofit test and an independent reviewer.
+     - The pre-deconstruction audit has the desk study, the hazard screen, three inventories with scores, routes and condition bands, the targets, and listing reusable lines early.
+     - Both have checks against the London guidance and a workbook export.
    - Test changes are logged in `platform/feedback/r3-test-changes-*.md` and decisions in `platform/feedback/r3-decisions.md`.
 5. Literature review of `reference literature/` done (27 October 2026): `reports/Tallyard literature review.md`, notes in `research_notes/Literature review/`. It recommends reference-value updates and ranks 17 features; none is built until the user chooses. Eight later documents (D53 to D60) are reviewed in note 08 with the updated gap status.

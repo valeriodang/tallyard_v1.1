@@ -9,7 +9,10 @@ import { createSurveyBuilding } from '../store/actions/claims'
 import { FENNICK_ID, TIVERNE_LINK_ID } from '../sandbox/seed-owner-surveyor'
 import { dateFormats } from '../domain/dates'
 import type { AppData, Viewer } from '../store/types'
-import { lotPrivateStrings, projectPrivateStrings, INTERNAL_ID } from '../domain/privacy/privateStrings'
+import { auditPrivateStrings, lotPrivateStrings, projectPrivateStrings, INTERNAL_ID } from '../domain/privacy/privateStrings'
+import { createListingsFromAudit } from '../store/actions/audits'
+import { SEEDED_AUDIT_IDS } from '../sandbox/seed-v3'
+import type { PreDemolitionAudit } from '../domain/auditTypes'
 import { HARROWDEN_ID, itemByTag, lotForItem, MERROWGATE_ID, ORG_IDS, SALLOW_ID, TIVERNE_ID } from '../domain/seed/world'
 import { DEFAULT_DISCOVER_QUERY } from '../store/selectors/discover'
 import * as sel from '../store/selectors'
@@ -555,5 +558,51 @@ describe('P3 and money, round 2: the sustainability records', () => {
     for (const fn of [sel.sustainabilityView, sel.goalRows, sel.requirementsView, sel.statementView, sel.certificationSummary, sel.sustainabilityTracking, sel.complianceWorkbook]) expect(fn(s, v, MERROWGATE_ID)).toBeNull()
     expect(sel.clientDashboard(s, v)).toBeNull()
     expectNone(ownerViews(s, v), allProjectStrings(s), 'Tom')
+  })
+})
+
+describe('P3, round 3: the audits of a donor building stay with the building', () => {
+  const buyers = [['Priya', U.priya], ['Isla', U.isla], ['Marcus', U.marcus]] as const
+
+  it('no buyer view holds an audit string, and no buyer can open an audit or the Audits tab', () => {
+    const s = fresh()
+    const audits = Object.values(s.audits)
+    expect(audits.length).toBeGreaterThanOrEqual(3)
+    const strings = audits.flatMap(auditPrivateStrings)
+    expect(strings.length).toBeGreaterThan(20)
+    for (const [who, id] of buyers) {
+      expectNone(buyerViews(s, viewer(id)), strings, who)
+      for (const a of audits) {
+        expect(sel.auditsView(s, viewer(id), a.buildingId), who).toBeNull()
+        expect(sel.auditDetailView(s, viewer(id), a.buildingId, a.id), who).toBeNull()
+        expect(sel.routeAccess(s, viewer(id), `/app/buildings/${a.buildingId}/audits/${a.id}`), who).toBe('forbidden')
+      }
+    }
+  })
+
+  it('a lot listed early from the audit carries none of the audit once it is published', () => {
+    let s = fresh()
+    s = must(createListingsFromAudit(s, actor(U.tom), SEEDED_AUDIT_IDS.tiverneDeconstruction)).state
+    const audit = s.audits[SEEDED_AUDIT_IDS.tiverneDeconstruction] as PreDemolitionAudit
+    const made = audit.rows.filter((r) => r.itemId && !itemsOf(fresh(), TIVERNE_ID).some((i) => i.id === r.itemId))
+    expect(made.length).toBeGreaterThan(0)
+    for (const r of made) s = must(setLotVisibility(s, actor(U.tom), lotForItem(s.world, r.itemId!).id, { visibility: 'published', ask: 4, reserve: 3 })).state
+    const strings = Object.values(s.audits).flatMap(auditPrivateStrings)
+    for (const [who, id] of buyers) expectNone(buyerViews(s, viewer(id)), strings, who)
+    for (const r of made) expect(JSON.stringify(listingOf(s.world, lotForItem(s.world, r.itemId!)))).not.toContain('pre-deconstruction audit')
+  })
+
+  it('the deconstruction contractor reads the pre-deconstruction audit only, with no link into the inventory', () => {
+    const s = fresh()
+    const v = viewer(U.kofi)
+    expect(sel.auditsView(s, v, TIVERNE_ID)!.audits.map((a) => a.id)).toEqual([SEEDED_AUDIT_IDS.tiverneDeconstruction])
+    const pda = sel.auditDetailView(s, v, TIVERNE_ID, SEEDED_AUDIT_IDS.tiverneDeconstruction)!
+    expect(pda.editable).toBe(false)
+    expect(pda.kind === 'pre_demolition' && pda.rows.every((r) => r.itemHref === null)).toBe(true)
+    expect(sel.auditDetailView(s, v, TIVERNE_ID, SEEDED_AUDIT_IDS.tiverneRetention)).toBeNull()
+    expect(sel.routeAccess(s, v, `/app/buildings/${TIVERNE_ID}/audits/${SEEDED_AUDIT_IDS.tiverneRetention}`)).toBe('forbidden')
+    expect(sel.routeAccess(s, v, `/app/buildings/${TIVERNE_ID}/audits/${SEEDED_AUDIT_IDS.tiverneDeconstruction}`)).toBe('ok')
+    // An audit of another building never opens under this one.
+    expect(sel.routeAccess(s, viewer(U.tom), `/app/buildings/${TIVERNE_ID}/audits/${SEEDED_AUDIT_IDS.harrowdenDeconstruction}`)).toBe('forbidden')
   })
 })

@@ -123,6 +123,7 @@ export function firstRun(todayIso: string, now: string = `${todayIso}T09:00:00.0
     buildingClaims: {},
     testingRequests: {},
     buildingTracks: {},
+    audits: {},
     ui: { ...DEFAULT_UI, checkingProjectId: {}, captureBuildingId: {} },
   }
 
