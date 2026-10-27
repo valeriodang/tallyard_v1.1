@@ -1,0 +1,4247 @@
+﻿Report From: 
+
+Reusefully Ltd 
+ 
+
+Report Prepared For: 
+
+Gleeds Management Services  
+
+ 
+Pre-Demolition Audit of 322 High  
+
+Holborn, 44 Southampton Buildings, and  
+Holborn Gate, London 
+
+16th September 2024 (version 1.2) 
+
+  
+
+1 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+
+Executive Summary 
+
+Overview  
+
+The aim of this report is to contribute to the sustainable management of materials arising from the 
+proposed demolition of 322 High Holborn, 44 Southampton Buildings and Holborn Gate, London. 
+
+Methodology 
+Information supporting the audit was gathered from architectural drawings and reports supplied by 
+the client, as well as non-invasive observations and measurements carried out by Reusefully Ltd on 
+10th July 2024. Where supporting information could not be gathered through these sources, 
+assumptions were made based on typical scenarios for the building typology.  
+
+The gathered information was analysed to derive the estimates of materials arising, as well as the 
+potential opportunities for reuse, recycling, and landfill diversion.  
+
+Estimated material arisings  
+
+A total of 23,802 tonnes of material is predicted to arise as a result of the proposed demolition 
+works, with an estimated volume of 11,699  m3.  
+
+ 
+
+Material Weight (tonnes) Volume (m3) EWC code 
+
+Concrete 18,548.2 8,098.8 17 01 01  
+
+Ceramic 2,766.4 1,152.7 17 01 03  
+
+Metals 865.8 118.4 17 04 05  
+
+Timber 482.1 710.6 17 02 01 
+
+Brick 461.3 271.4 17 01 02  
+
+Gypsum 265.0 353.3 17 08 02  
+Glass 124.1 50.5 17 02 02  
+
+Bitumen 122.4 61.2 17 03 02  
+
+Carpet 65.9 75.6 20 01 11  
+
+Insulation 36.9 784.6 17 06 04  
+
+Stone 23.8 9.3 17 01 07  
+
+WEEE 23.6 0.0 16 02 14  
+
+Plastics 16.9 12.7 17 02 03  
+
+Grand Total 23,802.3 11,698.9 -- 
+
+*Waste electrical and electronic equipment – not all quantified.  
+
+Targets  
+
+It is recommended that a target of 97% diversion of waste from landfill (as a proportion of total 
+demolition arisings) should be set, with 2% of this targeted to come from reuse (by weight).  
+
+2 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Recommendations 
+
+There are multiple opportunities for on-site reuse and recycling to mitigate the impacts of the 
+proposed new development. 
+
+The figure below provides a high-level assessment of opportunities, comparing feasibility and overall 
+benefits1.  
+
+As a result of this assessment, the following key recommendations have been made:  
+
+1. RECYCLED AGGREGATES. Recycling of concrete to On-site/off-site recycling 
+provide as much of the aggregate requirements for the 
+development as possible – fill, sub-base, targeting 20-
+30% replacement of primary aggregates in ready mix 
+concrete.  
+
+(See Section 6) 
+
+ 
+
+2. REUSE RAISED ACCESS FLOORING. Engage with RMF 
+Off-site reuse  
+
+to establish how much is suitable for reuse with regard 
+to condition, processes and price.  
+
+(See Section 5) 
+
+ 
+
+ 
+
+3. REUSE BRICKS. There is potential to salvage a Off-site reuse 
+proportion of bricks (there are various types) for reuse 
+within the new scheme or elsewhere. The amount will 
+depend on the strength of the mortar bond.  
+
+(See Section 5) 
+
+ 
+
+ 
+
+1 High level assessment. Feasibility – cost, logistics, impact of programme, level of uptake, testing etc. 
+Benefit – amount of material/ product involved, carbon, other aspects such as biodiversity.  
+
+3 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+
+3. REUSE CARPET TILES.  Engage with organisations that Off-site reuse  
+reuse carpet tiles to establish requirements.  
+
+(See Section 5) 
+
+ 
+
+ 
+
+4. REUSE METAL CEILING TILES. Several different types Off-site reuse  
+throughout building; engage with organisations / 
+initiatives that reuse ceiling tiles to establish 
+requirements.  
+
+(See Section 5) 
+
+ 
+
+ 
+
+5. REVIEW OTHER MATERIALS FOR REUSE. Review what On and offsite reuse 
+products are suitable for reuse, on and off scheme. 
+Reusefully can develop a Resource Tracker.  
+
+(See Section 5) 
+
+6. RECYCLE OTHER MATERIALS. Once reuse Off-site recycling 
+opportunities have been considered and allocated, the 
+
+ 
+next priority should be to recycle all remaining 
+materials to highest potential value.   
+
+(See each material section (Appendix C) and Section 6) 
+
+Once decisions have been made on the recommendations above, and any other opportunities 
+flagged up, it will be possible to set targets for reuse on site, reuse offsite, recycle onsite and 
+recycle offsite. It is recommended that the key decision points for the above recommendations are 
+explored in future meetings undertaken in fulfilment of the Circular Economy Statement 
+requirement for the project, and set out as a schedule. For instance, there are likely to be 
+requirements for feasibility studies, design iterations, tendering and contract targets and 
+requirements, and ongoing monitoring. Additionally, there will be interlinkages with other aspects of 
+the project such as cost, programme, and whole life carbon, which should also be addressed in 
+circular economy meetings.  
+
+ 
+
+4 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+
+Contents 
+Contents .............................................................................................................................................. 5 
+
+1. The Requirement ....................................................................................................................... 6 
+
+2. Existing Building ......................................................................................................................... 7 
+
+3. Development Proposals ........................................................................................................... 10 
+
+4. Methodology ............................................................................................................................ 11 
+
+5. Reuse opportunities ................................................................................................................. 14 
+
+6. High-value recycling opportunities .......................................................................................... 37 
+
+7. Maximising reuse and high-value recycling ............................................................................. 38 
+
+8. Targets ..................................................................................................................................... 41 
+
+9. Bulk volume and Number of Skips ........................................................................................... 42 
+
+10. Mitigation of demolition ..................................................................................................... 43 
+
+11. Next steps and implementation .......................................................................................... 44 
+
+Appendix A – Report Authors ........................................................................................................... 45 
+
+Appendix B – Assumptions ............................................................................................................... 47 
+
+Appendix C – Arisings and waste management guidance, by material category ............................. 48 
+
+Appendix D – Breakdown of arisings by NRM categories ................................................................. 65 
+
+Appendix E – Local reuse and recycling organisations ..................................................................... 74 
+
+Appendix F – ICE embodied carbon .................................................................................................. 76 
+
+  
+
+5 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+1. The Requirement 
+
+Gleeds Management Services engaged Reusefully Ltd to carry out a pre-demolition audit of High 
+Holborn, London WC1. The aims of the audit are:  
+
+• To provide an understanding of the types and amounts of products and materials arising 
+during the refurbishment/demolition to enable reuse in the new development or elsewhere 
+
+• To optimise the management of products and materials and provide recommendations to 
+the design team and demolition contractor in line with the waste hierarchy i.e. maximise 
+reuse and recycling and minimise waste to landfill 
+
+• To provide technical advice on the reuse of products and recycling of material on and off-site 
+
+• To facilitate better links and communication within the supply chain and provide details of 
+local charities, organisations and companies who may be able to deal with the reuse and 
+higher value recycling of products and materials arising 
+
+• To provide data to help with populating the Resource Management Plan and in support of 
+any assessment e.g. BREEAM Wst01 and GLA’s planning requirement 
+
+• To advise on targets for reuse and recycling for products and materials  
+
+• Mitigation of negative effects from demolition.   
+
+ 
+
+The audit follows the requirements as set out in the Code for Pre-Demolition Audits2 and the Mayor 
+of London’s Circular Economy Guidance (March 2022)3, and is fully compliant with the BREEAM 
+Wst01 criteria.  A Pre-redevelopment Audit Report was issued by Reusefully Ltd in June 2023.   
+
+ 
+2 https://condemwaste.org/wp-content/uploads/2018/10/Code-of-Practice-Pre-redevelopment-
+audit-July-17-V1.pdf 
+3 https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/london-
+plan-guidance/circular-economy-statement-guidance 
+
+6 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+2. Existing Buildings 
+
+The existing site contains three buildings arranged around a central courtyard though not connected  
+internally, with some associated external space around the periphery. For the purposes of this  
+assessment, there are three distinguishable ‘zones’ to the site, based on construction date, typology  
+and position of the buildings – these are highlighted in the site plan and aerial view of the site below,  
+and are described in further detail in the subsequent sections. The zones are:  
+ 
+
+• Holborn Gate (outlined in yellow)  
+• 322 High Holborn (outlined in blue)  
+• 44 Southampton Buildings (outlined in red)  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+322 High Holborn is an eight-storey commercial building dating from the late 1960s, comprising 
+retail space and a reception/lobby on the ground floor, six floors of offices above, several residential 
+units on the 8th floor, and a basement. Access between storeys is achieved through a single access 
+and services core to the rear of the building, as well as a lift to the Western end which provides 
+direct access to the residential units.   
+
+The internal spaces have been refurbished at least once since construction. Access was not possible 
+to all floors at the time of the site visit. Floor to ceiling heights is low (ranging from 2.6m typically to 
+2.3m under chilled beams).     
+
+Holborn Gate. Similarly to 322 High Holborn, Holborn Gate is an eight-storey building dating from 
+the early 1960s, with retail space and a reception/lobby on the ground floor, six floors of offices 
+
+7 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+above, and two basement levels. Three cores provide access and delivery of building services 
+between storeys. The building is larger than 322 High Holborn, extended away from the street 
+frontage onto High Holborn.  
+
+44 Southampton Buildings was built as purpose-built offices in 1913-1914, and features a ground 
+floor with reception and lobby, four floors of office space, a basement with meeting rooms and end-
+of-trip facilities (e.g. bicycle store).  
+
+Several extensive works were undertaken on the building throughout the 20th century and in the 21st 
+century, including an extension to the rear to house a new access core, a roof extension, and some 
+alterations to the street-facing façade.   
+
+Selected floors plans and elevations of the buildings are shown below.  
+
+ 
+
+  
+
+8 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Holborn Gate 
+
+ 
+
+322 High Holborn 
+
+ 
+
+ 
+
+44 Southampton Buildings 
+
+  
+
+9 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+3. Development Proposals  
+
+The proposed scheme is for a total demolition of the 3 existing buildings on site and a new 
+development of a grade A office building with retail space on the ground floor and supporting 
+facilities in one basement.  
+
+A comprehensive technical review was undertaken by the design team as part of the optioneering 
+process. This review included a thorough assessment of the existing buildings to determine the most 
+viable approach for the project. The results demonstrated the benefits of the new build option 
+compared to the other WLCA options. 
+
+It is important to note that at the start of the optioneering process, the various disciplines involved 
+completed qualitative considerations at the building level. These considerations were presented to 
+the City of London (COL), ensuring that all potential options were evaluated thoroughly.  
+
+ 
+
+  
+
+10 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+4. Methodology 
+
+Information sources 
+
+The following information has been used to assist with undertaking the audit:  
+
+• Pre-application meetings 
+
+• Archive download 
+
+• City983 September 2000 
+
+• 319-332 High Holborn pre-application historic building report May 2023 
+
+• Sections, elevations and floor plans from Plowman Craven 
+
+• Measurements, notes, and photos taken by Reusefully during a site visit on 10th July 2024  
+
+Analysis  
+
+On the basis of information gathered and provided, a full analysis of materials arising from the 
+proposed demolition has been undertaken, with results reported in both weight and volume, which 
+have been calculated using standard density figures for the materials identified.  Areas are also 
+provided where useful. The methodology has followed the BRE Code of Practice for Pre-
+Redevelopment Audits (July 2017)4. 
+
+Assumptions can be found in Appendix B.  
+
+Note for the purposes of this report, reuse is defined as reusing a product/material with minimal 
+reprocessing usually in the same or similar function.  Recycling is any recovery operation where 
+waste materials are reprocessed into products, materials or substances, whether for original or 
+other purposes. For example, crushing aggregates is considered as recycling activity. This report 
+recommends for each material/product reuse and recycling options as per the value retention 
+hierarchy (see below).  
+
+ 
+
+ 
+
+https://condemwaste.org/wp-content/uploads/2018/10/Code-of-Practice-Pre-redevelopment-audit-
+July-17-V1.pdf  
+
+11 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Summary of Estimated Material Arisings 
+
+A total of 23,802 tonnes of material is predicted to arise as a result of the proposed demolition 
+works, with an estimated actual volume of 11,699m3. Figure 1 and Table 1 summarise the total 
+estimated quantities for key material types. A full breakdown of arisings by material type can be 
+found in Appendix D, including the quantities arisings, the building elements and components that 
+contain the materials, and waste management options.  
+
+Figure 1. Estimated material arisings, split by material type (% by mass) 
+
+ 
+
+Table 1.  Estimated material arisings from the strip-out and demolition works (tonnage and volume) 
+
+Material Weight (tonnes) Volume (m3) EWC code 
+
+Concrete 18,548.2 8,098.8 17 01 01  
+
+Ceramic 2,766.4 1,152.7 17 01 03  
+
+Metals 865.8 118.4 17 04 05  
+
+Timber 482.1 710.6 17 02 01 
+
+Brick 461.3 271.4 17 01 02  
+
+Gypsum 265.0 353.3 17 08 02  
+
+Glass 124.1 50.5 17 02 02  
+
+Bitumen 122.4 61.2 17 03 02  
+
+Carpet 65.9 75.6 20 01 11  
+
+Insulation 36.9 784.6 17 06 04  
+
+Stone 23.8 9.3 17 01 07  
+
+WEEE 23.6 0.0 16 02 14  
+
+Plastics 16.9 12.7 17 02 03  
+
+Grand Total 23,802.3 11,698.9 -- 
+
+*Waste electrical and electronic equipment – not all quantified.  
+
+12 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Table 2 below shows the quantities (tonnage and volume) of arisings split by NRM group and 
+element type. A fuller breakdown of components under each NRM group element is in Appendix D.  
+
+Table 2.  Estimated material arisings from the strip-out and demolition works by element type 
+(tonnage and volume) 
+
+*Not all quantified 
+
+Calculated volume 
+NRM Group / NRM Element / Component Tonnes 
+
+(m3) 
+2. Superstructure 22,085.4 10,361.51 
+
+2.1 Frame 6,430.6 2,584.84 
+2.2 Upper floors 12,313.0 5,053.87 
+2.3 Roof 132.5 216.51 
+2.4 Stairs and ramps 358.5 142.83 
+2.5 External walls 1,502.4 778.90 
+2.6 Windows and external doors 98.6 43.16 
+2.7 Internal walls and partitions 1,206.9 1,466.25 
+2.8 Internal doors 42.8 75.15 
+
+3. Internal finishes 1,562.4 1,282.55 
+3.1 Wall finishes 18.3 15.39 
+
+3.2 Floor finishes 1,321.6 1,061.90 
+3.3 Ceiling finishes 222.5 205.27 
+
+4. Fittings, furnishings and equipment 11.7 8.41 
+4.1 Fittings, furnishings and equipment 11.7 8.41 
+
+5. Services 31.9 3.20 
+5.1 Sanitary installations 8.3 3.20 
+5.10 Lift and conveyor systems 13.2 0.00 
+5.4 Water installations 0.1 0.00 
+5.8 Electrical installations 10.3 0.00 
+
+8. External works 111.0 43.25 
+8.2 Roads, paths, pavings and services 103.6 42.30 
+8.4 Fencing, railings and walls 7.4 0.95 
+
+Grand Total 23,802.3 11,698.94 
+
+ 
+
+ 
+
+       
+
+  
+
+13 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+5. Reuse opportunities  
+
+A number of reuse opportunities were identified at the site. Table 3 below displays the reuse 
+opportunities, estimated quantities available for reuse, and considerations for reuse. A high-level 
+estimate of the upfront embodied carbon that may be avoided in future projects by specifying these 
+reused items in place of new items has also been provided, based on values from the ICE Database 
+V3 (2019) (see Appendix F). Note that electrical and electronic equipment items do not have 
+embodied carbon data – as such the actual embodied carbon that could be saved is likely greater 
+than is reported here.  
+
+Overall, we estimate that approximately 664 tonnes of arisings could be reused, corresponding to 
+559 tCO2e of avoided upfront embodied carbon in future projects where these reclaimed items are 
+used.  
+
+Note that some of the primary reuse opportunities are explored in detail in a dedicated section after 
+Table 3.  
+
+  
+
+14 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+Table 3. List of reuse opportunities  
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Raised access All 70% 320.5 280.6 12,446 m2  See focused section after table 3 See focused section after table 3 
+floor panels buildings, 
+
+(~34,572 
+multiple 
+
+panels) 
+floors 
+
+See focused after table 3 
+
+Concrete All 10% 88.3 8.8 601.6 sqm  Concrete blockwork was seen in a few Some concrete blocks are generally 
+blockwork buildings, areas and appeared to be in good recoverable from demolition of 
+
+(as 
+multiple condition and fixed with a cement blockwork walls at relatively low effort. 
+
+assembled, 
+floors mortar bond. Some may be painted.  Most efficient approach is to ‘flop’ wall 
+
+single skin, 
+and then pick out any intact blocks from 
+
+No image available including 
+the resulting pile.  
+
+mortar joints) 
+Main reuse potential opportunity is 
+reuse within the development e.g. 
+basement, back of house, plant areas 
+etc.  
+
+15 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Modern Holborn 10% 25.0 5.2 156 sqm  There are several factors that determine 
+brickwork, Gate, Brickwork in Holborn Gate and 322 
+
+reuse potential of bricks:  
+ (as installed, 
+
+internal and ground floor High Holborn is more modern and 
+single skin, 
+
+external, external, much is internal, making the reuse • Ease of recovering intact bricks – this 
+including 
+
+some painted roof potential uncertain, 10% reuse has may be affected by mortar strength 
+mortar joints) 
+
+external, been assumed. (lime is softer than cement-based 
+
+basement mortars, though reuse of cement 
+Brickwork at 44 Southampton Buildings 
+
+ 
+internal mortar-bonded brickwork can still be 
+
+has a higher rate of reuse assumed as it 
+achieved successfully.  
+
+is externally facing and therefore less 
+Modern 322 High 10% 10.7 2.2 66 sqm likely to have any defects that would • Technical suitability of the brick for 
+
+ brickwork, Holborn, make it less desirable for reuse; new applications; since it can be difficult 
+(as installed, 
+
+external, ground floor additionally, the style is more in- to ascertain the technical performance 
+single skin, 
+
+black/brown external, demand than the modern bricks attributes of reclaimed bricks, it is often 
+including 
+
+basement present in Holborn Gate and 322 High best to ‘play it safe’, and reuse bricks for 
+mortar joints) 
+
+internal Holborn.  non-loadbearing applications, where 
+exposure to frost, driving rain etc. are 
+
+The glazed bricks in the rear façade of 
+minimised. The Brick Development 
+
+Older brown 44 So’ton 40% 33.9 7.1 210 sqm 44 Southampton Buildings are likely in 
+ Association5 has produced technical 
+
+external brick  Bldgs high demand however they can be 
+(as installed, guidance for the use of reclaimed bricks.  
+
+more time-consuming to recover due 
+single skin, 
+
+to the need to avoid chipping the • Salvage value / market demand. 
+including 
+
+glazed surface, meaning they must be Certain styles and colours of bricks are 
+mortar joints) 
+
+carefully removed brick-by-brick. more desirable than others, and their 
+general condition is an important factor. 
+
+ 
+5 https://www.brick.org.uk/uploads/downloads/07.-Reuse-of-Clay-Brickwork-General-Guide-2023.f1678701865.pdf 
+
+16 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Older ‘heritage’ brick styles are more in-
+White glazed 44 So’ton 20% 4.0 0.8 25 sqm 
+
+demand than modern styles, and as such 
+ external brick  Bldgs 
+
+(as installed, more the latter will be difficult to find 
+single skin, reuse applications for offsite.   
+including 
+
+mortar joints) 
+
+Carpet tiles All 75% 44.3 132.8 11,070 sqm The carpet tiles are in mostly good Various types and colours present, 
+buildings, condition throughout with localised overall good potential for reuse either 
+
+=44,280 tiles 
+multiple staining and wear & tear. Additionally, by setting aside for onsite reuse (using 
+
+(assuming 
+floors. there are carpet tiles of various types, onsite or offsite storage); using a 
+
+average size 
+design styles, and manufacturers, specialist such as Envirocycle6; donating 
+
+of 0.25sqm 
+  which should be kept together if to charities such as Uplyfted or No Floor 
+
+per tiles) 
+targeted for reuse.  No More7; or offering via an online 
+
+reuse platform. May require sorting by 
+condition and palletising prior to 
+collection by an external party, and 
+certain types are more difficult to reuse 
+than others.  
+
+  
+
+ 
+
+6 https://envirocyclelondon.com/  
+
+7 https://www.nofloornomore.org/ 
+
+7 https://uplyfted.co.uk/ 
+
+17 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Metal ceiling All 70% 33.5 66.7 5,990.0 sqm The ceiling tiles are in good condition Fairly easy to recover intact, though care 
+tiles buildings, throughout all 3 buildings.  should be taken not to damage or scuff 
+
+(as installed) 
+multiple them. Main difficulty is finding a 
+
+Some are more of a standard spec (ie 
+floors buyer/recipient. The original 
+
+600x600mm perforated steel), which 
+manufacturer may be approached to 
+
+have more potential for reuse, whilst 
+take the tiles back, and alternatively 
+
+ others are rectangular which may be 
+there is a reuse initiative by the FIS that 
+
+more challenging to find a future user.  
+is working to store and reuse metal 
+ceiling tiles8. May be possible to 
+incorporate in new scheme as part of 
+Cat A fit-out. There are storage and 
+packaging considerations that may be 
+
+ elaborated on if these are targeted for 
+reuse.   
+
+Concrete On ledges/ 30% 26.1 2.6 381.8 sqm Due to their relatively poor aesthetic Generally, very easy to uplift, not 
+paving slabs overhangs quality/condition, the paving slabs especially valuable but installed in 
+
+(at Holborn from the existing ledges are best suited almost every building with outdoor 
+Gate) to reuse in non-public areas, such as areas (especially non-public areas such 
+
+rooftop plant access areas. as rooftop plant access). It may be worth 
+posting to digital reuse marketplaces 
+
+ such as EME.  
+
+ 
+
+8 https://www.thefis.org/knowledge-
+hub/sustainablility/reuse/#:~:text=Reuse%20%2D%20FIS&text=FIS%20Project%20Reuse%20is%20live,in%20the%20fit%2Dout%20world. 
+
+18 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Concrete Holborn 10% 16.2 1.6 193.2 sqm The concrete cladding is in relatively Most likely option is repurposing into an 
+cladding Gate and poor condition, with signs of wear on alternative product, eg paving slabs, as it 
+
+322 High some panels as well as staining (which is unlikely to find a project where this 
+Holborn should be possible to clean off). Some cladding system has been specified.  
+
+panels may be suitable for reuse, 10% 
+has been assumed. 
+
+ 
+
+Timber doors All 30% 10.8 3.3 246 no. Large number of high-quality doors There are several successful examples of 
+& frames buildings, throughout the offices and public areas reuse of doors of various types. Note 
+
+multiple of the buildings. Doors feature a that for fire doors, due to issues with 
+floors variable array of hardware including testing and certifying reused doors these 
+
+handles, hinges, push plates, vision should only be specified where fire 
+panels, fire blocking features, and doors are not required based on the fire 
+more. Most of these are in adequate compartmentation strategy of the 
+condition for reuse, and although there recipient building. The best opportunity 
+are some added difficulties of careful is onsite in the new scheme. The FBRCE 
+
+  removal vs typical demolition.  Reuse Factsheet on timber door reuse is 
+a highly useful resource on the 
+
+Note there are also a large number of 
+practicalities9. Suggested next step to 
+
+doors that are better suited to back-of-
+undertake a detailed door inventory and 
+
+house applications, as they are not of a 
+consider potential to specify in new 
+
+style or condition that would be in 
+scheme, with any doors not specified in 
+
+demand in the modern office fit-out 
+new scheme to be offered externally.  
+
+market – these should nonetheless be 
+
+  considered for reuse, especially in the 
+back-of-house areas of the new 
+scheme. Examples include core access 
+
+ 
+9 https://www.nweurope.eu/projects/project-search/fcrbe-facilitating-the-circulation-of-reclaimed-building-elements-in-northwestern-europe/news/reuse-toolkit-material-
+sheets/ - (See ‘Woodwork’ factsheet)   
+
+19 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+doors, general back-of-house doors, 
+riser doors, and potentially some doors 
+in the main office floors.  
+
+ 
+
+Stone paving Externally 60% 8.6 0.7 114 sqm The paving is in good condition and Should be carefully uplifted, stacked and 
+on the site appears to be relatively easy to uplift. palletised. Design team should consider 
+
+onsite reuse opportunities, or otherwise 
+it may be offered externally.  
+
+ 
+
+Glass Holborn 25% 7.9 12.6 130.9 linear Various types, sizes and shapes Health and safety consideration 
+partitions Gate and metres  present, in good condition overall.  associated with careful removal. 
+
+322 High Retrieval from the building is facilitated 
+(as installed) The glass panels are generally 
+
+Holborn, where there is a large-enough lift 
+demountable and reusable where 
+
+multiple (without which a hoist is likely required), 
+formed of floor-to-ceiling glass panels 
+
+  floors and specialist equipment is required for 
+with head and base frames; more 
+
+retrieval from the building as well as 
+complex systems are less likely to be 
+
+transport and removal. A fuller 
+reusable. Note that frames are not 
+
+exploration of reuse options is 
+reusable.  
+
+recommended, potentially including a 
+Sizes of goods lifts should be checked full detailed inventory, as there are large 
+to determine potential to use these to potential benefits to successfully 
+transport panels to ground floor.  demonstrating reuse of glass partitions 
+
+ if scaled up to city level or wider. NB 
+
+20 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+ Optima10 may be able to support on 
+reuse of any partitions they initially 
+supplied.  
+
+Metal stairs 322 High 100% 3.2 4.9 8 storeys In good condition, may be There are successful examples of reusing 
+Holborn demountable and suitable for 100% metal external stairs in the past. A 
+
+reuse. further study should be carried out to 
+fully characterise the stair. If it is suitably 
+modular and possible to disassemble, 
+
+  and if it is in suitable condition, it may 
+be considered for reuse onsite if there is 
+a need, or otherwise offered externally.  
+
+ 
+
+Slate tiles 44 So’ton 75% 3.0 0.1 177 sqm Condition and type not possible to Carefully uplift, remove, stack on pallets, 
+Bldgs, roof inspect directly.  wrap and strap down.  
+
+(as installed 
+with tiles 75% reuse rate applied to account for Are generally in-demand so should find 
+
+ overlapping) breakages.  a market.  
+
+LED – All 75% 2.7 - 883 no. Fixing method unknown; often possible Reuse of luminaires generally depends 
+rectangular  buildings, to unclip but this is not confirmed, and on demountability, condition, and type 
+
+No image available 
+multiple the fixing method may vary throughout (ie LED, fluorescent, incandescent, etc.).   
+floors the buildings. Additionally, there may 
+
+ 
+
+10 https://optimasystems.com/  
+
+21 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+be different types (ie LED, fluorescent), There are a number of lighting reuse and 
+not all of which will be ideal for reuse.  remanufacturing companies and 
+
+services such as Revitalite, Egg Lighting, 
+Whitecroft, and Kemp Lighting, who may 
+be engaged to offer advice as well as 
+collection, refurbishment, and 
+potentially resale of any lighting.  
+
+WC pans All 60% 2.6 4.1 73 no. Easy to demount, mostly in good Always in need in commercial fit-out. 
+buildings, condition, various styles and Either retain for use in new scheme (if 
+multiple manufacturers present.  site allows), store offsite, or offer 
+floors externally.  
+
+60% reuse rate accounts for breakages 
+or any WC pans that are in too poor Care should be taken when demounting, 
+condition. storing and transporting the items, and 
+
+they should be packaged appropriately 
+to avoid damages.  
+
+Design team to consider for onsite 
+ reuse, otherwise may be offered to 
+
+reclamation companies or to the public 
+via sites such as Gumtree or Facebook 
+marketplace.  
+
+Kitchen All 75% 2.2 1.5 123 linear Large number throughout the building Tea points and kitchenettes are likely to 
+worktops buildings, metres that could be reusable. There are lots be desirable in office fit-outs elsewhere. 
+
+multiple of different styles of kitchens/ Alternatively, there have been previous 
+floors kitchenettes that may be suitable for successes donating to charities.  
+
+  reuse as whole items.  
+Tea points should ideally be recovered 
+as entire sets, ie including framing 
+cupboards, worktops, and integrated 
+
+ 
+appliances. It may be beneficial to label 
+
+22 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+all items from the same set, and to 
+photograph the assembly in situ, to 
+ensure items are kept together and can 
+be reassembled easily.  
+
+Ceramic sinks All 80% 1.8 2.9 101 no. Various styles present throughout each Always in need in commercial fit-out. 
+buildings, building, however they are mostly in Either retain for use in new scheme (if 
+multiple good condition, demountable, and of a site allows), store offsite, or offer 
+floors suitable quality for reuse.   externally.  
+
+Care should be taken when demounting, 
+storing and transporting the items, and 
+they should be packaged appropriately 
+to avoid damages.  
+
+   Design team to consider for onsite 
+reuse, otherwise may be offered to 
+reclamation companies or to the public 
+via sites such as Gumtree or Facebook 
+marketplace.  
+
+Ceramic wall Holborn 15% 1.7 1.2 148 sqm Attractive and in good condition.  Tiling can be tricky to reclaim, and 
+tiles Gate and 44 reclamation rate generally depends on 
+
+(as installed, 
+So’ton the strength of the adhesive bond. It is 
+
+incl grount 
+Bldgs, generally possible to recover some tiles. 
+
+joints) 
+multiple Care should be taken to avoid 
+floors breakages, and tiles should be 
+
+palletised, stacked, wrapped, and 
+strapped to avoid damages once 
+
+ reclaimed.  
+
+Design team to consider for onsite 
+reuse, otherwise may be offered to 
+
+23 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+reclamation companies, to other 
+projects via reuse marketplaces such as 
+EME, or to the public via sites such as 
+Gumtree.  
+
+ 
+
+Kitchen All 75% 1.6 1.1 108 linear Large number throughout the building Tea points and kitchenettes are likely to 
+cabinets buildings, metres that could be reusable. There are lots be desirable in office fit-outs elsewhere. 
+
+multiple of different styles of Alternatively, there have been previous 
+floors kitchens/kitchenettes that may be successes donating to charities.  
+
+  suitable for reuse as whole items. 
+Tea points should ideally be recovered 
+as entire sets, ie including framing 
+cupboards, worktops, and integrated 
+appliances. It may be beneficial to label 
+
+ all items from the same set, and to 
+photograph the assembly in situ, to 
+ensure items are kept together and can 
+be reassembled easily.  
+
+ 
+
+Steelwork Holborn 50% 1.6 2.5 62.5 linear Universal beams & columns present as Universal sections likely to be desirable 
+Gate, roof metres well as other sections such as equal by steel stockholders such as EMR or 
+plant area (various angles and C sections.  Cleveland Steel11, who can share their 
+
+sections) requirements if asked. Requirements are 
+generally around the condition (ie 
+
+ presence of dents or cracks) of the steel, 
+
+ 
+
+11 Cleveland Steel - https://cleveland-steel.com/sustainability; EMR - https://uk.emrgroup.com/what-we-do/circular-steel  
+
+24 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+ the section sizes, the lengths of 
+individual members (generally minimum 
+3m), and the overall quantity (generally 
+a lorryload minimum).  
+
+Engage structural engineer, a reused 
+steel stockholder (ie Cleveland or EMR), 
+and refer to the Steel Construction 
+Institute guidance12 on reuse of 
+structural steel for further guidance.  
+
+Windows, 44 So’ton 30% 1.4 1.5 21 no. Various sizes and types present, Windows are not necessarily well-
+double- Bldgs, including larger ground floor windows established as a salvage item at scale 
+glazed, timber multiple with multiple panels, and smaller due to difficulties arising from their 
+
+ frames floors windows on the upper floors. Frames bespoke design and sizing (meaning it is 
+and glazing appear to be in good harder to find a market) as well as the 
+condition overall although are unlikely complexities and health-and-safety 
+to be reused in a higher-spec implications of intact recovery. 
+commercial application due to their However, there are successful examples 
+bespoke size and design. May be more of reusing windows of this type.  
+appropriate to the domestic market, 
+though it is not impossible to identify 
+
+ 
+commercial opportunities. Note that 
+thermal performance is not known and 
+may affect reuse potential.  
+
+ 
+
+12 https://steel-sci.com/assets/downloads/steel-reuse-event-8th-october-2019/SCI_P427.pdf  
+
+25 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Internal glass Holborn 25% 1.3 2.1 14 no. See considerations for glass partitions May be difficult to reuse; see 
+doors Gate for further detail.  considerations for glass partitions for 
+
+(multiple considerations around demounting, 
+floors) and retrieval, storage, transport etc.  
+44 So’ton 
+
+See considerations for glass partitions 
+Bldgs 
+
+ for further detail.  
+(ground 
+
+ floor) 
+
+Spot lights All 50% 1.2 - 577 no. Fixing method unknown; often possible Reuse of luminaires generally depends 
+buildings, to unclip but this is not confirmed, and on demountability, condition, and type 
+multiple the fixing method may vary throughout (ie LED, fluorescent, incandescent, etc.).   
+floors. the buildings. Additionally, there may 
+
+There are a number of lighting reuse and 
+be different types (ie LED, halogen, 
+
+remanufacturing companies and 
+CLF), not all of which will be ideal for 
+
+services such as Revitalite, Egg Lighting, 
+reuse.  
+
+Whitecroft, and Kemp Lighting, who may 
+ be engaged to offer advice as well as 
+
+collection, refurbishment, and 
+potentially resale of any lighting.  
+
+Stone 44 So’ton 70% 1.1 0.1 43.4 sqm Portland stone is generally in-demand Fixing method can strongly affect the 
+cladding Bldgs, proportion that can be recovered 
+
+Fixing method unknown 
+ground floor intact.Stone type, condition, shapes, 
+(externally) Sizing of each panel fairly small sizes, and general appearance can affect 
+
+market demand.  
+Shapes generally regular (rectangular 
+or square) It is recommended to approach a stone 
+
+ reclamation expert such as Paye 
+Stonework for advice. Note Paye are 
+
+26 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+also storing and supplying reclaimed 
+stone.  
+
+Ceramic floor All 5% 1.0 0.7 85 sqm Various styles, colours, shapes and Tiling can be tricky to reclaim, and 
+tiles buildings, dimensions present. Overall many reclamation rate generally depends on 
+
+multiple appear to be in good condition, though the strength of the adhesive bond. It is 
+floors. some are more attractive than others.  generally possible to recover some tiles.  
+
+Low reuse rate reflects relatively Where tiles do come up intact without 
+difficult reclaim process as well as chips or cracks, they may be cleaned of 
+challenges of finding a market / future any dirt, grime, or grout, and then 
+use. supplied on elsewhere. Care should be 
+
+taken to avoid breakages, and tiles 
+should be palletised, stacked, wrapped, 
+and strapped to avoid damages once 
+
+ 
+reclaimed.  
+
+ 
+Design team to consider for onsite 
+reuse, otherwise may be offered to 
+reclamation companies, to other 
+projects via reuse marketplaces such as 
+EME, or to the public via sites such as 
+Gumtree.  
+
+Mirrors All 50% 0.9 1.5 32 no. Lots of mirrors in various sizes and Reuse potential is dependent on fixing 
+buildings, styles. method, though it is quite possible that 
+
+ 
+multiple the mirrors could be easily demounted. 
+floors Standard shapes and sizes are relatively 
+(mainly in easy to specify in a new scheme 
+WCs) (whether onsite or otherwise), though 
+
+  storage and transport may present 
+challenges versus business as usual (ie 
+
+27 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+breaking up and including in inert 
+mineral waste stream).  
+
+ 
+
+Steel mesh Holborn 50% 0.8 1.7 39.6 sqm None Highly useful material in general, may be 
+Gate, roof used for various applications, but 
+plant area especially for walkways and bridges in 
+
+back-of-house and rooftop plant areas.  
+
+ Generally demountable and of standard 
+sizes and specs.  
+
+ 
+
+Engineered 44 So’ton 40% 0.8 0.5 84 sqm In good condition, would be attractive Care should be taken when uptaking to 
+wood flooring Bldgs, for reuse.  avoid damages, in particular to avoid 
+
+ground floor snapping the tongues/grooves. If 
+successful, this flooring may be offered 
+to the domestic market or to small-scale 
+commercial projects, either directly or 
+
+ via online marketplaces.  
+ 
+
+Urinals Holborn 60% 0.7 1.1 28 no. Easy to demount, mostly in good Always in need in commercial fit-out. 
+Gate and condition.  Either retain for use in new scheme (if 
+322 High site allows), store offsite, or offer 
+
+60% reuse rate accounts for breakages 
+Holborn, externally.  
+
+No image available or any urinals that are in too poor 
+multiple 
+
+condition.  Care should be taken when demounting, 
+floors 
+
+storing and transporting the items, and 
+they should be packaged appropriately 
+to avoid damages.  
+
+28 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+LED - Holborn 75% 0.6 - 210 no. Good condition and high-quality visual Reuse of luminaires generally depends 
+rectangular Gate, floors appearance. Should be relatively easy on demountability, condition, and type 
+(suspended) 2 & 3 to demount and reuse.  (ie LED, fluorescent, incandescent, etc.).   
+
+There are a number of lighting reuse and 
+remanufacturing companies and 
+services such as Revitalite, Egg Lighting, 
+Whitecroft, and Kemp Lighting, who may 
+
+ be engaged to offer advice as well as 
+collection, refurbishment, and 
+potentially resale of any lighting.  
+
+LED - Holborn 75% 0.6 - 197 no. Good condition overall and high-quality Reuse of luminaires generally depends 
+rectangular Gate, visual appearance. Should be relatively on demountability, condition, and type 
+(ceiling multiple easy to demount and reuse.  (ie LED, fluorescent, incandescent, etc.).   
+integrated) floors 
+
+There are a number of lighting reuse and 
+remanufacturing companies and 
+
+ services such as Revitalite, Egg Lighting, 
+Whitecroft, and Kemp Lighting, who may 
+be engaged to offer advice as well as 
+collection, refurbishment, and 
+potentially resale of any lighting.  
+
+Timber Holborn 25% 0.5 0.2 102 sqm Uncertain whether can be removed None.  
+panelling Gate and intact, however it likely can be. Finding 
+
+322 High a market may be difficult based on the 
+Holborn, challenge of matching up the sizing and 
+multiple appearance with somewhere that 
+
+ floors requires panelling.  
+
+29 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Fridges 322 High 100% 0.5 - 14 no. Good condition overall and high-quality May be supplied to a reclamation 
+Holborn and visual appearance. Should be relatively company (either as a standalone item or 
+44 So’ton easy to demount and reuse.  included in full tea point / kitchenette 
+Bldgs, sets), or alternatively sold or donated to 
+multiple the domestic market. 
+floors 
+
+ 
+
+Dishwashers 322 High 100% 0.5 - 14 no. Good condition overall, should be easy May be supplied to a reclamation 
+Holborn and to demount and reuse.  company (either as a standalone item or 
+44 So’ton included in full tea point / kitchenette 
+
+No image available 
+Bldgs, sets), or alternatively sold or donated to 
+multiple the domestic market. 
+floors 
+
+Steel mesh Holborn 100% 0.5 0.9 22.5 sqm None A generally useful material, the steel 
+bike Gate, mesh could be repurposed though exact 
+enclosure basement applications are unclear. Potentially 
+
+offer via an online marketplace.  
+
+ 
+
+Rectangular Holborn 75% 0.3 - 168 no. Good condition overall and high-quality Reuse of luminaires generally depends 
+LED strip Gate, 8th visual appearance. Should be relatively on demountability, condition, and type 
+lights  floor easy to demount and reuse.  (ie LED, fluorescent, incandescent, etc.).   
+
+There are a number of lighting reuse and 
+remanufacturing companies and 
+services such as Revitalite, Egg Lighting, 
+
+ Whitecroft, and Kemp Lighting, who may 
+
+30 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+be engaged to offer advice as well as 
+collection, refurbishment, and 
+potentially resale of any lighting.  
+
+LED - square Holborn 75% 0.3 - 105 no. Good condition overall and high-quality Reuse of luminaires generally depends 
+panel (ceiling Gate, 4th visual appearance. Should be relatively on demountability, condition, and type 
+integrated) floor easy to demount and reuse.  (ie LED, fluorescent, incandescent, etc.).   
+
+There are a number of lighting reuse and 
+remanufacturing companies and 
+services such as Revitalite, Egg Lighting, 
+
+ Whitecroft, and Kemp Lighting, who may 
+be engaged to offer advice as well as 
+
+ collection, refurbishment, and 
+potentially resale of any lighting.  
+
+Stainless steel Holborn 75% 0.3 1.2 13 no. Type/style varies between the various May be offered via construction-focused 
+sinks Gate and locations. Should be easy to recover reuse platforms (eg EME) or 
+
+322 High intact and in a state suitable for reuse alternatively to the public via platforms 
+Holborn, (though may require cleaning).  such as Gumtree, Facebook 
+multiple Marketplace, or eBay.  
+
+ floors 
+
+Shower units Holborn 100% 0.2 - 18 no. Type/style varies between the two May be offered via construction-focused 
+Gate and 44 locations. Should be easy to recover reuse platforms (eg EME) or 
+So’ton intact and in a state suitable for reuse alternatively to the public via platforms 
+Bldgs, (though may require cleaning).  such as Gumtree, Facebook 
+basements.  Marketplace, or eBay.  
+
+  
+
+31 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Recessed 322 High 50% 0.2 - 110 no. Good condition overall and high-quality Reuse of luminaires generally depends 
+lights Holborn, visual appearance. Should be relatively on demountability, condition, and type 
+
+multiple easy to demount and reuse.  (ie LED, fluorescent, incandescent, etc.).   
+floors 
+
+There are a number of lighting reuse and 
+remanufacturing companies and 
+services such as Revitalite, Egg Lighting, 
+Whitecroft, and Kemp Lighting, who may 
+
+ be engaged to offer advice as well as 
+collection, refurbishment, and 
+potentially resale of any lighting.  
+
+Steel trays Holborn 50% 0.2 0.3 24 sqm None Appear to be versatile however no 
+Gate, roof specific guidance or applications are 
+
+12 no. 
+plant area known.  
+
+ 
+
+Steel mesh Roof plant 50% 0.1 0.3 7 sqm None These are always useful; may be reused 
+bridges and plant like-for-like (ie in back-of-house / plant 
+
+3 no. 
+areas access areas), or dismantled and the 
+
+modular parts (eg steel mesh panels, 
+ modular railings) reused for applications 
+
+other than bridges.  
+
+Either specify in new scheme or offer via 
+reuse marketplaces such as EME.  
+
+ 
+
+32 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Boiling water 322 High 100% 0.1 0.3 14 no. Good condition overall, should be easy May be supplied to a reclamation 
+tap Holborn and to demount and reuse.  company (either as a standalone item or 
+
+44 So’ton included in full tea point / kitchenette 
+No image available 
+
+Bldgs, sets), or alternatively sold or donated to 
+multiple the domestic market. 
+floors. 
+
+Pure taps 322 High 100% 0.1 0.7 14 no. Good condition overall, should be easy May be supplied to a reclamation 
+Holborn and to demount and reuse.  company (either as a standalone item or 
+44 So’ton included in full tea point / kitchenette 
+Bldgs, sets). 
+multiple 
+floors. 
+
+ 
+
+Pendant lights Holborn 100% 0.1 - 26 no. Good condition overall and high-quality As other lighting 
+Gate – 7th visual appearance. Should be relatively 
+floor easy to demount and reuse.  
+
+44 So’ton 
+ Bldgs – 
+
+ Ground 
+floor 
+
+33 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Bike racks Holborn 100% 0.1 0.1 - Bike racks are demountable, in good May be reused in new scheme 
+Gate, condition, and likely very easy to depending on local storage options, 
+basement. rehome.  however they should be very easy to 
+
+rehome via reclamation companies (see 
+ section 6), word-of-mouth, or digital 
+
+reuse marketplaces. Likely be in high 
+demand locally.  
+
+ 
+
+Bulkhead 44 So’ton 50% 0.1 - 16 no. Good condition overall and high-quality As other lighting 
+lights Bldgs, visual appearance. Should be relatively 
+
+multiple easy to demount and reuse. However, 
+floors there may be some fluorescent 
+
+bulkhead lights present, which will be 
+ more difficult to find a market for than 
+
+LEDs.  
+
+Wall/ pendant Holborn 100% 0.02 - 12 no. Good condition overall and high-quality As other lighting 
+lights Gate, visual appearance. Should be relatively 
+
+ground floor easy to demount and reuse.  
+
+ 
+
+34 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024  
+
+__________________________________________________________________________________ 
+
+ 
+
+‘Avoidable’ Estimated 
+Image Estimated 
+
+Estimated embodied quantity 
+(actual where possible; Component Location(s) quantity Local Considerations  Guidance 
+
+% reusable carbon (alternative 
+illustrative otherwise) reusable (t) 
+
+(tCO2e)* units) 
+
+Batten lights Holborn 75% 0.01 - 5 no. Good condition overall and high-quality As other lighting 
+(LED) Gate, 6th visual appearance. Should be relatively 
+
+floor easy to demount and reuse.  
+
+ 
+
+ 
+Grand total - - - 664 t 559 tCO2e - - 
+
+         
+
+ 
+
+35 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+
+Reuse focus: Raised access floor panels  
+
+Raised access flooring is present throughout the majority of office floors and circulation spaces 
+throughout the site, covering an area of around 17,780m2. Accounting for incomplete pieces (eg 
+edge pieces or panels with service apertures), as well as panels in poor condition or otherwise not 
+meeting requirements for reuse, we estimate that around 70% of the panels are reusable. This 
+corresponds to approximately 12,446 m2 (or 34,572 panels) available for reuse, totalling around 321 
+tonnes. If reused and displacing new raised access flooring, this would correspond to avoided 
+embodied carbon emissions (modules A1-A3) of approx. 281 tCO2e.   
+
+The type, condition and grade of the RAF panels are assumed to be suitable for reuse (ie medium 
+grade, more modern steel skin and timber core, no damages). Only a small quantity was directly 
+observed, however it is assumed that most RAF panels meet requirements based on the use type 
+and likely timeframe in which they have been refurbished.   
+
+Raised access flooring featuring a chipboard core with a steel skin 
+is now well-established as a reusable item due to its modularity, 
+standard dimensions, and durability, as long as the panels are of a 
+medium duty grade and are relatively modern and in good 
+condition. Pedestals are not possible to reuse at present. 
+
+An avenue for reuse of the panels is via RMF13, who test and 
+certify reclaimed panels and resell them as part of their Eco range.  
+
+To sell panels to RMF, pictures of the panels showing the side edge, under structure under side and 
+any markings/stripes should be sent to info@rmf-services.co.uk or 07775 237247. If they are 
+suitable for reuse, RMF will offer a price per panel and will collect. Any carpet will need to be 
+removed and the panels kept dry and inside the building. RMF supply the pallets, banding and pump 
+truck. They should be 32 no, per pallet, stacked face up, square and straight and banded tightly. 
+Panels need to be in condition, any edge damage and rust is not acceptable. 
+
+  
+
+ 
+
+13 https://www.rmf-services.co.uk/recycled_raised_flooring/eco_premium.aspx 
+
+36 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+6. High-value recycling opportunities  
+
+Table 4, below, lists some opportunities for high-value recycling (HVR), ie recycling that goes beyond 
+business-as-usual recycling (or downcycling, eg use of crushed concrete as fill) and retains as much 
+value as possible. Further information may be found in each materials section located in Appendix C 
+and Appendix E.  
+
+Note that the quantities presented account for any of the items that have been flagged for reuse. 
+For example, if there are 100 tonnes of glass that could be sent for high-value recycling, but 10 
+tonnes have been flagged as being targets for reuse, then the value for ‘Estimated quantity for HVR’ 
+will be 90 tonnes.  
+
+Avoided embodied carbon could not be calculated for HVR due to lack of suitable conversion factors.  
+
+Table 4. List of high-value recycling opportunities 
+  
+
+Estimated Estimated 
+
+Material quantity quantity 
+HVR opportunity Considerations 
+
+suitable for suitable for 
+HVR (%) HVR (t) 
+
+Concrete items may be crushed for high-value recycling as aggregate 
+Crushed concrete 
+
+Concrete 97% 18,062 within new concrete – see the Concrete section in Appendix C for 
+aggregate (CCA) further information 
+
+If not reused, glass items such as windows and glass office partitions 
+Closed-loop glass may be sent for closed value recycling as part of Saint Gobain’s new 
+
+Glass 92% 114 
+recycling recycling scheme (required attributes of glass can be downloaded from 
+
+https://www.saint-gobain-glass.com/saint-gobain-glass-recycling).  
+
+Any solid timber that is not reused, can be segregated from non-solid 
+timber (eg engineered wood board items) and sent to a local 
+Community Wood Recycling, who will follow the waste hierarchy 
+
+Timber Solid timber items 5% 22 
+prioritising reuse first (~50% of timber items received) and then 
+recycling at as high value as possible. See the Timber section in 
+Appendix C for further information.  
+
+Inert mineral wastes including brick, stone, 
+ceramics, and glass, can be crushed and turned 
+
+3,105 into terrazzo flooring (eg tiles). This represents a 
+
+( to avoid higher-value recycling option than the business-
+Mineral wastes 
+
+double as-usual approach of use in recycled aggregates 
+(bricks, stone, Terrazzo flooring 95% counting this (eg for backfill, hardcore, or piling mats). 
+ceramics) value does 
+
+not account Aesthetically, results can vary and depend on 
+for glass) the formulation. A recent project known to 
+
+Reusefully had success creating terrazzo flooring samples with 
+Avantgarde Tiling, based in Essex14.  
+
+Grand Total -- -- 21,303 t -- 
+
+ 
+
+14 https://www.avantgarde-tiling.co.uk/services/  
+
+37 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+7. Maximising reuse and high-value recycling 
+
+General best practice 
+
+It is advised that a long lead-in time as possible and maximum exposure are required to enable the 
+reuse of products and components. The best chances for reuse, with the associated environmental 
+and economic benefits, are as near to site as possible: 
+
+• Used by the same client locally 
+
+• Sold or given away locally 
+
+Aside from the specific recommendations provided in Table 3, the following recommendations may 
+assist in maximising the reclamation potential of the items identified (note: Reusefully can assist 
+further with all of these activities): 
+
+• Consider setting aside storage on site for segregation of salvaged items. 
+
+• Work with the design team for the new development, consider any options for direct onsite 
+reuse. 
+
+• Consider options for reuse of items in any other assets or projects the client owns / is 
+involved with. 
+
+• Explore reuse and high-value recycling opportunities beyond the site and client, through the 
+direct networks of the client, design team and construction team, and/or by posting to 
+online reuse marketplaces (see further information below). At present, reuse primarily 
+occurs through word-of-mouth and direct contacts.   
+
+• Set out requirements and expectations for strip-out/demolition contractors in tenders 
+relating to the methods and quantities of items targeted for reuse and recycling – this may 
+include a requirement to meet certain targets for reuse and recycling, as well as ‘softer’ 
+requirements such as an obligation to provide method statements for how reuse and high-
+value recycling will be addressed.  
+
+• Make allowances for additional cost and programme implications of recovery beyond 
+business-as-usual, in particular in the strip-out/demolition/enabling works contract. 
+
+• Carry out or commission ‘resource tracking and management’ of items targeted for reuse 
+and recycling beyond BAU – this enables greater planning, implementation, and verification 
+of actions that support circular management of each item. More detailed schedules and 
+datasets may be required for target items to ensure optimal management, for instance a 
+schedule of the different door types, sizes and conditions can help designers in the new 
+scheme specify the ones that match their design intent or modify their design accordingly.  
+
+• Consider logistical aspects beyond just the demounting of salvaged items at an early stage, 
+such as testing, transport, and storage. 
+
+There are a few organisations that may be able to assist with the reuse of items, which are listed 
+below:  
+
+• resourceXchange: a newly established reclamation company for construction products and 
+materials, offering collections, transport, storage, and donation/resale. ResourceXchange 
+
+38 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+works in partnership with Reusefully and may be contacted via ben@resourcexchange.co.uk 
+or danny@resourcexchange.co.uk  
+
+• Reyooz: http://www.reyooz.com/about/clients. Offer a service to collect surplus and 
+distribute to charities, schools and small businesses. 
+
+• Globechain: https://globechain.com/; a reuse marketplace that donates to charities, schools 
+and small businesses 
+
+• Reuse Network: https://reuse-network.org.uk/donate-items/#/ 
+
+• Collecteco: https://www.collecteco.co.uk/; donation of furniture and equipment to 
+charities, schools and small businesses. 
+
+• Scrapstores: https://www.workandplayscrapstore.org.uk/ and  
+
+• Reuseful UK: https://www.reusefuluk.org/ 
+
+• Traco: https://recycledassets.co.uk/; provides removal, storage and a web platform for 
+selling 
+
+• EME (Excess Materials Exchange) is supported by various London Boroughs and contractors - 
+https://www.excessmaterialsexchange.com/.  
+
+• ROMULUS is a newly developed platform operated by Maconda that is supported by the City 
+of London - https://upcyclea.com/en/romulus-urban-reuse/  
+
+For items that may have some architectural salvage value, specific salvage items can be advertised 
+for free on www.salvo.co.uk. Salvo also operate a demolition/refurbishment alert service on their 
+website which serves to bring forthcoming demolition products to the attention of potential buyers 
+or users. Local architectural salvage merchants about specific items can also be contacted. Salvo 
+publishes a directory on their website.  
+
+Onsite storage 
+
+Having an appropriate location to store reusable items is a major enabler of onsite reuse and can 
+also be a major obstacle due to the lack of storage space on most project as well as the cost of 
+offsite storage.  
+
+Careful planning is required to ensure that items are stored in such a way to avoid damage and 
+deterioration, whilst also being placed in a location that creates minimal interference with works 
+onsite and no unacceptable health and safety issues (eg relating to fire or structural loading). It may 
+be that certain features must first be stripped out or demolished first before a space can be used for 
+storage, as long as these features were due to be removed in any case. For instance, if the basement 
+internal walls are to be removed, it would be beneficial to prioritise this to enable items from the 
+soft strip to be stored and easily accessible due to the more open basement layout.  
+
+It is recommended that this planning commences at an early stage when considering what items to 
+target for onsite reuse.  
+
+39 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Recommendations for waste segregation 
+Any items being targeted for reuse should be stored separately from items not targeted for reuse, 
+with appropriate packaging and shelter. This may have to be offsite if there is no room onsite. Other 
+than reusable items, it is highly recommended that to maximise recycling, the following materials 
+are segregated on site:  
+
+• Concrete (especially if targeting recycling as Crushed Concrete Aggregate - CCA) 
+
+• Metals 
+
+• Solid timber  
+
+• Plasterboard  
+
+• Glass (for closed loop recycling e.g through Saint Gobain)   
+
+• Mixed inert waste not targeted for higher-value recycling (e.g concrete, bricks, ceramics, 
+glass, stone, gypsum plaster, etc.)  
+
+• Carpet tiles 
+
+• Raised access flooring 
+
+• WEEE 
+
+• Plastics 
+
+• Any potentially hazardous waste e.g. timber, fluorescent tubes 
+ 
+
+  
+
+40 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+8. Targets  
+
+Reuse  
+Reuse, rather than recycling, of items should always be prioritised. It is estimated that approximately 
+664 tonnes of material could be reused, representing around 2.8% of the total weight of arisings, 
+equivalent to around 559 tonnes of embodied carbon (tCO2e). A reuse target of 2% by weight of 
+strip-out/demolition arisings is therefore recommended. Also note that much higher reuse rates are 
+possible where the client is active in promoting reuse, by setting requirements in tenders.  
+
+Diversion from landfill  
+It is recommended that an overall landfill diversion target is set prior to the project commencing 
+based on the recommendations of this report and liaison with the selected contractor(s).  
+
+An estimate of the total percentage of waste materials that can be reused, recycled, incinerated for 
+energy recovery, or otherwise diverted from landfill is 97.8% by weight. A total diversion from 
+landfill target of 97% by weight is therefore recommended. Note that 90% by weight, or 80% by 
+volume is required to achieve the relevant BREEAM credit, and in that 95% by weight is required in 
+London under the London Plan15.  
+
+Targets per material 
+Recommended targets per material are shown below. 
+
+Table 5. Recommended targets per material 
+
+Material EfW / Other Diversion from 
+Total (t) Reuse Recycling 
+
+recovery landfill 
+
+Bitumen 122.4 0% 98% 0% 98% 
+
+Brick 461.3 16% 82% 0% 98% 
+
+Carpet 65.9 67% 9% 23% 99% 
+
+Ceramic 2,766.4 0% 98% 0% 98% 
+
+Concrete 18,548.2 1% 97% 0% 98% 
+
+Glass 124.1 8% 92% 0% 100% 
+
+Gypsum 265.0 0% 75% 0% 75% 
+
+Insulation 36.9 0% 0% 15% 15% 
+
+Metals 865.8 10% 89% 0% 99% 
+
+Plastics 16.9 0% 20% 80% 100% 
+
+Stone 23.8 53% 47% 0% 100% 
+
+Timber 482.1 61% 25% 14% 100% 
+
+WEEE 23.6 31% 63% 1% 95% 
+
+Grand Total 23,802.3 2.8% 94.6% 0.4% 97.8% 
+
+ 
+
+ 
+15 London Plan Policy SI 7 Reducing waste and supporting the CE  
+
+41 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+9. Bulk volume and Number of Skips 
+
+The estimated bulk volume and number of skips required to manage the strip-out/demolition 
+arisings are presented below. These were calculated based on typical bulking factors for the 
+materials present. Note that the value for number of skips does not account for where items are 
+stored for reuse or recycling. The number of skips was calculated based on an assumption of 8-yard 
+or 12-yard skips being used.  
+
+Table 6. Bulk volume and number of skips required 
+
+Calculated vol Bulk vol No. skips No. of skips 
+Material 
+
+(m3) (m3) (8 yard) (12 yard) 
+Bitumen 61 73 12 8 
+
+Brick 271 326 53 35 
+
+Carpet 76 91 15 10 
+
+Ceramic 1,153 1,383 226 151 
+
+Concrete 8,099 9,706 1,587 1,058 
+
+Glass 50 61 10 7 
+
+Gypsum 353 459 75 50 
+
+Insulation 785 588 96 64 
+
+Metals 118 355 58 39 
+
+Plastics 13 56 9 6 
+
+Stone 9 11 2 1 
+
+Timber 711 1,137 186 124 
+
+Grand Total 11,699 14,246 2,329 1,553 
+
+ 
+ 
+
+  
+
+42 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+10. Mitigation of demolition  
+
+There are a number of ways to mitigate the effects of demolition. This includes: 
+
+• Retention of any elements is preferred, reducing the impacts of the materials becoming 
+waste.  
+
+• Reuse of materials and products as recommended. This would save up to 280t/CO2e. Any 
+reuse of products from the existing building would also reduce the embodied carbon of the 
+new scheme.  
+
+• There may be options to donate materials to the local community/charities, particularly any 
+furniture, white goods etc. These can also be donated via Reuse Organisations/Networks.  
+
+• Higher value recycling options should be investigated, such as recycling glass back into glass, 
+which offers considerable carbon savings 
+
+• The distances materials/waste travels to its destination is a factor, it may sometimes be 
+better to crush materials onsite rather than transport them large distances.  
+
+• Evidence should be asked from the demolition contractor(s) on how they will mitigate any 
+environmental impact on site through their operations. This could be through their energy 
+and fuel choice (e.g use of HVO).  
+
+• Use of technology to minimise dust and other pollutants.  
+
+ 
+ 
+
+  
+
+43 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+11. Next steps and implementation  
+
+It is recommended that a workshop is held to establish the opportunities for reuse on the proposed 
+scheme and elsewhere, and higher value recycling. According to Arup, a material reuse workshop is 
+scheduled in pre-planning to explore viability of on and off-site reuse options.  
+
+Where the client wishes to demonstrate leadership and ambition in circular economy, they may opt 
+to trial innovative reuse methods such as cutting out concrete elements as slabs or members, or 
+repurposing items for alternative uses. Further support from circular economy experts working with 
+the design team is recommended to explore any opportunities and assist with planning and 
+execution.  
+
+Reusefully can develop an Excel-based ‘Resource Tracker’ to help plan and track our 
+recommendations for materials, and can provide direct tracking and implementation support if 
+required.   
+
+Procurement of demolition works should reference this pre-demolition audit and potential 
+contractors should be asked on reuse and recycling routes and targets. Any materials that are likely 
+to be hazardous should be tested for and treated accordingly.  
+
+During the strip out / demolition, details of the actual materials arisings and the waste management 
+methods used should be recorded to compare actual with forecast and to assess performance 
+against the targets set. Systems such as BRE’s SmartWaste (www.smartwaste.co.uk) could be used.  
+
+Following completion of the project, any barriers to achieving the targets should be reviewed to 
+ensure that in future projects these barriers can be overcome.   
+
+44 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Appendix A – Report Authors  
+
+ 
+
+Dr Katherine Adams has worked in construction resource efficiency for 20 years, mostly at BRE, 
+where she has been instrumental in shaping the construction industry to achieve high levels of 
+diversion of waste from landfill and reducing waste. She has much experience of pre-demolition 
+audits, having undertaken and reviewed many for various clients, which has involved the 
+development of a robust methodology. She has been responsible for developing waste reporting, 
+including the online system Smartwaste. She enjoys working closely with many elements of the 
+industry, at both a sector and project level. She has recently finished a PhD at Loughborough 
+University looking how circular economy can be embedded in the building sector and continues to 
+assist the sector through her company, Reusefully Ltd.  
+
+Ben Cartwright is a researcher and expert advisor on circular in the built environment, with 
+extensive experience leading on material audits (pre-demolition audits, pre-refurbishment audits, 
+and in-use asset audits) and pre-redevelopment audits, as well as bespoke consultancy and research 
+pieces spanning multiple industries, technical approaches, and policy areas. Recent projects include: 
+developing data and digital approaches to support a circular built environment as part of the EU 
+Horizon 2020-funded project CIRCuIT (Circular Construction in Regenerative Cities); delivering 
+training to local authorities on embodied carbon and circular economy; carrying out pre-demolition 
+audits; contributing to industry reports on circular economy in different sectors; and, supporting the 
+integration of circular economy into the BREEAM sustainability assessment schemes.   
+
+Danny Hobbs-Awoyemi has experience of running a logistics business, prior to joining Reusefully.  
+Danny provides support in pre-demolition audits, including site surveys, and is our lead in 3D 
+scanning of buildings and interiors. He has much experience in producing bills of quantities for 
+existing buildings, working from floor plans, scans and measurements taken during site visits.  
+
+Zoe Culverhouse is a recent graduate who has joined the Reusefully team. Her interest in design and 
+sustainability was sparked when she started researching the housing crisis, empty homes, and 
+retrofitting. These subjects ended up forming her dissertation in her final year of university and 
+continue to be topics she is passionate about in her work. Zoe has skills and experience from 
+university such as carrying out site visits, analysis and more. She is now applying these skills to her 
+work at Reusefully.  
+
+  
+
+45 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+About Reusefully Ltd 
+
+Reusefully is a partnership created to provide expert circular economy and broader sustainability 
+advice and support within the built environment.  
+
+We enable the practical implementation of circular economy thinking throughout the construction 
+supply chain and provide evidence-based support and advice for related policy development. We are 
+keen to collaborate and work with others who genuinely share this objective and value our 
+commitment to delivering effective and impactful project outcomes. 
+
+We address material and resource efficiency, embodied carbon and net zero, design for 
+deconstruction, waste prevention and waste management, end markets, reuse and recycled 
+content.  
+
+Collectively, Reusefully brings together over 45 years of experience, working across multiple parts of 
+the value chain, from small practical projects to large scale R&D, for a wide variety of clients. More 
+information at www.reusefully.co.uk 
+
+ 
+
+Reusefully are members of the UK Green Building Council. 
+
+  
+
+46 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Appendix B – Assumptions 
+
+A number of assumptions have been made: 
+
+• Presence, type, nature, dimensions, overall quantity, condition, fixing methods, and other 
+relevant attributes of concealed components and components located within inaccessible 
+portions of the building.  
+
+• Floors with no access at 322 High Holborn, similar fit out to Holborn Gate 
+
+• 44 Southampton Buildings, all fitout the same as the office surveyed 
+
+• Steelwork in 44 Southampton Buildings is concrete encased. 
+
+• Size of steelwork in 44 Southampton Buildings. 
+
+• All stud work is metal 
+
+• Furniture (loose items) assumed to be removed by the tenant 
+
+• Basement has not been included 
+
+Some quantities have been derived by scaling from other building attributes, for example some 
+floor, ceiling and wall finishes may be calculated as a percentage of net internal area or similar. 
+
+  
+
+47 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Appendix C – Arisings and waste management guidance, by material category  
+
+This appendix provides additional detail on the breakdown of material types and opportunities to 
+recycle and otherwise recover. These are set out in alphabetical order of the materials estimated to 
+arise from the strip out/demolition works. Possible local providers of reuse and recycling services are 
+detailed in Appendix E, where applicable.  
+
+Note that within the tables, the term ‘embedded’ embodied carbon refers to the amount of 
+embodied carbon (LCA modules A1-A5) that would be emitted through the manufacture of the 
+corresponding items using current carbon factors; ‘Avoidable’ embodied carbon is the amount of 
+embodied carbon that can be avoided/abated where the corresponding item is reused in the 
+quantity indicated in the column titled ‘Suitable for reuse’, displacing the carbon emissions from 
+manufacturing a new equivalent item. These values are calculated based on the ICE Database V3 
+(2019).   
+
+Bitumen 
+
+Bitumen accounts for an estimated 0.5% of total material arisings by weight or 0.5% by volume. 
+
+Table C1.  Estimated Bitumen arisings, potential recovery amounts, and associated embodied carbon 
+
+Suitable ‘Avoidable’ 
+Suitable Suitable ‘Embedded’ 
+
+for EfW / embodied 
+Volume for for embodied 
+
+Source/Component Tonnes 
+(m3 other carbon 
+
+) reuse recycling* carbon 
+recovery* from reuse 
+
+(t) (t) (tCO2e) 
+(t) (tCO2e) 
+
+Asphalt roofing 122.4 61.2 -- 119.9 -- 23.4 -- 
+
+Grand Total 122.4 61.2 -- 119.9 -- 23.4 -- 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of 
+EfW/other, recycling.  
+
+ 
+
+As the age of this material is unknown, core sampling should be undertaken to determine coal tar 
+content, which might result in it being deemed hazardous waste. It may be recycled by breaking it up 
+and mixing in with recycled aggregates for use in fill or hardcore, or it can be used in mastic asphalt 
+screeds.  ADEPT and the Construction Demolition Waste Forum have created a guidance note on 
+Managing Reclaimed Asphalt which provides further information16. 
+
+ 
+
+16 
+https://adeptnet.org.uk/system/files/documents/ADEPT%20Guide%20to%20Managing%20Reclaimed%20Asp
+halt%20Version%202019%20Rev%201.pdf 
+
+48 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Asphalt should be processed in line with the Quality Protocol for aggregates from inert waste17, and 
+potential recycling routes include sub-base, capping or used in hot-mix asphalt (dependent upon the 
+amount of tar); and into other bituminous mixes. 
+
+ 
+
+Brick 
+
+Brick accounts for an estimated 1.9% total material arisings by weight, and 2.3% by volume.  
+
+Table C2. Estimated Brick arisings, potential recovery quantities, and associated embodied carbon 
+
+Suitable ‘Avoidable’ 
+Suitable ‘Embedded’ 
+
+Suitable for EfW / embodied 
+Volume for embodied 
+
+Source/Component Tonnes other 
+(m3 for carbon 
+
+) recycling* carbon 
+reuse (t) recovery* from reuse 
+
+(t) (tCO2e) 
+(t) (tCO2e) 
+
+Modern brick 356.5 209.7 35.7 313.7 -- 74.9 7.5 
+
+Older brown brick 84.6 49.8 33.8 49.1 -- 17.8 7.1 
+
+White glazed brick 20.2 11.9 4.0 15.7 -- 4.2 0.8 
+
+Grand Total 461.3 271.4 73.5 378.5 -- 96.9 15.4 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of EfW/other, 
+recycling.  
+
+A higher-value option for brick recycling is to crush it and turn it into terrazzo tiling, for example via 
+LaRock https://www.altrocksurfaces.com/, to be specified in the design of the new scheme.  
+
+If the bricks cannot be reused or recycled at high value, it is recommended that the brick waste is 
+segregated either onsite or at a waste facility and crushed to produce recycled aggregate. Waste 
+management options are similar to concrete, depending on the level of contamination with other 
+materials including pipe bedding, drainage, granular fill, general fill and capping and for sub-base. 
+The Quality Protocol for aggregates from inert waste18,  should be followed. See the Concrete 
+section for more information on recycled aggregates and their potential applications.  
+
+Contaminants should be minimised, such as clay, soil, metals, wood, plastic, rubber and gypsum 
+plaster, through good separation of materials and in line with the limits set within the aggregates 
+standard. It is recommended inert materials, such as brick, are processed where possible into 
+recycled aggregates (RA), unless a reuse or higher value recycling application is available.   
+
+ 
+
+  
+
+ 
+17 https://www.gov.uk/government/publications/quality-protocol-production-of-aggregates-from-inert-waste 
+
+18 https://www.gov.uk/government/publications/quality-protocol-production-of-aggregates-from-inert-waste 
+
+49 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Carpet 
+
+Carpet accounts for an estimated accounts for an estimated 0.3% total material arisings by weight, 
+and 0.6% by volume. 
+
+Table C3.  Estimated Carpet arisings, potential recovery amounts, and associated embodied carbon  
+
+Suitable ‘Avoidable’ 
+Suitable Suitable ‘Embedded’ 
+
+for EfW / embodied 
+Volume for for embodied 
+
+Source/Component Tonnes other 
+(m3 carbon 
+
+) reuse recycling* carbon 
+recovery* from reuse 
+
+(t) (t) (tCO2e) 
+(t) (tCO2e) 
+
+Carpet tiles 59.0 73.8 44.3 5.9 8.3 177.1 132.8 
+
+Fitted carpet 6.9 1.8 -- -- 6.8 3.4 -- 
+
+Grand Total 65.9 75.6 44.3 5.9 15.1 180.6 132.8 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of 
+EfW/other, recycling.  
+
+Recycling of carpet tiles and carpet is limited. Some manufacturers also offer a reuse/recycling 
+service:  
+
+• Tarkett ReStart programme https://professionals.tarkett.co.uk/en_GB/node/restart-10623  
+
+• Interface works with ReEntry Partners (social enterprise); 
+https://www.interface.com/EU/en-GB/campaign/reentry/reentry-en_GB  
+
+• Millken; https://floors.milliken.com/floors/sustainability/end-of-life; t: 01942 612777 
+
+They can also be provided to social enterprises such as No Floor No More 
+https://www.nofloornomore.org/ or Uplyfted  https://uplyfted.co.uk/ who donate to social housing 
+users. Carpet Recycling UK holds a database of carpet recyclers which may be explored to identify 
+potential recycling routes (both for carpet tiles and any carpet present)19.  
+
+  
+
+ 
+19 https://carpetrecyclinguk.com/find-a-recycler/  
+
+50 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Ceramic 
+
+Ceramics accounts for an estimated 12% of total material arisings by weight or 10% by volume. 
+
+Table C4.  Estimated Ceramics arisings, potential recovery amounts, and associated embodied carbon 
+
+Suitable ‘Avoidable’ 
+Suitable Suitable ‘Embedded’ 
+
+for EfW / embodied 
+Volume for for embodied 
+
+Source/Component Tonnes other 
+(m3 carbon 
+
+) reuse recycling* carbon 
+recovery* from reuse 
+
+(t) (t) (tCO2e) 
+(t) (tCO2e) 
+
+Clay pots (in hollowpot floors) 2,689.3 1,120.6 -- 2,635.6 -- 1,882.5 -- 
+
+Mosaic tiles (ext walls) 30.3 12.6 -- 30.3 -- 21.2 -- 
+
+Ceramic floor tiles 20.4 8.5 1.0 19.4 -- 14.3 0.7 
+
+Ceramic wall tiles 11.6 4.8 1.7 9.9 -- 8.1 1.2 
+
+Ceramic ext wall tiles 7.1 3.0 -- 7.1 -- 5.0 -- 
+
+WC pans 4.3 1.8 2.6 1.7 -- 6.9 4.1 
+
+Ceramic sinks 2.3 0.9 1.8 0.5 -- 3.7 2.9 
+
+Urinals 1.2 0.5 0.7 0.5 -- 1.9 1.1 
+
+Grand Total 2,766.4 1,152.7 7.8 2,704.8 -- 1,943.5 10.1 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of 
+EfW/other, recycling.  
+
+ 
+
+If not reused, ceramics should be managed with other inert waste, as recycled aggregate (see Brick 
+section).  
+
+  
+
+51 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Concrete 
+
+Concrete accounts for an estimated 78% of total material arisings by weight or 69% by volume. 
+
+Table C5.  Estimated concrete arisings, potential recovery amounts, and associated embodied carbon 
+
+Suitable ‘Avoidable’ 
+Suitable ‘Embedded’ 
+
+Suitable for EfW / embodied 
+Source/Component Tonnes Volume (m3 for embodied 
+
+) for reuse other carbon 
+recycling* carbon 
+
+(t) recovery* from reuse 
+(t) (tCO2e) 
+
+(t) (tCO2e) 
+Ground-bearing RC floor slabs - Concrete 4,607.9 1,92-- -- 4,515.8 -- 460.8 -- 
+
+In situ RC beams 4,528.7 1,887.0 -- 4,438.1 -- 452.9 -- 
+
+Hollowpot floors - Concrete topping 2,327.6 969.8 -- 2,281.1 -- 360.8 -- 
+
+In situ RC slab 1,258.5 524.4 -- 1,233.4 -- 125.9 -- 
+
+Hollowpot floors - RC ribs 1,163.8 484.9 -- 1,140.5 -- 180.4 -- 
+
+In situ RC columns 1,054.6 439.4 -- 1,033.5 -- 105.5 -- 
+
+Concrete blockwork 883.1 630.8 88.3 786.0 -- 88.3 8.8 
+
+In situ RC walls - concrete 724.5 301.9 -- 71-- -- 72.5 -- 
+
+Grout 721.4 379.7 -- 721.4 -- 144.3 -- 
+
+Concrete encasement 515.2 214.7 -- 504.9 -- 51.5 -- 
+
+Concrete stairs 335.7 139.9 -- 329.0 -- 33.6 -- 
+
+Concrete cladding 162.3 67.6 16.2 142.8 -- 16.2 1.6 
+
+Cement mortar (masonry walls) 159.6 94.9 -- 158.0 -- 31.9 -- 
+Concrete paving slabs (on 
+
+87.1 36.3 26.1 60.1 -- 8.7 2.6 
+ledges/overhangs) 
+Render 18.2 7.6 -- 17.8 -- 1.8 -- 
+
+Grand Total 18,572.0 8,108.2 143.3 18,083.5 -- 2,136.6 13.9 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of 
+EfW/other, recycling.  
+
+ 
+
+ 
+
+According to the revised BS 8500-2, there are two primary types of recycled aggregate; Recycled 
+Aggregate - RA and Crushed Concrete Aggregate - CCA. Crushed Concrete Aggregate (CCA) is of a 
+higher quality than recycled aggregate (RA) due to the limit of contaminants, such as masonry. The 
+performance characteristics of CCA are better than RA and therefore there are fewer restrictions on 
+the use of CCA in concrete. The use of CCA in concrete is given in BS 8500-220.  RA can contain brick 
+rubble and twice as much bituminous material as CCA.  As a result, although it is unlikely that RA will 
+
+ 
+20 https://knowledge.bsigroup.com/products/concrete-complementary-british-standard-to-bs-en-206-
+specification-for-constituent-materials-and-concrete-1?version=tracked 
+
+52 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+be sent to landfill, this reduces the range/extent of applications it can be used for (compared to 
+CCA).   
+
+It is recommended that the concrete should be segregated either onsite or at a waste facility and 
+then crushed to produce recycled aggregate in accordance with the WRAP Quality Protocol for 
+aggregates3 from inert waste.  Ideally, this should be used in on-site or very local applications (e.g. < 
+5 km in large urban areas) to avoid unnecessary transport. This can include back into concrete and 
+for lower value applications such as for piling mats and temporary/ permanent fill (infilling). If 
+reprocessed, stored and/or used onsite then appropriate permits4 or exemptions will be required for 
+these operations (dependent on meeting end-of-waste criteria as sent out in the aforementioned 
+Quality Protocol). Therefore, an assessment of potential CCA and/or RA arisings should be set 
+against the available on site, followed by highly localised, options to be most beneficially used.   
+
+Various options are available to utilise recycled aggregates, including:  
+
+• Bitumen bound materials – a variety of base course and binder course mixtures.   
+• Concrete – permitted for use in certain grades of concrete. It is generally acknowledged that 
+
+CCA can be used to replace 20% of the coarse aggregate in concrete up to Grade 50.  
+• Pipe bedding – suitably graded.  
+• Hydraulically bound mixtures (HBM) for subbase and base – for example, in the construction 
+
+of car parks, estate/minor roads and hard standing.  
+• Unbound mixtures for subbase – suitably graded.   
+• Capping applications.  
+
+Examples of higher value recycling include: 
+
+• CCA within structural concrete include the London Olympics 201221 and Building B16 at 
+BRE.22 
+
+• Inert waste can also be used for making bricks e.g. the K-Briq (https://kenoteq.com/) (based 
+in Scotland) and StoneCycle (https://www.stonecycling.com/); an example from the UK: 
+https://www.stonecycling.com/projects/award-winning-facade-sands-end-arts-community-
+centre-london/ (note largely used as a façade material).  
+
+There are examples of more innovative technology such as SmartCrusher23 in the Netherlands and 
+SIKA24 which breakdown concrete into its constituent parts. Otherwise, concrete waste can also be 
+used for blocks and paving. For example, Aircrete blocks can contain up to 70%; other blocks average 
+24%, but this can vary considerably.  
+
+ 
+21 http://www.klhsustainability.com/assets/Uploads/a0e1e6c7e1/Case-Study-201110-The-Procurement-and-
+Use-of-Sustainable-Concrete.pdf 
+22 https://www.icevirtuallibrary.com/doi/abs/10.1680/icetra.64638.447 
+
+23 https://www.slimbreker.nl/why-smartcrushers.html 
+
+24 https://www.sika.com/en/knowledge-hub/reco2ver-concrete-recycling.html 
+
+53 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Glass 
+
+Glass accounts for an estimated 0.5% of total material arisings by weight or 0.4% by volume. 
+
+Table C6.  Estimated Glass arisings, potential recovery amounts, and associated embodied carbon 
+
+‘Avoidable’ 
+Suitable for 
+
+Suitable ‘Embedded’ embodied 
+Volume Suitable for EfW / other 
+
+Source/Component Tonnes for reuse embodied carbon from 
+(m3) recycling* (t) recovery* 
+
+(t) carbon (tCO2e) reuse 
+(t) 
+
+(tCO2e) 
+Window glass 78.1 31.7 0.8 77.2 -- 125.0 1.4 
+
+Glass partitions 31.5 12.8 7.9 23.6 -- 50.5 12.6 
+
+Sidelites 6.3 2.6 -- 6.3 -- 10.1 -- 
+
+Glass doors (internal) 5.2 2.1 -- 5.1 -- 8.2 0.1 
+
+Mirror 1.9 0.8 0.9 0.9 -- 3.0 1.5 
+
+Glass doors (external) 0.8 0.3 0.1 0.7 -- 1.3 0.1 
+
+Glass revolving door 0.3 0.1 -- 0.3 -- 0.5 -- 
+
+Grand Total 124.1 50.5 9.8 114.3 -- 198.6 15.7 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of EfW/other, 
+recycling.  
+
+Generally, glass can be collected in skips and containers for recycling. The quality of the glass in the 
+skips will be dependent upon the awareness and training of those working on site and appropriate 
+site management is required along with clear signage. British Glass has a guide for flat glass 
+recycling25. Whilst previously it was not common to recycle anything other than clear flat glass, Saint 
+Gobain has been pioneering recycling for all types of glass – further information can be found below.  
+
+Most post-consumer flat glass waste produced does not go back into glass and is used as aggregate 
+or landfilled. For demolition, it is more likely to be crushed into aggregate with other inert waste. 
+However, there are opportunities to recycle at higher value.  
+
+According to the National Federation of Demolition Contractors (NFDC), glass from facades may be 
+available for recycling back into glass, as they are likely to be deconstructed and the glass less 
+contaminated.  
+
+The UK Green Building Council (UKGBC) have an example of post-demolition glass being turned into 
+new glass26. Other markets include the use of glass in glass wool insulation, container glass and 
+ballotini products (glass beads). One of the limiting factors in the use of post-consumer flat glass as 
+cullet back into the float glass manufacturing process is the availability of it in the right quality and 
+
+ 
+25 https://www.britglass.org.uk/our-work/recycling/windows  
+
+26 VerdeSW1CaseStudy_FINALISSUE1.pdf (ukgbc.s3.eu-west-2.amazonaws.com)  
+
+54 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+chemical compatibility as the manufacturing process is sensitive to low levels of contamination.  The 
+glass recycling industry has developed grades of glass cullet: 
+
+• Class C – which is contaminated and not suitable for re-melting back into glass. 
+Contamination can include ceramic frit, putty, lead beading and space bars. This will be used 
+as aggregate and road paint. 
+
+• Class B – this is called ‘mixed cullet’ and may have some contamination such as laminated 
+glass, which is suitable for glass wool insulation and container glass. 
+
+• Class A – clean clear glass cullet with no contamination which can be used back in the 
+floating by re-melting. This is currently mostly from pre-consumer glass. Demand for this 
+outstrips supply. 
+
+If glass waste is sent to landfill and not mixed with other types of non-inert waste, it will attract the 
+lower rate of tax, currently at £3.10/tonne. There are economic opportunities with a market price of 
+£50/tonne for recycled glass compared to £90/tonne for virgin material.  
+
+As the cost of logistics is high, large volumes of waste are preferred when collecting. The quality of 
+the glass waste is important with minimal contamination requiring the effective separation and 
+segregation on site, which in turn requires education and training for those working on site. Note 
+that there is a health and safety consideration for the workforce if it is to be segregated onsite.  
+
+UK glass manufacturers are working towards increasing their recycled glass content in glass float 
+products. Saint Gobain Building glass can provide a specialist assessment of glass composition in the 
+building and facilitate flat glass recycling back into flat glass float including glass processing, 
+transport and logistics. A rebate may also be given for a project on a site-by-site basis. A case study is 
+available to read for a residential project27. Pilkington UK Ltd will also provide a glass assessment and 
+will facilitate glass recycling on a site-by-site basis.  
+
+• Saint Gobain https://www.saint-gobain-glass.co.uk/en-gb/our-sustainability-journey 
+
+• Pilkington UK Ltd https://www.pilkington.com/en-gb/uk/sustainability/pilkington-uk-
+sustainability 
+
+  
+
+ 
+27 How construction can crack glass recycling | Journals | RICS 
+
+55 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Gypsum 
+
+Gypsum accounts for an estimated 1.1% of total material arisings by weight or 3.0% by volume.  
+
+Table C7.  Estimated gypsum arisings, potential recovery amounts, and associated embodied carbon  
+
+Suitable ‘Avoidable’ 
+Suitable ‘Embedded’ 
+
+Suitable for EfW / embodied 
+Volume for embodied 
+
+Source/Component Tonnes fo  other 
+(m3 r carbon 
+
+) recycling* carbon 
+reuse (t) recovery* from reuse 
+
+(t) (tCO2e) 
+(t) (tCO2e) 
+
+Plasterboard ceiling 145.7 194.3 -- 109.3 -- 58.3 -- 
+
+Plasterboard walls 119.2 159.0 -- 89.4 -- 47.7 -- 
+
+Grand Total 265.0 353.3 -- 198.7 -- 106.0 -- 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of 
+EfW/other, recycling.  
+
+ It is technically possible to recycle plasterboard back into gypsum for plasterboard manufacture 
+through demonstrating compliance with BSI PAS 109 Specification for the production of recycled 
+gypsum from waste plasterboard (2008)28. However, the options for closed loop recycling back into 
+new plasterboard are very limited, if at all. There are a number of companies which offer recycling 
+services for plasterboard, although this tends to be mainly for new plasterboard offcuts rather than 
+older plasterboard from demolition. Therefore, the principal recovery options tend to be use as a 
+soil conditioner in land treatment, or in the manufacture of cement.  Plaster which is attached to 
+brick and block work can be treated as recycled aggregate if in low quantities.  
+
+The legal minimum requirement, if sent to disposal, is to landfill in a monocell (landfilled separately 
+from any degradable waste) to avoid the production of hydrogen sulphide gas.  
+
+Gypsum plaster can be incorporated into recycled aggregate as long as it is in relatively low 
+quantities.   
+
+ 
+28 Available at: https://www.yumpu.com/en/document/read/10596832/bsi-pas-109-specification-for-the-
+production-of-wrap  
+
+56 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Insulation 
+
+Insulation accounts for an estimated 0.2% of total material arisings by weight or 7% by volume. 
+There is likely to be more insulation present than identified such as pipe lagging etc.  
+
+ Table C8.  Estimated Insulation arisings, potential recovery amounts, and associated embodied carbon 
+
+Suitable ‘Avoidable’ 
+Suitable ‘Embedded’ 
+
+Suitable for EfW / embodied 
+Volume for embodied 
+
+Source/Component Tonnes fo  carbon 
+(m3 r other 
+
+) recycling* carbon 
+reuse (t) recovery* from reuse 
+
+(t) (tCO2e) 
+(t) (tCO2e) 
+
+Mineral wool insulation 31.4 629.0 -- -- -- 40.3 -- 
+
+Insulation (roof) 5.3 152.1 -- -- 5.3 23.4 -- 
+
+Underlay 0.1 3.5 -- -- 0.1 0.5 -- 
+
+Grand Total 36.9 784.6 -- -- 5.4 64.10 -- 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of 
+EfW/other, recycling.  
+
+ 
+
+If not reused, mineral wool is likely to be sent to landfill. 
+
+Note that Rockwood offer a recycling scheme, though it has to be their own product and free from 
+contamination https://www.rockwool.co.uk/about/sustainability/recycling/ 
+
+Foam insulation is likely to be sent to energy from waste. Care should be taken to ensure that foam 
+insulation that may contain ozone-depleting substances are removed and handled carefully. Any 
+foam insulation should be tested for the presence of Persistent Organic Pollutants (POPs) and if 
+found, should be destroyed through high temperature incineration. Any foam insulation containing 
+Ozone Depleting Substances (ODS) should be treated appropriately.  
+
+ 
+
+  
+
+57 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Metals 
+
+Metals accounts for an estimated 3.6% of total material arisings by weight or 1.0% by volume. 
+
+Table C9.  Estimated Metals arisings, potential recovery amounts, and associated embodied carbon 
+Suitable ‘Avoidable’ 
+
+Suitable Suitable for for EfW / ‘Embedded’ embodied 
+Volume 
+
+Source/Component Tonnes for reuse 
+(m3 recycling* other embodied carbon from 
+
+) 
+(t) (t) recovery* carbon (tCO2e) reuse 
+
+(t) (tCO2e) 
+
+Steel rebar 524.8 67.5 -- 514.3 -- 1,042.0 -- 
+
+Steel beams 70.1 9.0 -- 69.4 -- 108.7 -- 
+
+Raised access floor - steel skin 62.2 8.9 43.6 18.7 -- 123.8 86.7 
+
+Metal ceiling tiles  47.9 6.8 33.5 13.9 -- 95.4 66.7 
+
+Steel columns 37.8 4.9 -- 37.4 -- 58.6 -- 
+
+Raised access floor - pedestals 27.0 3.5 -- 27.0 -- 41.8 -- 
+
+Metal studwork - top/base tracks 21.7 3.1 -- 21.2 -- 43.1 -- 
+
+Plasterboard ceiling frame 18.1 2.6 -- 18.0 -- 36.1 -- 
+
+Aluminium windows 15.9 5.9 -- 15.9 -- 105.8 -- 
+
+Ceiling tile grid 10.7 1.5 -- 10.6 -- 21.3 -- 
+
+Metal railing - External 7.4 1.0 -- 7.4 -- 11.5 -- 
+
+Metal stairs 5.2 0.7 3.2 2.0 -- 8.0 4.9 
+
+Metal railing - Internal 4.6 0.6 -- 4.6 -- 7.2 -- 
+
+Steelwork (plant area) 3.2 0.4 1.6 1.6 -- 5.0 2.5 
+
+Aluminium partition frame 2.1 0.8 0.5 1.5 -- 14.1 3.5 
+
+Steel mesh (plant) 1.7 0.2 0.8 0.8 -- 3.3 1.7 
+
+Aluminium door frame 1.6 0.6 0.03 1.5 -- 10.8 0.2 
+
+Louvres  1.1 0.2 -- 1.1 -- 2.3 -- 
+
+Metal studwork - studs 0.4 0.1 -- 0.4 -- 0.9 -- 
+
+Stainless steel sink 0.3 -- 0.3 0.1 -- 1.6 1.2 
+
+Steel trays (plant) 0.3 0.05 0.2 0.2 -- 0.7 0.3 
+
+Roller shutter 0.3 0.04 -- 0.3 -- 0.6 -- 
+
+Steel mesh bridges (plant) 0.3 0.04 0.1 0.1 -- 0.6 0.3 
+
+Pure tap 0.1 -- 0.1 -- -- 0.7 0.7 
+
+Boiling water tap 0.1 -- 0.1 -- -- 0.7 0.7 
+
+Bike racks 0.1 0.01 0.1 -- -- 0.1 0.1 
+
+Aluminium door frame (external) 0.1 0.03 0.02 0.05 -- 0.5 0.2 
+
+Aluminium door (external) 0.04 0.01 -- 0.04 -- 0.3 -- 
+
+Aluminium & glass door 0.03 0.01 0.01 0.02 -- 0.2 0.1 
+
+Grand Total 865.8 118.4 84.7 768.1 -- 1,746.3 170.7 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of EfW/other, 
+recycling.  
+
+ 
+
+58 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+For recycling, metals should be segregated from other materials on site. For instance, rebar can be 
+separated from the concrete it is bonded by using a crusher to pulverise the concrete into aggregate 
+and sand, and then extracting the rebar for segregation.  
+
+It is common practice for demolition contractors to reduce their contract value by allowing for the 
+income from the recycling of metals during demolition. Standard skip hire companies are likely to 
+charge for haulage costs only and may give back a small rebate on the metals. Once segregated, it is 
+usually sent to a metal scrap merchants (recyclers). At these, the metals will be sorted, sheared 
+(cutting large pieces), shredded, graded, and baled. The steel will be then sent to smelters to be re-
+melted as ingots (which are usually downcycled material), and then sent to steel furnaces. Much of 
+this may be abroad - depending on the price per tonnes the scrap merchant can obtain.  
+
+Best practice for steel is for it to be reused; recycling is the business-as-usual model. Celsa Steel29 are 
+introducing a scheme where steel can be bought by them and recycled in their furnace and a 
+voucher provided for new high recycled content steel (around 98%) (mainly rebar). They are looking 
+for companies to work with.   
+
+  
+
+ 
+29 https://www.celsagroup.com/en/recycling/ 
+
+59 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Plastics 
+
+Plastics accounts for an estimated 0.1% of total material arisings by weight or 0.1% by volume.  
+
+Table C10.  Estimated Plastics arisings, potential recovery amounts, and associated embodied carbon 
+
+Suitable ‘Avoidable’ 
+Suitable Suitable ‘Embedded’ 
+
+for EfW / embodied 
+Volume for for embodied 
+
+Source/Component Tonnes other 
+(m3 carbon 
+
+) reuse recycling* carbon 
+recovery* from reuse 
+
+(t) (t) (tCO2e) 
+(t) (tCO2e) 
+
+Vinyl flooring 16.7 12.4 -- 3.34 13.4 53.3 -- 
+
+Vapour membrane 0.2 0.4 -- -- 0.2 0.47 -- 
+
+Grand Total 16.9 12.7 -- 3.34 13.5 53.8 -- 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of 
+EfW/other, recycling.  
+
+Most plastic is likely to be sent for recycling or energy recovery by the contractor via a waste 
+management company, and it is likely to require onsite segregation. The main recycling route is for 
+the vinyl flooring depending on the amount of screed attached.  See 
+https://www.recofloor.org/contractors-how-it-works/ and http://www.recofloor.org/about-
+us/#specifications for more details of vinyl floor recycling.  In some areas the vinyl may have 
+aggregate present to provide its anti-slip qualities which generally precludes recycling. As such, it will 
+likely be sent for energy recovery or landfill.  
+
+Note that a significant quantity of plastic will likely be present in WEEE and MEP items not 
+accounted for here.   
+
+  
+
+60 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Stone  
+
+Stone accounts for an estimated 0.1% of total material arisings by weight or 0.1% by volume. 
+
+Table C11.  Estimated Stone arisings, potential recovery amounts, and associated embodied carbon 
+
+Suitable ‘Avoidable’ 
+Suitable ‘Embedded’ 
+
+Suitable for EfW / embodied 
+Volume for embodied 
+
+Source/Component Tonnes 
+(m3 for other carbon 
+
+) recycling* carbon 
+reuse (t) recovery* from reuse 
+
+(t) (tCO2e) 
+(t) (tCO2e) 
+
+Stone paving 14.3 5.7 8.6 5.7 -- 1.1 0.7 
+
+Stone columns 4.0 1.6 -- 4.0 -- 0.3 -- 
+
+slate tiles 4.0 1.4 3.0 1.0 -- 0.1 0.1 
+
+Stone cladding 1.6 0.6 1.1 0.5 -- 0.1 0.1 
+
+Grand Total 23.8 9.3 12.6 11.2 -- 1.7 0.9 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of 
+EfW/other, recycling.  
+
+ 
+
+Recycling is the default option where reuse of stone is not possible. The material should be 
+appropriate for recycling options similar to those outlined in the concrete section, i.e. as inert waste 
+for recycled aggregate.  
+
+  
+
+61 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Timber  
+
+Timber accounts for an estimated 2% of total material arisings by weight or 6% by volume. 
+
+Table C12.  Estimated Timber arisings, potential recovery amounts, and associated embodied carbon 
+
+‘Avoidable’ 
+Suitable for ‘Embedded’ 
+
+Suitable for embodied 
+Volume Suitable for EfW / other embodied 
+
+Source/Component Tonnes recycling* carbon 
+(m3) reuse (t) recovery* carbon 
+
+(t) from reuse 
+(t) (tCO2e) 
+
+(tCO2e) 
+Raised access floor - timber core 395.7 549.5 277.0 98.9 19.8 277.0 193.9 
+
+Timber door 27.9 55.8 8.4 5.6 13.7 8.4 2.5 
+
+Sidelite frames 20.2 40.3 0.0 12.1 7.9 6.0 0.0 
+
+Laminate flooring 10.4 17.3 0.0 0.0 10.4 7.2 0.0 
+
+Timber door frame 8.2 16.4 2.5 1.6 4.0 2.5 0.7 
+
+Laminate walls 4.6 6.4 0.0 0.0 4.6 3.2 0.0 
+
+Kitchen worktops 2.9 4.0 2.2 0.0 0.7 2.0 1.5 
+
+Kitchen cabinets 2.2 3.0 1.6 0.0 0.5 1.5 1.1 
+
+Laminated WC partitions 2.1 2.9 0.0 0.0 2.1 1.5 0.0 
+
+Timber panelling 2.0 4.1 0.5 1.1 0.4 0.6 0.2 
+
+Engineered wood flooring 1.9 3.2 0.8 0.2 0.9 1.3 0.5 
+
+Timber window frame 1.7 3.4 0.5 0.5 0.7 0.5 0.2 
+
+Fire door 0.9 1.7 0.0 0.3 0.6 0.3 0.0 
+
+Timber battens 0.7 1.4 0.0 0.4 0.4 0.2 0.0 
+
+Laminated WC/Shower partitions 0.7 1.0 0.0 0.0 0.7 0.5 0.0 
+
+Grand Total 482.1 710.6 293.4 120.7 67.4 312.8 200.6 
+
+* To avoid double counting, the values for recycling and EfW/other do not account for quantities of reuse and, in the case of EfW/other, recycling.  
+
+ 
+
+Timber should be segregated on site if space permits, to improve level of reuse, recycling, or 
+incineration for energy recovery. Most solid timber can be recycled, usually into chipboard. Timber-
+based boards such as MDF or chipboard are difficult to recycle due to the length of the fibres and 
+the glues. There is a company, MDF Recovery, that is starting to recycle MDF30, but otherwise 
+anything other than solid timber will likely be sent for energy recovery.  
+
+The Construction Demolition Waste Forum has produced guidance on assessing the hazardousness 
+nature of wood waste31. The main concerns are timber that seem to be coated or treated prior to 
+2007. In the event these occur over certain threshold limits the waste wood is classed as a hazardous 
+waste. A recent change in the regulatory position from the Environment Agency means that from 1st 
+
+ 
+30 http://www.mdfrecovery.co.uk/  
+
+31 https://condemwaste.org/wp-content/uploads/2023/08/CIWM-CD-Waste-Wood-Guide-v1.2.pdf  
+
+62 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+September 2023, ‘potentially hazardous’ waste wood is now deemed ‘hazardous’ unless shown 
+otherwise through testing.   
+
+Waste Electrical & Electronic Equipment (WEEE) and M&E  
+
+Electrical and electronic equipment accounts for an estimated 0.1% of total material arisings by 
+weight. Note, there is likely to be more WEEE arising then identified here.  Volume has not been 
+calculated for WEEE, nor has any embodied carbon data.  
+
+Table C13. Estimated WEEE/MEP arisings and potential recovery amounts 
+
+Suitable 
+Suitable 
+
+Suitable for EfW / 
+for 
+
+Source/Component Tonnes for other 
+recycling* 
+
+reuse (t) recovery* 
+(t) 
+
+(t) 
+
+Lifts 13.2 0.0 12.5 -- 
+
+LED - rectangular (suspended, regular) 3.5 2.7 0.7 -- 
+
+Spot lights 2.4 1.2 0.9 -- 
+
+LED - rectangular (suspended uplighter) 0.8 0.6 0.2 -- 
+
+LED - rectangular (ceiling integrated) 0.8 0.6 0.2 -- 
+
+Dishwasher 0.5 0.5 -- -- 
+
+Fridge 0.5 0.5 -- -- 
+
+Lights 0.4 0.3 0.1 -- 
+
+Recessed lights 0.4 0.2 0.2 -- 
+
+LED - square panel (ceiling integrated) 0.4 0.3 0.1 -- 
+
+Shower units 0.2 0.2 -- -- 
+
+Bulkhead lights 0.1 0.1 0.1 -- 
+
+Pendant lights 0.1 0.1 -- -- 
+
+Strip lights 0.1 -- 0.1 -- 
+
+Wall/pendant lights 0.02 0.02 -- -- 
+
+Batten lights (LED) 0.02 0.01 -- -- 
+
+Grand Total 23.6 7.3 15.0 -- 
+
+ 
+
+Most plant and M&E items should be possible for waste management companies to separate into 
+constituent materials (eg different types of plastics and metals) for separate recycling.  
+
+Any non-reused items WEEE items should be separated on site and sent to a specialist WEEE 
+recycling facility.  
+
+ 
+
+63 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Fluorescent lighting should be segregated onsite, collected and disposed by a licensed hazardous 
+waste carrier. Alternatively, schemes such as Recolight32 offer collection and drop off services. The 
+metal fittings, if not suitable for reuse should be segregated with the other metal for recycling.    
+
+Note, recent guidance refers to the potential hazardous nature of non WEEE cables, which maybe 
+hazardous and will have to be treated as such33.  
+
+  
+
+ 
+32 https://www.recolight.co.uk/  
+
+33 https://www.360environmental.co.uk/news/2023/6/2/3145-non-weeecablenowclassedashazardous/ 
+
+64 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Appendix D – Breakdown of arisings by NRM categories  
+
+Holborn Gate 
+
+ 
+
+Calculated volume 
+NRM Group / NRM Element / Component Tonnes 
+
+(m3) 
+2. Superstructure 12,434.6 5,624.46 
+
+2.1 Frame 3,470.3 1,407.66 
+In situ RC beams 2,676.4 1,115.16 
+In situ RC columns 661.0 275.40 
+Steel rebar 129.7 16.69 
+Steelwork (plant area) 3.2 0.41 
+
+2.2 Upper floors 7,209.2 2,956.46 
+Ground-bearing RC floor slabs - Concrete 3,446.7 1,436.13 
+Hollowpot floors - Clay pot 1,852.3 771.80 
+Hollowpot floors - Concrete topping 1,163.8 484.92 
+Hollowpot floors - RC ribs 581.9 242.46 
+
+Steel rebar 164.4 21.15 
+2.3 Roof 85.0 92.42 
+
+ Vapour membrane 0.1 0.12 
+Asphalt roofing 83.2 41.60 
+Insulation (roof) 1.8 50.70 
+
+2.4 Stairs and ramps 192.0 76.01 
+Concrete stairs 178.2 74.23 
+Metal stairs 0.3 0.03 
+Steel rebar 13.6 1.74 
+
+2.5 External walls 428.7 180.64 
+Cement mortar (masonry walls) 1.6 0.85 
+Ceramic ext wall tiles 6.5 2.71 
+Concrete blockwork 16.8 12.03 
+Concrete cladding 116.7 48.64 
+In situ RC walls - concrete 256.5 106.87 
+Louvres  1.1 0.16 
+Mosaic tiles (ext walls) 19.4 8.10 
+Steel rebar 10.0 1.28 
+
+2.6 Windows and external doors 69.2 27.61 
+Aluminium door frame 0.2 0.07 
+Aluminium partition frame 2.1 0.78 
+Aluminium windows 11.6 4.31 
+Glass doors (external) 0.5 0.20 
+Glass revolving door 0.3 0.14 
+Window glass 54.4 22.11 
+
+2.7 Internal walls and partitions 955.9 845.06 
+Cement mortar (masonry walls) 71.9 37.82 
+
+65 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Concrete blockwork 429.6 306.86 
+Glass partitions 23.9 9.73 
+In situ RC walls - concrete 99.6 41.51 
+Laminated WC partitions 2.1 2.93 
+Laminated WC/Shower partitions 0.7 1.00 
+Metal studwork - studs 0.2 0.03 
+Metal studwork - top/base tracks 17.4 2.49 
+Mineral wool insulation 11.8 236.00 
+Modern brick 249.9 147.02 
+Plasterboard walls 44.3 59.12 
+Steel mesh bike enclosure 0.5 0.07 
+Steel rebar 3.9 0.50 
+
+2.8 Internal doors 24.4 38.59 
+Aluminium door frame 1.3 0.49 
+Fire door 0.4 0.86 
+Glass doors (internal) 5.0 2.04 
+Timber door 13.2 26.43 
+Timber door frame 4.4 8.77 
+
+3. Internal finishes 1,214.8 896.14 
+3.1 Wall finishes 9.5 6.29 
+
+Ceramic wall tiles 8.0 3.35 
+Timber panelling 1.5 2.94 
+
+3.2 Floor finishes 1,117.9 821.43 
+Carpet tiles 26.6 33.30 
+Ceramic floor tiles 17.8 7.42 
+Grout 721.4 379.67 
+Raised access floor - pedestals 18.7 2.40 
+Raised access floor - steel skin 43.1 6.15 
+Raised access floor - timber core 273.7 380.16 
+Vinyl Flooring 16.7 12.34 
+
+3.3 Ceiling finishes 87.4 68.41 
+Ceiling tile grid 6.3 0.90 
+Metal ceiling tiles  28.2 4.03 
+Plasterboard ceiling 47.0 62.64 
+Plasterboard ceiling frame 5.8 0.84 
+
+4. Fittings, furnishings and equipment 3.3 3.58 
+4.1 Fittings, furnishings and equipment 3.3 3.58 
+
+Bike racks 0.1 0.01 
+Kitchen cabinets 1.0 1.43 
+Kitchen worktops 1.3 1.76 
+Mirror 0.9 0.38 
+
+5. Services 14.9 1.49 
+5.1 Sanitary installations 3.9 1.49 
+
+Ceramic sinks 1.0 0.42 
+Shower Units 0.1 0.00 
+
+66 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Stainless steel sink 0.2 0.00 
+Urinals 0.8 0.32 
+WC pans 1.8 0.74 
+
+5.10 Lift and conveyor systems 7.2 0.00 
+Lifts 7.2 0.00 
+
+5.8 Electrical installations 3.8 0.00 
+Batten lights (LED) 0.0 0.00 
+LED - rectangular (ceiling integrated) 0.8 0.00 
+LED - rectangular (suspended uplighter) 0.8 0.00 
+LED - rectangular (suspended, regular) 0.1 0.00 
+LED - square panel (ceiling integrated) 0.4 0.00 
+Lights 0.4 0.00 
+Pendant lights 0.0 0.00 
+Spot lights 1.0 0.00 
+Strip lights 0.1 0.00 
+Wall/pendant lights 0.0 0.00 
+
+8. External works 94.1 37.22 
+8.2 Roads, paths, pavings and services 89.3 36.60 
+
+Concrete paving slabs (on ledges/overhangs) 87.1 36.27 
+Steel mesh (plant) 1.7 0.24 
+Steel mesh bridges (plant) 0.3 0.04 
+Steel trays (plant) 0.3 0.05 
+
+8.4 Fencing, railings and walls 4.8 0.62 
+Metal railing - External 4.8 0.62 
+
+Grand Total 13,761.8 6,562.88 
+
+ 
+
+ 
+
+  
+
+67 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+322 High Holborn 
+
+Calculated volume 
+NRM Group / NRM Element / Component Tonnes 
+
+(m3) 
+2. Superstructure 6,630.3 3,117.11 
+
+2.1 Frame 2,333.3 947.05 
+In situ RC beams 1,852.3 771.80 
+In situ RC columns 393.7 164.03 
+Steel rebar 87.3 11.23 
+
+2.2 Upper floors 3,571.1 1,475.77 
+Ground-bearing RC floor slabs - Concrete 946.1 394.20 
+Hollowpot floors - Clay pot 837.0 348.76 
+Hollowpot floors - Concrete topping 1,163.8 484.92 
+Hollowpot floors - RC ribs 581.9 242.46 
+Steel rebar 42.2 5.43 
+
+2.3 Roof 28.9 64.34 
+ Vapour membrane 0.1 0.12 
+Asphalt roofing 27.0 13.52 
+Insulation (roof) 1.8 50.70 
+
+2.4 Stairs and ramps 86.8 34.16 
+Concrete stairs 79.8 33.26 
+Metal stairs 4.9 0.63 
+Steel rebar 2.1 0.27 
+
+2.5 External walls 487.8 307.44 
+Cement mortar (masonry walls) 47.4 24.93 
+Ceramic ext wall tiles 0.6 0.27 
+Concrete blockwork 271.2 193.75 
+Concrete cladding 45.5 18.98 
+Modern brick 106.6 62.68 
+Mosaic tiles (ext walls) 10.8 4.51 
+Render 5.6 2.34 
+
+2.6 Windows and external doors 24.6 10.44 
+Aluminium door (external) 0.0 0.01 
+Aluminium door frame 0.1 0.04 
+Aluminium door frame (external) 0.1 0.03 
+Aluminium windows 4.2 1.56 
+Fire door 0.4 0.86 
+Glass doors (external) 0.3 0.12 
+Roller shutter 0.3 0.04 
+Window glass 19.1 7.77 
+
+2.7 Internal walls and partitions 87.0 256.08 
+Cement mortar (masonry walls) 2.3 1.20 
+Concrete blockwork 23.8 17.00 
+Glass partitions 7.6 3.09 
+Metal studwork - studs 0.1 0.02 
+Metal studwork - top/base tracks 2.6 0.38 
+
+68 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Mineral wool insulation 8.8 176.16 
+Plasterboard walls 33.7 44.93 
+Sidelite frames 6.3 12.60 
+Window glass 1.8 0.71 
+
+2.8 Internal doors 11.0 21.82 
+Aluminium & glass door 0.0 0.01 
+Aluminium door frame 0.0 0.01 
+Timber door 8.8 17.57 
+Timber door frame 2.1 4.23 
+
+3. Internal finishes 260.4 291.52 
+3.1 Wall finishes 0.6 1.16 
+
+Timber panelling 0.6 1.16 
+3.2 Floor finishes 154.1 181.17 
+
+Carpet tiles 22.8 28.51 
+Ceramic floor tiles 2.3 0.96 
+Fitted carpet 6.9 1.76 
+Laminate flooring 10.0 16.74 
+Raised access floor - pedestals 6.2 0.80 
+Raised access floor - steel skin 14.4 2.05 
+Raised access floor - timber core 91.3 126.79 
+Underlay 0.1 3.52 
+Vinyl Flooring 0.0 0.04 
+
+3.3 Ceiling finishes 105.8 109.19 
+Ceiling tile grid 3.1 0.44 
+Metal ceiling tiles  13.8 1.98 
+Plasterboard ceiling 79.0 105.37 
+Plasterboard ceiling frame 9.8 1.40 
+
+4. Fittings, furnishings and equipment 2.6 2.23 
+4.1 Fittings, furnishings and equipment 2.6 2.23 
+
+Kitchen cabinets 0.6 0.82 
+Kitchen worktops 0.8 1.13 
+Metal railing - Internal 0.7 0.09 
+Mirror 0.5 0.19 
+
+5. Services 10.6 1.14 
+5.1 Sanitary installations 2.9 1.14 
+
+Ceramic sinks 0.8 0.33 
+Stainless steel sink 0.1 0.00 
+Urinals 0.4 0.16 
+WC pans 1.6 0.66 
+
+5.10 Lift and conveyor systems 3.6 0.00 
+Lifts 3.6 0.00 
+
+5.4 Water installations 0.1 0.00 
+Boiling water tap 0.1 0.00 
+
+5.8 Electrical installations 4.0 0.00 
+Dishwasher 0.2 0.00 
+
+69 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Fridge 0.2 0.00 
+LED - rectangular (suspended, regular) 2.3 0.00 
+Pure tap 0.1 0.00 
+Recessed lights 0.4 0.00 
+Spot lights 0.8 0.00 
+
+8. External works 2.6 0.33 
+8.4 Fencing, railings and walls 2.6 0.33 
+
+Metal railing - External 2.6 0.33 
+Grand Total 6,906.5 3,412.33 
+
+ 
+
+ 
+
+  
+
+70 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+44 Southampton Buildings 
+
+ 
+
+Calculated volume 
+NRM Group / NRM Element / Component Tonnes 
+
+(m3) 
+2. Superstructure 3,020.5 1,619.95 
+
+2.1 Frame 627.1 230.13 
+Concrete encasement 515.2 214.65 
+Steel beams 70.1 9.02 
+Steel columns 37.8 4.86 
+Stone columns 4.0 1.60 
+
+2.2 Upper floors 1,532.8 621.64 
+Ground-bearing RC floor slabs - Concrete 215.2 89.65 
+In situ RC slab 1,258.5 524.39 
+Steel rebar 59.1 7.60 
+
+2.3 Roof 18.7 59.75 
+
+ Vapour membrane 0.1 0.12 
+Asphalt roofing 12.1 6.07 
+Insulation (roof) 1.8 50.70 
+slate tiles 4.0 1.42 
+Timber battens 0.7 1.45 
+
+2.4 Stairs and ramps 79.8 32.66 
+Concrete stairs 77.8 32.40 
+Steel rebar 2.0 0.26 
+
+2.5 External walls 585.9 290.82 
+Cement mortar (masonry walls) 28.6 26.00 
+Concrete blockwork 59.4 42.45 
+In situ RC walls - concrete 368.4 153.50 
+Older brown brick 84.6 49.78 
+Render 12.6 5.25 
+Steel rebar 10.5 1.35 
+Stone cladding 1.6 0.62 
+White glazed brick 20.2 11.87 
+
+2.6 Windows and external doors 4.8 5.11 
+Timber door 0.2 0.45 
+Timber door frame 0.1 0.12 
+Timber window frame 1.7 3.39 
+Window glass 2.8 1.15 
+
+2.7 Internal walls and partitions 164.0 365.11 
+Cement mortar (masonry walls) 7.9 4.15 
+Concrete blockwork 82.2 58.71 
+Metal studwork - studs 0.1 0.02 
+Metal studwork - top/base tracks 1.6 0.23 
+Mineral wool insulation 10.8 216.80 
+Plasterboard walls 41.2 54.91 
+
+71 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Sidelite frames 13.9 27.72 
+Sidelites 6.3 2.57 
+
+2.8 Internal doors 7.5 14.74 
+Glass doors (internal) 0.1 0.06 
+Timber door 5.7 11.40 
+Timber door frame 1.6 3.29 
+
+3. Internal finishes 87.2 94.90 
+3.1 Wall finishes 8.2 7.93 
+
+Ceramic wall tiles 3.6 1.49 
+Laminate walls 4.6 6.44 
+
+3.2 Floor finishes 49.6 59.30 
+Carpet tiles 9.6 11.99 
+Ceramic floor tiles 0.3 0.11 
+Engineered wood flooring 1.9 3.15 
+Laminate flooring 0.3 0.52 
+Raised access floor - pedestals 2.1 0.27 
+Raised access floor - steel skin 4.8 0.69 
+Raised access floor - timber core 30.7 42.58 
+
+3.3 Ceiling finishes 29.3 27.67 
+Ceiling tile grid 1.3 0.19 
+Metal ceiling tiles  5.8 0.84 
+Plasterboard ceiling 19.7 26.30 
+Plasterboard ceiling frame 2.5 0.35 
+
+4. Fittings, furnishings and equipment 5.8 2.60 
+4.1 Fittings, furnishings and equipment 5.8 2.60 
+
+Kitchen cabinets 0.6 0.78 
+Kitchen worktops 0.8 1.13 
+Metal railing - Internal 3.9 0.50 
+Mirror 0.5 0.19 
+
+5. Services 6.4 0.57 
+5.1 Sanitary installations 1.5 0.57 
+
+Ceramic sinks 0.5 0.20 
+Shower Units 0.1 0.00 
+WC pans 0.9 0.38 
+
+5.10 Lift and conveyor systems 2.4 0.00 
+Lifts 2.4 0.00 
+
+5.4 Water installations 0.1 0.00 
+Boiling water tap 0.1 0.00 
+
+5.8 Electrical installations 2.5 0.00 
+Bulkhead lights 0.1 0.00 
+Dishwasher 0.3 0.00 
+Fridge 0.3 0.00 
+LED - rectangular (suspended, regular) 1.1 0.00 
+Pendant lights 0.1 0.00 
+Pure tap 0.1 0.00 
+
+72 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Spot lights 0.6 0.00 
+
+Grand Total 3,119.8 1,718.02 
+
+ 
+
+External 
+
+NRM Group / NRM Element / Component Tonnes Calculated volume (m3) 
+
+8. External works 14.3 5.70 
+8.2 Roads, paths, pavings and services 14.3 5.70 
+
+Stone paving 14.3 5.70 
+Grand Total 14.3 5.70 
+
+  
+
+73 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Appendix E – Local reuse and recycling organisations 
+
+The following table lists local reuse and/or recycling organisations that could be contacted for 
+different material streams. These do not constitute a recommendation by Reusefully Ltd and it is 
+likely that selected demolition contractors will have alternative suppliers for many of the recycling 
+options, such as production of recycled aggregates from inert waste.  
+
+Material stream Local organisations identified 
+
+Bitumen • Powerday https://www.powerday.co.uk/ ; 020 3858 0504 
+
+• Hintons https://www.hintonswaste.co.uk/ ; 0208 684 0401 
+
+• O’Donovan https://www.odonovan.co.uk/ ; 0800 731 3332 
+
+Brick reuse • London Reclaimed Brick Merchants, www.lrbm.com, 020 8452 1111  
+• London Reclamation and Salvage Ltd, 
+
+www.londonreclamation.net/building-materials, 0207 639 8909 
+• The Old Slate Yard, www.theoldslateyard.co.uk/, 020 8221 1667 
+
+Brick recycling • Brewsters Waste - https://brewsterswaste.co.uk/  - 020 7474 3535 
+• Ohara Bros - http://oharabros.co.uk/services/aggregates-recycling - 020 
+
+8424 2220 
+• RTS Waste - www.rtswaste.co.uk - 020 7232 1711 
+• Days Group - http://www.daygroup.co.uk/ - 0845 065 4655 
+
+Concrete (and • Powerday - https://www.powerday.co.uk   - 020 3858 0504 
+other inert waste) • PB Donoghue - https://www.pbdonoghue.com/recycling/3/  020   8208 
+recycling 2211 
+
+• RTS Waste - www.rtswaste.co.uk    - 020 7232 1711 
+• Days Group - http://www.daygroup.co.uk/   - 0845 065 4655 
+
+Glass recycling  • Powerday https://www.powerday.co.uk/; 020 3858 0504 (working with 
+Saint Gobain) 
+
+• RTS Waste (www.rtswaste.co.uk T: 020 7232 1711). Note they may 
+require the glass to be removed and stacked as panels. 
+
+• URM Group (https://www.urmgroup.co.uk/ E: info@urmgroup.co.uk) 
+
+Gypsum/ • Plasterboard Recycling Solutions 
+http://www.plasterboardrecyclingsolutions.co.uk/; 0780 118 6380 
+
+plasterboard 
+• Country Style Recycling https://www.countrystylerecycling.co.uk/our-
+
+services/plasterboard-recycling/; 0344 880 7700 (based in Maidstone) 
+
+Metals recycling • EMR Group - http://www.emrgroup.com/   
+• Capital Metal Recycling - http://capitalmetalrecycling.co.uk/  - 0208 964 
+
+2120  
+• London Scrap Metal Recycling - 
+
+http://www.londonscrapmetalrecycling.com  - 0208 809 1019 
+
+Stone reuse • Authentic Reclamation: https://authentic-reclamation.co.uk/stock-
+categories/reclaimed-marble-granite-slate  
+
+• Lassco https://www.lassco.co.uk/  
+
+• V&V Reclamation: https://www.vandv.co.uk/  
+
+74 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+
+Material stream Local organisations identified 
+
+• Community Wood Recycling - www.communitywoodrecycling.org.uk   – 
+Timber reuse 
+
+01273 20 30 40;  
+• Locally, Riverside Timber Recycling Project - 
+
+https://www.facebook.com/p/Riverside-Timber-Recycling-Project-
+100057028107100/ (had a 43% reuse and 57% recycling rate in 2023) 
+
+• Locally, Solo Wood Recycling - www.solowoodrecycling.co.uk   – 07444 
+729 521 
+
+• LASSCO - www.lassco.co.uk/locations/brunswick-house/  - 020 7394 2100 
+(antique/salvagable items only) 
+
+• SALVO - www.salvo.co.uk  lists details of architectural salvage and can list 
+demolition projects 
+
+Hargreaves Wood Flooring - 
+https://www.hargreavesreclaimedflooring.co.uk/ - will come and 
+remove flooring for reclamation.  
+
+London Reclaimed Flooring - https://www.londonreclaimedflooring.co.uk/  
+
+WEEE • For A/C units, Envirocycle will buy these if they are less than 10 years old. 
+https://envirocyclelondon.com/ . 
+
+• Pure Planet Recycling, www.pureplanetrecycling.co.uk/weee-recycling-
+london,  01234 315 496. 
+
+• Priority WEEE, https://priorityweee.co.uk/ , 0800 078 9580. 
+
+• Clear It Waste, https://www.clearitwaste.co.uk/commercial/weee-
+disposal/ , 0208 504 2380 
+
+  
+
+75 
+
+
+
+Pre-Demolition Audit Report – High Holborn – 16th September 2024
+  
+
+__________________________________________________________________________________ 
+
+ 
+Appendix F – ICE embodied carbon  
+
+Material  Conversion Data item reference 
+factor 
+
+Aluminium 6.58 Aluminium sheet, European Mix, Inc Imports 
+Asphalt 0.19 Straight-run bitumen 
+Block: Concrete: 0.10 Concrete block, medium density solid, average strength, per 
+Lightweight kg 
+Bricks 0.21 General (Common Brick) 
+Carpet 9.80 General carpet 
+Carpet tiles 13.00 Carpet tiles, nylon (Polyamide) 
+Ceramic 0.70 General  
+Chipboard 0.70 Particle Board, no carbon storage 
+Concrete 0.10 General  
+Glass 1.60 General  
+Laminate flooring 0.70 Particle Board, no carbon storage 
+Mild steel 1.99 Steel, rebar 
+Mineral wool insulation 1.28 Mineral wool 
+Mortar 0.20 Mortar 1:3 cement: sand mix  
+Plasterboard 0.40 Plasterboard 
+PU insulation 4.26 Polyurethane rigid foam 
+PVC 3.10 PVC General 
+Softwood 0.30 Timber, softwood, no carbon storage  
+Stainless steel 4.41 Average stainless steel datapoints in ICE database 
+Steel 1.55 Steel, Section 
+Stone 0.08 Stone, general 
+Vinyl flooring 3.19 Vinyl flooring, General  
+
+ 
+
+76
