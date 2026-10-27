@@ -1,7 +1,7 @@
 // F1. Mass, and the quantities every engine needs: units in the family's pricing unit,
 // mass in tonnes, pieces, area and volume.
 import type { InventoryItem, Lot, Quantity, Spec } from '../types'
-import { FAMILIES, RAISED_FLOOR_PANEL_M2 } from '../reference/families'
+import { FAMILIES, RAISED_FLOOR_PANEL_M2, TILE_M2 } from '../reference/families'
 import { sectionOrThrow } from '../reference/sections'
 
 export type Measures = { units: number; massT: number; pieces: number | null; areaM2: number | null; volumeM3: number | null }
@@ -22,7 +22,9 @@ export function measuresFor(spec: Spec, quantity: Quantity): Measures {
       return { units: areaM2, massT, pieces: quantity.pieces, areaM2, volumeM3: null }
     }
     case 'precast_cladding':
-    case 'stone_cladding': {
+    case 'stone_cladding':
+    case 'stone_paving':
+    case 'hollowcore_plank': {
       if (quantity.kind !== 'area') throw new Error('Cladding needs an area')
       const massT = (quantity.areaM2 * (f.arealDensityKgM2 ?? 0)) / 1000
       return { units: quantity.areaM2, massT, pieces: null, areaM2: quantity.areaM2, volumeM3: null }
@@ -37,7 +39,19 @@ export function measuresFor(spec: Spec, quantity: Quantity): Measures {
       const massT = (quantity.pieces * (f.unitMassKg ?? 0)) / 1000
       return { units: quantity.pieces, massT, pieces: quantity.pieces, areaM2: quantity.pieces * RAISED_FLOOR_PANEL_M2, volumeM3: null }
     }
-    case 'timber_joist': {
+    case 'natural_slate': {
+      if (quantity.kind !== 'pieces') throw new Error('Slates need a count')
+      const massT = (quantity.pieces * (f.unitMassKg ?? 0)) / 1000
+      return { units: quantity.pieces, massT, pieces: quantity.pieces, areaM2: null, volumeM3: null }
+    }
+    case 'carpet_tile':
+    case 'metal_ceiling_tile': {
+      if (quantity.kind !== 'pieces') throw new Error('Tiles need a count')
+      const massT = (quantity.pieces * (f.unitMassKg ?? 0)) / 1000
+      return { units: quantity.pieces, massT, pieces: quantity.pieces, areaM2: quantity.pieces * (TILE_M2[spec.family] ?? 0), volumeM3: null }
+    }
+    case 'timber_joist':
+    case 'glulam_beam': {
       if (quantity.kind !== 'volume') throw new Error('Timber needs a volume')
       const massT = (quantity.volumeM3 * (f.densityKgM3 ?? 0)) / 1000
       return { units: quantity.volumeM3, massT, pieces: null, areaM2: null, volumeM3: quantity.volumeM3 }

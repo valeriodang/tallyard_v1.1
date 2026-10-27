@@ -162,7 +162,7 @@ test('a new surveying firm, owner and consultancy open on their first steps, not
   const cases = [
     { name: 'Lee Shaw', email: 'lee.shaw@shawsurveys.example', org: 'Shaw Surveys', index: 3, card: 'surveyor-first-run' },
     { name: 'Ash Reed', email: 'ash.reed@reedholdings.example', org: 'Reed Holdings', index: 2, card: 'owner-first-run' },
-    { name: 'Ruth Calder', email: 'ruth.calder@parkstudio.example', org: 'Park Studio', index: 4, card: 'consultant-first-run' },
+    { name: 'Ruth Calder', email: 'ruth.calder@parkstudio.example', org: 'Park Studio', index: 5, card: 'consultant-first-run' },
   ]
   for (const c of cases) {
     await signUp(page, c.name, c.email, c.org, c.index)

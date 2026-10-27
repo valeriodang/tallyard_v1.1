@@ -421,9 +421,12 @@ describe('P3 on the platform, round 2: share links, contractors and New projects
       ['nav', sel.navModel(s, v)],
       ['inbox', sel.inboxView(s, v)],
       ['home', sel.surveyorHome(s, v)],
+      ['contractorHome', sel.contractorDashboard(s, v)],
       ['search', sel.searchIndex(s, v)],
     ]
     expect(sel.availabilityView(s, v, TIVERNE_ID)).not.toBeNull()
+    // Round 3: Fennick is a deconstruction contractor, so its home is the contractor dashboard.
+    expect(sel.contractorDashboard(s, v)).not.toBeNull()
     expectNone(views, allProjectStrings(s), 'Lee')
     for (const [name, view] of views) expect(JSON.stringify(view), `Lee, ${name}`).not.toMatch(/"(ask|askPerUnit|reserve|reservePerUnit|price|guide)"/)
   })

@@ -15,6 +15,12 @@ export const FAMILY_EOL_MATERIAL: Record<FamilyId, { material: string; note: str
   clay_brick: { material: 'brickwork', note: '' },
   raised_floor: { material: 'steel_light_gauge', note: 'No raised floor row: read as light gauge steel, the panel skin and pedestals' },
   timber_joist: { material: 'timber_solid', note: '' },
+  natural_slate: { material: 'brickwork', note: 'No slate row: read as masonry; hooked slates strip easily, nailed ones less so' },
+  stone_paving: { material: 'brickwork', note: 'No paving row: read as masonry' },
+  carpet_tile: { material: 'coatings', note: 'No carpet row: read as disposal, the usual route for used carpet tiles' },
+  metal_ceiling_tile: { material: 'steel_light_gauge', note: 'No ceiling row: read as light gauge steel' },
+  glulam_beam: { material: 'timber_engineered', note: '' },
+  hollowcore_plank: { material: 'concrete_precast', note: '' },
 }
 
 export function bauSplit(materialId: string): EndOfLifeSplit {

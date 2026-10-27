@@ -5,7 +5,7 @@ import { monthKey } from '../../domain/dates'
 import type { World } from '../../domain/types'
 import type { ActionResult, Actor, AppData } from '../types'
 import { isEmail, normaliseEmail } from '../../sandbox/accounts'
-import { ERRORS, buildingOrgIds, buildingSide, isBuildingContractor, roleOfOrg } from '../access'
+import { ERRORS, buildingOrgIds, buildingSide, canBeContractor, isBuildingContractor, roleOfOrg } from '../access'
 import { acceptedReservation, lotOfItem } from '../lots'
 import { log, notify, plural } from '../notifications'
 import { acting, fail, ok, withWorld } from './common'
@@ -73,7 +73,7 @@ export function appointContractor(state: AppData, actor: Actor, buildingId: stri
   if (!b) return fail(state, ERRORS.noBuilding)
   const side = buildingSide(state, actor.userId, buildingId)
   if (side !== 'owner' && side !== 'surveyor') return fail(state, ERRORS.role)
-  if (contractorOrgId !== null && (!contractorOrgId || roleOfOrg(state, contractorOrgId) !== 'surveyor')) return fail(state, CONTRACTOR_ERRORS.contractor)
+  if (contractorOrgId !== null && (!contractorOrgId || !canBeContractor(roleOfOrg(state, contractorOrgId)))) return fail(state, CONTRACTOR_ERRORS.contractor)
   const previousName = b.contractorOrgId ? (state.world.orgs[b.contractorOrgId]?.name ?? null) : null
   if ((b.contractorOrgId ?? null) === contractorOrgId) return ok(state, { cleared: 0, previousName })
   const w = structuredClone(state.world)
@@ -97,7 +97,7 @@ export function appointContractor(state: AppData, actor: Actor, buildingId: stri
 function contractorOrgByEmail(state: AppData, email: string): string | null {
   const key = normaliseEmail(email)
   const user = Object.values(state.users).find((u) => normaliseEmail(u.email) === key)
-  return user && roleOfOrg(state, user.orgId) === 'surveyor' ? user.orgId : null
+  return user && canBeContractor(roleOfOrg(state, user.orgId)) ? user.orgId : null
 }
 
 /**
@@ -160,7 +160,7 @@ export function withdrawContractorInvite(state: AppData, actor: Actor, buildingI
  */
 export function resolveContractorInvites(state: AppData, userId: string, now: string): AppData {
   const user = state.users[userId]
-  if (!user || roleOfOrg(state, user.orgId) !== 'surveyor') return state
+  if (!user || !canBeContractor(roleOfOrg(state, user.orgId))) return state
   const key = normaliseEmail(user.email)
   const waiting = Object.values(state.world.buildings).filter((b) => b.contractorInvite?.email === key)
   if (waiting.length === 0) return state

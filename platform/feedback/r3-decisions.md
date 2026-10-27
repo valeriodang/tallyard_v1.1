@@ -21,3 +21,9 @@ Decisions taken while building round 3 (`BRIEF.md` section 15), with the reason 
   - Curtain wall becomes European (1,500 km by road and 100 km by sea), which is the RICS example for facade modules. The longer delivery of the new unit raises both the avoided figure and its share: TH-08 goes from 78.1 to 81.5 tCO2e, and from 92.4% to 92.7%.
 - **The sea freight factor is indicative.** It is taken from the UK government conversion factors for an average container ship, and is to be confirmed against the current year's table.
 - **Module D stays the donor's.** A guard test proves no project figure includes it.
+- **The six new families carry placeholder factors and prices** wherever the reference folder has no figure. Each Methodology row says which value stands in. Slate and ceiling tiles use the ICE V3 stone and steel factors; glulam uses ICE V3 softwood. Hollowcore reprocessing is 14% of the new factor, the middle of the 12 to 16% that cutting added in the Danish precast study.
+- **The state version stays at 2 until stage 6.** One version bump and one dated "Updated on" notice cover all of round 3. Until then a `SEED_REVISION` in `looksValid` reseeds any sandbox stored before the current revision. It is now 1.
+- **The deconstruction contractor is a role of its own**, which reverses the round 2 decision of "no new role".
+  - Fennick Dismantling becomes a `Dismantling contractor` with the sample account Kofi Rennard, a contracts manager.
+  - Surveying firms keep the stored type `Deconstruction contractor`, labelled "Surveying firm", and can still be appointed contractor.
+  - The contractor's sidebar lists its appointed buildings with the contractor tabs. Its home counts the dates set and the dates still to set.

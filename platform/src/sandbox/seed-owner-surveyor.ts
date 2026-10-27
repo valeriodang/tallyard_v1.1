@@ -11,7 +11,9 @@ import type { AppData, BuildingClaim, TestingRequest } from '../store/types'
 import { claimNoticeKey, log, notify } from '../store/notifications'
 import { SAMPLE_ACCOUNTS } from './accounts'
 
-export const FENNICK_ID = 'org_fennick'
+import { FENNICK_ID, KOFI_PERSONA_ID } from './sampleIds'
+
+export { FENNICK_ID }
 export const AMBREY_ID = 'bld_ab3m8r'
 export const AMBREY_CLAIM_ID = 'clm_ambrey'
 export const TIVERNE_TESTING_ID = 'tst_tiverne'
@@ -49,7 +51,9 @@ const AMBREY_ITEMS: { id: string; lotId: string; publicId: string; tag: string; 
 /** The world additions, applied to the reference world before its dates move. */
 export function withOwnerSurveyorWorld(world: World): World {
   const w = structuredClone(world)
-  w.orgs[FENNICK_ID] = { id: FENNICK_ID, name: 'Fennick Dismantling', type: 'Deconstruction contractor' }
+  // Round 3: Fennick is a deconstruction contractor with its own workspace and a sample account, Kofi Rennard.
+  w.orgs[FENNICK_ID] = { id: FENNICK_ID, name: 'Fennick Dismantling', type: 'Dismantling contractor' }
+  w.personas[KOFI_PERSONA_ID] = { id: KOFI_PERSONA_ID, name: 'Kofi Rennard', orgId: FENNICK_ID, role: 'Contracts manager', tier: 'active' }
 
   const tiverne = w.buildings[TIVERNE_ID]
   tiverne.structure = structuredClone(TIVERNE_STRUCTURE)

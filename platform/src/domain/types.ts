@@ -9,6 +9,12 @@ export type FamilyId =
   | 'clay_brick'
   | 'raised_floor'
   | 'timber_joist'
+  | 'natural_slate'
+  | 'stone_paving'
+  | 'carpet_tile'
+  | 'metal_ceiling_tile'
+  | 'glulam_beam'
+  | 'hollowcore_plank'
 
 export type Condition = 'A' | 'B' | 'C'
 export type Recoverability = 'A' | 'B' | 'C'
@@ -31,6 +37,12 @@ export type StoneSpec = { stone: string; thicknessMm: number }
 export type BrickSpec = { brickType: string; mortar: string }
 export type RaisedFloorSpec = { panelSize: string }
 export type TimberSpec = { species: string }
+export type SlateSpec = { origin: string; sizeMm: string }
+export type PavingSpec = { stone: string; thicknessMm: number }
+export type CarpetTileSpec = { sizeMm: string; backing: string }
+export type CeilingTileSpec = { sizeMm: string; finish: string }
+export type GlulamSpec = { strengthClass: string; sectionMm: string }
+export type HollowcoreSpec = { depthMm: number }
 
 export type Spec =
   | ({ family: 'steel_section' } & SteelSpec)
@@ -40,6 +52,12 @@ export type Spec =
   | ({ family: 'clay_brick' } & BrickSpec)
   | ({ family: 'raised_floor' } & RaisedFloorSpec)
   | ({ family: 'timber_joist' } & TimberSpec)
+  | ({ family: 'natural_slate' } & SlateSpec)
+  | ({ family: 'stone_paving' } & PavingSpec)
+  | ({ family: 'carpet_tile' } & CarpetTileSpec)
+  | ({ family: 'metal_ceiling_tile' } & CeilingTileSpec)
+  | ({ family: 'glulam_beam' } & GlulamSpec)
+  | ({ family: 'hollowcore_plank' } & HollowcoreSpec)
 
 /** Quantity as captured: pieces for countable families, area or volume for the others. */
 export type Quantity =

@@ -4,7 +4,7 @@
 import { useMemo, type ReactNode } from 'react'
 import { Link, useParams } from 'react-router'
 import type { LucideIcon } from 'lucide-react'
-import { Award, BookOpen, Boxes, Building2, CalendarRange, Camera, ChevronDown, ClipboardCheck, Compass, Database, FileSpreadsheet, FileText, Gauge, GripHorizontal, Handshake, History, Inbox, Info, KeyRound, Landmark, Layers, Leaf, ListOrdered, Network, PackageCheck, Recycle, Rocket, Scale, Share2, ShieldCheck, Tag, Target, Timer, Users } from 'lucide-react'
+import { Award, BookOpen, Boxes, Building2, CalendarRange, Camera, ChevronDown, ClipboardCheck, Compass, Database, FileSpreadsheet, FileText, Gauge, GripHorizontal, HardHat, Handshake, History, Inbox, Info, KeyRound, Landmark, Layers, Leaf, ListOrdered, Network, PackageCheck, Recycle, Rocket, Scale, Share2, ShieldCheck, Tag, Target, Timer, Users } from 'lucide-react'
 import { LABELS } from '../../domain/reference/labels'
 import { useSession, type PlatformRole } from '../../store'
 import { MARKETPLACE_PATH } from '../../store/paths'
@@ -96,6 +96,15 @@ const GUIDES: Record<PlatformRole, { title: string; intro: string; steps: Step[]
       { icon: ClipboardCheck, title: 'Submit the survey', text: 'When the walk-round is done, submit the survey. The owner is told at once. You can reopen it to add more.' },
     ],
   },
+  contractor: {
+    title: 'Deconstruction contractors',
+    intro: 'Take buildings apart so what comes out can be used again, and record where everything goes.',
+    steps: [
+      { icon: HardHat, title: 'Your buildings', text: 'An owner or their surveyor appoints your firm to a building, or invites you by email. Each building shows its programme and what its survey holds.', href: '/app/home', cta: 'Home' },
+      { icon: Timer, title: 'Say when each item comes out', text: 'On Availability, set the month you expect each item to be free. The owner applies the dates they agree with and decides what buyers see.' },
+      { icon: Recycle, title: 'Record where it goes', text: 'Record the method for each item and where every stream goes, with the carrier and the transfer note, so the owner can show what was reused against what was forecast.' },
+    ],
+  },
   consultant: {
     title: 'Sustainability consultants',
     intro: 'Set goals and targets, track certification credits and requirements, and send the circular economy statement for review.',
@@ -109,7 +118,7 @@ const GUIDES: Record<PlatformRole, { title: string; intro: string; steps: Step[]
   },
 }
 
-const ORDER: PlatformRole[] = ['architect', 'client', 'owner', 'surveyor', 'consultant']
+const ORDER: PlatformRole[] = ['architect', 'client', 'owner', 'surveyor', 'contractor', 'consultant']
 
 function GettingStarted() {
   const { role } = useSession()

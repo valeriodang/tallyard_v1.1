@@ -15,7 +15,9 @@ export type Profile = { points: Pt[]; caps: number[][]; depthMm: number; notes: 
 
 export const NO_SECTION_SIZE = 'No recorded section size'
 export const UNKNOWN_SECTION = 'Section not in the section table'
-export const PLACEHOLDER_DEPTH = { curtain_wall: 150, raised_floor: 32 } as const
+export const PLACEHOLDER_DEPTH = { curtain_wall: 150, raised_floor: 32, natural_slate: 6, carpet_tile: 7, metal_ceiling_tile: 20 } as const
+/** A standard hollowcore plank width; the voids are not drawn. */
+const HOLLOWCORE_WIDTH_MM = 1200
 const BRICK = { length: 215, height: 65, bed: 102.5 } as const
 const SAMPLE_MM = 1000
 
@@ -82,6 +84,24 @@ export function profileOf(l: PublicListing): Profile | { unavailable: string } {
     }
     case 'timber_joist':
       return { unavailable: NO_SECTION_SIZE }
+    case 'natural_slate': {
+      const [w, h] = panelSizeMm(s.sizeMm)
+      return { ...rect(w, h), depthMm: PLACEHOLDER_DEPTH.natural_slate, notes: [`Slate ${w} mm by ${h} mm`, `Thickness ${PLACEHOLDER_DEPTH.natural_slate} mm in the 3D file is a placeholder, not a recorded dimension`] }
+    }
+    case 'stone_paving':
+      return { ...rect(SAMPLE_MM, s.thicknessMm), depthMm: SAMPLE_MM, notes: [`A ${SAMPLE_MM} mm square sample at the recorded thickness. No slab size is recorded`] }
+    case 'carpet_tile':
+    case 'metal_ceiling_tile': {
+      const [w, h] = panelSizeMm(s.sizeMm)
+      const d = PLACEHOLDER_DEPTH[s.family]
+      return { ...rect(w, h), depthMm: d, notes: [`Tile ${w} mm by ${h} mm`, `Thickness ${d} mm in the 3D file is a placeholder, not a recorded dimension`] }
+    }
+    case 'glulam_beam': {
+      const [h, b] = panelSizeMm(s.sectionMm)
+      return { ...rect(b, h), depthMm: SAMPLE_MM, notes: [`Section ${h} mm deep by ${b} mm wide, as a ${SAMPLE_MM} mm sample. No length is recorded`] }
+    }
+    case 'hollowcore_plank':
+      return { ...rect(HOLLOWCORE_WIDTH_MM, s.depthMm), depthMm: SAMPLE_MM, notes: [`A ${HOLLOWCORE_WIDTH_MM} mm wide plank at the recorded depth, as a ${SAMPLE_MM} mm sample. The voids are not drawn`] }
   }
 }
 
@@ -196,6 +216,13 @@ const TURN: Record<FamilyId, (v: Vec3) => Vec3> = {
   curtain_wall: (v) => v,
   clay_brick: (v) => v,
   timber_joist: (v) => v,
+  // Slates, tiles and paving lie flat; a glulam beam lies along X like a steel beam; a plank lies flat.
+  natural_slate: ([x, y, z]) => [x, z, -y],
+  carpet_tile: ([x, y, z]) => [x, z, -y],
+  metal_ceiling_tile: ([x, y, z]) => [x, z, -y],
+  stone_paving: (v) => v,
+  glulam_beam: ([x, y, z]) => [z, y, -x],
+  hollowcore_plank: (v) => v,
 }
 
 /** A UC column stands upright, as the IFC file places it (IfcColumn along Z): its length runs up Y. */

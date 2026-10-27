@@ -1,6 +1,6 @@
 // View models for donor buildings and surveyors (owner-surveyor design 14.4.7 and 14.4.8).
 import { describe, it, expect } from 'vitest'
-import { actor, addTestUser, fresh, must, NOW, U, viewer } from '../../test/fixtures'
+import { actor, addContractorOnlySurveyingFirm, addTestUser, fresh, must, NOW, U, viewer } from '../../test/fixtures'
 import * as sel from './index'
 import { pageLocation } from './arch-breadcrumbs'
 import { appointProjectArchitect, createOwnerProject } from '../actions/owner'
@@ -43,8 +43,12 @@ describe('standalone capture', () => {
   })
 
   it('is for owners and surveyors who capture, never a contractor alone or the buying side', () => {
+    // Round 3: Lee works for Fennick, now a deconstruction contractor, which has no capture at all; a surveying firm that
+    // only dates a building still gets an empty list.
     const { s, lee } = withLee()
-    expect(sel.captureTargets(s, viewer(lee))).toMatchObject({ targets: [], selectedId: null, empty: true })
+    expect(sel.captureTargets(s, viewer(lee))).toBeNull()
+    const shaw = addContractorOnlySurveyingFirm(fresh())
+    expect(sel.captureTargets(shaw.state, viewer(shaw.userId))).toMatchObject({ targets: [], selectedId: null, empty: true })
     expect(sel.captureTargets(s, viewer(U.priya))).toBeNull()
     expect(sel.surveyorHome(s, viewer(U.dana))!.quickCapture).toEqual({ href: '/app/capture', buildingName: 'Ambrey House' })
   })
@@ -325,8 +329,10 @@ describe('the sidebar', () => {
 
   it('gives a contractor its Availability tab', () => {
     let { s, lee } = withLee()
+    // Round 3: a deconstruction contractor's sidebar lists its appointed buildings directly, with the contractor tabs.
     const nav = sel.navModel(s, viewer(lee))!
-    const tiverne = nav.sections[1].items[0].children[0]
+    const tiverne = nav.sections[1].items[0]
+    expect(nav.sections[1].title).toBe('Appointed buildings')
     expect(tiverne.children.map((c) => c.label)).toEqual(['Overview', 'Availability'])
     // A surveying firm that is also the contractor gets both.
     s = must(appointContractor(s, actor(U.tom), TIVERNE_ID, ORG_IDS.tarnbrook)).state

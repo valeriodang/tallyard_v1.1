@@ -10,6 +10,8 @@ export type AccessTarget = { buildingId: string } | { projectId: string } | { en
 /** Organisation type in the seed, mapped to the role it plays in version 1.0. */
 const ROLE_BY_ORG_TYPE: Record<string, Role> = {
   'Deconstruction contractor': 'surveyor',
+  // Round 3: a deconstruction contractor reaches the buildings it is appointed to, as a surveying firm does.
+  'Dismantling contractor': 'surveyor',
   'Asset owner': 'seller',
   Architect: 'architect',
   Developer: 'client',

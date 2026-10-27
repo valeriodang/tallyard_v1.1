@@ -235,7 +235,7 @@ describe('a waiting contractor invite says whose dates go (review finding on not
   it('reports how many were cleared to the inviter when the invited firm joins', () => {
     const s = fresh()
     const r = must(inviteContractorByEmail(s, actor(U.dana), TIVERNE_ID, 'lee@shaw.example'))
-    const lee = must(signUpState(r.state, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying or deconstruction firm', salt: 's', passwordHash: 'h', now: NOW }))
+    const lee = must(signUpState(r.state, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying firm', salt: 's', passwordHash: 'h', now: NOW }))
     const toDana = lee.state.notifications.find((n) => n.orgId === ORG_IDS.tarnbrook && n.kind === 'availability_set')!
     expect(toDana.body).toContain("Fennick Dismantling's 5 dates were cleared.")
     const toTom = lee.state.notifications.find((n) => n.orgId === ORG_IDS.ostlea && n.kind === 'availability_set')!
@@ -263,7 +263,7 @@ describe('the smaller review findings', () => {
     const s = fresh()
     expect(surveyorDashboard(s, viewer(U.dana))!.contractorTiles).toBeNull()
     const r = must(inviteContractorByEmail(s, actor(U.tom), TIVERNE_ID, 'lee@shaw.example'))
-    const lee = must(signUpState(r.state, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying or deconstruction firm', salt: 's', passwordHash: 'h', now: NOW }))
+    const lee = must(signUpState(r.state, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying firm', salt: 's', passwordHash: 'h', now: NOW }))
     const items = Object.values(lee.state.world.items).filter((i) => i.buildingId === TIVERNE_ID).length
     expect(surveyorDashboard(lee.state, viewer(lee.value))!.contractorTiles).toEqual({
       buildings: 1,

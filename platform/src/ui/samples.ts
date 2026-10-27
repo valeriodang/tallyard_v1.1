@@ -27,6 +27,12 @@ const FAMILY_WORDS: Record<Spec['family'], string> = {
   clay_brick: 'Clay brick',
   raised_floor: 'Raised floor',
   timber_joist: 'Timber joist',
+  natural_slate: 'Natural slate',
+  stone_paving: 'Stone paving',
+  carpet_tile: 'Carpet tile',
+  metal_ceiling_tile: 'Metal ceiling tile',
+  glulam_beam: 'Glulam beam',
+  hollowcore_plank: 'Hollowcore plank',
 }
 
 function sample(publicId: string, spec: Spec, quantity: string, available: string, location: string, fit: Fit, band: Band['band']): SampleMaterial {

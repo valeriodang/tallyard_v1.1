@@ -360,7 +360,7 @@ describe('surveyor and consultant', () => {
     expect(c.header.clientName).toBe('Brackwater Estates')
     expect(c.defaultMonthText).toBe('July 2027')
     expect(c.canSubmit).toBe(true)
-    expect(c.families).toHaveLength(7)
+    expect(c.families).toHaveLength(13)
     expect(sel.expectedFromMonth(s, TIVERNE_ID, '2027-01')).toBe(s.world.buildings[TIVERNE_ID].programme.dismantlingStart)
     expect(sel.expectedFromMonth(s, TIVERNE_ID, '2027-06')).toBe('2027-06-01')
   })

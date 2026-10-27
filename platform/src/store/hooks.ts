@@ -11,6 +11,7 @@ export function useData(): AppData {
   return useApp(
     useShallow((s) => ({
       version: s.version,
+      seedRevision: s.seedRevision,
       seededOn: s.seededOn,
       seq: s.seq,
       world: s.world,

@@ -1,7 +1,7 @@
 // Shared values for the auth forms. The rules come from the sandbox and the store, so a form never accepts what
 // the account logic would refuse; this file adds only the words and icons for each organisation type.
 import type { LucideIcon } from 'lucide-react'
-import { Building2, Camera, ClipboardCheck, Compass, Leaf } from 'lucide-react'
+import { Building2, Camera, ClipboardCheck, Compass, HardHat, Leaf } from 'lucide-react'
 import { EMAIL_PATTERN, ORG_TYPES as ACCOUNT_ORG_TYPES } from '../../sandbox/accounts'
 import { MIN_PASSWORD } from '../../store/actions/auth'
 import type { PlatformRole } from '../../store/types'
@@ -16,6 +16,7 @@ const PRESENTATION: Record<OrgType, { description: string; icon: LucideIcon }> =
   client: { description: 'Approve and reserve for your projects', icon: ClipboardCheck },
   owner: { description: 'List what your buildings hold, and source for new ones', icon: Building2 },
   surveyor: { description: 'Survey buildings and plan when materials come out', icon: Camera },
+  contractor: { description: 'Take buildings apart for reuse and record where everything goes', icon: HardHat },
   consultant: { description: 'Report avoided carbon and reuse', icon: Leaf },
 }
 

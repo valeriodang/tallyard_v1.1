@@ -60,6 +60,33 @@ export function specFieldRows(s: Spec): { label: string; value: string }[] {
       return [{ label: 'Panel size', value: `${s.panelSize} mm` }]
     case 'timber_joist':
       return [{ label: 'Species', value: sentence(s.species) }]
+    case 'natural_slate':
+      return [
+        { label: 'Origin', value: sentence(s.origin) },
+        { label: 'Size', value: `${s.sizeMm} mm` },
+      ]
+    case 'stone_paving':
+      return [
+        { label: 'Stone', value: sentence(s.stone) },
+        { label: 'Thickness', value: `${s.thicknessMm} mm` },
+      ]
+    case 'carpet_tile':
+      return [
+        { label: 'Tile size', value: `${s.sizeMm} mm` },
+        { label: 'Backing', value: sentence(s.backing) },
+      ]
+    case 'metal_ceiling_tile':
+      return [
+        { label: 'Tile size', value: `${s.sizeMm} mm` },
+        { label: 'Finish', value: sentence(s.finish) },
+      ]
+    case 'glulam_beam':
+      return [
+        { label: 'Strength class', value: s.strengthClass },
+        { label: 'Section', value: `${s.sectionMm} mm` },
+      ]
+    case 'hollowcore_plank':
+      return [{ label: 'Depth', value: `${s.depthMm} mm` }]
   }
 }
 

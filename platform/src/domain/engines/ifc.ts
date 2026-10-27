@@ -71,6 +71,12 @@ const MATERIAL_CATEGORY: Record<FamilyId, string> = {
   clay_brick: 'brick',
   raised_floor: 'composite',
   timber_joist: 'wood',
+  natural_slate: 'stone',
+  stone_paving: 'stone',
+  carpet_tile: 'textile',
+  metal_ceiling_tile: 'steel',
+  glulam_beam: 'wood',
+  hollowcore_plank: 'concrete',
 }
 
 const SOURCE_TEXT = { deconstruction: 'Reclaimed from deconstruction', unused_surplus: 'Unused surplus', fit_out_strip: 'Reclaimed from a fit-out strip' } as const
@@ -108,6 +114,18 @@ function placementFor(l: PublicListing, p: Profile): Placement | { unavailable: 
       return { element: 'IFCCOVERING', type: '.FLOORING.', axis: [0, 0, 1], ref: [1, 0, 0], profile: rectangle('Panel', w, h), profileY: 0 }
     case 'timber_joist':
       return { unavailable: NO_SECTION_SIZE }
+    case 'natural_slate':
+      return { element: 'IFCCOVERING', type: '.ROOFING.', axis: [0, 0, 1], ref: [1, 0, 0], profile: rectangle('Slate', w, h), profileY: 0 }
+    case 'stone_paving':
+      return { element: 'IFCCOVERING', type: '.FLOORING.', axis: [0, -1, 0], ref: [1, 0, 0], profile: rectangle('Sample section', w, h), profileY: h / 2 }
+    case 'carpet_tile':
+      return { element: 'IFCCOVERING', type: '.FLOORING.', axis: [0, 0, 1], ref: [1, 0, 0], profile: rectangle('Tile', w, h), profileY: 0 }
+    case 'metal_ceiling_tile':
+      return { element: 'IFCCOVERING', type: '.CEILING.', axis: [0, 0, 1], ref: [1, 0, 0], profile: rectangle('Tile', w, h), profileY: 0 }
+    case 'glulam_beam':
+      return { element: 'IFCBEAM', type: '.BEAM.', axis: [1, 0, 0], ref: [0, 1, 0], profile: rectangle('Glulam section', w, h), profileY: 0 }
+    case 'hollowcore_plank':
+      return { element: 'IFCSLAB', type: '.FLOOR.', axis: [0, -1, 0], ref: [1, 0, 0], profile: rectangle('Plank section', w, h), profileY: h / 2 }
   }
 }
 

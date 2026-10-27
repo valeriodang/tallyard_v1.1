@@ -18,6 +18,10 @@ export type CaptureField =
   | 'mortar'
   | 'panelSize'
   | 'species'
+  | 'origin'
+  | 'sizeMm'
+  | 'finish'
+  | 'sectionMm'
   | 'pieces'
   | 'areaM2'
   | 'volumeM3'
@@ -38,6 +42,10 @@ export type CaptureForm = {
   mortar: string
   panelSize: string
   species: string
+  origin: string
+  sizeMm: string
+  finish: string
+  sectionMm: string
   pieces: string
   areaM2: string
   volumeM3: string
@@ -64,6 +72,10 @@ export function emptyCaptureForm(expectedMonth: string): CaptureForm {
     mortar: 'cement mortar',
     panelSize: '600 by 600',
     species: 'softwood',
+    origin: '',
+    sizeMm: '',
+    finish: '',
+    sectionMm: '',
     pieces: '',
     areaM2: '',
     volumeM3: '',
@@ -95,6 +107,18 @@ export function measureFields(family: FamilyId): MeasureField[] {
       return [{ key: 'panelSize', label: 'Panel size', unit: 'mm', kind: 'text' }, count('Panels')]
     case 'timber_joist':
       return [{ key: 'species', label: 'Species', unit: null, kind: 'species' }, { key: 'volumeM3', label: 'Volume', unit: 'm3', kind: 'decimal' }]
+    case 'natural_slate':
+      return [{ key: 'origin', label: 'Origin', unit: null, kind: 'text' }, { key: 'sizeMm', label: 'Size', unit: 'mm', kind: 'text' }, count('Slates')]
+    case 'stone_paving':
+      return [{ key: 'stone', label: 'Stone', unit: null, kind: 'text' }, { key: 'thicknessMm', label: 'Thickness', unit: 'mm', kind: 'decimal' }, { key: 'areaM2', label: 'Area', unit: 'm2', kind: 'decimal' }]
+    case 'carpet_tile':
+      return [{ key: 'sizeMm', label: 'Tile size', unit: 'mm', kind: 'text' }, { key: 'finish', label: 'Backing', unit: null, kind: 'text' }, count('Tiles')]
+    case 'metal_ceiling_tile':
+      return [{ key: 'sizeMm', label: 'Tile size', unit: 'mm', kind: 'text' }, { key: 'finish', label: 'Finish', unit: null, kind: 'text' }, count('Tiles')]
+    case 'glulam_beam':
+      return [{ key: 'finish', label: 'Strength class', unit: null, kind: 'text' }, { key: 'sectionMm', label: 'Section', unit: 'mm', kind: 'text' }, { key: 'volumeM3', label: 'Volume', unit: 'm3', kind: 'decimal' }]
+    case 'hollowcore_plank':
+      return [{ key: 'thicknessMm', label: 'Depth', unit: 'mm', kind: 'decimal' }, { key: 'areaM2', label: 'Area', unit: 'm2', kind: 'decimal' }]
   }
 }
 
@@ -116,6 +140,10 @@ export const CAPTURE_FIELD_LABELS: Record<string, string> = {
   mortar: 'Mortar',
   panelSize: 'Panel size',
   species: 'Species',
+  origin: 'Origin',
+  sizeMm: 'Size',
+  finish: 'Finish or class',
+  sectionMm: 'Section',
 }
 
 function str(n: number | null): string {
@@ -142,6 +170,11 @@ function assistValues(r: AssistResult): Partial<CaptureForm> {
     out.panelHeightM = str(r.panelHeightM)
   }
   if (r.family === 'clay_brick') out.mortar = r.recoverability === 'A' ? 'lime mortar' : 'cement mortar'
+  // Defaults the surveyor confirms for the families the assist only recognises (round 3).
+  if (r.family === 'natural_slate') Object.assign(out, { origin: 'Welsh', sizeMm: '500 by 250' })
+  if (r.family === 'carpet_tile') Object.assign(out, { sizeMm: '500 by 500', finish: 'bitumen backing' })
+  if (r.family === 'metal_ceiling_tile') Object.assign(out, { sizeMm: '600 by 600', finish: 'white, perforated' })
+  if (r.family === 'glulam_beam') Object.assign(out, { finish: 'GL24h' })
   return out
 }
 
@@ -286,6 +319,46 @@ export function checkCaptureForm(form: CaptureForm): CaptureCheck {
         const v = num('volumeM3', false)
         if (species) spec = { family, species }
         if (v !== null) quantity = { kind: 'volume', volumeM3: v }
+        break
+      }
+      case 'natural_slate': {
+        const origin = text('origin')
+        const size = text('sizeMm')
+        const pieces = num('pieces', true)
+        if (origin && size) spec = { family, origin, sizeMm: size }
+        if (pieces !== null) quantity = { kind: 'pieces', pieces }
+        break
+      }
+      case 'stone_paving': {
+        const stone = text('stone')
+        const t = num('thicknessMm', false)
+        const area = num('areaM2', false)
+        if (stone && t !== null) spec = { family, stone, thicknessMm: t }
+        if (area !== null) quantity = { kind: 'area', areaM2: area }
+        break
+      }
+      case 'carpet_tile':
+      case 'metal_ceiling_tile': {
+        const size = text('sizeMm')
+        const finish = text('finish')
+        const pieces = num('pieces', true)
+        if (size && finish) spec = family === 'carpet_tile' ? { family, sizeMm: size, backing: finish } : { family, sizeMm: size, finish }
+        if (pieces !== null) quantity = { kind: 'pieces', pieces }
+        break
+      }
+      case 'glulam_beam': {
+        const cls = text('finish')
+        const section = text('sectionMm')
+        const v = num('volumeM3', false)
+        if (cls && section) spec = { family, strengthClass: cls, sectionMm: section }
+        if (v !== null) quantity = { kind: 'volume', volumeM3: v }
+        break
+      }
+      case 'hollowcore_plank': {
+        const d = num('thicknessMm', false)
+        const area = num('areaM2', false)
+        if (d !== null) spec = { family, depthMm: d }
+        if (area !== null) quantity = { kind: 'area', areaM2: area }
         break
       }
     }

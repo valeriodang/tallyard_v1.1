@@ -13,7 +13,7 @@ import { routes } from '../../app/router'
 setupScreenHarness()
 
 describe('sign-up labels', () => {
-  it('offers Donor building owner and Surveying or deconstruction firm', async () => {
+  it('offers Donor building owner and Surveying firm', async () => {
     const router = createMemoryRouter(routes, { initialEntries: ['/signup'] })
     render(<RouterProvider router={router} />, { router: false })
     typeInto(await waitFor(() => q('signup-name')), 'Lee Shaw')
@@ -24,13 +24,13 @@ describe('sign-up labels', () => {
     const text = allText()
     expect(text).toContain('Donor building owner')
     expect(text).toContain('List what your buildings hold, and source for new ones')
-    expect(text).toContain('Surveying or deconstruction firm')
+    expect(text).toContain('Surveying firm')
     expect(text).toContain('Survey buildings and plan when materials come out')
     expect(text).not.toContain('Asset owner')
   })
 
   it('gives a new surveying firm no appointments yet and an Add building action', async () => {
-    const r = signUpState(getData(), { name: 'Lee Shaw', email: 'lee.shaw@shawsurveys.example', orgName: 'Shaw Surveys', orgType: 'Surveying or deconstruction firm', salt: 's', passwordHash: 'h', now: NOW })
+    const r = signUpState(getData(), { name: 'Lee Shaw', email: 'lee.shaw@shawsurveys.example', orgName: 'Shaw Surveys', orgType: 'Surveying firm', salt: 's', passwordHash: 'h', now: NOW })
     expect(r.error).toBeNull()
     useApp.getState().commit(r.state)
     openAs('/app/buildings', r.value!)

@@ -6,7 +6,7 @@ import type { World } from '../domain/types'
 import { DEFAULT_NAV_PROJECT_VIEW, DEFAULT_UI, type ActionResult, type Actor, type AppData, type NavProjectView, type UiState } from './types'
 import { firstRun, withSeededBuildingTracks } from '../sandbox/seed'
 import { nowIso, today } from '../sandbox/clock'
-import { safeStorage, STATE_KEY, STATE_VERSION } from './storage'
+import { safeStorage, SEED_REVISION, STATE_KEY, STATE_VERSION } from './storage'
 import { clearUpgradeState, isCurrentStoredState, upgradeStoredState } from './upgrade'
 import { clearPhotos } from './photos'
 import { getSessionUserId, setSessionUserId } from './sessionId'
@@ -33,7 +33,7 @@ export type AppStore = AppData & {
   resetSandbox: () => Promise<void>
 }
 
-const DATA_KEYS = ['version', 'seededOn', 'seq', 'world', 'users', 'invites', 'notifications', 'activity', 'reservations', 'surveys', 'specs', 'sustainability', 'orgProfiles', 'buildingClaims', 'testingRequests', 'buildingTracks', 'ui'] as const satisfies readonly (keyof AppData)[]
+const DATA_KEYS = ['version', 'seedRevision', 'seededOn', 'seq', 'world', 'users', 'invites', 'notifications', 'activity', 'reservations', 'surveys', 'specs', 'sustainability', 'orgProfiles', 'buildingClaims', 'testingRequests', 'buildingTracks', 'ui'] as const satisfies readonly (keyof AppData)[]
 
 /** The data part of the store, without the functions. */
 export function dataOf(s: AppData): AppData {
@@ -43,7 +43,7 @@ export function dataOf(s: AppData): AppData {
 function looksValid(x: unknown): x is AppData {
   if (!x || typeof x !== 'object') return false
   const d = x as Partial<AppData>
-  return d.version === STATE_VERSION && !!d.world && !!d.users && Array.isArray(d.notifications) && Array.isArray(d.activity) && !!d.reservations && !!d.sustainability && !!d.buildingClaims && !!d.testingRequests && !!d.ui
+  return d.version === STATE_VERSION && d.seedRevision === SEED_REVISION && !!d.world && !!d.users && Array.isArray(d.notifications) && Array.isArray(d.activity) && !!d.reservations && !!d.sustainability && !!d.buildingClaims && !!d.testingRequests && !!d.ui
 }
 
 function fresh(): AppData {

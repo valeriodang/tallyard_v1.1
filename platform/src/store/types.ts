@@ -6,7 +6,7 @@ import type { TestService } from '../domain/reference/testing'
 import type { ProjectSustainability, RequirementTrack } from '../domain/sustainabilityTypes'
 
 /** The workspace an organisation's type gives its people (BRIEF section 1, principle 2). */
-export type PlatformRole = 'architect' | 'client' | 'owner' | 'surveyor' | 'consultant'
+export type PlatformRole = 'architect' | 'client' | 'owner' | 'surveyor' | 'contractor' | 'consultant'
 
 export const AVATAR_COLOURS = ['forest', 'blue', 'amber', 'rose', 'violet', 'slate', 'teal'] as const
 export type AvatarColour = (typeof AVATAR_COLOURS)[number]
@@ -227,6 +227,8 @@ export type UiState = {
 
 export type AppData = {
   version: 2
+  /** The seed revision this sandbox was made from (`SEED_REVISION`, round 3). */
+  seedRevision: number
   /** The date the sandbox was seeded. */
   seededOn: string
   /** Counter for deterministic IDs. */

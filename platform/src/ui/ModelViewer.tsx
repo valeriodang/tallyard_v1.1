@@ -18,6 +18,12 @@ const FAMILY_TONE: Record<FamilyId, string> = {
   clay_brick: '#a6553b',
   raised_floor: '#8d9399',
   timber_joist: '#a57f55',
+  natural_slate: '#5b6170',
+  stone_paving: '#c8bfae',
+  carpet_tile: '#7d7a86',
+  metal_ceiling_tile: '#d7d9dc',
+  glulam_beam: '#c49a64',
+  hollowcore_plank: '#a9a69e',
 }
 
 const FRAMES = {

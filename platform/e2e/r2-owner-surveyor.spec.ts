@@ -182,7 +182,7 @@ test('a deconstruction contractor sets a date and the owner applies it', async (
   await page.locator('input[type=password]').fill('sandbox-pass')
   await page.getByTestId('signup-continue').click()
   await page.getByTestId('signup-org').fill('Shaw Surveys')
-  await page.getByRole('radio', { name: /Surveying or deconstruction firm/ }).click()
+  await page.getByRole('radio', { name: /Surveying firm/ }).click()
   await page.getByTestId('signup-submit').click()
   await page.waitForURL('**/app/home**')
   await signOut(page)

@@ -67,6 +67,12 @@ const FAMILY_PLURALS: Record<FamilyId, string> = {
   clay_brick: 'clay bricks',
   raised_floor: 'raised access floor panels',
   timber_joist: 'timber joists',
+  natural_slate: 'roofing slates',
+  stone_paving: 'stone paving',
+  carpet_tile: 'carpet tiles',
+  metal_ceiling_tile: 'metal ceiling tiles',
+  glulam_beam: 'glulam beams',
+  hollowcore_plank: 'hollowcore planks',
 }
 
 function listJoin(items: string[]): string {

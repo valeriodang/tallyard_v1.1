@@ -15,7 +15,7 @@ export const TEST_SERVICES: Record<TestService, { label: string; description: st
   masonry: { label: 'Brick and mortar tests', description: 'Strength, absorption and mortar type.', families: ['clay_brick'], grades: false },
   fixings_pullout: { label: 'Fixing pull-out tests', description: 'Capacity of the cladding fixings.', families: ['stone_cladding', 'precast_cladding', 'curtain_wall'], grades: false },
   glazing_seal: { label: 'Glazing seal check', description: 'Seals and units of each panel.', families: ['curtain_wall'], grades: false },
-  timber_grading: { label: 'Timber strength grading', description: 'Visual strength grading of each member.', families: ['timber_joist'], grades: false },
+  timber_grading: { label: 'Timber strength grading', description: 'Visual strength grading of each member.', families: ['timber_joist', 'glulam_beam'], grades: false },
   floor_load: { label: 'Floor panel load test', description: 'Load test on sample panels.', families: ['raised_floor'], grades: false },
 }
 

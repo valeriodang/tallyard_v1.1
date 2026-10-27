@@ -16,6 +16,12 @@ describe('sketch', () => {
       clay_brick: 'brick',
       raised_floor: null,
       timber_joist: 'timber',
+      natural_slate: null,
+      stone_paving: null,
+      carpet_tile: null,
+      metal_ceiling_tile: null,
+      glulam_beam: 'timber',
+      hollowcore_plank: 'precast',
     })
   })
 

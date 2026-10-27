@@ -44,9 +44,9 @@ describe('dashboard helpers', () => {
     expect(targetProgress(0, 150)).toEqual({ status: 'below', share: 0 })
   })
 
-  it('maps all seven families to their typology', () => {
-    expect(FAMILY_IDS).toHaveLength(7)
-    expect(typologyCounts(FAMILY_IDS)).toEqual({ structure: 2, envelope: 4, finishes: 1 })
+  it('maps all thirteen families to their typology', () => {
+    expect(FAMILY_IDS).toHaveLength(13)
+    expect(typologyCounts(FAMILY_IDS)).toEqual({ structure: 4, envelope: 5, finishes: 4 })
     expect(typologyCounts([])).toEqual({ structure: 0, envelope: 0, finishes: 0 })
   })
 

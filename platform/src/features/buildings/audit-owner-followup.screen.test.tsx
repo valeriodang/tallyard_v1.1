@@ -90,7 +90,7 @@ describe('the contractor invite (review finding on note 28)', () => {
 describe('a firm that only dates buildings (review finding)', () => {
   it('sees dating tiles on its home, not capture and survey counts', async () => {
     const r = inviteContractorByEmail(getData(), actor(U.tom), TIVERNE_ID, 'lee@shaw.example')
-    const lee = signUpState(r.state, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying or deconstruction firm', salt: 's', passwordHash: 'h', now: NOW })
+    const lee = signUpState(r.state, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying firm', salt: 's', passwordHash: 'h', now: NOW })
     useApp.getState().commit(lee.state)
     await settle()
     openAs('/app/home', lee.value!)

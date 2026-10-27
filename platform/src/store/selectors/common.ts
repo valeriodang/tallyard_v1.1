@@ -89,7 +89,7 @@ export const RESERVATION_STATUS_LABELS: Record<ReservationStatus, string> = { pe
 
 export const FIT_LABELS = { now: 'Available now', in_time: 'In time', tight: 'Tight', late: 'Too late' } as const
 
-export const ROLE_TITLES = { architect: 'Architect', client: 'Client', consultant: 'Sustainability consultant', owner: 'Donor building owner', surveyor: 'Site surveyor' } as const
+export const ROLE_TITLES = { architect: 'Architect', client: 'Client', consultant: 'Sustainability consultant', owner: 'Donor building owner', surveyor: 'Site surveyor', contractor: 'Deconstruction contractor' } as const
 
 export function stageLabel(stage: number): string {
   return `RIBA Stage ${stage}, ${RIBA_STAGES[stage] ?? ''}`.replace(/, $/, '')

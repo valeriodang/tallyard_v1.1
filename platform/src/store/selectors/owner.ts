@@ -26,7 +26,7 @@ import { titleFor } from '../../domain/reference/families'
 import type { Disclosure } from '../../domain/engines/disclosure'
 import * as f from '../../domain/format'
 import type { AppData, ReservationStatus, SurveyStatus, Viewer } from '../types'
-import { buildingSide, buildingsOfUser, isBuildingContractor, projectSide, projectsOfUser, roleOfOrg, roleOfUser, type BuildingSide } from '../access'
+import { buildingSide, buildingsOfUser, canBeContractor, isBuildingContractor, projectSide, projectsOfUser, roleOfOrg, roleOfUser, type BuildingSide } from '../access'
 import { acceptedReservation, lotOfItem, projectWishlist } from '../lots'
 import { checkPrices, disclosureWith, type LotVisibilityChoice, type PriceCheck } from '../actions/owner'
 import { PROJECT_TYPES } from '../actions/projects'
@@ -443,6 +443,13 @@ export function surveyorOptions(state: AppData): { orgId: string; name: string }
     .map((o) => ({ orgId: o.id, name: o.name }))
 }
 
+/** Firms that can be appointed contractor: surveying firms and deconstruction contractors, in seed order (round 3). */
+export function contractorOptions(state: AppData): { orgId: string; name: string }[] {
+  return Object.values(state.world.orgs)
+    .filter((o) => canBeContractor(roleOfOrg(state, o.id)))
+    .map((o) => ({ orgId: o.id, name: o.name }))
+}
+
 // ---------- Building overview and inventory ----------
 
 export type BuildingOverview = {
@@ -526,7 +533,7 @@ export function buildingOverview(state: AppData, viewer: Viewer, buildingId: str
       options: structureOptions(),
     },
     contractor: b.contractorOrgId ? { orgId: b.contractorOrgId, name: state.world.orgs[b.contractorOrgId]?.name ?? '', datedCount, itemCount: items.length } : null,
-    contractorOptions: records ? surveyorOptions(state) : [],
+    contractorOptions: records ? contractorOptions(state) : [],
     contractorInvite:
       records && b.contractorInvite
         ? {

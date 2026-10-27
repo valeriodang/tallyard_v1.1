@@ -95,3 +95,63 @@ The files:
 **End-to-end**
 
 - `e2e/r2f-look.spec.ts`: the product shot '100.8' becomes '101.0'.
+
+## Six new families (BRIEF 15.2)
+
+These five changes follow from adding natural slate, stone paving, carpet tiles, metal ceiling tiles, glulam beams and precast hollowcore planks:
+
+- `src/domain/sketch.test.ts`, "maps every family to a facade or to nothing": the map gains six entries.
+  - Glulam draws as a timber facade and hollowcore as a precast one.
+  - The other four are never seen from outside on the drawing, so they map to nothing.
+- `src/features/public/public.test.tsx`, "states true facts about the product": '7 material families' becomes '13 material families', and the length of `FAMILY_IDS` goes from 7 to 13.
+- `src/store/selectors/dashboard.test.ts`:
+  - The title "maps all seven families to their typology" becomes "maps all thirteen families to their typology".
+  - The length goes from 7 to 13.
+  - The typology counts go from structure 2, envelope 4, finishes 1 to structure 4, envelope 5, finishes 4. Glulam and hollowcore are structure, slate is envelope, and paving, carpet tiles and ceiling tiles are finishes.
+- `src/store/selectors/views.test.ts`, "appointments by client and the capture screen": the capture screen's family list goes from 7 to 13.
+
+## The deconstruction contractor role (BRIEF 15.2)
+
+**What changed in the product.**
+- A sixth role, `contractor`, with stored organisation type `Dismantling contractor`, labelled "Deconstruction contractor".
+- Fennick Dismantling is that type, with the sample account Kofi Rennard.
+- The stored type `Deconstruction contractor` stays for surveying firms, now labelled "Surveying firm". Such firms can still be appointed contractor.
+
+**Sign-up label.** Surveying firms signed up with the label "Surveying or deconstruction firm", which is now "Surveying firm". The label changed in:
+- `signup-labels.test.tsx`
+- `audit-owner-followup.screen.test.tsx`
+- `r2f-look-fix.screen.test.tsx`
+- `audit-owner.test.ts`
+- `audit-owner-followup.test.ts`
+- `contractor.test.ts`
+- `team.test.ts`
+- `r2f-look-fix.test.ts`
+- `e2e/r2-owner-surveyor.spec.ts` (the radio name)
+
+Each test still signs up a surveying firm. In `signup-labels.test.tsx` the title and the asserted text change with the label.
+
+**Sample account counts.**
+- `src/store/app.test.ts`: the sample users after a reset, a reseed and a sign-out go from 5 to 6, three times.
+- `src/store/app.upgrade.test.ts`: the sample users after replacing a version 1 sandbox go from 5 to 6.
+- `src/sandbox/seed.test.ts`: the sample roles in order go from architect, client, owner, surveyor, consultant to architect, client, owner, surveyor, contractor, consultant.
+- `src/features/public/public.test.tsx`: '5 workspaces' becomes '6 workspaces', and `LANDING_ROLES` goes from 5 to 6.
+
+**A firm that only dates.** These tests stood for a surveying firm that only dates by signing Lee Shaw in at Fennick. Fennick is now a contractor, so they use a test surveying firm instead: Shaw Surveys, appointed contractor of Tiverne House through `addContractorOnlySurveyingFirm`. The assertions stay as they were.
+- `src/store/r2f-polish.test.ts`, "leaves Add building out of its sidebar".
+  - It also adds a check that the contractor Kofi has neither Add building nor Capture.
+- `src/features/projects/r2f-polish.screen.test.tsx`, "a contractor-only firm (note 12)": the `lee()` helper.
+
+**Lee at Fennick.** These tests keep Lee Shaw at Fennick, now a deconstruction contractor:
+- `src/store/selectors/owner-surveyor.selectors.test.ts`, "is for owners and surveyors who capture".
+  - Lee's capture targets were an empty list and are now `null`: a contractor has no capture at all, which is stricter.
+  - The empty list is still asserted for the stand-in surveying firm.
+- `src/store/selectors/owner-surveyor.selectors.test.ts`, "gives a contractor its Availability tab".
+  - Lee's sidebar lists Tiverne House directly under "Appointed buildings", no longer under a client folder.
+  - The tab labels asserted, Overview and Availability, are unchanged.
+
+**Added, not changed.**
+- `src/test/privacy.platform.test.ts`, "a deconstruction contractor sees no buyer, no project and no price", now also scans `contractorDashboard`, the contractor's home, and asserts that it exists.
+- `src/store/selectors/whatChanged.ts`: the round 2 change "A dashboard on every home" also lists the contractor's role. The test of every sample person, `whatChanged.test.ts`, now covers Kofi without any change to its assertions.
+- `e2e/r2f-look.spec.ts`, "a new surveying firm, owner and consultancy open on their first steps":
+  - **What changed.** The consultancy's sign-up type index goes from 4 to 5.
+  - **Why.** The sign-up form lists the deconstruction contractor between the surveying firm and the consultancy, and the test picks the type by its position.

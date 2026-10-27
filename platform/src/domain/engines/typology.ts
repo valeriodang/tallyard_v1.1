@@ -10,6 +10,12 @@ const TYPOLOGY: Record<FamilyId, Typology> = {
   stone_cladding: 'envelope',
   clay_brick: 'envelope',
   raised_floor: 'finishes',
+  natural_slate: 'envelope',
+  stone_paving: 'finishes',
+  carpet_tile: 'finishes',
+  metal_ceiling_tile: 'finishes',
+  glulam_beam: 'structure',
+  hollowcore_plank: 'structure',
 }
 
 export function typologyOf(family: FamilyId): Typology {

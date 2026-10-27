@@ -33,6 +33,18 @@ export function MaterialArt({ spec, r, uid, view = 'card', plain = false, axo = 
       return <PanelAxo sizeMm={panelSize(spec.panelSize)} view={view} plain={plain} />
     case 'timber_joist':
       return <Timber r={r} uid={uid} view={view} />
+    case 'natural_slate':
+      return <Slate r={r} uid={uid} view={view} />
+    case 'stone_paving':
+      return <Paving r={r} uid={uid} view={view} />
+    case 'carpet_tile':
+      return <CarpetTiles r={r} uid={uid} view={view} />
+    case 'metal_ceiling_tile':
+      return <PanelAxo sizeMm={panelSize(spec.sizeMm)} view={view} plain={plain} />
+    case 'glulam_beam':
+      return <Glulam r={r} uid={uid} view={view} />
+    case 'hollowcore_plank':
+      return <Hollowcore r={r} uid={uid} view={view} />
     case 'steel_section':
       // A card shows the cut end at one shared scale, so a page of steel reads member by member; the material page keeps
       // the axonometric, on its stage and on the thumbnails that preview the stage (axo).
@@ -225,6 +237,128 @@ function Timber({ r, uid, view }: { r: Rng; uid: string; view: DrawingView }) {
       {out}
       <Finish uid={uid} />
       <ScaleBar px={40} label="100 mm" view={view} />
+    </>
+  )
+}
+
+// Slate: dark roofing slates laid in courses, each course lapping the one below, with the odd lighter slate. The
+// board is 2.4 m wide, so 250 mm is 50 px.
+function Slate({ r, uid, view }: { r: Rng; uid: string; view: DrawingView }) {
+  const tints = ['#4f5563', '#565c6b', '#4a4f5c', '#5d6372', '#535867']
+  const sw = 50
+  const course = 46
+  const out: ReactNode[] = []
+  let row = 0
+  for (let y = -between(r, 0, course); y < H; y += course, row++) {
+    const offset = row % 2 === 0 ? 0 : sw / 2
+    for (let x = -offset; x < W; x += sw) {
+      out.push(<rect key={`s${row}-${x.toFixed(0)}`} x={x + 1} y={y} width={sw - 2} height={course + 18} fill={r() < 0.08 ? '#6b7180' : pick(r, tints)} stroke="#2c303a" strokeWidth="0.8" />)
+    }
+  }
+  return (
+    <>
+      <rect width={W} height={H} fill="#2c303a" />
+      {out}
+      <Finish uid={uid} />
+      <ScaleBar px={50} label="250 mm" view={view} />
+    </>
+  )
+}
+
+// Paving: square-cut flags in a stretcher bond with sand joints. The board is 3 m wide, so 1 m is 160 px.
+function Paving({ r, uid, view }: { r: Rng; uid: string; view: DrawingView }) {
+  const tints = ['#cfc6b3', '#c7bea9', '#d6cebd', '#bfb6a1']
+  const fh = 96
+  const out: ReactNode[] = []
+  let row = 0
+  for (let y = -between(r, 0, fh * 0.5); y < H; y += fh, row++) {
+    let x = -between(r, 0, 120)
+    while (x < W) {
+      const fw = pick(r, [96, 144, 192])
+      out.push(<rect key={`p${row}-${x.toFixed(0)}`} x={x + 2} y={y + 2} width={fw - 4} height={fh - 4} fill={pick(r, tints)} />)
+      x += fw
+    }
+  }
+  return (
+    <>
+      <rect width={W} height={H} fill="#a99f88" />
+      {out}
+      <Finish uid={uid} />
+      <ScaleBar px={160} label="1 m" view={view} />
+    </>
+  )
+}
+
+// Carpet tiles: square tiles laid quarter-turned, so the pile direction alternates; fine loop texture. The board
+// is 2 m wide, so 500 mm is 120 px.
+function CarpetTiles({ r, uid, view }: { r: Rng; uid: string; view: DrawingView }) {
+  const base = pick(r, ['#6f6c78', '#5f6470', '#73706a'])
+  const t = 120
+  const out: ReactNode[] = []
+  for (let y = 0; y < H; y += t) {
+    for (let x = 0; x < W; x += t) {
+      const turned = (x / t + y / t) % 2 === 1
+      out.push(<rect key={`t${x}-${y}`} x={x + 1} y={y + 1} width={t - 2} height={t - 2} fill={base} opacity={turned ? 0.92 : 1} />)
+      for (let k = 6; k < t; k += 6) {
+        out.push(turned ? <line key={`l${x}-${y}-${k}`} x1={x + k} y1={y + 2} x2={x + k} y2={y + t - 2} stroke="#ffffff" strokeWidth="0.5" opacity="0.08" /> : <line key={`l${x}-${y}-${k}`} x1={x + 2} y1={y + k} x2={x + t - 2} y2={y + k} stroke="#ffffff" strokeWidth="0.5" opacity="0.08" />)
+      }
+    }
+  }
+  return (
+    <>
+      <rect width={W} height={H} fill="#3d3b42" />
+      {out}
+      <Finish uid={uid} />
+      <ScaleBar px={120} label="500 mm" view={view} />
+    </>
+  )
+}
+
+// Glulam: the end grain of a laminated beam, lamellae stacked with their glue lines. The board is 1.2 m wide, so
+// 100 mm is 40 px.
+function Glulam({ r, uid, view }: { r: Rng; uid: string; view: DrawingView }) {
+  const lam = 28
+  const tints = ['#c9a06b', '#c49a64', '#cfa874', '#bd935c']
+  const out: ReactNode[] = []
+  for (let y = 0, i = 0; y < H; y += lam, i++) {
+    out.push(<rect key={`m${i}`} x={0} y={y} width={W} height={lam - 1.5} fill={pick(r, tints)} />)
+    for (let g = 0; g < 3; g++) {
+      const yy = y + between(r, 4, lam - 6)
+      out.push(<path key={`g${i}-${g}`} d={`M -10 ${yy.toFixed(1)} C ${between(r, 100, 200).toFixed(0)} ${(yy + between(r, -3, 3)).toFixed(1)}, ${between(r, 260, 380).toFixed(0)} ${(yy + between(r, -3, 3)).toFixed(1)}, ${W + 10} ${yy.toFixed(1)}`} fill="none" stroke="#8a6338" strokeWidth="0.6" opacity="0.35" />)
+    }
+    out.push(<rect key={`j${i}`} x={0} y={y + lam - 1.5} width={W} height="1.5" fill="#6b4a2b" opacity="0.7" />)
+  }
+  return (
+    <>
+      <rect width={W} height={H} fill="#6b4a2b" />
+      {out}
+      <Finish uid={uid} />
+      <ScaleBar px={40} label="100 mm" view={view} />
+    </>
+  )
+}
+
+// Hollowcore: the cut end of a plank with its row of round voids, on a grey ground. The board is 2.4 m wide, so a
+// 1,200 mm plank is half of it.
+function Hollowcore({ r, uid, view }: { r: Rng; uid: string; view: DrawingView }) {
+  const ground = pick(r, ['#bdbbb4', '#c3c1ba'])
+  const top = H * 0.32
+  const depth = H * 0.36
+  const plank = W / 2
+  const out: ReactNode[] = []
+  for (let p = 0; p < 2; p++) {
+    const x0 = p * plank
+    out.push(<rect key={`p${p}`} x={x0 + 3} y={top} width={plank - 6} height={depth} fill="#a9a69e" stroke={INK} strokeWidth="1" />)
+    const voids = 6
+    const pitch = (plank - 6) / voids
+    for (let v = 0; v < voids; v++) out.push(<circle key={`v${p}-${v}`} cx={x0 + 3 + pitch * (v + 0.5)} cy={top + depth / 2} r={depth * 0.33} fill={PAPER} stroke={INK} strokeWidth="0.75" />)
+  }
+  return (
+    <>
+      <rect width={W} height={H} fill={ground} />
+      {out}
+      <Finish uid={uid} />
+      <ScaleBar px={W / 4} label="600 mm" view={view} />
     </>
   )
 }

@@ -18,7 +18,7 @@ export const ALLOWED_ORGANISATIONS = [
   'Tessaly Architects',
 ] as const
 
-export const ALLOWED_PEOPLE = ['Tom Ashby', 'Dana Kowalski', 'Priya Nair', 'Isla Brennan', 'Marcus Lindqvist'] as const
+export const ALLOWED_PEOPLE = ['Tom Ashby', 'Dana Kowalski', 'Priya Nair', 'Isla Brennan', 'Marcus Lindqvist', 'Kofi Rennard'] as const
 
 export const ALLOWED_PLACES = ['Tiverne House', '14 Garnet Row', 'Harrowden Court', '31 Brindle Road', 'Merrowgate Wharf', 'Sallow Court', 'Ferrymoor Yard', 'Durnley House', 'Ambrey House', '6 Quarrel Lane', 'Kilnworth Place'] as const
 

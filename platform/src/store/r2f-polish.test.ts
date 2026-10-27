@@ -1,9 +1,9 @@
 // The last polish before the platform goes back to the partner (feedback/r2f-polish.md): the rules behind each item,
 // tested as pure functions on a fresh sandbox.
 import { describe, expect, it } from 'vitest'
-import { actor, addTestUser, fresh, must, NOW, U, viewer } from '../test/fixtures'
+import { actor, addContractorOnlySurveyingFirm, fresh, must, NOW, U, viewer } from '../test/fixtures'
 import { FERRYMOOR_ID, MERROWGATE_ID, ORG_IDS, SALLOW_ID, TIVERNE_ID } from '../domain/seed/world'
-import { AMBREY_ID, FENNICK_ID } from '../sandbox/seed-owner-surveyor'
+import { AMBREY_ID } from '../sandbox/seed-owner-surveyor'
 import { KILNWORTH_ID } from '../sandbox/seed-portfolio'
 import { firstRun } from '../sandbox/seed'
 import { LABELS } from '../domain/reference/labels'
@@ -184,11 +184,16 @@ describe('the merge prompt counts what moves, and an empty merge says so (note 1
 
 describe('a contractor-only firm is not offered Add building where it cannot use it (note 12)', () => {
   it('leaves Add building out of its sidebar, as Capture is, and keeps it for every other firm', () => {
-    const { state, userId } = addTestUser(fresh(), { orgId: FENNICK_ID, name: 'Lee Shaw', email: 'lee.shaw@fennick.example' })
+    // Round 3: Fennick became a deconstruction contractor, so a surveying firm that only dates Tiverne House stands in.
+    const { state, userId } = addContractorOnlySurveyingFirm(fresh())
     expect(contractorOnly(state, viewer(userId))).toBe(true)
     const ids = navModel(state, viewer(userId))!.sections.flatMap((x) => x.items.map((i) => i.id))
     expect(ids).not.toContain('new-building')
     expect(ids).not.toContain('capture')
+    // A deconstruction contractor has neither either.
+    const kofi = navModel(state, viewer(U.kofi))!.sections.flatMap((x) => x.items.map((i) => i.id))
+    expect(kofi).not.toContain('new-building')
+    expect(kofi).not.toContain('capture')
     const dana = navModel(state, viewer(U.dana))!.sections.flatMap((x) => x.items.map((i) => i.id))
     expect(dana).toContain('new-building')
     expect(dana).toContain('capture')

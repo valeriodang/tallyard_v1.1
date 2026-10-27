@@ -38,7 +38,7 @@ function corbelWithPending(): { state: AppData; id: string; publicId: string } {
 
 describe('first runs on every role', () => {
   it('gives a new surveying firm a first run and never says every survey is submitted when there are none', () => {
-    const { state, userId } = newUser('Surveying or deconstruction firm', 'surv')
+    const { state, userId } = newUser('Surveying firm', 'surv')
     const d = surveyorDashboard(state, viewer(userId))!
     expect(d.firstRun).toBe(true)
     expect(d.metrics.openSubText).toBe('No surveys yet')

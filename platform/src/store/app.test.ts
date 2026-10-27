@@ -125,7 +125,7 @@ describe('the store', () => {
     expect(getSessionUserId()).not.toBeNull()
     await useApp.getState().resetSandbox()
     expect(getSessionUserId()).toBeNull()
-    expect(Object.keys(getData().users)).toHaveLength(5)
+    expect(Object.keys(getData().users)).toHaveLength(6)
     expect(getData().seededOn).toBe('2026-10-08')
   })
 
@@ -135,11 +135,11 @@ describe('the store', () => {
     await useApp.persist.rehydrate()
     expect(getData().version).toBe(STATE_VERSION)
     expect(getData().seededOn).toBe('2026-10-08')
-    expect(Object.keys(getData().users)).toHaveLength(5)
+    expect(Object.keys(getData().users)).toHaveLength(6)
     // A damaged record leaves the running sandbox as it is.
     writeKey('local', STATE_KEY, '{ not json')
     await expect(useApp.persist.rehydrate()).resolves.toBeUndefined()
-    expect(Object.keys(getData().users)).toHaveLength(5)
+    expect(Object.keys(getData().users)).toHaveLength(6)
   })
 
   it('keeps the sidebar project view per person, and does nothing when signed out', async () => {

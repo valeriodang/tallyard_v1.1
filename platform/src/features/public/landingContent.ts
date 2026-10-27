@@ -15,19 +15,20 @@ export const SCENE_CAPTIONS = { donor: 'Coming down', yard: 'Stored and tested',
 
 /** The facts band: a figure and one line each. */
 export const LANDING_FACTS = [
-  { key: 'workspaces', figure: '5 workspaces', line: 'One for each role on a project' },
-  { key: 'families', figure: '7 material families', line: 'Steel, stone, brick, curtain wall, precast, raised floors and timber' },
+  { key: 'workspaces', figure: '6 workspaces', line: 'One for each role on a project' },
+  { key: 'families', figure: '13 material families', line: 'Steel, glulam, hollowcore, stone, slate, brick, curtain wall, precast, paving, raised floors, carpet and ceiling tiles, and timber' },
   { key: 'typologies', figure: '3 typologies', line: 'Structure, envelope and finishes' },
   { key: 'indicative', figure: 'Every figure indicative', line: 'With each factor and its source in the methodology' },
 ] as const
 
-export type LandingRoleKey = 'architect' | 'client' | 'owner' | 'surveyor' | 'consultant'
+export type LandingRoleKey = 'architect' | 'client' | 'owner' | 'surveyor' | 'contractor' | 'consultant'
 
 export const LANDING_ROLES: readonly { key: LandingRoleKey; role: string; line: string; tools: readonly string[] }[] = [
   { key: 'architect', role: 'Architects', line: 'Browse a curated marketplace of reclaimed stock, shortlist it per project and export the specification.', tools: ['Marketplace', 'Shortlist', 'Specification'] },
   { key: 'client', role: 'Clients and developers', line: 'Approve what your architect proposes and reserve it, with an indicative package for storage, testing and transport.', tools: ['Approvals', 'Reservations'] },
   { key: 'owner', role: 'Donor buildings', line: 'Know what your buildings hold, decide what is visible, to whom and from when, and source materials for your new projects.', tools: ['Inventory', 'Recovery plan', 'Sharing'] },
   { key: 'surveyor', role: 'Site surveyors', line: 'Capture each item on site from a phone: photos, grades, quantities and when it comes out.', tools: ['Capture', 'Inventory'] },
+  { key: 'contractor', role: 'Deconstruction contractors', line: 'Take buildings apart for reuse: say when each item comes out, record the method and where every stream goes.', tools: ['Availability', 'Destinations'] },
   { key: 'consultant', role: 'Sustainability consultants', line: 'Set the targets, prove the avoided carbon and reused content, and write the circular economy statement.', tools: ['Sustainability', 'Goals and targets', 'Compliance'] },
 ]
 

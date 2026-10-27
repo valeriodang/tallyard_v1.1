@@ -15,9 +15,8 @@ import { setSessionUserId } from '../../store/sessionId'
 import { createProject } from '../../store/actions/projects'
 import { createOwnerProject } from '../../store/actions/owner'
 import { MERROWGATE_ID } from '../../domain/seed/world'
-import { FENNICK_ID } from '../../sandbox/seed-owner-surveyor'
 import { KILNWORTH_ID } from '../../sandbox/seed-portfolio'
-import { addTestUser, U } from '../../test/fixtures'
+import { addContractorOnlySurveyingFirm, U } from '../../test/fixtures'
 import { routes } from '../../app/router'
 
 const NOW = '2026-10-08T10:00:00.000Z'
@@ -130,7 +129,8 @@ describe('the statement card on a project with no consultant (copy)', () => {
 
 describe('a contractor-only firm (note 12)', () => {
   function lee(): string {
-    const { state, userId } = addTestUser(getData(), { orgId: FENNICK_ID, name: 'Lee Shaw', email: 'lee.shaw@fennick.example' })
+    // Round 3: Fennick became a deconstruction contractor, so a surveying firm that only dates Tiverne House stands in.
+    const { state, userId } = addContractorOnlySurveyingFirm(getData())
     useApp.getState().commit(state)
     return userId
   }

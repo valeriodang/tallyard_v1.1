@@ -37,6 +37,12 @@ const FACADE_OF: Record<FamilyId, FacadeKind | null> = {
   timber_joist: 'timber',
   steel_section: null,
   raised_floor: null,
+  natural_slate: null,
+  stone_paving: null,
+  carpet_tile: null,
+  metal_ceiling_tile: null,
+  glulam_beam: 'timber',
+  hollowcore_plank: 'precast',
 }
 
 /** The facade a family shows on the drawing, or null for a family that is not seen from outside. */

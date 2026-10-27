@@ -3,6 +3,7 @@
 import type { AvatarColour, NotificationKind, PlatformRole, User } from '../store/types'
 import { NOTIFICATION_KINDS } from '../store/types'
 import { ORG_IDS, PERSONA_IDS } from '../domain/seed/world'
+import { FENNICK_ID, KOFI_PERSONA_ID } from './sampleIds'
 
 export const SAMPLE_PASSWORD = 'sandbox'
 
@@ -12,7 +13,10 @@ export const ORG_TYPES: { value: string; label: string; role: PlatformRole }[] =
   { value: 'Developer', label: 'Developer or client', role: 'client' },
   // Round 2: the stored value stays 'Asset owner'; the product calls the organisation a donor building owner.
   { value: 'Asset owner', label: 'Donor building owner', role: 'owner' },
-  { value: 'Deconstruction contractor', label: 'Surveying or deconstruction firm', role: 'surveyor' },
+  // Round 3: the stored value 'Deconstruction contractor' stays for surveying firms (they can still be appointed
+  // contractor); a deconstruction contractor with its own workspace is stored as 'Dismantling contractor'.
+  { value: 'Deconstruction contractor', label: 'Surveying firm', role: 'surveyor' },
+  { value: 'Dismantling contractor', label: 'Deconstruction contractor', role: 'contractor' },
   { value: 'Sustainability consultant', label: 'Sustainability consultancy', role: 'consultant' },
 ]
 
@@ -21,6 +25,7 @@ export const ROLE_LABELS: Record<PlatformRole, string> = {
   client: 'Client (developer)',
   owner: 'Donor building owner',
   surveyor: 'Site surveyor',
+  contractor: 'Deconstruction contractor',
   consultant: 'Sustainability consultant',
 }
 
@@ -78,7 +83,7 @@ export type SampleAccount = {
   passwordHash: string
 }
 
-/** The five sample accounts, in the order the sign-in page shows them. Password `sandbox` for all. */
+/** The six sample accounts, in the order the sign-in page shows them. Password `sandbox` for all. */
 export const SAMPLE_ACCOUNTS: SampleAccount[] = [
   {
     userId: 'usr_k4p9n2',
@@ -131,6 +136,19 @@ export const SAMPLE_ACCOUNTS: SampleAccount[] = [
     avatarColour: 'violet',
     salt: 'slt_d9k4r1',
     passwordHash: 'f5d1b2cbd61e663f12189cc371baff5dfd0772240607cc5f8b8f23f8d9e85960',
+  },
+  {
+    userId: 'usr_f5r8k2',
+    personaId: KOFI_PERSONA_ID,
+    orgId: FENNICK_ID,
+    name: 'Kofi Rennard',
+    email: 'kofi.rennard@fennick.example',
+    title: 'Contracts manager',
+    role: 'contractor',
+    line: 'Takes buildings apart so what comes out can be used again, and records where it goes.',
+    avatarColour: 'rose',
+    salt: 'slt_f5r8k2',
+    passwordHash: 'c3b5993a80e934a133293a4e733fcdb6b54de7e35f7617f1ae9c019ec809fddb',
   },
   {
     userId: 'usr_m3x8c6',

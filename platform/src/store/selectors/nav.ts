@@ -204,6 +204,11 @@ export function navModel(state: AppData, viewer: Viewer): NavModel | null {
         ...(datesOnly ? [] : [item('new-building', 'Add building', '/app/buildings?new=1', 'Plus')]),
       ],
     })
+  } else if (role === 'contractor') {
+    // Round 3: a deconstruction contractor reads the buildings it is appointed to, each with the contractor tabs.
+    const buildings = buildingsOfUser(state, viewer.userId).filter((b) => buildingSide(state, viewer.userId, b.id) === 'contractor')
+    sections.push(navSection('main', null, [item('home', 'Home', '/app/home', 'House')]))
+    sections.push(navSection('buildings', 'Appointed buildings', buildings.map((b) => item(`building-${b.id}`, b.name, `/app/buildings/${b.id}`, 'Building2', { children: badgedBuildingTabs(state, b, 'contractor', { contractor: true }).map((t) => item(`building-${b.id}-${t.id}`, t.label, t.href, null, { badge: t.badge })) }))))
   } else {
     sections.push(navSection('main', null, [item('home', 'Home', '/app/home', 'House')]))
     const a = arranged(projects.filter((p) => projectSide(state, viewer.userId, p.id) === 'consultant'))
@@ -272,7 +277,7 @@ export function routeAccess(state: AppData, viewer: Viewer, pathname: string): R
     return allowed.includes(tab === 'carbon' ? 'sustainability' : tab) ? 'ok' : 'forbidden'
   }
   if (section === 'buildings') {
-    if (id === undefined) return roles('owner', 'surveyor')
+    if (id === undefined) return roles('owner', 'surveyor', 'contractor')
     if (!ID.test(id)) return 'not_found'
     const side = buildingSide(state, viewer.userId, id)
     if (!side) return 'forbidden'

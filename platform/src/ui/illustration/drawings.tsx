@@ -106,7 +106,30 @@ function outlineFor(spec: Spec): Outline {
       return { wLabel: '', hLabel: '', ratio: 3, label: 'Joist section, size not recorded', recorded: false }
     case 'steel_section':
       return { wLabel: '', hLabel: '', ratio: 1, label: '', recorded: true }
+    case 'natural_slate': {
+      const [w, h] = sizePair(spec.sizeMm, [500, 250])
+      return { wLabel: `${w} mm`, hLabel: `${h} mm`, ratio: h / w, label: 'Slate', recorded: true }
+    }
+    case 'stone_paving':
+      return { wLabel: '1 m module', hLabel: `${spec.thicknessMm} mm`, ratio: spec.thicknessMm / 1000 + 0.12, label: 'Paving section', recorded: true }
+    case 'carpet_tile':
+    case 'metal_ceiling_tile': {
+      const [w, h] = sizePair(spec.sizeMm, spec.family === 'carpet_tile' ? [500, 500] : [600, 600])
+      return { wLabel: `${w} mm`, hLabel: `${h} mm`, ratio: h / w, label: 'Tile', recorded: true }
+    }
+    case 'glulam_beam': {
+      const [h, w] = sizePair(spec.sectionMm, [400, 140])
+      return { wLabel: `${w} mm`, hLabel: `${h} mm`, ratio: h / w, label: 'Glulam section', recorded: true }
+    }
+    case 'hollowcore_plank':
+      return { wLabel: '1,200 mm plank', hLabel: `${spec.depthMm} mm`, ratio: spec.depthMm / 1200 + 0.08, label: 'Plank section', recorded: true }
   }
+}
+
+/** Two dimensions written "500 by 250", or the fallback when the text holds none. */
+function sizePair(text: string, fallback: [number, number]): [number, number] {
+  const m = /(\d+(?:\.\d+)?)\s*by\s*(\d+(?:\.\d+)?)/.exec(text)
+  return m ? [Number(m[1]), Number(m[2])] : fallback
 }
 
 export function PanelDrawing({ spec, box = 140, caption, dims: wantDims = true, className, idPrefix = 'pnl' }: { spec: Spec; box?: number; caption?: string; dims?: boolean; className?: string; idPrefix?: string }) {
@@ -121,7 +144,7 @@ export function PanelDrawing({ spec, box = 140, caption, dims: wantDims = true, 
   const VW = Math.max(w + padL + padR, captionWidth(caption ?? ''))
   const VH = h + top + (caption ? 34 : 8)
   const hatch = `${idPrefix}-${spec.family}-hatch`
-  const cut = spec.family === 'precast_cladding' || spec.family === 'stone_cladding'
+  const cut = spec.family === 'precast_cladding' || spec.family === 'stone_cladding' || spec.family === 'stone_paving' || spec.family === 'hollowcore_plank' || spec.family === 'glulam_beam'
   return (
     <svg viewBox={`0 0 ${VW} ${VH}`} width={VW} height={VH} className={className} role="img" aria-label={`Drawing of ${caption ?? d.label}`}>
       <Hatch id={hatch} />

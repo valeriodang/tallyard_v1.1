@@ -32,7 +32,7 @@ describe('loading the app over an older sandbox', () => {
     expect(window.localStorage.getItem('tallyard-platform-v2-upgraded')).toBe('2026-10-16')
     expect(upgradeNoticeShown()).toBe(true)
     expect(getData().version).toBe(STATE_VERSION)
-    expect(Object.keys(getData().users)).toHaveLength(5)
+    expect(Object.keys(getData().users)).toHaveLength(6)
     expect(getData().seededOn).toBe('2026-10-16')
   })
 

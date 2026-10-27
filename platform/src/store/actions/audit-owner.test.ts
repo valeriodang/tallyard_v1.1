@@ -156,7 +156,7 @@ describe('moving early captures into an appointment (note 26)', () => {
     refused(s, mergeSurveyBuilding(s, actor(U.dana), mine, mine), CLAIM_ERRORS.mergeInto)
     refused(s, mergeSurveyBuilding(s, actor(U.tom), mine, toms), ERRORS.role)
     // Another surveying firm cannot touch Tarnbrook's building.
-    const shaw = must(signUpState(s, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying or deconstruction firm', salt: 's', passwordHash: 'h', now: NOW }))
+    const shaw = must(signUpState(s, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying firm', salt: 's', passwordHash: 'h', now: NOW }))
     refused(shaw.state, mergeSurveyBuilding(shaw.state, actor(shaw.value), mine, toms), CLAIM_ERRORS.mergeFrom)
     // An appointment of another firm is not a target.
     const moved = must(appointSurveyor(s, actor(U.tom), toms, null)).state
@@ -221,7 +221,7 @@ describe('inviting a contractor by email (note 28)', () => {
     expect(sel.buildingOverview(r.state, viewer(U.tom), TIVERNE_ID)!.contractorInvite).toEqual({ email: 'lee@shaw.example', invitedText: '8 October 2026', clearsText: "Fennick Dismantling's 5 dates are cleared when they join." })
     // Fennick stays until the new firm joins.
     expect(r.state.world.buildings[TIVERNE_ID].contractorOrgId).toBe(FENNICK_ID)
-    const lee = must(signUpState(r.state, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying or deconstruction firm', salt: 's', passwordHash: 'h', now: NOW }))
+    const lee = must(signUpState(r.state, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying firm', salt: 's', passwordHash: 'h', now: NOW }))
     const b = lee.state.world.buildings[TIVERNE_ID]
     const shaw = lee.state.users[lee.value].orgId
     expect(b.contractorOrgId).toBe(shaw)
@@ -258,7 +258,7 @@ describe('inviting a contractor by email (note 28)', () => {
     const r = must(inviteContractorByEmail(s0, actor(U.dana), HARROWDEN_ID, 'lee@shaw.example'))
     const w = must(withdrawContractorInvite(r.state, actor(U.dana), HARROWDEN_ID))
     expect(w.state.world.buildings[HARROWDEN_ID].contractorInvite).toBeNull()
-    const lee = must(signUpState(w.state, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying or deconstruction firm', salt: 's', passwordHash: 'h', now: NOW }))
+    const lee = must(signUpState(w.state, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying firm', salt: 's', passwordHash: 'h', now: NOW }))
     expect(lee.state.world.buildings[HARROWDEN_ID].contractorOrgId).toBe(ORG_IDS.tarnbrook)
   })
 })

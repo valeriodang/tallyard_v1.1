@@ -17,6 +17,8 @@ import { lotByPublicId, listingOf, projectWishlist } from '../store/lots'
 import { listJoin, log, notify, plural } from '../store/notifications'
 import { mint } from '../store/ids'
 import { SAMPLE_ACCOUNTS, sampleUsers } from './accounts'
+import { withRound3Records } from './seed-v3'
+import { SEED_REVISION } from '../store/storage'
 import { shiftWorld } from './shift'
 import { withOwnerSurveyorHistory, withOwnerSurveyorWorld } from './seed-owner-surveyor'
 import { addClientPortfolio } from './seed-portfolio'
@@ -102,6 +104,7 @@ export function firstRun(todayIso: string, now: string = `${todayIso}T09:00:00.0
 
   let s: AppData = {
     version: 2,
+    seedRevision: SEED_REVISION,
     seededOn: todayIso,
     seq: 0,
     world: w,
@@ -228,6 +231,8 @@ export function firstRun(todayIso: string, now: string = `${todayIso}T09:00:00.0
   s = seedSustainability(s, todayIso, now)
   // Tiverne House's requirements before demolition: what the owner and the surveyor have done so far.
   s = seedBuildingRequirements(s, at)
+  // Round 3: records added after everything above, so earlier IDs never move.
+  s = withRound3Records(s, { at })
 
   // Keep everything newest first.
   const byTime = <T extends { at: string }>(xs: T[]) => [...xs].sort((x, y) => (x.at < y.at ? 1 : x.at > y.at ? -1 : 0))

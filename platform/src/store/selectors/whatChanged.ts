@@ -22,6 +22,7 @@ const PEOPLE: Record<PlatformRole, string> = {
   client: 'clients',
   owner: 'donor building owners',
   surveyor: 'surveyors',
+  contractor: 'deconstruction contractors',
   consultant: 'sustainability consultants',
 }
 
@@ -118,7 +119,7 @@ export const ROUND_2_CHANGES: Change[] = [
     id: 'dashboards',
     title: 'A dashboard on every home',
     text: 'Every home opens with four figures and the recent activity. Clients see cost, savings, carbon and reuse across their projects, the programmes side by side and a to-do list.',
-    roles: ['architect', 'client', 'owner', 'surveyor', 'consultant'],
+    roles: ['architect', 'client', 'owner', 'surveyor', 'contractor', 'consultant'],
     places: () => [{ href: '/app/home', label: 'Go to home' }],
   },
 ]

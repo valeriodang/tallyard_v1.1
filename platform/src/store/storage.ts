@@ -12,6 +12,11 @@ export const STORAGE_PREFIX = `${APP_PREFIX}v1`
  * other in a loop (round 2 audit, 16 October 2026).
  */
 export const STATE_VERSION = 2
+/**
+ * The seed's revision within a state version (round 3). A stored sandbox of an earlier revision starts again from
+ * the sample data, so a key added to the data never reads as missing. Raise it whenever seeded data or keys change.
+ */
+export const SEED_REVISION = 1
 export const STATE_KEY = stateKey(STATE_VERSION)
 /** Kept across versions, so a sample account stays signed in after an upgrade (sample user IDs never change). */
 export const SESSION_KEY = `${STORAGE_PREFIX}-session`

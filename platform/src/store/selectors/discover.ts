@@ -61,6 +61,18 @@ function specWords(s: Spec): string[] {
       return [s.panelSize, 'floor']
     case 'timber_joist':
       return [s.species, 'timber', 'wood']
+    case 'natural_slate':
+      return [s.origin, 'slate', 'roof']
+    case 'stone_paving':
+      return [s.stone, 'stone', 'paving', 'landscape']
+    case 'carpet_tile':
+      return [s.backing, 'carpet', 'floor', 'fit-out']
+    case 'metal_ceiling_tile':
+      return [s.finish, 'ceiling', 'metal', 'fit-out']
+    case 'glulam_beam':
+      return [s.strengthClass, 'glulam', 'timber', 'beam']
+    case 'hollowcore_plank':
+      return ['hollowcore', 'precast', 'concrete', 'floor']
   }
 }
 

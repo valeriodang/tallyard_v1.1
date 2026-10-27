@@ -70,9 +70,9 @@ describe('Landing, round 2', () => {
 
   it('states true facts about the product', () => {
     render(<Landing />)
-    expect(LANDING_FACTS.map((f) => f.figure)).toEqual(['5 workspaces', '7 material families', '3 typologies', 'Every figure indicative'])
-    expect(LANDING_ROLES).toHaveLength(5)
-    expect(FAMILY_IDS).toHaveLength(7)
+    expect(LANDING_FACTS.map((f) => f.figure)).toEqual(['6 workspaces', '13 material families', '3 typologies', 'Every figure indicative'])
+    expect(LANDING_ROLES).toHaveLength(6)
+    expect(FAMILY_IDS).toHaveLength(13)
     expect(Object.keys(TYPOLOGY_LABELS)).toHaveLength(3)
     for (const f of LANDING_FACTS) expect(byTestId(`fact-${f.key}`).textContent).toContain(f.line)
   })

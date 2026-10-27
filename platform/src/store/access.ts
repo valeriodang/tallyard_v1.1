@@ -38,6 +38,11 @@ export function roleOfOrg(state: AppData, orgId: string): PlatformRole | null {
   return org ? roleForOrgType(org.type) : null
 }
 
+/** Whether a firm of this role can be appointed a building's deconstruction contractor (round 3). */
+export function canBeContractor(role: PlatformRole | null): boolean {
+  return role === 'surveyor' || role === 'contractor'
+}
+
 /** The people in an organisation, oldest first. */
 export function usersOfOrg(state: AppData, orgId: string): User[] {
   return Object.values(state.users)
@@ -107,7 +112,7 @@ export function buildingSide(state: AppData, userId: string, buildingId: string)
   const role = roleOfUser(state, userId)
   if (role === 'owner' && b.ownerOrgId === u.orgId) return 'owner'
   if (role === 'surveyor' && b.surveyorOrgId === u.orgId) return 'surveyor'
-  if (role === 'surveyor' && b.contractorOrgId === u.orgId) return 'contractor'
+  if ((role === 'surveyor' || role === 'contractor') && b.contractorOrgId === u.orgId) return 'contractor'
   return null
 }
 
@@ -119,7 +124,8 @@ export function isBuildingOwner(state: AppData, userId: string, buildingId: stri
 export function isBuildingContractor(state: AppData, userId: string, buildingId: string): boolean {
   const b = state.world.buildings[buildingId]
   const u = userOf(state, userId)
-  if (!b || !u || !b.contractorOrgId || roleOfUser(state, userId) !== 'surveyor') return false
+  const role = roleOfUser(state, userId)
+  if (!b || !u || !b.contractorOrgId || (role !== 'surveyor' && role !== 'contractor')) return false
   return b.contractorOrgId === u.orgId && personaOpens(state, userId, { buildingId })
 }
 

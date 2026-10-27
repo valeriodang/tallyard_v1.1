@@ -3,7 +3,8 @@ import { expect } from 'vitest'
 import { firstRun } from '../sandbox/seed'
 import { defaultNotificationPrefs, SAMPLE_ACCOUNTS } from '../sandbox/accounts'
 import type { ActionResult, Actor, AppData, User, Viewer } from '../store/types'
-import { PERSONA_IDS } from '../domain/seed/world'
+import { PERSONA_IDS, TIVERNE_ID } from '../domain/seed/world'
+import { KOFI_PERSONA_ID } from '../sandbox/sampleIds'
 
 export const TODAY = '2026-10-08'
 export const SEEDED_AT = '2026-10-08T09:00:00.000Z'
@@ -18,6 +19,7 @@ export const U = {
   tom: byPersona(PERSONA_IDS.tom),
   dana: byPersona(PERSONA_IDS.dana),
   marcus: byPersona(PERSONA_IDS.marcus),
+  kofi: byPersona(KOFI_PERSONA_ID),
 }
 
 export function fresh(): AppData {
@@ -66,4 +68,17 @@ export function addTestUser(state: AppData, input: { orgId: string; name: string
     notificationPrefs: defaultNotificationPrefs(),
   }
   return { state: { ...state, world, users: { ...state.users, [userId]: user } }, userId }
+}
+
+/**
+ * A surveying firm that works on Tiverne House only as its deconstruction contractor, as Fennick Dismantling did
+ * before round 3 made Fennick a contractor with its own workspace. Shaw Surveys replaces Fennick on the building.
+ */
+export function addContractorOnlySurveyingFirm(state: AppData): { state: AppData; userId: string; orgId: string } {
+  const orgId = 'org_shaw'
+  const world = structuredClone(state.world)
+  world.orgs[orgId] = { id: orgId, name: 'Shaw Surveys', type: 'Deconstruction contractor' }
+  world.buildings[TIVERNE_ID].contractorOrgId = orgId
+  const r = addTestUser({ ...state, world }, { orgId, name: 'Lee Shaw', email: 'lee.shaw@shawsurveys.example' })
+  return { ...r, orgId }
 }

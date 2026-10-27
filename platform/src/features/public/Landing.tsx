@@ -4,7 +4,7 @@
 // from the fictional world, labelled as such.
 import { useMemo, type ReactNode } from 'react'
 import { Link } from 'react-router'
-import { ArrowRight, Bookmark, Building2, Camera, ChevronDown, CircleHelp, ClipboardCheck, Compass, FolderClosed, FolderKanban, Hourglass, House, Layers, Leaf, Lock, Search, Settings, Store, Users } from 'lucide-react'
+import { ArrowRight, Bookmark, Building2, Camera, ChevronDown, CircleHelp, ClipboardCheck, Compass, FolderClosed, FolderKanban, HardHat, Hourglass, House, Layers, Leaf, Lock, Search, Settings, Store, Users } from 'lucide-react'
 import { PRODUCT_NAME } from '../../domain/constants'
 import { buildingSketch } from '../../domain/sketch'
 import * as f from '../../domain/format'
@@ -38,7 +38,7 @@ import { ARCHITECT_TILE_LABELS as T, carbonStateLabel, FIT_WORDS, projectsSub, S
 import { LandingScene } from './LandingScene'
 import { HERO, LANDING_CTA, LANDING_FACTS, LANDING_PRINCIPLES, LANDING_ROLES, LANDING_STEPS, type LandingRoleKey } from './landingContent'
 
-const ROLE_ICON: Record<LandingRoleKey, typeof Compass> = { architect: Compass, client: ClipboardCheck, owner: Building2, surveyor: Camera, consultant: Leaf }
+const ROLE_ICON: Record<LandingRoleKey, typeof Compass> = { architect: Compass, client: ClipboardCheck, owner: Building2, surveyor: Camera, contractor: HardHat, consultant: Leaf }
 
 /** The page's one content width and gutters. */
 const WRAP = 'mx-auto w-full max-w-[1200px] px-4 sm:px-6'
@@ -380,6 +380,20 @@ function RoleVisual({ role }: { role: LandingRoleKey }) {
       </div>
     )
   }
+  if (role === 'contractor') {
+    return (
+      <div className="w-full max-w-[260px] rounded-lg border border-line bg-surface p-2.5 text-xs">
+        <div className="flex items-center justify-between gap-2 text-ink">
+          <span>Steel sections, 24.2 t</span>
+          <span className="rounded bg-brand-50 px-1.5 py-0.5 text-2xs text-brand-700">Reused off site</span>
+        </div>
+        <div className="mt-2 grid grid-cols-2 gap-1.5 text-2xs">
+          <span className="rounded bg-subtle px-1.5 py-1 text-muted">Forecast 24.0 t</span>
+          <span className="rounded bg-subtle px-1.5 py-1 text-muted">Transfer note recorded</span>
+        </div>
+      </div>
+    )
+  }
   return (
     <div className="flex w-full max-w-[300px] items-center gap-4 rounded-lg border border-line bg-surface p-3">
       <ProgressRing value={41} max={96.4} label="Avoided carbon, approved" valueText="41.0 of 96.4 tCO2e" centre="43%" />
@@ -391,12 +405,12 @@ function RoleVisual({ role }: { role: LandingRoleKey }) {
 function Roles() {
   return (
     <section id="roles" className={cx(WRAP, 'scroll-mt-20 pt-24 sm:pt-32')}>
-      <SectionHeading eyebrow="Who it is for" title="One workspace, five ways in" text="Your organisation's type decides your workspace. Each role sees what it needs to decide, and nothing private crosses before it should." />
+      <SectionHeading eyebrow="Who it is for" title="One workspace, six ways in" text="Your organisation's type decides your workspace. Each role sees what it needs to decide, and nothing private crosses before it should." />
       <ul className="m-0 mt-12 grid list-none gap-4 p-0 md:grid-cols-6">
         {LANDING_ROLES.map(({ key, role, line, tools }, i) => {
           const Icon = ROLE_ICON[key]
           return (
-            <li key={key} data-testid={`role-${key}`} className={cx('flex min-w-0 flex-col overflow-hidden rounded-lg border border-line bg-surface', i < 2 ? 'md:col-span-3' : 'md:col-span-2')}>
+            <li key={key} data-testid={`role-${key}`} className={cx('flex min-w-0 flex-col overflow-hidden rounded-lg border border-line bg-surface', LANDING_ROLES.length % 3 === 2 && i < 2 ? 'md:col-span-3' : 'md:col-span-2')}>
               <div aria-hidden="true" inert className="flex h-40 items-center justify-center border-b border-line-soft bg-subtle px-5 md:h-48">
                 <RoleVisual role={key} />
               </div>

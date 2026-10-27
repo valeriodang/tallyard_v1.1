@@ -16,6 +16,7 @@ const HOMES: Record<PlatformRole, ComponentType> = {
   client: home(() => import('./ClientHome'), 'ClientHome'),
   owner: home(() => import('./OwnerHome'), 'OwnerHome'),
   surveyor: home(() => import('./SurveyorHome'), 'SurveyorHome'),
+  contractor: home(() => import('./ContractorHome'), 'ContractorHome'),
   consultant: home(() => import('./ConsultantHome'), 'ConsultantHome'),
 }
 

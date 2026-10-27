@@ -28,7 +28,7 @@ describe('sample accounts', () => {
       expect(s.world.personas[a.personaId].name).toBe(a.name)
       expect(s.users[a.userId].passwordHash).toBe(a.passwordHash)
     }
-    expect(SAMPLE_ACCOUNTS.map((a) => a.role)).toEqual(['architect', 'client', 'owner', 'surveyor', 'consultant'])
+    expect(SAMPLE_ACCOUNTS.map((a) => a.role)).toEqual(['architect', 'client', 'owner', 'surveyor', 'contractor', 'consultant'])
   })
 })
 

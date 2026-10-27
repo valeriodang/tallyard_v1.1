@@ -19,6 +19,18 @@ export function specFromAssist(r: AssistResult): Spec | null {
       return { family: 'raised_floor', panelSize: r.panelWidthM && r.panelHeightM ? `${Math.round(r.panelWidthM * 1000)} by ${Math.round(r.panelHeightM * 1000)}` : '600 by 600' }
     case 'timber_joist':
       return { family: 'timber_joist', species: 'softwood' }
+    case 'natural_slate':
+      return { family: 'natural_slate', origin: 'Welsh', sizeMm: '500 by 250' }
+    case 'stone_paving':
+      return { family: 'stone_paving', stone: 'York', thicknessMm: r.thicknessMm ?? 50 }
+    case 'carpet_tile':
+      return { family: 'carpet_tile', sizeMm: '500 by 500', backing: 'bitumen backing' }
+    case 'metal_ceiling_tile':
+      return { family: 'metal_ceiling_tile', sizeMm: '600 by 600', finish: 'white, perforated' }
+    case 'glulam_beam':
+      return { family: 'glulam_beam', strengthClass: 'GL24h', sectionMm: '400 by 140' }
+    case 'hollowcore_plank':
+      return { family: 'hollowcore_plank', depthMm: r.thicknessMm ?? 200 }
     default:
       return null
   }
@@ -30,11 +42,17 @@ export function quantityFromAssist(r: AssistResult): Quantity | null {
     case 'curtain_wall':
     case 'clay_brick':
     case 'raised_floor':
+    case 'natural_slate':
+    case 'carpet_tile':
+    case 'metal_ceiling_tile':
       return r.pieces !== null ? { kind: 'pieces', pieces: r.pieces } : null
     case 'precast_cladding':
     case 'stone_cladding':
+    case 'stone_paving':
+    case 'hollowcore_plank':
       return r.areaM2 !== null ? { kind: 'area', areaM2: r.areaM2 } : null
     case 'timber_joist':
+    case 'glulam_beam':
       return r.volumeM3 !== null ? { kind: 'volume', volumeM3: r.volumeM3 } : null
     default:
       return null
@@ -50,6 +68,12 @@ export const QUANTITY_KIND: Record<FamilyId, Quantity['kind']> = {
   clay_brick: 'pieces',
   raised_floor: 'pieces',
   timber_joist: 'volume',
+  natural_slate: 'pieces',
+  stone_paving: 'area',
+  carpet_tile: 'pieces',
+  metal_ceiling_tile: 'pieces',
+  glulam_beam: 'volume',
+  hollowcore_plank: 'area',
 }
 
 export type CaptureDraft = {

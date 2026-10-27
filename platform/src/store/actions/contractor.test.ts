@@ -32,7 +32,7 @@ describe('isoForMonth', () => {
 describe('appointing a deconstruction contractor', () => {
   it('the owner invites one, who is told and gets a contractor side', () => {
     const s0 = fresh()
-    const shaw = must(signUpState(s0, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying or deconstruction firm', salt: 's', passwordHash: 'h', now: NOW }))
+    const shaw = must(signUpState(s0, { name: 'Lee Shaw', email: 'lee@shaw.example', orgName: 'Shaw Surveys', orgType: 'Surveying firm', salt: 's', passwordHash: 'h', now: NOW }))
     const shawOrg = shaw.state.users[shaw.value].orgId
     const r = must(appointContractor(shaw.state, actor(U.tom), TIVERNE_ID, shawOrg))
     expect(r.state.world.buildings[TIVERNE_ID].contractorOrgId).toBe(shawOrg)

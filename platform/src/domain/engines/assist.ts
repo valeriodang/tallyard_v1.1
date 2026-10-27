@@ -32,6 +32,12 @@ const REQUIRED: Record<FamilyId, string[]> = {
   clay_brick: ['pieces'],
   raised_floor: ['pieces'],
   timber_joist: ['volumeM3'],
+  natural_slate: ['pieces'],
+  stone_paving: ['areaM2'],
+  carpet_tile: ['pieces'],
+  metal_ceiling_tile: ['pieces'],
+  glulam_beam: ['volumeM3'],
+  hollowcore_plank: ['areaM2'],
 }
 
 const LOCATION_WORDS = /\b(levels?|floors?|storeys?|basement|roof|plant room|room|bay|grid|gridline|elevation|north|south|east|west|core|stair|ground|mezzanine|wing|zone|podium)\b/
@@ -88,9 +94,15 @@ export function captureAssist(input: string): AssistResult {
     const fams: [RegExp, FamilyId][] = [
       [/curtain wall(?:ing)?/, 'curtain_wall'],
       [/raised access floor|raised floor|\braf\b/, 'raised_floor'],
+      [/carpet tiles?|carpet/, 'carpet_tile'],
+      [/ceiling tiles?|ceiling panels?/, 'metal_ceiling_tile'],
+      [/hollow ?core|hollow-core/, 'hollowcore_plank'],
       [/pre-?cast/, 'precast_cladding'],
+      [/slates?/, 'natural_slate'],
+      [/paving|paviours?|flagstones?|\bsetts?\b/, 'stone_paving'],
       [/stone/, 'stone_cladding'],
       [/bricks?/, 'clay_brick'],
+      [/glulam|glued laminated/, 'glulam_beam'],
       [/joists?|timber/, 'timber_joist'],
       [/steel|\bbeams?\b|\bcolumns?\b|\bub\b|\buc\b/, 'steel_section'],
     ]

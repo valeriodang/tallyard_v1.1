@@ -87,7 +87,7 @@ function newAccount(orgType: string, label: string): string {
 
 describe('first runs on every role', () => {
   it('opens a new surveying firm on its first steps, with no zero tiles or empty donut', async () => {
-    const userId = newAccount('Surveying or deconstruction firm', 'surv')
+    const userId = newAccount('Surveying firm', 'surv')
     open('/app/home', userId)
     const card = await waitFor(() => document.querySelector('[data-testid="surveyor-first-run"]'))
     expect(card.textContent).toContain('No appointments yet')

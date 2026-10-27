@@ -65,4 +65,7 @@ scripts/               scan.mjs, make-samples.mjs, make-photo-fixture.mjs, shots
 2. Wait for the partner's material (brief 09 section 12, docs/HANDOFF.md section 8): the product name, the office's specification template, the sustainability diagram, the frameworks list and the decision tree, and the consultant's workflow. Each replaces a placeholder named in brief 09.
 3. Decide with the user whether and when version 1.0 goes to `main`. Nothing goes to `main` without an explicit go-ahead.
 4. Version 2 items stay greyed until asked for: matching an uploaded BIM model or steel schedule against the whole marketplace, and the BIM family download.
+6. Round 3 of the platform, the literature upgrade (`platform/BRIEF.md` section 15). It is built in six stages, each tested and pushed.
+   - Stage 1 is done: the RICS carbon method and values, the literature reference tables and engines in Methodology, six new material families, and the deconstruction contractor as a sign-in role.
+   - Test changes are logged in `platform/feedback/r3-test-changes-*.md` and decisions in `platform/feedback/r3-decisions.md`.
 5. Literature review of `reference literature/` done (27 October 2026): `reports/Tallyard literature review.md`, notes in `research_notes/Literature review/`. It recommends reference-value updates and ranks 17 features; none is built until the user chooses. Eight later documents (D53 to D60) are reviewed in note 08 with the updated gap status.
