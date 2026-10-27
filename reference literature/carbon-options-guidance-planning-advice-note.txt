@@ -1,0 +1,2290 @@
+﻿City of London Corporation
+Carbon Options Guidance
+
+Planning advice note - March 2023 - Rev 01
+
+
+
+Carbon Options Guidance
+
+Contents
+Executive Summary....................................................................................................................................................................................................................... 3
+
+Scope of Document....................................................................................................................................................................................................................... 4
+
+Climate Change ............................................................................................................................................................................................................................... 5
+
+Climate Action Strategy 2020-2027..................................................................................................................................................................................... 6
+
+Carbon Options Guidance..........................................................................................................................................................................................................7
+
+1.	 Carbon in Planning Policy.................................................................................................................................................................................................7
+
+2.	 Whole Life-Cycle Carbon Assessments................................................................................................................................................................. 9
+
+3.	 Introduction to Carbon Optioneering.......................................................................................................................................................................11
+
+4.	 Optioneering Considerations........................................................................................................................................................................................12
+
+5.	 Other Policy Opportunities.............................................................................................................................................................................................14
+
+6.	 Outline Methodology..........................................................................................................................................................................................................15
+
+7.	 Dashboard.................................................................................................................................................................................................................................17
+
+8.	 The Consideration of Options in the Planning Application Process...................................................................................................22
+
+Appendix 1 Climate Action Strategy 2020-2027.........................................................................................................................................................23
+
+Appendix 2 Related Reporting Requirements.............................................................................................................................................................26
+
+Appendix 3 Detailed Building Element Scope............................................................................................................................................................29
+
+Appendix 4 GLA WLCA Pre-App Reduction Principles Proforma................................................................................................................. 31
+
+Appendix 5 Planning Application Trends...................................................................................................................................................................... 33
+
+Appendix 6 Related Reporting Requirements............................................................................................................................................................ 35
+
+Appendix 7 Third Party Review Guidance.................................................................................................................................................................... 39
+
+Glossary...............................................................................................................................................................................................................................................41
+
+Planning advice note | City of London Corporation 2
+
+
+
+Carbon Options Guidance
+
+Executive Summary The review of data concludes that there is a need for emissions to be 
+accounted for and for options to be considered in the City of London 
+
+The City of London Corporation (CoLC) has committed for all major and referable applications. Major applications are to 
+working towards net zero carbon (NZC) for both consider development options and carbon impacts, applying the 
+embodied and operational carbon emissions. The Climate methodology presented later in this document. Optioneering should 
+Action Strategy (CAS) specifically commits to also be carried out for non-major applications, where the majority of the 
+
+substructure and superstructure (by mass) is not retained. All schemes 
+•	 NZC for by 2027 in the CoLC’s operations should undertake independent third-partyreview as a quality assurance 
+
+mechanism for their optioneering results (see Appendix 7 Third Party 
+•	 NZC by 2040 across the CoLC’s full value Review Guidance). 
+
+chain and in the Square Mile. 
+Other applications should aim to follow this guidance wherever 
+
+These targets include embodied carbon emissions for the CoLC’s own possible, setting out how carbon emissions have been reduced in the 
+capital projects, but they do not include embodied carbon emissions design of the proposed works.
+of other Square Mile buildings that occur outside the boundaries of the 
+City of London. However, in addition to setting up a fully funded action Following the optioneering study, planning officers expect that all major 
+plan to deliver and achieve annual targets against a decarbonisation developments undertake a WLCA for the chosen option in the planning 
+pathway, the CAS is also supporting workstreams to address the application. 
+reduction of embodied carbon emissions that make up a large 
+proportion of overall emissions from the built environment. This is supported by Greater London Authority (GLA) WLC assessment 
+
+guidance, recommending that all major applications undertake WLCA.
+Planning applications under consideration in 2021 and early 2022 have 
+reported carbon optioneering and whole life-cycle carbon assessment This PAN establishes the variety of ways by which carbon is estimated 
+(WLCA) in various ways. The diversity of approaches was making it in the current planning process and proposes an outline methodology 
+difficult for planning officers to assess and evaluate proposals as well that recommends options for different degrees of major interventions in 
+as to report consistent key results and conclusions to the CoLC’s development to be considered and presented.
+members for decision making. The methodology establishes the minimum data set required at the 
+Hilson Moran was appointed to develop a Planning Advice Note (PAN) pre-planning and planning stages, and the level of transparency to be 
+for early stage Carbon Options Guidance. The purpose of this study is disclosed to planning officers. The proposed methodology aligns with 
+to advise on: the principles in the GLA’s adopted guidance on Whole Life-Cycle 
+
+Carbon Assessments (March 2022). The detailed WLC reporting for the 
+•	 The merits of a whole life-cycle carbon (WLC) emission options chosen option should be provided as part of the planning application.
+
+appraisal as part of the pre-application process to ensure that 
+development proposals maximise the reduction of carbon Two dashboards have been created to equip planning officers with 
+emissions from the earliest project stages. visual and quantified information that is clear and benchmarkable, 
+
+enabling informed discussions between the applicants, planning 
+•	 The scope and methodology of comparative WLC emission options officers and other stakeholders. Both the proposed dashboards, for 
+
+for development proposals at the earliest project stage. the options and for the planning application scheme, are designed 
+to clearly and consistently present data and results in the planning 
+
+•	 To ensure a like for like comparison, enable consistency of reporting application documents so they can be more easily scrutinized by all 
+of carbon emissions and the evaluation of pre-application schemes stakeholders and interested parties.
+as a substantive basis for the planning application scheme.
+
+An excel reporting tool accompanies this report which enables a format 
+The majority of planning applications, 76%, fall under the definition for consent reporting to be established based on the dashboards. 
+of major development, (which includes the provision of a building or 
+buildings where the floor space to be created by the development is The Carbon Options Guidance (COG) PAN is designed to be adaptable 
+1,000 square metres or more). The remaining applications are varied to the evolving carbon policies and procedures. However, future 
+full applications covering change of use, external works and extensions. updates of the methodology may be required as the market matures, 
+This means that major development will be responsible for a large industry standards are updated and as assessment tools become more 
+proportion of new carbon emissions in the City of London. robust and reliable.
+
+Planning advice note | City of London Corporation 3
+
+
+
+Carbon Options Guidance
+
+Scope of Document
+This PAN is designed to provide guidance for development site WLC optioneering 
+evaluations. The PAN is a first step of carbon evaluation and is designed to enable a 
+consistent, early-stage approach to assessing options.
+
+The optioneering exercise is a means of comparing a representative number of development 
+options, in order to find the optimum balance in carbon emissions terms, prior to evaluating 
+other considerations in the planning process. 
+
+This is considered to be one of the first steps in the CoLC’s pursuit to achieve outstanding, 
+best in class buildings that contribute to an attractive and vibrant City environment.
+
+This approach will be recommended to aid the review and decision-making process, 
+through the submission of more in-depth information that demonstrates how applicants 
+have come to a development decision. This process can be relevant to various application 
+types, that have a significant proportion of new build elements. 
+
+The assessment will contribute to the justification for the application proposal and may help 
+with achieving a successful outcome.
+
+An evaluation of recent planning applications and types has been undertaken, based on the 
+City of London Corporation Development Schedule ‘Development Schedules March 2021 - 
+Updated Jan’ issued to Hilson Moran by CoLC. The details can be viewed in Appendix 6. 
+
+The document sets out a recommended approach to optioneering and provides a reporting 
+dashboard which is expected to be completed as part of the pre-application process. An 
+Excel reporting spreadsheet (Carbon Options Tool) has been created which contains the 
+minimum reporting levels expected for a scheme in line with the dashboard, however, 
+applicants can create their own report should they choose to. The Carbon Options Tool will 
+enable applicants to provide the information for pre-applications and submissions.
+
+Section 8 sets out how options will be considered in the planning process.
+
+Once completed, it is advised that applicants complete the full WLCA analysis for the 
+chosen option for the planning application, in line with the Mayor of London’s (Greater 
+London Authority, GLA) ‘Whole Life-Cycle Carbon Assessment Guidance (March 2002)’ or, 
+where updated, in line with the guidance in force at the time of application. 
+
+Figure 1: Carbon influence vs Assessment Accuracy from draft RICS Whole-life carbon assessments - 2nd edition
+
+Planning advice note | City of London Corporation 4
+
+
+
+Carbon Options Guidance
+
+Climate Change 
+Human activities which result in the release of greenhouse gases, 
+including carbon dioxide (C02), are estimated to have caused 1°C of 
+global heating above pre-industrial levels. As a result, there have 
+already been sea level rises, increased likelihoods of extreme weather 
+events and melting of sea ice and permafrost. This has direct and 
+devastating impacts on society, including land loss; increased severity 
+and occurrence of wildfires; drought; and difficulties producing food.
+
+Alongside this, there have been unprecedented declines in global biodiversity, 
+with the average abundance of native species in most major land-based habitats 
+falling by at least 20%, mostly since 1900. The quality of habitats which support 
+this biodiversity has also declined, with a 30% reduction in global terrestrial habitat 
+integrity caused by habitat loss, fragmentation and deterioration.’ (CIEEM, 2019).
+
+Global emissions need to decrease by 43% by the end of this decade to stay 
+under the preferable 1.5 degrees C global warming target set as part of the 
+Paris Agreement (2015). This is the current recommended threshold to avoid 
+unprecedented heatwaves, terrifying storms, flooding and widespread water 
+shortages (Intergovernmental Panel on Climate Change IPCC, 2022).
+
+The built environment contributes 25% of UK greenhouse gas emissions 
+(CO2e) that it has direct control over. If emissions influenced by the built 
+environment are included (surface transport vehicle emissions) the built 
+environment contributes around 42% of the UK’s total greenhouse gas 
+emissions, MtCO2e. (Net Nero Whole Life Carbon Roadmap, UKGBC, 2021).
+
+The property and construction industry has a moral duty to act and reduce the 
+environmental impacts of this sector as well as mitigate the effects of climate change.
+
+Planning advice note | City of London Corporation 5
+
+
+
+Carbon Options Guidance
+
+Climate Action Strategy 2020-2027
+The City of London is major global commerce centre with huge influence and 
+opportunity to lead the net zero carbon and climate change mitigation and 
+adaptation agenda.
+
+The City of London Corporation (CoLC) has adopted a radical Climate Action Strategy 
+which breaks new ground and sets out how the organisation will achieve net zero, 
+build climate resilience and champion sustainable growth, both in the UK and globally, 
+over the next two decades. By adopting the strategy, CoLC has committed to:
+
+•	 Achieve net zero carbon emissions from their own operations by 2027
+
+•	 Achieve net zero carbon emissions across their 
+investments and supply chain by 2040
+
+•	 Support the achievement of net zero for the Square Mile by 2040
+
+•	 Invest £68m over the next six years to support these goals of which £15m 
+is dedicated to preparing the Square Mile for extreme weather events.
+
+CoLC has set out a fully funded action plan for 2020-2027 and set annual targets. 
+Data on progress will be shared via a programme dashboard, expected to go live for 
+the public mid-2022. At the end of each year CoLC will publish a report of progress 
+against targets for that year. Stakeholders will be invited to participate in a survey to 
+help us understand how well they are reaching and engaging with them.
+
+Planning advice note | City of London Corporation 6
+
+
+
+Carbon Options Guidance
+
+Carbon Options Guidance Building Regulations: 
+1.	 Carbon in Planning Policy At a National Level, in England, Approved Documents Part L 
+
+Conservation of fuel and power, Volume 1: Dwellings and Part L 
+Conservation of fuel and power, Volume 2: Buildings other than 
+
+This section outlines the means by which carbon emission dwellings 2021 editions incorporating 2023 amendments, set out 
+quantification and reduction are required or encouraged to be energy efficiency requirements. These regulate some elements of 
+reported for planning applications in the City of London. design and specification of buildings that affect energy consumption, 
+
+including insulation, solar control, the efficiency of building services and 
+Part 2 R.2.i of the National Model Design Code (Ministry of Housing, renewable energy generation. Part L sets minimum requirements and 
+communities and Government, 2021) states a preference for reuse/ targets for carbon emissions and defines the carbon intensity of fuel 
+refurbishment of buildings over new build development. and power. The Part L 2021 update tightens target requirements and 
+Development proposals are generally required to report, for GLA/ introduces a minimum Primary Energy metric to place more emphasis 
+CoLC, both the: on reducing energy demand and on site renewable energy generation. 
+
+•	 Embodied carbon emissions, i.e. carbon emissions ‘Unregulated emissions’ refer to the elements of energy use that sit 
+resulting from materials, construction and the outside Part L and includes carbon emissions from plug-in equipment Figure 2: The proposed amendment of the Building Regulations, Part Z, to regulate 
+maintenance of a building’s life-cycle, and and cooking. embodied carbon on a national scale.
+
+•	 Operational carbon emissions, from energy consumption Embodied carbon emissions are not regulated at a national level. A bill 
+throughout the life-cycle of the building. was proposed in Parliament in February 2022 to change this based on 
+
+a proposed Part Z, developed by industry experts. Whilst Part Z has 
+However, the scope of reporting in applications is determined by been widely supported by industry, at the bill’s second reading the 
+several factors relating to the type of application, the size of the Government declined to support it. However, the UK Government have 
+building and the scope of the intervention proposed. committed to undertake consultations on embodied carbon in 2023 
+There are a number of policy and guidance documents that determine and 2024 (Environmental Audit committee - Building to net zero: costing 
+reporting requirements: carbon in construction: Government Response to the Committee’s First 
+
+Report, third special report of session 2022-2023, September 2022).
+
+The UK Government has recently set out a project to evaluate 
+Measurement and Reduction of Embodied Carbon in New Buildings 
+with the research to be concluded in Q1 2024.
+
+Greater London Authority (GLA) policy: Figure 3: The new London Plan Guidance ‘Whole Life-cycle Carbon Assessments’ March 
+2022, sets out a framework of priorities and carbon information required
+
+The Mayor of London’s London Plan 2021 requires proposals referable 
+to the MGLA to be net zero carbon.
+
+The London Plan Policy SI 2 sets out the strategies for GLA referable 
+projects to minimise carbon emissions. Part F of Policy SI 2 requires 
+development proposals referable to the GLA should calculate whole 
+life-cycle carbon emissions through a nationally recognised whole life-
+cycle carbon assessment and demonstrate actions taken to reduce life-
+cycle carbon emissions. There is a separate GLA (London Plan) policy 
+guidance document - Whole Life-Cycle Carbon Assessments Guidance, 
+March 2022 - which sets out the requirements applicants must 
+undertake. The GLA methodology uses RICS Professional Statement: 
+Whole Life Carbon Assessment for the Built Environment, 1st edition 
+(November 2017) and sets out some requirements that go beyond the Figure 4: Regulated target operational carbon emissions are reduced further by local 
+2017 RICS scope in Box 1 of the GLA guidance. planning policy minimum requirements 
+
+Planning advice note | City of London Corporation 7
+
+
+
+Carbon Options Guidance
+
+Reporting requirements and the scope of the assessment are defined City of London Corporation policy: 
+in the London Plan Guidance for WLCA https://www.london.gov.
+uk/what-we-do/planning/implementing-london-plan/london-plan- City of London’s Local Plan (2015) aligns with the London Plan (see 
+guidance/whole-life-cycle-carbon-assessments-guidance. WLCA point 3) at the time of its adoption. The London Plan has subsequently 
+reporting is required at pre-application, application and post- been updated (2021). The adopted Local Plan focusses on reducing 
+completion stages of schemes that are referable to the GLA, but it operational ‘regulated’ carbon emissions resulting from energy used 
+is also encouraged for all major developments. All studies account in operation, low and zero carbon technologies for on-site and local 
+for a 60-year life-cycle period, as standard. Provisions for a different energy generation (including existing and planned District Energy 
+assessment period can be established if accompanying explanations Networks), local and national carbon offsetting mechanisms. Carbon 
+are provided. offsets are required for a 30-year period of operation but there is 
+
+no specific mention of unregulated carbon and embodied carbon 
+The guidance document is recognised as industry-leading. It contains (WLCA) in this policy document. However, Policy CS 15 does state 
+a detailed methodology and list of information to be included for that development should ‘avoid demolition through reuse of existing 
+materials across a number of Life-Cycle Assessment (LCA) modules building or their main structures...’.
+(Table 1) as well as including requirements for reporting emissions for 
+demolition of existing assets on site and from refrigerants. The Local Plan is being reviewed and a replacement Plan, City Plan Figure 5: The Energy Hierarchy defines policy priorities and interim targets to Net Zero 
+
+2040, is in preparation. This City Plan will reference the London Plan’s Carbon in operation
+The Mayor of London’s London Plan 2021 sets out a clear energy carbon emissions requirements towards achieving whole life-cycle net 
+hierarchy for net zero operational carbon emissions. It defines the zero carbon emissions. The City Plan is in the process of being drafted 
+process required for reducing these emissions, clarifying local and will ensure that it aligns with the London Plan, recent Mayoral 
+priorities for heating and cooling strategies, setting minimum target guidance and best practice in the City development market.
+savings and local carbon offsetting mechanisms. The carbon savings 
+targets are based on regulated operational carbon and a 30-year 
+life-cycle. Reporting unregulated carbon is encouraged through the Related Reporting Requirements: 
+design process and building infrastructure provision. Other policy There are other carbon-related planning reports that should be taken 
+requirements are in place for on-site energy generation and energy into consideration. They include Greenhouse Gas impact assessments, 
+storage. the Circular Economy Statement, operational energy and operational 
+The Mayor of London’s ‘Energy Assessment Guidance (June 2022)’ water assessments. Where relevant, these should be referenced in 
+outlines reporting requirements for planning applications to WLCA reporting, in particular to highlight discrepancies and overlaps 
+demonstrate that the proposed climate change mitigation measures in design considerations and decisions. The related reporting 
+comply with London Plan energy policies, including the energy requirements are in Appendix 6.
+hierarchy and energy performance metrics in terms of Energy Use The current CoLC planning policy for major developments in the City 
+Intensity for regulated emissions (EUI). It introduces a new ‘be seen’ of London does not require a WLCA. However, it does require the Figure 6: The draft City Plan 2040 is currently under development targets to Net Zero 
+stage to calculate whole building EUI (including unregulated emission), achievement of a minimum BREEAM ‘Excellent’ certification rating, Carbon in operation
+
+to monitor and report its energy performance post-construction. with a provision to ideally achieve ‘Outstanding’. BREEAM does 
+This will help to ensure that the actual carbon performance of the include criteria relating to Life-Cycle Assessment, Environmental 
+development is aligned with the Mayor’s net zero carbon target. Product Declarations and Circular Economy. These aspects of design GLA benchmarks. Note that Modules B6, B7 and D (EN 15978: 2011 
+The ‘Be Seen Energy Monitoring Guidance’, (September 2021) and procurement are therefore typically addressed in proposals Sustainability of construction works. Assessment of environmental 
+explains the process that needs to be followed and reporting targeting a minimum ‘Excellent’ rating. performance of building) are excluded from the GLA WLCA 
+requirements to demonstrate compliance with the London Plan benchmarks.
+
+The BREEAM scope for Life-Cycle Assessments extends between 
+policy addressing the monitoring, verifying and reporting of energy life-cycle stages A and C, but the scope of building elements to be Table 1 in the following section outlines the typical current 
+performance after a building’s practical completion (‘Be Seen’ level of included is optional and limited compared to the GLA approach carbon reporting scopes driven by national, GLA and local policy 
+the Energy Hierarchy). It requires undertaking analysis for regulated (see Table 2, page 11). BREEAM does not currently require a post- requirements.
+and unregulated energy loads using a process such as TM54 (it is completion review of embodied carbon performance.
+aligned with the London Plan guidance for ‘Whole Life-cycle Carbon There are a number of forthcoming updates to guides and standards 
+Assessments (WLCA)’ module B6 approach. The total life-cycle carbon emissions of major, non-referable planning relating to whole life-cycle carbon and whilst the document aims 
+
+applications with reduced scopes, e.g. limited to addressing BREEAM to account for these, they may require further clarification in future 
+requirements for fewer building elements, are not comparable to updates to this PAN. 
+
+Planning advice note | City of London Corporation 8
+
+
+
+Carbon Options Guidance
+
+Table 1: Comparison of life-cycle stages. Whole life-cycle carbon Scope of whole life-cycle carbon reporting in the City of London. 
+
+2.	 Whole Life-Cycle 
+Scope (Stages based on tional –Building GLA referable Major developments Minor developments 
+
+Carbon Assessments EN 15978) Sub-groups Na
+Regulations developments in CoL in CoL* in CoL
+
+There is currently a variety of different approaches and scopes relating Impact of Existing building
+to WLCA and the information that should be included within them. 
+Table 1 includes a summary of scoping items for planning and table 2 Demolition impact of 
+includes a comparison between industry drivers such as the UK Green existing building structures 
+
+(required to be reported  
+Building Council (UKGBC), GLA, Low Energy Transformation Initiative separately for GLA)*
+(LETI) and BREEAM scopes in terms of EN 15978:2011 Sustainability of 
+construction works. The assessment of environmental performance of Product and Construction 
+
+Process (Practical 
+buildings is broken down into modules / stages and building element Completion) Stage
+groups to be included. A1-A3 Construction product 
+Modules A1-A3 include the product manufacture, modules A4-A5 supply, transport and  
+
+manufacturing
+cover transport to site and the installation processes. Combined these 
+are known as upfront embodied carbon (i.e. at Practical Completion A4-A5 Transport to site and 
+(PC) of the building). Modules B1-B5 cover operational emissions construction impacts  
+relating to use, maintenance, repair, replacement and refurbishment, 
+modules C1-C4 cover demolition, transport to a disposal facility, waste Use Stage
+process and disposal. Module D covers emissions beyond the system 
+boundary, accounting for consideration of what happens to material 
+at the end of the building life-cycle, i.e. the benefits of reusing or B1-B5 Operational 
+
+emissions  
+recycling in the net flows of materials exiting the system boundary. 
+
+In a WLCA, operational energy use, B6 and operational water use, B7,  
+are also included. 30 years for energy 30 years for energy 
+
+B6 Operational energy use # Regulated  Depends on scope of 
+strategy, 60 years strategy, 60 years works
+
+1 year for whole life carbon for whole life carbon 
+assessments# assessments#
+
+ 
+B6 Operational energy use # Unregulated 60 years for whole life 60 years for whole life 
+
+carbon assessments# carbon assessments#
+
+B7 Operational water use #  
+
+End of Life-Cycle Stage
+
+C1-C4 End of life stage 
+including deconstruction, 
+
+demolition, transport, waste  
+processing and disposal
+
+Beyond the Project Life-
+Cycle
+
+D Stages beyond the life-
+cycle, including re-use, 
+recovery, recycling
+
+* - Demolition of the existing assets is not currently required in the 2017 RICS PS WLC methodology, it is expected to be included in the 2023 version.
+# - Operational energy assessment i.e.TM54 or NABERS where possible, to enable a more accurate estimation of in use energy performance. 
+
+Planning advice note | City of London Corporation 9
+
+
+
+Carbon Options Guidance
+
+Table 2: Whole life-cycle carbon comparison of scopes vs building part element/group (full version including notes is located in Appendix 3).
+The policy drivers listed in Table 1 (previous page) and industry 
+drivers by element also vary in scope as shown in Table 2. It is Building part / Element UKGBC Full UKGBC 
+
+group Assessment Minimum GLA WLC Guide RIBA 2030 LETI Embodied BREEAM NC 2018 
+worth noting that the source documents may change and the Reporting CC Ver.2 Carbon Primer and RFO 2014***
+landscape is evolving and continually improving at pace. The GLA 
+methodology is currently the most comprehensive of all the industry YES
+methods. This states that the EN 15978 principles and the RICS 
+Professional Statement: Whole Life Carbon Assessment for the Demolition prior to Reported separately. 
+
+construction Benchmarks do not 
+Built Environment, 1st edition (November 2017) should be followed include these building 
+as a methodology. The GLA WLC Guidance also sets out some elements.
+additional requirements in Box 1, ‘Key requirements of this guidance 
+that differ from the RICS PS methodology.’ YES
+
+Facilitating works  Benchmarks do not 
+The Draft RICS Whole Life Carbon Assessments - 2nd edition was include these building 
+issued for consultation on the 7 March 2023 and the final document elements.
+will be released later in 2023. BS EN 15978 will be updated and is 
+likely to be published in Q1 of 2024, and methodologies may need NC credit option
+
+Substructure
+to be adapted to account for these changes. The COG PAN is      RFO if in scope
+designed to ensure these updates would not affect the intended 
+outcomes of the process. The current version of the guidance NC mandatory
+
+Superstructure (Frame, upper 
+should be used for the optioneering assessment, and this must be floors, roof, stairs, ramps)      RFO if in scope 
+stated in the reported assumptions. (excludes ramps)
+
+For the GLA method, a minimum of 95 per cent of the capital cost Superstructure (External NC mandatory
+allocated to each building element category should be included for walls, windows, doors)      RFO if in scope
+at each stage of the WLCA. This should be approved by the project 
+Quantity Surveyor. In addition, for building services the GLA guide NC mandatory 
+includes a list from which the applicant is required to indicate in- Superstructure (Internal walls, 
+
+partitions, doors)     education only
+scope items. RFO if in scope
+
+Finishes     RFO if in scope
+
+RFO if in scope 
+Fittings, furnishings and 
+equipment (FF and E)    to CN7 limited 
+
+furniture / shop 
+fitting
+
+NC credit option
+Building services/ MEP     RFO if in scope
+
+Prefabricated Buildings and 
+Building Units    
+
+Work to Existing Building   
+NC credit option
+
+External Works   RFO if in scope: 
+hard landscaping 
+and boundary 
+protection only
+
+Planning advice note | City of London Corporation 10
+
+
+
+Carbon Options Guidance
+
+3.	 Introduction to Carbon Optioneering
+
+This PAN provides the recommended methodology to compare a 
+number of development options in order to find the best balance 
+in carbon emission terms prior to adding other considerations 
+into the planning process.
+
+The PAN is a first step of carbon evaluation and is designed to enable 
+a consistent, early-stage approach to assessing options, and is one 
+of the first steps in the CoLC’s pursuit to achieve outstanding, best 
+in class buildings that contribute to an attractive and vibrant City 
+environment.
+
+This approach will be recommended to aid the review and decision-
+making process, through the submission of more in-depth information, 
+that demonstrates how applicants have come to a development 
+decision. This process can be relevant to various application types, 
+that have a significant proportion of new build elements. 
+
+Optioneering is required for all major schemes. Non-major 
+developments should carry out optioneering if they do not retain the 
+majority of substructure and superstructure (by mass). All schemes 
+that carry out optioneering should undertake independent third-
+party review as a quality assurance mechanism for their optioneering 
+results. 
+
+While non-major schemes that do retain the majority of the structure 
+are not required to undertake a full optioneering exercise, applicants 
+are encouraged to incorporate design approaches that minimise the 
+carbon intensity of the development. 
+
+The purpose of the optioneering exercise is to compare bespoke Figure 7: Decision tree for optioneering requirement
+development options for a particular site. Comparing options for 
+different development sites may not be possible due to the site- materials. It is also acknowledged that the majority of the existing both short term and long term, be it through the retention of buildings 
+specific conditions and context. building stock has relatively high operational emissions, primarily due or building elements or through redevelopment.
+
+to inferior energy efficiency standards and technologies at the time of 
+The WLC PAN advises on the consistent presentation of options in their construction, compared to current requirements (insulation, air This methodology recommends comparing a number of development 
+planning applications (see Dashboard 1) and requires transparency to tightness, solar control glass, building services etc.). options in order to find the best balance in carbon emission terms, 
+make the information easier to understand and assess, as part of the prior to adding other considerations into the planning balance. These 
+pre-application process. Another major contributor to existing operational emissions is the can be expressed as potential opportunities and constraints of each 
+
+common use of natural gas combustion equipment for space heating option, ensuring that all primary and secondary considerations form 
+The development of this methodology is driven by the growing and hot water. Investments in alternative renewable power sources part of the design process, so that informed decisions can be made. 
+realisation that the construction of new buildings using the most have resulted in the carbon emissions of electricity generation to These considerations frequently encountered in the decision process 
+common and current construction techniques and materials result in decrease rapidly, to almost half that of gas, and this trend is set to are set out in this section.
+high carbon emissions over the building’s life-cycle. For this reason, continue. Therefore, a feasible carbon balance needs to be explored 
+the assessment and benchmarking of embodied carbon to practical in any intervention of the built environment. This will help to provide An Excel tool has been created for reporting purposes and enables 
+completion (Modules A1-3 and A4-A5) can be used as an effective clarity about the measures that would result in the greatest whole the graphs to generate. The data generated in the tool should be 
+way to evaluate and then mitigate emissions from construction and life-cycle carbon emissions reduction for each development proposal, presented as part of a report for the planning officers . 
+
+Planning advice note | City of London Corporation 11
+
+
+
+Carbon Options Guidance
+
+4.	 Optioneering Considerations
+Quality of existing building: The condition of materials and 
+structures in an existing building will be a critical determinant 
+of the extent of elements that can be retained in an intervention 
+aimed at improving an asset and bringing it up to current 
+performance and functional market standards.
+
+For example, a structure that was poorly constructed or maintained 
+may require too many life-cycle interventions to maintain structural 
+integrity for retention to be feasible. Often, existing assets require 
+extensions to validate the Capital Expenditure (CAPEX) of a major 
+intervention. Extension potential will be dictated by structure and 
+substructure design from the existing building.
+
+Adding piles and foundations to an existing building could mean a level 
+of complexity that increases cost and programme to a degree that the 
+proposition becomes unviable. Current industry experience shows 
+that due to the construction techniques and curing of the concrete 
+in building of this age, as well as the grading of the concrete/steel 
+used at the time, particular care should be taken when considering 
+1950s/60s concrete structures. However, each project should check the 
+condition of the existing building materials quality as far as practically 
+possible, to enable informed decisions to be made. Poorly maintained 
+windows can be restored to improve air permeability, but conductivity, 
+light transmittance and solar control are difficult to achieve without 
+additional material or complete replacement.
+
+Façade interfaces: As well as quality, decisions around façade 
+retention need to take into consideration new interfaces with the 
+internal environment, for example for on-floor ventilation systems 
+and mixed-mode ventilation opportunities. The two examples are 
+increasingly being adopted by commercial buildings to improve energy 
+efficiency, spatial adaptability (as part of a health and wellbeing design 
+strategy) and to free up roof area for amenity uses.
+
+Health and wellbeing: Design considerations and interventions around 
+health and wellbeing have become more prevalent in workspace over 
+the past few years, and increasingly so in a post-pandemic era. More 
+consideration is being given to quantities of fresh air to dilute indoor 
+pollutants, for example through the application of enhanced on-floor 
+ventilation systems. Aligning a ventilation strategy to an existing façade 
+retention can be challenging. Increased fresh air rates are also leading 
+to increases in operational carbon emissions.
+
+Other design considerations for healthier internal environments 
+include internal levels of daylight and thermal comfort, which may 
+shift a decision to replacing existing glass in a refurbishment; and the 
+presence of toxic materials, such as asbestos, which could result in the 
+removal of existing building elements.
+
+Planning advice note | City of London Corporation 12
+
+
+
+Carbon Options Guidance
+
+Floor to ceiling heights: Existing floor to ceiling heights could Building complexity: Design complexity and the number of elemental Commerciality: A critical factor in decision making around the 
+constrain the functional adaptation of an existing structure and new sub-components increases carbon intensity. Therefore, simplification level of intervention in a building is the commerciality of the asset. 
+building services solutions. For example, low floor to ceiling heights of structure, façades, systems, etc. has carbon benefits and is In commercial buildings, the net lettable area and lease value are 
+may not lend themselves to certain uses, and optimised clear heights, encouraged. imperative metrics. The market in City of London is shifting demand 
+by transferring heating, cooling and ventilation plant to an underfloor for net zero carbon, fossil fuel free, health and wellbeing conscious and 
+system is often limited by existing lift lobby and stair landing levels. Procurement: The options and availability of low carbon building smarter workspace. As market demands change, a number of asset 
+
+products on the market are currently limited. In some cases, lower holders are racing to update their lettable spaces at the end of the 
+Land use and building type: It is important to note that different land carbon options are available from longer distances, increasing the next lease term. This is to ensure that buildings don’t become stranded 
+uses and building types have an effect on the structural requirements emissions associated with transport (Stage A4), although these can be assets, and equity and operating value are maintained.
+of a building due to loading expectations and flexibility requirements. comparatively minor compared to the product manufacture. However, 
+A few examples include uses that require wider clear spans, such as this is changing rapidly as manufacturing processes are adapting and The standard for what is required in a building update needs to be 
+retail, which could make the structural solution and carbon impact supply chains recognise the high value of low carbon in sections of the competitive in the market that it is trying to attract, and the cost of the 
+more intense; and uses that have higher loading requirements and market, for real estate in London in particular. intervention needs to be justified by a likely return on investment. 
+need vibration control, for example in science labs (life sciences) and 
+gymnasiums; and increased structural materials due to lateral loading Invariably, a limited quantity of higher value products is less attractive Densification: As London tries to move towards a polycentric city 
+on tall buildings. during a time of economic inflation. Applicants of major developments to release infrastructural pressures and improve quality of life, its 
+
+could be asked to state what measures they have in place to increase existing ‘mega-centres’ remain very relevant. Urban densification 
+The way a building is operated and managed also has a direct the probability of lowering embodied and operational carbon in (the increasing density of people in urban areas) is accepted as a 
+effect on operational carbon emissions from energy consumption, procurement processes. necessary part of limiting land take while serving population growth. 
+for example longer hours of operation by food and beverage Densification tends to occur in fast growing population centres with 
+establishments. Assumptions: In addition to fewer options of low carbon products, a combination of demographic change, economic pressure and large 
+
+information about the quantity of carbon in products is also limited. transport infrastructure projects. The City of London is very well 
+Power infrastructure: For the reason described in point 1 above, A requirement for EPD certificates, or similar third party verified served by sustainable transport infrastructure and planning policies 
+substituting gas-fired heating systems with energy efficient electric information, should be a requirement in procurement. For products are in place to limit pressures on utility infrastructure and the existing 
+alternatives is a very effective way of reducing operational carbon with no certified embodied carbon data, assumptions and metrics community (the people who live, work and use the City of London).
+emissions. However, in some cases, securing enough power to serve should be clear and reliable market-average databases should be 
+a development’s decarbonisation initiatives can be challenging due to used, derived from a verifiable tool or software, such as One Click LCA Densification, e.g. extensions and taller buildings, tend to increase the 
+utilities infrastructure constraints. This is another reason why reducing and Cerclos (eTool). carbon intensity of structural elements relative to benchmarks derived 
+energy demand should be prioritised. A mitigating action could be that from mid-height buildings.
+a building’s systems and controls are set to prioritise electricity and Supply chains can be constrained by a very long lead time, impacting 
+thermal storage, before gas is consumed. the construction programme and leading to product changes with Striking the right balance between the environmental (and social) 
+
+potentially higher carbon impact. costs and benefits of increasing NIA on brownfield sites is a critical 
+Buildings that apply electric heating may still have other intermittent factor that policy makers have to deal with, in particular in addressing 
+uses of fossil fuel, such as life safety generators and façade Due to market fluctuations and limitations, it is recommended that, climate change. Resilience and sustainability should be central 
+maintenance equipment. These systems require on-site storage of at application stage, the WLCA is based on market averages of priorities for increasing existing building heights.
+fuel, which is frequently diesel. Alternatives that can be explored for a committed specification, based on a Quantity Surveyor’s bill of 
+generators are secondary utility high voltage supply fed from a primary quantities. Product-specific Environmental Product Declaration 
+network substation that is independent from that of the primary (EPD) certificates should not be used in early design stages (unless 
+supply, or uninterruptible power supply equipment incorporating an the manufacturer is known, sector level data e.g. EPDs that use data 
+appropriately sized battery installation (subject to authority approval). covering several manufacturers could be used) because they may be 
+An alternative fuel that is considered due to low environmental impact giving a false impression of future procurement opportunities. This is 
+relative to diesel is Hydrotreated Vegetable Oil, a synthetic diesel, an area the industry needs to improve upon over the next few years.
+manufactured from waste products comprising a mix of vegetable oils 
+and animal/fish fats.
+
+Planning advice note | City of London Corporation 13
+
+
+
+Carbon Options Guidance
+
+5.	 Other Policy Opportunities
+This section addresses circumstances where other planning policy generation, but no consideration is given to reducing the embodied However, urban greening does not often translate into open space, 
+requirements may result in lower or higher carbon emissions. All carbon of PV and other renewable energy sources. An array in because private roof gardens and green walls are often used to satisfy 
+factors need careful consideration on a project-by-project basis, and London can achieve carbon break-even within a decade, but as the the UGF target.
+policy requirements need to be fine-tuned depending on priorities electrical grid decarbonises, there is an argument that the array will 
+discussed at pre-application stage. displace less carbon and could never recover the embodied carbon In order to increase the amount of open and green space in the City, 
+
+emitted. For this reason, it is recommended that circularity principles brownfield and lower quality space may need to be upgraded. This 
+are applied to their specification (e.g. reusable mounting and take- may result in decisions to demolish lower quality infrastructure. In 
+
+Circular Economy: back schemes) and energy storage is incorporated to increase the addition, the UGF can be difficult to achieve on existing structures 
+proportion of renewable energy uptake at time of use. mostly due to loading limits and plant requirements, however, all 
+
+The Mayor of London has introduced a requirement for referable solutions to overcome this should be explored and communicated.
+proposed developments to develop a circular economy strategy and It is important to note that PV can bring other benefits like localised 
+produce a statement as part of an application. The approach is defined power, and we tend not to factor in the impact or wider power In addition, major developments are required to carry out ecological 
+in the ‘Circular Economy Statement Guidance’ (adopted 25th March networks’ embodied carbon (i.e. the impact of the power plant surveys of the site, and propose ecological protection, enhancement 
+2022). The principles encourage building reuse, recovery of material construction upgrades, cabling etc.). PV will be a crucial piece of the and maintenance measures.
+for reuse and recycling, material efficiency, waste management and UK energy and decarbonisation strategy. 
+infrastructure to support material reuse (such as storage and collection 
+systems). Climate resilience: 
+
+District Energy Networks: Adapting to climate change is crucial in the City as a densely built 
+The circular approach often aligns with the principles of low carbon 
+interventions. For example, it encourages refurbishment and efficient Another local policy requirement is connecting to existing District environment which is especially prone to local flooding and urban 
+
+Energy Networks (DEN) or preparing for a future connection to a heat island effects. Integrating measures to minimise the risk of local 
+use of materials and requires consideration of the end-of-life stage 
+by a proposed new building (building as a material banks/materials planned DEN. This is emphasised by both the London Plan’s and draft flooding and overheating of buildings as well as the public realm are 
+
+City Plan’s heat infrastructure priorities. The City of London includes key to making the City a resilient area as the effects of climate change 
+passport approach). This area is still evolving and can significantly 
+reduce carbon. the extensive Citigen network, which is planned to extend south in become more pronounced. Space constraints and loading limits of 
+
+the near future and eastwards at a later date. However, due to the existing buildings can make it challenging to incorporate measures 
+There are, however, some circumstances where actions that align with drive to remove fossil fuel combustion from buildings, for reasons such as green roofs and walls, sustainable urban drainage measures 
+circular principles can increase carbon emissions. For example, on relating to both carbon reduction and air quality targets, electrically such as blue roofs, rainwater harvesting and attenuation tanks, 
+occasion, it has been found that recovering/repurposing a material for heated buildings tend to have much lower carbon emissions then adapted façade systems and sustainable heating, ventilation and air 
+re-use on site frequently requires the material to be reformulated into existing heat networks. This is because the Energy Centres that conditioning (HVAC) systems. Opportunities and constraints must be 
+a new high value use (or upcycled), a process that requires transport serve the DENs still run on gas systems, and while they are intended clearly communicated to identify the balance between climate change 
+to and from the site and energy to repurpose the materials. Recovering to decarbonise over time, there is very little information about their mitigation and adaptation.
+material can also lengthen construction programmes prolonging stage programme. In addition, the carbon intensity of planned networks 
+A5 of the life-cycle and local environmental impact. is unknown at this stage. Therefore, the policy can be interpreted 
+Therefore, it is important to compare the carbon emissions of the to contradict the Climate Action Plan and can impact life-cycle 
+product stages of recycled elements to their newly made equivalents aspirations, such as high NABERS UK energy ratings.
+with the lowest carbon opportunity established.
+
+Public realm and urban greening: 
+Low and zero carbon technologies: The City of London includes a network of gardens, small open spaces 
+Planning policy, building regulations and the BREEAM assessments and squares that are maintained by the Corporation. Nevertheless, the 
+have for years required the inclusion of low carbon and zero carbon area of green and open space per capita is relatively small, and the 
+technology in the energy hierarchy of proposed developments. discrepancy will increase as the population and densification rises.
+One example, and the most viable option in the City of London, is Planning policy encourages urban greening and biodiversity net gain, 
+frequently to install a maximum area of roof-mounted photovoltaics for which the City of London has adapted the London Plan’s Urban 
+(PV) and air source heat pumps (ASHPs). Policy prioritises operational Greening Factor (UGF) calculation which is required for proposed 
+energy and carbon reduction in advance of renewable energy developments to demonstrate higher value green infrastructure. 
+
+Figure 8: Circular Economy compared to Linear Economy (Source: Circular Flanders)
+
+Planning advice note | City of London Corporation 14
+
+
+
+Carbon Options Guidance
+
+6.	 Outline Methodology 3.	 Providing options information in Table A of the WLCA Dashboard 1 
+(section 7 and the Excel tool), including:
+
+The GLA’s Whole Life-Cycle Carbon Assessments Guidance and •	 Gross internal area (GIA)
+Circular Economy Statement Guidance require the full exploration •	 Net internal area (NIA) increase/change in net internal area
+of options before considering substantial demolition. This PAN 
+recommends a methodology to do so, and it recommends how this •	 Embodied carbon to practical completion (Modules A1-A5)
+should be demonstrated in the planning application.
+
+•	 Life-cycle embodied carbon (A1-A5, B1-B5, C1-C4)
+Due to the significant impact on carbon emissions and climate change 
+by major interventions and new construction, proposed developments •	 Percentage of material retained by mass for substructure, 
+need to demonstrate reduction and mitigation of carbon emissions superstructure (frame, upper floors, roof, stairs and ramps) and by 
+using a consistent optioneering approach. area for superstructure (external walls, windows external doors)
+
+Options will be developed in early discussions with applicants in •	 Pre-Construction Demolition Impact needs to be accounted 
+the pre-application process, and their details will vary on a case-by- for. For full demolition, applicants should use 50 kgCO2e/m2 of 
+case basis. The number of options will be limited and agreed based demolished area as per GLA WLC guidance.
+on presenting clearly discernible, feasible design approaches to the •	 Operational carbon from energy consumption (Module B6) (see 
+proposal in order to inform the optimum design for the application carbon factors below). Estimated operation energy consumption 
+scheme, both in WLC carbon terms and in considering other should be reported in KWh/m2 GIA per year. The assumptions 
+environmental opportunities such as urban greening and climate behind the figures provided, i.e. UKGBC target or similar, should be 
+resilience measures. stated
+Options should provide an indication of the potential for a given site. •	 EPC rating
+They should be based on the same assumptions including which Figure 9: Investments in renewable energy and infrastructure are resulting in rapid 
+energy strategy is thought to be the most advantageous in carbon •	 Fuel source for operational energy (gas, electricity, other to be decarbonisation of grid electricity compared to natural gas. SAP 10.1 was published in 
+reduction terms, in order to be able to compare the options - unless defined) October 2019 with subsequent updates.
+
+there are reasons for not doing so, which should be stated. Option •	 Carbon factor(s) used for operational energy
+review reporting and their considerations should be transparent with •	 Carbon factors
+identified opportunities and constraints. •	 Whole life-cycle carbon (A1-A5, B1-B6, C1-C4) in kgCO2e/m
+
+2GIA 
+and tCO2e Estimated annual energy consumption in kWh or kWhe 
+
+The CoLC requires all major developments to consider and assess (equivalent) must be converted to carbon using the appropriate 
+both operational and embodied carbon emissions over a whole life- •	 Opportunities and constraints, specifically in relation to carbon carbon factor. The Part L carbon emission factor figures for 
+cycle. There may be development proposals where an optioneering emissions and other policy areas. electricity should not be used as it does not account for grid 
+exercise would not provide useful information in which case the 
+consideration of options should be discussed and agreed with officers. •	 Any assumptions and justifications for the above in the estimations decarbonisation. Part L conversion factors can be seen in figure 9 
+
+for reference.
+Optioneering should also be carried out for non-major applications, 4.	 The embodied carbon of the structure should be calculated for 
+where the majority of the sub- and superstructure (by mass) is not each option using structural engineer estimations. Other elements •	 Electricity:
+
+retained. or layers can either be based on a detailed calculation, should the The Future Energy Scenarios (FES) developed by National Grid 
+information be available, or on an estimation based on percentage (https://www.nationalgrideso.com/future-energy/future-energy-
+rates from the GLA WLC (A-C, excluding B6 & B7) benchmarks. 
+
+Pre-Application stage scenarios#fullsuite) should be used for calculating the WLC impact 
+Where a different methodology/estimation is chosen, this should for life-cycle module B6. The falling short scenario (excluding 
+
+Optioneering as part of pre-application discussions with the City of be identified and explained. negative emissions and generation output from Bioenergy with 
+London should include the following: 5.	 Using consistent carbon factors across options for the type of fuel carbon capture and storage, BECCS) should be used. This aligns 
+
+used. Figure 9 shows the Part L carbon factors for Part L 2013 and with the Draft RICS Whole-life carbon assessments, 2nd edition 
+1.	 Well-considered options that are realistic and feasible 
+
+development proposal for a specific site. Part L 2021, however these figures do not account for electricity methodology.
+grid decarbonisation. For the purpose of optioneering, the electricity figure is based on 
+
+2.	 Demonstrating different levels of interventions to the existing the average decarbonisation figures over the projects design life 
+buildings on site in the design process. or Reference Study Period (typically 60 years). The FES carbon 
+
+Planning advice note | City of London Corporation 15
+
+
+
+Carbon Options Guidance
+
+factors are provided until 2050. Following this point, it should be •	 Reporting in line with the equivalent scope for the WLCA (life-cycle 
+assumed the carbon emissions flatline, i.e. they stay in line with the stage and building element scopes)
+2050 figure for the remaining years of the project.
+
+•	 Embodied carbon impact of further interventions with justifications 
+For example, a project that completes in 2025 over a 60 year provided i.e. what has been assumed. For example, estimated 
+reference study period would calculate emissions to 2085. Using impact of plant replacement every 15 years of operation over the 
+the National Grid FES 2022 ES.E.10 falling short figures this would life-cycle, using life-cycle modules B1-B5, C1-C4.
+result in an average factor of 0.0376 kgCO2/kWh.
+
+8.	 Exclude Module B7 ‘Water Consumption’ at this stage, because 
+•	 District Energy it does not vary significantly between options. Any variances, in 
+
+particular where an opportunity or constraint occurs for one option 
+Where a district energy network is used, the carbon factor should and not another, should be shown.
+be stated based on information from the network provider and 
+must be referenced in the reporting. It should also be noted that the WLCA emissions fluctuate and are likely 
+
+to be different in later design and construction stages. Generally, this is 
+•	 Gas: due to the availability of more detailed design and cost plans. Emissions 
+
+Where gas is supplied, the 0.210 kgCO2/kWh Part L figure should at practical completion may also change due to procurement variations 
+be used. Where gas is used, it will need to be converted to an and the market. As more data becomes available it will inform future 
+electric equivalent in kWh. To convert gas consumption (kWh/ projects to refine early estimations.
+m2) to electrical equivalent (kWhe/m2), multiply kWh gas by 0.75. 
+Refer to latest guidance from NABERS/BRE/BBP/UKGBC as Application stage
+appropriate.
+
+The preferred option to be developed after the pre-application 
+In Summary: optioneering should include the following:
+•	 Electricity: In line with National Grid FES falling short approach in 1.	 Justification to support the decision of the application proposal
+
+KgCO2/kWh
+2.	 Calculations of the WLCA in alignment with GLA guidance at the 
+
+•	 Gas: 0.210 kgCO2e/kWh time of the assessment, and completion of the GLA reporting 
+•	 District Network: Based on supplier information (follow GLA template spreadsheet, i.e. including all modules and building 
+
+Energy Assessment Guidance) and report assumptions in elements.
+Dashboard 1. 3.	 Clarification of the scope of the WLCA (life-cycle stage and building 
+
+•	 Should a different factor be used across options, this must be element scopes), by completion of Table B (section 7).
+declared for each option with clear justification provided. Carbon 4.	 Clarification of all assumptions, exclusions and level of certainty of 
+factors must be declared in the report. the data used in the assessments.
+
+•	 Where a mix of carbon factors are used, estimations depending on 5.	 Plotting of the life-cycle stages A1-A5, B-C (excluding B6 and B7) 
+consumption by fuel type should be calculated. against the GLA WLCA benchmarks (see Dashboard 1 Figure B):
+
+6.	 Ensuring like-for-like reporting, without bias to favour one option •	 By stage for the proposed land use
+against the others. For example, the opportunity for energy and 
+carbon improvements should be equivalent across all options, •	 By building element for Stage A1-A5 (embodied carbon to practical 
+except where constraints can be demonstrated, and the equivalent completion)
+level of aspiration to reduce elemental embodied carbon should be 
+applied equally across all options. 6.	 Reporting of the total kgCO2e/m
+
+2 GIA and the total whole life-cycle 
+carbon in tonnes.
+
+7.	 Presenting the development options on the basis of consistent, 
+assumed and proposed data including: The WLCA should be based on the cost plan in line with GLA 
+
+guidance. The GLA WLCA reporting template should be completed and 
+•	 An equivalent approach to the level of assumptions and certainty submitted to the CoLC and GLA where applicable. The post-completion 
+
+applied to embodied carbon estimates report should follow the GLA WLC guidance and include CIBSE TM 65 
+data for building services as required in the GLA guidance. 
+
+Planning advice note | City of London Corporation 16
+
+
+
+Carbon Options Guidance
+
+7.	 Dashboard in kWhe if gas is used, it will need to be converted to an electric on percentage rates from the GLA WLC benchmarks or similar 
+equivalent in kWh. To convert gas consumption (kWh/m2) to building types. Where a different methodology is chosen, this 
+electrical equivalent (kWhe/m2), multiply kWh gas by 0.75. Refer to should be identified and explained with data sets referenced.
+latest guidance from NABERS/BRE/BBP/UKGBC as appropriate.
+
+Dashboard 1:  Each option should clearly state the assumptions made in the 
+
+Pre-application Options Appraisal •	 Embodied carbon estimates: determining factors for the outputs provided.
+
+Completion of Dashboard 1 is required to improve reporting New Build The graph below demonstrates, in general terms, the relationship 
+consistency, transparency and standardisation across applications.  between carbon emitted at practical completion of a building 
+
+•	 The embodied carbon of the substructure and structure should be 
+An Excel reporting tool has been created for design teams to use.  intervention and the estimated operational carbon over the building’s 
+
+calculated for each option using structural engineer estimations.
+This should be completed and presented at pre-application stage.  life-cycle (year on year). The decarbonisation of the electrical grid and 
+The template should be completed with project information, which will •	 Other elements or layers can either be based on a detailed minor maintenance and replacement interventions during the life-cycle 
+populate some of the required graphs. calculation, should the information be available, or on an are also included. The existing building approach could not claim to be 
+
+estimation based on percentage rates from the GLA WLC (A-C, net zero carbon in operation where fossil fuels are used, and it would 
+The graph in Dashboard Figure A will need to be created separately. excluding B6 & B7) benchmarks. Where a different methodology/ be likely to undergo upgrades at some point during the 60-year period. 
+
+estimation is chosen, this should be identified and explained. It is difficult to predict decarbonisation of materials and embodied 
+
+Dashboard Input Methodology- carbon - this could be lower in future as sectors/global supply chains 
+Major Refurbishment/Retrofit decarbonise, however currently it should not be accounted for.
+
+General Recommendations: •	 The structure and substructure interventions should be calculated The cumulative carbon emissions graph (Figure A) is an example 
+The optioneering information is not based on a prescriptive method. for each option using structural engineer estimations. The type of showing options comparisons. This could vary depending on the levels 
+Assumptions and building information should be as transparent as works should be declared in the assumptions section. of intervention and scope of works, especially in relation to the minor 
+possible with assumptions clearly identified. 
+
+•	 Other elements can either be based on a detailed calculation, refurb/major refurb options. 
+Third party review will be required. should the information be available, or on an estimation based 
+
+The following recommendations have been made to guide design 
+teams:
+
+Whole life-cycle operational energy:
+•	 Scope of works should be summarised/defined for each option.
+
+•	 The information should aim to be consistent across options where 
+the fuel source is the same.
+
+•	 The recommended carbon factors for electricity and gas should be 
+used (as appropriate, see section 6). 
+
+•	 The applied carbon factor needs to be declared where district 
+heating and/or cooling is proposed, i.e. from Citigen London 
+Network. This should be listed in the assumptions. Reasonable 
+estimations of energy use intensity should be used for the whole 
+building. This should be reported based on GIA per m2. If a 
+lighter touch refurbishment is proposed, it is recommended to 
+apply general assumptions in anticipation of future policy. After 
+a 15–20-year period for example, building services upgrades 
+may be required (due to forthcoming legislation and system 
+life expectancy) as it is unlikely that the building could be left 
+operating in situ over a period of 60 years or more. For operational Dashboard Figure A: Cumulative carbon emissions (kgCO2e/m2 GIA) over a 60-year period, including whole life-cycle carbon (embodied and operational) emissions
+
+energy reporting of estimated whole building operational energy Note: The impacts of interventions are depend on the project scope. In this graph, each option has different increase in each year (based on the option’s operational carbon per year). In regard to the 
+replacements, it is assumed that each option has 3 replacements with 15-year intervals. It is also assumed that each intervention of the option results same amount of increase, and the total increase 
+of interventions equals to the In-use & End-of-life Embodied Carbon (B-C, excl. B6&B7) results of the options. See scenario for cumulative chart tab.
+
+Planning advice note | City of London Corporation 17
+
+
+
+Carbon Options Guidance
+
+Dashboard Table A: Optioneering outcomes to be presented to planning officers at the pre-application stage (refer to seperate City of London Carbon Options Tool).
+The graph (figure A, previous page) should be created on the basis of:
+
+•	 The scope of works for each option should be identified (see 
+dashboard 1) and assumptions stated. 
+
+•	 The estimated / predicted energy consumption of each option 
+should be provided. 
+
+•	 An equal rate of electrical grid decarbonisation over time applied 
+to operational energy. See section 6 Outline Methodology. 
+
+•	 An equivalent approach to the level of assumptions and certainty 
+applied to embodied carbon estimates.
+
+•	 The declared fuel source and carbon factor used.
+
+•	 An equivalent scope for the WLCA (life-cycle stage and building 
+element scopes).
+
+•	 The embodied carbon impact of further interventions to be 
+included, for instance every 15 years of operation over the life-
+cycle, using life-cycle modules B1-B5, C1-C4. Where different, 
+the method should be stated and clarified in the dashboard. This 
+could be the total B1-B5, C1-C4 emissions, split by estimated 
+intervention points. 
+
+•	 In the Excel tool a comparison graph with early estimated, 
+year on year emissions change has been provided for the 60 
+year reference period and can be used. The assumptions must 
+be stated. The Excel tool will set up estimations based on the 
+Dashboard 1 project assumptions. The graph automatically 
+updates, however the figures and intervention points can be edited 
+as required with the approach and assumptions stated in the 
+reporting.
+
+Note: Buildings will likely be de-gassed to meet future market 
+demand and policy drivers for fossil-free heating / hot water. The 
+above diagram does not currently take account of future de-gassing 
+due to unpredictability. This would necessitate the refurbishment of 
+existing heating infrastructure.”
+
+•	 In addition to the cumulative carbon emissions graph showing 
+data per square metre (Figure A), the absolute carbon emissions 
+values should be demonstrated for each option in the table (right) 
+showing the split between embodied carbon and operational 
+energy in Table A (refer to the separate Excel Tool). 
+
+Planning advice note | City of London Corporation 18
+
+
+
+Carbon Options Guidance
+
+Graphs for options should also be provided (the opposite are for illustrative 
+purposes only), number of options and assumptions may vary for the project. 
+
+Dashboard Figure B: Whole-life carbon comparison for each option in KgCO2e/m2 GIA
+
+Dashboard Figure C: Whole-life carbon comparison in total tonnes of CO2e for each option. 
+Note: the difference in floor area of options will affect the total tonnage of CO2e for each option
+
+Planning advice note | City of London Corporation 19
+
+
+
+Carbon Options Guidance
+
+Dashboard 2:  
+Application WLCA Preferred Option
+Life-cycle stage scope Building elements scope Dashboard Table D: Information in relation to the preferred option providing justification for 
+
+preference, and clarity on assumptions, exclusions and level of certainty of the data used in 
+Dashboard Table B: Life-cycle scope table for whole life-cycle carbon Dashboard Table C: Building element scope for the whole life-cycle carbon assessment the assessment
+
+Scope  
+(Modules based on EN 15978) Proposed development Building part/Element group Proposed development Comments
+
+Demolition prior to construction
+Product and construction process stage
+
+Facilitating works Justification
+
+A1-A3 Substructure
+
+A4-A5 Superstructure (Frame, upper 
+floors, roof, stairs, ramps)
+
+Use Stage Superstructure (External walls, 
+windows, doors) Exclusions
+
+B1-B5 Superstructure (Internal walls, 
+partitions, doors)
+
+B6
+SAP  TM54  NABERS UK  Finishes
+
+B7 Fittings, furnishings, and 
+equipment (FF and E) Assumptions
+
+End of life stage Building services / MEP
+
+C1-C4 Prefabricated Buildings and 
+Building Units
+
+Beyond project Life-cycle Work to Existing Building Certainty
+
+D External Works
+
+Completion of Dashboard 2 is required to provide reporting consistency, improved transparency and standardisation 
+across applications. Applicants are to complete and include it in the executive summary of the WLCA report that forms 
+part of the planning application. The GLA WLCA reporting template should also be used for submitting the final results.
+
+Applicant to identify reasons where benchmarks are exceeded for life-cycle stages and building elements, using 
+evidence of explored improvements where possible.
+
+Additional opportunities for improvements should also be identified in the application report.
+
+Planning advice note | City of London Corporation 20
+
+
+
+Carbon Options Guidance
+
+Please note:
+
+In addition to Dashboard 2 figures D & E report Whole 
+life-cycle carbon kgCO2e/m2 GIA and total tCO2e for 
+
+modules A1-A5, B1-B5, B6, B7, C1-C4 and D. Dashboard Figure D: Comparing the Upfront embodied carbon (A1-A5, excl. sequestered carbon and demolition) results of building 
+elements to the published GLA standard and aspirational benchmarks and associated percentage breakdown estimates
+
+Dashboard Figure E:  Comparing the Upfront embodied carbon (A1-A5, excl. sequestration & demolition) and In-use and End-of-life embodied 
+carbon (B-C, excl. B6&B7) results to the published GLA standard and aspirational benchmarks
+
+Planning advice note | City of London Corporation 21
+
+
+
+Carbon Options Guidance
+
+8.	 The Consideration of Options in 
+the Planning Application Process
+Planning applications received by the CoLC are expected to provide a 
+narrative of how optioneering considerations about reducing carbon 
+emissions have informed the design of an application scheme. The 
+optioneering results include high level data about whole life-cycle carbon 
+emissions and an analysis of the opportunities and constraints of each 
+option against the vision and deliverables of a site. The optioneering 
+exercise is designed as a tool in the discussion and negotiation of a 
+proposal in the early pre-application stage between applicants and 
+planning officers to help optimise the design of the application scheme. 
+
+This methodology is not designed to link the optioneering designs and 
+results to the details of the planning application scheme as the latter is 
+based on more, and perhaps different, design detail compared with the 
+options. The chosen option should follow the GLA WLC assessment 
+guidance for the application and achieve the current benchmark guidance.
+
+Once a planning application scheme has been given planning permission, 
+the Energy, Whole Life-Cycle Carbon and Circular Economy strategies 
+of the approved scheme will be further detailed and approved during the 
+planning conditions stages. The CoLC will monitor post-completion results 
+that are required to be submitted by condition. 
+
+The methodology set out in the previous chapters will be updated 
+as frequently as necessary to reflect the latest scientific advances, 
+technologies, policies and regulations.
+
+Planning advice note | City of London Corporation 22
+
+
+
+Carbon Options Guidance
+
+Appendix 1 Climate Action 
+Strategy 2020-2027
+
+Headlines Our climate vision, aims and goals
+Through this strategy the City Corporation Our vision
+commits to achieving:
+
+•	 The City of London is Responsible, 
+•	 Net zero by 2027 in the City Corporation’s operations Sustainable and Competitive
+•	 Net zero by 2040 across the City 
+
+Corporation’s full value chain Our aims
+•	 Net zero by 2040 in the Square Mile •	 To support the achievement of net zero 
+•	 Climate resilience in our buildings, public To build climate resilience
+
+spaces and infrastructure •	 To champion sustainable growth
+Across the Square Mile we will:
+•	 Work with all stakeholder groups to Our goals
+
+accelerate the transition to net zero For the City of London Corporation:
+•	 Support SMEs to reach net zero •	 City of London Corporation scope 1 and 2 emissions are net 
+•	 Invest in making the Square Mile more resilient zero by 2027 and scope 3 emissions are net zero by 2040.
+
+to extreme weather and flooding •	 The City of London Corporation and its assets 
+At the City Corporation we will do this are resilient to climate change.
+through major investments in: •	 The City of London Corporation supports UK and overseas 
+•	 Improving energy efficiency at our organisations to become climate responsible.
+
+investment and corporate properties
+•	 Aligning our investment portfolio with the Paris Agreement For the Square Mile’s fabric and function
+
+•	 Enhancing carbon removal in our open spaces •	 The Square Mile’s scope 1, 2 and 3 emissions 
+(BASIC+ definition) are net zero by 2040.
+
+•	 Protecting our shared natural resources
+•	 The Square Mile’s buildings, public spaces and 
+
+•	 Driving net zero through our supply chain infrastructure are resilient to climate change.
+•	 Integrating climate considerations into all our decisions
+
+For society
+•	 People in the Square Mile and beyond benefit from a 
+
+clean, green and safe environment and job creation.
+
+Planning advice note | City of London Corporation 23
+
+
+
+Carbon Options Guidance
+
+The first six years
+Actions to support the achievement of net zero
+The City of London Corporation
+•	 Transform the energy efficiency of our operational buildings 
+
+through the adoption of best available technologies
+
+•	 Maximise the use of renewable energy sources across our operational buildings
+
+•	 Introduce new land management practices across our open 
+spaces aiming to maximise their ability to remove carbon, 
+and optimise their biodiversity and resilience value
+
+•	 Align our financial investment portfolio with the goals 
+of the Paris Agreement on climate change
+
+•	 Embed circular economy principles into our capital projects 
+and reduce carbon intensity by using life cycle carbon and 
+cost assessment techniques and design specifications
+
+•	 Accelerate the move to net zero carbon and energy efficient tenanted 
+buildings, working closely with tenants to achieve shared goals
+
+•	 Strengthen our requirements and supplier engagement to drive performance 
+and innovation in delivering sustainable products and solutions
+
+•	 Upskill our workforce on net zero
+
+The Square Mile
+•	 Work with other organisations to develop a Climate Action Fund to invest 
+
+in effective zero carbon technologies and accelerate decarbonisation
+
+•	 Develop a Square Mile renewable energy strategy Use our 
+planning role to influence others to embed carbon analysis 
+and circular economy principles in capital projects
+
+•	 Advocate the importance of green spaces and urban greening as natural 
+carbon sinks, and their contribution to biodiversity and overall wellbeing
+
+•	 Support organisations in the Square Mile to build circular, 
+low carbon and resilient supply chains
+
+•	 Provide tailored support to SMEs on their decarbonisation journeys
+
+•	 Increase engagement and communications about sustainability 
+with residents, businesses, visitors and other stakeholders
+
+Planning advice note | City of London Corporation 24
+
+
+
+Carbon Options Guidance
+
+Actions to build climate resilience Actions to champion sustainable growth
+The City of London Corporation The City of London Corporation
+•	 Build on our existing work to develop an early warning system, and •	 Mobilise capital into sustainable finance •	 Work with the financial services sector and UK Government to 
+
+clear resilience strategies for pests and diseases across our ports promote and scale sustainable finance products and services that 
+and markets, driving down the climate related food security risks •	 Secure the UK’s place as a leader for investment countries and corporates need to help them transition to net zero
+
+in sustainable finance products
+•	 Embed resilience measures into our upgrade •	 Influence and support the delivery of technical solutions 
+
+plans for our owned and operated buildings •	 Help faster development and adoption of to increase comparability of data and ease of reporting
+sustainable finance products and services
+
+•	 Upskill our workforce on climate resilience •	 Share learning and best practice about the challenges 
+•	 Share best practice on standards, tools, platforms and expertise and opportunities of our net zero journey
+
+•	 Embed a climate resilience lens into all our decision-making to facilitate green and sustainable investment and growth
+•	 Address existing inequalities and ensure no one is left behind
+
+The Square Mile •	 Encourage global movement towards disclosure and 
+production of credible transition plans as the norm •	 Prepare people for skills needed in a net zero economy
+
+•	 Make the Square Mile public realm more climate •	 Foster an ambition to achieve net zero emissions by 2050 or •	 Facilitate collaborative action on air pollution in London
+change ready through adding in more green spaces, sooner for UK-based financial and professional services firms
+urban greening, flood resistant road surfaces, adaptable •	 Reduce pollution and increase the resilience of the Square Mile
+planting regimes and heat resistant materials •	 Join other investors working through development and 
+
+implementation of net zero transition action plans •	 Reduce air pollution through implementing our 
+•	 Reduce the risk of flooding through developing sustainable ambitious air quality and transport strategies
+
+rain and surface water management policies, resulting •	 Support financial institutions committing to net zero in 
+in a connected system of water recycling, sustainable the 2040s at the latest, covering all emissions, including •	 Embrace circular economy principles 
+urban draining and rainwater management measures scope 3 and where data allows reliable measurement across our strategies and work
+
+•	 Strengthen our planning guidance on climate •	 Support charities and SMEs to consider, prepare •	 Work with our creative and educational sector 
+resilience measures for new developments for and lead the response to climate change partners to deliver sustainable initiatives
+
+•	 Work with our partners to create a more climate resilient •	 Promote responsible procurement and investment practices •	 Enhance greening and biodiversity across 
+and diversified energy network across the Square Mile our public realm and open spaces
+
+•	 Enhance the UK/London’s capacity to finance sustainable 
+•	 Develop a strong, data-led approach to deepen our understanding investment opportunities globally, including emerging markets
+
+of climate related risks and mitigations across the Square Mile
+
+•	 Ensure that we continue to protect the residents, critical 
+assets, infrastructure and heritage of the Square Mile
+
+Planning advice note | City of London Corporation 25
+
+
+
+Carbon Options Guidance
+
+Appendix 2 Related Reporting Requirements
+
+Non-policy related reporting 
+for net zero carbon
+Over the past three years, the UK property industry has done more 
+to advance the environmental agenda than ever before. Developers, 
+consultants and professional bodies have come together to declare a 
+climate and biodiversity emergency and have taken concrete action. 
+Together we have developed much needed clarity and guidance on how 
+to truly achieve zero carbon by 2030.
+
+Property lenders, investors, asset managers and occupiers are all driving 
+this shift by demanding a very high standard of environmental, social 
+and governance policy as a prerequisite to any transaction. This trend is 
+increasing rapidly across all workplace environments, both for new and 
+existing assets.
+
+A number of businesses have declared that they have become net zero 
+carbon in operation across portfolio assets and activity within their 
+control. These declarations in the London market tend to align with the 
+World Green Building Council or UK Green Building Council Definition 
+Framework and consists of accounting for and reducing carbon emissions, 
+investing in renewable energy, offsetting residual carbon through accepted 
+credit frameworks and publicly disclosing their pathway.
+
+Other approaches adopted by applicants that vary in scope to planning 
+policy requirements include:
+
+•	 The Low Energy Transformation Initiative (LETI) targets and scope
+
+•	 The UKGBC Net Zero Carbon Definition Framework and benchmarks
+
+•	 The forthcoming Net Zero Carbon Buildings Standard. Note: this 
+initiative is currently in the early stages of development. Once 
+requirements become available, they should be a valuable point of 
+reference for planners and project teams to assess proposals. 
+
+Low Energy Transformation 
+Initiative (LETI)
+LETI has recently published several design guidance documents that 
+set out a trajectory of embodied carbon and operational energy targets 
+required to address the climate emergency. The WLCA scope associated 
+with their targets is limited to stages A1-A5 to practical completion.
+
+ Figure 10: Example of LETI Carbon best practice targets for Commercial offices from figure 7.1 LETI Embodied Carbon Reduction Targets towards Whole Life Net Zero, 
+Leti Embodied Carbon Primer (Jan 2020)
+
+Planning advice note | City of London Corporation 26
+
+
+
+Carbon Options Guidance
+
+UKGBC Net Zero Carbon Buildings 
+Framework Definition
+The UKGBC sets out guidance in consultation with the industry to Table 3: Energy performance targets for buildings targeting net zero carbon for operational energy, Net zero carbon: energy performance targets for offices UKGBC, January 2020.
+
+define net zero carbon. At time of writing this planning guidance, 
+a building can claim to be net zero carbon in construction or Interim Targets Interim Targets Interim Targets Paris Proof Target
+in operation or in both. UKGBC has published benchmarks for Scope Metric
+operational energy with a trajectory to net zero carbon, but none for 2020-2025 2025-2030 2030-2035 2035-2050
+embodied carbon at this time.
+
+The framework requires third party review of whole life-cycle 
+assessments and operational energy assessments, including a Whole building kWhe/m2(NLA)/
+
+energy Year 160 115 90 70
+minimum carbon reporting template and information that needs to be 
+publicly disclosed. Notably, key differences between the UKGBC Net 
+Zero Carbon definition and the London Plan definition are shown in 
+the following table.
+
+kWhe/m2(GIA)/Year 130 90 70 55
+Since the above by the UKGBC took place. Leading industry 
+organisations BBP, BRE, the Carbon Trust, CIBSE, IStructE, LETI, 
+RIBA, RICS, and UKGBC have joined forces to champion a UK Net 
+Zero Carbon Building Standard.
+
+DEC rating D90 C65 B50 B40
+The UK Net Zero building standard aims to be launched at the end of 
+2023/early 2024. The Standard will cover more building typologies and 
+set out metrics by which net zero carbon performance is evaluated, as 
+well as performance targets, or limits, that need to be met. These are Base building kWhe/m2(NLA)/
+likely to include energy use, upfront embodied carbon, and life-cycle energy Year 90 70 55 35
+embodied carbon, with other metrics– such as space heating/cooling 
+demand and peak load– also to be considered. It will also cover the 
+approach to carbon accounting, procuring renewable energy, and the 
+treatment of residual emissions, including carbon ‘offsetting’. However, kWhe/m2(GIA)/Year 70 55 45 30
+the scope and output of the Standard may evolve throughout the 
+development process. The NZC Standard will cover all building types. 
+
+It is expected that claims will be required to be validated based on in- NABERS UK star 
+use measured data and interim verification of an asset at design stage rating 4.5 5 5.5 6
+or once the asset is built but not yet operating may also be considered.
+
+Tenant energy kWhe/m2(NLA)/
+Year 70 45 35 35
+
+Planning advice note | City of London Corporation 27
+
+
+
+Carbon Options Guidance
+
+Comparison of Net Zero Table 4: Comparison on UKGBC net zero carbon and London Plan net zero carbon definitions
+
+Carbon Definitions
+UKGBC Net Zero Carbon London Plan Net Zero Carbon
+
+Minimum reporting Stages A1-A5, B4 for 
+superstructure ext. walls and windows/external 
+doors, B6 operation energy.
+
+Whole Life-Cycle carbon Modules A-D (B6, B7, and D not included 
+Full Assessment Modules A-C in benchmarks).
+
+Part L2 regulated carbon assessment used 
+Regulated operational carbon to determine net zero carbon target
+emissions from energy use Includes all energy use within declarant’s control TM54 required for ‘be seen’ (non-
+
+residential)
+
+Unregulated energy to be estimated and 
+infrastructure in place to monitor, verify and 
+report all annual energy consumption.
+
+Unregulated operational carbon NABERS UK Design for Performance (see 
+emissions from energy use Includes all energy use within declarant’s control below) encouraged for commercial office 
+
+buildings 5,000m2
+TM54 requires for ‘be seen’ (non-
+residential)
+
+Priority for on-site renewables, but offsite 
+Renewable energy generation Onsite and off-site renewables renewables are acceptable alternative to 
+
+carbon offset (conditional)
+
+Offset all residual carbon using an approved 
+international or domestic carbon offset standard, Offset residual carbon relative to 100% 
+applying standard market rates. UKGBC regulated carbon savings only, determined 
+
+Carbon offsetting recommend also using higher rate from HMT by Part L2 target. Carbon offset is 
+Green Book at the time of offset to create recommended as £95/tonnes CO2 paid in 
+Transition Fund for further decarbonisation advance and for a 30-year life-cycle
+
+Planning advice note | City of London Corporation 28
+
+
+
+Carbon Options Guidance
+
+Appendix 3  
+Detailed Building Element Scope
+Table 5 compares the UKGBC, GLA, LETI and BREEAM reporting 
+scopes for building elements in more detail from Table 2 in section 2.
+
+Planning advice note | City of London Corporation 29
+
+
+
+Carbon Options Guidance
+
+Table 5: Detailed comparison of scopes per building part element/group
+
+UKGBC UKGBC
+Building part/ GLA RIBA LETI BREEAM
+Element group Building Element Full Minimum  EC 
+
+Assessment Reporting WLC Guide 2030 CC
+Ver.2 Primer NC 2018 and RFO 2014***
+
+Demolition prior to 
+construction 0.1 Toxic/Hazardous/Contaminated Material Treatment YES#
+
+0.2 Major Demolition Works YES#
+
+Facilitating works 0.3 and 0.5 Temporary/Enabling Works  YES#
+
+0.4 Specialist groundworks  YES#
+
+Substructure 1 Substructure      NC credit option, RFO if in 
+scope***
+
+2.1 Frame
+Superstructure 2.2 Upper Floors NC mandatory, RFO if in scope 
+
+2.3 Roof      (excludes ramps)***
+2.4 Stairs and Ramps
+
+Superstructure 2.5 External Walls , RFO if in 
+2.6 Windows and External Doors      NC mandatory
+
+scope***
+
+Superstructure 2.7 Internal Walls and Partitions atory education only, 
+2.8 Internal Doors     NC mand
+
+RFO if in scope***
+3.1 Wall finishes
+
+Finishes 3.2 Floor finishes     RFO if in scope***
+3.3 Ceiling finishes
+
+Fittings, furnishings 
+and equipment 4.1 Fittings, Furnishings and Equipment incl. Building-related* and RFO if in scope to CN7 limited 
+
+(FF&E) non-building related**    furniture/shop fittings***
+
+Building services/
+MEP 5.1–5.14 Services incl. Building-related* and non-building related**     NC credit option, RFO if in 
+
+scope***
+
+Prefabricated 
+Buildings and 6.1 Prefabricated Buildings and Building Units    
+Building Units
+
+Work to Existing 
+Building 7.1 Minor Demolition and Alteration Works   
+
+8.1 Site preparation works
+8.2 Roads, paths, paving and surfacing
+8.3 Soft landscaping, planting and irrigation systems
+
+External Works 8.4 Fencing, railings and walls NC credit option RFO if in 
+8.5 External fixtures   scope: hard landscaping and 
+
+boundary protection only***
+8.6 External drainage
+8.7 External services
+8.8 Minor building works and ancillary buildings
+
+* Building-related items are building-integrated technical systems and furniture, fittings and fixtures built into the fabric or included in the shell and core specification. Building-related MEP and FFE typically include the items classified under shell and
+** Non-building-related items are loose furniture, fittings and other technical equipment like desks, chairs, computers, refrigerators, etc. Such items are usually part of Category B fit-out. Therefore, for shell and core construction this is not part of the assessment scope.
+***BREEAM NC = BREEAM New Construction 2018; BREEAM RFO = BREEAM Refurbishment and Fit-out 2014
+# Reported separately. Benchmarks do not include these building elements
+
+Planning advice note | City of London Corporation 30
+
+
+
+Carbon Options Guidance
+
+Appendix 4  
+GLA WLCA Pre-App Reduction Principles Proforma
+No. WLC reduction principles Key benefits
+
+1 Reuse and retrofit of existing buildings Retaining existing built structures for reuse and retrofit, in part or as a whole, should be prioritised before considering substantial demolition, as 
+this is typically the lowest-carbon option. Significant retention and reuse of structures also reduces construction costs and can contribute to a 
+smoother planning process.
+
+2 Use re-purposed or recycled materials Using repurposed or recycled or materials, as opposed to newly sourced materials, typically reduces the carbon emissions from constructing a 
+new building and reduces waste.
+This process would start by reviewing the materials already on site for their potential for inclusion into the proposed scheme. Many of the currently 
+available standard products already include a degree of recycled content.
+
+3 Material selection Appropriate low-carbon material choices are key to carbon reduction. Ensuring that materials are selected with consideration of the planned life 
+expectancy of the building reduces waste, the need for replacements, and the in-use costs. It is important to note that the overall lifetime carbon 
+emissions of a product can be as much down to its durability as to what it is made of. For example, bricks may have high carbon emissions in 
+terms of their manufacture, but they have an exceptionally long and durable life expectancy. The selection of reused or recycled materials and 
+products, plus products made from renewable sources, will also help reduce the carbon emissions of a project.
+
+4 Minimise operational energy use A ‘fabric first’ approach should be prioritised to minimise the heating and cooling requirement of a building and the associated systems. Naturally 
+ventilated buildings avoid the initial carbon and financial costs of a ventilation system installation, and the repeat carbon and financial costs of its 
+regular replacement.
+
+5 Minimise the carbon emissions associated with Carbon emissions from water use are largely due to the materials and systems used for its storage and distribution, the energy required to transfer 
+operational water use it around the building, and the energy required to treat any wastewater. The choice of materials used and the durability of the systems, which help 
+
+avoid leakage and resulting damage to building fabric, are therefore key aspects of reducing the carbon emissions of water use. On-site water 
+collection, recycling and treatment, and storage can have additional positive environmental impacts as well as reducing in-use costs.
+
+6 Disassembly and reuse Designing for future disassembly ensures that products do not become future waste, and that they maintain their environmental and economic 
+value.
+A simple example is using lime rather than cement mortar - the former being removable at the end of a building’s life, the latter not. This enables 
+the building’s components (e.g. bricks) to have a future economic value as they can be reused for their original purpose rather than becoming 
+waste or recycled at a lower level (e.g. hardcore in foundations). 
+Designing building systems (e.g. cladding or structure) for disassembly and dismantling has similar and even broader benefits. Ease of disassembly 
+facilitates easy access for maintenance and replacement leading to reduced maintenance carbon emissions and reduced material waste during 
+the in use and end-of-life phases. This leads to the potential for material and product reuse which also reduces waste and contributes to the 
+circular economy principle.
+
+7 Building shape and form Compact efficient shapes help minimise both operational and embodied carbon emissions from repair and replacement for a given floor area. This 
+leads to a more efficient building overall, resulting in lower construction and in-use costs. A complex building shape with a large external surface 
+area in relation to the floor area requires a larger envelope than a more compact building. This measure of efficiency can be referred to as the ‘wall 
+to floor ratio’, or the ‘heat loss form factor’. This requires a greater use of materials to create the envelope, and a potentially greater heating and/or 
+cooling load to manage the internal environment.
+
+Planning advice note | City of London Corporation 31
+
+
+
+Carbon Options Guidance
+
+No. WLC reduction principles Key benefits
+
+8 Regenerative design Removing carbon from the atmosphere through materials and systems absorbing it makes a direct contribution to carbon reduction. Examples 
+include unfinished concrete, some carpet products and maximising the amount of vegetation.
+
+9 Designing for durability and flexibility Durability means that repair and replacement is reduced which in turn helps reduce lifetime building costs. A building designed for flexibility can 
+respond with minimum environmental impact to future changing requirements and a changing climate, thus avoiding obsolescence which also 
+underwrites future building value. Buildings designed with this principle in mind will be less likely to be demolished at their end-of life as they 
+lend themselves to future refurbishment. Examples include buildings being designed with ‘soft spots’ in floors to allow for future modification and 
+design, as well as non-structural internal partitions to allow layout change.
+
+10 Optimisation of the relationship between Optimising the relationship between operational and embodied emissions contributes directly to resource efficiency and overall cost reduction. For 
+operational and embodied carbon example, the use of insulation has a clear carbon benefit whereas its fabrication will generate carbon emissions. This means that it is important 
+
+to look not only at the U-value of insulation, but also the carbon emissions from the manufacture and installation of different product options. 
+Avoiding fully glazed façades will reduce cooling demand and limits the need for high-carbon materials (glass units, metal frame, shading device 
+etc.) at both the construction and in-use stages through wholesale replacements.
+
+11 Building life expectancy Defining building life expectancy gives guidance to project teams as to the most efficient choices for materials and products. This aids overall 
+resource efficiency, including cost efficiency and helps future-proof asset value.
+
+12 Local sourcing Sourcing local materials reduces transport distances, and therefore supply chain lengths; and has associated local social and economic benefits, 
+e.g. employment opportunities. It also has benefits for occupiers as replacement materials are easier to source. Transport type is also highly 
+relevant. A product transported by ship will have significantly lower carbon emissions per mile than one sent by HGV. A close understanding of 
+the supply chain and its transport processes is therefore essential when selecting materials and products.
+
+13 Minimising waste Waste represents unnecessary and avoidable carbon emissions. Buildings should be designed to minimise fabrication and construction waste, 
+and to ease repair and replacement with minimum waste, which helps reduce initial and in-use costs. This can be achieved through the use 
+of standard sizes of components and specification and by using modern methods of construction (MMC).  Where waste is unavoidable, the 
+designers should establish the suppliers’ processes for disposal or preferably reuse or recycling of waste.
+
+14 Efficient construction Efficient construction methods (e.g. modular systems, precision manufacturing and MMC) can contribute to better build quality, reduce 
+construction-phase waste and reduce the need for repairs in the post completion and defects period (snagging). These methods can also enable 
+future disassembly and reuse with associated future carbon savings.
+
+15 Lightweight construction Lightweight construction uses less material, which reduces the emissions of the building as there is less material to source, fabricate and deliver 
+to site. Foundations can then also be reduced with parallel savings. Lightweight construction can also be easier to design for future disassembly 
+and reuse. The benefits of lighter construction should be seen in the context of other principles such as durability.
+
+16 Circular economy The circular economy principle focuses on a more efficient use of materials which in turn leads to financial efficiency. Optimising recycled 
+content, reuse and retrofit of existing buildings; and designing new buildings for easy disassembly, reuse and retrofit, and recycling as equivalent 
+components for future reuse are essential. The use of composite materials and products can make future recycling difficult. Where such products 
+are proposed, the supplier should be asked for a method statement for future disposal and recycling.
+
+Planning advice note | City of London Corporation 32
+
+
+
+Carbon Options Guidance
+
+Appendix 5 Table 6: Number and types of commercial development applications in the City of London.
+
+Planning Application Trends Project type Year(s) Number of 
+applications FULMAJ FULEIA FULL GLA referable
+
+An evaluation of planning applications and types has been undertaken 
+based on the City of London Development Schedule ‘Development Office 2014 - March
+Schedules March 2021 -Updated Jan’ issued to Hilson Moran by CoLC. 2021 37 15 11 11 4
+
+This review was undertaken to establish trends and to provide the 
+evidence base to support this guidance document. Office March 2021 - 2022 9 4 5 0 8
+The majority of applications, 76% (of which 40% where GLA referable), 
+fall under the City’s definition of major development (> 1,000m2) and/
+or require an environment impact assessment. This demonstrates that Total 46 19 16 11 12
+the greatest proportion of projects are likely to have the largest carbon 
+impact and therefore should be required to mitigate it.
+
+The remaining applications are varied full applications covering change 
+of use and extensions (24%). These are broken down as follows: Percentage 100% 76% 24% 41%
+
+Hotel/Student 
+accommodation 2012 - 2021 9 5 0 4 2
+
+Percentage 100% 56% 44% 22%
+
+Other (law court, 
+police + commercial 2021 1 1 1
+
+Percentage 100% 100%
+
+Table 7: Number of full planning applications, excluding major application, by development type.
+
+dings Refurbishment Refurbishment 
+Percentage Full Change of Use - New Buil
+
+Partial Building Extension only with Change of with Change of without Change 
+Use Use of Use
+
+Office 11 1 4 2 2 2
+
+Percentage by 
+type 100 9 36 18 18 18
+
+Planning advice note | City of London Corporation 33
+
+
+
+Carbon Options Guidance
+
+The following is a breakdown of office applications by size. The Table 8: Size of office development applications in the City of London.
+
+majority have an area above 10,000m2 (76%). This also confirms the 
+trend for larger scale applications with potentially bigger impacts. 
+
+Project type Total 1,000 - 5,000sqm 5,001 - 10,000sqm 10,001 - 15,000sqm 15,000sqm +
+
+Conclusion
+Based on the above, it is reasonable and recommended to follow the Office 46 9 2 5 30
+GLA approach for a WLCA to provide a consistent approach across 
+the City of London.
+
+Percentage 100 20 4 11 65
+Advantages:
+
+•	 Leads to consistent and more transparent results;
+
+•	 Will create a uniform and well-understood approach across the 
+industry;
+
+•	 Will build consistency around the metrics used over time;
+Table 9: WLC sample from recent projects submitted for planning to the City of London.
+
+•	 Can be compared to GLA benchmarks for benchmarking;
+
+•	 Future-proofs policy updates across London; Circular Whole Life- onal 
+Economy Cycle Carbon Operati
+
+•	 Greater awareness of impacts could lead to better design Assessment Energy
+
+decisions and to greater carbon savings.
+lue Value
+
+Disadvantages: Project Size  Land use Referable Building Va
+
+(GIA m2) class/e major Options Life-Cycle 
+s scope elements kgCO2e/ Scope kgCO2e/
+
+scope
+•	 Will require additional time and detail from the design team m2GIA m2GIA
+
+for evaluation and assessment. However, the assessment will 
+contribute to the justification for the application proposal and may A (draft GLA (draft 
+
+14-21 Demolish GL
+guidance) 
+
+help with achieving a successful outcome. 670 925**
+Holborn 35,948 Class E FULMAJ and rebuild, guidance)
+
+Estimated
+The review of data concludes that there is a need for emissions to be Viaduct Referable Mitigate WLC 
+
+A1-A5, B1-B5, 
+impacts spreadsheet (Stage 2) (Stage 2)
+
+C1-C4, D submitted
+accounted for and for options to be considered in the City of London 
+for all major applications. Full major applications are to consider GLA (draft 768
+development options and carbon impacts, applying the methodology guidance) State followed 
+presented in this document. 115-123  E  FULMAJ Demolish 
+
+and rebuild, GLA (draft (+25% 844*
+Houndsditch 66,867 Class
+
+(Sui Generis) Not Estimated
+Following the optioneering CoLC expects that all major developments Referable Mitigate A1-A5, B1-B5, guidance) factor used) 
+
+impacts C1-C4 (Excludes (Stage 2)
+undertake a whole life-cycle carbon assessment (WLCA) for the final module D)
+application for the chosen option. 
+
+Within this is a requirement to review building options accounting GLA (draft GLA (draft 
+Demolish guidance) guidance)
+
+for carbon in a more consistent way, to ensure the best choices are 120 Fleet 
+made. There will always be some carbon emissions associated with Street** 61,135 Class E FULEIA and rebuild, 
+
+Referable Mitigate A1-A5, B1-B5, WLC 753 Estimated 1,321
+developments. However, there is a duty to try and limit them wherever impacts spreadsheet 
+
+C1-C4, D
+possible and for the CoLC to be able to make informed decisions in submitted
+line with the CoLC’s Climate Action Strategy.	 *TM54 not provided, source of operational energy use unclear
+
+** Project is using early NABERS DfP model for operational energy use rather than the CIBSE TM54 approach
+  *** Multiple buildings indicated but only 1 WLCA sheet submitted for main development
+
+Planning advice note | City of London Corporation 34
+
+
+
+Carbon Options Guidance
+
+Appendix 6  
+Related Reporting Requirements
+There are other carbon-related planning reports that should be The process and content of a GHG assessment is structured by 
+taken into consideration. They include Greenhouse Gas impact the IEMA guidance and should not preclude the need for a WLCA. 
+assessments, the Circular Economy Statement, operational energy In many cases, the information in relation to carbon in a GHG 
+and operational water assessments. Where relevant, these should be assessment may differ from that of a WLCA due to timing and the 
+referenced in WLCA reporting, in particular to highlight discrepancies accuracy of information available at the time of assessment.
+and overlaps in design considerations and decisions.
+
+Greenhouse Gas Reporting in Environmental Impact 
+Assessments IEMA Greenhouse Gas Management Hierarchy (updated 2020)
+ A greenhouse gas (GHG) is a gas that absorbs and emits radiant 
+energy within the thermal infrared range, essentially, they trap heat 
+causing the greenhouse effect. Very large developments, such as 
+infrastructure projects and high-rise buildings, usually require a GHG Eliminate
+chapter within the Environmental Impact Assessment scoping for a •	 Influence business decisions/use to prevent GHG emissions across life-cycle
+planning application. •	 Potential exists when organisations change, expand, rationalise or move business
+In February 2022 the Institute of Environmental Management and •	 Transition to new business model, alternative operation or new product/service
+Assessments (IEMA) published an update to their guide ‘Assessing 
+Greenhouse Gas Emissions and Evaluating their Significance’ (2nd ed.) 
+to align with government and industry agendas. The methodology for Reduce
+writing this environmental impact assessment chapter includes a full 
+life-cycle scope, aligning with parts of the GLA WLCA method referred •	 Real and relative (per unit) reductions in carbon and energy
+to above. The approach covers similar themes but may not be as •	 Efficiency in operations, processes, fleet and energy management
+detailed as a full WLCA due to the timing of the assessment. •	 Optimise approaches (e.g. technology) and digital enablers
+The differences in the approach include:
+
+1.	 The range of gases is broader than carbon (carbon dioxide CO2) 
+and includes methane (CH4), nitrous oxide (N2O), and ozone (O3); Substitute
+
+•	 Adopt renewables/low-carbon technologies (on site, transport etc.)
+2.	 The scope of emitters is broader, including for example emissions 
+
+from operational transport and leaking F-gases (refrigerants). •	 Reduce carbon (GHG) intensity of energy use and of energy purchased
+Note, the GLA requires separate calculation of refrigerant •	 Purchase inputs and services with lower embodied/embedded emissions
+emissions in the reporting WLCA template;
+
+3.	 The proposal is compared to a current baseline; Compensate
+4.	 Exclusions, metrics, data quality, degree of uncertainty and 
+
+mitigation measures need to be defined; and •	 Compensate ‘unavoidable’ residual emissions (removals, offsets etc.)
+•	 Investigate land management, value chain, asset sharing, carbon credits
+
+5.	 GHG assessments can be carried out a lot earlier than a detailed 
+application WLCA (to GLA standards), for example for an Outline •	 Support climate action and developing markets (beyond carbon neutral)
+Planning Application, and therefore the data tends to be based on 
+industry averages/benchmarks. Table 10: GHG Management Hierarchy, 2020 (Source: EIMA, Assessing Greenhouse Gas Emissions and Evaluating their Significance’ (2nd edition.)
+
+Planning advice note | City of London Corporation 35
+
+
+
+Carbon Options Guidance
+
+GLA Pre-application Optioneering
+The London Plan Guidance ‘Whole Life-Cycle Carbon Assessments’  [Outline the options that have been considered - plus an explanation of 
+
+Confirmation that options for retaining existing buildings and structures 
+(March 2022) explains how to calculate WLC emissions and the opportunities and limitations, and why demolition outweighs the benefits of 
+
+have been fully explored before considering substantial demolition
+information to be submitted to comply with the policy, including the retaining existing buildings/structures where applicable]
+scope required. It also includes information on design principles and 
+WLC benchmarks (by life-cycle stage) to aid planning applicants 
+in designing buildings that have low operational carbon and low [If estimates are not possible, please apply standard assumption of 
+embodied carbon. Carbon emissions associated with pre-construction demolition (kgCO2e) 
+
+50kgCO2e/m2 of the existing building/s]
+A WLC assessment template needs to be completed in four parts, 
+namely, at pre-application, planning submission (outline and details) 
+and post construction (prior to occupation).
+
+Estimate of the percentage of the new build development which will be 
+[e.g. X% existing facades; Y% existing foundations; Z% superstructures etc.]
+
+The GLA encourages WLC assessments on major applications made up of existing elements
+that are not referable to the Mayor. The CoLC is supportive of this 
+approach and requires that they are provided as part of the planning 
+application in line with the GLA requirements. In addition to the above, Table 11: Retention of existing building and structures from the GLA WLCA assessment 
+
+template, March 2022
+planning officers request, by condition, a more detailed update of 
+the WLCA following the detailed design phase (RIBA Stage 4) prior 
+to construction when more design and procurement information is If substantial demolition is proposed, applicants will need to 
+available to the project team. This is to ensure that the CoLC is aware demonstrate that the benefits of demolition would clearly outweigh 
+of and understands opportunities and constraints through changes of the benefits of retaining the existing building or parts of the structure.
+and improvements to developments.
+
+Further considerations and options in relation to the retention of 
+The GLA’s pre-application section includes a hierarchy of WLC building elements and material are required by the circular economy 
+reduction principles (see Appendix 4 for full list). Principle 1 relates to principles (see following page).
+options for ‘significant retention and reuse of structures’ as shown in 
+Table 11, requiring examples to demonstrate that: Note, the GLA (and optionally BREEAM) requires the reporting of 
+
+refrigerant Global Warming Potential emissions in kgCO2e/m2 GIA. 
+•	 Options for retaining existing buildings and structures have This is important to include in the WLCA. The GLA requires reporting 
+
+been fully explored before proposing substantial demolition, of refrigerant impact in the Whole Life-Cycle Carbon Assessment 
+including incorporating the fabric of existing buildings into the new template spreadsheet. Measures can be installed to prevent and 
+development (aligned with London Plan Guidance for Circular manage refrigerant leakage to the atmosphere. The requirement 
+Economy Statements, March 2022); for leak detection and containment of refrigerants as part of the 
+
+commissioning process could be secured through a condition. 
+•	 Carbon emissions associated with pre-construction demolition are 
+
+currently reported separately;
+
+•	 An estimate of the percentage of the new build development 
+which will be made up of existing façades, structures and other WLC reduction principle: 1. Reuse and retrofit of 
+key components is reported; existing buildings
+
+•	 An optional requirement to report on the effects of future Key benefit: Significant retention and reuse of structures is carbon 
+grid decarbonisation on the development’s embodied carbon efficient and reduces construction costs 
+emissions. Figure 11: The new London Plan Guidance ‘Circular Economy 
+
+Provide examples of how the reduction principle has been used, or Statements’ sets out the principles to be adopted to demonstrate 
+•	 The WLC principles are informing the proposed development of give reasons why it cannot be used. the adoption of circularity in design and construction
+
+the site.
+
+Planning advice note | City of London Corporation 36
+
+
+
+Carbon Options Guidance
+
+Circular Economy Statement
+The Mayor of London’s London Plan 2021 requires proposals referable 
+to the Mayor to calculate a development’s impacts and solutions 
+to meet circular economy principles. It sets out the aim of retaining 
+material at their highest value for as long as possible, to increase reuse 
+and recycling, leaving minimal residual waste.
+
+The reporting requirements and scope of the assessment are 
+described in a London Plan Guidance ‘Circular Economy Statements’ 
+(adopted 25th March 2022), which structures a reporting framework 
+and principles to be considered by all referable applications. This 
+needs to be considered alongside the WLCA.
+
+The guidance includes requirements for a decision pathway to be 
+outlined and for pre-redevelopment and pre- demolition audits, which 
+need to be communicated at the earliest stages possible. The aim is 
+for projects to incorporate these into their brief at procurement stage.
+
+The guidance sets out six principles which are seen as critical to the 
+design process:
+
+1.	 Building in layers, ensuring that different parts of the building are 
+accessible and can be maintained and replaced where necessary
+
+2.	 Designing out waste, ensuring that waste reduction is planned in 
+from project inception to completion, including consideration of 
+standardised components, modular build, and reuse of secondary 
+products and materials
+
+3.	 Designing for longevity
+
+4.	 Designing for adaptability or flexibility
+
+5.	 Designing for disassembly
+
+6.	 Using systems, elements or materials that can be reused and 
+recycled.
+
+The principles apply to the waste hierarchy to reduce or avoid waste 
+wherever possible and to try and ensure that materials are applied and 
+used at their highest value. The concept for building in layers attributes Figure 12: Decision tree for design approaches to existing structures/buildings -GLA Circular Economy Guidance March 2022
+
+design life to different aspects of the building in terms of skin, shell, 
+structure/frame, building services, Space/space plan/interior/ interior 
+space, stuff and contents.
+
+Planning advice note | City of London Corporation 37
+
+
+
+Carbon Options Guidance
+
+Carbon Emissions from 
+Operational Energy and Water
+The WLCA includes life-cycle stages B6 (Operational Energy) and (B7 ensure that buildings meet the minimum energy efficiency standards 
+Operational Water). GLA planning policy currently requires separate set by building regulations, while TM54 operational energy modelling 
+energy and water consumption reporting. This section clarifies the is used to identify areas where energy consumption can be reduced 
+requirements and overlaps between reporting requirements. GLA and to inform decisions on building design and operation.
+benchmarks exclude stages B6 and B7.
+
+Both the TM54 and NABERS UK (currently for commercial offices 
+
+Operational Energy Modelling only, other schemes are being developed) approaches align with the 
+reporting requirements of Stage B6 ‘Operational Energy Use’ under 
+
+NABERS UK ‘Design for Performance’ (DfP) and CIBSE TM54 the GLA’s WLCA Guidance (March 2022) and the GLA’s ‘Be seen’ 
+‘Evaluating operational energy use at the design stage’ (2022) are guidance.
+increasingly being used by applicants to more accurately estimate The GLA also requires in use monitoring and Energy Use Intensity 
+and reduce operational energy during design, and to inform metering, (EUI) reporting of actual energy use for the first 3 years of a building’s 
+commissioning and management requirements to maintain low operation.
+energy consumption throughout a building’s life-cycle.
+
+BREEAM New Construction’s (optional) operational energy modelling 
+requirements are similar. NABERS UK is the most onerous approach Operational water use
+of the three because of independent design reviews required during 
+design, post completion and post occupancy seasonal monitoring, Operational water consumption in planning applications is currently 
+
+reported in 2 ways: Figure 13: The new revised CIBSE Technical Manual for 
+and tuning, metering infrastructure criteria to facilitate annual rating evaluating operational use at the design stage provides a 
+and annual energy rating updates. Note that the UK Government is 1.	 Part of the WLCA (module B7), in line with the RICS method, framework for more accurate prediction of regulated and 
+
+proposing to introduce a new obligatory energy rating disclosure, unregulated energy consumption
+which requires all carbon emissions related to water supply and 
+
+that aligns with NABERS UK, starting with all offices greater than wastewater treatment to be reported, using BSRIA benchmarks 
+1,000m2, from 2022/23, indicatively. In addition, CIBSE TM54 has initially, then estimated values once known. Carbon conversion 
+recently aligned with NABERS UK Design for Performance (DfP), and factors for water use and treatment as published by the local water 
+BREEAM is set to do the same at the next update (estimated 2023). supplier should be used.
+The GLA requires referable schemes to evaluate operational energy 2.	 Part of the BREEAM Assessment, which aims to reduce and 
+as part of the ‘be seen’ stage of the Energy Hierarchy. The associated benchmark the consumption of potable water for sanitary use 
+guidance sets out parameters for evaluating performance at the (credit Wat 01) in new and refurbished buildings through the use of 
+planning, post-completion and in use stages of a development. water efficient components and water recycling systems. CoLC’s 
+The planning stage requires an estimation of the regulated and current policy refers to requiring all BREEAM water credits to be 
+unregulated energy. The recommendation is for the use of analysis achieved.
+guided by CIBSE TM54 ‘Evaluating operational energy use at the The latter consumption evaluation is therefore limited to potable water 
+design stage’. NABERS UK DfP is encouraged for office buildings only, while the former looks at all water consumption and treatment 
+greater than 5,000m2. and associated carbon emissions. BREEAM does review non potable 
+CIBSE, TM54 and NABERS UK give a far more accurate and water but in a qualitative way (credit Wat 04).
+complete estimate of operational carbon emissions than Building The UK Government is proposing to introduce a new obligatory water 
+Regulations Part L as they allow for detailed prediction of regulated rating disclosure (in a similar way to energy, above) and to regulate 
+and unregulated energy using more detail and realistic parameters all water consumption for different land uses. Currently only potable 
+to evaluate energy performance, rather than a uniform set of water in residential uses is regulated.
+standardised regulated energy parameters. Part L modelling is used to 
+
+Figure 14: The NABERS UK Design for Performance guidance manual
+
+Planning advice note | City of London Corporation 38
+
+
+
+Carbon Options Guidance
+
+Appendix 7 
+Third Party Review Guidance
+Third party review is required to ensure that options have been •	 Where demolition / strip out is undertaken, how has 
+designed, calculated and evaluated realistically and consistently. demolition been considered and estimated?
+
+The requirement for third party review introduces rigour and scrutiny •	 Are the constraints and the assumptions on which the options 
+into the process and to ensure that the optioneering forms a robust are based appropriate, consistent across the options and 
+basis for the development of the application scheme. without bias to favour any one option? Is the scope of the 
+
+works fully set out for each option?
+The review process will be arranged by planning officers and funded 
+by the developer (see figure 15). •	 Are the options fully evaluated, including circular economy 
+
+approaches, climate resilience measures and wider 
+Reviewers should: considerations, such as commerciality and risks?
+•	 be independent from the applicant’s team •	 Does the evaluation of the options focus on carbon impacts, 
+•	 have suitable experience of a minimum of 3 years in carrying sustainability, and quality issues (in this order) separately 
+
+out whole life-cycle carbon assessments and energy strategies, and does it include an overall summary that is clear and 
+working in the construction industry on projects with similar scale comprehensible?
+and use, and •	 Are all the relevant data as required in the methodology 
+
+•	 provide a declaration of their independence and experience. presented clearly and correctly in the dashboard?
+
+The output should be in the form of a statement using the City of The Reviewer can only be responsible for reviewing the 
+London Carbon Options Tool (in the reviewer column) of Dashboard A. information provided to them by the applicant’s team. It is the 
+
+responsibility of the applicant to ensure the information provided 
+Assessment guidance for Reviewers: to the verifier is as accurate as possible. Reviewers may need to 
+•	 Does the choice of options reflect realistic proposals for the request some additional contextual information from the applicant.
+
+maintenance, retrofit and development of the site and cover clearly 
+discernible scenarios?
+
+•	 Is the methodology followed to specify the development options, 
+calculate the carbon impacts, and is the optioneering approach 
+aligned with the COG’s recommendations? 
+
+•	 Are the structural impacts calculated for each option robust, 
+consistent and include a breakdown into relevant elements?
+
+•	 Are other key design elements aligned between options, and if not, 
+are differences declared and explained? 
+
+•	 Are any differences in operational emissions (life-cycle stage B6) 
+reasonable between options and are carbon factors aligned?
+
+•	 Where applicable, is the carbon impact resulting from a change of 
+use clearly presented (e.g. changing from offices to hotel, requiring 
+works to risers, cores, building services)?
+
+Planning advice note | City of London Corporation 39
+
+
+
+Carbon Options Guidance
+
+Figure 15: Optioneering and third party review process. Informal discussions between applicant and planning officers are encouraged in all stages of the optioneering process.
+
+Planning advice note | City of London Corporation 40
+
+
+
+Carbon Options Guidance
+
+Glossary
+The below included a series of definition for terms used in the Carbon Sequestration: ‘Carbon sequestration’ is the process by Global Warming: Is the long-term heating of Earth’s climate system 
+document. A number of these terms are aligned with industry which carbon dioxide is removed from the atmosphere and stored observed since the pre-industrial period (between 1850 and 1900) due 
+standards including the document Improving Consistency in Whole within a material – e.g. stored as ‘biogenic carbon’ in ‘biomass’ by to human activities, primarily fossil fuel burning, which increases heat-
+Life Carbon Reporting Assessment and report – Carbon definitions plants/trees through photosynthesis and other processes. trapping greenhouse gas levels in Earth’s atmosphere.
+for the Built Environment Buildings and Infrastructure, January 2023. 
+(https://www.leti.uk/carbondefinitions). ‘This document was put Climate Change: Climate change refers to long-term shifts in Global Warming Potential (GWP): The standard metric used to 
+together initially by a working group within the Whole Life Carbon temperatures and weather patterns. These shifts may be natural, calculate CO2 equivalent emissions of different greenhouse gases 
+Network (WLCN, a group of some 90 built environment professionals) such as through variations in the solar cycle. However, since the in carbon budgets and the Kyoto Protocol. GWP measures the total 
+and includes detailed discussions between WLCN, LETI, CIBSE, RIBA, 1800s, human activities have been the main driver of climate change, radiative forcing over a given period (usually 100 years) after a pulse 
+RICS, IStructE, ICE, and UKGBC. The ‘Definitions’ are structured around primarily due to burning fossil fuels like coal, oil and gas. emission, relative to that from the same mass of CO2.
+CEN TC 350 life-cycle modules, (e.g. BS EN 15978:2011 for buildings, BS Densification: Is a term used by planners, designers, developers and Greenhouse Effect: A process that occurs when gases in Earth’s 
+EN 17472: 2022, PAS 2080:2016 for Infrastructure, BS EN 15643 2021.)’ theorists to describe the increasing density of people living in/using atmosphere trap the Sun’s heat. This process makes the Earth much 
+Absolute Zero Carbon: Eliminating all carbon emissions without the urban areas. There are a number of metrics attributing to densification, warmer than it would be without an atmosphere.
+use of offsets. one is total building floor area divided by the area of land the buildings 
+
+are built on. Greenhouse Gases (GHG): ‘Greenhouse Gases’ are constituents 
+Approved Document Part L conservation of fuel and power: Part L of the atmosphere, both natural and anthropogenic, that absorb and 
+is a building regulation that covers both new and changes to existing Embodied Carbon or Life-Cycle Embodied Carbon: Embodied emit radiation at specific wavelengths within the spectrum of infrared 
+dwellings and non-dwellings. Part L sets minimum requirements and carbon emissions of an asset are the total GHG emissions and radiation emitted by the Earth’s surface, the atmosphere, and clouds: 
+targets for energy performance and carbon emissions. It also defines removals associated with materials and construction processes For these ‘carbon definitions’, we are only addressing the GHGs with 
+the carbon intensity of fuel and power. throughout the whole life-cycle of an asset (Modules A0-A5, B1-B5, Global Warming Potential assigned by the Intergovernmental Panel 
+
+C1-C4, with A0 assumed to be zero for buildings). (A0 is generally on Climate Change (IPCC), e.g. carbon dioxide (CO2), methane (CH4), 
+Beyond Life-cycle (Beyond–LC): Carbon emissions arising from any assumed to be zero for buildings, however for infrastructure projects nitrous oxide (N2O), hydrofluorocarbons (HFC’s), perfluorocarbons 
+benefits or burdens of materials and components beyond the life-cycle A0 can include ground investigations and activities associated with (PFC’s), and sulphur hexafluoride (SF6). 
+(Module D). designing the asset)
+
+Grid Decarbonisation: The gradual reduction of the carbon intensity 
+Biogenic Carbon: ‘Biogenic Carbon’ refers to the carbon removals Energy use intensity (EUI): An indicator of the energy efficiency of of electricity production.
+associated with carbon sequestration into biomass as well as any a building’s design and/or operations. It is the total amount of energy 
+emissions associated with this sequestered carbon. Biogenic carbon used in a building in a year divided by its floor area (kwh/m2/yr). It can Gross Internal Area (GIA): The area of a building measured to the 
+must be reported separately if reporting only upfront carbon but be expressed in terms of GIA or NLA, and this should be clearly stated internal face of the perimeter walls at each floor level. In the UK this is 
+should be included in the total if reporting embodied carbon or whole when reporting. determined according to Royal Institute of Chartered Surveyors (RICS) 
+life carbon. property measurement standards.
+
+Environmental Aspect: An aspect of construction works, part of 
+BREEAM – Building Research Establishment Environmental works, processes or services related to their life-cycle that can cause IMPACT (Integrated Material Profile and Costing Tool): A 
+Assessment Method: A leading and well-established scheme for the change to the environment. specification and database for software developers to incorporate 
+evaluation, rating and certification of the sustainability of buildings into their tools to enable consistent Life-Cycle Assessment (LCA) and 
+developed by the BRE. It is the main sustainability certification Environmental Impact: A change to the environment, whether Life-Cycle Costing (LCC). IMPACT compliant tools work by allowing 
+standard in the UK but also is used internationally. The main schemes adverse or beneficial, wholly or partially, resulting from environmental the user to attribute environmental and cost information to drawn 
+apply to new buildings and both non-domestic refurbishment and fit- aspects. or scheduled items in the BIM. Put simply, IMPACT takes quantity 
+outs and domestic refurbishments. information from the BIM and multiplies this by environmental impact 
+
+Environmental Performance Declaration (EPD): A transparent, and/or cost ‘rates’ to produce an overall impact and cost for the whole 
+Carbon Dioxide equivalent (CO2e): A metric expressing the impact objective report that communicates what a product or material (or a selected part) of the design.
+of all greenhouse gases on a carbon dioxide basis. A measure used is made of and how it impacts the environment across its entire 
+to compare the emissions from various greenhouse gases based life-cycle. An EPD is usually valid for five years, and is generated Life-cycle: consecutive and interlinked stages in the life of the object 
+upon their global warming potential in a common unit over a 100 according to a number of relevant standards. under consideration.
+year period. E.g. 1 kg of methane is converted into the amount of CO2 
+needed to cause the same effect, in this case 23 kg. Therefore 1 Kg of 
+methane has a CO2 equivalent of 23.
+
+Planning advice note | City of London Corporation 41
+
+
+
+Carbon Options Guidance
+
+Life-Cycle Assessment (LCA): is a process to evaluate the Operational Carbon Energy building (use): ‘Operational Carbon – Whole life-cycle Carbon (WLC) or Whole Life Carbon over Life-
+environmental burdens associated with a product, process or activity: Energy’ (Module B6) are the GHG emissions arising from all energy Cycle: Whole life carbon emissions are the total sum of all asset 
+
+consumed by an asset in-use, over its life-cycle. related GHG emissions and removals, both operational and embodied 
+•	 By identifying and quantifying energy and materials used and over the life-cycle of an asset including its disposal (Modules: A0-A5; 
+
+wastes released to the environment; Operational Carbon Water (use): ‘Operational Carbon–Water’ B1-B7; B8 optional; C1-C4, all including biogenic carbon, with A0* 
+(Module B7) are those GHG emissions arising from water supply and 
+
+•	 To access the impact of those energy and materials used and assumed to be zero for buildings). Overall whole life carbon asset 
+wastewater treatment for an asset in-use, over its life-cycle.
+
+releases to the environment; and performance includes separately reporting the potential benefits or 
+Recycling: Recycling is the process of converting waste materials loads from future energy or material recovery, reuse, and recycling and 
+
+•	 To identify and evaluate opportunities to affect environmental into new materials and objects. A recovery operation by which waste from exported utilities (Modules D1, D2). * A0 is generally assumed 
+improvements. materials are reprocessed into products, materials or substances to be zero for buildings, however for infrastructure projects A0 can 
+
+The assessment includes the entire life-cycle (from cradle to grave) either for the original purpose or other purposes. include ground investigations and activities associated with designing 
+of the product, process or activity encompassing extracting and the asset.
+
+Refurbishment: Modification and improvements to an existing 
+processing of raw materials, manufacturing, transportation and building in order to bring it up to an acceptable condition. The Demolition of existing structures or buildings must be separately 
+distribution, use and re-use, maintenances, recycling and final refurbishment of something is the act or process of cleaning it, identified and included within Module A5.
+disposal. decorating it, and providing it with new equipment or facilities.
+Minimum Energy Efficiency Standards (MEES): The Energy Regulated Energy Consumption: The building energy consumption 
+Efficiency (Private Rented Property) (England and Wales) Regulations Application types:
+
+resulting from the specification of controlled, fixed building services 
+2015 established the new Minimum Energy Efficiency Standards in the and fittings, including space heating and cooling, hot water, FULLEIA: any application requiring EIA in support
+residential and commercial private rented sector in 2016. ventilation, fans, pumps and lighting.
+
+FULMAJ: – Any application over 1,000m2 - major applications may 
+NABERS UK ‘Design for Performance’ (DfP): A building rating Retrofit: The act of providing something with a feature not fitted in include schemes for redevelopment, substantial refurbishments and 
+scheme (currently for offices only) designed to help projects deliver the original construction or a replacement of a component. Often this extensions. Residential development of 10 or more dwellings or on a 
+against their design intent and overcome the well-evidenced refers to building systems upgrades, however if can refer to improving site of 0.5 hectares or more, and all other development of 1,000 square 
+performance gap between design and operation. It requires a fabric and or glazing. This work generally improves amenities for the metres gross or more floorspace, or on a site of 1 hectare or more.
+developer or owner to commission a new office to a defined rating. It building’s occupants and the overall building performance.
+is a more detailed way of undertaking an energy model with the aim FULL: All other full applications
+of enabling better design decisions to help reduce carbon emissions TM 54: A CIBSE technical memorandum that covers all types of 
+once the building is operating. building energy modelling with the aim of more accurately estimating 
+
+a building’s energy consumption in the design process and allowing 
+Net Zero Carbon: A ‘net zero (whole life) carbon asset is one where Organisations referenced in the report:
+
+more meaningful comparison with actual in-use consumption once 
+the total sum of all assets related to GHG emissions, both operational operational. BBP: The Better Buildings Partnership is a collaboration of 
+and embodied, over an asset’s life-cycle (Modules A0-A5, B1- B8, leading property owners who are working together to improve the 
+C1-C4) are minimised, which meets local carbon, energy and water Unregulated energy: Energy consumption that is not ‘controlled’, sustainability of commercial buildings. It aims to enable market 
+targets or limits, and with residual ‘offsets’, equals zero. it does not fall under Part L of the Building regulations. This would transformation through sustainability leadership and collaboration,  
+
+include consumption from elements such as IT equipment, lifts and 
+NABERS Energy: NABERS Energy measures the efficiency of an improve professional understanding through knowledge sharing and 
+
+other plug-in equipment such as white goods, laboratory equipment, 
+office building and rates its performance (0-6 Stars). The energy rating to develop common approaches with our members, stimulating the 
+
+external lighting and audio visual equipment.
+works by comparing the energy consumption of a building against a property industry to deliver buildings that perform better.
+set of benchmarks that have been developed using actual data. It is Upfront Carbon Embodied Carbon at Practical Completion: BRE: The Building Research Establishment is a centre of building 
+based on in-use data. ‘Upfront carbon’ emissions are the GHG emissions associated with science in the United Kingdom, owned by charitable organisation the 
+
+materials and construction processes up to practical completion 
+Operational Energy (modelling): A detailed energy model that BRE Trust. It is a former UK Government national laboratory that was 
+
+(Modules A0-A5). Upfront carbon excludes the biogenic carbon 
+attempts to reflect real world energy consumption of a building privatised in 1997. BRE contributes to a thriving and sustainable world 
+
+sequestered in the installed products at practical completion. A1-
+during the design and construction stages of a development. This by developing science-led solutions to built environment challenges, 
+
+A3 covering materials product, A4 transport of materials and A5 
+would include more detail than a standard model used for building making buildings better for people and for the environment. It provides 
+
+construction and installation processes.
+regulations, and would include unregulated energy. services, standards and qualifications that are used around the 
+
+Planning advice note | City of London Corporation 42
+
+
+
+Carbon Options Guidance
+
+world to improve the built environment. BRE is a profit-for-purpose RIBA: The Royal Institute of British Architects is a global professional 
+organisation. Any profits from BRE’s work go to the BRE Trust, which membership body driving excellence in architecture. They serve their 
+invests in research projects for the public benefit, or are invested in members and society in order to deliver better buildings and places, 
+upgrading the research facilities at the BRE Science Park. stronger communities and a sustainable environment. Being inclusive, 
+
+ethical, environmentally aware and collaborative underpins all that they 
+Carbon Trust: The Carbon Trust was founded by the UK Government do.
+in 2001, with the unique purpose of driving decarbonisation for 
+businesses, governments and financial institutions. They don’t have RICS: The Royal Institution of Chartered Surveyors is a global 
+shareholders and reinvest any financial surplus to further grow their professional body for those working in the built environment, 
+impacts. Their mission is to accelerate the move to a decarbonised construction, land, property and real estate. The RICS was founded in 
+future. They partner with leading businesses, governments, and London in 1868. RICS promotes and enforces the highest professional 
+financial institutions to accelerate routes to Net Zero. qualifications and standards in the development and management of 
+
+land, real estate, construction and infrastructure. The work of RICS 
+CIBSE: The Chartered Institution of Building Services Engineers is the professionals is hugely varied. 
+professional body that exists to advance and promote the art, science 
+and practice of building services engineering, to invest in education UKGBC: The UK Green Building Council is a charity organisation 
+and research, and to support the community of built environment with over 700 members and was formed in 2007. It aims to add clarity, 
+professionals in their pursuit of excellence. collaborate and improve the way that the built environment in the UK 
+
+is planned, designed, constructed, maintained and operated. UKGBC 
+IStructE: The Institution of Structural Engineers is a professional body is part of the World Green Building Council.
+that leads and supports the development of structural engineering 
+worldwide, in order to secure a safe and resilient built environment for 
+all.
+
+LETI: The Low Energy Transformation Initiative is a voluntary network 
+of over 1,000 built environment professionals, working together 
+to put the UK and the planet on the path to a zero carbon future. 
+Their vision is to understand and clarify what this means in the built 
+environment and develop the actions needed to meet the UK climate 
+change targets. Volunteers are made up of developers, engineers, 
+housing associations, architects, planners, academics, sustainability 
+professionals, contractors and facilities managers, with support and 
+input provided by local authorities and other organisations
+
+NABERS (UK): The National Australian Built Environment Rating 
+System UK is a simple, reliable system for rating the energy efficiency 
+of office buildings across England, Wales, Scotland and Northern 
+Ireland. NABERS UK measures and rates the actual energy use of 
+offices, helping building owners to accurately track and communicate 
+the energy performance of their buildings. It also helps identify areas 
+for savings and improvements, and provides a rating system of 1-6 
+stars (1 being poor to 6 being market leading). NABERS UK is an 
+adaptation of the highly successful rating programme NABERS that 
+operates in Australia. Launched in Australia in 1999, NABERS is widely 
+considered to be a world leading environmental performance rating 
+tool for commercial buildings. NABERS UK is administered by BRE, 
+who are responsible for the day to day operations of the scheme. 
+The strategic operations of NABERS UK are overseen by a steering 
+committee comprising BRE, the Better Buildings Partnership and 
+NABERS.
+
+Planning advice note | City of London Corporation 43
+
+
+
+This Planning Advice Note was written by Andrew Moore and 
+Marie-Louise Schembri (Hilson Moran) in collaboration with the 
+City of London Corporation Planning Officers
+
+All rights are reserved. Copyright in the Carbon Options 
+Guidance: Planning Advice Note (2023) remains vested in City 
+of London Corporation and any improper use may constitute an 
+infringement of copyright.

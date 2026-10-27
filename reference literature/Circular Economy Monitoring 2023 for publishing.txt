@@ -1,0 +1,460 @@
+﻿Greater London Authority: Circular 
+Economy Monitoring 2023
+Analysis of circular economy data monitored from applications received by GLA 
+and determined during the 2023 calendar year
+November 2024
+
+
+
+THIS REPORT
+Contents The report summarises the monitored circular 
+
+economy outcomes of applications reviewed by the 
+Page Section Mayor and considers how these perform against 
+03 Context London Plan’s Circular Economy and Waste policy 
+04 Circular Economy Statements SI 7. This includes all applications that were called 
+05 Circular Economy Design Approaches in by the Mayor and subsequently approved, or  
+06 Pre-Redevelopment Audits where, after consultation, the Mayor gave consent 
+07 Circular Economy Design Principles of the Boroughs to determine them. There were 93 
+09 Recycling and Waste Reporting such cases in the calendar year 2023 (referred to 
+11 Bill of Materials as ‘2023 cases’), with respect to which a total of 71 
+13 Circular Economy Targets Circular Economy Statements were received by 
+14 Conclusions GLA. 
+15 Appendix - Recycling and Waste Reporting The second annual Circular Economy Monitoring 
+16 Appendix - Bill of Materials Report also seeks to compare outcomes from ‘2023 
+
+cases’ with both the monitored data from ‘2022 
+cases’ (as published in the Circular Economy 
+Monitoring Report 2022) and London Plan 
+Guidance: Circular Economy Statements Appendix 
+4 figures.
+
+MAYOR OF LONDON     2
+
+
+
+CONTEXT
+Policy SI 7 Reducing waste and
+
+The London Plan 2021 saw the introduction of planning policy supporting the circular economy
+in several areas, including definitions: Policy SI7 Reducing
+waste and supporting the circular economy, and Policy D3 “Referable applications should promote circular economy
+Optimising site capacity through the design-led approach. Policy outcomes and aim to be net zero-waste. A Circular
+SI 7 B sets out that all referable planning applications should Economy Statement should be submitted, to
+
+demonstrate:
+include a Circular Economy Statement. London Plan 1) how all materials arising from demolition and
+Guidance: Circular Economy Statements was published on remediation works will be re-used and/or recycled
+25th March 2022 following an initial primer document and 2) how the proposal’s design and construction will
+
+reduce material demands and enable building
+subsequent consultation guidance version. materials, components and products to be
+
+disassembled and re-used at the end of their useful
+The London Plan Guidance (LPG) explains how to prepare a life
+
+3) opportunities for managing as much waste as
+Circular Economy Statement to comply with London Plan Policy possible on site
+SI 7. It also includes guidance on how the design of new 4) adequate and easily accessible storage space and
+buildings, and prioritising the reuse and retrofit of existing collection systems to support recycling and re-use
+
+5) how much waste the proposal is expected to
+structures, can promote Circular Economy (CE) outcomes. A generate, and how and where the waste will be
+Circular Economy Statement template document was also managed in accordance with the waste hierarchy
+published alongside the LPG, which applicants should 6) how performance will be monitored and reported.”
+
+complete and submit alongside an accompanying written report.
+
+MAYOR OF LONDON     3
+
+
+
+CONTEXT cont.
+The March 2022 LPG sets out how applicants should develop Circular Economy Statements in accordance with
+London Plan Policy SI 7 “Reducing waste and supporting the circular economy” for referable planning applications.
+The LPG sets out that the Circular Economy Statement must include two parts: a written report and the CE
+template spreadsheet. The LPG also sets out that the CE submission should include a Pre-Redevelopment
+Audit, Pre-Demolition Audit, and Operational Waste Management Plan as supporting information.
+The template is broken down into five key reporting tables for applicants to complete at planning stage. These
+are as follows:
+• Circular Economy Targets
+• Circular Economy Design Approaches
+• Circular Economy Design Principles
+• Recycling and Waste Reporting
+• Bill of Materials
+
+This monitoring report is structured around these key reporting tables to examine how applicants are responding
+to these requirements. This report also includes a spotlight on Pre-Redevelopment Audits, as the requirement for
+these was newly introduced with the publication of the March 2022 LPG and was not required for applications
+submitted prior to the LPG publication.
+The pink text boxes throughout the report provide an explanation of how applicants should respond to the
+guidance to demonstrate that proposals comply with London Plan Policy SI 7.
+
+MAYOR OF LONDON     4
+
+
+
+CIRCULAR ECONOMY STATEMENTS
+In the 2023 calendar year, a total of 71 Circular Economy Statements were received by GLA with respect to
+the 2023 cases. Details of these cases are broken down in Table 1 below. The proportion of referable applications
+accompanied by a Circular Economy Statement has increased compared to 2022. Around a quarter of
+applications that did not submit a Circular Economy Statement were made prior to the publication of The
+London Plan (2021) and its policy SI 7 B, which requires that a Circular Economy Statement be submitted with
+referable applications. More than half of all applications without Circular Economy Statements were submitted /
+proceeded beyond referral / were called-in and favourably decided by the Mayor before the LPG was adopted in
+March 2022. These applicants may have concluded that they did not have to be consistent with the emerging LPG,
+as it was not adopted guidance at the time their applications were being made / determined.
+
+Table 1. Circular Economy Statements (CES) received by the GLA
+2022 Cases 2023 Cases
+
+Total number of 2023 Cases 142 93
+Number of CES received by GLA with respect to 2023 
+cases 82 (58%) 71 (76%)
+
+of which referenced CES Guidance Draft for 
+Consultation October 2020 77 (94%) 46 (65%)
+of which referenced London Plan Guidance CES 
+March 2022 5 (6%) 25 (35%)
+of which of applications submitted following LPG 
+publication 8 (10%) 36 (51%)
+of which were accompanied by a completed GLA 
+CE template 4 (5%) 39 (55%)
+
+MAYOR OF LONDON     5
+
+
+
+CIRCULAR ECONOMY TARGETS
+
+Demolition Construction Excavation Municipal Reused or 
+Waste Waste Waste Waste Recycled 
+
+Content
+to meet or exceed to meet or exceed to meet or exceed to meet or exceed at least 20% by 
+
+95% reuse / 95% reuse / 95% beneficial 65% recycling rate value for the whole 
+recycling / recovery recycling / recovery reuse by 2030 building
+
+London Plan Policy SI 7 London Plan Policy SI 7 London Plan Policy SI 7 London Plan Policy SI 7 London Plan Guidance
+
+average target of average target of average target of average target of average target of
+96% 95% 95% 65% 21%
+
+The London Plan and the Mayor’s associated strategies set out a range of targets which support aims to
+conserve resources, reduce waste and promote material reuse and recycling across London. As part of the
+Circular Economy Statement, applicants should provide a commitment to these policy targets as a
+minimum. The actual performance against these targets should be reported by applicants as part of the
+post-completion reporting.
+
+MAYOR OF LONDON     6
+
+
+
+CIRCULAR ECONOMY DESIGN APPROACHES
+In order to implement circular economy principles most effectively, applicants should explore high-level
+strategic opportunities as early in the development process as possible. Applicants should consider
+strategies which prioritise retention of existing buildings and strategies which are appropriate to the
+expected lifespan of new development.
+
+79 per cent of 2023 cases had an existing building on
+the development site. On 13% of sites with an existing
+building, an element of retention, refurbishment or
+repurposing was proposed, compared to 10% in
+2022. Similarly to in 2022, retention, refurbishment or
+repurposing was primarily proposed in non-domestic
+schemes and mixed-use masterplan developments.
+
+Once again, nearly all the 2023 cases are
+developments expected to have a long life on the
+site and prioritise strategies for disassembly,
+adaptability and longevity. There were a small number
+of developments for which a more frequent change in
+use is anticipated, with a greater focus on adaptability
+as a result.
+
+MAYOR OF LONDON     7
+
+
+
+PRE-REDEVELOPMENT AUDITS
+Where there are existing buildings, structures and components on a development site, applicants should
+provide a Pre-Redevelopment Audit. A Pre-Redevelopment Audit should provide a detailed description of the
+existing buildings, structures and materials on the site and demonstrate that in-situ retention has been fully
+explored in the first instance.
+
+There were a total of 14 Pre-Redevelopment Audits
+received as part of submissions accompanying 2023
+cases. The best examples of these fully considered
+each question set out in the decision tree for design
+approaches for existing structures / buildings
+(Figure 4 of the LPG), providing responses to each with
+evidence to illustrate.
+Applicants should consider whether existing buildings
+can be used for any new or continued use or clearly
+demonstrate the condition does not permit retention,
+before considering how the building(s) respond to the
+needs of the brief of the new development. Several
+applicants provided an appraisal of a range of
+development options ranging from full retention and
+refurbishment, to full demolition and new build. Decision tree for design approaches for existing structures/buildings (Source: 
+
+GLA)
+
+MAYOR OF LONDON     8
+
+
+
+CIRCULAR ECONOMY DESIGN PRINCIPLES
+Applicants should respond to the Circular Economy principles as part of the Circular Economy Statement
+submission. This is achieved by setting out key measures and commitments with respect to the
+development proposals and explaining how these are being secured within the design at planning stage.
+Applicants should highlight where the proposals seek to go beyond standard practice.
+
+96 per cent of Circular Economy Statements receive
+provided information to demonstrate how the
+development responds to the Circular Economy
+design principles. More than three-quarters of these
+proposed measures and commitments which represent
+good or best practice. This is a slight increase
+compared to the 2022 cases. None of the 2022 cases
+proposed best practice measures in response to the
+Circular Economy design principles, this increased to
+four for 2023.
+As a result of engagement with the GLA throughout the
+planning process, 15 applicants reviewed their
+proposed circular economy measures and
+commitments and demonstrated improvement from
+minimum practice to good practice, or beyond.
+
+MAYOR OF LONDON     9
+
+
+
+CIRCULAR ECONOMY DESIGN PRINCIPLES cont.
+Three of the 2023 cases proposed best practice Example design for adaptability illustrating soft spots (Source: 3GXN Architects)
+
+measures in response to the Circular Economy design 
+principles. These measures and commitments included:
+• Retaining existing buildings or structures in-situ 
+wherever possible. Where a greater level of retention 
+was not possible, some of these schemes retain the 
+existing foundations only.
+• Linking with local sites and secondary materials 
+market to drive reuse. This included an application 
+where an upcycling catalogue was developed, with 
+supporting 3D scans of the existing building.
+
+Example material inventory (Source: Buro Happold)
+• Evidence of design for adaptability, via plans and 
+other supporting drawings to illustrate how the design 
+of the development proposals supports this. One of 
+these schemes proposed the use of soft spots within 
+the floor plate to aid adaptability.
+• Evidence of consideration of design for disassembly. 
+For example, illustration of the mechanical connection 
+types proposed with respect to key elements.
+
+MAYOR OF LONDON     10
+
+
+
+RECYCLING AND WASTE REPORTING
+As part of the Circular Economy Statement submission, applicants should provide a Recycling and Waste
+Reporting table with estimates of the quantity of key waste streams which are expected to arise as a result of
+the development proposals.
+
+Chart 1 below illustrates how the estimated waste associated with the delivery of development proposed by 2023
+cases compares to the valid data from Appendix 4 of the 2022 LPG and monitored data from 2022 cases.
+
+Chart 1. Waste estimated to arise from development proposed by 2023 cases
+1.200
+
+1.000
+
+0.800
+
+0.600
+
+0.400
+
+0.200
+
+0.000
+LPG Performance Indicator 2022 Data 2023 Data
+
+Excavation Waste Demolition Waste Construction Waste Operational Waste (1-year)
+
+MAYOR OF LONDON     11
+
+Median Waste (tonnes per sqm. GIA)
+
+
+
+RECYCLING AND WASTE REPORTING: TRENDS
+Chart 1 illustrates that waste estimated to arise from development approved in 2022 shows an overall reduction
+compared to the data presented in Appendix 4 of the LPG and recorded outcomes from 2022 cases reporting in
+the Greater London Authority: Circular Economy Monitoring 2022. Notable trends include:
+• Median excavation waste illustrates a 38% reduction compared to the LPG data, an improvement compared to
+
+the 15% increase observed in 2022. Where basements are a key contributor to excavation waste arising, cases
+where retention of the substructure is proposed allow for a substantial reduction in excavation waste.
+
+• The data illustrates a reduction of 47% in median estimated demolition waste arising compared to LPG data,
+beyond the 20% reduction observed in 2022. The key sensitivities to the reduction of demolition waste are the
+delivery of higher-density development, and the retention of existing building structures, components and
+materials, which increased in 2023.
+
+• The estimated construction waste from development proposed by 2023 cases is similar to the data reported in
+the LPG data and associated with 2022 cases. The figures suggest that this continues to be dictated by industry
+standard and best practice. Once again, the construction waste upper and lower quartiles align with BREEAM
+Wst 01 one credit and two credit requirements; 0.111 t/m2 GIA and 0.065 t/m2 GIA respectively. These figures
+are acknowledged in Table 3 of the LPG.
+
+• There has been a reduction of 26% in median estimated operational waste arising reported for 2023 cases
+compared to the LPG. This is an increase compared to the 42% reduction with respect to 2022 cases. Where
+operational waste is significantly led by occupancy, this is sensitive to typology. For example, industrial and data
+centre use types with largely vacant floorspace with small ancillary offices will have a low associated operational
+waste generation relative to total GIA.
+
+MAYOR OF LONDON     12
+
+
+
+BILL OF MATERIALS
+As part of the Circular Economy Statement submission, applicants should provide a Bill of Materials table
+with estimates of the quantity of materials required to deliver the development proposals with respect to key
+waste building layer categories.
+
+Chart 2 below illustrates how the estimated material associated with the delivery of development proposed by
+2022 cases compares to the valid data from Appendix 4 of the 2022 LPG and monitored data from 2022 cases.
+
+Chart 2. Estimated material required to deliver development proposed by 2023 cases
+1800
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+LPG Performance Indicator 2022 Data 2023 Data
+
+Foundations Frame Upper Floors Roof Fabric Partitions
+
+MAYOR OF LONDON     13
+
+Median Material Intensity (kg per sqm. 
+GIA)
+
+
+
+BILL OF MATERIALS: TRENDS
+Chart 2 demonstrates that the estimated material required to deliver development proposed by 2023 cases shows
+an overall reduction compared to the data presented in Appendix 4 of the LPG, whilst a slight increase compared
+to data collected from 2022 cases. Notable trends include:
+
+• Overall, there was a high degree of similarity within the datasets collected for the range of reported building
+element categories; substructure, superstructure, frame, roof, external fabric, and internal partitions. This is
+suggestive of reliability associated with standard industry methods of estimation. The Bill of Materials reported in
+the Circular Economy Statement (and its associated template document) should be informed by the Whole Life-
+Cycle Carbon Assessment. There are interdependencies between the two reports, where applicants should also
+consider how CE outcomes assist in reducing WLC, and to define end-of-life scenarios which facilitate a
+decreased impact at end-of-life.
+
+• A similar correlation between total material and Module A embodied carbon has been recorded from 2022 to
+2023. The total median material estimated to deliver development associated with 2022 cases was 1,349 kg /
+m2 GIA, with an associated 582 kgCO2e / m2 GIA (Module A). The total median material estimated to deliver
+development associated with 2023 cases was 1,399 kg / m2 GIA, with an associated 598 kgCO2e / m2 GIA
+(Module A). A degree of proportionality can be expected between these two metrics where materials which have
+a high mass such as concrete often make up a significant fraction of the building, and also come at a high
+embodied carbon cost.
+
+MAYOR OF LONDON     14
+
+
+
+CONCLUSIONS
+The analysis presented in this report demonstrates that applicants are responding to London Plan Policy SI
+7 to support waste reduction and the circular economy in London. Through this process, a total of 71
+Circular Economy Statements were received by GLA relating to the 93 2023 cases.
+
+The findings of this report demonstrate that in 2023
+applicants are:
+
+Considering how London’s existing
+buildings can be retained for the future
+
+Delivering development proposing best
+practice and industry-leading strategies
+
+Reducing materials and waste
+associated with development proposals
+
+Providing commitments to policy targets
+as a minimum
+
+MAYOR OF LONDON     15
+
+
+
+APPENDIX – RECYCLING AND WASTE REPORTING
+Table 2, below, illustrates the data used to plot Chart 1 on Page 9 of this report.
+This compares how the estimated waste associated with the delivery of development proposed by 2023 cases
+varies from the valid data from Appendix 4 of the LPG and monitored data from 2023 cases.
+
+Table 2. Waste estimated to arise from development proposed by 2023 cases compared to past data
+[tonnes / m2 GIA] Upper Upper Upper Median Median Median Lower Lower Lower 
+
+Quartile Quartile Quartile Quartile Quartile Quartile
+LPG Data 2022 Data 2023 Data LPG Data 2022 Data 2023 Data LPG Data 2022 Data 2023 Data
+
+Demolition Waste 0.958 0.710 0.493 0.480 0.385 0.253 0.138 0.125 0.137
+
+Excavation Waste 0.770 0.730 0.485 0.410 0.470 0.256 0.150 0.215 0.107
+
+Construction 
+Waste 0.113 0.112 0.112 0.093 0.085 0.078 0.065 0.065 0.065
+
+Operational 
+Waste 0.080 0.038 0.046 0.031 0.018 0.023 0.014 0.012 0.010
+
+MAYOR OF LONDON     16
+
+
+
+APPENDIX – BILL OF MATERIALS
+Table 3, below, illustrates the data used to plot Chart 2 on Page 11 of this report.
+This compares how the estimated material associated with the delivery of development proposed by 2023 cases
+varies from the valid data from Appendix 4 of the LPG and monitored data from 2023 cases.
+
+Table 3. Estimated material required to deliver development proposed by 2023 cases compared to past data
+[kg / m2 GIA] Upper Upper Upper Median Median Median Lower Lower Lower 
+
+Quartile Quartile Quartile Quartile Quartile Quartile
+LPG Data 2022 Data 2023 Data LPG Data 2022 Data 2023 Data LPG Data 2022 Data 2023 Data
+
+Foundations 907.73 659.21 753.50 572.50 391.23 488.00 222.51 241.78 237.53
+
+Frame 368.89 279.42 344.55 208.04 159.90 174.00 92.38 96.99 60.50
+
+Upper Floors 702.27 719.90 649.00 542.33 573.59 522.50 294.75 282.00 220.90
+
+Roof 77.09 94.54 82.00 42.37 49.04 41.50 17.52 19.00 18.00
+
+Fabric 192.48 248.23 217.20 102.00 118.30 125.89 42.29 44.08 74.20
+
+Partitions 118.37 124.63 76.00 60.22 56.50 48.00 18.05 20.15 25.80
+
+MAYOR OF LONDON     17

@@ -1,0 +1,2294 @@
+﻿CIRCULA R
+ECONOMY
+
+STATEMENT
+
+GUIDANCE
+PRE- CONSULTATION DR AFT
+
+GOOD G RExOamWpleT sHec tBioYn DE SI G N 1
+
+
+
+A
+BUILT
+
+ENVIRONMENT
+
+FOR
+ALL
+
+LONDONERS
+
+
+
+CONTENTS
+
+Overview of this guidance						P      6
+
+1	I ntroduction 								P        8
+1.1.	 Purpose of this document						      P8
+1.2.	 Key aims of the Circular Economy Statement (CES)	 P8
+1.3.	 Policy Context: Requirement for CES				    P9
+1.4.	 Applicability of Circular Economy Statements		  P10
+1.5.	 Submission of Circular Economy Statements		  P11
+1.6.	 Integration of Circular Economy Statements with 		 P12
+	 other planning documents
+1.7.	 How are Circular Economy Statements assessed		  P13
+
+2	C ircular economy concepts					P    16
+2.1.	 Context: What is the circular economy? 			   P16
+2.2.	 Core principles								        P17
+2.3.	 'Building in layers'							       P22
+2.4.	 Defining a strategic approach					     P24
+2.5	 Starting out								        P27
+
+3	S tructure and content 						P      31
+3.1.	 Overview of requirements at different stages		  P31
+3.2.	 Contents of a Circular Economy Statement			   P32
+3.3.	 Metrics and reporting forms					     P48	
+
+4	A dditional resources						P      60
+COPYRIGHT
+
+5	 Glossary of key definitions					P     62
+Greater London Authority
+March 2020 Appendix A - Table 01: a strategic approach		P  72
+Published by
+Greater London Authority Appendix B - Table 02: key commitments			P   76
+City Hall
+The Queen’s Walk Appendix C - Bill of Materials Template			P   78
+More London
+London SE1 2AA Appendix D - Recycling and Waste Reporting		P  80
+www.london.gov.uk 		          Template	
+enquiries 020 7983 4100
+
+Appendix E – Examples of Optional Metrics 		P  82
+Copies of this report are available 
+from www.london.gov.uk NB: 	 Appendices available in Word document format.
+
+
+
+OVERVIEW OF THIS GUIDANCE ●	 Commitments that will be delivered for each of the following 
+	 core principles:
+
+This guidance document explains how to prepare a Circular Economy 1.	 Conserve resources, increase efficiency and source materials 
+Statement as required by draft London Plan Policy SI7. sustainably
+
+2.	 Design to eliminate waste (and for ease of maintenance)
+The guidance has been developed with industry, for industry, and 3.	 Manage waste sustainably and at the highest value
+has involved extensive collaboration and testing with developers, 
+architects, engineers, contractors, suppliers and other specialist ●	 Supplementary discussions of specific measures to be 
+consultants.  Developers are already putting the guidance into practice. implemented, anticipated challenges and counter-actions
+
+●	 Plans to report against targets and lessons learnt
+
+●	 End-of-life strategy for ensuring that the development can be 
+Section 1 disassembled and the materials reclaimed with minimal waste, as 
+Provides an introduction to Circular Economy Statements, including the much as possible. 
+policy context for submission, when they must be submitted, and how 
+they are assessed. Section 4
+
+Lists additional resources on how to incorporate key Circular Economy 
+Section 2 principles into design proposals. 
+Provides an introduction to Circular Economy concepts, outlining the 
+core principles that underpin the structure and content requirements of Appendices A to E 
+Circular Economy Statements. Provide supporting information including definitions of key terms and 
+
+templates for use within the Circular Economy Statements.
+Section 3 
+Describes the structure and content requirements for Circular Economy 
+Statements at pre-planning/outline planning (RIBA stages 1/2), full 
+planning (RIBA stage 3) and for planning updates and post-completion 
+(RIBA stages 4-7). In broad terms, they should contain: 
+
+●	 Context and detail about the buildings, public realm and 
+supporting infrastructure
+
+●	 An explanation of the 'strategic approach(es)' underpinning 
+	 the statement
+
+6 OVERVIEW OF THIS GUIDANCE OVERVIEW OF THIS GUIDANCE 7
+
+
+
+1 ●	 Create buildings that are high quality, with architecture that 
+INTRODUCTION pays attention to detail and gives thorough consideration to the 
+
+practicality of use, flexibility, safety and building lifespan, through 
+appropriate construction methods and the use of attractive, 
+
+1.1. Purpose of this document robust materials which weather and mature well;
+
+1.1.1. This guidance document explains how to prepare a Circular ●	 Aim for high sustainability standards and take into account the 
+Economy Statement to accompany strategic planning applications principles of the circular economy;
+referred to the Mayor as set out in draft London Plan Policy SI7, or 
+where boroughs have specified a lower threshold. It is for anyone ●	 Improve resource efficiency to keep products and materials at 
+involved in, or with an interest in developing Circular Economy their highest value in use for as long as possible;
+Statements, including developers, designers, consultants and local 
+government officials. ●	 Promote waste avoidance and minimisation and ensure 
+
+	 that there is zero biodegradable or recyclable waste to landfill by 	
+1.2. Key aims of Circular Economy Statements 	 20261,2,3; and
+
+1.2.1. Circular Economy Statements are intended to demonstrate how a ●	 Meet or exceed the municipal waste recycling target of 65 per 
+development, including any public realm and supporting infrastructure, cent by 2030, the reuse/recycling or recovery of 95 percent of 
+will incorporate circular economy measures into all aspects of the construction and demolition waste, and the beneficial use of at 
+design, construction and operation process. This will help to ensure least 95 per cent of excavation waste. 
+that applicants seeking planning permission for major schemes:
+
+1.3.2. Policy SI7 requires development applications that are referable to 
+●	 Consider strategies to facilitate the transition towards a circular the Mayor of London to submit a Circular Economy Statement as part of 
+
+built environment; a planning application. It states:
+
+●	 Report against numerical targets that will facilitate monitoring of 	 Referable applications should promote circular economy outcomes 
+	 waste and recycling; and and aim to be net zero-waste. A Circular Economy Statement should 
+
+be submitted, to demonstrate:
+●	 Recognise opportunities to benefit from greater efficiencies that 	
+	 can help to save resources, materials, and money. ●	 H ow all materials arising from demolition and remediation 
+
+works will be re-used and/or recycled;
+1.3. Policy context: Requirement to produce a 
+
+Circular Economy Statement ●	 H ow the proposal’s design and construction will reduce 
+material demands and enable building materials, components 
+
+1.3.1. The Mayor of London wants to see London’s homes, buildings and products to be disassembled and re-used at the end of 
+and supporting infrastructure adopt innovative design.  The draft their useful life;
+London Plan has taken the first steps to drive a circular built 
+environment by introducing new policy requirements. Draft London Plan 
+Policy D3 ‘Optimising site capacity through the design-led approach’, 1	 Policy D3  ‘Optimising site capacity through the design-led approach’ 
+and SI7 ‘Reducing waste and supporting the Circular Economy’ set out 2	  Policy SI7 ‘Reducing waste and supporting the Circular Economy’
+policy objectives to: 3	  Policy SI8 ‘Waste capacity and net waste self-sufficiency’
+
+8 INTRODUCTION INTRODUCTION 9
+
+
+
+●	 O pportunities for managing as much waste as possible on site; ●	 A residential development on a site of at least 0.5 hectares
+
+●	 A dequate and easily accessible storage space and collection ●	 Creation or change of use of a commercial development (1,000m2 
+systems to support recycling and re-use; or more)
+
+●	 H ow much waste the proposal is expected to generate, and how ●	 A non-residential development on a site of at least 1 hectare
+and where the waste will be managed in accordance with the 
+waste hierarchy; 1.4.3. Developments not required to produce a Circular Economy 
+
+Statement are still encouraged to apply this Circular Economy 
+●	 H ow performance will be monitored and reported. Statement Guidance.
+
+1.5. Submission of Circular Economy Statements
+1.4. Applicability of Circular Economy Statements
+
+1.5.1. Circular Economy Statements should inform important, early 
+1.4.1. A scheme is referable to the Mayor if it meets the criteria set out decisions and should be submitted at outline/pre-application (RIBA 
+in the Mayor of London Order4 which includes any development: Stage 1/2), full application (RIBA Stage 2/3) and post-completion 
+
+stages. These are referred to within this guidance using the following 
+●	 Comprising 150 residential units or more nomenclature:
+
+●	 Over 100,000m2 (in the city), 20,000m2 (central) or 15,000m2 ●	 Draft Circular Economy Statement: developing a strategic 
+(outer) approach to the Circular Economy is the focus of the Draft 
+
+Circular Economy Statement.
+●	 Over 25 meters in height within the Thames Policy Area, over 
+
+150m height elsewhere in the City of London or 30 meters in ●	 Detailed Circular Economy Statement: the emphasis then shifts 
+height elsewhere in London to how the Circular Economy will be addressed through detailed 
+
+design.
+●	 Of existing buildings which will increase their height by more 
+	 than 15m ●	 Circular Economy Statement: Post-Planning Updates: progress in 
+
+meeting the targets and commitment can be provided during the 
+●	 On Green Belt or Metropolitan Open Land construction process and be included in Post-Planning Updates. 
+
+The need for updates will be determined during the application 
+1.4.2. In draft London Plan Policy SI7 part C, London boroughs are process, but typically, these should be provided at RIBA Stages 5 
+encouraged to apply circular economy principles and set their own and 7.
+lower local thresholds for Circular Economy statements. This could 
+potentially include, for example: 1.5.2. For masterplan-led developments where limited design 
+
+information is available, the Circular Economy Statement should focus 
+●	 A residential development of 10 or more homes on the work carried out to assess opportunities for re-use of any 
+
+materials, buildings or resources on site. It should also describe any 
+strategic ways that the masterplan will promote Circular Economy 
+
+4	 The Town and Country Planning (Mayor of London) Order 2008 https://www.london.gov. measures.
+uk/what-we-do/planning/planning-applications-and-decisions/what-powers-does-mayor-have-
+planning
+
+10 INTRODUCTION INTRODUCTION 11
+
+
+
+1.5.3. Section 3 sets out further guidance on what to include at each 1.7.
+stage of the application process.  How are Circular Economy Statements assessed?
+
+1.6. 1.7.1. Circular Economy Statements must adhere to minimum content 
+Integration of Circular Economy Statements requirements in order to be considered ‘compliant’ with this guidance 
+with other planning submission documents for meeting London Plan Policy (see Section 3 for further details). 
+
+Applicants are encouraged to go beyond compliance by adopting more 
+1.6.1. All planning applications referred to the Mayor must include a ambitious strategies or targets (‘pioneering statements’).
+Circular Economy Statement prepared in accordance with this guidance 
+document. Where other documents are being submitted as part of a 1.7.2. Engagement with stakeholders in developing this guidance 
+planning application, it may be appropriate to cross-reference these showed that achieving the ‘compliant’ standard should be achievable 
+documents provided cross-referencing is clear and the documents for referable developments without requiring significant additional 
+contain sufficient information to allow a full assessment of the work. The metrics and reporting forms presented in Section 3.3 link to, 
+application. and draw from, information that is likely to be available in other planning 
+
+submission documents or related work such as Site Waste Management 
+1.6.2. In particular, there is likely to be some overlap between the Plans, BREEAM assessments, and so on.
+strategies identified in the Circular Economy Statement, and the 
+actions prescribed within the Site Waste Management Plans and 1.7.3. At pre-application/outline and detailed planning application 
+Operational Waste Management Plans or similar. These should be stage, the Circular Economy Statements will be checked for:
+cross-referenced in Circular Economy Statements as relevant.
+
+●	 Completeness: Does the statement contain the core information 
+1.6.3. Examples of other documents which may impact the Circular described in Section 3? Has the applicant demonstrated that 
+Economy Statement include: circular economy principles have informed the proposals?
+
+●	 Design and Access Statements ●	 Technical validity: Are the commitments relevant to the project? 
+Has the applicant demonstrated that there is a reasonable 
+
+●	 Energy Statements (including Whole Life-Cycle Carbon process in place that will help them achieve and monitor their 
+Assessment) stated targets?
+
+●	 Environmental Impact Assessments ●	 L evel of ambition: Does the Statement include clear 
+commitments to Circular Economy measures that go above and 
+
+●	 Sustainability Statements and/or Sustainabilty Checklists beyond standard practice?
+
+1.7.4. Projects seeking to go beyond the ‘compliant’ standard to 
+●	 Sustainability Assessment Method Reports (BREEAM, SKA, HQM, 	 demonstrate a ‘pioneering’ level of commitment to 
+	 WELL, Fitwel) the Circular Economy can do so by:
+
+●	 Site Waste / Resource Management Plan ●	 Showing depth: Exceeding the minimum policy requirements, or 
+otherwise going above and beyond standard practice; and/or
+
+12 INTRODUCTION INTRODUCTION 13
+
+
+
+●	 Showing breadth: Setting additional targets (for example, see 
+‘OPTIONAL’ metrics in Section 3.3), demonstrating that a broad 
+range of measures have been investigated. 
+
+1.7.5. The GLA recognises that, in some cases, an achievement may 
+not be adequately captured by numerical metrics. Examples could 
+include retaining and refurbishing a building that might otherwise 
+be demolished, working with a supplier to develop a leasing scheme 
+for building components, or using an innovative product such as a 
+compostable plasterboard alternative. 
+
+1.7.6. In such cases the applicant should highlight the achievement 
+within the ‘Narrative’ portion of the Circular Economy Statement (see 
+Section 3), explaining:
+
+●	 How it reflects the London Plan Circular Economy policy 
+ambitions; and
+
+●	 Any other benefits for occupants, neighbourhoods, local 
+authorities, etc. These may be qualitative or quantitative but 
+will need to be backed up by evidence at application stage 
+(e.g. reports, calculations, specification documents) and post-
+completion (e.g. surveys or monitoring results) as relevant.
+
+1.7.7. Draft London Plan Policy SI7 B(6) states that referable 
+applications need to demonstrate how performance of the Circular 
+Economy Statement will be monitored and reported.  This must include:
+
+●	 What actually happened;
+
+●	 How this is different from what was planned; and
+
+●	 Why it differed and what the key learning were.
+
+This will help to promote good practice. This should be appropriately 
+secured at planning stage. Section 3 ‘Reporting Outcomes’ sets out 
+how this should be done post-completion.
+
+Cambridge Heath Road, Waugh Thistleton
+(Photography: Tim Crocker) 
+
+14 INTRODUCTION INTRODUCTION 15
+
+
+
+2 away.  The ‘Take, Make, Dispose’ model, or ‘linear’ economy, has fuelled 
+CIRCULAR ECONOMY CONCEPTS rapid growth but is inherently unsustainable in the long term where 
+
+resources are finite.
+
+2.1. Context: What is the Circular Economy? 2.1.4. Widespread adoption of Circular Economy principles would 
+dramatically reduce the quantity of new material imported into the 
+
+2.1.1. A Circular Economy is defined in draft London Plan Policy SI7 city, and the amount of waste needing to be managed including that 
+‘Reducing waste and supporting the Circular Economy’ as one where exported. Alongside this reduction in imported material and exported 
+materials are retained in use at their highest value for as long as waste, smart technologies, infrastructure and logistics can contribute 
+possible and are then reused or recycled, leaving a minimum of residual significantly to reduced vehicle movements, air pollution, noise and 
+waste.5 greenhouse gas emissions. Developers can also benefit from cost 
+
+savings, e,g, by purchasing fewer materials and managing less waste.
+2.1.2. The end goal is to retain the value of materials and resources 
+indefinitely, with no residual waste at all.  This is possible, requiring 2.2. Core principles
+transformational change in the way that buildings are designed, built, 
+operated and deconstructed. 2.2.1. Applying Circular Economy thinking to the built environment 
+
+is highly complex, with many overlapping issues and trade-offs to 
+Linear Recycling Circular consider. However, there are some core guiding principles that promote 
+
+economy economy economy a regenerative and restorative whole systems approach and should be 
+applied from the top down6.
+
+Principle Develop commitments to..
+
+1.1 Minimise the quantities of materials used
+1. Conserve resources, 
+increase efficiency and 1.2 Minimise the quantities of other resources used
+source sustainably
+
+1.3 Specify and source materials and other resources 
+responsibly and sustainably
+
+2.1 Design for longevity, adaptability or flexibility and 
+FROM TAKE • MAKE • USE • DISCARD TO RE-MAKE • USE-AGAIN reusability or recoverability
+Diagram courtesy of Circular Flanders 2. Design to eliminate 
+
+waste (and for ease of 2.2 Design out construction, demolition, excavation and 
+maintenance) municipal waste arising
+
+2.1.3. A Circular Economy stands in contrast to our current linear 
+system, where materials are mined, manufactured, used and thrown 
+
+5	 Policy SI7 ‘Reducing waste and supporting the Circular Economy’ https://www.london.gov. 6 	 The principles are consistent with implementing the EU waste hierarchy and with the circular 
+uk/sites/default/files/intend_to_publish_-_clean.pdf economy systems thinking approach developed by the Ellen MacArthur Foundation (EMF).	
+
+16 CIRCULAR ECONOMY CONCEPTS CIRCULAR ECONOMY CONCEPTS 17
+
+
+
+3.1 Manage demolition waste Commitment 1.2 Minimising the quantities of other resources used 
+(fossil fuels, water, land)
+
+3. Manage waste 3.2 Manage excavation waste
+sustainably and at the 2.2.6. Whilst materials are the primary focus of Circular Economy 
+highest value 3.3 Manage construction waste Statements, Circular Economy principles also apply to energy, water, 
+
+land and ecosystems. For example, building on brown field sites rather 
+3.4 Manage municipal waste (and industrial waste, if applicable) than virgin land minimises disruption to the existing landscape, helping 
+
+to optimise the use of London’s limited resources.
+
+2.2.2. These principles underpin the structure and content Commitment 1.3 Specifying and sourcing materials and other 
+requirements of Circular Economy Statements, including the reporting resources responsibly and sustainably
+forms and metrics. This is intended to ensure that applicants address 
+all of the London Plan policy objectives described in Section 1.3, think 2.2.7. This principle covers measures such as specifying the use of 
+long term and adopt a whole life perspective to the use of resources. reused or recycled materials, installing greywater recycling systems, 
+
+or participating in reuse schemes. For further information about 
+2.2.3. The following pages contain brief descriptions and examples sustainable sourcing, see Section 5 – Definitions.
+of how these principles can be implemented through commitments. 
+Applicants are encouraged to refer to other resources such as those Principle 2
+listed in Section 4 for further information and inspiration. Design to eliminate waste (and for ease of maintenance)
+
+Principle 1 2.2.8. Minimising waste is about tackling waste reduction ‘at source’ 
+Conserve resources and source ethically and avoiding materials being classified as waste through careful design 
+
+and specification. This should be considered in the context of the 
+2.2.4. Reducing the quantities of materials ‘locked away’ in the built whole life-cycle of the development, from strategic planning through to 
+environment is critical. The design of buildings, public realm and end of life. 
+supporting infrastructure is important because it can influence the 
+types and quantities of materials and other resources that will be used Commitment 2.1 Designing for longevity, adaptability or flexibility 
+for many decades. and reusability or recoverability
+
+Commitment 1.1 Minimising the quantities of materials used 2.2.9. The design process should include a realistic assessment of the 
+ability of the development to accommodate change, how frequently it 
+
+2.2.5. Designs should consider opportunities to reduce the demand will be reconfigured or remodelled, and how to avoid a premature 
+for building materials; for instance, by prioritising refurbishment over end of life for all components. (This topic is discussed in more detail in 
+demolition. Fundamentally, this requires teams to question the design Section 2.4.)
+brief and consider whether it can be met by building less and building 
+more efficiently. 2.2.10. Careful decision-making in this regard can add value over the 
+
+life of the development. For instance, commercial buildings may provide 
+generous floor-to-ceiling heights and open grids to ensure that the 
+interior can accommodate a range of tenants. This flexibility could 
+be enhanced by, for instance, using a relocatable, modular internal 
+partition system that would allow for total reconfiguration without the 
+need to purchase additional materials.
+
+18 CIRCULAR ECONOMY CONCEPTS CIRCULAR ECONOMY CONCEPTS 19
+
+
+
+Commitment 2.2 Design out construction, demolition, excavation Commitment 3.1 Managing demolition waste
+and municipal waste arising
+
+2.2.16. In order to manage demolition waste, applicants must consider 
+2.2.11. This principle covers designing out waste by considering an independent pre-demolition audit, implementing careful demolition 
+opportunities for materials optimisation, reclamation, and reuse. strategies, segregating materials and conducting 
+Minimisation of packaging, off cuts, damage and rework should be analysis / monitoring of waste flows to maximise reuse and reclamation.
+given special attention through off-site, precision manufacture, just-in-
+time delivery and secure on-site storage. Commitment 3.2 Managing excavation waste
+
+2.2.12. When excavating and designing the public realm, topsoil must 2.2.17. Due to the characteristics of this waste stream, not all 
+be given special attention due to its high value and concerns that it of it can easily be reused or recycled, whether on site, locally or 
+is being damaged and wasted at a highly unsustainable rate. Topsoil otherwise. Nonetheless, excavation material should be put to the best 
+should never be disposed of to landfill except potentially as a environmental use that is practicable.
+planting medium as part of a site reclamation scheme. Consideration 
+should be given to balancing cut and fill (avoiding any import or export 2.2.18. For example, using excavation waste as a resource within the 
+of material) and to techniques that clean and enable reuse of excavation construction of the proposed development in accordance with the 
+material on site. Definition of waste Code of Practice (DoWCoP), seeking opportunities 
+
+for such material to be used in other local construction projects, or 
+Principle 3 other beneficial uses (e.g.  quarry restoration) should be prioritised 
+
+Manage waste sustainably and at the highest value above sending waste to landfill. 
+
+2.2.13. After considering opportunities to minimise the use of Commitment 3.3 Managing construction waste
+resources and design to eliminate waste, developers must demonstrate 
+how they propose to manage any waste that does arise. This includes 2.2.19. Applicants should aim to incorporate measures for managing 
+any waste arising during demolition, excavation, and construction construction waste that go above and beyond standard practice where 
+(i.e. resulting from the process of developing the physical built possible.
+environment), along with municipal waste (i.e. resulting from the 
+activities of occupants) and industrial waste, if any. 2.2.20. It is also important to recognise that construction waste arises 
+
+after the initial construction phase of a development – during the 
+2.2.14. Any waste arising must be managed as high up the Waste operational phase, due to maintenance, refurbishment, and at the end 
+Hierarchy as is practicable. of life. It may be possible to develop plans for managing this waste, 
+
+based on repair and replacement forecasts or functional adaptability 
+2.2.15. Management of waste includes the transportation of waste and studies.
+consolidating trips, reducing distances and shifting freight movements 
+to cleaner modes.7 Commitment 3.4 Managing municipal waste (and industrial waste, if 
+
+applicable)
+
+2.2.21. This topic should be reflected in the operational waste 
+management plan. Easily accessible space for segregating and 
+storing waste for collection and reuse / recycling / composting must 
+
+7	  Refer to the Mayor’s Transport Strategy provides further detail. be provided in line with the London Plan and other local authority 
+guidance. 
+
+20 CIRCULAR ECONOMY CONCEPTS CIRCULAR ECONOMY CONCEPTS 21
+
+
+
+2.2.22. Both domestic and non-domestic developments should explore 2.3.2. For example, the structure of a building will typically be designed 
+measures such as consolidated, smart logistics and community-led to last for 100 years or more whilst features like the façade may be 
+waste minimisation schemes. replaced two or three times over the life of a building.  Bathrooms, 
+
+kitchens, flooring, furniture and furnishings will typically be replaced 
+2.3. 'Building in layers' much more often.
+
+2.3.1. A useful way to understand a building or development is in terms 2.3.3. Taking a design approach that recognises these distinctions, the 
+of ‘layers’, where each layer has its own life-cycle that may require a structure and façade of a development may be built to be long lasting 
+different approach (or different solutions) to be adopted.8 This concept and adaptable, whilst individual components like the services, interior 
+is illustrated in Figure 1 below. space and furnishings are designed in a way that supports reuse or 
+
+recycling.
+
+2.3.4. The layers that are commonly referred to across industry are 
+Recovered 
+
+Factory material defined below, with reference to the RICS New Rules of Measurement 
+(2012) where relevant. These form the basis of several of the Circular 
+
+DES Economy Statement reporting forms, which prompt applicants to 
+IGN FOR DE develop Circular Economy strategies for each building ‘layer’ over the 
+
+CONS
+D T
+
+Structure
+E R
+
+S U lifecycle of a development.
+IG C
+
+N T
+ I
+F O
+
+O N
+R  
+
+ EASE O
+
+Skin
+F REFURB
+
+D I
+E S
+
+S H
+I M
+G E RICS reference
+
+Services N N
+ F T
+
+O  Layer Summary and constituent 
+R LONG LI elements
+
+FE/LOOSE
+D  F
+
+E I
+S T
+
+Space IG
+& N
+
+  
+A F
+
+D O Resource Site The geographical setting, urban location NRM 8
+Assembly A R
+
+P  F
+T L
+
+A E
+B X
+
+IL IB
+IT IL
+
+Y IT facility
+Y and external works
+
+Stuff SE D
+R E
+
+V S
+IC IG
+
+E N
+ &  F
+
+ S O
+H R
+
+A  Substructure Excavations, foundations, basements NRM 1
+RING and ground floors
+
+0-3 3-7 7-15 15-60 60-120 Superstructure Load-bearing elements above plinth NRM 2.1, 2.2 and 2.4 - 
+YE aRs YE aRs YE aRs YE aRs YE aRs
+
+Site including roof supporting structure frame, upper floors, stairs
+120 YE aRs +
+
+design for remediation, 
+integrated infrastructure systems and longevity Shell/Skin The layer keeping out water, wind, heat, NRM 2.3, 2.5, 2.6 - roofs, 
+
+cold, direct sunlight and noise external walls, windows 
+Disassembly and external doors
+
+Use
+
+Services Installations to ensure comfort, NRM 5
+practicality, accessibility and safety
+
+Figure 1 - 'Building in layers diagram', diagram courtesy of Useful Projects
+Space The layout internal walls, ceilings, floors, NRM 2.7, 2.8 and
+
+8	  See Frank Duffy’s ‘Shearing Layers’ concept described in ‘How Buildings Learn’ by S. Brand 
+(1994) finishes, doors, fitted furniture NRM 3
+
+22 CIRCULAR ECONOMY CONCEPTS CIRCULAR ECONOMY CONCEPTS 23
+
+
+
+Stuff Anything that could fall if the building N/a Approach Description
+was turned upside down
+
+Existing developments or components
+Construction Any temporary installations/works/ NRM 0
+Stuff materials, packaging and equipment Redeveloped for similar needs and uses but meeting or exceeding 
+
+current regulations and standards through restoring, refinishing and 
+future proofing while minimising changes and avoiding replacement 
+
+Refurbishment of any parts.  Parts of historical significance are incorporated in the 
+2.4. Defining a strategic approach design and carefully preserved.  Designed for longevity, adaptability 
+
+or flexibility to prolong the new life of the development.
+2.4.1. In order to implement Circular Economy principles most 
+effectively, it is helpful to explore high level strategic opportunities as 
+early in the development process as possible. Redeveloped to accommodate different needs and/or uses (e.g.  
+
+from industrial use to mixed use) but exceeding current regulations 
+2.4.2. Choosing the most appropriate Circular Economy strategy will and standards through with significant changes and replacement of 
+depend on context, the nature of the development, owner and occupier Repurpose shorter-life parts.  Parts of historical significance are incorporated 
+needs. The strategy should be determined during concept design in the design and carefully preserved.  Designed for longevity, 
+and should form part of the development brief. Feasibility studies, adaptability or flexibility to prolong the new life of the development.
+surveys, audits and other investigations may be required to understand 
+what options are appropriate. The approach may evolve as the design 
+evolves, or in response to wider considerations. Applicants should Building/infrastructure disassembled, with the entire asset being 
+therefore be prepared to review and change approaches as appropriate. Deconstruct and reconstructed elsewhere, or individual components directly reused 
+
+reuse elsewhere.
+2.4.3. In many cases, a different approach should be adopted for 
+different parts or areas of the development, such as Traditional demolition, with elements and materials converted into 
+
+Demolish and new elements and materials and objects for use on the site or on 
+●	 Existing buildings / components versus new buildings / recycle another site nearby.
+
+components
+
+●	 Long lifespan buildings / components versus short lifespan 	 	
+	 buildings / components
+
+2.4.4. Some of the different strategic approaches that can be adopted 
+are listed below. These are not mutually exclusive but can provide an 
+overarching framework for teams to define the strategic approach to a 
+given project (or part of project).
+
+24 CIRCULAR ECONOMY CONCEPTS CIRCULAR ECONOMY CONCEPTS 25
+
+
+
+Long life new developments or components 2.5. Starting out
+(expected life over 25 years)
+
+2.5.1. To identify the appropriate strategic approach, applicant teams 
+Tailored to well-defined, long term needs while being durable and are encouraged to use the ‘Decision Tree’ on the following page. It 
+resilient or able to cope with change with little modification/no prompts designers and developers to consider opportunities for 
+
+Longevity replacement of parts due to its ‘loose fit’, generous proportions and maximising the residual value of any buildings, materials or elements on 
+readiness for alternative technologies, different ways of living or site, before considering strategies for adding value over the lifetime of 
+working and a changing climate. the development.
+
+2.5.2. As explained in more detail in Section 3, applicants must describe 
+Designed to meet the needs of the present, but with consideration and justify their strategic approach in the Circular Economy Statement 
+of how those needs might change in the future and designed for using the template (Table 1) provided in Appendix A.
+
+Adaptability change in the form of periodic remodelling including alterations or 
+replacement of non-structural parts – modifications are likely to 2.5.3. The next section of this guidance document lays out how the 
+involve planning, building control and ‘wet trades’. concepts in the decision tree can be incorporated into the design 
+
+process and evidenced within a Circular Economy Statement.
+
+Designed to balance the needs of the present with how those needs 
+will change in the future and designed for change through frequent 
+
+Flexibility reconfiguring including reconfiguration of non-structural parts – 
+configurations are likely to be pre-agreed with planning and building 
+control and not involve ‘wet trades’ or any waste.
+
+Short life new developments or components 
+(expected life up to 25 years)
+
+Designed to be redeployed as modules or reused as a kit of parts 
+Reusability on one or more different sites while minimising any servicing and 
+
+maximising the size of the future market by using high-demand, 
+standard dimensions and specifications.
+
+Designed to be deconstructed and reused or recycled on a part by 
+Recoverability part basis due to neither modules nor a kit of parts being desirable, 
+
+feasible or viable and/or a limited future market as a result of unusual 
+parts, dimensions or specifications
+
+Waterloo City Farm, Feilden Fowles
+(Photography: ©Peter Cook)
+
+26 CIRCULAR ECONOMY CONCEPTS CIRCULAR ECONOMY CONCEPTS 27
+
+
+
+2.6. Strategies for maximising residual value 3
+STRUCTURE AND CONTENT OF 
+
+No Is there an existing Yes CIRCULAR ECONOMY STATEMENTS
+building on the site?
+
+Are there any building materials or Is it technically feasible and viable to 3.1. Overview of requirements at different stages
+elements available on site? retain the building(s) in whole or in part?
+
+3.1.1. The production of a Circular Economy Statement involves three 
+Is it technically feasible and viable steps that take place at different stages of the development process:
+
+to recover the ‘residual value’ of No Yes
+the building elements or materials? Step 1
+
+Pre-application/Outline application stage → submit a Draft Circular 
+Is the existing building suited to Economy Statement 
+the new use and requirements?
+
+Step 2
+No Yes No Yes Full application stage → submit a Detailed Circular Economy Statement
+
+Step 3
+Demolish  Deconstruct Repurpose Refurbish Post-Completion Updates (specific to each project)
+
+and recycle and reuse
+3.1.2. As shown in the table below, the Circular Economy Statement 
+
+Strategies for maximising value over the lifetime of the  should include input from the developer and their consultants including 
+development by adding new buildings/infrastructure the design team and contractor(s), suppliers, facility managers, waste 
+
+managers and end users (where possible). Compiling the requisite 
+information will require at least one meeting or workshop during the 
+
+Is the expected life long or short? outline planning application stages, and another during the full planning 
+application stage. 
+
+Short Long
+
+Will there be a market for elements with Will the use and/or requirements Change? STEP 1 STEP 2 STEP 3
+the required dimensions/specifications? If so, how frequently?
+
+Planning stage: Pre-App/Outline Full Application Update/Completion
+
+No Yes Often Intermittent Rare 
+(<5yrs) (5–25yrs) (>25yrs) Output(s): Draft Circular Detailed Circular Planning updates
+
+Economy Statement Economy Statement Post completion 
+updates
+
+Design for  Design for Design for Design for  Design for 
+recoverability reusability flexibility adaptability longevity RIBA Stages: 1-2 2-3 4-7
+
+All developments should design for  
+DISASSEMBLY
+
+28 CIRCULAR ECONOMY DECISION TREE CIRCULAR ECONOMY CONCEPTS 29
+
+
+
+Objectives: ● Identify strategic ● Confirm strategic ● Produce updates
+approach(es) to approach(es) ● Confirm 
+existing or new ● Confirm the compliance
+development metrics and targets ● Report outcomes
+and any materials to report against ● Report lessons 
+on site outlining specific learnt
+● Agree the metrics commitments and 
+and targets to opportunities and 
+report against at plans to achieve 
+detailed design these
+stage ● Identify challenges 
+● Identify and counter-actions
+supporting 
+information or 
+calculations that 
+well be required as 
+evidence
+
+Actors to Critical Critical Critical
+involve: ● Planner ● Developer ● Developer 
+
+● Developer ● Design Team ● Design Team
+● Design Team ● Contractor ● Contractor
+
+● Subcontractors
+Desirable Desirable ● Suppliers
+● Construction ● Subcontractors ● Facility Manager
+Advisor or ● Suppliers
+Contractor ● Facility Manager Desirable
+
+● Occupants and 
+tenants
+
+Actions to ● Initial workshop(s) ● Follow up ● Confirm that 
+undertake: with design team workshop(s) with targets are achieved 
+
+to agree strategic design team ● Monitor outcomes
+approach ● Calculations, ● Engage with 
+● Integrate CE research, data occupants / tenants 
+principles into the gathering, etc. as necessary 
+project brief ● Engagement with 
+
+supply chain
+Here East, Hawkins\Brown / Buro Happold
+
+(Photography: © Rory Gardiner)
+
+30 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 31
+
+
+
+3.2. Overview of requirements at different stages  Reporting Outcomes
+→ State whether each target or commitment was achieved and 
+
+3.2.1. The table below shows the key elements of a Circular Economy provide evidence and supporting documentation
+Statement. It can be used as a compliance checklist or indicative Table → Lessons learned
+of Contents. Further details on each section are provided in subsequent 
+pages. Appendices
+
+Note: These documents provide the evidence base for Tables 
+1 and 2, the Waste Metrics form and the Bill of Materials. If 
+
+Title Page these are being submitted separately as part of the planning 
+application, it is acceptable to provide a summary and cross-
+
+Table of Contents reference instead of reproducing each document in full.
+
+Executive Summary → Written evidence that the destination landfill(s) have the 
+→ Brief description of development capacity to receive waste 
+→ Summary of the approach, key commitments and targets → Independent pre-refurbishment / pre-demolition audit
+
+→ Site Waste / Resource Management Plan
+Introduction → Municipal / Operational Waste Management Plan
+→ Description of development → Cut and fill calculations and/or Excavated Materials Options 
+→ Method statement (including key outcomes from workshops/ Assessment
+meetings) → Building weight calculation (load take-down)
+→ Circular economy aspirations → Scenario modelling demonstrating adaptability
+
+→ Other supporting material depending on project characteristics
+Circular Economy Goals and Strategic Approach
+→ Strategic approach(es) – summarised in Table 1 
+→ Additional text to explain the strategic approach(es), if needed
+→ [Outline Statements only: Describe any metrics that the team 
+will provide commitments for at detailed stage, e.g. recycled 
+content.]
+
+Circular Economy Commitments
+→ Key commitments – summarised in Table 2 
+→ Reporting forms for numerical targets and commitments:
+           → Bill of Materials
+           → Recycling and Waste Reporting form 
+→ Circular Economy Narrative – structured around nine CE 
+Principles
+→ Plans for implementation: 
+           → Specific plans for short- and medium-term targets
+           → Programme / method for longer-term targets
+→ End-of-life strategy
+
+32 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 33
+
+Provide updates as required
+
+Provide final documents for planning submission
+
+Provide information where available (ealry drafts) 
+
+ Post Plsnning Updates
+
+ Detailed Circular Economy Statement
+
+ Draft Circular Economy Statement
+
+
+
+UNPACKING THE CONTENTS OF A ●	 A summary of the overall implementation approach ('Who, What, 
+CIRCULAR ECONOMY STATEMENT When, and How')
+
+Title Page 3.2.5. The aim should be to summarise this information on one to three 
+pages, including any images, diagrams or tables.
+
+3.2.2. The title page of a Circular Economy Statement should contain:
+Description of the development
+
+●	 The name of the development and planning application reference
+3.2.6. The description of the development should be brief, relevant and 
+
+●	 If it is a Draft or Detailed Circular Economy Statement or a Post include buildings, public realm and supporting infrastructure. It should 
+Completion update  include:
+
+●	 Authors of the Circular Economy Statement (organisation) ●	 A short description of any existing development and/or resources 
+found on site
+
+Executive Summary
+●	 The proposed floor area (GFA, GIA and NIA) for each use
+
+3.2.3. The title page should be followed by a non-technical summary 
+of the Circular Economy approach and commitments as they stand at ●	 The number residential units (e.g. 450 flats and 70 houses)
+the stage of production. At outline application the summary will be less 
+extensive than at full application stage. ●	 The approximate size/capacity of any new public realm or 
+
+supporting infrastructure
+3.2.4. The executive summary should include:
+
+●	 Any other important information or context needed to understand 
+●	 Identities of all organisations engaged in development, design the approach taken, e.g. sites constraints, unique features, 
+
+and delivery requirements of the brief, etc 
+
+●	 A brief description of the development and any context 3.2.7. The description of the development should outline the number 
+of different areas, buildings or phases addressed by the statement and 
+
+●	 A description of strategic approach(es) for each part of the this should correspond with the number of versions of Table 2 found 
+proposed development e.g. existing buildings, new buildings, later in the Statement (see Section 3.3).
+different areas or phases as appropriate (see Section 2.4.)
+
+Method statement
+●	 A summary of the specific commitments being made, focusing 
+
+(where possible) on commitments that go above and beyond 3.2.8. A method statement should provide a summary of the process 
+standard practice. For example, crushing  bricks for reuse in followed up to the point of submission and how the team approached 
+pile cappings is standard practice; cleaning and reusing whole the production of the Statement.  This can include a summary of 
+bricks onsite retains the value of the material, avoids the need the meetings and workshops held, including key points, attendance, 
+for new bricks and is therefore more in line with Circular Economy outputs and actions. For a Draft Circular Economy statement, the 
+principles. method statement will contain less detail but should provide a summary 
+
+of steps taken thus far and note any important further steps that are 
+planned (e.g. additional workshops at detail design stage).
+
+34 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 35
+
+
+
+3.2.9. The applicant should be able to demonstrate how this process 
+has influenced the project brief, and any other aspects of the design, 
+procurement and construction process. Supporting evidence of the 
+approach taken and how this has evolved (e.g. meetings and outcomes) 
+can be provided in the appendices.
+
+Circular Economy Aspirations
+
+3.2.10. In this section, applicants have the chance to explain how 
+they interpret the Circular Economy, their view on how it improves the 
+outcomes and their priorities to accelerate the transition, including any 
+organisational Circular Economy strategy or targets that have been set.
+
+3.2.11. Applicants should explain how the proposed development links 
+with these wider Circular Economy aspirations, and any unique goals for 
+this project.
+
+3.2.12. Relevant experience and past developments should be 
+mentioned, along with any notable Circular Economy outcomes 
+achieved to date. 3.2.15. Completing Table 1 requires those involved to:
+
+Strategic Approach(es) - Summarised in Table 1 ●	 Agree the high-level strategy and approach(es)
+
+3.2.13. At least one meeting/workshop should take place at an early ●	 Explain the approach with reference to policy requirements and  
+stage for the developer and design team to consider the brief and targets
+discuss the overarching Circular Economy strategy for the project. 
+Where possible, input from planners and/or contractors should also be ●	 Identify supporting information that will be required in order to set 
+sought. specific targets and prove that they are achievable – e.g. audits, 
+
+surveys, investigations, studies, analyses
+3.2.14. Once the strategic approach has been agreed, the rationale 
+should be summarised in Table 1. A snapshot of Table 1 is provided 3.2.16. Additional meetings/workshops may be necessary to develop 
+below. The template is provided in Appendix A. the approach before finalising which measures will be adopted.  Some 
+
+detailed feasibility work may be required to translate opportunities into 
+specific implementable measures.
+
+3.2.17. Outline and full application statements must provide a 
+completed Table 1 with additional rows for different phases, buildings 
+or areas, if and where a different strategic approach is proposed. 
+
+36 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 37
+
+
+
+3.2.18. Provide additional text as needed to explain the content in Table 3.2.24. A snapshot of Table 2 is provided below. The template is 
+1, if not covered in the introductory sections. provided in Appendix B.
+
+Outline statements only: Preliminary Targets and Commitments
+
+3.2.19. Design teams, developers and any other relevant stakeholders 
+(e.g. contractors, building operations managers) teams will need 
+to reach a preliminary agreement regarding which targets and 
+commitments they will report against at detailed application stage, and 
+list these within the Draft Circular Economy Statement. 
+
+3.2.20. The Draft Circular Economy Statement should identify any 
+surveys, audits, studies or analysis required to provide a strong 
+evidence base for decisions to be taken during the next step of the 
+process / RIBA Stages 2 to 5. This will help to ensure that the goals 
+discussed at an early stage are integrated into the design process and 
+documented appropriately.  
+
+3.2.21. This section of the Draft Circular Economy Statement will be 
+replaced with specific commitments (see below) in the Detailed Circular 
+Economy Statement.
+
+Circular Economy Commitments
+3.2.25. Additional copies of Table 2 should be completed for different 
+
+3.2.22. In preparation for a detailed planning application submission, phases, buildings or areas, if and where a different strategic approach is 
+the focus should shift from strategy to action and a deeper proposed and/or different targets apply. Table 2 prompts applicants to 
+understanding of feasibility and technical challenge of the development consider how they can apply the nine Circular Economy principles (see 
+capitalising on the opportunities related to the policy requirements and Section 2.2) to each building ‘layer’ (see Section 2.3). Opportunities 
+targets. should consider all life-cycle stages of each layer.
+ 
+
+Key Commitments – Summarised in Table 2 3.2.26. The contents of Table 2 should evolve, be refined and updated 
+as the designs progress. Note that revision of Table 1 may prove 
+
+3.2.23. Table 2 (see Section 3.3) is only required for Detailed Circular necessary based on Table 2 and the developer should be engaged in 
+Economy Statements; however, it can be submitted in draft form at these decisions.
+outline planning stage. It is intended as both a procedural tool to help 
+guide workshops and discussions and as a practical tool to highlight 3.2.27. The commitments listed in Table 2 as part of the Detailed 
+key Circular Economy commitments within a full planning application. Circular Economy Statement submission should only be those that hold 
+
+the greatest opportunities, representing the strongest commitments 
+that go above and beyond standard practice where possible.  
+
+38 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 39
+
+
+
+Reporting Forms – Bill of Materials
+●	 Relevant extracts from the Municipal / Operational Waste 
+
+3.2.28. Applicants must demonstrate that they have considered Management Plan
+opportunities to conserve resources by applying lean design principles 
+and source materials sustainably. This information is captured in the 3.2.33. In addition, when it is intended to send waste to landfill 
+‘Bill of Materials’ form (see Section 3.3 for further details). applicants must provide written confirmation the receiving landfill has 
+
+the capacity to deal with waste over the lifetime of the development.9 
+3.2.29. In order to complete the Bill of Materials, applicants will need Where possible, confirmation should be provided for all waste handling 
+to estimate the quantity of materials used in each ‘layer’ of the building facilities, in or outside London.10 This should be supported by the 
+(kg), the material intensity (kg/m2 GIA) and set targets for the minimum calculations / estimates of waste arising. Figures must align with the 
+amount of recycled content to be used (% by value). Waste Metrics form.
+
+3.2.30. Applicants must provide the following evidence in appendices: Optional Reporting Forms – Pioneering statements only
+
+●	 Building weight calculation (load take-down) to be used in 3.2.34. Applicants wishing to demonstrate ‘pioneering’ Circular 
+calculating material intensity Economy status may wish to provide an Enhanced Bill of Materials (see 
+
+Appendix F for further details). An Enhanced Bill of Materials would use 
+●	 Reused or recycled content calculations, including supporting the same template as the normal Bill of Materials, but design teams 
+
+details such as Environmental Product Declarations, specification would add rows or columns to set additional targets for specific parts 
+documents, etc. of the building(s). 
+
+Reporting Forms – Recycling and Waste Metrics 3.2.35. For example, an Enhanced Bill of Materials would be suitable for 
+a project where the developer was committed to sourcing all interior 
+
+3.2.31. The Recycling and Waste Metrics reporting form (see Section furniture and fittings from the secondary materials market.
+3.3 for further details) is a template for reporting the total amount 
+of waste / material generated during excavation, demolition, and 3.2.36. Alternatively, the applicant may wish to provide a ‘Future’ Bill 
+management methods construction. At planning application stage, of Materials (see Appendix E for further details). This would involve 
+these figures will be estimates; after construction, applicants will be estimating the amount of construction and demolition waste generated 
+expected to provide an updated form with actual monitored figures. over the lifetime of the building (e.g. due to repairs, refurbishment 
+
+or decommissioning) and demonstrate how this waste has been 
+3.2.32. In order to complete the Waste Metrics form, provide the minimised. Similarly, applicants could provide additional information 
+following evidence in appendices: within the Waste Metrics form.
+
+●	 Cut and fill calculations 3.2.37. A Future Bill of Materials or Recycling and Waste Metrics 
+form would be suitable for a building that is designed to be 100% 
+
+●	 Reused or recycled content calculations, including supporting disassembled and reused at end of life.
+details such as Environmental Product Declarations, specification 
+documents, etc. 9	 GLA draft London Plan (2019) paragraph 9.7.5
+
+10	 The UK Department for Environment, Food & Rural Affairs Waste Duty of Care Code of 
+●	 Relevant extracts from the Site Waste / Resource Management Practice (2018) states: ‘You have a responsibility to take all reasonable steps to ensure that when 
+
+Plan you transfer waste to another waste holder that the waste is managed correctly throughout its 
+complete journey to disposal or recovery.’
+
+40 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 41
+
+
+
+3.2.38. Applicants should provide calculations, studies, or other Principle Develop commitments to..
+evidence in the appendices as necessary to support any such 
+commitments or targets. 1.1 Minimise the quantities of materials used
+
+1. Conserve resources, 
+Circular Economy Narrative increase efficiency and 1.2. Minimise the quantities of other resources used
+
+source sustainably
+3.2.39. This section of the Statement will provide a more detailed 1.3. Specify and source materials and other resources 
+description of how the targets presented in Tables 1 and 2, the Waste responsibly and sustainably
+Metrics reporting form and the Bill of Materials will be achieved. 
+For some projects, particularly those where key commitments are 2.1. Design for longevity, adaptability or flexibility and 
+not adequately captured in terms of numerical metrics, this section 2. Design to eliminate reusability or recoverability
+provides an opportunity to elaborate on the proposals and their waste (and for ease of 
+benefits. maintenance) 2.2. Design out construction, demolition, excavation and 
+
+municipal waste arising
+3.2.40. This part of the Circular Economy Statement should include 
+clear, strong commitments and targets. It should be structured to 3.1. Manage demolition waste
+provide a response to each of the principles listed below (introduced 
+in Section 2), with the aim of limiting subsections to one page where 3. Manage waste 3.2. Manage excavation waste
+possible. sustainably and at the 
+
+highest value 3.3. Manage construction waste
+
+3.4. Manage municipal waste
+
+3.2.41. Each subsection should contain the following:
+
+●	 A short summary of the proposed approach
+
+●	 Metric(s) and target(s) itemised
+
+●	 Commitments and measures that will be adopted - these 
+should be short, written in accessible language, along with key 
+information about how each measure will be implemented
+
+●	 Anticipated challenges and counter-actions
+
+3.2.42. Summarise and cross-reference other planning documents, 
+calculations, and reports as relevant. Other information should be 
+
+Mercato Ilford, Interrobang / Webb Yates supplied in the appendices.
+(Image: © Interrobang)
+
+42 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 43
+
+
+
+Plans for implementation
+3.2.49. Applicants should clearly indicate where any changes have been 
+
+3.2.43. Explain how short- and medium-term targets or commitments made and why (i.e. if a target has been exceeded or has not been met). 
+will be implemented, monitored, and reported. Consider the questions 
+‘Who, What, When, and How?’ The aim is to demonstrate that the 3.2.50. They should also provide evidence and supporting 
+applicant has identified specific, achievable targets and committed to documentation as appendices. These could include, for instance:
+their delivery.
+
+●	 Evidence of audits
+3.2.44. Actual performance against these targets should be submitted 
+at practical completion (see ‘Reporting Outcomes’ below.) ●	 Written agreements or correspondence
+
+3.2.45. For longer-term targets, applicants should provide a description ●	 Drawings or photos
+of the method(s) that will be used to ensure they are met, and a 
+programme of key milestones (e.g. completion, monitoring intervals, ●	 Specifications
+and so on).
+
+●	 Performance and test certificates
+End-of-life strategy
+
+Lessons learned
+3.2.46. Applicants should describe the strategy for how the proposal’s 
+design and construction will reduce material demands and enable 3.2.51. In order to inform and improve the Circular Economy Statement 
+building materials, components and products to be disassembled and process, structure and contents, applicants should describe the 
+reused at the end of their useful life. Building Information should be important lessons learned and summarise these in their Post 
+stored (e.g. Building Information Modelling or BIM) to facilitate end Completion Report. 
+of life strategy, disassembly, future reuse, waste avoidance, waste 
+reduction etc. Applicants should describe the content and format of the 3.2.52. These should be captured at each stage of design and 
+strategy and how this will be communicated to future building users. construction. Assigning an individual or individuals to capture lessons 
+They should also outline key challenges that may prevent the strategy is crucial to ensure that these are fully understood and communicated 
+from being implemented, and how these have been addressed to the to the wider team. 
+greatest extent that is feasible at this stage.
+
+3.2.53. Lessons should be presented in a way that will help future 
+Reporting outcomes - Post Completion Report development understand how best to achieve the London Plan Circular 
+
+Economy objectives (see Section 1.1). This information will also be used 
+3.2.47. This portion of the Circular Economy Statement sets out to inform future London Plan circular economy policy and guidance. 
+the targets, commitments and actual outcomes achieved. To some 
+extent, the structure and content will therefore be specific to each 3.2.54. ‘Pioneering’ Circular Economy Statements should look beyond 
+development. the technical challenges and analyse structural and other issues that 
+
+have to be addressed to achieve significant Circular Economy goals. 
+3.2.48. As a minimum, applicants must produce a Post Completion Information captured should be validated and shared across the 
+Report setting out the predicted and actual performance against all industry wherever possible.
+numerical targets, and provide updated versions of Tables 1 and 2, the 
+Recycling and Waste Metrics form and Bill of Materials. 
+
+44 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 45
+
+
+
+Appendices ●	 In-use replacement and repair estimates - if providing a Future Bill 
+of Materials
+
+3.2.55. As noted previously, when it is intended to send waste to landfill 
+applicants must provide written confirmation the receiving facility has ●	 Material Circularity Index value and supporting information
+the capacity to deal with waste over the lifetime of the development. 
+
+●	 Building as Material Banks (BAMB) Assessment 
+3.2.56. In addition, the following should be provided to support the 
+applicant’s Circular Economy Statement commitments at full planning 
+stage: 
+
+●	 Independent pre-refurbishment / pre-demolition audit
+
+●	 References to the relevant extracts from the Site Waste / 
+Resource Management Plan
+
+●	 Reference to the relevant extracts from the Municipal / 
+Operational Waste Management Plan
+
+●	 Cut and fill calculations
+
+●	 Building weight calculation (load take-down)
+
+●	 Scenario modelling demonstrating adaptability
+
+●	 Circular Economy workshop / meeting notes
+
+●	 Relevant extracts from the development brief
+
+●	 Lean design options appraisal
+
+●	 Reused or recycled content calculations
+
+3.2.57. Other supporting documents will depend on the specific 
+commitments made for a given project, but might include:
+
+●	 Design for deconstruction / disassembly study
+
+●	 Environmental Product Declarations (as evidence of recycled 
+content, healthy materials, renewable energy used in the Paxton House, Alma-Nac / Civic Engineers
+manufacturing process, etc) (Photography: © Jack Hobhouse)
+
+46 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 47
+
+
+
+3.3. Metrics and Reporting Forms Excavation, demolition, construction and municipal waste (where 
+relevant) → These metrics help to ensure that the proposals 
+acknowledge opportunities to design out waste over the course of the 
+
+3.3.1. ‘Compliant’ Circular Economy Statements must include clearly development’s life span and effectively meet  specific London Plan 
+defined activities and targets relating to: targets for managing waste and material streams:12 
+
+●
+Material intensity
+
+The purpose of reporting this metric is twofold: first, to gather evidence 
+about the material intensity of different structural systems and Excavation:
+development types; and second, to ensure that material optimisation is 95% beneficial
+
+reuse
+considered as part of the design process.
+
+● Construction and 
+demolition: 
+
+Reused or recycled content 95% reuse / 
+Applicants should identify opportunities for use of reused or recycled recycling / recovery
+materials and set individual targets of at least 20 per cent by value 
+of materials.11 Note that many production activities that are currently 
+referred to as ‘recycling’ are in fact ‘downcycling’. Examples include Municipal: 
+solid timber being turned into chipboard, or bricks being crushed into 65% recycling by 
+aggregate. In a Circular Economy, the aim should always be to ensure 2030
+that the material is brought back to a comparable or higher level of 
+quality and value.
+
+3.3.2. Applicants submitting a detailed Circular Economy Statement 
+must complete the Bill of Materials and the Recycling and Waste After on-site opportunities have been exhausted, applications should 
+Reporting Form set out and explained on the following pages. For refer to the London Waste Map to consider opportunities for using 
+further guidance on when to complete these forms refer to Section 3.2. local sites to manage materials and waste where practical. This will 
+Templates are set out in the Appendices. help keep the value of materials and waste circulating in London, and 
+
+support achieving the Mayor’s 100 per cent net waste self-sufficiency 
+3.3.3. At all times, applicants must follow the Waste Hierarchy and target by 202613 (draft London Plan Policy SI8). Reporting on the 
+ensure that design measures to avoid or reduce waste are prioritised. amount of waste generated and managed will help applications to 
+
+3.3.4. In order to be ‘compliant’ with this guidance, Circular Economy 12	 The stricter definition of ‘landfill’ post-Methley Quarry judgement and recent changes to 
+Statements must include clearly defined activities and targets relating the regulatory regime for excavated materials means that some permitted sites that are defined as 
+to: ‘landfill’ by the Environment Agency can be included in the definition of ‘beneficial use’ by the GLA. 
+
+The developer should explain in detail why a proposed site may be regarded as ‘beneficial’ in these 
+circumstances. Every effort should then be made to use the material in other innovative ways, and 
+to find markets for the products produced from it, in accordance with the waste hierarchy, without 
+
+11	 The expected minimum level of performance based on work by WRAP, experience of the causing harmful impacts on the natural environment. 
+Olympic Delivery Authority and other projects is that at least 20% of the total value of materials 
+used should derive from recycled and reused content in the products and materials selected. See 13	  Note that this excludes excavation waste. The particular characteristics of this waste stream 
+WRAP (2009) ‘Delivering higher recycled content in construction projects’ [online] Available at: mean that it will be challenging for London to provide either the sites or the level of compensatory 
+http://www.wrap.org.uk provision needed to achieve net self-sufficiency in this regard.
+
+48 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 49
+
+
+
+monitor effective waste management performance, and help the GLA 
+monitor progress towards its circular economy and waste policies and 
+targets.
+
+Bill of materials: conserving resources and sustainable sourcing
+
+3.3.5. A template Bill of Materials is provided in Appendix C. The 
+Bill of Materials is intended to encourage teams to reduce material 
+intensity and maximise the amount of content that is responsibly and 
+sustainably sourced (e.g. recycled or reused). Applicants should review 
+different structural options and determine whether the least material 
+intensive construction has been selected. If it has not been selected, 
+assess whether the rationale for not selecting it aligns with the Circular 
+Economy strategic approach (e.g. refurbishment of an existing building, 
+design for adaptability, disassembly, or similar).
+
+3.3.6. Recognising that opportunities will be unique to each 
+development, applicants can either report against targets for different 
+building layers (e.g. structure, Shell/Skin and space) or for different 
+materials (e.g. metals, plastic, timber). If reporting by material, 
+calculations should focus on those with the highest value and aim 
+to address at least 80% of the material used (i.e. 80% by value). If 
+reporting by building layer, applicants should focus on the ‘Structure’, 
+‘Shell/Skin’ and ‘Space’ as a minimum.
+
+3.3.7. Pioneering statements may include additional columns or 
+rows where additional commitments are being made. Examples are 
+provided (shaded in grey) in the table above. For instance, a building 
+containing elements that can be 100% reused at end of life might 
+include an additional column for ‘Estimated reusable materials (kg/m2)’ 
+or similar. Applicants should provide evidence as needed. For instance, 
+if reporting on the amount of reused content, they should provide 
+information about where the material will be sourced from, whether any 
+repairs or additional work will be needed to make it useable, etc. 
+
+3.3.8. Post-completion, applicants should provide an updated Bill of 
+Materials with actual figures, indicating where these differ from those 
+provided at planning stage where known, with supporting calculations. 
+The following table provides further information relating to the Bill of Barretts Grove, Amin Taha & Groupwork / Webb Yates
+Materials and describes the calculations required to complete it. (Photography: ©Tim Soar)
+
+50 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 51
+
+
+
+Bill of Materials
+Further information
+
+METRIC DEFINITION EVIDENCE / REFERENCES AND TOOLS
+SUPPORTING INFORMATION
+
+Material intensity (kg/ Self-weight (in kg) of structure and Note: If the proposal will include a mixture of existing/ refurbished and new buildings, material A range of weights of buildings can be 
+m2) - for structure, shell floors, façade, roof and allowance for intensity should be provided for these elements separately and in total. found in:
+and space layers as a internal partitions. 
+minimum Planning stage: ‘Material quantities and embodied 
+
+Gross floor area (m2) for whole project, → Calculations of material intensity – may be rough estimates based on building load take-down. carbon dioxide in structures,’ Article 
+including areas retained or refurbished. → If different structural options are being considered, provide a comparison with estimates of the in  Engineering Sustainability · August 
+
+relative weight of each option. 2015
+
+Post-completion: De Wolf, Yang, Cox et al
+→ Obtain calculations showing actual material intensity of construction.
+→ Note that the materials intensity of the design will change between design and operation.
+
+Recycled content (%) (% Quantity of recycled content (as Planning stage: WRAP Net Waste Tool
+by value) for  structure, defined in ISO14021) in products, → List of materials with recycled content and breakdown estimate of percentage of value for 
+shell and space layers expressed as a percentage of the value each material, or completed WRAP Net Waste Tool Delivering higher recycled content in 
+as a minimum of the products. construction projects, WRAP, 2009
+
+Post-completion:
+→ List of actual construction materials with recycled content and breakdown estimate of Calculating and declaring recycled 
+percentage of value for each material content in construction products, 
+
+‘Rules of Thumb’ guide, WRAP
+
+Reused content (%) (% Reuse is the use of a product in its Completed calculations of reused content in structure, shell and space layers, as a minimum.
+by value) for structure, original form with minimal reprocessing, 
+shell and space layers that was originally destined for waste List of materials / components with reused content and breakdown estimate of percentage 
+as a minimum or recycling. of value for each material, focussing on highest value materials. Update post-completion if 
+
+necessary.
+
+52 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 53
+
+
+
+Recycling and Waste Reporting Forms Reuse on site:
+MAXIMISE
+
+3.3.9. A template Recycling and Waste Reporting Form is provided in 
+appendix E. As illustrated in Figure 2 below, applicants should provide 
+an estimate of the total amount of waste or excavation material arising. 
+Then, they should indicate how much will be reused or recycled onsite, 
+how much will be reused or recycled offsite, and the residual waste that Total
+will be sent to landfill. If the proposal will include a mixture of existing/ Reuse off-site: waste:
+refurbished and new buildings, estimates should be provided for these MAXIMISE MINIMISE
+elements separately and in total.
+
+3.3.10. With regards to the material that is recycled either on or off 
+site, applicants should indicate in the text how the material will be used, 
+distinguishing between uses that maintain or improve the value of a Waste to landfill:
+material, and uses that reduce the value of a material (i.e. ‘downcycling’). MINIMISE
+
+3.3.11. For each metric, applicants should state the methodology or Figure 02 - Recycling and Waste diagram
+tools used to supply the estimate. They should also cross- reference 
+the relevant section of the Circular Economy Statement describing 
+the process for optimising use of materials, sustainable sourcing and 
+monitoring/ reporting. Estimates should align with the Site Waste / 
+Resource Management Plan(s) and Operational Waste Management 
+Plan.
+
+3.3.12. At planning stage, applicants should provide written evidence 
+that the destination landfill(s) have the capacity to receive waste, along 
+with a notification of the likely destination of all waste streams (beyond 
+the Materials Recycling Facility) where known. During construction, 
+applicants should record the source of all waste arising and monitor 
+using SmartWaste or a similar waste management tool. 
+
+3.3.13. Post-completion, applicants should provide an updated Waste 
+Monitoring Form with actual figures, indicating where these differ 
+from those provided at planning stage where known. They should also 
+provide confirmation of the actual destination and amounts of waste 
+and excavated material managed (e.g. figures from recycling facilities 
+on recycling percentage), and that the ultimate receiver of material (e.g. 
+another site) had capacity. Oppenheimer Building, Urban Projects Bureau
+
+(Photography: ©Kilian O'Sulivan)
+The following table provides further information relating to the 
+Recycling and Waste Reporting Form and describes the calculations 
+54 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 55
+
+
+
+required to complete it.
+Recycling and Waste Reporting Form 
+Further information
+
+METRIC DEFINITION EVIDENCE / SUPPORTING INFORMATION REFERENCES AND TOOLS
+
+Construction Definition based on BREEAM 2018: Where the same contractor is doing the demolition/strip out and construction, then there will be BREEAM Wst01: 
+waste some overlap between the construction and demolition phases. Therefore, the best estimates of Construction Waste Management
+
+Non-hazardous waste materials from the split should be provided.
+on-site construction and dedicated off- SmartWaste or similar waste 
+site manufacture or fabrication. Calculations to be provided for: estimating tool
+
+The total non-hazardous waste arising (t/100m2 (GIA) or / £100K)
+Demolition → The proportion that will be reused or recycled on site (%) SmartWaste benchmarks
+waste → The proportion that will be reused or recycled off site (%)
+
+→ The proportion of waste not being reused or recycled (this would include waste sent to landfill 
+or used for energy recovery) (%)
+
+Excavation Likely excavation material and type Calculations to be provided for: WRAP Net Waste Tool
+waste of material arising from all excavation → The total estimated material arising (t). If contamination is present, indicate the amount.
+
+activities (e.g. rock, sand, stones, clay, → The proportion of non-contaminated material that will be reused on site (%) Delivering higher recycled content in 
+soil). → The proportion of non-contaminated that will be reused off site (%) construction projects, WRAP, 2009
+
+→ The proportion of non-contaminated leaving the site with no destination for reuse (%). 
+Calculating and declaring recycled 
+content in construction products, 
+‘Rules of Thumb’ guide, WRAP
+
+Estimated municipal Municipal waste is household waste Calculations to be provided for: BS 5906:2005, Waste management in 
+waste - for key streams and other waste similar in composition → The total waste arising for key streams (t / annum) or (t / annum / person) buildings - Code of practice, 2005
+
+to household waste irrespective of → The proportion that that is expected to be reused, recycled or composted either on or off 
+who collects it or disposes of it. This site (%).Commitment to a target for at least 65% municipal waste to be reused, recycled or Also see GLA and local authority 
+includes waste from shops, offices, composted. guidance e.g.
+charities, schools, government → The proportion of waste that is expected to be sent to landfill or used for energy recovery) (%) → Sustainable Design SPG
+buildings, parks and gardens. → London Environment Strategy
+
+Provision of sufficient storage for the segregation and storage of at least three waste streams → GLA Housing SPG
+(recycling, food and residual waste) in both individual units and communal bin stores where → Resource London waste and 
+relevant. recycling planning toolkits, including 
+Schemes of 1000+ units should have at least considered innovative waste management planning advice for flatted properties.
+strategies such underground storage, compaction, underground vacuum systems, on site → Improving recycling in flats 
+composting and energy generation where deemed appropriate by the Local Authority. report
+
+56 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 57
+
+
+
+The following table provides further information relating to the optional 
+metrics forms and describes the calculations that could be used to 
+complete them. Applicants are free to adapt these as desired in order to 
+showcase pioneering Circular Economy measures.
+
+Optional Metrics
+Further information
+
+METRIC DEFINITION EVIDENCE / REFERENCES AND TOOLS
+SUPPORTING INFORMATION
+
+‘Future Bill of Materials’ Calculation of likely quantities of Calculation of quantities of materials required to replace and repair parts of the building and Model Inputs for Process-Based 
+materials required to repair and description of design measures to reduce the likely demand for raw materials. Building Life Cycle Assessment'
+
+Repair and replacement replace parts of the building, based on 
+quantities (kg) the estimated life expectancy of the Calculations should focus on materials with the highest value and aim to address at least 80% of Bengt Cousins-Jenvey, Pete Walker, 
+
+components (see references). These the material used (i.e. 80% by value). Andrew Shea, Anders Johansson, 
+metrics can be reported by building Judith Sykes, July, 2015
+layer (e.g. structure, shell and space) or The life expectancy of the building should be consistent with the Stage 1 Decision Tree. If the life 
+by material (e.g. metals, plastic, timber). expectancy differs from the guidance provided in the references, then this should be justified. Allan Ashworth, (1996) "Estimating 
+
+the life expectancies of building 
+Post-completion, provide updates / revisions as necessary. components in life‐cycle costing 
+
+calculations", Structural Survey, Vol. 14 
+Construction Similar to the calculations required for Estimated quantities of waste arising during the replacement and repair of parts of the building, Issue: 2, pp.4-8
+waste: waste arising during the construction including the proportion likely to be to be reused or recycled on and off site, and the remaining 
+Operational phase of a development, applicants can waste that is not being reused or recycled (including waste sent to landfill or energy recovery.) BCIS BMI life expectancy of building 
+Phase supply details of the expected waste components, 2006
+
+arising during the operational phase as Description of the design measures to reduce the likely waste arising.
+Demolition / strip-out a result of repair, and refurbishment of 
+waste: the building. Assumptions should be The life expectancy of the building should be consistent with the Stage 1 Decision Tree. If the life 
+Operational linked to the ‘Future Bill of Materials’. expectancy differs from the guidance provided in the references, then this should be justified.
+Phase
+
+Post-completion, provide updates / revisions as necessary.
+
+Demolition / strip-out The end of life (and next life) plan for the elements of the building should be provided with a 
+waste: calculation of the percentages of waste that can be reused or recycled at end of life.
+End of life
+
+Post-completion, provide updates / revisions as necessary.
+
+58 STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS STRUCTURE AND CONTENT OF CIRCULAR ECONOMY STATEMENTS 59
+
+
+
+4 ●	 UK Green Building Council19
+
+ADDITIONAL RESOURCES
+●	 LWARB guidance for flatted properties20
+
+4.1.1. Further guidance on how to embed Circular Economy thinking 
+into construction projects with examples include:
+
+●	 Mayor of London's, Designing for a Circular Economy Primer
+
+●	 LWARB, ‘London's Circular Economy Route Map’ (2015)
+
+●	 UK-GBC Guidance
+
+●	 Designing out waste (WRAP)
+
+●	 Building as Materials Banks project papers (BAMB)14
+
+●	 Building Revolutions, RIBA Publishing
+
+●	 Circularity Indicator Project15
+
+●	 Cradle to Cradle Building Charter16
+
+●	 Designing Buildings Wiki
+
+●	 Ellen MacArthur Foundation17
+
+●	 Green Construction Board's Top Tips18
+
+●	 Sustainability assessment methods 
+	 i.e.  BREEAM, SKA, HQM, WELL, Fitwell
+
+●	 The Re-Use Atlas: A Designer’s Guide Towards a Circular 
+Economy, RIBA Publishing
+
+14	 www.bamb2020.eu/library/papers/
+15	 https://www.ellenmacarthurfoundation.org/resources/apply/circularity-indicators 19	 www.ukgbc.org/resource-use/
+16	 www.c2c-centre.com/library-item/cradle-cradle%C2%AE-building-charter 20	 Final report – Waste management planning advice for flatted properties, London Waste and 
+17	 www.ellenmacarthurfoundation.org/assets/downloads/Built-Env-Co.Project.pdf Recycling Board, 2014 https://resourcelondon.org/resources/toolkits/ and https://resourcelondon.
+
+org/resources/research-and-innovation/making-recycling-work-for-people-in-flats/  Updated 
+18	 www.cetoptips.com guidance (expected in 2019) should be applied.
+
+60 ADDITIONAL RESOURCES ADDITIONAL RESOURCES 61
+
+
+
+5 Industrial Waste produced by industrial activity which 
+GLOSSARY OF KEY DEFINITIONS Waste includes any material that is rendered useless 
+
+during a manufacturing process such as that of 
+factories, industries, mills and mining operations. 
+
+Adaptability Designed to meet the needs of the present, but with Types of industrial waste include dirt and gravel, 
+(Design for) consideration of how those needs might change masonry and concrete, scrap metal, oil, solvents, 
+
+in the future and designed for change in the form chemicals, scrap lumber, even vegetable matter 
+of periodic remodelling including alterations or from restaurants. Industrial waste may be solid, 
+replacement of non-structural parts – modifications liquid or gaseous. It may be hazardous or non-
+are likely to involve planning, building control and hazardous waste.
+‘wet trades’.
+
+Longevity Tailored to well-defined, long term needs while 
+Construction Arises from construction and demolition (or (Design for) being durable and resilient or able to cope with 
+and demolition deconstruction) activities including smaller do-it- change with little modification/no replacement of 
+waste yourself projects within private households.  Wastes parts due to its ‘loose fit’, generous proportions 
+
+may include concrete, bricks, tiles, ceramics, wood, and readiness for alternative technologies, different 
+glass, plastic, bituminous mixtures, coal tar, metals, ways of living or working and a changing climate.
+insulation and gypsum among other materials.
+
+Construction Any temporary installations/works/materials, Municipal Household waste and other waste similar in 
+stuff packaging and equipment. waste composition to household waste irrespective of 
+
+(NRM 0) who collects it or disposes of it. It includes all 
+household waste, street litter, waste delivered 
+
+Excavation Material excavated from construction sites, to council recycling points, municipal parks and 
+waste including rock, sand, stones and soils gardens wastes, council office waste, Civic Amenity 
+
+uncontaminated with dangerous substances.  waste, and some commercial waste from shops 
+and smaller trading estates where local authorities 
+
+Flexibility Designed to balance the needs of the present have waste collection agreements in place. It can 
+(Design for) with how those needs will change in the future and also include industrial waste similar in nature to 
+
+designed for change through frequent reconfiguring municipal waste. Waste under the control of local 
+including reconfiguration of non-structural parts authorities or agents acting on their behalf is now 
+– configurations are likely to be pre-agreed with better known as ‘Local Authority Collected Waste’.
+planning and building control and not involve ‘wet 
+trades’ or any waste.
+
+62 GLOSSARY OF KEY DEFINITIONS GLOSSARY OF KEY DEFINITIONS 63
+
+
+
+Recover Elements and materials converted into new Repurpose Redeveloped to accommodate different needs 
+elements and materials and objects for use on the and/or uses (e.g. from industrial use to mixed use) 
+site or on another site nearby. but exceeding current regulations and standards 
+
+through significant changes and replacement of 
+Refers to “forms of recovery other than energy shorter-life parts.  Parts of historical significance 
+recovery and other than the reprocessing of waste are incorporated in the design and carefully 
+into materials used as fuels or other means to preserved.  Designed for longevity, adaptability 
+generate energy. It includes preparing for re-use, or flexibility to prolong the new life of the 
+recycling and backfilling and other forms of material development.
+recovery such as the reprocessing of waste into 
+secondary raw materials for engineering purposes Reusability Designed to be redeployed as modules or reused 
+in construction of roads or other infrastructure. (Design for) as a kit of parts on one or more different sites while 
+Depending on the specific factual circumstances, minimising any servicing and maximising the size of 
+such reprocessing can fulfil the definition of the future market by using high-demand, standard 
+recycling if the use of materials is based on proper dimensions and specifications.
+quality control and meets all relevant standards, 
+norms, specifications and environmental and health Sustainable For the purposes of this document sustainable 
+protection requirements for the specific use” - EU Sourcing sourcing, or ‘responsible sourcing’ as it is also 
+Directive 2018/851. commonly known, addresses a range of issues, 
+
+including but not limited to material traceability, 
+Recoverability Designed to be de-constructed and reused or health and safety, and environmental management 
+(Design for) recycled on a part by part basis due to neither through the supply chain; energy, resource 
+
+modules nor a kit of parts being desirable, feasible and water use, greenhouse gas emissions, and 
+or viable and/or a limited future market as a result of ecotoxicity. Responsible sourcing is described in 
+unusual parts, dimensions or specifications. standard BES 6001.21 
+
+Refurbish Redeveloped for similar needs and uses but meeting Services Installations to ensure comfort, practicality, 
+or exceeding current regulations and standards accessibility and safety. 
+through restoring, refinishing and future proofing (NRM 5)
+while minimising changes and avoiding replacement 
+of any parts.  Parts of historical significance are Shell / Skin The layer keeping out water, wind, heat, cold, direct 
+incorporated in the design and carefully preserved.  sunlight and noise.
+Designed for longevity, adaptability or flexibility to (NRM 2.3, 2.5, 2.6 - roofs, external walls, windows 
+prolong the new life of the development. and external doors)
+
+21	 https://www.bsigroup.com/en-GB/bes-6001-responsible-sourcing-of-construction-
+products/
+
+64 GLOSSARY OF KEY DEFINITIONS GLOSSARY OF KEY DEFINITIONS 65
+
+
+
+Site The geographical setting, urban location and Downcycling The opposite of upcycling and the transformation 
+external works. of products materials into lower quality and/or lower 
+(NRM 8) value products and materials. 
+
+Space The layout, internal walls, ceilings, floors, finishes, Recover “Forms of recovery other than energy recovery 
+doors, fitted furniture. and other than the reprocessing of waste into 
+(NRM 2.7, 2.8 and NRM 3) materials used as fuels or other means to generate 
+
+energy.  It includes preparing for re-use, recycling 
+Stuff Anything that would fall if the building was turned and backfilling and other forms of material 
+
+upside down. recovery such as the reprocessing of waste into 
+secondary raw materials for engineering purposes 
+
+Substructure Excavations, foundations, basements and ground in construction of roads or other infrastructure.  
+floors. Depending on the specific factual circumstances, 
+(NRM 1) such reprocessing can fulfil the definition of 
+
+recycling if the use of materials is based on proper 
+Superstructure Load-bearing elements above plinth including roof quality control and meets all relevant standards, 
+
+supporting structure. norms, specifications and environmental and health 
+(NRM 2.1, 2.2 and 2.4 - frame, upper floors, stairs protection requirements for the specific use”. 24 
+and ramps)
+
+Waste management definitions
+
+Backfilling  "Any recovery operation of suitable non- hazardous 
+waste for the purposes of reclamation in excavated 
+areas or for engineering purposes in landscaping” 
+and quantity of waste used for backfilling “should 
+be limited to the amount strictly necessary to 
+achieve those purposes”.22 
+
+Composting Aerobic decomposition of bio-waste “in a way that 
+fulfils a high level of environment protection and 
+results in output which meets relevant high-quality 
+standards”. 23 
+
+22	 EU Directive 2018/851
+23	 EU Directive 2018/851 24	 EU Directive 2018/851
+
+66 GLOSSARY OF KEY DEFINITIONS GLOSSARY OF KEY DEFINITIONS 67
+
+
+
+Recycle The conversion of waste into new materials and Recycle EU Directive 2018/851 provides further guidance on 
+products by remanufacturing in ways that reduce (continued) what qualifies as recycling as follows:
+demands for extracting raw materials from the 
+natural environment. •	 Waste converted into secondary raw materials 
+
+for engineering purposes in construction of 
+As defined in the draft London Plan, recycling roads or other infrastructure can fulfil the 
+involves the reprocessing of waste, either into definition of recycling if the use of materials 
+the same product or a different one. Many non- is based on proper quality control and meets 
+hazardous wastes such as paper, glass, cardboard, all relevant standards, norms, specifications 
+plastics and metals can be recycled. Hazardous and environmental and health protection 
+wastes such as solvents can also be recycled by requirements for the specific use.
+specialist companies, or by in-house equipment.
+
+•	 Waste that enters aerobic or anaerobic treatment 
+Note that many of the production activities that can be counted as recycled provided that such 
+are currently referred to as ‘recycling’ are in fact treatment generates output which is to be used 
+‘downcycling’ (see above). Examples include solid as a recycled product, material or substance.
+timber being turned into chipboard, or bricks being 
+crushed into aggregate. In a Circular Economy, the •	 Waste ceasing to be waste as a result of a 
+aim should always be to ensure that the material preparatory operation before being actually 
+is brought back to an equal or comparable level of re-manufactured (or reprocessed) can be 
+quality and value. counted as recycled provided that it is destined 
+
+for subsequent; reprocessing into products, 
+materials or substances for either the original or 
+other purposes.
+
+•	 Waste to be used as fuels or other means 
+to generate energy, which are backfilled or 
+disposed of, or which are to be used in any 
+operation that has the same purpose as recovery 
+of waste other than preparing for reuse and 
+recycling, should not be counted as recycled.
+
+Reduce The design, manufacture and use of products that 
+use materials and other resources efficiently and 
+effectively with consideration of waste throughout 
+the entire life cycle including their suitability for 
+reuse or recycling (with minimal reprocessing or 
+remanufacturing).
+
+68 GLOSSARY OF KEY DEFINITIONS GLOSSARY OF KEY DEFINITIONS 69
+
+
+
+APPENDICES
+
+South London Gallery Fire Station, 6a
+(Photography: ©Johan Dehlin)
+
+70 GLOSSARY OF KEY DEFINITIONS 71
+
+
+
+AAPPPPENEDNIDX AIX –  ATA -B LTEA 1B: SLTER A1T: ESGTICR AAPTPERGOIACC HA PPROACH
+PHASE / BUILDING / STEERING SUPPORTING ANALYSIS / STUDIES / SURVEYS / 
+
+ASPECT EXPLANATION TARGET 
+AREA APPROACH AUDITS 
+
+    
+Circular economy 95% diversion 
+approach for the from landfill at 
+new development  end of life 
+
+Use additional rows 
+where differentiation is    
+appropriate 
+
+    
+Circular economy 
+
+95% diversion 
+approach for the 
+
+from landfill 
+existing site  
+
+Use additional rows 
+where differentiation is    
+appropriate 
+
+Circular economy 
+approach for 65% diversion 
+
+    
+municipal waste from landfill 
+during operation  
+
+72 APPENDICES APPENDICES 73
+
+
+
+APPENDIX B Below are sample prompts that can be used during a Circular Economy 
+COMPLETING TABLE 02 workshop. Counter-actions should be specific to each project or 
+
+organisation.
+
+Teams can use Table 2 to facilitate Circular Economy workshop(s) to 
+ensure that all opportunities have been considered for each layer of the 
+building. Prior to submission, review the table to check for coherence Type Prompt challenges Example counter-actions
+and ensure that all commitments are accompanied by a specific 
+delivery strategy. Commercial Higher initial capital costs / Ensure value-engineering 
+
+Investor or lender concerns. is not solely driven by lowest 
+Further details are provided below. capital cost.
+
+Section A guides designers to focus on conserving materials and Logistical Slower / supply delays / site Schedule around slower work 
+resources, and to source materials responsibly. features / space constraints / (off the 'critical path'), identify 
+
+storage. vacant sites.
+Section B encourages designers to design out waste through measures 
+such as designing to facilitate maintenance (therefore retaining Technical A lack of - research and Undertake precedent 
+materials and products in service for as long as possible), and through development / innovation searches, accelerated research 
+careful selection of construction techniques or procurement strategies. precedents / testing / certainty development and innovation, 
+
+or confidence. modelling and prototypes.
+Section C is where designers should consider measures that can be 
+taken to manage any waste that is generated, by increase reuse and Legal Inappropriate contracts / too Review contracts, clauses, 
+recycling rates. much risk / too little reward. insurance (e.g. Integrated Project 
+
+Insurance). 
+Summaries should be drafted for each row of the table, considering 
+if and how well the measures for the different layers will work in Social Wrong culture / attitudes / Increase awareness of the brief, 
+contributing to achieve the requirements, targets and aspirations. Any systems and processes / safe or mandates, incentives, health and 
+potentially conflicting measures should be identified and noted. Teams health concerns. safety team roles.
+should also note any potential challenges or obstacles.
+
+Political Unsupported or incompatible with Seek work-arounds, 
+Counter-actions should be proposed to address the challenges policy / regulations / standards/ highlight barriers, 
+identified. These must have clear owners and time frames. Metrics recommend amendments
+and targets set out in Section 2 should be selected to clarify how 
+performance will be quantified and monitored. Environmental Noise / vibration / dust / vehicle Implement different  working 
+
+movements or congestion. hours, screens, covers and 
+Measures linking across layers and opportunity areas should be reverse logistics. 
+highlighted. The narrative portion of the Circular Economy Statement 
+should be used to provide additional details of the plans to deliver each 
+commitment. 
+
+74 APPENDICES APPENDICES 75
+
+
+
+AAPPPPEENNDDIXIX B B –  -T TAABBLLEE 2 :2 K: EKYE CYO CMOMMIMTMITEMNETNS TS
+
+ 
+
+ SECTION A: CONSERVE RESOURCES 
+
+Minimising the quantities of             
+materials used 
+
+Minimising the quantities of 
+other resources used             
+(energy, water, land) 
+
+Specifying and sourcing 
+materials responsibly and             
+sustainably 
+
+ SECTION B: DESIGN TO ELIMINATE WASTE (AND FOR EASE OF MAINTENANCE) 
+
+Designing for reusability / 
+recoverability / longevity /             
+adaptability / flexibility 
+
+Designing out construction, 
+demolition, excavation,             
+industrial and municipal 
+waste arising 
+ SECTION C: MANAGE WASTE     
+
+Demolition waste (how 
+waste from demolition of the             
+layers will be managed) 
+
+Excavation waste (how 
+waste from excavation will             
+be managed) 
+
+Construction waste (how 
+waste arising from 
+construction of the layers             
+will be reused or recycled) 
+Municipal and industrial 
+waste (how the design will 
+support operational waste             
+management) 
+
+76 APPENDICES APPENDICES 77
+
+Site 
+
+Substructure 
+
+Super-
+structure 
+
+Shell/Skin 
+
+Services 
+
+Space 
+
+Stuff 
+
+Construction 
+Stuff 
+
+Summary 
+
+Challenges 
+
+Counter-
+Actions + Who 
++ When 
+
+Plan to prove 
+and quantify 
+
+
+
+AAPPPPEENNDDIIXX  CC  –- B BILILLL O OF FM AMTAETREIARLISA LS TEMPLATE
+
+Layer Element Material quantity Material intensity Recycled content  Reused content  Estimated Estimated Source of information 
+(kg) (kg/m2 Gross (% by value) (% by value) reusable materials recyclable  
+
+Internal Area   (kg/m2) materials (kg/m2) [Examples are given 
+  below] 
+
+Structure e.g. Foundation   Min. 20% ambition OPTIONAL OPTIONAL OPTIONAL Building weight calculation   
+ Specification documents, 
+ Environmental Product 
+e.g. Floors   Min. 20% ambition    Declarations, or other 
+ evidence of recycled 
+ content  
+e.g. Roof   Min. 20% ambition     
+
+ 
+ 
+Add rows as needed   Min. 20% ambition    
+ 
+ 
+
+Shell/Skin e.g. Cladding   Min. 20% ambition    
+ 
+ 
+Add rows as needed   Min. 20% ambition    
+ 
+ 
+
+Space e.g. Partitions   Min. 20% ambition    
+ 
+ 
+Add rows as needed   Min. 20% ambition    
+ 
+ 
+
+ 
+ 
+ 
+
+78 APPENDICES APPENDICES 79
+
+
+
+ 
+APPENDIX D - RECYCLING AND WASTE REPORTING 		
+TAEPPMPLATENDIX ED – RECYCLING AND WASTE REPORTING FORM 
+
+CATEGORY TOTAL ESTIMATE OF WHICH…  SOURCE OF INFORMATION 
+ 
+ t/m2 Gross Internal Area % not reused or recycled max 5% 
+
+% reused or  % reused or 
+(GIA)  % to other management  
+
+recycled onsite recycled offsite % to landfill 
+ (e.g. incineration) 
+
+   
+Excavation waste     
+
+ 
+ 
+   
+Demolition waste     
+
+ 
+ 
+  
+Construction waste     
+
+ 
+ 
+ % recycled or % not reused or recycled  
+
+% reused on or off 
+t/annum  composted, on or % to other management 
+
+site % to landfill 
+off site (e.g. incineration) 
+
+Max. 35%  
+and no recyclable or compostable waste 
+
+Municipal waste    
+  
+ 
+
+ Max. 35%  
+Industrial waste  and no recyclable or compostable waste 
+
+   
+(if applicable)  
+
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+80 APPENDICES APPENDICES 81
+
+
+
+APPENDIX E - EXAMPLES OF OPTIONAL METRICS
+(Pioneering statement only)
+The following templates can be used or adapted by ‘pioneering’ 
+AdePvPeEloNpDmIeXn tEs  –to E dXeAmMonPsLtrEaSte O thFa tO cPoTnsIOidNerAaLtio Mn EhTasR bICeeSn – g (iPveionn toe ering statements only) 
+minimising and managing the waste arising during the operational 
+Tphhea sfoel loowf itnhge t bemuipldlaintegs ( cea.gn.  bree puasierds ,o rre apdlaapcteemd ebnyt ‘,p mioanienetreinnga’n dceev)e alonpdm/oern tast  to demonstrate that consideration has been given to minimising and managing the waste arising 
+end of life.
+during the operational phase of the building (e.g. repairs, replacement, maintenance) and/or at end of life. 
+
+ '‘FFUTURE  BIILL  OF  MATEERIIAALLSS’ ' 
+ 
+
+LAYER ELEMENT ASSUMED NUMBER OF REPAIR AND STRIP-OUT WASTE CONSTRUCTION WASTE SOURCE OF INFORMATION 
+REPLACEMENTS REPLACEMENT ARISING ARISING (T) [EXAMPLES PROVIDED BELOW] 
+
+QUANTITIES OF (T) 
+MATERIALS (KG) 
+
+Structure e.g. Foundation -    Life-cycle costing plans 
+ 
+
+Design for Disassembly Strategy 
+e.g. Floors -    
+ RICS ‘New Rules of Measurement’ 
+
+e.g. Roof e.g. 1no. in building life    (contains estimated life-cycles for 
+
+(after 40 years) different building elements) 
+
+Add rows as needed     
+ 
+
+Shell/Skin e.g. Cladding     
+ 
+Add rows as needed     
+ 
+
+Space e.g. Partitions e.g. 3no. strip outs and    
+replacements 
+
+Add rows as needed     
+ 
+
+ 
+ 
+ 
+ 82 APPENDICES APPENDICES 83
+ 
+ 
+ 
+
+
+
+ 
+AAPPENDIX E - EXAMPLES OF OPTIONAL METRICS
+(PPiPoEnNeDerIXin Eg – s EtaXtAeMmPeLnEtS o OnFly O) PTIONAL METRICS – (Pioneering statements only) - continued 
+
+‘ENHANCED’ WASTE REPORTING  
+'ENHANCED' WASTE REPORTING
+ 
+
+CATEGORY TOTAL ESTIMATE OF WHICH…   SOURCE OF INFORMATION 
+
+  [Examples provided below] 
+t/m2 Gross Internal Area % reused or recycled % reused or recycled % to landfill / not reused or 
+
+(GIA)  onsite offsite recycled 
+ 
+
+OPERATIONAL STAGE Operational Waste Management Plan 
+
+ Life-cycle costing plans 
+Demolition / strip-out waste    Max. 5% 
+
+Design for Disassembly Strategy 
+ 
+ RICS ‘New Rules of Measurement’ (contains estimated life-
+
+Construction waste    Max. 5% cycles for different building elements) 
+ 
+
+END OF LIFE / DECOMISSIONING STAGE 
+
+ 
+Total materials     
+ 
+
+ 
+
+84 APPENDICES APPENDICES 85
+
+
+
+ABOUT COMMISSIONING QUALITY 
+GOOD GROWTH BY DESIGN Ensuring excellence in how the Mayor and other public sector 
+
+clients appoint and manage architects and other built environment 
+professionals.
+
+Good Growth by Design
+CHAMPIONING GOOD GROWTH
+
+The Mayor's Good Growth by Design programme seeks to enhance Advocating best practice to support success across the sector. 
+the design of the built environment to create a city that works for 
+all Londoners. This means development and growth should benefit 
+everyone who lives here. As such, it should be sensitive to the local The Mayor's Design Advocates
+context, environmentally sustainable, and physically accessible. 
+
+The Mayor's Design Advocates are 50 built environment professionals. 
+The programme calls on all involved in London's growing architectural, They were chosen for their skill and experience to help the Mayor 
+design and built environment professions to help realise the Mayor's support London's growth through the Good Growth by Design 
+vision. programme. They are independent and impartial, and provide support, 
+
+advice, critique and expertise on London's built environment. The 
+Good Growth by Design uses the skills of both the Mayor's Design group includes practitioners, academics, policy makers and those from 
+Advocates and the wider sector. This includes teams here at City Hall, community-led schemes. Fifty per cent of the advocates are women, and 
+the London Boroughs and other public bodies. one in four are from a BAME background. 
+
+The programme has six pillars:
+Setting Standards: Circular Economy
+
+SETTING STANDARDS
+Using design inquiries to investigate key issues for architecture, urban The Mayor's Design Advocates and City Hall's Regeneration and 
+design and place-shaping, in order to set clear policies and standards. Economic Development, Environment and Planning teams have been 
+
+developing research related to the circular economy in response to 
+APPLYING STANDARDS policy SI7 in the draft London Plan. This work has been led by the 
+Ensuring effective design review and scrutiny across London, including Circular Economy Sounding Board with support from sustainability 
+establishing a London Review Panel. consultants Useful Projects. This document shows the Mayor's 
+
+commitment and leadership, with London leading the way in the 
+BUILDING CAPACITY transition to a circular economy. It is a call to action for the built 
+Enhancing the GLA Group's and boroughs' ability to shape new environment sector and construction industry to join him by applying 
+development to deliver good growth. new design approaches to projects, supporting the Mayor's aim of 
+
+making London a sustainable an inclusive city for all Londoners. 
+SUPPORTING DIVERSITY
+Working towards a more representative sector and striving for best 
+practice while designing for diversity.
+
+86 ABOUT GOOD GROWTH  BY DESIGN ABOUT GOOD GROWTH BY DESIGN 87
+
+
+
+ABOUT ●
+GOOD GROWTH Ensures that London remains resilient to our changing climate and is 
+
+green and healthy. It means clean air, easy access to green space, more 
+efficient buildings supplied by cleaner energy, and a move towards zero 
+
+Good growth... emission transport.
+
+● ●
+Means building a more inclusive city and an inviting place to live, Enables everyone to fulfil their potential, by providing inclusive access to 
+work and visit. This will help improve the health and well-being for transport and other public services. It ensures that all communities see 
+all Londoners. the benefits of growth and enables broader public participation in how 
+
+the city changes.
+●
+
+Plans for a balanced mix of young and old, of people from different 
+cultures and backgrounds, of housing tenures and workplaces. 
+
+●
+Supports and enriches a city’s public and civic spaces along with the 
+streets and routes that connect them. It takes a contextual approach. 
+This allows for vitality and change whilst sustaining and strengthening 
+the character of London’s existing neighbourhoods. 
+
+●
+Allows Londoners to benefit from living actively. It uses the ‘Healthy 
+Streets’ approach to reduce car dependency and enable people to walk, 
+cycle and use public transport instead.
+
+●
+Helps the city to work more efficiently by reducing car dominance. This 
+helps make the best use of public space and ensures that essential 
+freight traffic can help London’s businesses to thrive.
+
+●
+Prioritises high-density, mixed-use developments to create a compact 
+city in which communities are well connected. It means people do not 
+have to depend on cars to get around and ensures the best use is made 
+of scarce land.
+
+●
+Is a partnership between the public and private sector. It takes a long-
+term approach to investment to yield the wider benefits of change.
+
+88 ABOUT GOOD GROWTH ABOUT GOOD GROWTH 89
+
+
+
+ACKNOWLEDGEMENTS FOR MORE INFORMATION
+The GLA would like to thank the following organisations for their Regeneration Team 
+contributions to and advice on this guidance: Greater London Authority, 
+
+City Hall, The Queen’s Walk, 
+Architects, consultants and contractors - AECOM, Allies and London SE1 2AA
+Morrison, ARUP, BPP Consulting, BRE, Hawkins Brown, Elementa 
+Consulting, Eunomia, Expedition Engineering, Globechain, Grimshaw, www.london.gov.uk/what-we-do/regeneration/advice-and-guidance/
+ISG, The Great Recovery, Useful Projects about-good-growth-design
+
+Developers and Estate Owners - Argent LLP, Clarion Housing Group, goodgrowthbydesign@london.gov.uk
+St James Group/ Berkeley Homes, Lendlease, Telford Homes, University 
+College London Estates For a large print, Braille, disc, sign language video or audio-tape version 
+
+of this document, please contact us at the address below:
+Industry Associations - Construction Products Association, New 
+London Architecture, UKGBC Public Liaison Unit			   Telephone 020 7983 4000
+
+Greater London Authority		  Minicom 020 7983 4458
+Academia – Imperial College London, University of Sheffield City Hall, London SE1 2AA		 www.london.gov.uk
+
+Public Sector – Environment Agency, European Commission Circular You will need to supply your name, your postal address and state the 
+Construction in Regenerative Cities (CIRCuIT), London Waste and format and title of the publication you require.
+Recycling Board, London Waste Planning Forum
+
+If you would like a summary of this document in your language, please 
+Circular Economy Sounding Board phone the number or contact us at the address above.
+Sunand Prasad, Mayor's Design Advocate
+Maria Smith, Mayor's Design Advocate
+Irene Djao-Rakatine, Mayor's Design Advocate
+Clara Bagenal George, Mayor's Design Advocate
+Monica von Schmalensee, Mayor's Design Advocate
+Tom Holbrook, Mayor's Design Advocate
+
+90 ACKNOWLEDGEMENTS FOR MORE INFORMATION 91
+
+
+
+A
+BUILT
+
+ENVIRONMENT
+
+FOR
+ALL
+
+LONDONERS
+
+
+
+GOOD G ROW TH BY DE SI G N
