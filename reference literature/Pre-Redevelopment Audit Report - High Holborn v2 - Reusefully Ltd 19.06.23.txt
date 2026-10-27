@@ -1,0 +1,1031 @@
+﻿Report From: 
+
+Ben Cartwright 
+
+Gilli Hobbs (reviewer) 
+Circular Economy and Waste Specialists 
+
+ Reusefully Ltd  
+
+ 
+
+Report Prepared For:  
+
+Gleeds Management Services Ltd 
+ 
+
+Pre-Redevelopment Audit of 322 High 
+Holborn, 44 Southampton Buildings, and 
+
+Holborn Gate, London 
+ 
+
+19th June 2023 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+
+Executive Summary 
+
+This report presents the findings of a pre-redevelopment audit exploring the potential to retain 
+existing built assets and associated infrastructure (e.g. public realm, ancillary spaces, etc.) on the 
+site, in line with the Circular Economy Statement Guidance as required for developments referable 
+to the GLA under the London Plan Policy SI 7.  
+
+The pre-redevelopment audit is intended to help clients determine whether retention of the existing 
+building is feasible whilst still delivering project aims and wider societal benefit, thus avoiding the 
+waste, material use, and embodied carbon emissions generally associated with new construction.  
+
+See Appendix A for details of the report authors.  
+
+Several options for avoiding full demolition of the existing assets were evaluated for feasibility. The 
+audit found that whilst it may be technically feasible to retain some assets (e.g. in terms of capacity 
+of the structure to tolerate proposed activities), there may be challenges relating to commercial 
+viability, and the social value of retention scenarios may be limited. A summary is provided on the 
+following page, and more detailed analyses can be found in Section 4.  
+
+Note that in any retention scenario, demolition of the existing building cores and construction of 
+new cores would be required for compliance with fire requirements, resulting in significant 
+demolition and construction works.  
+
+The evaluations provided in this report are high-level and indicative only. Where retention is given 
+further consideration for any of the assets, it is essential that the client commissions further 
+assessments by suitably qualified professionals (e.g. structural engineers, commercial real estate 
+analysts) to ensure that the retained assets would be safe, fit-for-purpose, and would demonstrate 
+suitable performance and condition. Section 5 provides a summary of the recommended 
+assessments.   
+
+2 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+
+Scenario  Description  Evaluation 
+
+Heavy refurbishment of No demolition of any buildings onsite (though Likely to be technically (in terms of e.g. 
+existing buildings  note that existing cores will require demolition structural tolerances/ longevity and 
+
+and construction of new cores for compliance); spatial layouts) and functionally feasible, 
+extensive refurbishment for compliance with however social value may be limited and 
+energy and other performance requirements. scenarios may not be commercially 
+Conversion from privately tenanted offices to viable. Likely to be least carbon- and 
+either flexible offices/coworking or to residential waste-intensive option, however some 
+was considered.  demolition and new construction (of 
+
+cores) will be required, as well as 
+significant refurbishment activities.  
+Further exploration of this option is 
+recommended.  
+
+Heavy refurbishment As above, with extension of existing buildings to Likely to be technically (in terms of e.g. 
+and extension  provide greater floorspace. Both vertical and structural tolerances/ longevity and 
+
+horizontal extensions were considered.  spatial layouts) and functionally feasible, 
+however social value may be limited and 
+scenarios may not be commercially 
+viable. Horizontal extensions may be 
+limited by the irregular column grids and 
+poor daylighting due to the widened floor 
+plates. Further exploration of this option 
+is recommended.  
+
+Partial retention  Building is retained whole or in part, whilst others Likely to be technically (in terms of e.g. 
+(322 High Holborn)  are demolished; retained building or part thereof structural tolerances/ longevity and 
+
+is incorporated into new construction on spatial layouts) and functionally feasible, 
+remainder of the site. Note that existing cores will however social value may be limited and 
+require demolition and construction of new cores scenarios may not be commercially 
+for compliance.  viable. The low floor heights and irregular 
+
+column grid may prohibit internally 
+connecting the building with any new 
+structures onsite, as these will require 
+greater floor to ceiling heights. Further 
+exploration of this option is 
+recommended.  
+
+Partial retention  Building is retained whole or in part, whilst others Likely to be technically (in terms of e.g. 
+(Holborn Gate)  are demolished; retained building or part thereof structural tolerances/ longevity and 
+
+is incorporated into new construction on spatial layouts) and functionally feasible, 
+remainder of the site. Note that existing cores will however social value may be limited and 
+require demolition and construction of new cores scenarios may not be commercially 
+for compliance.  viable. The low floor heights and irregular 
+
+column grid may prohibit internally 
+
+3 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+connecting the building with any new 
+structures onsite, as these will require 
+greater floor to ceiling heights. Further 
+exploration of this option is 
+recommended.  
+
+Partial retention  Building is retained whole or in part, whilst others Likely to be technically (in terms of e.g. 
+(44 Southampton are demolished; retained building or part thereof structural tolerances/ longevity and 
+Buildings)  is incorporated into new construction on spatial layouts) and functionally feasible, 
+
+remainder of the site. Note that existing cores will however social value may be limited and 
+require demolition and construction of new cores scenarios may not be commercially 
+for compliance.  viable. The low floor heights and irregular 
+
+shape/ layout of the floor plates may 
+prohibit internally connecting the 
+building with any new structures onsite, 
+as these will require greater floor to 
+ceiling heights. Other than the façade, 
+the relative benefits of retaining this 
+building (in terms of carbon, waste and 
+other impacts) are likely to be relatively 
+low. Further exploration of this option is 
+recommended.  
+
+ 
+
+  
+
+4 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+Contents 
+
+1. The Requirement ........................................................................................................................ 6 
+
+2. Methodology ............................................................................................................................... 7 
+
+3. The existing site .......................................................................................................................... 8 
+
+3.1 322 High Holborn ................................................................................................................ 9 
+
+3.2 Holborn Gate ..................................................................................................................... 10 
+
+3.3 44 Southampton Buildings ................................................................................................ 11 
+
+3.4 Key component and materials, and their potential for recovery ..................................... 12 
+
+4. Analysis ..................................................................................................................................... 14 
+
+4.1 322 High Holborn .............................................................................................................. 14 
+
+4.2 Holborn Gate ..................................................................................................................... 17 
+
+4.3 44 Southampton Buildings ................................................................................................ 18 
+
+5. Evaluation and recommendations ............................................................................................ 18 
+
+Appendix A ............................................................................................................................................ 23 
+
+Report Authors .............................................................................................................................. 23 
+
+About Reusefully ........................................................................................................................... 23 
+
+ 
+
+  
+
+5 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+1. The Requirement 
+Gleeds, working on behalf of Hoi Hup Realty Pte Ltd, engaged Reusefully Ltd to carry out a pre-
+redevelopment audit of existing buildings at Holborn Gate, 322 High Holborn, and 44 Southampton 
+Buildings in London to understand whether retention of the existing buildings was feasible whilst 
+meeting client aims and achieving wider social, economic and environmental benefits. 
+
+This investigation supports compliance with the requirements of the London Plan Policy SI7 and the 
+complementary London Plan Guidance for Circular Economy Statements (March 2022 revision) 1. For 
+eligible projects in London, the Circular Economy Statement Guidance states that a pre-
+redevelopment audit should be undertaken to determine the potential for full or partial building 
+retention (see Figure 1, below).  
+
+ 
+
+Figure 1. Decision tree for dealing with existing buildings on a site to be redeveloped, taken from the GLA Circular 
+Economy Statement Guidance. 
+
+  
+
+ 
+1 https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/london-plan-
+guidance/circular-economy-statement-guidance 
+
+6 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+2. Methodology 
+Reusefully assessors visited the High Holborn site on 1st June 2023, during which a non-invasive 
+visual survey of existing assets was undertaken. Observational notes and photographs were taken to 
+help determine the existing use patterns, dimensions, layout, condition, performance, and degree of 
+adaptability of the building. Access was possible to most areas of the site and buildings.  
+
+The client supplied Reusefully with images of original section and plan drawings, as well as details of 
+options being considered for the proposed project on the site.  
+
+This information, as well as publicly available information such as EPC records, was used to 
+undertake an evaluation of the feasibility of retaining existing assets on the site.   
+
+When evaluating the feasibility of each scenario for each building, several factors were considered, 
+including:  
+
+• Technical capacity of the asset to accommodate retention scenarios 
+
+• Potential energy performance if retained and in-use, after any necessary fit-out, 
+refurbishment, retrofit, or repair work is completed.   
+
+• Potential occupant comfort if retained and in-use, after any necessary fit-out, 
+refurbishment, retrofit, or repair work is completed.  
+
+• Construction practicalities and logistics, i.e. whether the practical aspects of retaining the 
+asset (in combination with any other site works, e.g. construction of other new assets) are 
+likely to be prohibitively difficult or expensive.  
+
+• Social and economic value considerations, i.e. whether the existing asset would offer any 
+significant benefit to the social and economic wellbeing of the wider community if retained.  
+
+• Commercial viability of the retention scenario. 
+
+Please note this report is not a full condition survey, nor does it include any structural assessment.  
+As already noted, the findings are based on visual assessment and dialogue with the architects for 
+different scenarios.  
+
+  
+
+7 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+3. The existing site 
+The existing site contains three buildings arranged around a central courtyard though not connected 
+internally, with some associated external space around the periphery. For the purposes of this 
+assessment, there are three distinguishable ‘zones’ to the site, based on construction date, typology 
+and position of the buildings – these are highlighted in the site plan and aerial view of the site below, 
+and are described in further detail in the subsequent sections. The zones are:  
+
+• Holborn Gate (outlined in yellow)  
+
+• 322 High Holborn (outlined in blue)  
+
+• 44 Southampton Buildings (outlined in red)  
+
+ 
+
+ 
+
+8 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+3.1 322 High Holborn 
+
+322 High Holborn is an eight-storey commercial building dating from the late 1960s, comprising 
+retail space and a reception/lobby on the ground floor, six floors of offices above, several residential 
+units on the 8th floor, and a basement. Access between storeys is achieved through a single access 
+and services core to the rear of the building, as well as a lift to the Western end which provides 
+direct access to the residential units.  
+
+The internal spaces have been refurbished at least once since construction and are of a varying 
+quality (reasonable overall), mostly in good condition, though access was not possible to all floors at 
+the time of the site visit. Floor to ceiling heights are low (ranging from 2.6m typically to 2.3m under 
+chilled beams), however daylighting was mostly good owing to mainly open layouts and the quantity 
+of glazing relative to the narrow floor plates.    
+
+Externally, however, the building offers little in terms of architectural or heritage value and is of a 
+low visual quality as described in the Pre-Application Historic Building Report for Hoi Hup Realty Pte 
+Ltd (dated May 2023).  
+
+It was not possible to evaluate the condition or remaining service life of the building services, 
+however it can be assumed to be approaching end-of-life and require replacement in a retention 
+scenario, given the age of most equipment.  
+ 
+
+ 
+
+  
+
+9 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+3.2 Holborn Gate 
+
+Similarly to 322 High Holborn, Holborn Gate is an eight-storey building dating from the early 1960s, 
+with retail space and a reception/lobby on the ground floor, six floors of offices above, and two 
+basement levels. Three cores provide access and delivery of building services between storeys. The 
+building is larger than 322 High Holborn, extended away from the street frontage onto High Holborn. 
+Design features, quality, and condition of the building and systems are essentially identical to that of 
+322 High Holborn both internally and externally. The energy performance of the building appears to 
+be mostly poor based on the available EPC records (which cover individually-let spaces). 
+
+ 
+
+  
+
+10 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+3.3 44 Southampton Buildings 
+
+44 Southampton Buildings was built as purpose-built offices in 1913-1914, and features a ground 
+floor with reception and lobby, four floors of office space, a basement with meeting rooms and end-
+of-trip facilities (e.g. bicycle store). According to the Pre-Application Historic Building Report (May 
+2023), the building’s stripped classical façade on the street-facing elevation holds modest 
+architectural/heritage value.  
+
+Internally, fit-out is of a varied but overall reasonable quality, and all features appeared to be in 
+good condition. The building appeared to be reasonably well-utilised, though some offices were 
+unlet at the time of the site visit, according to the building personnel. The overall performance of the 
+building in terms of internal environmental quality is unknown. Good daylighting and visual comfort 
+was observed in most areas during the site visit, though these attributes were lacking somewhat in 
+the basement-level meeting rooms. The energy performance of the building appears to be mostly 
+poor based on the available EPC records (which cover individually let spaces).  
+
+Several extensive works were undertaken on the building throughout the 20th century and in the 21st 
+century, including an extension to the rear to house a new access core, a roof extension, and some 
+alterations to the street-facing façade.  
+
+The building footprint is located just within the boundary of the Chancery Lane Conservation Area, 
+to which the façade makes a modest positive contribution according to the Pre-Application Historic 
+Building Report. Remnants of what is believed to be the 12th-century Temple of the Knights Templar 
+have been found under the northwest corner of the building.  
+
+  
+
+11 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+3.4 Key component and materials, and their potential for recovery  
+
+• Reinforced concrete structural frame [322 High Holborn and Holborn Gate]: Concrete may be 
+crushed and recycled into recycled concrete aggregate or used as fill; rebar may be segregated 
+and recycled as scrap.  
+
+ 
+
+• Clay hollow pot concrete floor with screed [322 High Holborn and Holborn Gate]: Concrete may 
+be crushed and recycled into recycled concrete aggregate or used as fill; ceramic (clay) may be 
+crushed and processed alongside concrete as inert waste; rebar (assumed present) may be 
+segregated and recycled as scrap.  
+
+ 
+
+• Masonry walls [44 Southampton Buildings]: Brick – some may be reclaimed intact and reused, 
+however majority likely to be crushed and managed as inert waste (dependant upon bonding); 
+Concrete (cement mortar) managed as other concrete items.  
+
+12 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+• Concrete floor with steel rib deck [44 Southampton Buildings]: Concrete may be crushed and 
+
+recycled into recycled concrete aggregate or used as fill; Metals recycled as scrap.  
+ 
+
+• Glazing: Entire units unlikely to be suitable for reuse based on age and expected performance. 
+Glass panes unlikely to be reusable, however may be suitable for high value recycling (i.e. 
+closed-loop), otherwise crushed as inert waste; metals (aluminium and steel) unlikely to be 
+reused (e.g. where glazing units are refitted with new vacuum sealed vision panels of higher 
+performance), likely to be recycled as scrap.  
+
+ 
+
+• Internal walls: Concrete (blockwork) may be crushed and recycled into recycled concrete 
+aggregate or used as fill; Gypsum (plasterboard and render) may be recycled if free from 
+contamination, otherwise sent to landfill. Overall low potential to recover materials at higher 
+value or avoid environmental impacts associated with waste and resources.  
+ 
+
+• Fit-out: Glass (partitions), carpet (carpet tiles), ceramics (kitchens, WCs, tiling), metals 
+(suspended ceilings and various other items), timber (studwork, raised access floor and various 
+other items), plastics (various items): Some items may be suitable for reuse or remanufacture as 
+many in good condition, otherwise most can be recycled.  
+
+ 
+
+Overall, the potential to recover the majority of the materials at a higher value may be limited due 
+to the type of materials used (i.e. concrete encased steel, concrete blocks, concrete structures etc),  
+though it can be recycled (at a lower value). There will be some avoided environmental emissions 
+
+13 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+from the recycling of the materials for use into new materials, though this is very much dependent 
+upon the recycling route and primary material replacement. As there are limited opportunities for 
+reuse, the environmental benefits of reusing materials is also limited.  
+
+4. Analysis  
+Various factors were considered in evaluating the viability of retaining the existing buildings, and 
+these are discussed in the following subsections. Against each factor, an evaluation is provided of 
+whether or not it is believed to be prohibitive of retention (i.e. whether or not it presents 
+justification against retention).  Note, these factors are considered for all of the retention scenarios. 
+
+The factors taken into consideration included:  
+
+• Technical capacity of the asset to accommodate retention scenarios 
+
+• Potential energy performance if retained and in-use, after any necessary fit-out, 
+refurbishment, retrofit, or repair work is completed.   
+
+• Potential occupant comfort if retained and in-use, after any necessary fit-out, 
+refurbishment, retrofit, or repair work is completed.  
+
+• Construction practicalities and logistics, i.e. whether the practical aspects of retaining the 
+asset (in combination with any other site works, e.g. construction of other new assets) are 
+likely to be prohibitively difficult or expensive.  
+
+• Social and economic value considerations, i.e. whether the existing asset would offer any 
+significant benefit to the social and economic wellbeing of the wider community if retained.  
+
+• Commercial viability of the retention scenario.  
+
+Note that two factors – ‘social value considerations’ and ‘commercial viability’ – are not evaluated in 
+terms of whether they are prohibitive of retention, but instead whether they are supported 
+positively by the scenario or not. This difference is highlighted because these factors reflect wider 
+ambitions –area-level social and economic outcomes and client financial performance – rather than 
+the actual feasibility of the building being retained. These factors are also intrinsically linked with 
+other factors such as occupant comfort, utilisation, and energy performance.   
+
+4.1 322 High Holborn  
+
+Technical capacity of building to accommodate retention scenarios: Not likely to prohibit retention 
+
+No issues regarding the safety or longevity of the structure were made known to the assessors. 
+Continued use, or adaptation to a use without significantly greater loads on any individual structural 
+member, is not likely to present any issues. Where proposed adaptations, refurbishments, or 
+expansion (combined with partial demolition if necessary) are likely to result in significantly modified 
+loads, a structural engineer should be employed to model the tolerances under the proposed 
+scenarios.  
+
+However, conversion to other alternative uses such as retail (beyond the ground floor) or light 
+industrial is likely not possible due to the site location, building access, and internal layouts and 
+dimensions.  
+
+14 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+Partial demolition will be required to make the cores complaint with the latest fire requirements. If 
+the residential units are retained, or new residential units are added, an additional core(s) will be 
+required to make it compliant with the latest fire requirements.  
+
+The potential for major changes to physical architecture, e.g. vertical extension, horizontal 
+extension, or partial demolition, is unknown from the perspective of structural tolerances – this may 
+be investigated further by a structural engineer. However, based on precedent it is conceivable that 
+a roof extension (possibly lightweight) could be added, and/or that the building could be connected 
+horizontally to any newly construction buildings. Note that floor heights between the buildings do 
+not match up exactly, and this is likely to be a limitation on retention scenarios involving internal 
+connection of the buildings (including where connected through horizontal extensions).  
+
+Potential energy performance: Not likely to prohibit retention 
+
+Currently poor (most offices in the building for which an EPC could be found have ratings of C or D) 
+but are likely to be able to be brought to acceptable standard through measures such as insulation 
+of the building envelope and thermal bridges, installation of higher-performance windows and 
+doors, improved airtightness, damp-proofing, low-carbon heating, onsite solar panels, et cetera. 
+Note the current performance and longevity of the building services is not known.  
+
+Whilst these measures are likely to be extensive for the building to meet future building regulations, 
+they do not prohibit retention of the existing building.  
+
+Potential occupant comfort, health and wellbeing: Not likely to prohibit retention 
+
+The office space and associated ancillary/amenity space features a high quality of fit-out in good 
+condition, as well as plenty of daylighting. No data was received as regards air quality, thermal 
+comfort, or other factors, however there is no reason to believe these aspects could not be rectified 
+to a suitable degree if there are issues. As such, the building is likely to be suitable for continued use 
+in its current state or modified (e.g. HVAC systems) if issues are identified. The same is true where 
+the building is extended vertically. However, if horizontal extension is considered or the building or 
+part thereof is to be incorporated into the new structure, design must allow for sufficient daylighting 
+and provision of other aspects of comfort, health and wellbeing. The low floor to ceiling height in the 
+existing building may impact on the provision of sufficient daylight should the depth of the floor 
+plate be extended.  
+
+In the context of meeting circular economy and reduced embodied carbon outcomes, non-
+compliance with BCO guidance (or other guidance around quality) should not be seen as a solitary 
+reason to demolish and replace an existing office building. If this were the case, a large portion of 
+the current stock of office buildings would need to be replaced to comply with this guidance, and 
+increasingly so as the guidance becomes more stringent, potentially decades before their planned 
+technical life span is exhausted (typically 60 -80 years).  
+
+Construction practicalities and logistics: Not likely to prohibit retention 
+
+Retention of 322 High Holborn would make demolition of other structures and construction of any 
+new structures on the site more difficult due to less space for equipment, vehicles, and materials. 
+
+15 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+However, access to the site is good and there is likely to be sufficient space. Established procedures 
+for construction on sites with constrained space may be followed. As such this factor is not believed 
+to be prohibitive of retention.  
+
+Social value considerations: May be supported by retention  
+
+Whilst the social and economic value of the building to the local and regional community are not 
+likely to be especially high due to the lack of significant heritage/architectural value and the 
+functionality of the buildings as primarily office space, the existing building does nonetheless provide 
+significant floor area for workspace, supporting local and regional employment, attracting footfall to 
+the local area, supporting the local economy and contributing to a sense of vibrancy.   
+
+If retained, these benefits could continue to be delivered or may even be improved upon, for 
+instance via:  
+
+• Improvements to the architectural quality of external facades 
+
+• Retrofit, refurbishment and upgrades to improve quality and performance of internal spaces 
+
+• Provision of alternative building functions which may serve a greater socioeconomic need in 
+the region, for instance residential space 
+
+• Expansion of the buildings to provide more space of various types (and their individual 
+merits).  
+
+One scenario which social value may be supported by retention is the change of use from office to 
+residential, either throughout the entire building or part thereof (e.g. 1 or 2 floors). Lack of 
+residential supply is a strong factor in the current housing affordability crisis, which is especially 
+pronounced in urban centres. Conversion to residential could help to alleviate this issue locally, 
+whilst providing increased footfall to local business that have been affected by the transition to 
+remote and flexible working. It is important, however, to consider conversion to residential on a 
+case-by-case basis, accounting for whether an individual building is likely to be fit-for-purpose and 
+provide a suitable level of amenity and comfort. Conversion to residential in this case would entail 
+the construction of multiple new cores, and there may be issues with air quality and noise in street-
+facing units (though this would not be unusual for city centre dwellings, and measures may be taken 
+to alleviate issues to a certain extent).  
+
+Overall, consideration should be given to the fact that the existing building does (or could, following 
+refurbishment, adaptation, and/or expansion) deliver significant social and economic value in its 
+own right. Although in some cases social value delivery may be of a lower magnitude than full new 
+construction (though the opposite may be true in the case of change of use to housing), it would 
+require significantly lower carbon, waste, resource consumption, and upfront cost, and would avoid 
+disruption to the current tenants as well as the effects of construction on the local area (e.g. noise, 
+vibration, traffic congestion).  
+
+Commercial viability: May not be supported by retention  
+
+Aside from the technical and functional aspects of retention feasibility, the overall feasibility of 
+retaining a building (or part of a building) is affected by the commercial viability of different 
+scenarios for retention versus demolition and new construction. The commercial viability is 
+
+16 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+intrinsically linked to the current technical performance of the building and the quality of the 
+building(s).   
+
+In the case of 322 High Holborn, there are issues with quality that may affect viability for commercial 
+lettings, for instance the floor to ceiling heights, depths, and architectural aesthetics. As such, the 
+potential for full retention with heavy refurbishment, with or without partial demolition and 
+extensions/new construction, may be limited.   
+
+According to building personnel as well as visual evidence, the building is fairly well utilised, with the 
+majority of space tenanted and therefore providing a steady income. As such, there appears to be 
+sufficient demand for the building. However, no evidence was received to corroborate this assertion.  
+
+Whilst most of the building is currently in use as privately tenanted offices, the changing landscape 
+of commercial real estate in London may mean that greater utilisation (in terms of average number 
+of occupants using the building at any time) may be achievable through conversion to flexible office 
+space and/or coworking. Alternatively, the space may be converted to alternative uses such as 
+residential, the commercial viability of which cannot be foreseen at this stage without a full analysis.  
+
+In any retention scenario, significant retrofit, refurbishment, and possibly partial demolition and 
+extension/new construction, would be required. The cost of any such works must also be factored 
+into the consideration of commercial viability. Even in a full retention scenario with no modification 
+of use types or patterns (i.e. continued use as privately tenanted offices), the entire building would 
+require extensive energy retrofit measures that could render the project unviable given the potential 
+revenues.  
+
+4.2 Holborn Gate 
+
+Technical capacity of building to accommodate retention scenarios: Not likely to prohibit retention 
+
+Factors same as 322 High Holborn.  
+
+Potential energy performance: Not likely to prohibit retention 
+
+Factors same as 322 High Holborn.  
+
+Potential occupant comfort, health and wellbeing: Not likely to prohibit retention 
+
+Factors same as 322 High Holborn.  
+
+Construction practicalities and logistics: Not likely to prohibit retention 
+
+Factors same as 322 High Holborn.  
+
+Social value considerations: May be supported by retention 
+
+Factors same as 322 High Holborn.  
+
+Commercial viability: May not be supported by retention  
+
+Factors same as 322 High Holborn.  
+
+17 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+4.3 44 Southampton Buildings  
+
+Technical capacity of building to accommodate retention scenarios: Not likely to prohibit retention 
+
+Factors same as 322 High Holborn and Holborn Gate. Horizontally extending to connect to either 
+Holborn Gate or 322 High Holborn is likely to be difficult or impossible where a significant portion of 
+the building’s structure (beyond the primary façade) are retained due to the building’s irregular 
+shape and floor heights that are mismatched from the other buildings.  
+
+Potential energy performance: Not likely to prohibit retention 
+
+Factors same as 322 High Holborn and Holborn Gate.  
+
+Potential occupant comfort, health and wellbeing: Not likely to prohibit retention 
+
+Factors same as 322 High Holborn and Holborn Gate.  
+
+Construction practicalities and logistics: Not likely to prohibit retention 
+
+Factors same as 322 High Holborn and Holborn Gate. However, if 44 Southampton Buildings is to be 
+retained, its floor heights do not match up with those of 322 and Holborn Gate, limiting the potential 
+to link the buildings together internally or requiring substantial levelling work.   
+
+Social value considerations: May be supported by retention 
+
+As discussed in the Pre-Application Historic Building Report for Hoi Hup Realty Pte Ltd (dated May 
+2023), the external street-facing elevation of 44 Southampton Buildings does contribute modestly to 
+the character of the area, and it is included within the Chancery Lane conservation area. This fact 
+may provide additional impetus for at least partial retention of this building.  
+
+Otherwise, factors are the same as 322 High Holborn and Holborn Gate.   
+
+Commercial viability: May not be supported by retention  
+
+Factors same as 322 High Holborn and Holborn Gate. 
+
+Note, externally there is a central courtyard which is used for plant and it could be argued that the 
+overall site area is under-utilised. Significant refurbishment would be required to extend these 
+buildings into the courtyard together with the removal of main building elements and plant. The use 
+of this space could be supported by retention; however considerable refurbishment would be 
+required and it would depend on the structural condition of the buildings.  
+
+  
+
+18 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+5. Evaluation and recommendations  
+Based on the analyses of retaining the existing buildings (see section 4) combined with the potential 
+for recovery of materials and components in the event of demolition (see section 3.4), an evaluation 
+of the overall feasibility of retaining each building was undertaken. The results are presented in the 
+table below.  
+
+Note that in any retention scenario, demolition of the existing building cores and construction of 
+new cores would be required for compliance with fire requirements, resulting in significant 
+demolition and construction works.  
+
+ 
+
+Scenario  Description  Evaluation 
+
+Heavy refurbishment of No demolition of any buildings onsite (though Likely to be technically (in terms of e.g. 
+existing buildings  note that existing cores will require demolition structural tolerances/ longevity and 
+
+and construction of new cores for compliance); spatial layouts) and functionally feasible, 
+extensive refurbishment for compliance with however social value may be limited and 
+energy and other performance requirements. scenarios may not be commercially 
+Conversion from privately tenanted offices to viable. Likely to be least carbon- and 
+either flexible offices/coworking or to residential waste-intensive option, however some 
+was considered.  demolition and new construction (of 
+
+cores) will be required, as well as 
+significant refurbishment activities.  
+Further exploration of this option is 
+recommended.  
+
+Heavy refurbishment As above, with extension of existing buildings to Likely to be technically (in terms of e.g. 
+and extension  provide greater floorspace. Both vertical and structural tolerances/ longevity and 
+
+horizontal extensions were considered.  spatial layouts) and functionally feasible, 
+however social value may be limited and 
+scenarios may not be commercially 
+viable. Horizontal extensions may be 
+limited by the irregular column grids and 
+poor daylighting due to the widened floor 
+plates. Further exploration of this option 
+is recommended.  
+
+Partial retention  Building is retained whole or in part, whilst others Likely to be technically (in terms of e.g. 
+(322 High Holborn)  are demolished; retained building or part thereof structural tolerances/ longevity and 
+
+is incorporated into new construction on spatial layouts) and functionally feasible, 
+remainder of the site. Note that existing cores will however social value may be limited and 
+require demolition and construction of new cores scenarios may not be commercially 
+for compliance.  viable. The low floor heights and irregular 
+
+column grid may prohibit internally 
+connecting the building with any new 
+
+19 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+structures onsite, as these will require 
+greater floor to ceiling heights. Further 
+exploration of this option is 
+recommended.  
+
+Partial retention  Building is retained whole or in part, whilst others Likely to be technically (in terms of e.g. 
+(Holborn Gate)  are demolished; retained building or part thereof structural tolerances/ longevity and 
+
+is incorporated into new construction on spatial layouts) and functionally feasible, 
+remainder of the site. Note that existing cores will however social value may be limited and 
+require demolition and construction of new cores scenarios may not be commercially 
+for compliance.  viable. The low floor heights and irregular 
+
+column grid may prohibit internally 
+connecting the building with any new 
+structures onsite, as these will require 
+greater floor to ceiling heights. Further 
+exploration of this option is 
+recommended.  
+
+Partial retention  Building is retained whole or in part, whilst others Likely to be technically (in terms of e.g. 
+(44 Southampton are demolished; retained building or part thereof structural tolerances/ longevity and 
+Buildings)  is incorporated into new construction on spatial layouts) and functionally feasible, 
+
+remainder of the site. Note that existing cores will however social value may be limited and 
+require demolition and construction of new cores scenarios may not be commercially 
+for compliance.  viable. The low floor heights and irregular 
+
+shape/layout of the floor plates may 
+prohibit internally connecting the 
+building with any new structures onsite, 
+as these will require greater floor to 
+ceiling heights. Other than the façade, 
+the relative benefits of retaining this 
+building (in terms of carbon, waste and 
+other impacts) are likely to be relatively 
+low. Further exploration of this option is 
+recommended.  
+
+ 
+
+ 
+
+The evaluations provided in this report are high-level and indicative only. Where retention is given 
+further consideration for any of the assets, it is strongly recommended that the client commissions 
+further assessments by suitably qualified professionals to ensure that the retained assets would be 
+safe, fit-for-purpose, and would demonstrate suitable performance and condition. Design studies 
+should be carried out exploring the opportunities and impacts of different design options involving 
+retention of technically retainable assets. To support these, it is recommended that the following 
+assessments are commissioned by suitably qualified third-party experts:  
+
+20 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+  
+
+21 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+ 
+
+Assessment  Assessors  
+
+Structural survey investigating the condition, estimated remaining service life and Structural engineer 
+tolerances of existing building’s structural elements, to determine the feasibility of 
+different retention and/or expansion scenarios. These may include continued use according 
+to the original design intent of the buildings, changes in use type or intensity of use, as well 
+as changes to the physical architecture (e.g. extension, partial demolition).  
+
+General condition survey to assess the condition of key assets and components, estimate RICS qualified 
+their remaining service life, and evaluate whether they are suitable to be retained in a surveyor  
+retention scenario.  
+
+MEP survey, to determine the remaining lifespan and determine the potential to retain MEP engineer 
+MEP elements.  
+
+Energy assessment, to calculate the potential energy performance of the existing buildings Energy consultant 
+under retention scenarios and to determine the key building elements that may need to be 
+replaced or added (e.g. glazing, insulation).  
+
+Whole life carbon assessment of retention scenarios vs. (partial) demolition and new build. Whole life carbon 
+Data from a pre-demolition audit can feed into this to account for the embodied carbon consultant 
+benefits of retention and potential for avoided embodied carbon in a new build.   
+
+Financial options appraisal of retention scenarios and demolition and new construction Client (in-house) or 
+scenarios.  consultant 
+
+Local/regional analysis of demand for uses of space in proposed retention scenarios, e.g. Real estate 
+offices, coworking space, light industrial.  consultant 
+
+Consultation/evaluation of wider social & economic impacts of the existing building to Social value 
+the community under the proposed retention scenarios, to determine the scope for the consultant 
+building to be an asset to the community. This should explore the possible alternative uses 
+
+Specialist 
+in terms of their social and economic costs and benefits, ideally with local 
+
+organisations e.g. 
+stakeholder/community engagement.  
+
+Platform Places2 
+
+ 
+
+ 
+2 https://www.platformplaces.com/ 
+
+22 
+
+ 
+
+
+
+Pre-Redevelopment Audit of Holborn Gate,  19th June 2023 
+322 High Holborn, and 44 Southampton Buildings 
+
+ 
+
+Appendix A 
+
+Report Authors  
+
+Ben Cartwright is a researcher and expert advisor on sustainability in the built environment, 
+focusing on circular economy but with broad experience also covering embodied carbon, health & 
+wellbeing, nature/biodiversity, building performance evaluation and more. With a firm belief that 
+circular economy can only be achieved through systemic change, Ben is always keen to work with a 
+wide variety of stakeholders on projects that span multiple industries, technical approaches, and 
+policy areas. Recent projects include: developing data and digital approaches to support a circular 
+built environment as part of the EU Horizon 2020-funded project CIRCuIT (Circular Construction in 
+Regenerative Cities); delivering training to local authorities on embodied carbon and circular 
+economy; carrying out pre-demolition audits; contributing to industry reports on circular economy in 
+different sectors; and, supporting the integration of circular economy into the BREEAM sustainability 
+assessment schemes. 
+
+Katherine Adams has worked in the area of construction resource efficiency for 20 years, mostly at 
+BRE, where she has been instrumental in shaping the construction industry to achieve high levels of 
+diversion of waste from landfill and reducing waste. She has much experience of pre-demolition 
+audits, having undertaken and reviewed many for various clients, which has involved the 
+development of a robust methodology. She has been responsible for developing waste reporting, 
+including the online system Smartwaste. She enjoys working closely with many elements of the 
+industry, at both a sector and project level. She has recently finished a PhD at Loughborough 
+University looking how circular economy can be embedded in the building sector and continues to 
+assist the sector through her company, Reusefully Ltd.  
+
+About Reusefully 
+
+Reusefully is a partnership created to provide expert circular economy and broader sustainability 
+advice and support within the built environment. We enable the practical implementation of circular 
+economy thinking throughout the construction supply chain and provide evidence-based support 
+and advice for related policy development. We are keen to collaborate and work with others who 
+genuinely share this objective and value our commitment to delivering effective & impactful project 
+outcomes. 
+
+We address material and resource efficiency, embodied carbon and net zero, design for 
+deconstruction, waste prevention and waste management, end markets, reuse and recycled 
+content. Collectively, Reusefully brings together over 45 years of experience, working across multiple 
+parts of the value chain, from small practical projects to large scale R&D, for a wide variety of clients. 
+More information at www.reusefully.co.uk 
+
+ 
+
+ 
+
+23

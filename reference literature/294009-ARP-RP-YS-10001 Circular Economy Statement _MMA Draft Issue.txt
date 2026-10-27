@@ -1,0 +1,2345 @@
+﻿High Holborn Development 
+Circular Economy Statement – Section 73 Submission   
+Reference: 294009 
+
+P04| 01 July 2026 
+ 
+
+This report takes into account the particular instructions and   
+requirements of our client.  It is not intended for and should 
+not be relied upon by any third party and no responsibility is 
+undertaken to any third party. 
+ 
+Job number   294009 
+
+Report Reg Info 
+
+Arup International Projects Limited 
+8 Fitzroy Street 
+London 
+W1T 4BJ 
+ 
+United Kingdom 
+a rup.com 
+ 
+
+
+
+ Issue Document Verification with Document   
+  
+
+Document Verification 
+ 
+Project title High Holborn Development 
+Document title  Circular Economy Statement- Section 73 Submission 
+Job number 294009 
+Document ref 294009-ARP-RP-YS-10001 
+File reference 294009-ARP-RP-YS-10001  
+ 
+ 
+Revision Date Filename 294009-ARP-RP-YS-10001 - Circular Economy 
+
+Statement 
+P01 08 November 2024 Description Draft Issue for planning 
+
+ Prepared by Checked by Approved by 
+
+Name Saskia Manson Clare Hardy  Mel Allwood  
+Signature  
+
+ 
+  
+
+P02 20 November 2024 Description Issue for planning 
+  
+
+ Prepared by Checked by Approved by 
+
+Name Saskia Manson Mel Allwood Mel Allwood 
+Signature   
+
+ 
+
+P03 03 June 2025  Update following GLA and COL comments 
+  
+
+ Prepared by Checked by Approved by 
+
+Name Saskia Manson Clare Hardy  Mel Allwood 
+Signature   
+
+ 
+ 
+
+P04 01 July 2026  Update for the Section 73 submission 
+
+   Prepared by Checked by Approved by 
+  Name Felicia Bi Clare Hardy  Mel Allwood 
+  Signature   
+
+ 
+ 
+
+ 
+
+294009-ARP-RP-YS-10001   |  P04  | 01 July 2026 | Arup International Projects Limited 
+ 
+
+
+
+Contents Tables  
+Table 1 Circular Economy Design Approaches 2 
+
+ Table 2 Key project targets aligned with GLA requirements 3 
+Circular Economy Statement – Section 73 Submission   1 Table 3 Proposed area schedule 6 
+
+Table 4 Greater London Authority CES requirements 7 
+Executive Summary 1 Table 5 Greater London Authority waste requirements 7 
+1. Project Background 4 Table 6 Circular Economy Statement requirements checklist 8 
+1.1 The Existing Site 4 Table 7 Response to the Local policy: City of London Plan (Adopted 2015) 8 
+1.2 The Proposed Development 5 Table 8 Response to the Local policy: Draft City of London Plan 2040 (April 2024) 9 
+2. Policy Compliance 7 Table 9 CE Targets for the existing site 15 
+2.1 Applicable policies 7 Table 10 Early Stage Optioneering Study 17 
+2.2 Regional policy: The London Plan (2021) 7 Table 11 Pre-redevelopment alteration options considered 18 
+2.3 Local policies for City of London 8 Table 12 Approach to the existing site 19 
+2.4 Pre-application meetings 9 Table 13 GLA and City Corporation Guidance pre-demolition audit requirements 20 
+3. Methodology 10 Table 14 CE Targets for the Proposed Development 21 
+3.1 Process 10 Table 15 High Holborn Development Circular Economy Design Commitments 23 
+3.2 Circular Economy 10 Table 16 Project circular economy opportunities 24 
+3.3 Engaged disciplines 11 Table 17 : Default end-of-life scenarios at the material level for the UK, by percentage mass (Source: RICS 
+
+Professional Statement v2): 31 
+4. Applying the Circular Economy Principles 12 
+4.1 Circular Economy Principles 12  
+4.2 Building in Layers Framework 13 Figure 1 Site Boundary of the Existing Development above and the Proposed Development below 4 
+5. Maximising Residual Value: Existing Site 15 Figure 2 Proposed Development 5 
+5.1 CE Targets for the existing site 15 Figure 3 Typical office floor plan (Levels 01-06) 6 
+5.2 Whole Life Carbon Options Study 15 Figure 4 Proposed Massing 6 
+5.3 Pre-redevelopment Audit 18 Figure 5 Applicable Policy Documents 7 
+5.4 CE Design Approaches for the Existing Site 19 Figure 6 Process for embedding circular economy in the Proposed Development 10 
+5.5 Pre-Demolition Audit 20 Figure 7 Application of Circular Economy Principles to Commercial Property (Source: The Circular 
+6. Maximising Circularity: Proposed Development 21 Economy in the Built Environment, Arup) 10 
+6.1 CE Targets for the Proposed Development 21 Figure 8 Adaptation of the GLA circular economy decision tree for existing structures (Arup) 12 
+6.2 BREEAM alignment 22 Figure 9 CE hierarchy for building approaches (Arup, adapted from London Plan Policy D3 Figure 3.2) 12 
+6.3 CE Design Principles by Building Layer - Proposed Development Commitments 22 Figure 10 Adaptation of the GLA circular economy decision tree for new elements (Arup) 12 
+6.4 CE Design Principles by Building Layer - Proposed Development Opportunities 24 Figure 11 Shearing Layers diagram (Source: Adaptation from the GLA CES LPG, Arup) 13 
+6.5 Recycled content by value calculation 25 Figure 12 Indicative images from the circular economy workshops held at RIBA Stage 2 13 
+6.6 Bill of Materials 25 Figure 13 Screenshot of the Circular Economy Workshop at RIBA Stage 3 for the Section 73 Submission 14 
+6.7 End of Life Scenarios 26 Figure 13 Whole Life Carbon Optioneering Process – refer to Appendix A.5.3 for further information 16 
+6.8 Operational waste management 26 Figure 14 Whole Life Carbon Optioneering Study following the City of London Planning Advice Note 16 
+6.9 Design stage monitoring and reporting 27 Figure 15 Circular Economy Decision Tree for the Proposed Development, with the selected approaches 
+6.10 Post-construction stage reporting 27 highlighted and strategies that are not pursued greyed out. 19 
+7. Conclusion 28 Figure 16 Proposed brick and stone reuse from 44 Southampton Buildings in the new development 22 
+
+  
+
+  
+ 
+
+ 
+
+294009-ARP-RP-YS-10001   |  P04  | 01 July 2026 | Arup International Projects Limited 
+ 
+
+
+
+Appendices  
+A.1 Pre-Redevelopment Audit 29 
+A.2 Pre-Demolition Audit 30 
+A.3 Default end of life scenarios 31 
+A.4 Recycled content by value calculation 29 
+A.5 Optioneering Process 30 
+A.6 Circular Economy Workshop 36 
+A.7 Basement Drawings 38 
+ 
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+   
+ 
+
+294009-ARP-RP-YS-10001   |  P04  | 01 July 2026 | Arup International Projects Limited 
+ 
+
+
+
+Executive Summary Maximising Residual Value: Existing site 
+The site’s current buildings were constructed throughout the 20th century. Holborn Gate and Heron House, both 
+primarily commercial structures, were built in the 1960s as part of the post-war redevelopment of London. 
+
+Introduction  Meanwhile, 44 Southampton Buildings, originally built as office space in 1913-1914, has seen multiple 
+This document provides an update for the Section 73 application, since the previous Circular Economy Statement renovations over the years.  
+(P03, 3rd June 2025). There have been no material changes since the last revision, with an update provided in this 
+report on the progress made on the Circular Economy commitments and further opportunities. For clarity, this Circular economy has been a core ambition of the proposed development since concept stage. Critical to this 
+document replicates the text provided in the original submission, with additional commentary following each ambition has been undertaking comprehensive early optioneering to understand whether retention of the existing 
+section to highlight the implications of proposed amendments for the Circular Economy strategy. buildings on site was viable. A comprehensive pre-redevelopment audit was also completed by Reusefully in June 
+
+2023 to assess the condition of the existing site and to determine its suitability for retention.  
+This Circular Economy Statement has been prepared by Arup on behalf of High Holborn Limited (“the 
+Applicant”) in support of an application under Section 73 of the Town and Country Planning Act 1990, relating to As part of the optioneering process, the project team reviewed opportunities to retain the existing building and 
+the redevelopment of 319-325 High Holborn (Heron House), 326-332 High Holborn and 26 Southampton went through a systematic process to analyse a range of options for the site. The early optioneering process 
+Buildings (Holborn Gate), and 44 Southampton Buildings. The Section 73 application is submitted alongside an involved the design team assessing different retention opportunities, ranging from 0% up to 79% retained. The 
+application under Section 19 of the Planning (Listed Buildings and Conservation Areas) Act 1990, relating to the next steps in this process involved examination of different core layouts, then potential lateral extensions and 
+Attached Railings and Gate at Staple Inn Buildings South WC1 and WC2.  finally potential vertical expansions.  
+
+The Section 73 application seeks permission to develop land subject to conditions differing from those previously The design team met with the City of London Corporation (CoL), the Greater London Authority (GLA) and the 
+attached to planning permission ref: 24/01262/FULMAJ which granted consent for: London Borough of Camden (LBC) during RIBA Stages 1 and 2. Pre-application meetings were held to discuss a 
+
+wide range of sustainability topics. Through the pre-apps, a shortlist of options was selected from the full spectrum 
+“Demolition of existing buildings at 326-332 High Holborn & 26 Southampton Buildings (Holborn Gate), of possibilities (as defined by the City of London Carbon Options Planning Advice Note, April 2023, Rev 01), 
+319-325 High Holborn (Heron House) and 44 Southampton Buildings and construction of new building from major refurbishment to new build. Recommendations and comments received from the CoL as part of the 
+comprising of two basement levels, ground plus 9 upper stories, including a mezzanine at upper ground pre-app discussions were addressed in these final proposals, such as inclusion of an additional WLCA option 
+level and external plant space at roof level, consisting of office floorspace (Class E(g)(i)) on ground and (Retention of 44 Southampton Building’s façade). The engagement between the design team and the local 
+upper levels, retail/food and beverage floorspace (Use Class E(a)-(b)) at ground level and flexible authority has taken a collaborative approach, which enabled the design options to be whittled down and 
+cultural/ exhibition/ performance/ learning/ community/ creative affordable workspace (Use Classes suggestions to been considered and incorporated where feasible. An optioneering study was then completed 
+F1(a)-(e)/ F2(b)/ E(g)(i)/ Sui Generis) floorspace at ground and basement levels; creation of public following the City of London Carbon Options Planning Advice Note (PAN). Following confirmation from CoL, 
+realm, including new hard and soft landscaping, external terraces, provision of new servicing facilities the initial optioneering study for the High Holborn project considered four options: 
+and associated access from Southampton Buildings, cycle parking and other associated works.” 
+
+• Option 01: Minimal demolition with full retention of the existing structure.  
+The Section 19 application seeks a variation of the conditions attached to Listed building consent (ref: 
+24/01247/LBC), which granted consent for:  • Option 02: Partial retention of the frontage with new build at the rear.  
+
+• Option 03: Partial demolition with retained portions of 44 Southampton Buildings.  
+“Minor works to attached railings and gate piers at Staple Inn Buildings and The Hall, Staple Inn (335 & 
+336 High Holborn) associated with the development at 326-332 High Holborn & 26 Southampton Buildings • Option 04: Full demolition with a new build.  
+(Holborn Gate), 319-325 High Holborn (Heron House) and 44 Southampton Buildings (Reference Number: In line with the PAN guidance, both qualitative and quantitative assessment of the four options were undertaken. 
+24/01262/FULMAJ).” This analysis highlighted the following significant constraints to the three retention options: 
+
+This statement has been produced to outline how the Applicant will respond to the following planning policies: • Fire issues: escape routes, fire ratings, cores don’t currently meet requirements for fire or evacuation, and 
+• London Plan (2021) Policy SI 7 ‘Reducing waste and supporting the circular economy’. significant structural interventions to the cores would be required to achieve compliance.   
+
+• City of London Local Plan (Adopted 2015) Policy CS17 ‘Waste’: DM: 17.1 Provision for waste in • Poor thermal performance of the existing façade 
+development schemes & DM 17.2 Designing out construction waste. • Limited floor to floor heights, which do not satisfy BCO requirements  
+
+• Draft City Plan 2040 (2024 draft) Policy S16: Circular Economy and Waste & Policy CE1: Zero Waste • Non-unform geometry and grids of the existing buildings make the building unsuited for adaptation, 
+City. limiting the scope for vertical/lateral extension. 
+
+• London Plan Guidance for Circular Economy Statements (March 2022). • Interfacing of floor slab levels, stair & core access between the retained and the new structure. 
+• City of London’s Supplementary Planning Document: Planning for Sustainability (February 2025). As a result of these investigations, it has been determined that whilst it may be technically feasible to retain some 
+
+According to GLA guidance, Circular Economy Statements should inform important, early decisions and be assets (e.g. in terms of capacity of the structure), there would be challenges relating to commercial viability, and 
+submitted at pre-application, full application (RIBA Stage 2/3) and post-completion stages (RIBA Stages 4-7).  the social value of retention scenarios may be limited. The retention options were therefore deemed unviable for 
+
+the site, and Option 04, a full demolition and new build, was pursued. The aim of Option 04 is to deliver a more 
+efficient, future-proof design with optimized structural performance, flexibility, and sustainability, while also 
+addressing the limitations posed by the outdated infrastructure of the existing structures. Details of the process are 
+discussed further in Section 5.2 of this document.   
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 1 
+ 
+
+
+
+For elements that will be removed from the building, an independent Pre-Demolition audit was undertaken, which Maximising Circularity: Proposed Development  
+reports on material types and quantities. From this audit, the design team and client have identified material reuse 
+opportunities, and explored actions and responsibilities associated with building elements identified. As a result, The Proposed Development will deliver new commercial and cultural spaces while incorporating circular 
+material reuse strategies have been identified for the existing site, as outlined in Section 6.3.  economy principles. The approach to circular economy for the Proposed Development was determined through a 
+
+collaborative workshop held during the early design stage, with a follow up workshop and several follow-up 
+The project team aim to deliver a development that maximises long term economic and social value through meetings with specific disciplines. This early-stage engagement enabled the design team to consider the brief and 
+provision of world class office space alongside targeted social & cultural facilities and high-quality public realm, determine a strategic approach to circularity.  
+delivered with sensitivity to the impact on heritage sites, adjacent communities and the environment.  
+
+Below are some of the circular economy design approaches being considered for the Proposed Development, more 
+detailed strategies can be seen in Sections 6.3 & 6.4: 
+Table 1 Circular Economy Design Approaches 
+
+Designing for flexibility and adaptability allows the in-use phase of the buildings 
+life to be extended. Flexibility and adaptability are delivered in the design via the 
+floorplate arrangement, a minimal column grid is being used and good access to 
+plant areas will be provided to facilitate future adaptation, maintenance and 
+
+Design for future replacement of end-of-life equipment. Manufacturers minimum access and 
+adaptability / flexibility maintenance dimensions have been used in sizing plantrooms. Primary circulation 
+
+cores are located centrally to the building, allowing multi-tenanted floors. A 
+modular façade system has been incorporated at design so that it can be removed 
+and replaced at the end of its lifecycle without affecting the structure beneath. Fit-
+out items are being kept to a minimum to avoid wasteful fit-out reworks.  
+The new structural elements will be designed for a minimum 50-year lifespan. 
+Services will be designed to meet TM52 2050 overheating criteria, and to avoid a 
+premature end of life for all components through considering maintenance needs, 
+
+Design for longevity and optimising durability. Collation of documentation/data on these components 
+and other new build elements for the building owner is being investigated, it is 
+being ensured that the contractor provides robust O&Ms for asset registers and 
+knowledge that has been provided. 
+The proposal will plan waste reduction in from project inception to completion, 
+including consideration of standardised components and pre-fabrication where 
+
+Designing out waste appropriate (e.g. the façade panels), and through the reuse of secondary products 
+and materials e.g. procuring reclaimed steel where possible and where not possible 
+design with low carbon steel. 
+
+ 
+While this CES is for the Section 73 submission based on RIBA Stage 3 design to date, actions and responsibilities 
+will be reviewed at each subsequent stage across the project lifecycle. 
+The circular economy approaches for the Proposed Development follow the six fundamental principles identified 
+in the GLA Guidance for Circular Economy Statements. This project commits to meeting the GLA circular 
+economy targets as per Table 9 (CE Targets for the existing site) and Table 14 (CE Targets for the Proposed 
+Development). Furthermore, Table 6 (Circular Economy Statement requirements checklist) provides a checklist 
+outlining the location of each of the Circular Economy Statement requirements, as listed in the London Plan 
+Guidance for Circular Economy Statements (2022). Additionally, detailed information on the project Circular 
+Economy design commitments can be found in Table 15. 
+This Circular Economy Statement is to be read in conjunction to the Whole Lifecycle Carbon Assessment 
+(WLCA), Energy Statement and the Sustainability Development and Climate Change (SDCC) Report, and other 
+relevant submissions made by the design team to provide a detailed overview of the existing site, the proposed 
+development, and associated strategies. 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 2 
+ 
+
+
+
+Policy compliance Updates Reflecting Section 73 Application  
+This project will demonstrate full compliance with GLA circular economy requirements and Policy SI 7, as set out There have been no changes to the policy targets since the previously submitted Circular Economy Statement (P03 
+in Table 2 below.  – dated 3rd June 2025).  
+Table 2 Key project targets aligned with GLA requirements   
+
+Policy SI 7 Minimum Waste 
+Requirements GLA Project 
+
+Targets How this will be delivered 
+
+Minimum of 95% diverted from 
+landfill for reuse, recycling or 95% 95% 
+recovery for construction waste. 
+
+These targets will be included in the 
+Excavation Waste  95% 95% Sustainability Employer’s Requirements 
+
+ERs. 
+6.5 
+
+Construction Waste Generation   t/100m2 6.5 t/100m2 
+GIA GIA 
+
+All design disciplines will specify 
+maximised recycled and reused content 
+
+Materials used (by value) in their products where cost appropriate. 
+derived from recycled and re- The WLC consultant will track and 
+used content in product and 20% 20% monitor achievement of this as part of the 
+material selection Stage 5 WLC monitoring process. This 
+
+will be included in the Sustainability 
+Employer’s Requirements (ERs). 
+
+ This target will be incorporated as part of 
+ the operational waste management 
+
+Municipal waste recycling by 
+2030 65% 65% strategy developed by Arup Waste.  
+
+  
+ Proposed approach supports a minimum 
+
+target of 65%. 
+Design developments with 
+adequate, flexible, and easily 
+accessible storage space and 
+collection systems that support, 
+as a minimum, the separate Y Y 
+collection of dry recyclables (at This will be incorporated as part of the 
+least card, paper, mixed waste management strategy developed by 
+plastics, metals, glass) and food. Arup Waste 
+
+Food Waste Generation - 
+Provision of Collection Facilities 
+Space for organic waste storage - Y 
+provided. 
+
+* The Employer’s Requirements form part of the construction contract and define the activities that the Principal 
+Contractor is required to undertake in relation to sustainability, including regular reporting. The Principal 
+Contractor will be responsible for site monitoring and reporting against targets and findings will be reported 
+during the post-construction stage Circular Economy Statement update. 
+ 
+ 
+ 
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 3 
+ 
+
+
+
+1. Project Background 
+1.1 The Existing Site 
+The application site is partly in the conservation area, the Site includes 326-332 High Holborn & 26 Southampton 
+Buildings (Holborn Gate), 319-325 High Holborn (Heron House) and 44 Southampton Buildings. Site is located 
+within the administrative boundary of the City of London but borders the London Borough of Camden to the north 
+of High Holborn and west of Chancery Lane. The Site is located at the junction of High Holborn and Chancery 
+Lane, sitting right on top of Chancery Lane Underground Station. It is an island site bounded by High Holborn to 
+the north, Staple Inn Buildings to the east, and Southampton Buildings to the west and south, with 25 
+Southampton Buildings fronting the southern facade and Chancery House fronting the western façade. 
+The development will replace outdated buildings that no longer meet modern energy efficiency and workspace 
+standards. The project aims to achieve BREEAM 'Excellent' certification, targeting an EPC 'A' rating and meeting 
+London Plan sustainability requirements. The scheme is designed with future flexibility in mind, ensuring long-
+term value and adaptability to future needs. 
+
+1.1.1 History of the Existing Site 
+The site of the High Holborn Project has a rich and varied history that dates back several centuries. The buildings 
+currently occupying the site were constructed during the 20th century, with Heron House and Holborn Gate being 
+built in the 1960s, serving primarily commercial functions and 44 Southampton Buildings being constructed in 
+1913-1914, originally built as office space. Southampton Buildings has undergone several renovations over the   
+decades. In the 1960s, further developments saw the construction of Holborn Gate and Heron House, both office 
+buildings typical of post-war London redevelopment. 
+
+Most of the site including the buildings to the north and northeast are not within a Conservation Area. However, 
+the site is surrounded to the south, east and west by the Chancery Lane Conservation Area which includes some 
+public realm. 44 Southampton Buildings is the exception on the site and is an unlisted building located within the 
+Chancery Lane Conservation Area. The site also holds archaeological significance, as it is situated near the 
+historic precincts of the medieval Knights Templar, who established their first temple in this area during the 12th 
+century. Excavations conducted in the early 2000s uncovered medieval foundations and remnants of Roman 
+inhumations, confirming the site's deep historical roots. The surrounding area is dotted with listed buildings and 
+sits adjacent to and partially includes the Chancery Lane Conservation Area, known for its legal, academic, and 
+historical importance. 
+
+Although the site has seen multiple renovations over the recent years, the site currently does not meet the modern 
+office standards, and the buildings are insufficient for modern use, with the various refurbishments and extensions 
+also reducing the original architectural integrity.  
+
+The buildings inefficient use of space and outdated design make them unsuitable for modern commercial needs. 
+This development provides a key opportunity to integrate sustainability and historical preservation within the 
+framework of modern construction and redevelopment. 
+
+ 
+Figure 1 Site Boundary of the Existing Development above and the Proposed Development below 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 4 
+ 
+
+
+
+The massing has evolved to minimise the impact of upper levels while breaking down the massing at the lower 
+1.2 The Proposed Development levels. Ultimately this has been achieved using stepped shoulder lines, recesses, and varying façade treatments to 
+The High Holborn Development is a significant redevelopment situated at the heart of London's historic and create a more visually appealing and contextually appropriate design. More detailed massing information can be 
+cultural centre. The proposal aims to deliver a new commercial building offering best-in-class office space with seen in Section 04 of the planning submitted Design and Access Statement (DAS), Page 77. It explains the 
+supporting retail and cultural facilities. The project is driven by a strong commitment to sustainability, integrating development of the massing, from something taller, and where height was pushed and pulled during the design 
+circular economy principles to reduce waste, reuse materials, and create a resilient, adaptable building that process. 
+contributes to the area's economic and cultural vibrancy. 
+
+The proposed massing is 10 storeys high with a mezzanine at upper ground level and external plant space at roof 
+The project will deliver new commercial and cultural spaces while incorporating circular economy principles. The level. The tallest part of the mass is located towards the north-east corner, signifying Chancery Lane Underground 
+new basement is optimised to be compatible with the existing basement provision such that retention of some Station and the important intersection between Holborn, High Holborn and Gray's Inn Road. The building then 
+elements will serve to simplify construction works and reduce excavation and temporary works requirements for steps down towards the south and west responding to some key views from Lincoln's Inn - New Square and Gray's 
+the new building. An area of redundant existing basement space is allocated for rainwater attenuation, allowing the Inn. This offers significant opportunities for urban greening and terraces. This is expanded on within the DAS, 
+building to meet its sustainable drainage strategy without excavating new areas for tanks. Demolition will be Section 05: Massing principles. Which clarifies on pages (98-100 and 104-107) how the team defined the shape, 
+carefully managed to optimise recycling and recovery of materials. including the height responding to Lincoln’s Inn views, visibility on High Holborn corner, and all the elevations.  
+
+To the north-east, the curved corner projects the main facade line upwards and includes a clock that is visible from 
+Holborn Circus, a five-way junction to the east of the site. To the north-west, the large radiused facade wraps 
+around the location and remnants of the historic Knights Templar Church. To the south, the proposed massing sets 
+back further than the existing building to provide a consolidated square facing the Grade II*- listed former Patent 
+Office. The curved corners open up views towards the listed building from further north along Southampton 
+Buildings and provide additional public realm at ground floor.  
+The massing on the outer main facades is split into five segments with deep recesses between. This breaks down 
+the mass into a series of buildings with different facade treatments that respond to their individual context and 
+orientation. This is illustrated in Figure 3 below. 
+The proposed development maximises the site footprint and is a flexible mixed-use space. Detailed information 
+regarding space use can be found in the DAS, Section 06: Layout and use. This includes all the plans and a key 
+section (pages 130-140).  
+The development contains retail and cultural space, alongside a mixture of affordable workspaces and office 
+spaces. The site has a gentle slope to the south, which allows a generous double-height space to the north and an 
+additional office mezzanine level to the south. The roof houses external plant space which is contained within a 
+walled enclosure but open to the sky. 
+ 
+The typical office floorplates are designed to be open plan with a generous grid surrounding a central core. The 
+passenger lifts and circulation stairs are located centrally within the core with dual access from a central corridor 
+
+ onto the office floorplates. This provides flexibility for a multiple tenancy split. Cores are located centrally, in the 
+dark zones of the floorplate which allows for maximum daylight and opportunities for adaptable reuse. Five 
+
+Figure 2 Proposed Development balconies are also dispersed around these floorplates, providing external amenity for the occupants. Figure 4 
+shows the floor plan for a typical office space (Levels 01-06). Further information on the building step-backs and 
+the façade massing can be found in ‘Section 07: Building envelope’ of the submitted Design and Access 
+Statement. This includes more specific detail about how the massing is articulated into blocks, grid size, number of 
+levels and set back upper levels (pages 180-182). It also contains elevations of the Proposed Development in the 
+wider context. 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 5 
+ 
+
+
+
+Updates Reflecting Section 73 Application   
+The previously granted permission had a total Gross Internal Area (GIA) of 55,997m2.   
+For the Section 73 submission, the office space area has increased by 924m2 since the previous planning issue.   
+The updated Gross Internal Area (GIA) of the Section 73 Application is 56,921m2, with this update reflected in the   
+WLCA and DAS. 
+
+ 
+The updated GIA per use type for the Section 73 Application is shown below: 
+
+ 
+Table 3 Proposed area schedule 
+
+ 
+Use type Gross Internal Area (GIA) 
+Office (Class E) 53,580m²  
+
+Retail (Class E) 1,197m²   
+  
+
+Cultural Space (Sui Generis) 1,923m² 
+Affordable Cultural (Sui Generis) 221m² 
+Total 56,921m² 
+
+ 
+
+Figure 4 Proposed Massing 
+
+ 
+
+Figure 3 Typical office floor plan (Levels 01-06) 
+ 
+ 
+ 
+ 
+ 
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 6 
+ 
+
+
+
+2. Policy Compliance 2.2 Regional policy: The London Plan (2021) 
+The London Plan (2021) Policy SI7 Reducing waste and supporting the circular economy requires development 
+proposals that are referable to the Mayor of London to submit a CES, to achieve improved resource efficiency and 
+
+2.1 Applicable policies innovation, and Policy D3 Optimising site capacity through the design-led approach requires the development 
+The Proposed Development’s circular economy strategy has been developed in alignment with relevant proposals to integrate circular economy principles as part of the design process. The Proposed Development is 
+sustainability-focused planning policy at national, regional and local level, specifically in relation to circular GLA referable, it has very high sustainability aspirations and commits to meeting the London Plan minimum 
+economy and waste management. requirements and targets as detailed in the following two tables. 
+
+Table 4 Greater London Authority CES requirements 
+At National level, policy is set out in the National Planning Policy Framework (NPPF). The NPPF was published 
+by the Government in March 2012, replacing Planning Policy Guidance Notes and Statements since 1991. The Policy SI 7 Circular Economy Statement Requirements Response 
+latest update was in December 2024. It provides guidance for local authorities when drawing up plans and How all materials arising from demolition and remediation works will be re-used 
+determining applications. The Government consulted on a revised National Planning Policy Framework from 16th and/or recycled Section 6.3 ✓ 
+December 2025 – 10th March 2026. The revised NPPF is expected to be published in July 2026. At this stage, the How the proposal’s design and construction will reduce material demands and 
+consultation draft NPPF is a material consideration of only limited weight. enable building materials, components and products to be disassembled and re-used Section 6.3 ✓ 
+At Regional level, the Greater London Authority (GLA) sets the regional planning policy via the London Plan at the end of their useful life 
+(adopted March 2021) and the London Plan Guidance for Circular Economy Statements (2022).  Opportunities for managing as much waste as possible on site Section 6.8 ✓ 
+At Local level, planning policy is set by the City of London (CoL) in the current Local Plan (adopted January Adequate and easily accessible storage space and collection systems to support 
+2015) and the City Plan 2040 (draft April 2024). The City of London’s Supplementary Planning Document: recycling and re-use Section 6.8 ✓ 
+
+Planning for Sustainability (February 2025) has also been considered in this document. How much waste the proposal is expected to generate, and how and where the waste 
+will be managed in accordance with the waste hierarchy Section 6.8 ✓ 
+
+How performance will be monitored and reported Section 6.9/6.10 ✓ 
+ 
+Table 5 Greater London Authority waste requirements  
+
+Policy SI 7 Minimum Waste Requirements Response 
+  
+
+Minimum of 95% diverted from landfill for reuse, recycling or 
+Existing site recovery at demolition stage 
+
+Minimum of 95% diverted from landfill for beneficial use from Table 9 of this 
+excavation document 
+Minimum of 95% diverted from landfill for reuse, recycling or 
+recovery at construction stage 
+
+New Minimum of 20% for Materials used (by value) derived from 
+development recycled and re-used content in product and material selection 
+
+       Minimum recycling of non-hazardous construction waste 
+Minimum of 65% Municipal waste recycling by 2030 Table 14 of this 
+
+document 
+Operational Design developments with adequate, flexible, and easily accessible 
+waste storage space and collection systems that support, as a minimum, the 
+
+separate collection of dry recyclables (at least card, paper, mixed 
+plastics, metals, glass) and food. 
+
+  
+Figure 5 Applicable Policy Documents 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 7 
+ 
+
+
+
+2.2.1 Supplementary Planning Document: London Plan Guidance – Circular Economy Statements 2.3 Local policies for City of London  
+(March 2022) 
+
+This CES follows the guidance of the GLA’s Circular Economy Statements LPG in order to comply with the 2.3.1 Local policy: City of London Plan (Adopted 2015) 
+London Plan requirements. The development complies with Policy CS17 of the current City Plan 2015 (January 2015). 
+A CES for the Proposed Development will be submitted at the following stages: Table 7 Response to the Local policy: City of London Plan (Adopted 2015) 
+
+1. Pre-application GLA spreadsheet. Policy Local Policy Requirements Response 
+2. Detailed CES (updated for Section 73 Application): At full application stage (RIBA Stage 2/3) CS17 Policy DM 17.1 Provision for waste in development schemes 
+3. CES (Update): At post-completion stage (RIBA Stages 4-7), 3no. months post-construction and prior to • Waste facilities must be integrated into the design of buildings, 
+
+the final occupation of the development. wherever feasible, and allow for the separate storage and collection of Section 6.8 of this 
+Table 6 Circular Economy Statement requirements checklist recyclable materials, including compostable material.  
+
+• On-site waste management, through techniques such as recycling report ✓ 
+Requirement LPG 2022 CES GLA CE Spreadsheet sorting or energy recovery, which minimises the need for waste transfer, 
+Circular Economy targets  4.2 should be incorporated wherever possible. 
+
+4.1 ✓ ✓ 
+Circular Economy design 4.3 
+approaches 4.1, 6.3  ✓ ✓ Policy DM 17.2 Designing out construction waste: New development 
+
+should be designed to minimise the impact of deconstruction and 
+Circular Economy design 4.4 construction waste on the environment through: 
+principles  6.3 ✓  • Reuse of existing structures. Section 6.3, 6.4 of 
+
+• Building design which minimises wastage and makes use of recycled this report ✓ 
+Circular Economy design 4.5 materials. 
+principles by layer  4.2 ✓ ✓ • Recycling of deconstruction waste for reuse on site where feasible. 
+Pre-redevelopment audit 4.6 5.3 ✓  
+Pre-demolition audit  4.6 5.5 ✓  
+Bill of materials  4.7 6.6 ✓ ✓ 
+Operational waste management 4.8 
+plan 6.8 ✓  
+Recycling and waste reporting 4.9 6.10 ✓ ✓ 
+Lesson learnt and key 4.10 
+achievements To be completed at post-construction stage 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 8 
+ 
+
+
+
+2.3.2 Local policy: Draft City Plan 2040 (April 2024) 2.4 Pre-application meetings 
+The development complies with Policy S16 and Policy CE1 of the Draft City Plan 2040 (April 2024). Adoption of The Proposed Development has been through a rigorous consultation process. Prior to the pre-application 
+this plan is targeted for 2025. meetings the early optioneering process involved the design team assessing different retention opportunities, 
+
+which resulted in the creation of family groups. Refer to Section 5.2 for full details of the early optioneering 
+Table 8 Response to the Local policy: Draft City of London Plan 2040 (April 2024) processes.  
+Policy Local Policy Requirements Response The design team subsequently met with the City of London Corporation (CoL), the Greater London Authority 
+S16 The City Corporation will support businesses and residents in moving (GLA) and the London Borough of Camden (LBC) during RIBA Stages 1 and 2. Pre-application meetings were 
+
+towards a Zero Waste City, by applying circular economy principles, the Section 4.1 of this held to discuss a wide range of topics, such as carbon optioneering, sustainability aspirations and the Energy 
+waste hierarchy and the proximity principle at all stages of the development report ✓ approach.  
+cycle. 
+
+DE1 Development should be designed to promote circular economy principles From the outset, the project team reviewed opportunities to retain the existing building and went through a 
+systematic process to analyse a range of options for the site. 
+
+throughout the life cycle of the building through:  
+• Flexible building design to accommodate evolving working and living Through the pre-application meetings, a shortlist of options was selected from the full spectrum of possibilities, (as 
+
+patterns, reducing the need for redevelopment. defined by the City of London Carbon Options Planning Advice Note, April 2023, Rev 01), from major 
+• Re use and refurbishment of existing buildings, structures and materials refurbishment to new build. It was agreed with the City of London not to further explore a light refurbishment 
+
+to reduce reliance on virgin resources and retain embodied carbon;  option, given the baseline amount of work required to bring the buildings up to modern standards. 
+Section 6.3 of this 
+
+• Requiring development to be designed to allow for disassembly, reuse Recommendations and comments received from the CoL as part of the pre-app discussions were addressed in 
+and recycling of deconstruction materials;  report ✓ these final proposals, such as inclusion of an additional option (‘Retention of 44 Southampton Building’s façade’). 
+
+• Requiring the maximum use of recycled materials in development and The engagement between the design team and the local authority has taken a collaborative approach and 
+off-site construction methods to reduce wastage; and  suggestions have been considered and incorporated where feasible. 
+
+• Designs which enable durability, modularity, sharing of goods and A site visit was organised with the design team and the CoL which took place on 16 June 2023. The visit provided 
+services and reuse of supplies and equipment, minimising waste during a non-invasive visual survey of the existing assets and allowed those in attendance to walk around a selection of 
+the building’s operational phase. floors and areas within 322 High Holborn, Holborn gate and 44 Southampton buildings. During the visit, the team 
+
+CE1 All development proposals should incorporate waste facilities which must directly identified concerns in relation to accessibility, fire safety, façade access, facade thermal performance, 
+be integrated into the design of buildings and allow for separate treatment, structures, floor build ups, floor heights and public realm. Please refer to Appendix A.5.1 for full site visit 
+storage and off-road collection of waste and recyclable materials, where Section 6.8 of this details.           
+feasible. Major developments should provide a single waste collection report ✓ 
+point to facilitate efficient waste management from multi tenanted An options workshop was held with the design team and the CoL following the site visit, where considerations for 
+buildings. retention and refurbishment were discussed. When evaluating the feasibility of each design scenario, the technical 
+
+ capacity of the asset was considered, alongside the potential energy performance, potential occupant comfort, 
+construction practicalities and logistics, social and economic value considerations, and commercial viability. 
+
+Updates Reflecting Section 73 Application Please refer to Appendix A.5.2 for further details. The workshop resulted in the team proposing the best options to 
+progress and complete a greater detailed review of, which resulted in four ‘shortlisted’ options.     
+
+There are no changes to the local policies that were previously listed for the previous planning submission. This 
+updated CES maintains alignment with these policies.  Following confirmation from CoL, the design team investigated these four agreed options and conducted analysis 
+
+and design iteration on these options. 
+Since then, the City of London’s Supplementary Planning Document: Planning for Sustainability (February 2025) 
+has been adopted and considered in the update of this CES.  Updates Reflecting Section 73 Application  
+
+There are no additional pre-application meetings relating to Circular Economy since the last update of the CES 
+(P03).  
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 9 
+ 
+
+
+
+3. Methodology As demonstrated by the process diagram, this project incorporates circular economy principles into the whole 
+lifecycle of the development. This will begin from the strip out and demolition of the existing buildings on site, to 
+the construction of the new building and fit out of the new development. The principles will also be incorporated 
+
+3.1 Process into the future operation and maintenance of the building until its end of life. 
+
+The Proposed Development circular economy process showing the high-level steps and deliverables is detailed in 3.2 Circular Economy 
+Figure 6. The circular economy strategy itself has been developed collaboratively with the project design team and 
+full detail can be found later in this CES. As defined by the Ellen MacArthur Foundation: ‘A circular economy is based on the principles of designing out 
+
+RIBA 1 waste and pollution, keeping products and materials in use, and regenerating natural systems.’ A circular building 
+Pre-redevelopment audit is one where materials are retained in use at their highest value for as long as possible and are then reused or 
+
+recycled, leaving a minimum of residual waste. This is illustrated in Figure 7. 
+Site condition and suitability for retention analysed
+
+ 
+ 
+
+Decision made on extent of retention vs. demolition
+ 
+
+RIBA 1-2  
+Pre-demolition audit  
+
+Reuse opportunities identified
+ 
+ 
+
+Material reuse opportunities identified  
+
+RIBA 2  
+Circular economy workshop  
+
+Opportunities identified  
+ 
+
+Circular economy targets and actions defined  
+ 
+
+Targeted discipline meetings  Figure 7 Application of Circular Economy Principles to Commercial Property (Source: The Circular Economy in the Built 
+Circular economy targets and actions agreed IEnn vai rcoinrcmuelnatr,  eAcrounp)o my, renewable materials are used where possible, energy is provided from renewable sources, 
+
+Natural systems are preserved and enhanced, and waste and negative impacts are designed out. Materials, products 
+and components are instead managed in loops, maintaining them at their highest possible intrinsic value.  
+
+Circular Economy Statement (application stage)  
+Value is created by using design, technologies and business models to manage healthy, non-toxic materials and 
+resources in loops that maintain them at their highest possible intrinsic value in every use.  
+
+RIBA 3   
+Contractor Sustainability Employer's Requirements including 
+
+circular economy commitments
+
+RIBA 3-4 
+Ongoing tracking, monitoring and reporting to deliver targets and 
+
+meet commitments
+RIBA 5 
+
+Circular Economy Statement (post-completion stage)
+        
+Figure 6 Process for embedding circular economy in the Proposed Development 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 10 
+ 
+
+PROPOSED DEVELOPMENT/S EXISTING SITE 
+
+
+
+3.3 Engaged disciplines  
+This CES defines the project aspirations and sets out the strategic approach to including circular economy   
+principles in the Proposed Development. This CES identifies key opportunities from various disciplines engaged 
+in the Proposed Development, design and delivery of the project. These include: 
+• The Applicant – High Holborn Limited 
+• Architect – Make 
+• Ecologist – Temple Group & Gillespies Landscape 
+• Façade Engineer – MFS Facades 
+• MEP Engineer – Arup MEP 
+• Cost Consultant - Gleeds 
+• Landscape Architect – Gillespies Landscape 
+• Project Manager – Gleeds 
+• Structural Engineer – Arup Structures 
+• Sustainability Consultant – Arup Sustainability 
+• Operational Waste Consultant – Arup Waste 
+ 
+All key stakeholders have been and will continue to be actively engaged with the circular economy approach 
+throughout the design and construction of the project.
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 11 
+ 
+
+
+
+4. Applying the Circular Economy Principles 
+4.1 Circular Economy Principles 
+This circular economy approach was determined collaboratively through two interactive online workshops during 
+RIBA Stage 2 and an update workshop held during RIBA Stage 3 led by the Arup Sustainability Consultant. The 
+workshops took place in July and October 2024 and June 2026 respectively. These were attended by a range of 
+disciplines including MEP, Structures, Architects, Sustainability, Facades and Project Management. Discussions 
+took place throughout the workshop to collectively determine the strategic approach to circular economy in the 
+new proposal. A further circular economy workshop was held post pre-demolition audit to define strategies during 
+RIBA Stage 2 and RIBA Stage 3 to explore and incorporate reuse opportunities, and confirm further investigations  
+required.  Figure 9 CE hierarchy for building approaches (Arup, adapted from London Plan Policy D3 Figure 3.2) 
+The GLA’s decision tree was used to define the high-level circular economy strategies, and in particular was used 
+to test the technical feasibility and suitability of the existing site against a range of options. The decision tree is Furthermore, the GLA’s decision tree was also used to define the high-level circular economy strategies that are 
+
+most appropriate to the Proposed Development.  
+shown in Figure 8 below: 
+
+ 
+
+ 
+Figure 10 Adaptation of the GLA circular economy decision tree for new elements (Arup) 
+
+Following the decision tree, it was determined that the project will prioritise design for adaptability and longevity 
+as the core circular economy principles. Designing out waste was also identified as a core principle by the design 
+team, focussing on optimising the new design and examining how to reuse materials from the existing building on 
+and off-site. 
+The layout of the workshop followed the six Principles in the London Planning Guidance for Circular Economy 
+Statements and the GLA’s Circular Economy Spreadsheet. These Principles are: 
+
+ • Building in layers. 
+Figure 8 Adaptation of the GLA circular economy decision tree for existing structures (Arup) 
+
+• Designing out waste 
+In addition to the decision tree, the project’s optioneering studies followed the hierarchy of Circular Economy 
+design approaches, with retention as the preferred starting point and recycling materials produced by the • Designing for longevity. 
+demolition process as the least preferable option. • Designing for adaptability or flexibility. 
+
+• Designing for disassembly. 
+• Using systems, elements or materials that can be reused and recycled. 
+
+ 
+ 
+ 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 12 
+ 
+
+
+
+4.2 Building in Layers Framework 
+
+4.2.1 Previous original planning  
+In alignment with both the GLA and best practice, the circular economy approach has been categorised according 
+to the ‘Shearing Layers’ concept which represent the various ‘layers’ of a building with their own lifecycle. Each 
+layer requires different circular economy approaches to be adopted given their different service lives, 
+uses/exposures. The layers of analysis are shown below in Figure 11. 
+
+Site - The geographical setting, urban location and 
+external works 
+Substructure - Excavations, foundations, basements 
+and ground floors 
+Superstructure - Load-bearing elements above plinth 
+including roof supporting structure 
+Shell/Skin - The layer keeping out water, wind, heat, 
+cold, direct sunlight and noise 
+Services - Installations to ensure comfort, practicality, 
+accessibility, and safety 
+Space - The layout of internal walls, ceilings, floors, 
+finishes, doors, fitted furniture 
+Stuff - Anything that could fall if the building was  
+turned upside down Figure 12 Indicative images from the circular economy workshops held at RIBA Stage 2  
+
+ 
+Construction stuff - Any temporary installations/ 
+works/ materials, packaging and equipment   
+
+  
+Figure 11 Shearing Layers diagram (Source: Adaptation from the GLA CES LPG, Arup) 
+
+This division of building layers enabled all the individual design disciplines to contribute to the overarching 
+strategy during the Circular Economy workshops, thus leading to a more holistic and wide-reaching scheme. This 
+had a clear influence on both the brief and other aspects of the building design, such as material specification and 
+sourcing. 
+ 
+The results of the workshop can be seen in Appendix A.6.1. This details the workshop process and the circular 
+economy strategies created. It does not reflect the opportunities and commitments that are being incorporated in 
+the project moving forward. These can be seen in the GLA spreadsheet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 13 
+ 
+
+
+
+Updates Reflecting Section 73 Application 
+There are no material changes to the Circular Economy approach since the previous submitted CES (P03)  
+A Circular Economy workshop was held during RIBA Stage 3 for the Section 73 update, to further discuss the 
+commitments and further opportunities identified with the project team from the previous planning CES (P03). 
+Actions to progress with were agreed with the project team, as noted in Section 6.3 and 6.4. 
+Additional opportunities have been discussed, such as identifying waste streams for key materials from the pre-
+demolition audit, whilst discussing timeline and storage implications. Actions have been noted and are being 
+tracked throughout this stage and further stages.  
+Opportunities for reuse of materials in the Cultural Space were further explored and discussed, the project team 
+clarified that they will not undertaking the interior design of the Cultural Space and this will sit within future 
+occupier’s scope of works. To encourage circular economy principles being embedded in the design of this space, 
+the opportunities identified will continue to be monitored through the RIBA stages and opportunities relayed to the 
+future occupants and design teams.      
+These additional activities reflect ongoing application of the strategy and maintain alignment with policy. 
+Full details of the workshop can be seen in Appendix A.6.2.  
+
+ 
+Figure 13 Screenshot of the Circular Economy Workshop at RIBA Stage 3 for the Section 73 Submission 
+ 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 14 
+ 
+
+
+
+5. Maximising Residual Value: Existing Site 
+5.2 Whole Life Carbon Options Study  
+The City of London Carbon Options Guidance Planning Advice Note was followed to undertake the optioneering 
+
+5.1 CE Targets for the existing site  study for the proposed development, as it lays out a methodology for completing Whole Life Carbon Optioneering 
+The Proposed Development commits to meeting all GLA requirements for excavation and demolition waste for at an early project stage. The optioneering allows for the comparative analysis of multiple development scenarios, 
+the existing site. These are listed in the table below. such as minor refurbishment, major refurbishment, extension and new build options, considering aspects such as 
+
+structural integrity, health and wellbeing, sustainability, economic sustainability, power/services infrastructure and 
+Table 9 CE Targets for the existing site whole life carbon. For the Proposed Development, the process was also informed by the findings from the pre-
+
+redevelopment audit, see Section 5.3 and Appendix A.1. 
+Policy SI 7 Minimum Waste 
+Requirements GLA Project 
+
+Targets How this will be delivered The process enables stakeholders to transparently understand the relative carbon implications associated with each 
+option. The summary output of the optioneering study forms the City of London’s ‘Carbon Options Dashboard 1’, 
+
+  The Proposed Development is targeting a and contains assumptions, methodologies and carbon emissions data, alongside visual representations of the 
+Minimum diversion from landfill diversion from landfill rate of 95% for non- design options being considered. It informs discussions between developers and planning authorities and ensures 
+for reuse, recycling or recovery at 95% 95% hazardous construction waste. that the development aligns with the City’s Sustainability objectives.  
+demolition stage 
+
+This target will be included in the Sustainability From the outset, the project team reviewed opportunities to retain the existing building and went through a 
+ Employer’s Requirements (ERs). systematic process to analyse a range of options for the site. 
+
+  
+ The Principal Contractor will be responsible for The early optioneering process involved the design team assessing different retention opportunities, ranging from 
+
+  site monitoring and reporting against this target. 0% up to 79% retained. The next steps in this process involved examination of different core layouts, then 
+Minimum diversion from landfill potential lateral extensions and finally potential vertical expansions. Please refer to Appendix A.5.3. Following the 
+for beneficial use from excavation 95% 95% This will be reported during the post- optioneering tree procedure, potential scheme options were put forward for further analysis and they were grouped 
+
+construction stage CES update. into ‘families’, these being:  
+• Major refurbishment  
+• Partial retention + extension + new build  
+• New build.  
+It was agreed with the City of London (COL) not to further explore a light refurbishment, given the baseline 
+amount of work required to bring the buildings up to modern standards. 
+A WLC options workshop was held with the design team and the CoL following the site visit, where 
+considerations for retention and refurbishment were discussed. When evaluating the feasibility of each design 
+scenario, the technical capacity of the asset was considered, alongside the potential energy performance, potential 
+occupant comfort, construction practicalities and logistics, social and economic value considerations, and 
+commercial viability. Please refer to Appendix A.5.3 and A.5.4 for further details. The workshop resulted in the 
+team proposing the best options in each family group to progress and complete a greater detailed review which 
+resulted in four ‘shortlisted’ options. These four agreed options were then used to conduct the final analysis and 
+design iteration. 
+The options considered during the optioneering process can be seen in Figure 13 below and each option is detailed 
+in Table 10. It was agreed with the City of London not to further explore a light refurbishment, given the baseline 
+amount of work required to bring the buildings up to modern standards. 
+The output of the optioneering study was presented to CoL in the required Dashboard format. In line with the City 
+of London’s Planning Advice Note, the Whole Life Carbon Optioneering study underwent a third-party review 
+and sign off by Watermans. 
+During the optioneering process, assumptions were made for all the options: these included that there would be no 
+retention of partitions, finishes, FFE, external works or MEP plant and equipment. It was also incorporated that in 
+any retention scenario, demolition of the existing buildings cores and construction of new cores would be required 
+for compliance with fire requirements, resulting in significant demolition and construction works. 
+ 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 15 
+ 
+
+
+
+In line with the PAN guidance, both qualitative and quantitative assessments of the four options were undertaken. 
+This analysis highlighted the following significant constraints to the three retention options: 
+• Fire issues: escape routes, fire ratings, cores do not currently meet requirements for fire or evacuation, and 
+
+significant structural interventions to the cores would be required to achieve compliance. 
+• Poor thermal performance of the existing façade 
+• Limited floor to floor heights, which do not satisfy BCO requirements 
+• Non-unform geometry and grids of the existing buildings make the building unsuited for adaptation, limiting the 
+
+scope for vertical/lateral extension. 
+• Interfacing of floor slab levels, stair & core access between the retained and the new structure. 
+As a result of these investigations alongside the pre-redevelopment audit study, it was determined that whilst it 
+may be technically feasible to retain some assets (e.g. in terms of capacity of the structure), there would be 
+challenges relating to commercial viability, and the social value of retention scenarios may be limited. Therefore, 
+the new build design option was chosen for the Proposed Development which includes the demolition and 
+reconstruction of the entire building, utilising the full site area and increasing lettable area. 
+The benefits of the new build option include providing a more efficient, future-proof design with optimised 
+structural performance, greater flexibility, and sustainability, while overcoming the limitations posed by the 
+outdated infrastructure of the existing buildings. 
+
+ Updates Reflecting Section 73 Application  
+ The carbon options study from the previous granted permission remain valid for this submission. The design has 
+Figure 14 Whole Life Carbon Optioneering Process – refer to Appendix A.5.3 for further information progressed with the agreed new build option at RIBA Stage 3.   
+
+ Floor-to-Ceiling Heights and Basement Optioneering  
+Specific design feasibility studies were also completed with regards to the floor-to-ceiling height and system 
+selection, to understand whether slimmer systems could mitigate the constraint of low floor to ceiling heights in 
+the existing building. In particular, a detailed study was undertaken in Stage 1 of the design process to optimise the 
+structural and services floor sandwich. Multiple options were reviewed for both structures and mechanical 
+strategies. The mechanical considerations included, but were not limited to, fan coil units, chilled slabs and chilled 
+beams. These were assessed in a matrix to understand the impacts of different systems and structural 
+configurations to arrive at the optimum for the development. Details can be seen in A.5.5. 
+Additionally, the potential for a single basement was initially investigated for on High Holborn to limit excavation. 
+However, there were several reasons why this wasn’t possible, including but not limited to the following:  
+• There are currently 5 substations on the site, most of which will have to be replaced. The space required for the 
+
+substation reduces usable area on the ground floor, but also at basement levels where these have been located 
+below ground to maximise active frontage grade. 
+
+• Significant basement area will be required for cycle stores, due to the number of cycle spaces required and the 
+setting out required. Cycle spaces have been complemented with a proportionate number of showers and 
+lockers, increasing requirements for below-ground space. Other locations for end of trip facilities were explored 
+but discounted as not suitable.  
+
+• Calculations carried out during design development confirm that significant plant area is required to service the 
+building.  
+
+• Where possible, plant has been located at basement level rather than at roof level, to minimise impact on Views.  
+Even if a single basement were feasible, there are several reasons that would frustrate the retention of the existing 
+slab levels. Such as:  
+
+ 
+Figure 15 Whole Life Carbon Optioneering Study following the City of London Planning Advice Note • As the existing site comprises three independently built buildings, none of the basements align. 
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 16 
+ 
+
+
+
+• The existing basement in 44 Southampton Buildings is significantly shorter than the other buildings, because of Minimal demolition (WLC – 01) Minimal demolition, with maximum retention. 
+its age and size. It is too short for any suitable use and so needs to be lowered to be usable for end of trip or Two basement levels as existing, complete 
+plant.  retention. All structure retained with upgrades 
+
+(where required), upgrades and updates to the 
+• The basement heights have been determined by the equipment in them, to reduce the plant space needed at roof. existing cores and stairs/toilets, 
+
+The existing basements weren’t deep enough, and given the amount of plant required, which is spread across replacement/upgrade of all services: all electric, 
+both basements to be close to the perimeter, it wasn’t feasible just to lower specific areas of the basement in air source heat pumps, therefore plant space 
+isolation. upgrade and expansion. Thermal upgrade to 
+
+• The heights needed for the Cultural Space to be viable for potential tenants dictated the height of the basement  retained facades including new glazing and 
+in the NW corner.  insulation.  
+
+Notwithstanding the above constraints, where possible the basement will be stepped to allow retention of the Transformation + New-Build (WLC – 02) Retention of north frontage and front portion of 
+existing slab in areas which are not subject to head height and access constraints. This is to the south and east, and 44 SB; demolition and reconstruction of the rest 
+the redundant existing basement space is proposed for rainwater attenuation and landscaping, allowing the of the building, including level 8 and roof. New 
+building to meet its sustainable drainage strategy without excavating new areas for tanks. Demolition will be building structure, cores and lifts. Existing 
+carefully managed to optimise recycling and recovery of materials. Although basement retention is proposed the foundations and basement retained beneath 
+overall percentage is defined as <1%, as the total volume is small in comparison to the overall slab.  retained part of structure along north frontage; 
+
+new foundations and new 2-storey basement 
+The existing basement wall around the whole perimeter of the building will be retained, however it will be beneath new build part of structure, requiring 
+necessary to construct a new internal perimeter wall to provide the new basement wall. There were several key excavation to a level adequate to suit plant 
+issues with retaining this as the permanent perimeter wall for the Proposed Development: headroom requirements (but not lower than 
+
+existing B2). Upgrades to existing cores and 
+• B1 slab will be lowered for plant, which would mean it would be necessary to underpin most of the retained stairs/toilets. All services replaced/upgraded: all 
+
+perimeter walls. This would require significant, carbon intensive temporary works. Additionally, the retaining electric, air source heat pumps. Thermal upgrade 
+walls will be subject to increased forces from horizontal ground pressure, which would result in significant, 
+
+ to retained facades including new glazing and 
+carbon intensive strengthening works being required. insulation.  
+
+• Most of the retaining wall will be required to support the proposed superstructure perimeter columns landing Partial Retention of 44SB + New Build (WLC – 03) Retention of parts of 44 Southampton Buildings 
+upon it and associated vertical loads. Significant, complex and carbon intensive strengthening works would be with upgrades; demolition and reconstruction of 
+required to enable the wall and its foundations to support this added load. the rest of the building. New building structure, 
+
+The basement will be retained where possible. There is an existing B2 area of the basement which helps to cores and lifts. Existing foundations and 
+simplify construction works and limit excavation and temporary works requirements for the new building. The basement retained beneath retained part of 
+existing basement volume is c.24,000m³ and the proposed is c.51,500m³. This is approximately twice the volume, 44SB; new foundations and new 2-storey 
+which responds to increasing from a single level to two levels of slightly deeper basement.  basement beneath new build part of structure, 
+
+requiring excavation. New plant - full scope to 
+The number above has been updated for Section 73, with the south basement extension, aligning to the cost plan.  investigate higher efficiency ground source 
+
+energy system with cleared site.  
+Basement drawings showing the retention are contained with Appendix A.7.  
+
+Updates Reflecting Section 73 Application   
+The previous figures presented above for the existing basement volume and the proposed volume have been 
+updated to align with the updated cost plan and Whole Life Carbon Assessment (WLCA) MMA Addendum New Build (WLC – 04) Demolition and reconstruction of the entire 
+(294009-ARP-RP-YS-10004). The impact on the embodied carbon will be detailed in the WLCA.  building. New building structure, cores and lifts. 
+
+New foundations and new 2-storey basement 
+ beneath entire structure, requiring excavation. 
+
+New plant - full scope to investigate higher 
+ efficiency ground source energy system with 
+ fully cleared site.  
+
+ 
+ This option has been progressed with at 
+
+RIBA Stage 3.  
+ Table 10 Early Stage Optioneering Study 
+   
+ 
+ 
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 17 
+ 
+
+
+
+5.3 Pre-redevelopment Audit The pre-redevelopment audit considered four different redevelopment scenarios of the buildings on site and 
+A pre-redevelopment audit is a tool for understanding whether existing buildings, structures and materials can be provided commentary on the implications of each option which are detailed in Table 11 below. 
+retained, refurbished, or incorporated into the new development. Table 11 Pre-redevelopment alteration options considered 
+
+A third-party pre-redevelopment audit was undertaken by Reusefully at pre-application stage to inform the design  Description Constraints 
+and to guide the Whole Life Carbon Optioneering study. 
+
+Heavy refurbishment No demolition of any buildings The existing cores require demolition, 
+The pre-redevelopment audit is intended to help clients determine whether retention of the existing buildings is onsite (though note that existing and new cores need to be constructed 
+feasible whilst still delivering project aims and wider societal benefit. It provides analysis of existing structures, cores will require demolition for fire and evacuation compliance 
+and the fabric of existing buildings to assess their suitability for incorporation into the new development; and the and construction of new cores reasons. Extensive refurbishment 
+potential to refurbish buildings before considering substantial demolition.  for compliance); extensive would be required for compliance 
+Reusefully completed a non-invasive visual survey of existing assets. Observational notes and photographs were refurbishment for compliance with energy and other performance 
+taken to help determine the existing use patterns, dimensions, layout, condition, performance, and degree of with energy and other requirements. Low floor to ceiling 
+adaptability of the buildings. The report also includes information on the condition of the buildings on site, the performance requirements. heights mean that the existing 
+building ages, the key materials, information on design options analysed and photos of the existing buildings, Conversion from privately buildings do not satisfy BCO design 
+including internal spaces, facades and site plans.  tenanted offices to either criteria.  
+
+flexible offices/coworking or to 
+The existing buildings constructions were noted to be:  residential was considered. 
+
+• Heron House and Holborn Gate – Reinforced concrete structural frame. Heavy refurbishment and As above, with extension of Alongside the findings noted above 
+extension existing buildings to provide for the heavy refurbishment option, it 
+
+• Heron House and Holborn Gate – Clay hollow pot concrete floor with screed. greater floorspace. Both vertical was found that horizontal extensions 
+• 44 Southampton Buildings – Masonry (brick) & Stone External walls. and horizontal extensions were may be limited by the irregular 
+
+considered.   column grids and poor daylighting 
+• 44 Southampton Buildings – Concrete floor with steel rib deck. due to the widened floor plates. 
+
+• Glazing – Present in all building facades, considered unlikely to be suitable for reuse based on building age and Partial retention of 44 Building is retained whole or in 44 Southampton buildings is a 1914 
+expected performance.  Southampton Buildings part, whilst others are purpose-built office. Alongside the 
+
+demolished; retained building or findings impacting the cores and 
+• Internal Walls – Concrete blockwork. part thereof is incorporated into energy compliance, it was found that 
+
+new construction on remainder the low floor heights and irregular 
+• Fit-out Materials – Glass partitions, carpet tiles, ceramics – kitchens, WCs, tiling, metals – suspended ceilings, of the site. Note that existing shape/ layout of the floor plates may 
+
+timber – studwork, plastics. cores will require demolition prohibit internally connecting the 
+Several options for avoiding full demolition of the existing assets were evaluated for feasibility. The audit found and construction of new cores building with any new structures 
+that whilst it may be technically feasible to retain some assets (e.g. in terms of capacity of the structure to tolerate for compliance.   onsite, as these will require greater 
+proposed activities), challenges were highlighted relating to commercial viability, and the social value of retention floor to ceiling heights. Other than the 
+scenarios were noted as being limited.   façade, the relative benefits of 
+
+retaining this building (in terms of 
+When evaluating the feasibility of each design scenario, the technical capacity of the asset was considered, carbon, waste and other impacts) are 
+alongside the potential energy performance, potential occupant comfort, construction practicalities and logistics, likely to be relatively low. 
+social and economic value considerations and commercial viability.  
+
+Partial Retention of Holborn Building is retained whole or in A 1960’s office space and commercial 
+Updates Reflecting Section 73 Application  Gate and the Partial Retention of part, whilst others are building respectively, alongside the 
+
+Heron House demolished; retained building or findings impacting the cores and 
+The pre-redevelopment from the previous granted permission remains valid for this submission. The design has part thereof is incorporated into energy compliance, it was found that 
+progressed with the agreed new build option at RIBA Stage 3. new construction on remainder the low floor heights and irregular 
+ of the site. Note that existing column grid may prohibit internally 
+
+cores will require demolition connecting the building with any new 
+ and construction of new cores structures onsite, as these will require 
+
+for compliance.   greater floor to ceiling heights. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 18 
+ 
+
+
+
+Table 12 Approach to the existing site 
+5.4 CE Design Approaches for the Existing Site 
+The project team went through a systematic process to analyse the options for the site. As noted in previous Existing Circular 
+sections, a pre-redevelopment audit was undertaken to understand the potential of the site, and then an Economy Design Strategic Response 
+optioneering exercise was undertaken to evaluate the quantitative and qualitative implications of each option.  Approach 
+
+As a result of these investigations, it was determined that although retention would be technically feasible for this While retaining and retrofitting the buildings is technically feasible, the existing 
+site, none of the retention options explored are considered viable, for the following reasons: cores would need to be demolished and reconstructed to comply with fire 
+
+requirements.  
+• Fire issues – escape routes, fire ratings, cores don’t currently meet requirements for fire or evacuation. 
+
+There are issues of quality with the existing building that may affect the 
+• Poor thermal performance of the existing façade. Retain and retrofit commercial viability for lettings. For instance, floor to ceiling heights which also 
+
+reduce available daylight to the floorplates, depths and architectural aesthetics. 
+• Reduced floor to floor height, which means it is not possible to satisfy BCO design criteria.  The cost of required refurbishment works need to be factored into the 
+• Non-unform geometry and grids of the existing buildings make the building unsuited for adaptation; limit the commercial viability of the design options.  
+
+scope for vertical/lateral extension. If retained the entire building would require extensive energy retrofit measures 
+• Complex interfacing of floor slab levels and stair & core access between the retained and the new structure. that could render the project unviable given potential revenues. 
+
+These options created during the optioneering process were reviewed by the City of London and as a result of the The partial retention and refurbishment of all three existing buildings is 
+constraints the project team has pursued. Option 04, new build, utilising the full site area and increasing lettable technically feasible, with core replacement and heavy retrofit. However, 
+area.  irregular existing column grids and non-regular geometry of the building, 
+
+Partial retention and alongside poor daylighting due to the low floor-to-ceiling heights may prevent 
+refurbishment horizontal extensions. Due to the reduced existing floor to ceiling heights and 
+
+ the levels of the existing buildings not matching, there would be complexity with 
+level differences if a horizontal extension was created, alongside the new 
+structures requiring increased floor-to-ceiling heights.   
+
+Due to the current nature of the structural materials, concrete, clay hollow-pot 
+floors and composite concrete and steel deck being hard to deconstruct in a 
+valuable way, reuse of structural components is limited.  
+
+Disassemble and reuse Investigation is being completed into the deconstruction and reuse of the 
+stonework on 44 Southampton Buildings. Bricks and existing stone pavers are 
+being considered for reuse in the new scheme. More in-depth material reuse 
+strategies for the project can be seen in Table 15 & Table 16. 
+
+• The reinforced concrete structural frame may be crushed and recycled into 
+recycled concrete aggregate or used as fill 
+
+• Rebar may be segregated and recycled as aggregate.  
+• Clay hollow pot concrete floor with screed may be crushed and recycled into 
+
+recycled concrete aggregate or used as fill.  
+• Ceramic may be crushed and processed alongside concrete as inert waste.  
+
+Demolish and recycle • When not reclaimed, brick may also be crushed and managed as inert waste.  
+• Cement mortar is handled as the concrete is.  
+• The composite concrete and steel deck floor can be recycled, with the 
+
+concrete and steel separated.  
+• Glass panes may be suitable for high value recycling, a glass survey is going 
+
+ to be undertaken at the next stage.  
+Figure 16 Circular Economy Decision Tree for the Proposed Development, with the selected approaches highlighted and • Concrete blockwork can either be reused off-site, condition dependant or 
+strategies that are not pursued greyed out.  crushed and recycled as concrete aggregate or used as fill. 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 19 
+ 
+
+
+
+• Recycling Aggregate – provide as much of the aggregate requirements for 
+5.5 Pre-Demolition Audit the development as possible – fill, sub-base, targeting 20-30% replacement 
+A pre-demolition audit is a detailed inventory of the materials in the building that will need to be managed upon of primary aggregate in ready mix concrete. 
+demolition. A pre-demolition audit is required where substantial demolition is proposed. • Reusing Raised Access Floor – Engage with RMF to establish how much 
+
+is suitable for reuse regarding condition, processes and price.  
+A pre-demolition audit was undertaken in September 2024 by Reusefully, who are a third-party independent • Reuse Bricks – There is potential to salvage a proportion of bricks for 
+specialist with expertise in reclamation of components and materials and experience in preparing these types of reuse within the new scheme and elsewhere. The amount will depend on 
+reports. The pre-demolition audit can be found in Appendix A.2. the strength of the mortar bond. There are currently further 
+The pre-demolition audit complies with the requirements of the GLA London Planning Guidance for Circular investigations into the quality of the bricks for reuse.  
+Economy Statements as detailed in Table 13. • Reuse Carpet Tiles – Engage with organisations that reuse carpet tiles to 
+
+establish requirements. 
+Table 13 GLA and City Corporation Guidance pre-demolition audit requirements • Reuse Metal Ceiling Tiles – Several different types of metal ceiling tiles 
+Core information are used across the building. Engage with organisations / initiatives that 
+requirements Response reuse ceiling tiles to establish requirements.  
+
+A comprehensive technical review was undertaken by the design team as part A total of 23,802 tonnes of material is predicted to arise because of the 
+of the optioneering process, following the City of London’s Carbon Options proposed demolition, with an estimated actual volume of 11,699 m3. 
+Planning Advice Note. The review included a thorough assessment of the A summary of the key Materials identified on site include concrete, ceramic, metals, timber, brick, 
+existing buildings to determine the most viable approach for the project, further components and gypsum, glass and bitumen. Additionally, the audit has identified a potential 
+details of this third-party verified study can be found in Section 5.2.  materials present in the reclamation rate for each element. For example, Raised access floor panels – 
+ existing buildings 70%, Concrete Blockwork – 10%, Modern Brickwork – 10%, Older Brickwork 
+Throughout the early design stages (RIBA Stages 1-2), a series of pre- – 40%, Carpet Tiles – 75%. For the full list see the full pre-demolition audit in 
+application meetings and design workshops were held with the City of London Appendix A.2. 
+Corporation (CoL), Greater London Authority (GLA), and London Borough of The pre-demolition audit report shows survey drawings and a plan drawing of 
+Camden (LBC). The initial qualitative considerations assessment that is part of An explanation and the existing buildings on site in Section 2. The existing buildings are proposed 
+the City of London’s Planning Advice Note on Carbon Options was presented drawings to be demolished, so the report focuses on the reuse of existing materials and 
+by the design team. A collaborative approach was taken, with feedback from components arising from deconstruction.  
+these sessions informing the development of four shortlisted options The pre-demolition audit report, Section 5, provides recommendations to assist 
+ Opportunities for reuse in maximising the reclamation potential of the items identified. Which items 
+A pre-redevelopment audit has been completed to further analyse the buildings and recycling  are advised for reclamation and the levels of embodied carbon their reuse 
+
+Justification for suitability for retention. avoids.  
+demolition  follows the requirements as set out in the Code for Pre-Demolition 
+
+For the retention scenarios, significant constraints on the retention of the Best practice The audit 
+requirements Audits and the Mayor of London’s Circular Economy Guidance (March 2022) 
+
+existing building included the following: Fire issues, requiring significant and is fully compliant with the BREEAM Wst 01 criteria. 
+reconfiguration of the cores to achieve compliance; poor thermal performance The pre-demolition audit includes recommendations for maximising the 
+of the existing façade; limited floor to floor heights; non-unform geometry and reclamation potential of items identified and potential opportunities for high 
+grids of the existing buildings make the building unsuitable for adaptation as How the value of levels of reuse and recycling. Including detailed reclamation advise for high 
+well as limiting the scope for vertical/lateral extension. and Complex existing building value items that are present on site. Overall, the potential to recover most of the 
+interfacing between retained and new elements. Further details can be seen in elements or materials structural materials at a higher value may be limited due to the type of 
+Section 6 of the pre-redevelopment audit by Reusefully.  can be recovered materials used. i.e. the concrete structures, hollow-pot floors and composite 
+ concrete and steel deck. 
+Therefore, both the CoL optioneering study process and the pre-redevelopment 
+audit evaluation support the option of 'Demolition and New Build'. This The amount of  arisings of Key Demolition Products (KDPs) 
+scenario delivers significant improvement towards maximising the site demolition waste The estimated demolition waste
+
+as pre-demolition audit is confirmed as 23,802 tonnes. 
+potential, enhancing public realm, supporting biodiversity gain; and  
+rationalising the arrangement of space on a strategic site. A schedule of practical 
+ and realistic providers The pre-demolition audit provides a list of waste management companies 
+
+ho can act as brokers available for each of the key materials arising, to support them being reused/ 
+An assessment of carbon The estimated embodied carbon within the materials deemed reusable in the w
+
+impacts. existing buildings, has been calculated as 559tCO2e of avoided upfront for each of the reclaimed recycled in Appendix E of the report. See Appendix A.2. 
+embodied carbon in future projects where these reclaimed items are used. items 
+
+How any negative Target reuse and An overall reuse target has been advised for the project in the executive 
+impacts resulting from Reusefully have undertaken the Pre-Demolition audit which outlined measures reclamation rates summary of the report, with the per component reclamation values and 
+demolition would be to mitigate and offset negative carbon impacts as follows: avoidable carbon figures available in Section 14 of the pre-demolition audit.  
+mitigated and offset 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 20 
+ 
+
+
+
+Updates Reflecting the Updated CoL Planning Document 6. Maximising Circularity: Proposed Development 
+Additional requirements from the City of London Corporation Supplementary Planning Document – Planning for 
+Sustainability are included below, with commentary on how the previously submitted documentation addressed 
+the emerging requirements.  6.1 CE Targets for the Proposed Development 
+
+Type and quantities of materials are recorded in the pre-demolition audit in This project commits to meeting all GLA waste requirements for the new development. These commitments are 
+Table 1 on page 13.  listed in Table 14. 
+
+Additional pre- Quantities and value of building elements and materials that can be recovered Table 14 CE Targets for the Proposed Development 
+deconstruction audit are provided in Table 3 of the pre-demolition audit from page 16 to page 36.  
+requirements from City Associated embodied carbon savings will be cross-referenced with the WLC Policy SI 7 Minimum Waste 
+of London  assessment, when the reuse material strategy is confirmed at RIBA Stage 4.  Requirements GLA Project 
+
+Targets How this will be delivered 
+The high-level assessment under ‘Recommendations’ of the pre-demolition 
+audit (on page 3), considered impact of programme. Minimum of 95% diverted from 
+A material reuse schedule will be developed for the project team to track by the landfill for reuse, recycling or 95% 95% These targets will be included in the 
+end of RIBA Stage 3. This will include a minimum of 5 key items, materials, recovery for construction waste. Sustainability Employer’s Requirements ERs. 
+components and fittings for reuse. This will be informed by the items identified Refer to the waste figures within the recycling 
+
+Material reuse in Section 5 ‘Reuse opportunities’ on page 15 to page 37 of the pre-demolition Excavation Waste  95% 95% and waste reporting table of the GLA spreadsheet. 
+schedule  audit, including the ‘Reuse Focus’ section on page 37. These will be further These figures will continue to be monitored and 
+
+explored at each stage of the project, with further investigations being Construction Waste Generation   6.5t/100 6.5 t/100 updated throughout the design.  
+undertaken into these opportunities. The material reuse schedule will be m2GIA m2 GIA 
+confirmed in RIBA Stage 5 by the Main Contractor.  
+
+ All design disciplines will specify maximised 
+ Materials used (by value) recycled and reused content in their products 
+
+derived from recycled and re- where cost appropriate. The WLC consultant will 
+ 
+
+used content in product and 20% 20% track and monitor achievement of this as part of 
+ material selection the Stage 5 WLC monitoring process. This will be 
+
+included in the Sustainability Employer’s 
+ Requirements ERs. 
+  This target will be incorporated as part of the 
+
+ operational waste management strategy 
+ Municipal waste recycling by 
+ 2030 65% 65% developed by Arup Waste.  
+
+  
+ Proposed approach supports a minimum target of 
+
+ 65%. 
+ Design developments with 
+
+adequate, flexible, and easily 
+ accessible storage space and 
+ collection systems that support, 
+
+as a minimum, the separate Y Y 
+ collection of dry recyclables (at This will be incorporated as part of the waste 
+ least card, paper, mixed plastics, management strategy developed by Arup Waste 
+
+metals, glass) and food. 
+ Food Waste Generation - 
+ Provision of Collection Facilities 
+
+Space for organic waste storage - Y 
+ provided. 
+  
+
+ 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 21 
+ 
+
+
+
+6.2 BREEAM alignment  6.3 CE Design Principles by Building Layer - Proposed Development Commitments 
+BREEAM New Construction V6.1 is being targeted for the scheme, which includes credits that support Circular The targets identified by the design team during the interactive workshops have been consolidated into a series of 
+Economy. These are summarised as follows: circular economy project commitments and further proposed opportunities. The sustainability consultant will 
+
+continue to track against identified opportunities at each project stage and evaluate delivery of targets.  
+• Wst 01 – Construction Waste Management.  
+
+These commitments will be reviewed at each project stage, and if anything is deemed to not be feasible, the 
+− Pre-demolition audit: the site is targeting 1 credit for completion of a compliant pre-demolition audit. This reasoning will be noted. An update will be provided as part of the Post-Construction Circular Economy Statement. 
+
+has already been undertaken as detailed in Section 5.5. 
+− Resource efficiency: 1 resource efficiency credit is targeted, through the development of a Resource 
+
+Management Plan/Site Waste Management Plan (SWMP) during construction and through meeting a 
+resource efficiency benchmark. This requirement will be conditioned in the contractor’s sustainability 
+Employment Requirements to support the implantation of a compliant RMP/SWMP and that project targets 
+are achieved. Further credits are targeted for achieving construction waste generations thresholds 
+
+− Diversion of resources from landfill: the site is targeting 1 credit and it has set more ambitious targets than 
+the BREEAM requirements.   
+
+• Wst 05 – Adaption to Climate Change. The project is targeting 1 credit, a climate change and resilience 
+workshop has been held with the design team during Stage 2.   
+
+• Wst 06 – Functional adaptability. The project is targeting 2 credits for designing for disassembly and functional 
+adaptability. A study has been conducted during RIBA Stage 2 to explore the ease of disassembly and the 
+functional adaptation potential of the new development. An update will be provided during technical design, to 
+confirm the implementation of recommendations where practical and cost effective. 
+
+• Mat 05 – Designing for durability and resilience. The project is targeting 1 credit for protecting vulnerable 
+building elements from damage and material degradation.  
+
+• Mat 06 – Material Efficiency. The project is targeting 1 credit. A circular economy and material workshop has 
+been held with the design team during Stage 2.   
+
+For further details on the BREEAM trackers, please refer to Section 5 and Appendix A1 of the Sustainability 
+Statement submitted as part of the planning application for the Proposed Development. 
+
+Updates Reflecting Section 73 Application  
+The relevant BREEAM credits are still targeted and maintain alignment with the project’s overall BREEAM rating   
+target.  
+
+Figure 17 Proposed brick and stone reuse from 44 Southampton Buildings in the new development 
+An update on the assessment for Wst 06 and Mat 06 was covered in the RIBA Stage 3 Circular Economy 
+Workshop – see Appendix A.6.2 for full details.   
+
+ 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 22 
+ 
+
+
+
+Table 15 High Holborn Development Circular Economy Design Commitments On track – MEP to assess the 
+Continue to update overheating energy demands (heating and 
+
+Principle Building 
+layer Original Target Update for Section 73 analysis against future climate change cooling loads). They are using a 
+
+Use recycled aggregate from the On track – remains feasible. On-site Design for 
+existing building in new construction, concrete crushing is common practice. Longevity Services scenarios, to inform the design and future weather forecast file 
+
+mitigate extreme weather conditions (Heating: 
+Structure where possible. For example: as sub- Arup Structures intend to progress affecting the longevity of the MEP Z1_TRY_2050s_MED90_CIBSE / 
+
+base for the basement or as piling- with this strategy.  systems. Cooling: 
+mat. Z1_TRY_2050s_MED10_CIBSE). 
+
+On track – although the pre- Continue to maintain strategy of On track – design is being progressed 
+demolition audit shows there is a Superstructure minimised internal columns, offering with this intended.   
+limited amount of secondary an open floor plan with generous grid. 
+
+Procure reclaimed steel to use in the steelwork in the existing buildings, Locate cores in the dark zones of the On track – cores are located 
+Structure design where possible and where not Arup Structures will explore Superstructure floorplate to allow for maximum centrally.  
+
+possible design with low-carbon steel. opportunities for using reclaimed steel daylight and opportunities for 
+on the project during RIBA Stage 3. adaptable reuse. 
+Where this is not possible, low-carbon Incorporate structural soft spots for On track – further investigations are 
+steel will be specified.  slab openings to enable multi-floor being held at RIBA Stage 3 on 
+
+Fully investigate the opportunity to On track – further investigations will Superstructure tenancies governed by availability of identifying structural soft slab areas 
+Shell/skin reuse the stone from 44 Southampton be undertaken during RIBA Stage 3 Design for 
+
+future alternative load paths. Locations can on the floor plan. This will be 
+Buildings on the new façade. on the quality of the stone for 
+
+potential reuse.  Adaptability be seen in the DAS. updated in the DAS. 
+
+Fully investigate the opportunity for On track – further investigations will / flexibility Provide good access to plant areas to On track – this is being progressed.  
+facilitate future adaptation, 
+
+Skin/shell glass recycling. Undertake a façade be undertaken during RIBA Stage 3 maintenance and replacement of end-
+survey to understand the recyclability with Saint-Gobain.  Services of-life equipment. Manufactures 
+of the existing glass.  minimum access and maintenance 
+
+On track – the current design includes dimensions have been used in sizing 
+ Designing 
+out waste Implement a combined rainwater and a greywater collection combined plantrooms.  
+
+greywater collection system. irrigation tank (no rainwater The core arrangement has been On track – this is being progressed.  
+Services Combined systems increase currently). Allowance has been made 
+
+Space designed as a baseline to enable floors 
+efficiencies. for the related tank, and this shall be to accommodate multiple tenants 
+
+developed further by irrigation across floors and on one floor plate. 
+specialist.   
+
+Design for Maintain defined plant replacement On track – this is being progressed. 
+Minimise installation of Cat A fit out. On track – this is still being proposed.  
+
+Space Baseline design is intended to work future Services routes, including goods lifts to enable 
+with exposed ceiling. disassembly  disassembly/replacement. 
+Maximise recovery of Raised Access On track – further investigations will  
+
+Space Floors for use on or off-site, be undertaken during RIBA Stage 3.  
+programme and storage dependant.   
+
+On track – this is still being explored. 
+Project design team are not doing the 
+
+Investigate the reuse of materials and interior design of the Cultural Space. 
+components from the existing A material reuse schedule will be 
+building in the new Cultural Space, produced during RIBA Stage 3 to 
+including items such as brick from the track opportunities and handed over to 
+
+Space/Stuff existing façade as flooring, and the the future occupant to inform them of 
+reuse of internal fitout items and opportunities. Storage considerations 
+finishes, such as: Sanitary Ware, are to be further explored, as items 
+Kitchens, Lights (wall/ceiling) and may need to be stored for 3 years. It is 
+Furniture. likely furniture will be sent to a 
+
+marketplace to be used elsewhere 
+straight away.  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 23 
+ 
+
+
+
+6.4 CE Design Principles by Building Layer - Proposed Development Opportunities dependant on mortar type and 
+In addition to the core project commitments, the project team have identified a number of additional opportunities therefore success of brick reclamation. 
+to explore as innovation opportunities. The team will continue to develop these opportunities to determine 
+feasibility throughout the next project stage. An update will be provided as part of the Post-Construction Circular Reuse existing timber, internal wall On track – further investigations will be 
+Economy Statement. Stuff framing etc, to make furniture for the undertaken during RIBA Stage 3. 
+
+new site or send it to community wood 
+Table 16 Project circular economy opportunities recycling. 
+
+Reuse FF&E and fit-out items from the On track – further investigations will 
+Principle Building existing building in the cultural space be undertaken during RIBA Stage 3.  
+
+layer Original Target Update for Section 73 
+and send off-site via a marketplace or 
+
+Investigate the use of marketplaces and On track – this is being further Stuff exchange platform or donate to 
+exchange platforms to donate/sell investigated.  community/social value projects. 
+
+Site materials and components from the Including, kitchenettes, kitchen 
+existing site. Consider donating appliances and furniture. 
+existing items to charity and On track – further discussions have 
+community projects. occurred with the design team 
+To avoid material damage and The current design has Type A+B and identifying suitable elements that are 
+substantial in-use repairs in future, the Type B+C for worst case space designed for disassembly due to the 
+
+Substructure basement waterproofing strategy  has proofing, but the project team will need for replacement / refurbishment 
+been designed to BS 8102:2022 with explore Type A+C once the e.g. most MEP equipment will use 
+Type A expected, with supplementary waterproofing consultant is onboarded. 
+Type C in some areas.   Design for Identify opportunities to use material material passporting.  The strategy 
+
+On track – this is being progressed longevity Site passporting of specific elements, will be confirmed by the Principal 
+where possible and practicable. Contractor in the Post-Construction 
+
+RIBA Stage 3. Following the CES. The requirements for material 
+Superstructure Structural design optimisation, design during 
+
+with efficient forms and grids. southern push out, coordination took passporting will be provided in the 
+place with Make to refine column grids Sustainability Employer’s 
+and framing. Requirement and the Contractor will 
+
+Superstructure Design with standardised lengths and On track – this is being progressed provide this information within their 
+& Services units instead of bespoke elements. during RIBA Stage 3.  O&Ms.  
+
+A modular façade system is being On track – this is the principle of the  Space Specify recycled or long-lasting On track – this is addressed by 
+Designing explored so that it can be removed and facade construction. Everything can be finishes where possible. BREEAM credit Mat 05, which is 
+
+being targeted. 
+out waste Skin/shell replaced when it reaches the end of it's demountable and removed in an On track – Architects are designing to 
+
+lifecycle, without effecting the appropriate sequential manner.  
+structure. Design for Identify additional scenarios for allow up to 4 tenants (with sub 
+
+Evaluate the potential to use reclaimed On track – there is an opportunity to future different arrangements of the tenancy). The services design is 
+developed which 
+
+Services lighting in the new construction, incorporate the existing lights at ground adaptability Space floorplate, and smaller tenancies. currently being 
+
+contact suppliers at the appropriate floor into the proposed development’s / flexibility Opportunity for floorplate flexibility would limit the size the tenancies 
+
+RIBA stage. reception or end of trip lighting. due to its open plan nature. could be. There is a benefit of 
+different floors sizes as floors reduce 
+
+On track – the MEP team have moved up the building.   
+MEP equipment designed as from Artus to typical Fan Coil Units, Investigate opportunities to enable On track – this is being explored 
+
+Services standardised sizes to enable easy which is more standard and multiple 
+replacement and minimisation of sources of manufacturers which would Superstructure deconstruction of the superstructure during RIBA Stage 3.  
+
+without damage to the components. 
+wasteful off-cuts during construction. mean easy to replace. MEP equipment E.g. minimise 'wet' connections. 
+
+on the project is relatively standard.  
+Ensure a light-touch CAT A On track – this is still being proposed.  Design for As the design develops, consider how On track – this is being considered and 
+
+Space specification to minimised wasted future elements and components are will be progressed as design develops.  
+
+materials. disassembly connected/ put together to make 
+
+ations are Space disassembly easy and reduce risk of 
+damage to materials.  Design with 
+
+Space Investigate on-site closed-loop glass On track – further investig
+recycling. being organised with Saint-Gobain.   visible, accessible, demountable 
+
+connections. Minimise the use of 
+ions will be 
+
+Space Reuse of existing façade brick as On track – further investigat adhesives. 
+flooring in the cultural space, undertaken during RIBA Stage 3. 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 24 
+ 
+
+
+
+Currently targeting 20% recycled The recycled content by value calculation File Note further explains the calculation methodology using OneClick 
+Seek to exceed project KPI for content, with the preliminary recycled LCA alongside any limitations can be seen in Appendix A.4. 
+
+content exceeding this at 29%. This 
+Using Site construction for the recycled content 
+reused or of materials. will be progressed in RIBA Stage 3 Updates Reflecting Section 73 Application  
+
+with the updated WLCA, with an Placeholder to be updated following WLCA updates.  
+recycled aspiration to exceed this target.  
+elements Designing structural framing to be On track – this philosophy is being  
+
+Superstructure accommodating to the steel stock and continued during RIBA Stage 3.  
+lengths anticipated to be in circulation.  6.6 Bill of Materials  
+
+The project WLCA has been utilised to develop the bill of materials table within the GLA Circular Economy 
+Spreadsheet. One Click LCA’s Building Circularity Tool facilitated this process, incorporating all materials 
+
+6.5 Recycled content by value calculation explicitly modelled for the WLCA.   
+The GLA require 20% of materials used (by value) for the whole building to be derived from recycled and re-used 
+content. This project aims to meet or exceed this target, and the final results will be reported as part of the Post- It is important to highlight that elements not modelled in One Click LCA, for example, building services, FF&E 
+Construction Circular Economy Statement.  and finishes for which insufficient information at this early design stage, are excluded from the bill of materials, 
+
+with a corresponding note provided.    
+A preliminary recycled content by value of 29% is reported in the GLA Circular Economy Spreadsheet calculated 
+using One Click LCA’s Building Circularity Tool as part of the Whole Lifecycle Carbon Assessment (WLCA) of For elements included in the bill of materials, the following sources of information have been used:  
+the project. This calculation is supported by the WLC consultant, in alignment with the policy requirements.  • Material Quantity – derived from the Project Cost Plan.  
+However, the following limitations of this metric must be noted:   • Construction Waste Factor – based on Environmental Product Declarations (EPDs) and aligned with RICS 
+Limited Scope of Elements Modelled on One Click LCA:  WLC Professional Statement.  
+
+• One Click LCA calculates the recycled content by value only for elements explicitly modelled in the • Recycled content by Mass – based on Environmental Product Declarations (EPDs) and aligned with RICS WLC 
+WLCA. At early project stages (e.g., Stage 2 Planning), this typically includes only substructure and Professional Statement.  
+superstructure, while other elements are either benchmarked or calculated outside One Click LCA (e.g., 
+façades using the CWCT method which usually includes major components with high recycled contents • Recycled Content by Value – calculated by One Click LCA as per the GLA CE Guidance.  
+such as aluminium).  • Expected Lifespan – default assumptions based on RICS WLC Professional Statement Edition 2, Table 20.  
+
+• Key Limitation: The calculated recycled content by value provides a partial view and does not represent • End of Life Scenarios – “Business as Usual” assumptions based on RICS WLC Professional Statement Edition 
+the entire project. This figure may change significantly in later stages as more elements are modelled, 2, Table 23.  
+potentially causing the project to miss the target.  
+
+For further information, please refer to the ‘Whole Life Carbon Assessment MMA Addendum’ (294009-ARP-RP-
+Incomplete Cost Data:  YS-10004) submitted alongside this application.  
+
+• One Click LCA relies on a range of cost databases to estimate material costs and calculate recycled 
+content by value. The database focuses on main construction materials only, meaning elements without Updates Reflecting Section 73 Application  
+assigned costs are excluded from the calculation, regardless of their recycled content.  Placeholder to be updated following WLCA updates.   
+
+• Key Limitations: This leads to incomplete totals and undervaluation of materials with high recycled 
+content.   
+
+Outdated or Inaccurate Cost Estimates:  
+• The cost data used in One Click LCA can differ significantly from the project’s cost plan due to outdated 
+
+cost figures in the database that do not reflect current market conditions and variation in cost estimation 
+methods for specific elements.  
+
+• Key Limitation: These discrepancies further distort the final recycled content by value, reducing accuracy 
+and reliability.  
+
+The final recycled content by value figure will be reported on project completion with information obtained from 
+the Contractor and their supply chain.   
+This calculation will be supported by the WLC consultant, in alignment with the policy requirements. The 
+calculation result is provided in the GLA CE template in Row L. It should be noted that the calculation is based on 
+the level of detail available at Stage 2 as outlined in the WLCA.  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 25 
+ 
+
+
+
+6.7 End of Life Scenarios 6.8 Operational waste management  
+The circular economy strategy recognises that different end-of-life approaches should be adopted for the different The design of the Proposed Development will support operational waste management through provision of 
+parts of the development to reflect their specific qualities. Considering a material or element’s end of useful life dedicated space for the segregation and storage of operational recyclable waste. The waste strategy and 
+scenario during the design stages is important to ensure those elements are designed in accordingly, for example to management are being built into the project from concept design stage and follow the waste hierarchy. 
+be accessible and demountable for future reuse wherever feasible. 
+
+A Delivery and Servicing Management Plan (DSMP) has been produced for the project by Arup Waste. Within 
+One of the targets in the sustainability vision for the project is to embed comprehensive materials information into this, a Waste Management Plan (WMP) has been developed. This aims to deliver a strategy that meets the wider 
+the Building Information Model, to allow for future deconstruction and reuse of key materials. sustainability ambitions of the scheme, with a focus on maintaining operational efficiency. All operational waste 
+
+from the Proposed Development will be managed in accordance with the City of London (CoL) guidance and the 
+Under BREEAM Wst 06, Design for disassembly and adaptability has been considered during RIBA Stage 2 to Greater London Authority (GLA) requirements. 
+explore, and give recommendations on, the ease of disassembly and functional adaptation of different design 
+scenarios (see for example the likelihood to contain multiple or alternative building uses, area functions and The following considerations are demonstrated in the plan: 
+different tenancies over the expected life cycle, e.g. related to the structural design of the building).  
+
+a. Design developments with adequate, flexible, and easily accessible storage space and collection systems 
+Under BREEAM Man 04 prior to handover two user guides will be developed: a non-technical user guide for that support, as a minimum, the separate collection of dry recyclables (at least card, paper, mixed plastics, 
+distribution to the building occupiers, and a technical user guide for the premises facilities managers. Training will metals, glass) and food. 
+also be provided so staff are able to facilitate optimal operational energy performance across the building lifecycle. b. Food Waste Generation - Provision of Collection Facilities Space for organic waste storage provided. 
+This will include an overview of the building and its environmental strategy, e.g. energy, water or waste efficiency c. Adequate and easily accessible storage space and collection systems to support recycling and re-use. 
+policy or strategy, and how users should engage with and deliver the policy or strategy. The transfer of d. How much waste the proposal is expected to generate, and how and where the waste will be managed in 
+information to future building users to facilitate the end-of-life strategy is a key aspect of the building’s accordance with the waste hierarchy. 
+environmental strategy and whole life-cycle considerations. e. Monitoring and reporting of operational performance. 
+
+f. Measures such as consolidated, smart logistics and community-led waste minimisation schemes have been 
+Updates Reflecting Section 73 Application explored. 
+The end of life scenarios in Appendix A.3 have been updated to reflect the updated WLCA being submitted for the Section 5 of the DSMP confirms that the waste stores will be separated and labelled into residual waste, dry mixed 
+Section 73 Application.  recycling (DMR), food waste; and glass waste which will ensure cross contamination of refuse, recycling and food 
+Design for disassembly and adaptability has been further explored in the RIBA Stage 3 Circular Economy waste is minimised. Additionally, this section provides relevant information on suitable facilities for receiving 
+Workshop in Appendix A.6.2. operational residual waste, recycling and food waste. [Requirements a, b & c] 
+
+Alignment with Circular Economy policies is maintained.  Waste generation forecasts are provided in Section 5.1 of the DSMP submitted with the planning application. This 
+includes the number of bins and details of waste storage and the movement of waste within the building for 
+collection.  
+ 
+The annual tonnage of municipal waste expected to be produced by the proposed development has been confirmed 
+by Arup Waste as 1946 tonnes. Furthermore, an on-Site Facilities Management (FM) contractor will be appointed 
+to transfer the office waste internally to the waste room and operational waste will be managed on-site in line with 
+the waste hierarchy. The FM team and any other on-site staff handling and segregating waste will need full 
+training on the correct residual and recycling compositions using up to date CoLC guidance.  
+The waste store will provide a dedicated zone for pallets containing baled recyclables. Additional space will be 
+provided around this zone for manoeuvring pallets being stored or moved to the service yard. Circulation zones 
+will be provided for the periodic rotation of bins by the FM team. 
+The developer and the appointed waste collection contractor will be responsible for all operational waste reporting 
+for the Proposed Development, as per the Circular Economy Statement Guidance. The responsibility of reporting 
+on the final destination of waste streams will fall on the waste collection contractor, appointed to service the 
+Proposed Development once operational. This reporting will be based either on number of container lifts per waste 
+stream, or collection weight data if available and data requirements and reporting methods will be agreed with the 
+relevant authorities once all elements are occupied. [Requirements d & e] 
+As a minimum, a commitment will be made to match municipal waste recycling rates with the London Plan Policy 
+target of 65 per cent recycling by 2030. In addition, a commitment will also be made to comply with Policy 7.2.2 
+of the London Environment Strategy (2018), which sets a target of recycling 75 percent of business waste by 2030. 
+Section 5.4 of the DSMP states that community-led waste minimising initiatives will be encouraged, such as 
+charity partnership for the collection of items such as ink cartridges or unused IT equipment. Additionally, the 
+introduction of food caddies to each tenanted area can help to divert food waste going to landfill. The developer 
+and waste contractor will be encouraged to engage with tenants upon occupation, to ensure they are aware of how 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 26 
+ 
+
+
+
+to minimise their waste. These measures could include how to reduce avoidable food waste and minimising the 
+use of single use items. [Requirements f] 
+The DSMP is intended to be updated frequently and used as a reference to form part of the operational 
+performance monitoring and reporting process. Section 6 of the submitted DSMP outlines the monitoring and 
+review process for operational performance.  A detailed DSMP is expected to be secured as part of the planning 
+approval process. 
+ 
+Further information and full details on the waste management during operation can be found in the Delivery and 
+Servicing Management Plan submitted as part of the planning application. 
+
+Updates Reflecting Section 73 Application  
+Placeholder to be updated following DSMP updates.   
+6.9 Design stage monitoring and reporting 
+During the developed and technical design stages, the design team will review performance against previous 
+stages and London Plan targets. Documentation will be provided to demonstrate the incorporation of outcomes 
+from concept design stage and outline any additional actions to be taken. 
+
+6.10 Post-construction stage reporting 
+The Applicant has made a commitment to complete post-construction stage reporting. 
+During construction, the implementation of agreed measures will be monitored and documented. This will be a 
+requirement for the Principal Contractor and will be stipulated within the Sustainability Employer’s Requirements. 
+The Principal Contractor must also demonstrate additional activities have been undertaken to identify circular 
+economy and waste reduction measures on site. 
+For the Applicant, post-construction stage reporting will include provision of an updated CES and the completion 
+of the ‘key achievements’ and ‘lessons learnt’ tables in the GLA Circular Economy Spreadsheet. 
+During this stage an updated Circular Economy Statement will be completed no more than three months post-
+construction in line with the GLA requirements. This will feed into the GLA Circular Economy Spreadsheet. 
+
+Updates Reflecting Section 73 Application  
+Design updates do not result in any material changes to the project’s Circular Economy (CE) policies and 
+reporting. Alignment is maintained and no impacts. 
+ 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 27 
+ 
+
+
+
+7. Conclusion Commitments to incorporate circularity into the ongoing design and delivery of the project have been provided in 
+Section 6.3, with further opportunities identified in 6.4. 
+The following actions will be undertaken to implement these targets as the project moves into the next stages: 
+
+The Circular Economy Statement has set out how the High Holborn Development addresses the requirements of   
+Policy SI7 of the London Plan (2021), the Local Plan (2015) and the City Plan 2040 (2024 draft) City of London • A Site Waste Management Plan will be developed upon the Contractor’s appointment. It will outline the 
+Planning documents. The CES demonstrates how the planning application will promote circular economy key objectives to achieve efficient use of material resources and to reduce the amount of waste produced 
+outcomes and describes how resource conservation, waste reduction, increases in material re-use/ recycling, and during the construction activities of the site. It will be based on the guiding principles of sustainable 
+reductions in waste going to landfill will be achieved. Actual performance against the targets laid out in this resource and waste management: the waste hierarchy and circular economy. 
+statement will be submitted and recorded at practical completion. Further support documentation can be found in 
+the Appendices of this document and other documents submitted as part of this planning application. • Coordinate alignment with the project BREEAM assessment targets relating to materials and waste. 
+
+The circular economy process undertaken by the High Holborn Development, as laid out in this statement, • Material specifications will be developed during Stage 4 including clauses for the procurement of 
+complies with National level policy set out in the National Planning Policy Framework (NPPF); Regional level construction materials with increased recycled content. 
+policy, set out by the Greater London Authority via the London Plan (2021); and the London Plan Guidance for • The sustainability consultant will continue to track against identified opportunities at each design stage 
+Circular Economy Statement (2022) and Local policy, set by the City of London in the current Local Plan and seek delivery of targets. The outcome will be reported in the Post-Construction Circular Economy 
+(Adopted 2015), the City Plan 2040 plan (April 2024) and the City of London’s supplementary planning document Statement. 
+for Planning for Sustainability (February 2025). 
+
+• The relevant information on the monitoring and reporting of operational performance, will be included in 
+From the outset, the project team reviewed opportunities to retain the existing building and went through a an Operational Waste Management Plan (OWMP).  
+systematic process to analyse a range of options for the site. A pre-redevelopment audit was undertaken to 
+understand the potential of the site, and then an optioneering exercise was undertaken to evaluate the quantitative Circularity is an essential part of the design process for this scheme. To support the shift to a circular economy, the 
+and qualitative implications of each option, in line with the City of London’s Carbon Options Planning Advice design team is committed to achieving targets included in the Circular Economy Statement both in the short and 
+Note. The design team met with the City of London Corporation (CoL), the Greater London Authority and the medium-term.  
+London Borough of Camden to review and agree the options, which underwent a third-party review, in line with 
+CoL’s guidance.  Updates Reflecting the Section 73 Submission 
+As a result of these investigations, it was determined that although retention would be technically feasible for this The updates in this CES confirm that the design updates do not result in any material changes to the project’s 
+site, none of the retention options explored are considered viable, for the following reasons: Circular Economy (CE) strategy, principles, or targets,and that therefore the project maintains alignment with the 
+
+relevant Circular Economy policies.  
+• Fire issues: escape routes, fire ratings, cores don’t currently meet requirements for fire or evacuation, and 
+
+significant structural interventions to the cores would be required to achieve compliance.   The circular economy approach has been embedded from the outset of the project and continues to follow the 
+same fundamental principles. 
+
+• Poor thermal performance of the existing façade. 
+The project remains committed to achieving all GLA circular economy targets, as set out in the original planning 
+
+• Limited floor to floor heights, which do not satisfy BCO requirements. submissions, with no revisions to these targets. 
+• Non-unform geometry and grids of the existing buildings make the building unsuited for adaptation, While the design has progressed to RIBA Stage 3, the circular economy commitments and further opportunities 
+
+limiting the scope for vertical/lateral extension. identified in the previous submission are still considered valid and being taken forward, with actions continuing to 
+be tracked and developed throughout the design process. Further investigations are currently being undertaken to 
+
+• Complexities of interfacing floor slab levels and stair & core access, between the retained and the new pursue these reuse and recycling opportunities identified in the pre-demolition audit.  
+structure. 
+
+The GLA Circular Economy Spreadsheet has been updated and will be submitted alongside this CES. 
+These options were reviewed by the City of London and as a result of the constraints the project team has pursued <Placeholder to be updated & issued following WLCA update>  
+the ‘demolish and new build’ option, utilising the full site area and increasing lettable area. A pre-demolition audit 
+of the existing buildings was undertaken at Stage 2 to maximise the recovery of material on and off site, and  
+circularity of the new building will continue to be incorporated into the ongoing design for the Proposed 
+Development.   
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 28 
+ 
+
+
+
+ 
+
+A.1 Pre-Redevelopment Audit 
+The pre-redevelopment audit was undertaken by Reusefully.  
+This remains unchanged from the previously submitted CES (P03). 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 29 
+ 
+
+
+
+A.2 Pre-Demolition Audit 
+The pre-demolition audit was undertaken by Reusefully.  
+This remains unchanged from the previously submitted CES (P03). 
+ 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 30 
+ 
+
+
+
+A.3 Default end of life scenarios 
+
+<Placeholder to be updated following the updated WLCA> 
+OneClick LCA has been used for the Stage 2 and Stage 3 WLCA on this project, and at this early stage, ‘business as usual’ end-of-life routes for common construction materials have been modelled based on information provided in 
+product Environmental Product Declarations (EPDs) for modelled items. The ‘Business as Usual’ end of life scenarios for different materials are taken from the RICS Professional Statement v2 and detailed in Table 17. At this early stage, 
+not all materials are included in the WLCA model with various building element categories adopting benchmarks. Refer to the Whole Life Cycle Carbon Assessment and respective GLA Templates for further information.
+
+Table 17 : Default end-of-life scenarios at the material level for the UK, by percentage mass (Source: RICS Professional Statement v2): 
+
+Energy 
+Material Details Reuse Recycle from Disposal 
+
+waste (landfill) 
+
+Concrete Cast in situ 0% 97.5% 0% 2.5% 
+Precast <1% 96.5% 0% 2.5% 
+Hot-rolled structural sections, including plate and tubes 7% 93% 0% 0% 
+Light gauge galvanised steelwork, e.g. 
+
+Steel studwork, cladding framing 5% 93% 0% 2% 
+Piles (sheet or bearing) 15% 71% 0% 14% 
+Rebar 0% 98% 0% 2% 
+Blockwork 0% 97.5% 0% 2.5% 
+
+Masonry 
+Brickwork <1% 97.5% 0% 2.5% 
+Solid timber (untreated, uncoated) <1% 78% 20% 1% 
+Treated, coated timber (non-hazardous) 0% 30% 69% 1% 
+
+Timber 
+Engineered timber (CLT, glulam, etc.) 5% 35% 59% 1% 
+Wood-panel products 0% 0% 99% 1% 
+
+Aluminium Sheet 0% 96% 0% 4% 
+Profile <1% 96% 0% 4% 
+
+Plasterboard General <1% 17% 0% 83% 
+Glass All types 0% 61% 0% 39% 
+Plastics All types   100%  
+Coatings Paints, intumescent coatings, cementitious sprays 0% 0% 0% 100% 
+
+Mineral-based  <1%  99% 
+Insulation Hydrocarbon-based   95% 5% 
+
+Biobased   95% 5% 
+Asphalt All types 0% 97.5% 0% 2.5% 
+Unbound 
+aggregates All types 0% 97.5% 0% 2.5% 
+Soils Includes topsoil and inert non-hazardous earth 0% 97.5% 0% 2.5% 
+
+Heat-generation equipment 0% 70% 0% 30% 
+Pipes 0% 90% 0% 10% 
+
+MEP Lights 0% 45% 0% 55% 
+equipment Ventilation system 0% 40% 0% 60% 
+
+Radiators 0% 80% 0% 20% 
+Wire cables 0% 50% 0% 50% 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 31 
+ 
+
+
+
+A.4 Recycled content by value calculation   
+
+<Placeholder to be updated following the updated WLCA> 
+A recycled content by value calculation was undertaken on the basis of the building elements included in the 
+Whole Life Cycle Carbon Assessment at this stage. This calculation reflects a recycled content by value greater 
+than 20% thereby satisfying the GLA requirement. Further detail is provided in the GLA Circular Economy 
+Template and filenote included within this appendix.  
+It should be noted that the calculation is only based on building elements included in the WLCA as detailed in the 
+Whole Life Cycle Carbon Assessment i.e. substructure, frame and façade, whilst other building element categories 
+have been benchmarked. In the subsequent stages of the project, this will be updated with more detailed WLC 
+assessment as more information becomes available. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 29 
+ 
+
+
+
+A.5 Optioneering Process 
+This remains unchanged from the previously submitted CES (P03). 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 30 
+ 
+
+
+
+A.5.1 Site Visit Guide and Supplementary Information 
+This remains unchanged from the previously submitted CES (P03). 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 31 
+ 
+
+
+
+A.5.2 Whole Life Carbon Pre-application Options Workshop 
+This remains unchanged from the previously submitted CES (P03). 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 32 
+ 
+
+
+
+A.5.3 Whole Life Carbon Optioneering Process 
+This remains unchanged from the previously submitted CES (P03). 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 33 
+ 
+
+
+
+A.5.4 Optioneering Supplementary Information for CoL Pre-App 
+This remains unchanged from the previously submitted CES (P03). 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 34 
+ 
+
+
+
+A.5.5 Existing Building Matrix & Qualitative Assessment   
+This remains unchanged from the previously submitted CES (P03).  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 35 
+ 
+
+
+
+A.6 Circular Economy Workshop  
+A.6.1 Workshop held during RIBA Stage 2 
+This remains unchanged from the previously submitted CES (P03). 
+  
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 36 
+ 
+
+
+
+A.6.2 Workshop held during RIBA Stage 3  
+This is an updated workshop held at RIBA Stage 3 for the Section 73 submission.   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 37 
+ 
+
+
+
+ 
+ 
+
+ 
+
+Project title High Holborn Development 
+Job number 294009 
+File reference  
+cc  
+Prepared by Felicia Bi 
+Date 29 June 2026 
+Subject Circular Economy Workshop Outputs – MMA Update 
+ 
+8 Fitzroy Street  London  W1T 4BJ  United Kingdom 
+
+t +44 20 7636 1531   
+arup.com 
+
+ 
+
+ 
+
+ 
+
+  Page 1 of 4 
+ 
+
+
+
+ 
+ 
+ 
+Job number  
+Date 29 June 2026 
+ 
+
+ 
+
+ 
+  Page 2 of 4 
+ 
+
+
+
+ 
+ 
+ 
+Job number  
+Date 29 June 2026 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+  Page 3 of 4 
+ 
+
+
+
+ 
+ 
+ 
+Job number  
+Date 29 June 2026 
+ 
+
+ 
+
+ 
+ 
+ 
+
+  Page 4 of 4 
+ 
+
+
+
+A.7 Basement Drawings 
+The existing basement being retained is remaining the same.  
+The new basement setting out will be updated for the Section 73 submission.  
+<Placeholder for new basement drawing aligning to WLCA and cost plan quantities> 
+
+High Holborn Limited High Holborn Development 
+ 
+
+294009-ARP-RP-YS-10001 | P04 | 01 July 2026 | Arup International Projects Limited Circular Economy Statement Page 38
