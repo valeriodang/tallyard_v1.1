@@ -51,13 +51,16 @@ export function lotsSharedByLinkWithOrg(world: World, orgId: string): string[] {
 
 /**
  * Open lots, plus matched-only lots from owners who approved the project once the terms are accepted, plus
- * matched-only lots that the project's architect or client reached through a share link (the link has its own terms).
+ * matched-only lots that the project's architect or client reached through a share link (the link has its own terms),
+ * plus (round 3) private lots the project's client holds for its own projects.
  */
 export function lotsVisibleToProject(world: World, project: Project): string[] {
   const byLink = new Set([...lotsSharedByLinkWithOrg(world, project.architectOrgId), ...lotsSharedByLinkWithOrg(world, project.clientOrgId)])
   return Object.values(world.lots)
     .filter((lot) => {
       if (lot.visibility === 'open') return true
+      // Round 3: a private lot held for the seller's own projects reaches the projects it is the client of.
+      if (lot.visibility === 'private') return lot.portfolio === true && sellerOrgOfLot(world, lot.id) === project.clientOrgId
       if (lot.visibility !== 'matched_only') return false
       if (byLink.has(lot.id)) return true
       if (!project.termsAccepted) return false

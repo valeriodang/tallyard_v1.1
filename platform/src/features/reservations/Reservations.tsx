@@ -10,11 +10,13 @@ import { goalMeter, reservationCarbonRows, reservationCostBars } from '../../sto
 import { formatDate } from '../../domain/dates'
 import { LABELS } from '../../domain/reference/labels'
 import * as f from '../../domain/format'
-import { BarList, Button, Callout, Card, CardHeader, Dialog, EmptyState, Field, IndicativeMarker, Legend, MARK, Pill, SustainabilityBand, TargetMeter, Textarea, toast, type Tone } from '../../ui'
+import { BarList, Button, Callout, Card, CardHeader, Dialog, EmptyState, Field, IndicativeMarker, Legend, MARK, Pill, Switch, SustainabilityBand, TargetMeter, Textarea, toast, type Tone } from '../../ui'
 import { Page } from '../../app/Page'
 import { TabHeader } from '../sustainability/parts'
 import { MaterialFacts } from '../approvals/MaterialSummary'
 import { MaterialPicture } from '../buildings/photos'
+import { TermsPicker, TermsSummary } from './TermsParts'
+import type { DealTerms } from '../../domain/dealTypes'
 
 const TONE = { pending: 'info', accepted: 'brand', declined: 'danger', withdrawn: 'neutral' } as const
 
@@ -275,7 +277,35 @@ function ProvenanceLink({ reservationId }: { reservationId: string }) {
 }
 
 function Status({ row, onRequest, onWithdraw }: { row: ReservationRow; onRequest: () => void; onWithdraw: () => void }) {
+  const { projectId = '' } = useParams()
   const r = row.reservation
+  // Round 3, stage 5: the client's own lot is allocated directly, with no request and no blind stage.
+  if (row.own && r?.status === 'accepted') {
+    return (
+      <div className="rounded-lg border border-brand-100 bg-brand-50/60 p-4" data-testid="own-allocation">
+        <p className="m-0 flex items-center gap-2 text-base font-medium text-brand-800">
+          <Handshake aria-hidden="true" className="size-4" />
+          Allocated from your own stock{r.decidedAt ? ` on ${formatDate(r.decidedAt.slice(0, 10))}` : ''}.
+        </p>
+        <ProvenanceLink reservationId={r.id} />
+      </div>
+    )
+  }
+  if (row.own && row.canRequest) {
+    const allocate = () => {
+      const x = act.allocateOwnLot(projectId, row.itemId)
+      if (!x.ok) return toast.error(x.error ?? 'Could not allocate.')
+      toast.success('Allocated to this project', { description: 'Held for this project. Nobody else can request it now.', action: { label: 'Undo', onClick: x.undo } })
+    }
+    return (
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <p className="m-0 text-sm text-muted">This lot is yours. Allocate it to this project; there is no request to send.</p>
+        <Button variant="primary" icon={Handshake} onClick={allocate} data-testid={`allocate-${row.publicId}`}>
+          Allocate to this project
+        </Button>
+      </div>
+    )
+  }
   if (r?.status === 'accepted' && r.exchanged) {
     const x = r.exchanged
     return (
@@ -312,6 +342,7 @@ function Status({ row, onRequest, onWithdraw }: { row: ReservationRow; onRequest
           </div>
         </dl>
         {r.decisionNote ? <p className="m-0 mt-3 text-sm text-ink-soft">The seller's note: {r.decisionNote}</p> : null}
+        {r.terms ? <TermsSummary terms={r.terms} title="Agreed terms" testId="reservation-terms" /> : null}
         <ProvenanceLink reservationId={r.id} />
       </div>
     )
@@ -329,6 +360,7 @@ function Status({ row, onRequest, onWithdraw }: { row: ReservationRow; onRequest
             <EyeOff aria-hidden="true" className="size-3.5" />
             The seller does not see who you are until they accept.
           </p>
+          {r.terms ? <TermsSummary terms={r.terms} title="Terms you proposed" testId="reservation-terms" /> : null}
         </div>
         {row.canWithdraw ? (
           <Button size="sm" variant="ghost" icon={Undo2} onClick={onWithdraw} data-testid="withdraw-request">
@@ -359,14 +391,19 @@ function Status({ row, onRequest, onWithdraw }: { row: ReservationRow; onRequest
 function RequestDialog({ projectId, row, blindLine, onClose }: { projectId: string; row: ReservationRow | null; blindLine: string | null; onClose: () => void }) {
   const [message, setMessage] = useState('')
   const [error, setError] = useState<string | null>(null)
+  const [withTerms, setWithTerms] = useState(false)
+  const [terms, setTerms] = useState<DealTerms | null>(null)
+  const draft = useView(selectors.termsDraftView, projectId, row?.itemId ?? '', terms)
   const close = () => {
     setMessage('')
     setError(null)
+    setWithTerms(false)
+    setTerms(null)
     onClose()
   }
   const send = () => {
     if (!row) return
-    const r = act.requestReservation(projectId, row.itemId, message)
+    const r = act.requestReservation(projectId, row.itemId, message, withTerms && draft ? draft.terms : null)
     if (!r.ok) {
       setError(r.error)
       return
@@ -382,6 +419,7 @@ function RequestDialog({ projectId, row, blindLine, onClose }: { projectId: stri
       }}
       title="Request a reservation"
       description={row?.title}
+      size={withTerms ? 'lg' : 'md'}
       testId="request-dialog"
       footer={
         <>
@@ -406,6 +444,8 @@ function RequestDialog({ projectId, row, blindLine, onClose }: { projectId: stri
         <Field label="Message to the seller" optional error={error ?? undefined} hint="Quantity, timing or testing you need. No names or contact details: they are shared on acceptance.">
           <Textarea value={message} onChange={(e) => setMessage(e.target.value)} rows={3} placeholder="For example: the full lot, for the office frame." data-testid="request-message" />
         </Field>
+        <Switch label="Propose deal terms" description="Deposit, storage, price lock and the rest. Without them you agree terms after the seller accepts." checked={withTerms} onCheckedChange={setWithTerms} data-testid="request-with-terms" />
+        {withTerms && row ? <TermsPicker projectId={projectId} wishItemId={row.itemId} value={terms} onChange={setTerms} /> : null}
       </div>
     </Dialog>
   )

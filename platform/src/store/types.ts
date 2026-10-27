@@ -3,6 +3,9 @@
 import type { CostLine, SteelGrade, World } from '../domain/types'
 import type { BuildingAudit } from '../domain/auditTypes'
 import type { ContractorWork } from '../domain/contractorTypes'
+import type { RecoveryRoute } from '../domain/reference/recovery'
+import type { DealTerms } from '../domain/dealTypes'
+import type { TermsBase } from '../domain/engines/dealTerms'
 import type { Fit } from '../domain/v1types'
 import type { TestService } from '../domain/reference/testing'
 import type { ProjectSustainability, RequirementTrack } from '../domain/sustainabilityTypes'
@@ -141,6 +144,11 @@ export type Reservation = {
   estimate: ReservationEstimate
   /** Filled when the seller accepts: from then on both sides see each other. */
   exchanged: ExchangedContacts | null
+  /**
+   * Round 3, stage 5: the deal the client proposed, and what it was costed on when sent. Absent on requests sent
+   * without terms. The seller sees only `toBlindTerms(offer)` until accepting: the base holds the buyer's timeline.
+   */
+  terms?: { offer: DealTerms; base: TermsBase }
 }
 
 export type SurveyStatus = 'not_started' | 'in_progress' | 'submitted'
@@ -228,6 +236,9 @@ export type UiState = {
   captureBuildingId: Record<string, string | null>
 }
 
+/** Round 3, stage 5: the owner's recovery plan for a building, with a route for each item the owner has chosen one for. */
+export type RecoveryPlan = { routes: Record<string, RecoveryRoute>; updatedAt: string; byUserId: string }
+
 export type AppData = {
   version: 2
   /** The seed revision this sandbox was made from (`SEED_REVISION`, round 3). */
@@ -262,6 +273,8 @@ export type AppData = {
   audits: Record<string, BuildingAudit>
   /** Round 3: the deconstruction contractor's methods, destination logs and carrier registers. Building-private. */
   contractorWork: ContractorWork
+  /** Round 3, stage 5: the owner's chosen recovery route for each item, by building. Owner-private. */
+  recoveryPlans: Record<string, RecoveryPlan>
   ui: UiState
 }
 

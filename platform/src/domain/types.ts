@@ -1,5 +1,6 @@
 // Data model (03-ENGINES.md section 2, extended by brief/09-V1-PRODUCT.md section 5.1). The private and public split is the point.
 import type { ItemQuality, PublicQuality, SteelLimits } from './qualityTypes'
+import type { StockMatchSettings } from './stockTypes'
 import type { ProjectType, Wishlist } from './v1types'
 
 export type FamilyId =
@@ -172,6 +173,11 @@ export type Lot = {
   askPerUnit: number | null
   reservePerUnit: number | null
   sold: boolean
+  /**
+   * Round 3, stage 5: a private lot the seller holds for its own projects first. Those projects see it; no one else
+   * does. Cleared when the lot is shared or published.
+   */
+  portfolio?: boolean
 }
 
 export type Availability =
@@ -282,6 +288,12 @@ export type Allocation = {
   gradeFlag: boolean
   storageMin: number
   storageMax: number
+  /** Round 3, set when the cut or excess options are used: members cut from each piece (1 without cutting). */
+  membersPerPiece?: number
+  /** Round 3: the pieces are offcuts of earlier pieces, back in stock. */
+  fromOffcut?: boolean
+  /** Round 3: the share of each piece's mass the members do not use, from offcut and heavier section. */
+  excessShare?: number
 }
 
 export type RequirementResult = {
@@ -303,6 +315,9 @@ export type MatchResult = {
   stockMassT: number
   offcutMassT: number
   avoidedT: number
+  /** Round 3, with cut-to-length: offcut mass long enough to go back to stock, and the rest, which is scrap. */
+  offcutReturnT?: number
+  offcutScrapT?: number
 }
 
 /** Start of RIBA Plan of Work 2020 stages 0 to 4, in order. Stage i runs to the day before stage i+1 starts; stage 4 runs to the day before site start. */
@@ -378,6 +393,8 @@ export type Project = {
   termsAccepted: boolean
   /** Round 3: what the structural engineer allows of reclaimed steel on this project. Absent until set. */
   steelLimits?: SteelLimits | null
+  /** Round 3, stage 5: how the architect matches the steel schedule against stock. Absent until set. */
+  stockMatch?: StockMatchSettings
   approvedByOwnerOrgIds: string[]
   seededDeals: SeededDeal[]
   /** Record data: km from each hub to the site. */

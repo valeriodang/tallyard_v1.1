@@ -19,6 +19,8 @@ import * as buildingRequirements from './actions/buildingRequirements'
 import * as audits from './actions/audits'
 import * as contractorWork from './actions/contractorWork'
 import * as quality from './actions/quality'
+import * as recovery from './actions/recovery'
+import * as stock from './actions/stock'
 
 function bind<V, A extends unknown[]>(fn: (s: AppData, actor: Actor, ...args: A) => ActionResult<V>): (...args: A) => Outcome<V> {
   return (...args: A) => useApp.getState().run(fn, ...args)
@@ -48,6 +50,7 @@ export const act = {
   reopenItem: bind(shortlist.reopenItem),
   // Reservations
   requestReservation: bind(reservations.requestReservation),
+  allocateOwnLot: bind(reservations.allocateOwnLot),
   withdrawReservation: bind(reservations.withdrawReservation),
   decideReservation: bind(reservations.decideReservation),
   // Donor building owner
@@ -140,6 +143,13 @@ export const act = {
   // Grading, hazards, warranty and the steel pathway of an item
   saveItemQuality: bind(quality.saveItemQuality),
   saveSteelRecord: bind(quality.saveSteelRecord),
+  // The owner's recovery plan
+  setItemRoute: bind(recovery.setItemRoute),
+  setLotPortfolio: bind(owner.setLotPortfolio),
+  // Design from stock
+  loadSteelSchedule: bind(stock.loadSteelSchedule),
+  clearSteelSchedule: bind(stock.clearSteelSchedule),
+  saveStockMatch: bind(stock.saveStockMatch),
   // Team, profile, organisation and notifications
   createInvite: bind(team.createInvite),
   revokeInvite: bind(team.revokeInvite),

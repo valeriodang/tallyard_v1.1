@@ -44,6 +44,8 @@ export const OWNER_ERRORS = {
   noPhoto: 'That photo could not be found.',
   architect: 'Choose an architecture practice.',
   hasArchitect: 'This project already has an architect.',
+  portfolioPrivate: 'Only a private lot can be held for your own projects. Make it private first.',
+  portfolioOwner: 'Only the building owner holds lots for its own projects.',
 } as const
 
 export type LotVisibilityChoice = 'private' | 'shared' | 'published'
@@ -423,6 +425,28 @@ export function setPhotoPublic(state: AppData, actor: Actor, itemId: string, pho
   if (!photo) return fail(state, OWNER_ERRORS.noPhoto)
   if (photo.isPublic === isPublic) return ok(state)
   return ok(withWorld(state, ops.setPhotoPublic(state.world, itemId, photoId, isPublic)))
+}
+
+/**
+ * Round 3, stage 5: portfolio-first. The owner holds a private lot for its own projects, which then see it and can
+ * allocate it; no other project or the marketplace does. Sharing or publishing the lot ends the hold.
+ */
+export function setLotPortfolio(state: AppData, actor: Actor, lotId: string, held: boolean): ActionResult {
+  const a = acting(state, actor)
+  if (typeof a === 'string') return fail(state, a)
+  const lot = state.world.lots[lotId]
+  const item = lot ? state.world.items[lot.itemId] : null
+  if (!lot || !item) return fail(state, OWNER_ERRORS.noLot)
+  if (!canSellIn(state, actor.userId, item.buildingId)) return fail(state, ERRORS.role)
+  if (a.role !== 'owner' || sellerOrgOfLot(state.world, lotId) !== a.org.id) return fail(state, OWNER_ERRORS.portfolioOwner)
+  if (acceptedReservation(state, lotId)) return fail(state, OWNER_ERRORS.reserved)
+  if (lot.visibility !== 'private') return fail(state, OWNER_ERRORS.portfolioPrivate)
+  if ((lot.portfolio === true) === held) return ok(state)
+  if (held && gradingVerdict(item.family, item.quality).rejected) return fail(state, OWNER_ERRORS.rejected)
+  if (held && item.quality?.steel && admissibility(item.quality.steel.admissibility).verdict === 'not_admissible') return fail(state, OWNER_ERRORS.notAdmissible)
+  let s = withWorld(state, ops.setLotPortfolio(state.world, lotId, held))
+  s = log(s, { at: a.now, orgIds: [a.org.id], buildingId: item.buildingId, projectId: null, actorUserId: a.user.id, actor: a.user.name, text: held ? `held ${item.tag} for your own projects` : `stopped holding ${item.tag} for your own projects`, href: `/app/buildings/${item.buildingId}/listings` })
+  return ok(s)
 }
 
 /** The owner lets a project see the lots they share, or revokes. The project stays a blind line to the owner. */

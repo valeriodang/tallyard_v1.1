@@ -138,3 +138,40 @@ Decisions taken while building round 3 (`BRIEF.md` section 15), with the reason 
   - the stone has been cleaned.
   No figure on any listing changes.
 - `SEED_REVISION` is now 4.
+
+## Stage 5
+
+- **The recovery plan has nine routes.** They run from retain and relocate, through reuse on site, reuse elsewhere, upcycle, recycle and downcycle, to energy recovery and landfill.
+  - Each maps to a Level(s) 2.4 route. The mapping is indicative and says so in Methodology.
+  - The suggested route comes from the ranking and the pre-deconstruction audit's broker route. An item worth recovering is reused on site where the audit says so, else elsewhere. The rest go their family's usual way, from a London landowner's recommended routes by material.
+  - The owner changes a route where the plan differs. Only those choices are stored, in a new `recoveryPlans` key, owner-private.
+  - The plan is scored by mass against the score the same items would have under the RICS 2nd edition business-as-usual split for their material. The reuse gain is the tonnes reused beyond that split.
+- **Each family has a cascade of uses, best first.** Steel follows the CIRCuIT programme's four strategies.
+- **Design from stock lives on the Matching tab, for the architect only.** The client and consultant see what reaches the shortlist.
+  - The schedule is stored on the project, in its existing `requirements`, with the settings in a new optional `stockMatch`.
+  - The match is worked out on reading, from public listings the project can see and could reserve, so nothing of a seller's crosses.
+  - An uploaded CSV is read line by line, and a bad line is named rather than thrown.
+- **The matcher keeps its rule by default: one stock piece serves one member, and it is never cut into several (03 section F7).** Three options sit beside it:
+  - **Cut to length.** A piece serves as many members as fit, and a last piece serves the members left over.
+  - **Offcuts back to stock.** An offcut at least the minimum length (3 m by default, from a London scheme's specification for incoming steel) goes back to stock and serves shorter lines. Lines are processed longest first, and offcuts are used before a new piece is cut. The result splits offcut mass into back to stock and scrap.
+  - **The 30% excess rule.** It counts both the offcut and a heavier section. When it is on, a piece more than 30% excess is passed over, and a line left unmatched says why.
+  With no option set the result is identical to before, and a test proves it on the seeded schedule.
+- **BIM matching stays in version 2.** Its card stays on the Matching tab, and the Help entry now says steel schedules match today.
+- **Deal terms are proposed by the client with a request, not offered on the listing.** The public listing keeps its 22 keys.
+  - The four models (client-driven, stockholder, hybrid, forward sale) come from the steel reuse supply chain study. Each sets who holds title, tests, stores and carries the warranty.
+  - The terms are a deposit, the storage bridge (up to 36 months) and who pays it, a price lock, a design-change clause, a buy-back and a guarantee.
+  - Every rate is a placeholder in Methodology.
+  - A forward sale is only for a lot not yet out of the building. A design-change clause needs a deposit.
+  - The request stores the terms and what they were costed on (`terms.offer`, `terms.base`).
+- **The seller reads the terms through `toBlindTerms` until accepting.** It is a sibling of `toBlindBuyer`.
+  - The storage bridge is shown in bands, so with the blind buyer's need-by window it says no more about the buyer's programme.
+  - The cost base, which holds the buyer's timeline months, never reaches the seller before acceptance. A privacy test proves it.
+  - Once accepted, both sides read the full terms and their cost.
+- **Portfolio-first is a flag on a private lot: `portfolio`.**
+  - A held lot is visible to projects whose client is the seller, and to their architect. It is not visible to any other project, and not on the marketplace.
+  - Sharing or publishing the lot ends the hold.
+  - Only the building owner holds lots, while it holds title. A lot that fails a reject check or the P427 screen cannot be held.
+- **The owner allocates its own lot to its own project directly.** This is `allocateOwnLot`.
+  - The reservation is accepted at once, with no request and no blind stage, since both sides are one organisation. Other waiting requests are declined, as on any acceptance.
+  - Requesting your own lot is still refused, as in round 2.
+- `SEED_REVISION` is now 5, for the new key. No seeded figure changes.

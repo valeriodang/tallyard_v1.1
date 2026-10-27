@@ -94,7 +94,8 @@ export function listIdFor(orgId: string, projectId: string | null): string {
 
 /** Why a lot cannot go on a list, or null when it can. */
 export function saveBlock(state: AppData, lot: Lot | null, projectId: string | null): string | null {
-  if (!lot || lot.visibility === 'private') return LOT_ERRORS.noLot
+  // Round 3: a private lot reaches a list only when held for the project's client, and only that project's list.
+  if (!lot || (lot.visibility === 'private' && !(lot.portfolio === true && projectId !== null))) return LOT_ERRORS.noLot
   if (projectId === null) {
     if (lot.visibility !== 'open') return LOT_ERRORS.sharedToSaved
   } else {

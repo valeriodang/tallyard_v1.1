@@ -19,11 +19,11 @@ import { HARROWDEN_ID, itemByTag, lotForItem, MERROWGATE_ID, ORG_IDS, SALLOW_ID,
 import { DEFAULT_DISCOVER_QUERY } from '../store/selectors/discover'
 import * as sel from '../store/selectors'
 import { projectsOfUser, buildingsOfUser } from '../store/access'
-import { listingOf, marketplaceListings, projectWishlist } from '../store/lots'
+import { listingOf, marketplaceListings, projectCanSee, projectWishlist } from '../store/lots'
 import { saveToProject, sendToClient, decideItem } from '../store/actions/shortlist'
 import { createProject, decideClientLink } from '../store/actions/projects'
-import { requestReservation, decideReservation } from '../store/actions/reservations'
-import { setLotVisibility, setProjectAccess } from '../store/actions/owner'
+import { requestReservation, decideReservation, withdrawReservation } from '../store/actions/reservations'
+import { setLotPortfolio, setLotVisibility, setProjectAccess } from '../store/actions/owner'
 import { captureItem } from '../store/actions/surveyor'
 import { draftFromText } from '../store/capture'
 import { itemsOf } from '../store/selectors/owner'
@@ -104,6 +104,7 @@ function buyerViews(s: AppData, v: Viewer): [string, unknown][] {
     add(`approvals ${p.name}`, sel.approvalsView(s, v, p.id))
     add(`reservations ${p.name}`, sel.reservationsView(s, v, p.id))
     add(`compliance ${p.name}`, sel.complianceView(s, v, p.id))
+    add(`stock ${p.name}`, sel.stockMatchView(s, v, p.id))
     for (const [name, view] of sustainabilityViews(s, v, p.id)) add(`${name} ${p.name}`, view)
     for (const it of projectWishlist(s.world, p.id)?.items ?? []) publicIds.add(it.publicId)
     for (const g of sel.sharedGroups(s, v)) for (const c of g.cards) publicIds.add(c.publicId)
@@ -705,5 +706,36 @@ describe('P3, round 3: quality on the listing and the provenance pack', () => {
     for (const [who, id] of [['Priya', U.priya], ['Marcus', U.marcus]] as const) expect(sel.provenancePackView(s, viewer(id), MERROWGATE_ID, waiting.id), who).toBeNull()
     // The architect's and the consultant's views still name no seller-private string.
     for (const [who, id] of [['Priya', U.priya], ['Marcus', U.marcus]] as const) expectNone(buyerViews(s, viewer(id)), allLotStrings(s), who)
+  })
+})
+
+describe('Round 3, stage 5: deal terms and design from stock', () => {
+  it("the seller reads a request's terms banded, with no cost base, until accepting", () => {
+    let s = fresh()
+    const waiting = Object.values(s.reservations).find((r) => r.status === 'pending')!
+    s = must(withdrawReservation(s, actor(U.isla), waiting.id)).state
+    const d = sel.termsDraftView(s, viewer(U.isla), MERROWGATE_ID, waiting.wishItemId, null)!
+    const r = must(requestReservation(s, actor(U.isla), MERROWGATE_ID, waiting.wishItemId, '', { ...d.terms, bridgeMonths: 11 }))
+    const views = ownerViews(r.state, viewer(U.tom))
+    expectNone(views, ['11 months', 'fitMonths', 'storagePerMonth', 'bridgeMonths'], 'Tom before accepting')
+    expect(JSON.stringify(sel.requestsView(r.state, viewer(U.tom)))).toContain('7 to 12 months')
+    expectNone(views, allProjectStrings(r.state), 'Tom before accepting')
+  })
+
+  it("a lot held for the owner's own projects reaches no other project, and not the marketplace", () => {
+    const created = must(createOwnerProject(fresh(), actor(U.tom), { name: 'Wexcombe House', projectType: 'office', localAuthority: 'Camden', region: 'Central London', ribaStage: 2, startDate: '2027-09-20', architectOrgId: ORG_IDS.oriel }))
+    const lot = lotForItem(created.state.world, itemByTag(created.state.world, 'TH-07').id)
+    const s = must(setLotPortfolio(created.state, actor(U.tom), lot.id, true)).state
+    for (const [who, id] of [['Isla', U.isla], ['Marcus', U.marcus]] as const) expectNone(buyerViews(s, viewer(id)), [lot.publicId], who)
+    expect(marketplaceListings(s).map((l) => l.publicId)).not.toContain(lot.publicId)
+    // The architect reaches it through the owner's own project, and checks it against no other.
+    expect(sel.materialView(s, viewer(U.priya), lot.publicId, created.value)).not.toBeNull()
+    for (const p of projectsOfUser(s, U.priya).filter((x) => x.id !== created.value)) expect(projectCanSee(s.world, p, s.world.lots[lot.id]), p.name).toBe(false)
+  })
+
+  it("the stock match reads public listings only, and is the architect's alone", () => {
+    const s = fresh()
+    expectNone([['stock', sel.stockMatchView(s, viewer(U.priya), MERROWGATE_ID)]], allLotStrings(s), 'Priya')
+    for (const [who, id] of [['Isla', U.isla], ['Marcus', U.marcus], ['Tom', U.tom]] as const) expect(sel.stockMatchView(s, viewer(id), MERROWGATE_ID), who).toBeNull()
   })
 })

@@ -29,6 +29,7 @@ export function useData(): AppData {
       buildingTracks: s.buildingTracks,
       audits: s.audits,
       contractorWork: s.contractorWork,
+      recoveryPlans: s.recoveryPlans,
       ui: s.ui,
     })),
   )

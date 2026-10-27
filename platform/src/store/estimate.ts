@@ -8,6 +8,8 @@ import { V1_ASSUMPTIONS } from '../domain/reference/v1assumptions'
 import { buyerPackage, type BuyerPackage } from '../domain/engines/package'
 import { timelineFit } from '../domain/engines/timeline'
 import { listingOf } from './lots'
+import { roundPence } from '../domain/money'
+import type { TermsBase } from '../domain/engines/dealTerms'
 import type { ReservationEstimate } from './types'
 
 /** Facilities that can hold the family: covered-only families never go to an open yard. */
@@ -76,4 +78,15 @@ export function estimateForListing(listing: PublicListing, project: Project, tod
 
 export function estimateForLot(world: World, lot: Lot, project: Project, today: string): ReservationEstimate {
   return estimateForListing(listingOf(world, lot), project, today)
+}
+
+/** Round 3: what a deal's terms are costed on, from the same estimate: the material, storage per month at its hub, and the timeline. */
+export function termsBaseFor(listing: PublicListing, project: Project, today: string): TermsBase {
+  const est = estimateForListing(listing, project, today)
+  return {
+    material: est.lines.find((l) => l.id === 'material')?.amount ?? 0,
+    storagePerMonth: roundPence(facilityById(est.facilityId).storageRate * listing.massT),
+    fitMonths: est.storageMonths,
+    availableNow: listing.availability.kind === 'now',
+  }
 }

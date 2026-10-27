@@ -11,6 +11,7 @@ import type { PriorityViewRow } from '../../store/selectors/owner'
 import { scoreParts, scoreWeights, signedMoneyWhole, stacked } from '../../store/selectors/roles-views'
 import { Card, CardBody, CardHeader, cx, EmptyState, IndicativeMarker, Pill, Table, TBody, TD, TH, THead, TR, VIZ, type Tone } from '../../ui'
 import { StatStrip } from '../notifications/kit'
+import { RoutePlan } from './RoutePlan'
 
 const ROUTE_TONE: Record<DecisionRoute, Tone> = { reuse: 'brand', upcycle: 'brand', downcycle: 'warning', recycle: 'info', scrap: 'danger' }
 
@@ -55,6 +56,8 @@ export function Priorities() {
           </ol>
         </CardBody>
       </Card>
+
+      <RoutePlan buildingId={buildingId} />
 
       <section aria-labelledby="ranking-title" className="flex flex-col gap-3">
         <div className="flex flex-wrap items-end justify-between gap-3">

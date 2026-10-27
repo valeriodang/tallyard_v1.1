@@ -34,6 +34,16 @@ export function publishLot(world: World, lotId: string, input: { visibility: Exc
   lot.askPerUnit = input.ask
   lot.reservePerUnit = input.reserve
   lot.listedMonth = lot.listedMonth ?? listedMonth
+  // Round 3: shared or published, the lot is no longer held for the seller's own projects.
+  delete lot.portfolio
+  return w
+}
+
+/** Round 3: the seller holds a private lot for its own projects first, or stops. */
+export function setLotPortfolio(world: World, lotId: string, held: boolean): World {
+  const w = structuredClone(world)
+  if (held) w.lots[lotId].portfolio = true
+  else delete w.lots[lotId].portfolio
   return w
 }
 

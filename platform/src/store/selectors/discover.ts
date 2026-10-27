@@ -144,7 +144,8 @@ export function sharedGroups(state: AppData, viewer: Viewer): SharedGroup[] {
     .filter((p) => projectSide(state, viewer.userId, p.id) !== 'consultant')
     .map((p) => {
       // Before the project's terms, only lots reached through a share link show (the link had its own terms).
-      const lots = Object.values(state.world.lots).filter((l) => l.visibility === 'matched_only' && projectCanSee(state.world, p, l) && isLotAvailable(state, l, p.id))
+      // Round 3: with the lots shared in confidence, the private lots the client holds for its own projects.
+      const lots = Object.values(state.world.lots).filter((l) => (l.visibility === 'matched_only' || (l.visibility === 'private' && l.portfolio === true)) && projectCanSee(state.world, p, l) && isLotAvailable(state, l, p.id))
       const visible = new Set(lots.map((l) => l.id))
       // Before the terms, lotsVisibleToProject hides owner-shared lots; count the ones the owners' approvals would show.
       const pending = p.termsAccepted ? [] : Object.values(state.world.lots).filter((l) => l.visibility === 'matched_only' && !visible.has(l.id) && approvedOwnerLot(state, p, l) && isLotAvailable(state, l, p.id))
@@ -380,7 +381,8 @@ export type MaterialView = {
  */
 function visibleLot(state: AppData, viewer: Viewer, publicId: string): Lot | null {
   const lot = lotByPublicId(state.world, publicId)
-  if (!lot || lot.visibility === 'private') return null
+  // Round 3: a private lot held for its seller's own projects opens for those projects' architect, below.
+  if (!lot || (lot.visibility === 'private' && lot.portfolio !== true)) return null
   // A donor building owner manages its own lots in its buildings; the marketplace shows it what others offer.
   if (ownPublicIds(state, viewer).has(publicId)) return null
   const mine = pickerProjects(state, viewer)

@@ -83,5 +83,10 @@ scripts/               scan.mjs, make-samples.mjs, make-photo-fixture.mjs, shots
      - Project steel limits with lead time by status.
      - A tested-for-reuse label.
      - The provenance pack for the client after acceptance.
+   - Stage 5 is done: recovery routes, design from stock, deal terms and portfolio-first.
+     - Recovery plan: a route for each item from nine, the Level(s) 2.4 score against the RICS business-as-usual case, the reuse gain, and each family's cascade of uses.
+     - Matching tab: the architect loads a steel schedule and matches it against stock, with cut to length, offcuts back to stock, the 30% excess rule and the steel in stock by serial size. BIM matching stays in version 2.
+     - Deal terms: the client proposes a model (client-driven, stockholder, hybrid, forward sale) and its terms with a request; the seller reads them banded until accepting. Rates are placeholders.
+     - Portfolio-first: the owner holds a private lot for its own projects, which see it and allocate it directly.
    - Test changes are logged in `platform/feedback/r3-test-changes-*.md` and decisions in `platform/feedback/r3-decisions.md`.
 5. Literature review of `reference literature/` done (27 October 2026): `reports/Tallyard literature review.md`, notes in `research_notes/Literature review/`. It recommends reference-value updates and ranks 17 features; none is built until the user chooses. Eight later documents (D53 to D60) are reviewed in note 08 with the updated gap status.

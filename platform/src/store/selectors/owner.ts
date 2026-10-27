@@ -36,6 +36,7 @@ import { claimRowsForOwner, claimStateFor, type ClaimRow, type ClaimState } from
 import { activitySummary, type ActivitySummary } from './dashboard'
 import { buildingRequirementsRollup } from './buildingRequirements'
 import { itemMethodText } from './contractorWork'
+import { sellerTermsView, type TermsView } from './deals'
 import { activityFor, firstName, greeting, listingCard, longDate, RESERVATION_STATUS_LABELS, stageLabel, timeAgo, todayOf, type ActivityRow, type ListingCard } from './common'
 
 export const SURVEY_STATUS_LABELS: Record<SurveyStatus, string> = { not_started: 'Not started', in_progress: 'In progress', submitted: 'Submitted' }
@@ -290,6 +291,8 @@ export type RequestRow = {
   canDecide: boolean
   /** Other requests waiting for the same lot. */
   competing: number
+  /** Round 3: the deal terms the client proposed, banded until the seller accepts; null when sent without terms. */
+  terms: TermsView | null
 }
 
 function ownerOrg(state: AppData, viewer: Viewer): string | null {
@@ -347,6 +350,7 @@ export function requestRows(state: AppData, viewer: Viewer): RequestRow[] {
         decidedAt: r.decidedAt,
         canDecide: r.status === 'pending' && !acceptedReservation(state, lot.id),
         competing: Object.values(state.reservations).filter((x) => x.lotId === lot.id && x.id !== r.id && x.status === 'pending').length,
+        terms: sellerTermsView(r),
       }
     })
 }
@@ -831,6 +835,10 @@ export type ListingRow = {
   expectedText: string
   reserved: boolean
   canChange: boolean
+  /** Round 3: a private lot held for the owner's own projects first. */
+  portfolio: boolean
+  /** The owner may hold the lot for its own projects, or stop: private, not reserved, and the owner sells it. */
+  canHold: boolean
 }
 
 /** Who holds title to the building's arisings, and what the viewer can do about it (round 3). */
@@ -876,6 +884,8 @@ export type ListingsView = {
   rows: ListingRow[]
   counts: VisibilityCounts
   sharedProjectCount: number
+  /** Round 3: the owner's own projects, which see the lots it holds for them. */
+  ownProjectCount: number
   blockedText: string
   empty: boolean
 }
@@ -900,7 +910,7 @@ export function listingsView(state: AppData, viewer: Viewer, buildingId: string)
       family: item.family,
       visibility: lot.visibility,
       choice: VISIBILITY_CHOICE[lot.visibility],
-      visibilityLabel: OWNER_VISIBILITY_LABELS[lot.visibility],
+      visibilityLabel: lot.visibility === 'private' && lot.portfolio ? 'Private, held for your projects' : OWNER_VISIBILITY_LABELS[lot.visibility],
       ask: lot.askPerUnit,
       reserve: lot.reservePerUnit,
       suggested: { ask: fig.sellerMandate.ask, reserve: fig.sellerMandate.reserve },
@@ -911,6 +921,8 @@ export function listingsView(state: AppData, viewer: Viewer, buildingId: string)
       expectedText: item.expectedAvailableFrom ? formatMonth(item.expectedAvailableFrom) : 'Not set',
       reserved,
       canChange: !reserved && sells,
+      portfolio: lot.portfolio === true,
+      canHold: !reserved && sells && lot.visibility === 'private' && roleOfUser(state, viewer.userId) === 'owner' && b.ownerOrgId === orgId && sellerOrgOfLot(state.world, lot.id) === orgId,
     }
   })
   return {
@@ -923,6 +935,7 @@ export function listingsView(state: AppData, viewer: Viewer, buildingId: string)
     rows,
     counts: visibilityCounts(state, buildingId),
     sharedProjectCount: Object.values(state.world.projects).filter((p) => p.approvedByOwnerOrgIds.includes(orgId)).length,
+    ownProjectCount: ownerProjects(state, viewer).length,
     blockedText: LABELS.L34,
     empty: rows.length === 0,
   }

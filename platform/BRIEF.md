@@ -391,6 +391,21 @@ Round 3 is a working name, used in documents and test logs. Screens say "Updated
   - Every rate is a labelled placeholder.
   - The seller sees banded terms only.
   - Owners can hold a lot for their own projects first (portfolio-first).
+- **As built (stage 5):**
+  - **Recovery plan tab:** a Routes and circularity card on the owner's Recovery plan tab. It shows the Level(s) score against business as usual, the reuse gain, the plan by route, a route picker on each item and each family's cascade of uses.
+  - **Matching tab (the architect's):**
+    - design from stock, with the sample schedule or a CSV upload;
+    - the four matching options;
+    - results line by line;
+    - the steel in stock by serial size.
+    The BIM model card stays locked.
+  - **Requests:**
+    - "Propose deal terms" in the client's request dialog, with the cost of the terms and what the seller will see;
+    - the terms on the client's reservation;
+    - the terms on the seller's request, banded until accepted.
+  - **Listings and Reservations:**
+    - "Hold for your own projects first" in the owner's listing sheet;
+    - "Allocate to this project" on the owner's own project for its own lots.
 
 ### 15.7 Specification, procurement and compliance (stage 6)
 

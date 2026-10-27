@@ -13,6 +13,7 @@ import { Badge, Button, Card, Dialog, EmptyState, Field, IndicativeMarker, PageH
 import { Page } from '../../app/Page'
 import { Eyebrow } from '../notifications/kit'
 import { BuildingClaims } from './BuildingClaims'
+import { TermsSummary } from '../reservations/TermsParts'
 
 type Deciding = { row: RequestRow; decision: 'accepted' | 'declined' }
 
@@ -156,6 +157,8 @@ function RequestCard({ row: r, onDecide }: { row: RequestRow; onDecide: (d: 'acc
               ) : null}
             </div>
           )}
+
+          {r.terms ? <TermsSummary terms={r.terms} title={r.status === 'accepted' ? 'Agreed terms' : 'Terms proposed'} testId={`request-terms-${r.tag}`} /> : null}
 
           {r.status === 'declined' ? <p className="m-0 text-sm text-muted">Declined{r.decidedAt ? ` on ${formatDate(r.decidedAt.slice(0, 10))}` : ''}{r.decisionNote ? `. Your note: ${r.decisionNote}` : '.'}</p> : null}
           {r.status === 'accepted' && r.decidedAt ? <p className="m-0 text-sm text-muted">Accepted on {formatDate(r.decidedAt.slice(0, 10))}. Agree the terms directly with the buyer.</p> : null}

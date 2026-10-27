@@ -51,7 +51,8 @@ export function projectTabs(state: AppData, side: ProjectSide, p: Project): Proj
       tab('requirements', 'Requirements', '/requirements'),
       tab('team', 'Team', '/team'),
       tab('activity', 'Activity', '/activity'),
-      tab('matching', 'Matching', '/matching', null, true),
+      // Round 3, stage 5: design from stock is built; only whole-model matching stays in version 2, inside the page.
+      tab('matching', 'Matching', '/matching'),
     ]
   if (side === 'client') {
     const waiting = waitingApprovals(state, p)

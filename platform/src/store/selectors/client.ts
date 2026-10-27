@@ -7,12 +7,14 @@ import * as f from '../../domain/format'
 import type { AppData, ExchangedContacts, ReservationEstimate, ReservationStatus, Viewer } from '../types'
 import { isProjectClient, projectsOfUser, roleOfUser } from '../access'
 import { estimateForListing } from '../estimate'
-import { listingOf, projectWishlist } from '../lots'
+import { listingOf, lotByPublicId, projectWishlist } from '../lots'
+import { sellerOrgOfLot } from '../../domain/visibility'
 import { activityFor, firstName, greeting, longDate, projectRef, RESERVATION_STATUS_LABELS, timeAgo, todayOf, type ActivityRow, type ListingCard, type ProjectRef } from './common'
 import { shortlistRows, totalsOf, type ShortlistRow, type TotalsByState } from './shortlist'
 import { projectHeader, type ProjectHeader } from './project'
 import { projectMetrics } from './consultant'
 import { goalRows, type GoalRow } from './sustainability'
+import { fullTermsView, type TermsView } from './deals'
 
 export type ClientHome = {
   greeting: string
@@ -150,8 +152,12 @@ export type ReservationRow = {
     message: string
     /** The seller's organisation and contact, once accepted. */
     exchanged: ExchangedContacts | null
+    /** Round 3: the deal terms the client proposed, in full; null when sent without terms. */
+    terms: TermsView | null
   } | null
   canRequest: boolean
+  /** Round 3: the client sells this lot itself, so allocates it directly instead of requesting it. */
+  own: boolean
   canWithdraw: boolean
   /** Avoided carbon against buying new, from the public listing. Indicative. */
   carbon: { avoidedT: number | null; percentText: string | null; band: Band }
@@ -172,6 +178,11 @@ export type ReservationsView = {
     carbonGoal: GoalRow | null
   }
   caveat: string
+}
+
+function ownLot(state: AppData, publicId: string, clientOrgId: string): boolean {
+  const lot = lotByPublicId(state.world, publicId)
+  return !!lot && sellerOrgOfLot(state.world, lot.id) === clientOrgId
 }
 
 /** Which summary group a reservation row falls in, or null. */
@@ -211,9 +222,11 @@ function reservationRows(state: AppData, viewer: Viewer, projectId: string): { h
               decisionNote: res.decisionNote,
               message: res.message,
               exchanged: res.status === 'accepted' ? res.exchanged : null,
+              terms: res.terms ? fullTermsView(res.terms.offer, res.terms.base) : null,
             }
           : null,
         canRequest: !open,
+        own: ownLot(state, r.publicId, p.clientOrgId),
         canWithdraw: res?.status === 'pending',
         carbon: { avoidedT: r.card.avoidedT, percentText: r.card.listing.carbon ? `${f.percent(r.card.listing.carbon.percent)} less than new` : null, band: r.card.band },
       }

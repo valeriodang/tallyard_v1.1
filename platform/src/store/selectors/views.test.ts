@@ -431,7 +431,8 @@ describe('inbox, navigation, routes and search', () => {
     expect(mg.children.map((c) => [c.label, c.badge])).toEqual([['Overview', null], ['Approvals', 1], ['Reservations', null], ['Specification', null], ['Sustainability', 1], ['Requirements', 1]])
     expect(sel.navModel(s, viewer(U.tom))!.sections[2].items[0].badge).toBe(2)
     const priya = sel.navModel(s, viewer(U.priya))!
-    expect(priya.sections[1].items[0].children.find((c) => c.label === 'Matching')!.soon).toBe(true)
+    // Round 3, stage 5: Matching is built (design from stock), so it no longer reads Soon. Logged in r3-test-changes-stage5.
+    expect(priya.sections[1].items[0].children.find((c) => c.label === 'Matching')!.soon).toBe(false)
     expect(priya.org).toMatchObject({ name: 'Studio Oriel', typeLabel: 'Architecture practice' })
   })
 

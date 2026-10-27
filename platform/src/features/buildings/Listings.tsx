@@ -9,7 +9,7 @@ import * as f from '../../domain/format'
 import { act, selectors, useView } from '../../store'
 import type { ListingRow, ListingsView } from '../../store/selectors/owner'
 import { disclosureMeter } from '../../store/selectors/roles-views'
-import { Badge, Button, Card, CardBody, CardHeader, Dialog, EmptyState, Pill, SegmentedControl, Sheet, Table, TBody, TD, TH, THead, TR, toast } from '../../ui'
+import { Badge, Button, Card, CardBody, CardHeader, Dialog, EmptyState, Pill, SegmentedControl, Sheet, Switch, Table, TBody, TD, TH, THead, TR, toast } from '../../ui'
 import { DisclosureBox, ListingEditor } from './ListingEditor'
 import { VISIBILITY_SHORT, VISIBILITY_TONE } from './labels'
 
@@ -126,6 +126,7 @@ export function Listings() {
                       {VISIBILITY_SHORT[r.visibility]}
                     </Pill>
                     {r.reserved ? <Badge tone="brand">Reserved</Badge> : null}
+                    {r.portfolio ? <Badge tone="info">Held for your projects</Badge> : null}
                   </span>
                 </TD>
                 <TD align="right" className="whitespace-nowrap">
@@ -164,8 +165,33 @@ export function Listings() {
       </div>
 
       <Sheet open={!!current} onOpenChange={(o) => !o && setEditing(null)} width="lg" title={current ? `${current.tag} · ${current.title}` : ''} description="Visibility, prices and availability" testId="listing-sheet">
+        {current && (current.canHold || current.portfolio) ? <PortfolioHold row={current} ownProjectCount={v.ownProjectCount} /> : null}
         {current ? <ListingEditor key={current.lotId + current.visibility} lot={toEditorLot(current)} onSaved={() => setEditing(null)} compact /> : null}
       </Sheet>
+    </div>
+  )
+}
+
+/**
+ * Round 3, stage 5: portfolio-first. The owner holds a private lot for its own projects, which see it and can allocate
+ * it; nobody else does. Sharing or publishing ends the hold.
+ */
+function PortfolioHold({ row, ownProjectCount }: { row: ListingRow; ownProjectCount: number }) {
+  const hold = (held: boolean) => {
+    const r = act.setLotPortfolio(row.lotId, held)
+    if (!r.ok) return toast.error(r.error ?? 'Could not change the hold.')
+    toast.success(held ? `${row.tag} held for your projects` : `${row.tag} no longer held`, { action: { label: 'Undo', onClick: r.undo } })
+  }
+  return (
+    <div className="mb-5 rounded-lg border border-line bg-page/60 p-4" data-testid="portfolio-hold">
+      <Switch
+        label="Hold for your own projects first"
+        description={ownProjectCount > 0 ? `Your ${ownProjectCount === 1 ? 'project sees' : `${ownProjectCount} projects see`} it and can allocate it. No one else does until you share or publish it.` : 'Add a new project to use it: your own projects see the lot, and no one else does.'}
+        checked={row.portfolio}
+        disabled={!row.canHold}
+        onCheckedChange={hold}
+        data-testid="portfolio-switch"
+      />
     </div>
   )
 }

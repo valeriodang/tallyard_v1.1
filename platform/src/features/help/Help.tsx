@@ -433,7 +433,7 @@ function slug(s: string): string {
 
 const V2: { icon: LucideIcon; title: string; text: string }[] = [
   { icon: GripHorizontal, title: 'Drag availability on the programme', text: "Drag a material's availability bar on the project programme to try other dates and see the timing check update. A change would go to the seller as a request, never straight to their record." },
-  { icon: Network, title: 'Match a BIM model or steel schedule', text: 'Upload a model or a schedule and match every member against the whole marketplace, with lengths, sections and grades checked for you.' },
+  { icon: Network, title: 'Match a BIM model', text: 'Upload a model and match every member against the whole marketplace, with lengths, sections and grades checked for you. Steel schedules match now, on the Matching tab.' },
   { icon: Boxes, title: 'BIM families', text: 'Download a reclaimed material as a native Revit family, ready to place in the model with its record attached. IFC files are available now.' },
   { icon: Users, title: 'Real accounts and shared data', text: 'Organisations work together on one shared record instead of a sandbox in each browser, with invitations by email.' },
   { icon: Database, title: 'Life cycle assessment and product declarations', text: 'Connect a life cycle assessment database and Environmental Product Declarations, so carbon figures come from reviewed sources.' },

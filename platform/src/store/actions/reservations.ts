@@ -6,7 +6,9 @@ import type { ActionResult, Actor, AppData, ExchangedContacts, Reservation } fro
 import { ERRORS, canSellIn, isProjectClient, linkedConsultantOrgId, usersOfOrg } from '../access'
 import { mint } from '../ids'
 import { acceptedReservation, isLotAvailable, listingOf, lotByPublicId, sellerOrgOfLotIn, projectCanSee, projectWishlist, reservationsForLot } from '../lots'
-import { estimateForLot } from '../estimate'
+import { estimateForLot, termsBaseFor } from '../estimate'
+import type { DealTerms } from '../../domain/dealTypes'
+import { checkTerms } from '../../domain/engines/dealTerms'
 import { log, notify } from '../notifications'
 import { acting, clean, fail, ok } from './common'
 
@@ -21,13 +23,18 @@ export const RESERVATION_ERRORS = {
   notPending: 'This request has already been decided.',
   reservedElsewhere: 'Reserved for another buyer.',
   ownLot: 'This lot is yours. Allocate it directly; reserving is for other sellers.',
+  notOwn: 'Only a lot you sell can be allocated to your own project. Request it from its seller.',
 } as const
+
+/** Kept on an allocation to the owner's own project. */
+export const OWN_ALLOCATION_NOTE = 'Allocated to your own project.'
 
 /** Kept on a request declined because the seller accepted another one. */
 export const RESERVED_ELSEWHERE_NOTE = 'Reserved for another buyer.'
 
 /** The client asks the seller to reserve an approved material for the project. Returns the reservation ID. */
-export function requestReservation(state: AppData, actor: Actor, projectId: string, wishItemId: string, message: string): ActionResult<string> {
+/** The client asks the seller to hold a lot. Round 3: with the deal terms they propose, or none. */
+export function requestReservation(state: AppData, actor: Actor, projectId: string, wishItemId: string, message: string, terms: DealTerms | null = null): ActionResult<string> {
   const a = acting(state, actor)
   if (typeof a === 'string') return fail(state, a)
   const p = state.world.projects[projectId]
@@ -46,6 +53,11 @@ export function requestReservation(state: AppData, actor: Actor, projectId: stri
   if (!isLotAvailable(state, lot, projectId)) return fail(state, RESERVATION_ERRORS.notAvailable)
 
   const listing = listingOf(state.world, lot)
+  const termsBase = terms ? termsBaseFor(listing, p, a.today) : null
+  if (terms && termsBase) {
+    const problem = checkTerms(terms, termsBase)
+    if (problem) return fail(state, problem)
+  }
   const m = mint(state, 'res', (id) => !!state.reservations[id])
   const reservation: Reservation = {
     id: m.id,
@@ -62,6 +74,7 @@ export function requestReservation(state: AppData, actor: Actor, projectId: stri
     decisionNote: null,
     estimate: estimateForLot(state.world, lot, p, a.today),
     exchanged: null,
+    ...(terms && termsBase ? { terms: { offer: { model: terms.model, depositShare: terms.depositShare, storagePayer: terms.storagePayer, bridgeMonths: terms.bridgeMonths, priceLock: terms.priceLock, designChange: terms.designChange, buyBack: terms.buyBack, guarantee: terms.guarantee }, base: termsBase } } : {}),
   }
   let s: AppData = { ...m.state, reservations: { ...m.state.reservations, [m.id]: reservation } }
   const blind = blindBuyerText(toBlindBuyer(p))
@@ -158,4 +171,61 @@ export function decideReservation(state: AppData, actor: Actor, reservationId: s
     s = notify(s, { orgIds: [op.clientOrgId], kind: 'reservation_decided', title: `Reservation declined: ${listing.title}`, body: RESERVED_ELSEWHERE_NOTE, href: `/app/projects/${op.id}/reservations`, at: a.now, actorUserId: null })
   }
   return ok(s)
+}
+
+/**
+ * Round 3, stage 5: the owner allocates its own lot to one of its own projects: held at once, with no request and no
+ * blind stage, since both sides are the same organisation. Other requests waiting for the lot are declined.
+ */
+export function allocateOwnLot(state: AppData, actor: Actor, projectId: string, wishItemId: string): ActionResult<string> {
+  const a = acting(state, actor)
+  if (typeof a === 'string') return fail(state, a)
+  const p = state.world.projects[projectId]
+  if (!p) return fail(state, ERRORS.noProject)
+  if (!isProjectClient(state, actor.userId, projectId)) return fail(state, ERRORS.role)
+  const item = projectWishlist(state.world, projectId)?.items.find((x) => x.id === wishItemId)
+  if (!item) return fail(state, RESERVATION_ERRORS.noItem)
+  if (item.status !== 'approved') return fail(state, RESERVATION_ERRORS.notApproved)
+  const lot = lotByPublicId(state.world, item.publicId)
+  if (!lot || !projectCanSee(state.world, p, lot)) return fail(state, RESERVATION_ERRORS.notShared)
+  if (sellerOrgOfLotIn(state.world, lot) !== p.clientOrgId) return fail(state, RESERVATION_ERRORS.notOwn)
+  const inv = state.world.items[lot.itemId]
+  if (!canSellIn(state, actor.userId, inv.buildingId)) return fail(state, ERRORS.role)
+  if (reservationsForLot(state, lot.id).some((r) => r.projectId === projectId && r.status === 'accepted')) return fail(state, RESERVATION_ERRORS.held)
+  if (!isLotAvailable(state, lot, projectId)) return fail(state, RESERVATION_ERRORS.notAvailable)
+  const listing = listingOf(state.world, lot)
+  const m = mint(state, 'res', (id) => !!state.reservations[id])
+  const draft: Reservation = {
+    id: m.id,
+    projectId,
+    lotId: lot.id,
+    publicId: lot.publicId,
+    wishItemId,
+    requestedByUserId: a.user.id,
+    requestedAt: a.now,
+    message: '',
+    status: 'accepted',
+    decidedAt: a.now,
+    decidedByUserId: a.user.id,
+    decisionNote: OWN_ALLOCATION_NOTE,
+    estimate: estimateForLot(state.world, lot, p, a.today),
+    exchanged: null,
+  }
+  const reservations = { ...m.state.reservations, [m.id]: { ...draft, exchanged: contactsFor(m.state, draft, a.user.id) } }
+  const bumped: Reservation[] = []
+  for (const other of Object.values(m.state.reservations)) {
+    if (other.lotId !== lot.id || other.status !== 'pending') continue
+    reservations[other.id] = { ...other, status: 'declined', decidedAt: a.now, decidedByUserId: a.user.id, decisionNote: RESERVED_ELSEWHERE_NOTE }
+    bumped.push(other)
+  }
+  let s: AppData = { ...m.state, reservations }
+  s = log(s, { at: a.now, orgIds: [a.org.id], projectId: null, buildingId: inv.buildingId, actorUserId: a.user.id, actor: a.user.name, text: `allocated ${inv.tag} to ${p.name}`, href: `/app/buildings/${inv.buildingId}/listings` })
+  s = log(s, { at: a.now, orgIds: [p.clientOrgId, p.architectOrgId, linkedConsultantOrgId(p)], projectId, buildingId: null, actorUserId: a.user.id, actor: a.user.name, text: `allocated ${listing.title} from the client's own stock`, href: `/app/projects/${projectId}/reservations` })
+  if (p.architectOrgId) s = notify(s, { orgIds: [p.architectOrgId], kind: 'reservation_decided', title: `${listing.title} is reserved`, body: `The client allocated it to ${p.name} from its own stock.`, href: `/app/projects/${projectId}/shortlist`, at: a.now, actorUserId: null })
+  for (const other of bumped) {
+    const op = s.world.projects[other.projectId]
+    s = log(s, { at: a.now, orgIds: [op.clientOrgId, op.architectOrgId, linkedConsultantOrgId(op)], projectId: op.id, buildingId: null, actorUserId: null, actor: 'The seller', text: `reserved ${listing.title} for another buyer`, href: `/app/projects/${op.id}/reservations` })
+    s = notify(s, { orgIds: [op.clientOrgId], kind: 'reservation_decided', title: `Reservation declined: ${listing.title}`, body: RESERVED_ELSEWHERE_NOTE, href: `/app/projects/${op.id}/reservations`, at: a.now, actorUserId: null })
+  }
+  return ok(s, m.id)
 }
