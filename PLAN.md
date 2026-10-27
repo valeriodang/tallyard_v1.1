@@ -65,3 +65,4 @@ scripts/               scan.mjs, make-samples.mjs, make-photo-fixture.mjs, shots
 2. Wait for the partner's material (brief 09 section 12, docs/HANDOFF.md section 8): the product name, the office's specification template, the sustainability diagram, the frameworks list and the decision tree, and the consultant's workflow. Each replaces a placeholder named in brief 09.
 3. Decide with the user whether and when version 1.0 goes to `main`. Nothing goes to `main` without an explicit go-ahead.
 4. Version 2 items stay greyed until asked for: matching an uploaded BIM model or steel schedule against the whole marketplace, and the BIM family download.
+5. Literature review of `reference literature/` done (27 October 2026): `reports/Tallyard literature review.md`, notes in `research_notes/Literature review/`. It recommends reference-value updates and ranks 17 features; none is built until the user chooses.
