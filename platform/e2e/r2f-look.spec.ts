@@ -125,7 +125,7 @@ test('the landing page names the frameworks and shows the real sample figures, a
   await expect(page.getByTestId('landing-frameworks')).toContainText('UK Net Zero Carbon Buildings Standard')
   await expect(page.getByTestId('landing-frameworks')).toContainText('Not affiliated with or endorsed by these bodies.')
   await expect(page.getByTestId('product-shot-shortlisted')).toContainText('7')
-  await expect(page.getByTestId('product-shot-carbon')).toContainText('100.8')
+  await expect(page.getByTestId('product-shot-carbon')).toContainText('101.0')
   await fits(page, '/', 'landing-frameworks')
 })
 

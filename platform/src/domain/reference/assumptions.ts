@@ -1,13 +1,18 @@
 // Every parameter in 06-DATA.md section A2, with source and status, in one object.
 import type { Facility, Haulier, ReferenceStatus } from '../types'
 import { FAMILIES } from './families'
+import { TRANSPORT_DEFAULTS } from './rics'
 
 export type Parameter = { id: string; group: string; label: string; value: string; unit: string; source: string; status: ReferenceStatus }
 
 export const ROAD = 0.0001065 // tCO2e per tonne km
+/** Average container ship, tCO2e per tonne km (round 3; indicative, see the Methodology row). */
+export const SEA = 0.0000161
 
 export type Assumptions = {
   road: number
+  sea: number
+  /** RICS default road distance for nationally manufactured products; other categories come from `TRANSPORT_DEFAULTS`. */
   newKm: number
   listingKm: number
   hubAllowanceKm: number
@@ -48,7 +53,8 @@ export type Assumptions = {
 
 export const DEFAULT_ASSUMPTIONS: Assumptions = {
   road: ROAD,
-  newKm: 120,
+  sea: SEA,
+  newKm: TRANSPORT_DEFAULTS.national.roadKm,
   listingKm: 50,
   hubAllowanceKm: 25,
   ndtFee: 25,
@@ -120,12 +126,14 @@ export function parameterRows(a: Assumptions = DEFAULT_ASSUMPTIONS): Parameter[]
     rows.push({ id: `${f.id}.capRatio`, group: g, label: 'Cap ratio', value: String(f.capRatio), unit: 'of new price', source: 'Sample data', status: 'placeholder' })
     rows.push({ id: `${f.id}.tick`, group: g, label: 'Price tick', value: String(f.tick), unit: 'pounds', source: 'Sample data', status: 'placeholder' })
     rows.push({ id: `${f.id}.recoveryPremium`, group: g, label: 'Recovery premium', value: String(f.recoveryPremium), unit: `pounds ${f.pricingUnitLabel}`, source: 'Sample data', status: 'placeholder' })
-    rows.push({ id: `${f.id}.massRule`, group: g, label: 'Mass rule', value: f.massRule, unit: '', source: 'Sample data', status: 'placeholder' })
+    rows.push({ id: `${f.id}.massRule`, group: g, label: 'Mass rule', value: f.massRule, unit: '', source: f.massRuleSource, status: f.massRuleStatus })
+    rows.push({ id: `${f.id}.newOrigin`, group: g, label: 'New product made', value: TRANSPORT_DEFAULTS[f.newOrigin].label.toLowerCase(), unit: '', source: `RICS default transport category (Table 17): ${f.newOriginNote}`, status: 'indicative' })
     rows.push({ id: `${f.id}.storage`, group: g, label: 'Storage', value: f.storage === 'covered_only' ? 'covered only' : 'open or covered', unit: '', source: 'Sample data', status: 'placeholder' })
   }
   const o = 'Other parameters'
   rows.push({ id: 'road', group: o, label: 'Road transport factor', value: '0.1065', unit: 'kgCO2e per tonne km', source: 'Published: UK government conversion factors 2020, as used in the IStructE embodied carbon guide', status: 'published' })
-  rows.push({ id: 'newKm', group: o, label: 'New product transport distance', value: String(a.newKm), unit: 'km', source: 'Published: RICS whole life carbon standard, 2nd edition, default for nationally manufactured products', status: 'published' })
+  rows.push({ id: 'sea', group: o, label: 'Sea transport factor', value: String(Number((a.sea * 1000).toFixed(4))), unit: 'kgCO2e per tonne km', source: 'Indicative: UK government conversion factors, average container ship, to confirm against the current year', status: 'indicative' })
+  rows.push({ id: 'newKm', group: o, label: 'New product transport distance', value: `${a.newKm} for nationally made products; the other RICS categories are listed under Transport`, unit: 'km', source: 'Published: RICS whole life carbon standard, 2nd edition, Table 17', status: 'published' })
   rows.push({ id: 'listingKm', group: o, label: 'Listing-level reuse distance', value: String(a.listingKm), unit: 'km', source: 'Placeholder', status: 'placeholder' })
   rows.push({ id: 'hubAllowanceKm', group: o, label: 'Hub inbound allowance', value: String(a.hubAllowanceKm), unit: 'km', source: 'Placeholder (a privacy device, see F2)', status: 'placeholder' })
   rows.push({ id: 'testing', group: o, label: 'Steel testing', value: `${a.ndtFee} per piece non-destructive, plus ${a.destructiveFee} per ${a.destructiveBatchT} t or part for destructive tests`, unit: 'pounds', source: 'Placeholder', status: 'placeholder' })
@@ -142,8 +150,8 @@ export function parameterRows(a: Assumptions = DEFAULT_ASSUMPTIONS): Parameter[]
   rows.push({ id: 'priorityWeights', group: o, label: 'Recovery plan weights', value: `${a.priorityWeights.netValue} net value, ${a.priorityWeights.carbon} carbon, ${a.priorityWeights.demand} demand, ${a.priorityWeights.ease} ease`, unit: '', source: 'Placeholder', status: 'placeholder' })
   rows.push({ id: 'negotiation', group: o, label: 'Negotiation', value: `Concession ${a.negotiation.concession} of the gap, at most ${a.negotiation.maxMoves} moves`, unit: '', source: 'Placeholder', status: 'placeholder' })
   rows.push({ id: 'disclosure', group: o, label: 'Disclosure score', value: 'Location region 5 or local authority 20. Timing three-month window 5 or month 15. Open lots 0 or 1 scores 0, 2 or 3 scores 10, 4 or more scores 20. Frame pattern 15. Public photo 10. Low below 25, Medium 25 to 39, High 40 or more.', unit: 'points', source: 'Placeholder', status: 'placeholder' })
-  rows.push({ id: 'diversionTarget', group: o, label: 'Diversion target', value: `${a.diversionTarget * 100}%`, unit: 'of demolition waste', source: 'Published: London Plan 2021 Policy SI 7', status: 'published' })
-  rows.push({ id: 'contentAim', group: o, label: 'Content by value aim', value: `${a.contentAim * 100}%`, unit: 'by value', source: 'Published: Circular Economy Statements guidance (2022), paragraph 4.7.6', status: 'published' })
+  rows.push({ id: 'diversionTarget', group: o, label: 'Reuse, recycling and recovery target', value: `${a.diversionTarget * 100}%`, unit: 'of construction and demolition waste, by weight', source: 'Published: London Plan 2021 Policy SI 7 A; excavation waste has its own 95% beneficial use target', status: 'published' })
+  rows.push({ id: 'contentAim', group: o, label: 'Content by value aim', value: `${a.contentAim * 100}%`, unit: 'recycled or reused, by value, whole building', source: 'Published: Circular Economy Statements guidance (2022), paragraph 4.7.6, with at least 80% of material cost covered. An aim in the guidance, not a policy target', status: 'published' })
   const s = 'Storage facilities'
   for (const f of FACILITIES) {
     rows.push({ id: `${f.id}.rates`, group: s, label: f.name, value: `Storage ${f.storageRate.toFixed(2)} per tonne per month, handling ${f.handlingRate} per tonne each way`, unit: 'pounds', source: `${f.type === 'open' ? 'Open' : 'Covered'}, ${f.region}. Placeholder`, status: 'placeholder' })

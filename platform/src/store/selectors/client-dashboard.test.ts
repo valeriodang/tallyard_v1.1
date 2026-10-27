@@ -27,8 +27,8 @@ describe("Isla's dashboard", () => {
 
   it('avoided carbon secured against the targets, and reuse by value', () => {
     const d = clientDashboard(fresh(), viewer(U.isla))!
-    closeTo(d.metrics.carbon.securedT, 47.7974, 4)
-    closeTo(d.metrics.carbon.approvedT, 100.8227, 4)
+    closeTo(d.metrics.carbon.securedT, 47.7199, 4)
+    closeTo(d.metrics.carbon.approvedT, 101.0247, 4)
     expect(d.metrics.carbon.targetT).toBe(150)
     expect(d.metrics.carbon.progress.status).toBe('below')
     closeTo(d.metrics.reuse.reuse!, 0.0236, 4)

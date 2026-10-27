@@ -67,7 +67,7 @@ describe('B15 and P1: privacy at data level', () => {
     expect(l.listedMonth).toBe('2026-10')
     expect(l.status).toBe('Available')
     expect(l.price).toEqual({ guide: 770, low: 715, high: 825, signal: 'high' })
-    closeTo(l.carbon!.avoidedT, 41.0037, 4)
+    closeTo(l.carbon!.avoidedT, 41.0859, 4)
     expect(l.photos).toEqual([])
   })
   it('B15.2 OS-11 and OS-17 projections', () => {

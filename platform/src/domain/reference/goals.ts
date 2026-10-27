@@ -46,14 +46,14 @@ export const GOAL_DEFS: GoalDef[] = [
   { id: 'reuse_by_value', label: 'Reused content by value', unitLabel: '% by value', unit: 'ratio', direction: 'at_least', measuredBy: 'tallyard', scale: null, scheme: 'circular' },
   { id: 'avoided_carbon', label: 'Upfront carbon avoided by reuse', unitLabel: 'tCO2e', unit: 'tCO2e', direction: 'at_least', measuredBy: 'tallyard', scale: null, scheme: null },
   { id: 'upfront_carbon', label: 'Upfront carbon, modules A1 to A5', unitLabel: 'kgCO2e per m2 GIA', unit: 'kgCO2e_m2', direction: 'at_most', measuredBy: 'consultant', scale: null, scheme: null },
-  { id: 'cd_diversion', label: 'Construction and demolition waste diverted from landfill', unitLabel: '% by mass', unit: 'ratio', direction: 'at_least', measuredBy: 'consultant', scale: null, scheme: 'circular' },
+  { id: 'cd_diversion', label: 'Construction and demolition waste reused, recycled or recovered', unitLabel: '% by weight', unit: 'ratio', direction: 'at_least', measuredBy: 'consultant', scale: null, scheme: 'circular' },
   { id: 'breeam', label: 'BREEAM rating', unitLabel: 'Rating', unit: 'rating', direction: 'at_least', measuredBy: 'consultant', scale: RATING_SCALES.breeam, scheme: 'breeam' },
   { id: 'leed', label: 'LEED certification', unitLabel: 'Level', unit: 'rating', direction: 'at_least', measuredBy: 'consultant', scale: RATING_SCALES.leed, scheme: 'leed' },
   { id: 'well', label: 'WELL certification', unitLabel: 'Level', unit: 'rating', direction: 'at_least', measuredBy: 'consultant', scale: RATING_SCALES.well, scheme: 'well' },
 ]
 
-const CES_BASIS = 'Circular Economy Statement guidance (2022), paragraph 4.7.6: aim of at least 20% reused or recycled content by value'
-const WLC_BASIS = 'GLA whole life-cycle carbon guidance (2022), benchmark for modules A1 to A5. Indicative summary, check the current guidance.'
+const CES_BASIS = 'Circular Economy Statement guidance (2022), paragraph 4.7.6: aim of at least 20% reused or recycled content by value, for the whole building'
+const WLC_BASIS = 'GLA whole life-cycle carbon guidance (2022), benchmark for modules A1 to A5. Indicative: that guidance is not in the reference folder, so check the current figures.'
 
 /** In order: for each goal the first entry whose requirement applies to the project gives the default. */
 export const GOAL_DEFAULTS: GoalDefault[] = [
@@ -61,7 +61,7 @@ export const GOAL_DEFAULTS: GoalDefault[] = [
   { goalId: 'content_by_value', requirementId: 'lp-si7', value: 0.2, byType: null, basis: CES_BASIS, status: 'published' },
   { goalId: 'upfront_carbon', requirementId: 'gla-wlc', value: null, byType: { office: 950, residential: 850 }, basis: WLC_BASIS, status: 'indicative' },
   { goalId: 'upfront_carbon', requirementId: 'lp-si2', value: null, byType: { office: 950, residential: 850 }, basis: WLC_BASIS, status: 'indicative' },
-  { goalId: 'cd_diversion', requirementId: 'lp-si7', value: 0.95, byType: null, basis: 'London Plan 2021 Policy SI 7: at least 95% diverted from landfill', status: 'published' },
+  { goalId: 'cd_diversion', requirementId: 'lp-si7', value: 0.95, byType: null, basis: 'London Plan 2021 Policy SI 7 A: at least 95% of construction and demolition waste reused, recycled or recovered, by weight', status: 'published' },
   {
     goalId: 'breeam',
     requirementId: 'breeam-nc',

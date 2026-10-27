@@ -48,7 +48,7 @@ describe('B7 schedule matching (F7), Merrowgate Wharf', () => {
     closeTo(r.baselineMassT, 47.0957, 4)
     closeTo(r.stockMassT, 51.295, 3)
     closeTo(r.offcutMassT, 3.29378, 5)
-    closeTo(r.avoidedT, 79.7105, 4)
+    closeTo(r.avoidedT, 79.8849, 4)
     expect(r.results.map((x) => x.ref)).toEqual(['R1', 'R2', 'R3', 'R4', 'R5', 'R6'])
     for (const ref of ['R1', 'R2', 'R3', 'R4', 'R6']) expect(r.results.find((x) => x.ref === ref)!.reason).toBeNull()
   })

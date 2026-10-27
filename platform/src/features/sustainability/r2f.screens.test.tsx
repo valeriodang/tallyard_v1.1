@@ -140,7 +140,7 @@ describe("the consultant's own pages (note 42)", () => {
     const card = byTestId(`consultant-project-${M}`)
     expect(card.textContent).toContain('Reused and recycled content by value')
     expect(card.textContent).toContain('Upfront carbon avoided by reuse')
-    expect(byTestId('metric-carbon').textContent).toContain('47.8')
+    expect(byTestId('metric-carbon').textContent).toContain('47.7')
     expectClean()
   })
 })

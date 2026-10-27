@@ -197,7 +197,7 @@ export const CREDITS: CreditDef[] = [
     id: 'ce-diversion',
     scheme: 'circular',
     code: 'Waste',
-    title: 'At least 95% of construction and demolition waste diverted from landfill',
+    title: 'At least 95% of construction and demolition waste reused, recycled or recovered',
     summary: 'Policy SI 7 sets the diversion target, reported in the recycling and waste reporting form. Indicative summary.',
     provides: "Nothing yet: from the contractor's waste reports",
     evidence: ['waste_reporting'],

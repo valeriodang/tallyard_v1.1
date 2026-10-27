@@ -261,3 +261,156 @@ Returning visitors (`feedback/r2f-upgrade.md`)
 - Sign-in after the update explains that earlier accounts need creating again, except for a likely typo, and sign-up starts with the typed email; open tabs offer Reload when a newer build is deployed.
 - A likely typo is an address one edit from a sample domain, or within two edits of an account; the sign-in hints stop 30 days after the browser found the update, and accounts made after it see no notice.
 - Help's checking change links to the Marketplace checking against the viewer's first project; `routeAccess` ignores a query string as it ignores a section.
+
+## 15. Round 3: the literature upgrade (from 27 October 2026)
+
+Source: the literature review in `../reports/Tallyard literature review.md` and its notes `../research_notes/Literature review/00` to `08`, plus the 14 documents added on 27 October 2026:
+- the GLA guidance on circular economy statements (2022), its 2020 draft and consultation report, the template and the monitoring report for 2023;
+- the London Plan 2021;
+- the City of London carbon options advice note (2023) and its sustainability planning document (2025);
+- the RICS whole life carbon standard, 2nd edition;
+- LEED v5 for interiors;
+- WELL v2.
+
+The user asked for every feature to rest on this literature, and for the tool to cover the whole circular economy process. This section is the spec for round 3. Where it and an earlier section differ, this section wins.
+
+Round 3 is a working name, used in documents and test logs. Screens say "Updated on" with a date, as round 2 did, because "Coming in version 2" already names the locked roadmap.
+
+### 15.1 Rules that carry over
+
+- Every figure keeps its Indicative marker.
+- Every new value has a Methodology row with its source and status (published, indicative, placeholder or candidate).
+- Real publications are named as sources; real firms never appear in the product (P5).
+- Values the folder does not hold stay placeholders, said so.
+- Changed assertions are logged in `feedback/r3-test-changes-*.md` with the reason. Decisions taken during the build go in `feedback/r3-decisions.md`.
+
+### 15.2 Knowledge base (stage 1)
+
+- **Carbon method.** It stays the comparison with buying new, modules A1 to A4, never a whole life carbon assessment. It now follows the RICS 2nd edition rules:
+  - **Reclaimed material** enters "with no impact from its previous use", so its A1 to A3 is its reprocessing only.
+  - **A4 for the new product** comes from the RICS default transport category of each family: local 50 km, regional 80, national 120, European 1,500 by road and 100 by sea, global 500 by road and 10,000 by sea.
+  - **Module D** is the donor's and is never added to a project's figures.
+- **Values corrected:**
+  - reclaimed steel 0.0466 tCO2e per tonne, from a published declaration;
+  - reclaimed brick 0.0027;
+  - raised floor panel 9.3 kg, from a London pre-demolition audit;
+  - curtain wall units transported as European facade modules, the RICS example.
+- **New reference tables,** each listed in Methodology:
+  - RICS: transport defaults, site waste rates, component lifespans, business-as-usual end of life, and the good and best practice scenarios;
+  - ICE V3 factors for common materials;
+  - Level(s) indicator 2.4 circularity coefficients;
+  - GLA benchmark quartiles (guidance Appendix 4 and the 2023 monitoring report);
+  - BREEAM Wst 01 and Home Quality Mark waste thresholds;
+  - City of London benchmarks and rules;
+  - LEED v5 interiors reuse and waste diversion points;
+  - WELL hazardous materials thresholds;
+  - indicative reuse target bands by building layer from the European reuse toolkit study.
+- **Target wording.**
+  - Construction and demolition waste: 95% reuse, recycling and recovery.
+  - Excavation waste: 95% beneficial use.
+  - Both by weight; neither is "diversion from landfill".
+  - The 20% recycled or reused content is a guidance aim for the whole building, measured by value, which needs at least 80% of material cost covered.
+- **Six new families:** natural slate, stone paving, carpet tiles, metal ceiling tiles, glulam beams and precast hollowcore planks. Each has a mass rule, factors, prices, storage, typology, geometry and an illustration. Values the folder lacks are placeholders.
+- **A new role: deconstruction contractor.**
+  - It has its own sign-in, home, guide and sample account.
+  - Stored organisation type `Dismantling contractor`. The older stored type `Deconstruction contractor` now reads "Surveying firm", and such firms can still be appointed contractor.
+
+### 15.3 Audits (stage 2)
+
+- **Pre-redevelopment audit** on a donor building:
+  - six factors on a three-point scale;
+  - retention scenarios;
+  - the GLA decision tree for existing buildings;
+  - the City of London carbon options table: % retained by mass and by area, upfront and whole life carbon per option, demolition at 50 kgCO2e/m2 by default, the retrofit test of at least 50% of superstructure by mass, and an independent reviewer.
+- **Pre-deconstruction audit:**
+  - Content:
+    - a desk study;
+    - a hazard screen by era and the WELL thresholds;
+    - three inventories (reuse, recycle, waste);
+    - extractability, quality and market value scored 0 to 4 per row;
+    - share reusable;
+    - avoided carbon;
+    - arisings by EWC code;
+    - reuse targets;
+    - a broker schedule, with Tallyard as the route.
+  - Validation against the GLA guidance: an audit that only lists waste routes is not suitable, and the auditor declares independence. In the City it also needs at least 5 catalogued items and condition bands 1 to 6.
+  - Export.
+  - "Create draft listings" turns audit rows into private inventory items.
+
+### 15.4 Contractor workspace (stage 3)
+
+- Deconstruction method and extractability per item.
+- A destination log with forecast against actual, carrier, licence, facility and waste transfer note reference.
+- The true cost of waste.
+- Title to arisings passing from the owner. A contractor that holds title lists and sells as seller, behind the same blind request rules.
+
+### 15.5 Grading, steel and provenance (stage 4)
+
+- **Grading per family.** Rubrics and reject criteria, hazard flags, yield and surplus, processing state, storage rules, and the raised floor acceptance rules.
+- **Steel assessment:**
+  - provenance P0 to P3 and assessment S0 to S4, mapped to the CEN technical specification protocols A to D;
+  - an admissibility screen;
+  - group sampling counts;
+  - EN 10204 3.1 certificate records;
+  - project limits (execution class, consequence class, fatigue, seismic);
+  - lead time by status in the fit check, for projects that set limits.
+  - The four test statuses stay as a summary.
+- **Listings** gain one public key, `quality`, built only from fixed values.
+- **Provenance pack:**
+  - a batch identity sheet, custody events and documents;
+  - the assurance tier by layer, and warranty or recertification;
+  - a printable tested-for-reuse label.
+  - It is released to the client organisation only, after the reservation is accepted.
+
+### 15.6 Recovery, stock and deals (stage 5)
+
+- **Recovery plan:**
+  - routes: retain, relocate, reuse on site, reuse off site, upcycle, recycle, downcycle, energy recovery and landfill;
+  - the Level(s) score;
+  - upcycle cascades;
+  - the gain over the RICS business-as-usual case.
+- **Design from stock for architects.** Match a steel schedule against public listings, allowing cut-to-length, offcuts, minimum lengths and the excess allowance. BIM matching stays locked.
+- **Deal models.**
+  - Models: client-driven, stockholder, hybrid and forward sale.
+  - Terms: deposit, storage payer, storage bridge up to 36 months, price lock, design-change clause, buy-back and guarantee.
+  - Every rate is a labelled placeholder.
+  - The seller sees banded terms only.
+  - Owners can hold a lot for their own projects first (portfolio-first).
+
+### 15.7 Specification, procurement and compliance (stage 6)
+
+- **Specification v2** in the European toolkit's specification structure:
+  - supply route, including free issue by the client;
+  - selection steps;
+  - surplus;
+  - new-product fallback.
+- **Client procurement pack:**
+  - a clause library;
+  - a route selector;
+  - a responsibility matrix;
+  - award criteria;
+  - Word and spreadsheet export.
+- **Consultant circular economy suite:**
+  - "Is a statement required?";
+  - the guidance's stage matrix (its Table 5);
+  - the decision trees for existing and new buildings;
+  - principles by layer;
+  - **bill of materials v2:**
+    - NRM categories and modules A to D;
+    - lifespans, replacements over 60 years and waste factors;
+    - end of life against the business-as-usual case;
+    - benchmarks;
+    - reused and recycled content, by mass and by value;
+  - recycling and waste reporting with benchmarks and a guard against counting crushed material as reuse;
+  - targets with pioneering flags;
+  - post-construction actuals, key achievements and lessons learnt, with their deadlines;
+  - an export in the GLA template's layout;
+  - statement v2;
+  - a quality check built from the GLA monitoring findings;
+  - a City of London module;
+  - waste engagements the consultant can create.
+- **Certification rebase:**
+  - BREEAM UK New Construction V6.1 numbering, with V7 to confirm;
+  - LEED v5 interiors MRc1 and MRc5 calculators;
+  - WELL X01 to X03.
+- **An indicators panel** for consultants, owners and clients.

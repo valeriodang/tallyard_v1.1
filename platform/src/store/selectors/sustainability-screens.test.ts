@@ -155,7 +155,7 @@ describe('approvals and reservations', () => {
     const strip = approvalsStrip(v)
     expect(strip.waiting).toEqual({ count: 1, sub: 'Indicative £11,926, saving £283 against new' })
     expect(strip.approved.count).toBe(2)
-    expect(strip.avoidedIfApprovedT).toBeCloseTo(20.7, 1)
+    expect(strip.avoidedIfApprovedT).toBeCloseTo(20.8, 1)
   })
 
   it('puts every package and its cost new on one scale with the same new as a tick', () => {
@@ -170,7 +170,7 @@ describe('approvals and reservations', () => {
     expect(c.bars[0].sub).toBe('None')
     expect(c.ticks.map((t) => t.label)).toEqual(['£0', '£25,000', '£50,000'])
     expect(c.total).toMatchObject({ valueText: '£50,872', count: 2 })
-    expect(reservationCarbonRows(v.summary).map((r) => r.carbonText)).toEqual(['0.0 tCO2e', '84.4 tCO2e', '16.4 tCO2e'])
+    expect(reservationCarbonRows(v.summary).map((r) => r.carbonText)).toEqual(['0.0 tCO2e', '84.6 tCO2e', '16.4 tCO2e'])
   })
 })
 

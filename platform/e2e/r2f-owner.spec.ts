@@ -92,8 +92,16 @@ test('a surveyor moves what she captured early into the building its owner then 
   expect(errors).toEqual([])
 })
 
+/** A preferred date two weeks ahead, so the request is never refused as past (round 3, baseline fix). */
+function preferredAhead(): { iso: string; text: string } {
+  const d = new Date(Date.now() + 14 * 86400000)
+  const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+  return { iso: d.toISOString().slice(0, 10), text: `${d.getUTCDate()} ${months[d.getUTCMonth()]} ${d.getUTCFullYear()}` }
+}
+
 test('both sides see what was asked of the testing company, and no owner is promised on an unlinked building', async ({ page }) => {
   const errors = watchErrors(page)
+  const preferred = preferredAhead()
   await signInWithCard(page, 'dana')
 
   // On Ambrey House nobody owns it yet: the dialog says nobody is told.
@@ -109,13 +117,13 @@ test('both sides see what was asked of the testing company, and no owner is prom
   await page.getByTestId('testing-item-TH-02').click()
   await page.getByTestId('testing-service-steel_hardness').click()
   await page.getByTestId('testing-company').getByText('Calverd Inspection').click()
-  await page.getByLabel('Preferred from').fill('2026-10-20')
+  await page.getByLabel('Preferred from').fill(preferred.iso)
   await page.getByLabel('Message').fill('Levels 3 and 4 only, please.')
   await page.getByTestId('testing-send').click()
   await expect(page.getByText('Request to Calverd Inspection recorded').first()).toBeVisible()
   const card = page.locator('[data-testid^="testing-tst_"]').first()
   await expect(card.getByTestId('testing-message')).toContainText('Levels 3 and 4 only, please.')
-  await expect(card.getByTestId('testing-preferred')).toContainText('Preferred from 20 October 2026')
+  await expect(card.getByTestId('testing-preferred')).toContainText(`Preferred from ${preferred.text}`)
   await card.getByTestId('testing-view').click()
   await expect(page.getByTestId('testing-sheet')).toContainText('Request to Calverd Inspection')
   await expect(page.getByTestId('testing-sheet-message')).toContainText('Levels 3 and 4 only, please.')

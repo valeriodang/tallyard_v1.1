@@ -6,6 +6,7 @@ import { orgTypeLabel, ROLE_LABELS, SAMPLE_ACCOUNTS, SAMPLE_PASSWORD } from '../
 import { parameterRows, type Parameter } from '../../domain/reference/assumptions'
 import { V1_PARAMETER_ROWS } from '../../domain/reference/v1assumptions'
 import { PROGRAMME_PARAMETER_ROWS } from '../../domain/engines/programme'
+import { r3ParameterRows } from '../../domain/reference/r3rows'
 import { requirementsMethodology, donorRequirementsMethodology } from '../../domain/reference/requirements'
 import { LABELS } from '../../domain/reference/labels'
 import { formatDate } from '../../domain/dates'
@@ -84,7 +85,7 @@ export type MethodologyGroup = { group: string; rows: Parameter[] }
 /** Every factor and price with its source and status, grouped as the Help page shows them. */
 export function methodologyView(): { groups: MethodologyGroup[]; indicative: string[]; references: ReturnType<typeof requirementsMethodology> } {
   const groups: MethodologyGroup[] = []
-  for (const r of [...parameterRows(), ...V1_PARAMETER_ROWS, ...PROGRAMME_PARAMETER_ROWS]) {
+  for (const r of [...parameterRows(), ...V1_PARAMETER_ROWS, ...PROGRAMME_PARAMETER_ROWS, ...r3ParameterRows()]) {
     if (r.id === 'negotiation') continue
     const g = groups.find((x) => x.group === r.group)
     if (g) g.rows.push(r)

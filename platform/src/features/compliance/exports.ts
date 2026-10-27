@@ -4,6 +4,7 @@ import type ExcelJS from 'exceljs'
 import { PRODUCT_NAME } from '../../domain/constants'
 import { DEFAULT_ASSUMPTIONS as A, parameterRows } from '../../domain/reference/assumptions'
 import { V1_PARAMETER_ROWS } from '../../domain/reference/v1assumptions'
+import { r3ParameterRows } from '../../domain/reference/r3rows'
 import { LABELS } from '../../domain/reference/labels'
 import { nowIso } from '../../sandbox/clock'
 import type { ComplianceWorkbook } from '../../store/selectors/compliance-workbook'
@@ -48,10 +49,11 @@ export function quote(sheet: string): string {
   return `'${sheet.replace(/'/g, "''")}'`
 }
 
-export function assumptionsSheet(wb: Workbook, caveatText: string): void {
+/** The City of London rows are listed only for a project in the City (`cityOfLondon`). */
+export function assumptionsSheet(wb: Workbook, caveatText: string, { cityOfLondon = false }: { cityOfLondon?: boolean } = {}): void {
   const ws = wb.addWorksheet('Assumptions')
   header(ws, ['Group', 'Parameter', 'Value', 'Unit', 'Source', 'Status'], [28, 36, 40, 22, 60, 12])
-  for (const p of [...parameterRows(A), ...V1_PARAMETER_ROWS]) ws.addRow([p.group, p.label, p.value, p.unit, p.source, p.status])
+  for (const p of [...parameterRows(A), ...V1_PARAMETER_ROWS, ...r3ParameterRows({ city: cityOfLondon })]) ws.addRow([p.group, p.label, p.value, p.unit, p.source, p.status])
   caveat(ws, caveatText)
 }
 

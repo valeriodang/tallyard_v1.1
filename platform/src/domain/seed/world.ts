@@ -3,6 +3,9 @@ import type { BillLine, InventoryItem, Lot, Org, Persona, Project, Requirement, 
 import type { Wishlist } from '../v1types'
 import { buildSnapshot, demandFromRequirements, type DemandLine } from './snapshot'
 import { itemMeasures } from '../engines/measures'
+import { carbonAvoided } from '../engines/carbon'
+import { FAMILIES } from '../reference/families'
+import { DEFAULT_ASSUMPTIONS } from '../reference/assumptions'
 
 export const SAMPLE_PHOTO_DATA_URI =
   'data:image/svg+xml;utf8,' +
@@ -241,9 +244,24 @@ export const BILL_LINE_NAMES: Record<string, string> = {
   bom12: 'Building services plant and distribution',
 }
 
+type SeededDealInput = Omit<SeededDeal, 'massT' | 'avoidedT' | 'avoidedPercent'> & { factorQty: number; reuseKm: number }
+
+/**
+ * A seeded deal's mass and carbon come from the family rules and the carbon engine, at the deal's confirmed distance
+ * (the hub allowance plus hub to site), so they follow any change to the factors (round 3; they were literals).
+ */
+function seededDeal(d: SeededDealInput): SeededDeal {
+  const f = FAMILIES[d.family]
+  const massT = f.arealDensityKgM2 !== null ? (d.factorQty * f.arealDensityKgM2) / 1000 : (d.quantityUnits * (f.unitMassKg ?? 0)) / 1000
+  const c = carbonAvoided({ family: d.family, sourceType: 'deconstruction', baselineQty: f.factorBasis === 't' ? massT : d.factorQty, baselineMassT: massT, reuseQty: f.factorBasis === 't' ? massT : d.factorQty, reuseMassT: massT, reuseKm: d.reuseKm }, DEFAULT_ASSUMPTIONS)
+  if (!c) throw new Error('A seeded deal always has a carbon result')
+  const { factorQty: _q, reuseKm: _k, ...rest } = d
+  return { ...rest, massT: Number(massT.toFixed(4)), avoidedT: c.avoided, avoidedPercent: c.percent }
+}
+
 const seededDeals: SeededDeal[] = [
-  { id: 'deal_seed_1', publicId: 'L-R8Q33F', family: 'stone_cladding', description: 'Portland stone cladding, 50 mm', quantityLabel: '520 m2', quantityUnits: 520, massT: 57.2, agreedPricePerUnit: 175, materialGbp: 91000, hubId: 'HUB-BARK', confirmedOn: '2026-09-14', avoidedT: 4.4974, avoidedPercent: 0.847 },
-  { id: 'deal_seed_2', publicId: 'L-5APGJ7', family: 'raised_floor', description: 'Raised access floor panels, 600 by 600', quantityLabel: '3,800 panels (1,368 m2)', quantityUnits: 3800, massT: 45.6, agreedPricePerUnit: 3.7, materialGbp: 14060, hubId: 'HUB-PARK', confirmedOn: '2026-09-21', avoidedT: 43.3, avoidedPercent: 0.783 },
+  seededDeal({ id: 'deal_seed_1', publicId: 'L-R8Q33F', family: 'stone_cladding', description: 'Portland stone cladding, 50 mm', quantityLabel: '520 m2', quantityUnits: 520, factorQty: 520, agreedPricePerUnit: 175, materialGbp: 91000, hubId: 'HUB-BARK', confirmedOn: '2026-09-14', reuseKm: 39 }),
+  seededDeal({ id: 'deal_seed_2', publicId: 'L-5APGJ7', family: 'raised_floor', description: 'Raised access floor panels, 600 by 600', quantityLabel: '3,800 panels (1,368 m2)', quantityUnits: 3800, factorQty: 1368, agreedPricePerUnit: 3.7, materialGbp: 14060, hubId: 'HUB-PARK', confirmedOn: '2026-09-21', reuseKm: 49 }),
 ]
 
 const merrowgate: Project = {

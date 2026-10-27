@@ -192,7 +192,7 @@ describe('the landing page', () => {
     expect(row.querySelector('img, svg')).toBeNull()
     expect(byTestId('product-shot-greeting').textContent).toBe('Good morning, Priya')
     expect(byTestId('product-shot-shortlisted').textContent).toContain('7')
-    expect(byTestId('product-shot-carbon').textContent).toContain('100.8')
+    expect(byTestId('product-shot-carbon').textContent).toContain('101.0')
     expect(byTestId('product-shot').textContent).toContain('Thursday 8 October 2026')
     expect(allText()).not.toMatch(FORBIDDEN)
   })

@@ -16,8 +16,8 @@ describe('goals and targets on Merrowgate Wharf', () => {
     expect(row('content_by_value')).toMatchObject({ targetText: '25%', source: 'override', actualText: '19.9%', statusText: 'Below target', tone: 'warning', canEdit: true, canEnterActual: false, defaultText: '20% from Circular Economy Statements guidance', overriddenText: 'Set by Marcus Lindqvist on 29 Aug 2026', overrideNote: 'Set at inception with the client.' })
     expect(row('content_by_value').progress.status).toBe('below')
     closeTo(row('content_by_value').share, 0.7964, 4)
-    expect(row('avoided_carbon')).toMatchObject({ targetText: '150.0 tCO2e', actualText: '47.8 tCO2e', actualNote: 'Secured, worked out by Tallyard', indicative: true })
-    closeTo(row('avoided_carbon').share, 0.3186, 4)
+    expect(row('avoided_carbon')).toMatchObject({ targetText: '150.0 tCO2e', actualText: '47.7 tCO2e', actualNote: 'Secured, worked out by Tallyard', indicative: true })
+    closeTo(row('avoided_carbon').share, 0.3181, 4)
     expect(row('upfront_carbon')).toMatchObject({ target: 950, source: 'default', actual: 820, statusText: 'Target met', defaultStatus: 'indicative', actualNote: '20 Sep 2026, Stage 2 life cycle assessment', canEnterActual: true })
     expect(row('upfront_carbon').progress).toEqual({ status: 'met', share: 1 })
     expect(row('breeam')).toMatchObject({ target: 'Excellent', actual: 'Very good', statusText: 'Below target' })
@@ -103,8 +103,8 @@ describe('the circular economy statement', () => {
     for (const p of ['19.9%', '20.3%', '17.6%', '25%']) expect(content).toContain(p)
     for (const p of ['19.91%', '20.29%', '17.62%']) expect(content).not.toContain(p)
     const carbon = v.sections.find((x) => x.id === 'carbon')!.text
-    expect(carbon).toContain('47.8 tCO2e')
-    expect(carbon).toContain('148.6 tCO2e')
+    expect(carbon).toContain('47.7 tCO2e')
+    expect(carbon).toContain('148.7 tCO2e')
     // Round 2 follow-up (audit note 44): the materials are grouped by status and family, without listing codes.
     expect(v.sections.find((x) => x.id === 'reuse')!.text.split('\n')[1]).toBe('Secured through earlier deals or accepted reservations:')
     expect(v.sections.find((x) => x.id === 'reuse')!.text).not.toContain('L-R8Q33F')
@@ -148,7 +148,7 @@ describe('requirements', () => {
       ['Marcus Lindqvist', 'Circular economy statement', `/app/projects/${M}/sustainability#statement`, false],
     ])
     expect(si7.heldInTallyard).toEqual([
-      { label: 'Construction and demolition waste diverted from landfill', value: 'No result yet of 95%', href: `/app/projects/${M}/sustainability` },
+      { label: 'Construction and demolition waste reused, recycled or recovered', value: 'No result yet of 95%', href: `/app/projects/${M}/sustainability` },
       { label: 'Circular economy statement', value: 'Ready for your review', href: `/app/projects/${M}/sustainability#statement` },
     ])
     expect(isla.rows.find((r) => r.id === 'la-newham')!.scopeLabel).toBe('Newham')
@@ -170,7 +170,7 @@ describe('the Sustainability tab', () => {
     expect(v.links).toEqual({ targets: null, certification: null, statement: null, requirements: `/app/projects/${M}/requirements` })
     expect(v.requirements).toMatchObject({ atRisk: 1, total: 10 })
     expect(v.requirements.atRiskItems.map((x) => x.id)).toEqual(['breeam-nc'])
-    closeTo(v.metrics.avoidedSecuredT, 47.7974, 4)
+    closeTo(v.metrics.avoidedSecuredT, 47.7199, 4)
     expect(v.goals.map((g) => g.id)).toEqual(['content_by_value', 'reuse_by_value', 'avoided_carbon', 'upfront_carbon', 'cd_diversion', 'breeam', 'well'])
     expect(v.carbon.header.id).toBe(M)
   })
@@ -202,7 +202,7 @@ describe('approvals and reservations carry costs and carbon for the client', () 
     expect(a.waiting.map((r) => r.cost.savingText)).toEqual(['Saving £283.18 (2.3%)'])
     expect(a.finance.waiting).toMatchObject({ count: 1, total: 11926.22, costNew: 12209.4, saving: 283.18 })
     expect(a.finance.approved).toMatchObject({ count: 2, total: 50871.69, costNew: 59396.4, saving: 8524.71 })
-    closeTo(a.finance.waiting.avoidedT, 20.7249, 4)
+    closeTo(a.finance.waiting.avoidedT, 20.7664, 4)
     expect(a.caveat).toMatch(/^Indicative\./)
   })
 
@@ -212,9 +212,9 @@ describe('approvals and reservations carry costs and carbon for the client', () 
     expect(r.summary.cost.to_request).toMatchObject({ count: 1, total: 9481.1, costNew: 9662.4 })
     expect(r.summary.cost.reserved.count).toBe(0)
     expect(r.summary.total).toMatchObject({ count: 2, total: 50871.69 })
-    closeTo(r.summary.securedProjectT, 47.7974, 4)
+    closeTo(r.summary.securedProjectT, 47.7199, 4)
     expect(r.summary.carbonGoal).toMatchObject({ id: 'avoided_carbon', target: 150 })
-    expect(r.rows.map((x) => x.carbon.percentText)).toEqual(['96.8% less than new', '96.8% less than new'])
+    expect(r.rows.map((x) => x.carbon.percentText)).toEqual(['97.0% less than new', '97.0% less than new'])
   })
 })
 

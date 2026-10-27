@@ -60,9 +60,9 @@ describe('the consultant home reads the goal rows (note 43)', () => {
     expect(merrow.content.label).toBe(goalDef('content_by_value').label)
     expect(merrow.content.label).toBe('Reused and recycled content by value')
     expect(merrow.carbon.label).toBe(goalDef('avoided_carbon').label)
-    expect(merrow.carbon.actualText).toBe('47.8 tCO2e')
-    expect(d.metrics.carbonValueText).toBe('47.8')
-    expect(d.metrics.carbonApprovedT).toBeCloseTo(100.8227, 3)
+    expect(merrow.carbon.actualText).toBe('47.7 tCO2e')
+    expect(d.metrics.carbonValueText).toBe('47.7')
+    expect(d.metrics.carbonApprovedT).toBeCloseTo(101.0247, 3)
   })
 
   it('follows an override of avoided carbon to 80 tCO2e with the same status as the Goals and targets tab', () => {

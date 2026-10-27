@@ -102,7 +102,7 @@ describe('client home', () => {
     await page('/app/home', U.isla, 'client-home')
     for (const id of ['client-metric-cost', 'client-metric-saving', 'client-metric-carbon', 'client-metric-reuse']) expect(q(id), id).not.toBeNull()
     expect(byTestId('client-metric-cost').textContent).toContain('£155,932')
-    expect(byTestId('client-metric-carbon').textContent).toContain('47.8')
+    expect(byTestId('client-metric-carbon').textContent).toContain('47.7')
     expect(byTestId('client-metric-cost').textContent).toContain('Indicative')
     expect(document.querySelectorAll('[data-testid^="portfolio-row-"]')).toHaveLength(2)
     expect(q(`portfolio-row-${K}`)).not.toBeNull()

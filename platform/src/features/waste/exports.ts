@@ -60,7 +60,7 @@ export async function buildWasteWorkbook(v: WasteView): Promise<ArrayBuffer> {
     const r = v.rates
     line('Demolition waste counted, non-hazardous (t)', formula(`${rep}!B${demolitionRow}`, r.totalNonHaz), FMT.mass1)
     line('Diversion from landfill', formula(`1-${rep}!H${demolitionRow}`, r.diversionRate), FMT.percent2)
-    line('Aim', `${aimLabel(v.diversionTarget)} of demolition waste diverted from landfill (London Plan 2021 Policy SI 7)`)
+    line('Aim', `${aimLabel(v.diversionTarget)} of construction and demolition waste reused, recycled or recovered, by weight (London Plan 2021 Policy SI 7 A)`)
     line('Reuse rate', formula(`${rep}!D${demolitionRow}+${rep}!E${demolitionRow}`, r.reuseRate), FMT.percent2)
     line('Components reused off site (t)', formula(`${rep}!B${helperFirst + 1}`, r.byDestination.reused_off_site), FMT.mass1)
     line('Recycled on site (t)', formula(`${rep}!B${helperFirst + 2}`, r.byDestination.recycled_on_site), FMT.mass1)

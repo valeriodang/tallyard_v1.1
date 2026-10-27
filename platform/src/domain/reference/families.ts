@@ -1,5 +1,6 @@
 // Material families and parameters (06-DATA.md section A2).
 import type { FamilyId, FactorStatus, Spec, StorageNeed } from '../types'
+import type { TransportCategory } from './rics'
 
 export type Family = {
   id: FamilyId
@@ -9,6 +10,12 @@ export type Family = {
   unitPlural: string
   pricingUnitLabel: string
   massRule: string
+  /** Where the mass rule comes from, shown in Methodology. */
+  massRuleSource: string
+  massRuleStatus: FactorStatus
+  /** Where new product of this family is usually made, for the RICS default transport distance (Table 17). */
+  newOrigin: TransportCategory
+  newOriginNote: string
   factorNew: number
   factorReuse: number
   factorBasis: 't' | 'm2'
@@ -38,13 +45,17 @@ export const FAMILIES: Record<FamilyId, Family> = {
     unitPlural: 'tonnes',
     pricingUnitLabel: 'per tonne',
     massRule: 'pieces x length x kg per metre',
+    massRuleSource: 'Published: section tables, mass per metre times length',
+    massRuleStatus: 'published',
+    newOrigin: 'national',
+    newOriginNote: 'RICS example for nationally manufactured: structural steelwork',
     factorNew: 1.74,
-    factorReuse: 0.05,
+    factorReuse: 0.0466,
     factorBasis: 't',
-    factorNewSource: 'Published: UK average for new structural sections',
+    factorNewSource: 'Published: UK average for new structural sections, modules A1 to A3, the blended market rate the RICS standard cites (ICE V3 gives 1.55 for sections)',
     factorNewStatus: 'published',
-    factorReuseSource: 'Indicative: rounded up from published declarations for reclaimed steel (about 0.045 to 0.047 for modules A1 to A3)',
-    factorReuseStatus: 'indicative',
+    factorReuseSource: 'Published: a declaration for reclaimed structural sections, modules A1 to A3 (25.5, 13.4 and 7.7 kgCO2e per tonne). Reprocessing only, under the RICS rule for reused material',
+    factorReuseStatus: 'published',
     newPrice: 1000,
     baseReuseRatio: 0.8,
     scrapValue: 220,
@@ -65,6 +76,10 @@ export const FAMILIES: Record<FamilyId, Family> = {
     unitPlural: 'm2',
     pricingUnitLabel: 'per m2',
     massRule: '55 kg per m2',
+    massRuleSource: 'Sample data',
+    massRuleStatus: 'placeholder',
+    newOrigin: 'european',
+    newOriginNote: 'RICS example for European manufactured: facade modules',
     factorNew: 200,
     factorReuse: 15,
     factorBasis: 'm2',
@@ -92,6 +107,10 @@ export const FAMILIES: Record<FamilyId, Family> = {
     unitPlural: 'm2',
     pricingUnitLabel: 'per m2',
     massRule: '360 kg per m2',
+    massRuleSource: 'Sample data: 150 mm at 2,400 kg per m3, which the reuse toolkit study confirms',
+    massRuleStatus: 'indicative',
+    newOrigin: 'national',
+    newOriginNote: 'RICS example for nationally manufactured: precast concrete',
     factorNew: 0.178,
     factorReuse: 0.01,
     factorBasis: 't',
@@ -119,6 +138,10 @@ export const FAMILIES: Record<FamilyId, Family> = {
     unitPlural: 'm2',
     pricingUnitLabel: 'per m2',
     massRule: '110 kg per m2',
+    massRuleSource: 'Sample data: about 40 mm of limestone (the reuse toolkit gives 52 kg per m2 at 20 mm)',
+    massRuleStatus: 'indicative',
+    newOrigin: 'national',
+    newOriginNote: 'UK quarried stone such as Portland; RICS treats specialist imported stone as global',
     factorNew: 0.08,
     factorReuse: 0.01,
     factorBasis: 't',
@@ -146,13 +169,17 @@ export const FAMILIES: Record<FamilyId, Family> = {
     unitPlural: 'bricks',
     pricingUnitLabel: 'per brick',
     massRule: '2.3 kg each',
+    massRuleSource: 'Sample data',
+    massRuleStatus: 'placeholder',
+    newOrigin: 'national',
+    newOriginNote: 'UK made bricks',
     factorNew: 0.213,
-    factorReuse: 0.005,
+    factorReuse: 0.0027,
     factorBasis: 't',
     factorNewSource: 'Published: ICE database V3, clay brick',
     factorNewStatus: 'published',
-    factorReuseSource: 'Placeholder',
-    factorReuseStatus: 'placeholder',
+    factorReuseSource: 'Published: a declaration for reclaimed clay bricks, cleaning and sorting only',
+    factorReuseStatus: 'published',
     newPrice: 0.85,
     baseReuseRatio: 1.4,
     scrapValue: 0,
@@ -172,7 +199,11 @@ export const FAMILIES: Record<FamilyId, Family> = {
     unit: 'panel',
     unitPlural: 'panels',
     pricingUnitLabel: 'per panel',
-    massRule: '12 kg and 0.36 m2 each',
+    massRule: '9.3 kg and 0.36 m2 each',
+    massRuleSource: 'Indicative: a London pre-demolition audit gives 320.5 t over 34,572 panels, about 9.3 kg each (steel skin, chipboard core)',
+    massRuleStatus: 'indicative',
+    newOrigin: 'national',
+    newOriginNote: 'UK made or recertified panels',
     factorNew: 40,
     factorReuse: 8.6,
     factorBasis: 'm2',
@@ -188,7 +219,7 @@ export const FAMILIES: Record<FamilyId, Family> = {
     recoveryPremium: 1.2,
     storage: 'covered_only',
     arealDensityKgM2: null,
-    unitMassKg: 12,
+    unitMassKg: 9.3,
     densityKgM3: null,
     countable: true,
   },
@@ -200,6 +231,10 @@ export const FAMILIES: Record<FamilyId, Family> = {
     unitPlural: 'm3',
     pricingUnitLabel: 'per m3',
     massRule: '500 kg per m3',
+    massRuleSource: 'Sample data',
+    massRuleStatus: 'placeholder',
+    newOrigin: 'national',
+    newOriginNote: 'RICS example for nationally manufactured: structural timber',
     factorNew: 0.263,
     factorReuse: 0.02,
     factorBasis: 't',

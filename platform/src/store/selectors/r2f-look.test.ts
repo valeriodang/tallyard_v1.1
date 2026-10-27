@@ -154,7 +154,7 @@ describe('the landing page', () => {
     expect(d.projects.map((p) => p.sketch)).toEqual(h.projects.map((p) => p.sketch))
     expect(d.stats.shortlisted).toBe(7)
     expect(d.metrics.byStatus).toMatchObject({ pending: 3, sent: 2, approved: 2 })
-    expect(d.metrics.carbon.approvedT.toFixed(1)).toBe('100.8')
+    expect(d.metrics.carbon.approvedT.toFixed(1)).toBe('101.0')
     expect(d.metrics.waiting.count).toBe(2)
     expect(d.navProjects).toEqual(['Ferrymoor Yard', 'Merrowgate Wharf', 'Sallow Court'])
     // The greeting follows the hour, as the app's does.
