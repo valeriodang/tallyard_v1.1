@@ -1,0 +1,1512 @@
+﻿BUILDING CONFIDENCE
+A DEEP-DIVE INTO RISKS OF USING SECONDARY 
+CONSTRUCTION PRODUCTS AND THE POTENTIAL ROLE 
+OF INSURANCE FOR REUSE.
+Lead by:
+
+CBC Collaboration partners:
+
+Supported by: Powered by:
+
+June 2025
+
+
+
+The Circular Buildings Coalition is an initiative 
+by Metabolic, Circle Economy, World Business 
+Council for Sustainable Development, World 
+Green Building Council, Ellen McArthur 
+Foundation and Arup to accelerate the 
+transition to a circular economy in the Built 
+Environment. The coalition is managed by 
+Smith innovation.
+
+Learn more here: 
+
+www.circularbuildingscoalition.org
+
+Supported by:
+
+Laudes Foundation
+
+2
+
+
+
+A B O U T  U S
+
+The Circular Buildings Coalition (CBC) is an initiative 
+by World Green Building Council (WorldGBC), 
+Metabolic, Circle Economy Foundation, World 
+Business Council for Sustainable Development 
+(WBCSD), Ellen MacArthur Foundation and Arup to 
+accelerate the transition to a circular economy in 
+the European Built Environment. Supported by Smith 
+Innovation and Laudes Foundation, we bring together 
+stakeholders from the built environment to overcome 
+barriers and embrace sustainable practices. 
+
+In our first report ‘Towards a Circular Economy in the 
+Built Environment - Overcoming market, finance and 
+ownership challenges’ we explored the four top-level 
+strategies to achieve circular built environments: 
+firstly build nothing, avoiding the intensive material 
+use associated with constructing a new building. 
+Secondly, maintain buildings and build for long-
+term value as 85-95% of the existing stock will 
+still be in use in Europe in 2050. Thirdly, build more 
+efficiently and finally build with the right materials, 
+which includes creating simple designs that consider 
+the actual need for components and materials, 
+reducing the use of virgin materials and high- 
+intensive carbon materials while prioritising the use 
+of re-used, recycled and renewable materials.
+
+In our second report ‘Four circular building pathways 
+towards 2050’ we estimated the contribution 
+of these strategies and showed how a circular 
+building scenario combined with decarbonisation 
+has the potential to reduce the construction 
+sector’s CO2e emissions by 4.15 Gt and keep the 
+2C global warming scenario within reach. This 
+‘Circular Building Scenario’ was modelled based 
+on assumptions on the rate of adoption of certain 
+key technologies as well as building practices, and 
+strikes a balance between ambition and feasibility, 
+ensuring that the envisioned outcomes are both 
+aspirational and attainable. The model recognised 
+strategies around the decarbonisation and recycling 
+on concrete within those with highest impact. 
+
+This deep dive seeks to explore the risks of using 
+secondary construction products and the potential 
+role of insurance for reuse.
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 3
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+AC N KOW L E D G E M E N T S
+
+AUTHORS AND CONTRIBUTERS PROJECT LEAD
+Ivan Thung, Structural Collective
+
+Stijn Louca, Structural Collective
+
+Dafni Vlachou, Metabolic
+
+Farai Moyo, Metabolic Institute More info? Get in touch with 
+ivanthung@structuralcollective.nl, or  
+
+Sunny Chen, Metabolic info@circularbuildingscoalition.org
+
+REVIEWERS
+This work has been generously supported 
+
+Thomas Rieff, Structural Collective by the Laudes Foundation. 
+Harmen Heida, Structural Collective
+
+Job Salm, Structural Collective
+
+CONSULTED
+Anne-Sophie Duret, AXA
+
+Jan Rohde, Greendozer
+
+Bas Slagers, Repurpose
+
+Dominik Campanella, Concular
+
+Lenard Dacosta Kurek, Concular
+
+4
+
+
+
+E X E C U T I V E  S U M M A RY
+
+Using secondary construction •	 Supply Chain Reliability: Ensuring 
+products is still seen by some the timely availability of specified 
+mainstream construction stakeholders reused materials.
+as risky as compared to virgin 
+materials. Standard building insurance In response, pioneering companies 
+and liability policies were designed for have found practical ways to 
+new materials, creating ambiguity—or incorporate risk mitigation in their 
+at least a perceived coverage gap—for business models, utilizing strategies 
+reclaimed components. This deters like design conservatism (over-
+risk-averse stakeholders, despite the engineering), cascading use 
+significant potential benefits: reusing (downcycling), demanding extensive 
+construction materials in Europe could data, specific contractual models 
+cut CO2 emissions by an estimated (e.g., Design, Build, Maintain, Operate 
+4.4–12.6 Mt cumulatively between (DBMO)), or relying on highly integrated 
+2025-2050.1 Furthermore, upcoming suppliers who control the chain from 
+EU regulations (e.g., EU Taxonomy sourcing to installation. Pioneering 
+criteria for reuse/recycled content) providers (e.g., Cycle Up, Concular) 
+and city-level initiatives (e.g., Whole are actively addressing risk by offering 
+Life Carbon thresholds) are set to reconditioning services, detailed 
+increase demand, making the need documentation, and partnering with 
+for clear risk management pathways insurers (e.g., SMABTP, VHV, WTW) 
+urgent. Our research confirms that to provide extended guarantees or 
+the ‘insurance issue’ encapsulates product liability insurance, proving 
+broader concerns across the value that insurable solutions are possible 
+chain regarding: but not yet standard.
+
+Yet, mainstream construction 
+•	 Performance and failure: Assessing stakeholders continue to demand 
+
+the remaining lifespan and quality clarity about the role of the main 
+of secondary materials, and risk-mitigating measures they are 
+assigning liability for defects or familiar with and which are integrated 
+underperformance. with their regular business practice: 
+
+•	 Project risks: Managing potential insurance. This suggests that there 
+
+delays and cost overruns is potentially still an important role 
+
+associated with deconstruction, to play for insurance companies to 
+
+reconditioning, or sourcing alleviate real or perceived risks to 
+
+secondary materials. mainstream the use of secondary 
+construction products as the market 
+
+•	 Damage and liability: Determining is poised to scale and business cases 
+responsibility for damage during emerge.
+removal, transit, or reinstallation.
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 5
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+E X E C U T I V E  S U M M A RY
+Continued...
+
+THE LIMITATIONS OF THE PATH FORWARD: A 
+EXISTING INSURANCE AND COLLABORATIVE APPROACH
+UNDERWRITING HURDLES
+
+Addressing the insurance barrier 
+Applying the standard insurance toolkit requires collaborative action. Insurers 
+(Property Insurance, Construction All are positioned not just to react but to 
+Risk, Professional Liability, Delay in Start- proactively participate in shaping the 
+Up) to secondary materials reveals market by engaging in standardization 
+significant friction. Ambiguities arise and evaluating how to adapt existing 
+concerning valuation, repair complexity, products. We identify the following crucial 
+warranty equivalence, liability allocation interventions:
+(material vs. installation defects), and 
+
+A.	 Clarify existing policy application: 
+the implications of non-disclosure. It 
+
+Insurers should work towards providing 
+is currently assumed and sometimes 
+
+clear guidance or endorsements on 
+confirmed that insurance demands costly 
+
+how standard policies cover projects 
+proof of ‘risk-parity’ with new materials or 
+
+incorporating secondary materials, 
+charge higher premiums due to perceived 
+
+reducing ambiguity for stakeholders.
+uncertainty. Finally, key underwriting 
+challenges include: B.	 Champion and support 
+
+standardization: The insurance 
+•	 Lack of standardized, cost-effective industry should actively support and 
+
+methods for assessing residual potentially require industry-wide 
+performance, especially for structural standards and process certifications 
+elements. (like the ‘Safety in Circularity’ 
+
+attestation) that verify the quality 
+•	 Insufficient transparency and of deconstruction, reconditioning, 
+
+standardization in deconstruction, and handling, thereby building 
+handling, and storage processes. trust and providing reliable data for 
+
+•	 Absence of historical claims data for underwriting.
+reused materials. C.	 Develop innovative underwriting 
+
+Despite challenges, the market potential and products: Leverage emerging 
+is substantial. Focusing on easily reusable data (from pilot projects, material 
+materials (bricks, insulation, doors, passports, initiatives like Concular’s 
+railings, sanitary ceramics), we estimate RCMI) and risk differentiation based 
+a potential cumulative EU market size of on component function (Structure, 
+€12–€26 billion between 2025 and 2035, Skin, Space Plan) to develop tailored, 
+driven by increasing regulatory pressure scalable insurance solutions, 
+and rising carbon costs  potentially as add-ons to existing 
+(e.g., ETS). policies.
+
+6
+
+
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 7
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+I N T R O D U CT I O N
+
+Insurance for secondary building materials Talking to various stakeholders (see box: on method) 
+has in many publications been identified as a in the construction process, we find that the ‘issue 
+significant barrier to their widespread adoption in of insurance’ speaks to the broader question of risks 
+the construction industry.234 The main idea is that and responsibility when using secondary products, 
+building insurance and product liability policies for example:
+typically only cover new materials, creating a 
+coverage gap - or at least ambiguity about •	 Risk of underperformance or failure: how is the 
+coverage - for reclaimed materials, leading risk- remaining performance and expected lifespan of 
+adverse stakeholders to forego their use. Yet the secondary materials or components evaluated 
+potential is substantial: our earlier Circular Building and who is responsible for damages when they 
+Coalition (CBC) study estimated that the re-use of occur?11 As there can be high variability in the 
+construction materials in Europe could lead to a quality secondary materials, who is responsible for 
+4.4 - 12.6 Mt CO2 equivalent reduction cumulatively defects discovered after installation?
+between 2025-2050 – an impact comparable to the 
+total annual greenhouse gas emissions of about 2 •	 Risk of delays and cost overruns: when 
+million average European residents.5 Furthermore, deconstruction, reconditioning, or re-engineering 
+upcoming EU and national regulations are likely to takes more time and incurs higher costs, who 
+increase demand for these materials (see chapter pays for the delay? And if additional assessments 
+‘The potential market is likely to grow’). or surveys are needed to enable reuse, who is 
+
+responsible for covering the associated costs?
+The barrier that insurability poses to buildings 
+constructed with secondary construction has •	 Risk of damage and liability: How is damage 
+come to the forefront in publications put out by during removal or reinstallation managed? Who is 
+organisations such as construction small and liable if an item is damaged in transit?
+medium enterprises (SME’s),6 Green Building •	 Supply chain risk: How can project managers be 
+Councils,7 and from CBC’s own stakeholder outreach.8 confident that reused or second-life materials 
+Yet, the issue has remained relatively off the radar will be available when contractors begin 
+in the insurance sector itself. One commonly cited procurement?12
+
+reason is that secondary products are still not 
+widely used, which reduces the perceived urgency A plethora of insurance products have historically 
+for insurers to develop tailored policies,9 and that in developed in the construction sector to cover 
+any case secondary products need to comply with different such risks attuned to the use of new 
+the same national regulations as new construction construction products in new builds. (see table 
+products.10 Yet this overlooks how the limited uptake ‘Challenges Applying Standard Insurance to 
+may itself reflect the absence of clear insurance Secondary Materials’ in chapter ‘What is the Potential 
+pathways. Rather than a simple lack of demand, Role of the Existing Insurance Toolkit ’). Indeed, 
+the issue points to broader questions of market insurance products emerge where there is a desire 
+readiness, including the maturity of certification, to cover risk and a business case for insurers for 
+liability, and industry norms. doing so. At the same time, a gap in deliberate 
+
+attention and investment to the issue may continue 
+to suppress demand and as such make the business 
+case less obvious. We estimate that as drivers 
+for circularity intensify, the potential market for 
+secondary materials will grow, making the need to 
+address the insurance barriers both business sense 
+and urgent for the planet.
+
+8
+
+
+
+IN SCOPE
+
+We include key 
+materials that are 
+suitable for re-use 
+from demolition
+
+OUT OF SCOPE
+
+Finally, insurance may be a leverage point in 
+the transition towards a circular economy in the 
+built environment. In the hierarchy of circular On method
+strategies – from avoiding new construction We relied on a combination of literature review, 
+altogether, to reusing components, down to consultations with some of our project partners, 
+recycling materials into new forms – clarifying and stakeholder interviews. Interparticular, we 
+the insurance situation directly addresses interviewed 12 stakeholders, some specifically 
+a critical loop: the direct reuse of materials for this project (see section “consulted”, and 
+and components. This makes insurance an others in the context of some of our ongoing 
+important leverage point for accelerating the work. For the data, we relied on our own data 
+transition. Resolving the ambiguities around analyses for the projected demand based 
+covering risks of using secondary materials on previous work for the Circular Buildings 
+could remove a significant barrier, encouraging Coalition, and desk research to determine 
+higher-value retention within the built reference prices.
+environment system.
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 9
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+OUTFLOW FROM
+RENOVATIONS
+
+EXTERIOR CLADDINGS
+
+FLOORS BRICKS
+
+CEILINGS INTERIOR DOORS
+
+INTERIOR WALLS RAILINGS (STAIRS)
+
+ROOF TILING SANITARY CERAMICS
+
+
+
+T H E  P OT E N T I A L  M A R K E T  FO R  S E C O N DA RY 
+C O N S T R U CT I O N  P R O D U CT S  I S  L I K E LY  TO  G R OW 
+
+Although the market for secondary construction like France already implementing such CO2-limits 
+products is currently still relatively small, many based on the directive’s requirements. A significant 
+countries and cities are pursuing ambitions to advantage for circularity within these regulatory 
+transition toward a more circular economy. This frameworks is that reclaimed materials are often 
+shift is supported by both national and EU-level counted as having lower embodied carbon (in some 
+legislation. As a result, several important drivers cases zero, in the Netherlands a 20% reduction on 
+are emerging that could accelerate the uptake of key LCA fases14), making their use a highly effective 
+secondary materials—creating a corresponding strategy for developers to achieve these increasingly 
+need for updated processes and instruments to stringent CO2 targets.
+manage associated risks. While there are many local 
+and regional initiatives, two critical drivers stand out: Construction Product Regulation (CPR). Another 
+
+crucial regulatory advancement is the new 
+EU Taxonomy setting standards for claiming Construction Product Regulation (CPR), which 
+circularity in investments. This framework provides became effective in January 2025. This is a landmark 
+a basis for labeling investments as ‘sustainable’ if development because it marks the first instance of 
+they make a significant contribution to the circular reclaimed construction materials being explicitly 
+economy. Notably, it includes criteria requiring recognized within this principal EU legal framework 
+that buildings incorporate at least 15% reused governing the standards and market access for 
+components, 15% recycled components, and construction products. This formal acknowledgement 
+20% from a combination of reused, recycled, or means that ‘the law now knows’ reclaimed materials, 
+responsibly sourced renewable materials in weight.13 which is essential for establishing clearer pathways 
+
+to market, fostering standardization, and enabling 
+City and national-level initiatives introducing their more confident and compliant integration into 
+whole-life carbon (WLC) thresholds. WLC thresholds construction projects across the EU.
+can increase the attractiveness of secondary 
+construction products. Several European cities—such For this deep–dive study, we examined the re-
+as Helsinki, Oslo, and Stockholm—have implemented usability of materials that are relatively easy to re-use 
+or are considering such thresholds. Currently, these because they require little conditioning, or because 
+thresholds are often set at levels that can be met visual inspection and some sampling gives sufficient 
+using conventional construction methods or by information for re-use. The selected materials are 
+substituting key building materials with lower-carbon bricks, insulation, interior doors, railings (stairs), and 
+alternatives. However, cities have indicated that as sanitary ceramics. 
+reporting mechanisms become more robust, these 
+thresholds will be progressively tightened to better We note here that there are more potential products 
+manage total carbon emissions. Complementing to reclaim, namely many types of interior materials 
+these local and national efforts, the EU’s Energy as well as facade cladding. Furthermore, potentially 
+Performance of Buildings Directive (EPBD) is set more interior materials (e.g. sanitary ceramics) 
+to further accelerate this trend. The revised EPBD will flow out of renovations rather than demolitions 
+mandates the introduction of CO2 limits for new which we have not accounted for. 
+buildings, typically calculated per square meter, 
+by 2028 at the latest, with some Member States 
+
+10
+
+
+
+Building on the report “Four circular building pathways In the low scenario, we use current market prices 
+towards 2050”, we modelled realistic potential for secondary materials. In the high scenario, we 
+uptake pathways of this low-hanging fruit coming assume prices closer to those of new materials. Bricks 
+from demolition, with uptake pathways maturing in account for the largest share in both mass and value—
+2030.15 We estimate here that the potential combined particularly in the current market. However, items such 
+EU market for the reuse of bricks, interior doors, as doors and sanitary ceramics have a higher ‘spread’ 
+staircases, toilets, sinks, and insulation materials of price between re-used and new and will when sold 
+generated through demolition between 2025 and closer at new value also take up a larger share in the 
+2035 (cumulatively) could be between €12-€26 billion. prices. 
+In 2035 alone when the adoption curve is matured 
+we estimate it to be about 0.72 en 1.45 billion. (See 
+box: “Sizing the Market for Easily Re-used Reclaimable 
+Materials.”)
+
+Total cumulative market size of selected products: min ~€12.7 bln. Max ~€26.7 bln
+
+Product Total mass  Share of total Total value low  Total value high  
+[Bln. kg] mass [€ bln] [€ bln]
+
+Bricks 287 96% 9,87 10,77
+
+Insulation 1 0% 0,03 0,05
+
+Interior doors 2 1% 0,83 3,11
+
+Railings (stairs) 9 3% 0,88 6,49
+
+Toilets, sinks 1 0% 1,14 6,29
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 11
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+T H E  P OT E N T I A L  M A R K E T  FO R  S E C O N DA RY 
+C O N S T R U CT I O N  P R O D U CT S  I S  L I K E LY  TO  G R OW 
+Continued...
+
+MARKET SIZE
+Lower bound estimate Upper bound estimate
+
+12,5
+
+10,0
+
+7,5
+
+5,0
+
+2,5
+
+0,0
+
+Bricks Insulation Interior doors Railings (stairs) Toilets, sinks
+
+MARKET SIZING
+Toilets, sinks Railings (stairs) Interior doors Insulation Bricks
+
+30
+
+20
+
+10
+
+0
+
+Lower bound [€ bln] Upper bound [€ bln]
+
+12
+
+€ bln
+
+
+
+RISKS
+Risk of
+
+STAKE- Delay
+HOLDERS Risk of 
+
+underper-
+formance
+
+Property
+Owners/ Risk-Parity
+
+Developers Demand
+
+Insurers Disclosure
+risk
+
+Suppliers Warranty
+Limitations
+
+Contractors Liability
+Ambiguity
+
+Lack of
+Architects Precedent
+/Advisors /Data
+
+SIZING THE MARKET OF SECONDARY CONSTRUCTION PRODUCTS
+The market size for reusable products was determined by dynamically modeling the European 
+construction sector from 2025 to 2035 using a bottom-up approach. This method employed a 
+geographically diverse set of reference buildings to develop product and material compositions made 
+available through demolition. Construction and demolition rates were based on a recent JRC study.16
+
+In our model, we retained as constant the technical reuse potential of second-hand construction 
+products, while the adoption rate of reuse increases exponentially from 2025 until it reaches maturity in 
+2035. In 2025, the reuse adoption rate is 1%, growing exponentially to 100% by 2035. Even at full adoption, 
+technical limitations constrain the actual material outflow. For example, we estimate that only 
+approximately 25% of bricks can be recovered from a building.17
+
+Through desk research, we estimated the second-hand price per kilogram for each product in scope 
+within the Western European market. We also estimated the corresponding retail prices per kilogram. 
+
+All relevant assumptions and datasets can be found online at:  
+www.structuralcollective.nl/data
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 13
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+H OW  I S  T H E  R I S K  O F  U S I N G  S E C O N DA RY 
+M AT E R I A L S  F E LT  AC R O S S  T H E  VA LU E  C H A I N
+
+According to our interviews, literature review and AEC Services (Architects, Engineers, Consultants), 
+our own engagements with construction sector particularly engineering firms vital for structural 
+stakeholders, the perceived risks associated with integrity, encounter significant risks and operational 
+secondary materials are felt differently across the challenges with secondary materials. Engineers 
+value chain. often face time-consuming static calculations 
+
+and assessments for reclaimed elements due to 
+Pioneering asset owners may be more willing to limited data, absent design codes, and uncertain 
+assume risks or to assume additional costs.18 That material histories. This additional analytical effort 
+means that either the matter of insurance is not a translates to increased service hours and project 
+blocker for them, and, if necessary, they might invest costs, and heightens professional liability concerns 
+additional time and money in coordinating with regarding long-term performance. Consequently, the 
+their insurers to create bespoke coverage. However, meticulous due diligence required with incomplete 
+more mainstream developers - who weigh costs and information can make engineering services a critical 
+benefits independent of circular ambitions – may bottleneck to wider secondary material adoption, 
+balk in the face of more uncertainty. Therefore, as the especially if the foreseen project resources don’t 
+client base expands from pioneering early adopters cover these intensified design and verification 
+to a more mainstream market, more robust methods processes.
+of demonstrating performance and managing risk 
+are demanded. Larger construction projects managed by 
+
+professional construction management companies 
+Providers of secondary materials often argue their demand tighter control of risks. Providing a 
+products are potentially superior, having already professional service, they are governed by more 
+demonstrated durability over extended periods, and stringent risk management protocols and would for 
+highlight the care taken in sorting and selection. a variety of risks demand risk-parity between new 
+While providers of secondary materials can and and reused materials - or otherwise require for each 
+do offer broader coverage of their products (e.g., decision support of the client for possible higher 
+also liability instead of only replacement value),19 risks. Reportedly, such uncertainties often lead larger 
+their smaller scale (and the fact that they are not players to cite insurance difficulties as a reason to 
+specialized in liability) means that some clients may forgo secondary options, expressing reluctance due 
+lack confidence in their ability to cover substantial to concerns about consistency and safety.2021
+
+claims. For example, if leaking bricks lead to 
+consequential damages in a large office building, SMEs in the construction sector reportedly 
+the claim may render a smaller business insolvent. also have concerns regarding who carries the 
+This underscores the need for larger, established responsibility for defects when using secondary 
+insurance companies to underwrite the risk, in materials.22 A contractor installing reused insulation, 
+particular where potential consequential damages for example, may worry about being held liable 
+are high (see box Cycle Up). for subsequent issues like mold growth, potentially 
+
+attributed to either the material itself or the 
+installation process, which might require different 
+techniques than for new products.
+
+14
+
+
+
+ADDRESSING RISK OF UNDERPERFORMANCE AND EFFECTS: CYCLE UP ’S 
+TEAMING UP WITH INSURER SMABTP TO OFFER EXTENDED GUARANTEES 
+(INCLUDING LIABILITY) FOR ITS PRODUCTS23
+
+Cycle Up operates as a significant player in the French market for reused building materials. Cycle 
+Up’s strategy demonstrates a comprehensive approach to facilitating material reuse. By integrating 
+a marketplace, expert consulting, physical reconditioning, and bundled, multi-tiered guarantees 
+backed by a major insurer, the company addresses multiple barriers simultaneously – access, quality 
+assurance, and risk mitigation. This vertical integration, particularly the move into reconditioning 
+coupled with specific guarantees like Cycle Safe, allows Cycle Up to exert greater control over material 
+quality, thereby making the risk more manageable and insurable through its partnership with SMABTP.
+
+HOW DOES IT WORK?
+A key differentiator for Cycle Up is its provision of explicit guarantees, structured similarly to insurance 
+products, designed to build customer confidence. These guarantees are offered in tiers: 
+
+A basic guarantee is included with all transactions made via the cycle-up.fr platform, covering 
+reimbursement if a material has an inherent defect rendering it unusable for its intended purpose. 
+
+An optional, paid extension called “Cycle Protect” can be added to transactions involving materials 
+not directly sold by Cycle Up. This extends coverage to include the financial consequences of bodily, 
+material, and immaterial damages, up to a limit of €500,000 per insurance year. 
+
+For materials sold directly by Cycle Up, particularly their reconditioned products, the “Cycle Safe” 
+guarantee is included. This also covers reimbursement for defects and consequential damages, but 
+with a limit of €300,000 per insurance year. Certain exclusions apply, primarily related to structural 
+components or elements critical to façade watertightness, though some exceptions exist for items like 
+lighting terminals or unit equipment if the overall installation conformity is guaranteed by a professional. 
+
+Crucially, Cycle Up’s guarantee offerings are backed by a formal partnership with SMABTP, a leading 
+insurance group specializing in the French construction and public works sector. This partnership lends 
+significant credibility and financial security to Cycle Up’s guarantees. 
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 15
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+W H AT  I S  T H E  P OT E N T I A L  R O L E  O F  T H E  
+E X I S T I N G  I N S U R A N C E  TO O L K I T ?
+
+While many risks inherent in construction projects CONSTRUCTION ALL RISK (CAR) 
+can be addressed using established insurance INSURANCE AND PROFESSIONAL 
+products, the growing interest in secondary or LIABILITY INSURANCE (PLI)
+reclaimed building materials has at the same time 
+raised questions about the applicability of existing 
+insurance products on these materials. 
+
+The use of secondary materials can introduce risks 
+PROPERTY INSURANCE (PI). pertinent to Construction All Risk (CAR) insurance and 
+
+Professional Liability Insurance (PLI). Contractors may 
+face the need for specialized labor, equipment, or 
+
+Incorporating secondary materials introduces installation techniques unfamiliar to their workforce, 
+specific risks relevant to PI coverage. Challenges increasing the risk of errors or required rework due to 
+can arise in obtaining accurate valuations for material inconsistencies – risks typically falling under 
+unique or aged components, potentially leading CAR. Architects and advisors might face increased 
+to underinsurance. Furthermore, if damage occurs, scrutiny during the material selection phase and 
+repair or replacement costs might be higher or more potentially heightened liability if material failures 
+complex compared to standard new materials, and occur or other defects arise linked to the reused 
+securing long-term warranties equivalent to those components, engaging PLI. However, the actual 
+for new products can be difficult. Currently, PI terms impact on CAR and PLI premiums and coverage 
+and conditions rarely mention secondary products specifics remains largely uncertain. As secondary 
+explicitly, largely because their low prevalence materials are still infrequently used, particularly in 
+has kept them off the radar. Providing proof of complex projects, there is a lack of precedent and 
+performance comparable to new products is often documented cases where disputes specifically 
+difficult due to incomplete data from the processing related to their use have tested policy responses. A 
+
+potential trigger for PLI or CAR claims25
+chain (sourcing, logistics, reconditioning, etc.), and  could arise if 
+it is frequently unclear whether existing supplier staff haven’t been adequately trained for potentially 
+warranties are sufficient. Furthermore, one researcher different installation methods required by secondary 
+reports that contractors sometimes hesitate to materials, blurring the line between inherent material 
+disclose the use of secondary materials, particularly defect and installation error – a distinction insurers 
+if the material lacks exhaustive documentation, must make but find difficult without clear data. As 
+thereby risking the loss of their coverage.24 a result, unspecialized contractors are more likely 
+Conversely, if a building owner proactively discloses to shy away from using these materials, narrowing 
+their use, insurers are likely to demand demonstrated the market to vertically integrated companies (e.g., 
+‘risk-parity’ – proof that the secondary material those that take the responsibility from sourcing to 
+performs to the same standard as a new equivalent. reconditioning and construction).
+Achieving this risk-parity often requires costly, CAR: project principal (client/developer) or the main 
+bespoke third-party testing and certification, which contractor (or sometimes jointly) 
+in turn can increase project costs and potentially 
+premiums, thus creating a disincentive for using such PLI: architects, engineers, and other design 
+products. consultants or advisors,
+
+Who: building owner or sometimes a long-term 
+lessee responsible for the building’s upkeep
+
+16
+
+
+
+DELAY IN START-UP (DSU) Who: project owner, developer, or investors who have a financial 
+interest in the timely operational start of the project
+
+Warranties. Distinct from insurance products, warranties are typically 
+Project delays are another concern, offered by the secondary material providers themselves. These 
+particularly for larger developments warranties, often accompanied by detailed documentation and 
+where Delay in Start-Up (DSU) photographs of defects as a defensive measure by the seller, play a 
+insurance is relevant. Sourcing, testing, role but have limitations. They are not insurance; they usually cover 
+or remediating secondary materials the material itself but not consequential damages or installation 
+could potentially lead to unforeseen issues. Variability in material history and quality can lead to shorter 
+delays if unknown defects are found, warranty periods compared to new products. Furthermore, suppliers 
+testing takes longer than anticipated, face an increased risk of claims under Product Liability Insurance 
+or supply chain issues arise. While due to the inherent uncertainties associated with reused materials, 
+these factors could theoretically requiring thorough testing and documentation to manage their own 
+increase DSU premiums, this area exposure. Crucially, these supplier warranties have reportedly been 
+remains relatively unexplored. The low considered insufficient by some larger clients and financiers who 
+application of secondary materials in demand the comprehensive risk coverage provided by established 
+large, risk-averse projects means the insurance policies.26
+
+potential impact on DSU insurance 
+has not yet been significantly tested in Who: suppliers
+the market.
+
+Table: Challenges Applying Standard Insurance to Secondary Materials
+
+Key Problem /  
+Area of Friction Affected Stakeholder(s) Relevant Insurance 
+
+Product(s) Brief Explanation
+
+Difficulty assessing 
+unique/aged 
+
+Property Owners / components 
+Risk of Property Insurance (PI)
+
+Developers, Insurers complicates coverage 
+underperformance amounts and potential 
+
+repairs.
+
+Sourcing/testing 
+Property Owners / secondary materials 
+Developers (Large Delay in Start-Up (DSU) might cause delays, 
+
+Risk of delay Projects) potentially impacting 
+DSU (unexplored).
+
+Distinguishing material 
+Contractors, Architects / Construction All Risk defects from installation 
+
+Liability Ambiguity Advisors, Insurers (CAR), PLI errors is complex for 
+reused items.
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 17
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+W H AT  I S  T H E  P OT E N T I A L  R O L E  O F  T H E  
+E X I S T I N G  I N S U R A N C E  TO O L K I T ?
+Continued...
+
+Key Problem /  
+Area of Friction Affected Stakeholder(s) Relevant Insurance 
+
+Product(s) Brief Explanation
+
+Supplier warranties are 
+often insufficient (scope, 
+
+Property Owners / (Not Insurance, but 
+duration) and don’t 
+
+Warranty Limitations Developers, Suppliers relates to PLI)
+replace comprehensive 
+insurance.
+
+Failure to disclose use 
+Property Owners / of secondary materials 
+
+Property Insurance (PI)
+Disclosure Risk Developers, Insurers may lead to disputed 
+
+claims upon discovery.
+
+Insurers may require 
+costly proof of 
+
+Property Owners / 
+Property Insurance (PI) equivalence to new 
+
+Risk-Parity Demand Developers, Insurers
+materials, or charge 
+higher premiums.
+
+Low usage means 
+limited claims history 
+
+All Stakeholders, 
+CAR, PLI, DSU, PI and untested policy 
+
+Lack of Precedent / Data especially Insurers
+responses for secondary 
+materials.
+
+In summary, while the existing insurance toolkit underscores that for many SMEs and designers 
+appears comprehensive, its practical application seeking practical guidance today, clear information 
+to projects incorporating secondary materials on insurer-accepted documentation standards or 
+reveals significant gaps and uncertainties. The readily available, affordable insurance products 
+lack of widespread use means clear precedents, covering common secondary material applications 
+standardized assessment meth ods, and reliable remains largely elusive. 
+data are missing. This ambiguity leaves stakeholders 
+without clear guidance on risk coverage, potentially The practical outcome is that the standard 
+leading to disputes, higher costs through premiums insurance toolkit is often inadequate for covering 
+or bespoke certifications, and unresolved liability the additional (perceived) risks associated with 
+questions. Ultimately, this hinders the broader secondary materials. This forces construction project 
+adoption of circular economy practices in teams either to avoid these materials altogether 
+construction. Therefore, while this analysis explains or to develop costly, bespoke insurance solutions – 
+the underlying complexities and difficulties, it meaning effective and accessible risk coverage for 
+
+reused components remains far from mainstream.
+
+18
+
+
+
+H OW  C O N S T R U CT I O N  T E A M S  D E A L  W I T H 
+R E C L A I M E D  M AT E R I A L  R I S KS  N OW
+
+DESIGN CASCADING SUPPLY CHAIN CONTRACTUAL
+CONSERVATISM USES CONTROL MODELS
+
+Assuming lower Using materials for less Requiring full Using structures like 
+performance / higher demanding applications documentation (history, DBMO to transfer risk
+uncertainty transport etc.) or full 
+
+control from sourcing to 
+delivery
+
+KEY DOWNSIDE / CONSEQUENCE
+
+• Material Inefficiency • Value Reduction • Poor Scalability • Risk Transferred
+• Over-engineering • Downcycling (Lower on • Requires highly • Shifted, Not Mitigated
+
+R-ladders) specialized companies. 
+
+Given the uncertainties and costs associated or aesthetic purposes. Although this finds a 
+with applying standard insurance to secondary subsequent use for the material, it represents a 
+materials, project teams currently employ several reduction in value compared to direct reuse in 
+alternative strategies to manage the perceived risks a similar high-grade function, moving down the 
+in the absence of clear coverage. These practical ‘R-ladders’ of circularity and failing to capture 
+workarounds in lieu of insurance are inventive ways the full potential of the resource. We should note 
+to deal with the risks perceived in using secondary here that there are also ways to cascade uses 
+materials, and have made it possible that secondary of construction products without significantly 
+materials are applied in real buildings today. reducing its value. Consider hollow-core slabs: 
+However, they also come with some drawbacks. We when carefully removed, they can be installed as 
+found that pioneering companies apply the following ground flooring, a less structurally demanding 
+risk mitigating strategies. application, and remove the need of installing a 
+
+new floor.
+1.	 Design conservatism. For instance, engineers 
+
+might significantly de-rate the assumed structural 3.	 High demands on data quality, such as 
+capacity of reclaimed elements or anticipate traceability or proof of performance: Contractors 
+higher leakage risks in facade components, or developers may stipulate that they will only 
+designing compensatorily with larger safety use secondary products for which exhaustive 
+margins. While this addresses immediate safety documentation of previous use, deconstruction 
+concerns, it leads directly to over-engineering and methods, transport, and storage is available. 
+inefficient material use, undermining the resource Indeed, a circular economy may demand more 
+conservation goals inherent in the circular time assessing material durability as the quality 
+economy. of the materials will always need to be insured. 
+
+Nevertheless, the reality is that at the moment 
+2.	 Cascading uses. Here, materials are repurposed the data ecosystem is not mature. Consequently, 
+
+for uses that are less demanding than their the required intensive vetting process at the end 
+original design intent – for example, using durable of the value chain is costly and has the effect of 
+old facade cladding merely for interior decoration suppressing demand. 
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 19
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+H OW  C O N S T R U CT I O N  T E A M S  D E A L  W I T H 
+R E C L A I M E D  M AT E R I A L  R I S KS  N OW
+Continued...
+
+4.	 Different contractual models. In structures 
+like a Design-Build-Maintain-Operate (DBMO) 
+agreement, the long-term performance risk, MITIGATING SUPPLY CHAIN RISKS FOR 
+including that related to the materials used, SECONDARY MATERIALS THROUGH 
+is transferred from the building user or owner CIRCOTRADE’S FUTURES MODEL 2 8 
+to the DBMO consortium responsible for the 
+asset’s lifecycle. While this provides assurance The transition to using secondary (reused) 
+
+to the end-user, it primarily shifts the risk construction materials faces significant supply 
+
+to another entity rather than resolving the chain risks, hindering widespread adoption. 
+
+underlying uncertainties about the material’s Circotrade’s futures trading model aims to 
+
+performance or mitigating the risk through overcome these barriers by:
+
+standardized assessment and insurance.27 Addressing Financial Uncertainty: Traditional 
+5.	 Business models that suppose high reuse involves high upfront costs for sellers 
+
+control over the value chain. It hinders (building owners) with uncertain future demand 
+the development of independent, efficient and unpredictable costs/availability for buyers 
+markets for demolition, storage, refurbishment, (developers). Circotrade provides forward 
+and resale, limiting the overall availability and visibility, allowing buyers and sellers to lock in 
+uptake of secondary materials. quantities and prices for future transactions. This 
+
+manages financial risk, provides upfront financial 
+6.	 Sourcing only when demand is clear. In this advantages for sellers, and enables reliable 
+
+set-up, companies may create ‘material budgeting for buyers. 
+harvesting maps’ in order to identify donor 
+buildings to ensure that the required building Ensuring Quality and Specification: Specifying 
+materials will be present for the design reused materials is often hampered by unknown 
+foreseen. technical specifications, lack of guarantees, and 
+
+7.	 Futures contracts. An emerging model is potential uninsurability. Circotrade mandates 
+
+to create future contracts between future that materials traded on its platform are verified, 
+
+demolition projects and planned new reconditioned, and recertified as needed before 
+
+constructions. (see box: Circotrade’s Future’s sale. Through processes like Circopass and 
+
+model). partnerships with specialists, it ensures known 
+quality, quantity, and specifications, providing 
+
+While these strategies allow projects buyers with assurances comparable to virgin 
+incorporating secondary materials to proceed materials. 
+in the current environment, they do have some 
+drawbacks. They can compromise material Improving Availability and Predictability: The 
+efficiency, reduce potential value capture, current market for reused materials often lacks 
+limit market scalability, or simply transfer risk the critical mass, scale, and predictability required 
+rather than managing it through transparent, for large projects. Circotrade inventories existing 
+standardized means. The addition of robust buildings well before deconstruction, creating a 
+and systemic approaches, including reliable large, visible pipeline of future materials. Its online 
+assessment methods and appropriate insurance marketplace provides transparency on volumes, 
+products tailored for the nuances of secondary provenance, and timing, allowing development 
+materials will have a place in addition to these teams to reliably incorporate reused materials 
+approaches to help the market to scale. early in the design process. 
+
+20
+
+
+
+PAT H WAYS  TO  E F F E CT I V E  I N S U R A N C E  FO R 
+S E C O N DA RY  C O N S T R U CT I O N  P R O D U CT S
+
+Having explored the current landscape PATH 1:  RISK-BASED CATEGORIZATION AND 
+of risks, existing insurance limitations, UNDERWRITING ADAPTATION
+and current mitigation strategies, 
+the discussion now turns to potential To develop effective insurance solutions for secondary 
+pathways forward for developing construction products, a structured approach is necessary, 
+more effective insurance solutions starting with understanding and categorizing the associated risks. 
+for secondary construction products. One practical way to frame this is by considering the function of 
+These pathways involve different building components and, critically, the potential consequences 
+approaches and stakeholders, aiming of their failure. Adapting concepts like Stewart Brand’s “Shearing 
+to address the identified barriers Layers”29 allows for differentiation based on functional lifespan and 
+and build confidence in the reuse impact. We can group secondary materials into broad categories 
+market. The following sections will – such as Structure, Skin, and Space Plan – each associated with 
+explore these distinct, yet potentially different failure modes, consequences, and thus, different primary 
+complementary, paths. methods for risk mitigation.
+
+Diagram - basis is Stewart Brand diagram
+
+Skin Layer:
+Examples like facade cladding (panels, 
+wood, etc.) or bricks. Main failure reason: 
+Early/unexpected failure or hidden defects.      
+     Consequences: Moderate to severe, including 
+physical consequential damage (e.g., water 
+ingress, fire hazards). 
+     Most economically relevant risk mitigation: 
+Product liability insurance alongside quality 
+assurance.
+
+Structure Layer:
+Examples like structural wood, steel, or concrete 
+elements. Main failure reason: Inability to bear 
+calculated load. 
+     Consequences: Catastrophic, potentially 
+compromising structural integrity or causing 
+loss of life.
+     Most economically relevant risk mitigation: 
+Robust proof of performance through 
+certification and rigorous testing.
+
+Space Plan Layer:
+Examples like tiles, rails, furniture, partition 
+walls, floor systems. Main failure reason: Early 
+replacement due to shorter lifespan or aesthetic 
+issues. 
+     Consequences: Low, primarily replacement 
+costs.
+     Most economically relevant risk mitigation: 
+Supplier warranties, or X- ‘as-a-service’ models.
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 21
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+PAT H WAYS  TO  E F F E CT I V E  I N S U R A N C E  FO R 
+S E C O N DA RY  C O N S T R U CT I O N  P R O D U CT S
+Continued...
+
+Understanding these distinct risk profiles helps manual building audits, can be time-consuming and 
+identify the appropriate level of assurance required. costly, while newer approaches, like creating digital 
+High-consequence structural elements logically replicas of buildings, lack standardization.31 While 
+demand stringent proof of residual performance, these challenges may be significant however, they 
+whereas lower-consequence interior finishes might also create new potential business opportunities in 
+be adequately covered by warranties. This risk-based areas such as information brokerage. Information 
+differentiation aligns with the preference observed brokers are entrusted with bridging the structural 
+among insurers, who generally favour extending information gaps within the supply chain.32 While 
+existing construction and property insurance underwriters need data to understand quality, testing 
+policies rather than creating entirely new product the performance of each individual secondary 
+lines for secondary materials. Coverage could then component (like every beam) is expensive, 
+be offered under specific conditions tied to the risk especially relative to the value of bulk or commodity 
+category – for example, requiring certification for products. Of course, for bulk commodities sampling 
+structural components while adjusting premiums is possible and frequently done, but this still 
+or deductibles for uncertified or higher-risk ‘Skin’ requires great transparency over the chain of 
+elements. sourcing-transportation-storage, in order to ensure 
+
+that batches are sufficiently homogeneous.33 
+KEY UNDERWRITING HURDLES FOR A Furthermore, this cost barrier is particularly acute 
+RISK-BASED APPROACH for the ‘Structure’ category, where robust proof of 
+
+performance is precisely what’s needed but hardest 
+However, implementing such a risk-based approach to achieve economically at scale.
+faces significant underwriting hurdles, explaining 
+why insuring secondary materials, particularly However, insights from stakeholder interviews also 
+higher-risk ones, remains challenging. Creating or challenged some of the prevailing assumptions 
+confidently extending insurance products requires regarding the importance of data quality and data 
+underwriters to reliably assess the quality and availability, in the mainstreaming of insurance 
+predict the performance of the materials involved. for secondary construction products. Although 
+The literature and stakeholder outreach suggests a secondary research identified data as a significant 
+few key challenges: constraint, interviews with frontrunners in secondary 
+
+construction insurance revealed that in instances 
+The lack of reliable data. Insurers depend where insurers collaborated with established retailers 
+heavily on reliable data for the underwriting and of secondary construction products, they opted to 
+development of insurance products. As such, utilize historical value chain and supply chain data 
+limited historical records and missing details provided by these retailers to develop their insurance 
+regarding material history, maintenance, and products.
+performance, hinder accurate risk assessments for 
+secondary construction materials. The absence of Certifications and Assessments. Findings indicated 
+comprehensive data and building records which that in cases where data gaps exist, third-party 
+document material composition, service life, and certification34 bodies can be utilized to fill these gaps 
+load exposure complicates the integration of reused through case-by-case certifications. However, the 
+elements in construction projects.30 Additionally, challenge is that some of the certification bodies 
+unstructured data formats and the lack of systematic are neither accredited nor affiliated with recognized 
+data collection methods pose serious challenges industry associations, which could impact the 
+to data aggregation. Traditional methods, such as reliability of their assessments. Additionally, the 
+
+22
+
+
+
+reliance on individualized assessments makes it remain.Overcoming the challenges related to 
+difficult for insurers to develop standardized and data acquisition, cost-effective testing, supply 
+scalable products, as each case presents unique chain transparency, process standardization, and 
+circumstances. quality control during recovery is essential. Until 
+
+these underwriting hurdles are addressed, insurers 
+Significant uncertainty surrounds the secondary will struggle to confidently and affordably extend 
+material supply chain. While some successful coverage, particularly for higher-risk components, 
+niche providers offering insured products achieve hindering the mainstream adoption of secondary 
+this through deep involvement and control from materials in construction.
+sourcing to resale, thereby guaranteeing quality to 
+the insurer, this is not the norm. The processes of Finally, a tiered risk categorization approach 
+deconstruction, handling, transport, and storage can suggests that insurance product development need 
+introduce damage or degradation, yet these stages not tackle all material types simultaneously. Instead, 
+often lack standardization and data trails. Much insurers can develop coverage progressively, starting 
+deconstruction expertise resides with individuals with low-risk materials. This phased approach allows 
+rather than codified, verifiable procedures. This insurers to build expertise and data gradually. This 
+introduces unknown variables that are difficult for approach can assist in breaking the current cycle 
+underwriters to price. Paradoxically, while some where lack of data impedes rapid insurance product 
+underwriters acknowledge that reused materials development. Additionally, it can also lower the 
+might inherently be less risky having already proven transaction costs associated with case-by-case 
+their performance over time, the uncertainties certification, while concurrently solving inherent 
+introduced during recovery and handling often data constraints. The identified approaches all 
+negate this potential benefit. seek to enable rapid scaling and mainstreaming of 
+
+insurance for secondary construction materials.
+The absence of historical data exacerbates these 
+issues. While future buildings incorporating material PATH 2:  THE ROLE OF SECONDARY 
+passports will eventually provide detailed information MATERIAL PROVIDERS IN VERTICAL 
+at their end-of-life, this doesn’t help with the current INTEGRATION
+building stock being demolished. Underwriters lack 
+the historical claims data and knowledge about the Observations of the current market highlight that 
+exact composition and past life of materials currently secondary material providers achieving the most 
+entering the secondary market. success, particularly in gaining traction for higher-
+
+value reuse, often possess significant skill and 
+Operational practices during recovery are critical visibility across the entire supply chain. These tend 
+yet variable. Effective sorting on the demolition site, to be highly vertically integrated businesses that 
+for instance, is vital for ensuring quality control, incorporate crucial steps like reconditioning and 
+creating homogeneous batches, and enabling sometimes remanufacturing, giving them direct 
+efficient handling and storage. Yet, the consistency control over quality and handling throughout the 
+and rigour of these practices can vary widely, further process.
+complicating quality assurance downstream.
+
+Beyond process control, these providers frequently 
+In conclusion, while categorizing secondary play a vital role in connecting salvaged supply with 
+materials by risk and failure consequence offers project demand, perhaps acting as a preferred 
+a logical framework for developing appropriate supplier for larger developments or even hosting 
+insurance conditions, significant practical barriers 
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 23
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+PAT H WAYS  TO  E F F E CT I V E  I N S U R A N C E  FO R 
+S E C O N DA RY  C O N S T R U CT I O N  P R O D U CT S
+Continued...
+
+curated platforms to resell materials. This deep of developing robust industry standards (like process 
+involvement and control make them valuable certifications or ‘attestations’) and clearer insurance 
+and often more reliable partners for insurance frameworks is that they could enable a wider variety 
+companies seeking assurance about material quality of business models. With standardized assurance 
+and provenance. mechanisms, less vertically integrated players 
+
+specializing in specific parts of the value chain (e.g., 
+While these skilled providers can and do self- deconstruction, logistics, specific reconditioning) 
+insure or offer extended guarantees, partnering could potentially participate more easily, increasing 
+with established insurance companies potentially the overall supply and diversity of available 
+remains important for larger projects. End clients and materials.
+project stakeholders often place greater trust in the 
+financial backing and claims-handling reputation Furthermore, it is important to note that the insurance 
+of a known insurer, especially when potential models currently emerging in this space, often 
+consequential damages are high. Therefore, facilitated by these integrated providers, tend to 
+providers need insurers to lend credibility and focus on extending product liability coverage, 
+financial security to their offerings. addressing inherent defects in the material itself. 
+
+They do not typically cover broader project risks like 
+However, relying solely on highly integrated providers delays caused by sourcing or testing secondary 
+may limit the scalability and diversity of the materials, which remain distinct challenges.
+secondary materials market. A key potential benefit 
+
+Pioneering material providers providing insurances
+
+https://site.cycle-up.fr/
+Extended 
+
+Cycle Up France SMABTP garanties-cycle-up-materiaux-
+warranty
+
+reemploi/
+
+https://www.
+Product Liability VHV 
+
+Concular Germany circularbuildingscoalition.org/
+Insurance Versicherungen
+
+blueprint-projects/concular
+
+https://www.wtwco.com/-/
+media/wtw/insights/2023/05/
+
+Product Liability 
+Greendozer Denmark WTW new-insurance-paves-the-
+
+Insurance
+way-for-more-sustainable-
+construction.pdf
+
+24
+
+
+
+B U I L D I N G  C O N F I D E N C E :  
+K E Y  C O L L A B O R AT I V E  I N T E RV E N T I O N S 
+TO  E N A B L E  I N S U R A N C E  FO R  R E U S E
+
+The insurance industry plays a pivotal role in they can extend existing product lines to cover 
+the transition towards greater use of secondary reclaimed materials—determining where current 
+construction materials, occupying a position coverage might suffice versus where specific 
+perhaps best described as “somewhere in between” upfront requirements, such as certifications or 
+being purely reactive and actively leading the adjusted premiums, may be necessary.
+market transformation. Insurers generally will not 
+wait passively for standards and markets to fully To effectively play this role and facilitate the 
+develop, nor will they typically take full ownership broader adoption of secondary materials, several 
+of driving the entire process. Instead, the industry key interventions involving the insurance industry 
+shows an interest in proactive participation. This are crucial:
+involves engaging in standardization discussions 1.	 Clarify the application of existing policies. 
+and collaborating with stakeholders across Significant ambiguity currently exists regarding 
+the construction value chain to help shape the how standard insurance products—such as 
+regulatory and operational framework for reclaimed professional liability, contractor all-risk, product 
+materials. Such engagement allows insurers to liability, and property insurance—specifically 
+stay informed, understand emerging risks, and apply when secondary materials are used. 
+position themselves to adapt as the market evolves. Reducing this ambiguity through clearer policy 
+Reflecting this adaptive stance, insurance companies language or specific endorsements would 
+are currently evaluating the conditions under which provide greater certainty for all stakeholders.
+
+THE WORK OF AXA IN THE CIRCULAR LEADERS GROUP
+AXA’s participation in the Circular Leaders Group (CLG) shows how insurers are starting to proactively 
+engage in shaping the circular economy transition. As a founding member of this cross-industry 
+collaborative initiative convened by Arup and the Ellen MacArthur Foundation, AXA is working to 
+addressing market barriers to scaling circular business models, with particular focus on the built 
+environment.
+
+AXA has been a key contributor to CLG’s development of a comprehensive ‘Reuse Playbook’ which aims 
+to establish the core tasks and interactions needed to effectively reuse materials and maps which 
+stakeholders are best placed to complete each of these tasks, and how they might be incentivised 
+to do this. The playbook draws on insights from across the entire construction value chain, including 
+manufacturers, engineers, architects, quantity surveyors, contractors, stockholders, insurers, developers, 
+and policymakers. 
+
+Anne-Sophie Duret, Green Business and Circularity Lead highlights the central challenge related to 
+reused materials: “Since reclaimed materials may come from various sources and have a history 
+that is not easily traceable, there is a higher risk of potential defects compared to new materials. This 
+uncertainty around quality and risk levels potentially lead to high premiums or even lack of coverage on 
+traditional insurance policies.” 
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 25
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+B U I L D I N G  C O N F I D E N C E :  
+K E Y  C O L L A B O R AT I V E  I N T E RV E N T I O N S 
+TO  E N A B L E  I N S U R A N C E  FO R  R E U S E
+Continued...
+
+Through the CLG, AXA is working with partners and the wider industry to develop solutions that address 
+these uncertainties while enabling the industry to benefit from circular practices. This collaborative 
+approach recognises that insurance can move beyond being merely a compliance requirement to 
+becoming an active enabler of circularity in the construction sector.
+
+CLARIFICATION OF THE GUARANTEE AFTER RECEIPT OF DAMAGE TO A 
+STRUCTURE RESULTING FROM A REUSE OPERATION .
+AXA France’s Batissur contract covers material damage and non-conformities when the insured is 
+held liable, after acceptance, due to a reuse operation when the structural elements, electrical circuit 
+breakers and elements of the reused fire safety system have been validated for conformity by its 
+manufacturer or by a technical design office.
+
+2.	 Champion and support overarching 3.	 Promote the development and validation of 
+standardization and certification: The insurance material-specific reuse protocols by professional 
+industry should actively promote and contribute sectors: Encourage professional bodies, 
+to the development of robust, industry-wide representing specific material sectors (e.g., for steel, 
+standards, certifications, and attestations timber, or concrete), to take the lead in establishing 
+that verify the quality and reliability of both detailed professional recommendations for 
+secondary products and the general processes the reuse of their respective materials. These 
+for their recovery and reconditioning. A primary specialized guidelines should define best-practice 
+barrier to reuse is the lack of transparency and processes covering the entire lifecycle of these 
+verifiable control across the material supply secondary materials, including methods for careful 
+chain—from deconstruction and transport to deconstruction, appropriate transport, secure 
+storage and refurbishment. General process storage, and correct reinstallation that are specific 
+certifications, such as the ‘Safety in Circularity’ to that material type. Crucially, for these protocols 
+attestation, and company-led standards for to gain wide acceptance by insurers and streamline 
+specific reclaimed products (e.g., Concular’s risk assessment, they should seek validation from 
+work with reclaimed bricks in Germany) are relevant national authorities or quality control 
+key to overcoming data gaps and building bodies, enabling them to be recognized as 
+widespread confidence. By participating in “common techniques.” The French CTICM’s (Centre 
+the creation of these overarching frameworks, Technique Industriel de la Construction Métallique) 
+and potentially requiring such recognized guide for steel reuse, which was validated by the 
+certifications for coverage, insurers can help C2P (“Products Prevention Commission” of the 
+establish the necessary quality infrastructure AQC) and accepted by its insurer members as 
+for the market. Proactive secondary material a “common technique,” perfectly illustrates this 
+suppliers are also vital partners, building trust targeted approach. Such officially recognized, 
+by investing in rigorous quality control, providing material-specific protocols significantly simplify 
+transparent data and documentation, and the evaluation process for insurers, reducing the 
+collaborating directly with insurers and certifiers need for extensive bespoke analyses and fostering 
+to demonstrate effective risk management for greater confidence in the reliable application of 
+their products and services. reused materials.
+
+26
+
+
+
+THE “SAFETY IN CIRCULARITY” ATTESTATION – A PROCESS-BASED APPROACH35
+
+Recognizing that a lack of reliable information and formal recognition of reuse practices acts as a major 
+barrier, the “Safety in Circularity” attestation was developed in Belgium by reuse company BatiTerre, 
+contractor Jacques Delens (BESIX Group), and risk/quality control body SECO Belgium. It aims to address 
+the “grey zone” surrounding the insurability of reused materials stemming from restricted information and 
+limited risk evaluation. The goal is to build trust in the reuse sector by allowing quality-focused companies 
+to differentiate themselves and provide stakeholders, including insurers, with greater confidence to specify, 
+use, and validate the integration of reused materials in projects. Key features of the attestation include:
+
+•	 Focus on process, not product: It validates the quality of the processes implemented by professionals 
+involved in reuse—specifically dismantling/deconstruction, treatment/reconditioning, and storage—
+rather than certifying individual, unique reused products. 
+
+•	 Third-party verification: An independent auditor, qualified by SECO Belgium, evaluates the company’s 
+organisational setup and technical adherence to reference standards, both at the company’s 
+headquarters and on-site or in workshops. 
+
+•	 Increased information reliability: The attestation aims to provide trustworthy, traceable information 
+about the recovery process to all project stakeholders (insurers, prescribers, clients, contractors), 
+guiding choices about potential reuse scenarios. 
+
+•	 Scope: Initially covers materials like faucets, sanitary fittings, raised floors, and protective railings, with 
+plans to develop standards for materials with higher technical requirements (e.g., insulation, structural 
+elements) based on market demand. 
+
+This process-based attestation represents a concrete step towards standardizing quality assurance in the 
+reuse supply chain, thereby addressing some of the key data gaps and uncertainties faced by insurers and 
+the wider construction industry.
+
+4.	 Continue to develop innovative ways of Successfully implementing these industry-led 
+underwriting these materials. As the use of interventions may also be significantly accelerated 
+secondary materials grows, valuable data by supportive public policy frameworks. Potential 
+emerges. Leveraging new data points, such as policy levers could include public funding for 
+actual claims history derived from projects using pilot projects demonstrating the insurability of 
+reclaimed materials, can significantly support innovative reuse applications, government support 
+underwriters in assessing risk more accurately. for developing open-access data platforms (e.g., 
+The case of Concular, which reportedly shared for material passports or anonymized claims 
+claims data with its insurance partner to help history), co-funding or facilitating industry-
+develop a tailored product, exemplifies how wide standardization efforts, or incorporating 
+empirical data can bridge knowledge gaps and requirements for certified materials or processes 
+enable new solutions. Exploring other data sources within public procurement tenders.
+and modelling techniques will also be important. 
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 27
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+B U I L D I N G  C O N F I D E N C E :  
+K E Y  C O L L A B O R AT I V E  I N T E RV E N T I O N S 
+TO  E N A B L E  I N S U R A N C E  FO R  R E U S E
+Continued...
+
+CONCULAR’S RCMI INITIATIVE (GERMANY)
+Addressing the significant insurance barrier for reclaimed materials in Germany, Concular, in close 
+collaboration with insurer VHV Versicherungen and other experts, is developing the Reclaimed 
+Construction Material Insurance (RCMI). 
+
+Key Features:
+•	 Structure: RCMI is designed not as standalone product liability, but as an add-on module to existing 
+
+building insurance policies. 
+
+•	 Goal: To provide coverage equivalent to that of new materials, removing a key obstacle to reuse and 
+simplifying the process for building owners. 
+
+•	 Risk-Based Approach: It proposes tiered coverage levels (e.g., Level 1, 2, 3) based on material 
+categories defined by insurance risk and the required testing effort, aiming to tailor requirements 
+pragmatically (drawing from standards like DIN). 
+
+•	 Collaboration: Developed through extensive workshops involving insurers, construction companies, 
+and regulatory bodies to ensure industry alignment and legal compliance. Concular acts as a 
+facilitator and knowledge broker. 
+
+The RCMI initiative represents a significant collaborative effort to create a scalable insurance solution 
+intended to mainstream the use of reclaimed materials by integrating them into standard building 
+insurance frameworks.
+
+Engaging in these interventions aligns with insurers’ policies, establishing standards, and innovating 
+interests in accessing emerging markets, supporting underwriting practices is vital for building the market 
+sustainable development goals, and managing confidence required to mainstream the use of 
+risks in a changing climate. Ultimately, proactive secondary construction materials, thereby unlocking 
+involvement from the insurance industry in clarifying their full potential within a circular economy.
+
+28
+
+
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 29
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+E N D N OT E S
+
+1.	 Add reference to pathways report. 13.	 https://www.dgbc.nl/app/uploads/2025/01/
+Bijlage-EU-Taxonomie-Circulaire-Economie-EN.
+
+2.	 FCBRE. (2023) Facilitating the Circulation of pdf
+Reclaimed Building Elements, p.33. https://
+vb.nweurope.eu/media/21554/fcrbe_final-report_ 14.	 https://milieudatabase.nl/nl/actueel/nieuws/
+ve.pdf milieueffecten-van-hergebruik-waarderen-
+
+met-de-bepalingsmethode-deel-1-de-
+3.	 Circular Buildings Coalition. (2023). Towards hergebruikfactor/
+
+a circular economy in the built environment; 
+overcoming market, finance and ownership 15.	 Circular Buildings Coalition, Four circular 
+challenges building pathways towards 2050. https://www.
+
+circularbuildingscoalition.org/resources
+4.	 UKGBC. System enablers for a Circular Economy 
+
+https://ukgbc.org/resources/system-enablers- 16.	 JRC, 2022. Background Data Collection and Life 
+for-a-circular-economy/ Cycle Assessment for Construction and Demolition 
+
+Waste (CDW) Management).
+5.	 Circular Buildings Coalition (2024). Four circular 
+
+building pathways towards 2050. https://www. 17.	 There are various reasons why the recoverability of 
+circularbuildingscoalition.org/resources bricks is quite low. For example, in most cases only 
+
+the bricks from the outer leaf cavity are eligible for 
+6.	 https://circulareconomy.europa.eu/platform/sites/ re-use.
+
+default/files/e.quintieri-ebc-competitiveness_of_
+reclaimed_materials.pdf 18.	 “The risks are higher, but they are accepted and 
+
+borne by one or more members of the project 
+7.	 https://ukgbc.org/resources/system-enablers- team.” in Bougrain. Insurance and reuse learning 
+
+for-a-circular-economy/ from case studies and perspectives. https://opalis.
+8.		 Circular Buildings Coalition (2023). Towards a eu/sites/default/files/2024-04/Prospective%20
+
+Circular Economy in the Built Environment. https:// report%20on%20reuse%20and%20insurance%20
+www.circularbuildingscoalition.org/resources -%20EN.pdf
+
+9.	 A head of property claims at Allianz. Cited in 19.	 For example, Luijtgaarden, a Dutch tiling 
+Insurance Times (2023). Insurance must take company offering re-used rooftiles will offer 
+a leading role clarifying products to support a 10 year guarantee on their installation. 
+secondary material usage. https://www. https://luijtgaarden.nl/oplossingen/renovatie/
+insurancetimes.co.uk/analysis/insurance-must- herleggen#:~:text=Wij%20zorgen%20voor%20
+take-a-leading-role-clarifying-products-to- esthetische%20daken,herleggen%20van%20het%20
+support-secondary-construction-material- gehele%20dak
+usage/1443844.article 20.	 Eugenio Quintieri. EBC Secretary general. 
+
+10.	 An unnamed interviewed insurer.. Ibid (Construction SMEs Europe) - 2021. https://
+circulareconomy.europa.eu/platform/sites/
+
+11.	 Eugenio Quintieri, EBC Secretary general (2021). default/files/e.quintieri-ebc-competitiveness_of_
+Competitiveness of secondary materials. https:// secondary_materials.pdf
+circulareconomy.europa.eu/platform/sites/
+default/files/e.quintieri-ebc-competitiveness_of_ 21.	 Insight from stakeholder interview conducted by 
+secondary_materials.pdf Structural
+
+12.	 Also see: https://ukgbc.org/news/whats-at-risk- 22.	 Insight from stakeholder interview conducted by 
+with-reuse/ Structural
+
+30
+
+
+
+23.	 Cycle-up (visisted January 2025). Garanties for 34.	 It is true that third-party certification is not 
+material re-use. https://site.cycle-up.fr/garanties- exclusive to reused materials; new construction 
+cycle-up-materiaux-reemploi/ products may also require it, for instance, to verify 
+
+the performance of innovative materials, to ensure 
+24.	 24	 Bougrain (2023). Insurance and reuse learning compliance with specific building codes (e.g., via 
+
+from case studies and perspectives. https://opalis. notified bodies for CE marking in Europe), or for 
+eu/sites/default/files/2024-04/Prospective%20 entry into specific quality assurance schemes. 
+report%20on%20reuse%20and%20insurance%20 This highlights that independent verification is 
+-%20EN.pdf a known practice in construction. The particular 
+
+25.	 Interview Structural challenges for secondary materials, as discussed 
+above, often relate to the current landscape: the 
+
+26.	 Interview Structural potential scarcity of established and accredited 
+certification pathways specifically for reused 
+
+27.	 Outside of DBMO constructions, simple 
+items, the variability inherent in reclaimed 
+
+maintenance contracts following renovation or 
+components necessitating more individualized 
+
+construction can perform the same function. 
+assessments, and the difficulty in standardizing 
+
+See also: Bourgain (2023). Insurance and Re-use: 
+these assessments compared to those for mass-
+
+Learning from Case Studies and Perspectives. 
+produced new products.
+
+https://opalis.eu/sites/default/files/2024-04/
+Prospective%20report%20on%20reuse%20and%20 35.	 The “The “Safety in Circularity” attestation. 
+insurance%20-%20EN.pdf. page 22. Frederic Bougrain (2023). https://vb.nweurope.eu/
+
+media/21157/fcrbe_attestation-circulaire-seco_
+28.		 Circotrade (20230. Futures Trading. https://www.
+
+final18oct2023_en.pdf 
+circularbuildingscoalition.org/blueprint-projects/
+circotrade
+
+29.	 Brand (1994). How Buildings Learn: What Happens 
+After They’re Built.
+
+30.	 Byers et al. (2023). From research to practice: 
+A review on technologies for addressing the 
+information gap for building material reuse in 
+circular construction. https://www.sciencedirect.
+com/science/article/pii/S2352550923002920
+
+31.	 Ibid.
+
+32.	 Wijewickrama et al (2021) - Information brokerage 
+for circular economy in the construction industry: 
+A systematic literature review. https://www.
+sciencedirect.com/science/article/abs/pii/
+S0959652621021569
+
+33.	 See also “The importance of the homogeneity 
+(p.14)” in Poncelet and Nasseredine (2023). 
+Evaluating the technical performance of reclaimed 
+building materials. https://opalis.eu/sites/default/
+files/2022-02/FCRBE-booklet-02-fitness_for_use-
+EN.pdf
+
+B u i l d i n g C o n f i d e n c e :  A d e e p - d i ve i n t o r i s ks o f  u s i n g s e c o n d a r y 31
+c o n s t r u c t i o n p r o d u c t s a n d t h e p o t e n t i a l  r o l e o f  i n s u r a n c e f o r r e u s e
+
+
+
+CA L L  TO  ACT I O N
+
+Reusing construction products could lower of supply chains for specified reused items. 
+Europe’s building-sector CO2 emissions by an Early adopters are already mitigating these risks 
+estimated 4.4–12.6 Mt between 2025 and 2050, through design conservatism, cascading use, 
+and forthcoming EU Taxonomy rules and city- rigorous documentation, integrated “design-
+level whole-life-carbon limits will accelerate build-maintain” contracts, and partnerships 
+demand—but uptake lags because insurance with insurers that extend guarantees, proving 
+and liability frameworks were built around virgin workable solutions exist—yet sector-wide, 
+materials, creating real or perceived coverage clearer insurance pathways are still needed to 
+gaps for reclaimed components. Mainstream normalise secondary construction products just 
+stakeholders remain wary of four linked risks: as regulatory and market pressures reach a 
+(1) uncertain performance and lifespan of tipping point.
+secondary elements, (2) delays or cost overruns 
+tied to deconstruction and reconditioning, Want to know more? Get in touch with 
+(3) damage and liability during removal, ivanthung@structuralcollective.nl
+transport, or installation, and (4) the reliability 
+
+32
+
+
+
+For more visit 
+www.circularbuildingscoalition.org

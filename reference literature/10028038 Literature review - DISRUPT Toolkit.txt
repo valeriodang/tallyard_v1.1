@@ -1,0 +1,1514 @@
+﻿DISRUPT PROJECT ON STEEL REUSE 
+
+ 
+
+Delivering Innovative Steel ReUse ProjecT 
+ 
+
+At the Alliance for Sustainable Building Products (ASBP), we are conducting a study funded by 
+Innovate UK. The "DISRUPT" project aims to develop replicable and scalable business models for 
+steel reuse with the ultimate goal to expand the market of steel reuse. The business models will 
+encompass all parts of the value chain including clients, designers, contractors, stockists, 
+fabricators, and demolition contractors.  
+ 
+The project is co-partnered with Cleveland Steel and Tubes, the National Federation of Demolition 
+Contractors (NFDC), and ISG and is supported by Grosvenor. This is a one-year-long project that 
+started in April 2022 and will conclude in March 2023.  
+ 
+The project includes the following main activities:  
+ 
+
+• Conducting a literature review and mapping supply chain actors involved in steel reuse.  
+ 
+
+• Developing a business model framework including technical, economical, logistical and 
+other considerations for each actor in the value chain via available literature and 
+interviews with experts in steel reuse.  
+ 
+
+• Selecting 10 real-life case studies covering different project types, sizes, locations, and 
+supply chain models for closer analysis. This includes gathering details via published 
+information followed up with interviews with companies involved in steel reuse projects 
+across the value chain. 
+ 
+
+• Developing business models for supply chain actors that will serve as a blueprint/guide for 
+businesses interested in entering the market of steel reuse or improving their practices.   
+ 
+
+This document presents the literature review, which is the first outcome of this project. The 
+mapping of supply chain actors involved in steel reuse will be published as well. The final case 
+studies will be released closer to the end of the project along with the developed business 
+models.  
+ 
+Find out more at: https://asbp.org.uk/disrupt. 
+
+1 
+ 
+
+
+
+LITERATURE REVIEW 
+Contents 
+ 
+
+1. Introduction to steel reuse and the DISRUPT project ................................................................. 3 
+
+2. Steel reuse rates and steel reuse types ....................................................................................... 3 
+
+3. Market conditions for steel reuse ............................................................................................... 6 
+
+3.1 Steel and scrap steel market in the UK ...................................................................................... 6 
+
+3.2 Environmental impact of the steel industry .............................................................................. 7 
+
+3.3 Steel prices fluctuations............................................................................................................. 9 
+
+3.4 Potential supply of scrap structural steel for reuse ................................................................11 
+
+4. Key drivers for steel reuse .........................................................................................................12 
+
+4.1 Environmental advantages of steel reuse ...............................................................................12 
+
+4.2 Environmental policies and client demand for ESG as a driver for steel reuse ......................13 
+
+4.3 Economic benefits of steel reuse .............................................................................................18 
+
+5. Barriers to steel reuse ................................................................................................................19 
+
+6. Enablers to steel reuse ..............................................................................................................21 
+
+7. Processes for steel reuse ...........................................................................................................22 
+
+References .............................................................................................................................................26 
+
+Appendix ................................................................................................................................................28 
+
+ 
+
+ 
+
+  
+
+2 
+ 
+
+
+
+1. Introduction to steel reuse and the DISRUPT project 
+ 
+Steel is the world’s most widely used material but also one of the most carbon-intensive ones. The 
+production of a tonne of steel generates on average 1.85 tonnes of carbon dioxide (CO2) emissions. 
+The steel industry is responsible for between 7% and 9% of the world’s CO2 emissions (World Steel 
+Association, 2021).  
+ 
+The construction sector is the largest consumer of steel products. Many buildings are currently 
+demolished before the end of their technical lifetime, in particular commercial buildings that are 
+often only used for 30 to 40 years compared to a technical lifetime of 75 years or more (IEA, 2020). 
+While steel is widely recycled (circa 95% recycling rate in the UK), more benefits can be derived from 
+reusing steel that avoids the high energy process of remelting.  
+ 
+Reuse is defined as the use of products or components more than once for the same, or other 
+purposes, without reprocessing (ISO 20887, 2020). Steel is a highly reusable material; unless steel 
+products have been subject to severe conditions such as fatigue or fire, their properties do not 
+deteriorate over time. The use of reclaimed steel can save up to 96-97% of embodied carbon 
+compared to new steel (Cleveland Steel and Tubes Ltd, 2018; EMR, 2022) and is generally preferable 
+to recycling, which provides around 80% carbon savings compared to virgin steel (BCSA, 2022a).  
+ 
+
+Reduce
+
+~ 97% carbon savings vs virgin steel 
+Reuse
+
+Recycle ~ 80% carbon savings vs virgin steel 
+
+Energy recovery
+
+Disposal
+ 
+
+Figure 1 Waste hierarchy pyramid 
+
+ 
+Although not a new practice, steel reuse is experiencing a rebirth at the moment, with over a dozen 
+large construction projects underway in London. The following sections of this report provide an 
+overview of steel reuse rates (section 2), market conditions (section 3), key drivers (section 4), 
+barriers (section 5), enablers (section 6), and processes required for steel reuse (section 7).  
+ 
+   
+
+2. Steel reuse rates and steel reuse types 
+ 
+Steel reuse is not a new practice; it was more common 30-40 years ago but with the evolution of 
+standards and the market’s interpretation of them the reuse of steel sections in the UK reduced 
+significantly by 2012 (Fishwick, 2022).   
+ 
+
+3 
+ 
+
+
+
+A survey of demolition contractors in the UK (Sansom and Avery, 2014) showed that around 5% of 
+steel products on average from demolished buildings were reused in 2012 in the UK (Table 1); for 
+structural steel, this was estimated at around 7%.  
+ 
+Table 1 Reuse and recycling rates of steel from a typical building demolition site in 2012 in the UK (Sansom and Avery, 2014) 
+
+ 
+ 
+An earlier survey conducted by SCI in 2000 showed that 13% of structural steel was reused (Sansom 
+and Avery, 2014).  
+ 
+Driven by low carbon targets, steel reuse has gained momentum recently, with more actors in the 
+supply chain calling for a collaborative approach to encourage steel reuse in construction projects. 
+Some demolition contractors have been reusing steel in their temporary works, for example, Erith 
+Group has been using recovered steel from a building in propping works (Leversha et al., 2022).  
+ 
+Some steel products are harder to reuse than others. For example, composite materials are difficult 
+to segregate, and so are rarely reused, such as reinforcing bars embedded in the concrete or 
+composite floor systems made of profiled steel decking with reinforced concrete. Overall, longer 
+steel sections are more likely to be reused than shorter ones because they have a higher residual 
+value and can be cut further (Allwood et al., 2010).  
+ 
+Around 25% of the steel in typical buildings is in structural sections, mainly hot rolled sections but 
+also some welded plate.  The remaining 44% is in rebars and 31% is in sheet products such as cold-
+formed purlins for portal frame buildings and as exterior cladding (Alwood, 2002). Steel-framed 
+buildings are assembled from sections, including the beams (horizontals) and columns (verticals) of 
+the building frame. Structural steel sections are inert, robust and dimensionally stable elements 
+particularly suitable for reclamation and reuse. Figure 2 shows a distribution of steel within a typical 
+office building.  
+ 
+
+4 
+ 
+
+
+
+ 
+Figure 2 Distribution of steel within a typical office building (Alwood, 2002; Spooner et al., 2020) 
+
+ 
+Structural steelwork accounts for about 70% of multi-storey building frames built in the UK (Building, 
+2011). 
+ 
+There are some exceptions for structural steel reuse. A protocol for steel reuse (P427) by Steel 
+Construction Institute does not recommend reusing steel from: 
+• Structures erected before 1970 (because older buildings use steel with a different composition, 
+
+which hinders to use of Eurocode rules. Also, the use of red lead to prevent corrosion is an issue 
+as it is carcinogenic). 
+
+• Structures that have been subject to fatigue, e.g., reclaimed from bridges.  
+• Structures that have been subject to significant strains, e.g., plastic hinges.  
+• Structures with significant loss of section due to corrosion.  
+• Structures that have been exposed to fire (SCI, 2019).  
+ 
+In addition, structures that have been subject to radioactivity are not recommended for reuse. 
+ 
+Also, there are restrictions on where the reclaimed steel components can be reused. Steel products 
+are not recommended to be reused in: 
+• Structures subject to fatigue (e.g., bridges) or in plastically analysed structures which rely on the 
+
+formation of plastic hinges. 
+• In structures subject to seismic actions, unless the steel plays no part in resisting the seismic 
+
+action, for example as a pin-ended floor beam.  
+• In Consequence class 3 structures (e.g., grandstands and public buildings where the 
+
+consequences of failure are high such as a concert hall). This places additional requirements on 
+the testing to determine material characteristics (SCI, 2019). 
+
+ 
+ 
+
+5 
+ 
+
+
+
+3. Market conditions for steel reuse  
+ 
+
+3.1 Steel and scrap steel market in the UK 
+ 
+The UK steel industry contributed £2 billion to the UK economy in terms of gross value added (GVA) 
+in 2020 with approximately 1,100 businesses involved in the industry supporting 33,400 jobs in the 
+UK in 2019 (Hutton, 2021). More than half of all steel is used in construction. The steel industry 
+makes intermediate products (such as plates, coils and bars of steel) that are then shaped, cut and 
+assembled in the supply chains of manufacturing and construction into final products.  
+ 
+The major steel manufacturing companies in the UK are:  
+
+• British Steel Ltd (17.6% of the Iron & Steel Manufacturing industry in the UK) 
+• Tata Steel UK Limited (14.2%) 
+• Celsa (UK) Holdings Ltd (7.8%) (IBISWorld, 2018).  
+
+ 
+Steel is one of the world’s most widely recycled materials. Around 91% of steel construction 
+products from demolition were recycled in the UK in 2012 (Sansom & Avery, 2014). The major player 
+in the UK steel scrap market is European Metal Recycling Ltd (£2.5 billion revenue).  The company 
+processes approximately 10 million tonnes of recycled commodities per year, including scrap 
+vehicles, consumer products, industrial and commercial products and materials, and demolition 
+scrap (IBISWorld, 2022). 
+ 
+The UK is a net importer of steel. In 2020, the UK exported 4.4 million and imported 5.3 million 
+tonnes of steel, with a trade deficit of £0.8 billion for 1.1 million tonnes, see Figure 3. (Hutton, 2021).  
+ 
+
+ 
+Figure 3 UK trade in iron and steel (Hutton, 2021) 
+
+Around 80% of the scrap steel produced in the UK is exported. Out of 11.3 million tonnes of scrap 
+steel produced in 2018, only 2.6 Mt was used in domestic steelmaking (which is a mixture of a Blast 
+Furnace – Basic Oxygen Furnace (BF-BOF), and Electric Arc Furnace (EAF) production). The remaining 
+8.7 Mt was exported for recycling in other countries including Turkey, Pakistan, Egypt and India (Hall 
+et al., 2021). The graph below shows the increased exports of scrap steel from the UK from 2009 to 
+2019.  
+
+6 
+ 
+
+
+
+Export and import of scrap steel in the UK
+14,000
+12,000
+10,000
+
+8,000 Export
+6,000
+
+Import
+4,000
+2,000
+
+0
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+
+ 
+ 
+
+Figure 4 UK trade in scrap steel (Statista, 2021) 
+
+ 
+The UK is the largest exporter of steel scrap among the 28 countries that formerly made up the 
+European Union (Letsrecycle.com, 2021).  
+ 
+
+Scrap steel exported from the UK in 2021 (tonnes) 
+Saudi Arabia , Bangladesh , 
+
+172,000 171,000 
+USA , 211,000 
+
+India , 
+544,000  
+
+Turkey, 
+2,300, 000 
+
+Egypt,  863,000 
+ 
+
+Pakistan , 
+1,000,000 
+
+ 
+Figure 5 Scrap steel exports from the UK in 2021 (Letsrecycle.com, 2021) 
+
+ 
+ 
+The underlying reason for large exports of scrap steel is the limited domestic capacity to utilise it 
+(Environmental Audit Committee, 2022). Around 80% of the steel produced in the UK is made via the 
+BF-BOF, and 20% via electric arc furnace EAF routes (BCSA, 2022a). The UK’s BOF steelmaking 
+capacity (that uses nearly 20% of scrap in metallic charge) is approximately 8.5 Mt versus 2.5 Mt of 
+EAF capacity (uses 100% scrap) (Hall et al., 2021). 
+
+The large export of scrap steel is a missed opportunity for the UK. Instead, some of it could be 
+reused while bringing value locally (though generating jobs) and reducing the demand for steel 
+production.  
+
+ 
+
+3.2 Environmental impact of the steel industry  
+ 
+Steel production is a carbon and energy-intensive process. The steel industry generates between 7% 
+and 9% of the world’s CO2 emissions (World Steel Association, 2021). The UK steel industry was 
+
+7 
+ 
+
+1,000 metric tons
+
+
+
+responsible for 12 million tonnes of CO2 emissions in 2019 (including indirect emissions from power 
+production) (as shown in Figure 6), which accounts for 11.5% of UK industrial emissions and 2.7% of 
+all UK GHG emissions (UK Parliament Committees, 2020). 
+ 
+
+ 
+Figure 6 Carbon emissions from the manufacture of iron and steel in the UK (Statista, 2021) 
+
+ 
+ 
+The global steel demand is expected to continue, rising to 2.5 billion tonnes per annum by 2050 
+(from the current production levels of 1.8 billion tonnes) as demand for goods and services increases 
+with economic and population growth, especially in the developing markets. Figure 7,  shows 
+differences in steel production and scrap consumption in leading markets in 2020.  
+ 
+
+ 
+ 
+
+Figure 7 Steel production and scrap consumption gap in leading markets in 2020 (Statista, 2021) 
+
+ 
+To decarbonise steelmaking lots of attention is directed at improving the technology of steel 
+production, such as using more recycled materials in EAFs, switching from coking coal to low-carbon 
+hydrogen as the chemical reducing agent, and using Carbon Capture and Storage (CCS) and Carbon 
+
+8 
+ 
+
+
+
+Capture and Utilisation (CCU) solutions (Hutton, 2021).  Adopting technological solutions alone is not 
+sufficient to reach net-zero targets according to a recent study by Garvey et al. (2022). Material 
+efficiency will also be necessary considering the growing demand for steel production worldwide. A 
+roadmap to decarbonise steel produced by the International Energy Agency suggests that, 
+cumulatively, more efficient use of materials will reduce carbon emissions between 2020 and 2050 
+by 40% – far more than any other approach, including a switch to electricity, hydrogen and biofuels, 
+which could account for 18%, and CCS which could account for a 16% reduction (IEA, 2020), as 
+shown by Figure 8.  
+ 
+
+ 
+Note: STEPS = Stated Policies Scenario, SDS = Sustainable Development Scenario. Emission reductions are measured 
+relative to the Stated Policies Scenario; as such, the proportion of improvements relative to today that occurs in both 
+scenarios is not represented (e.g. a significant share of increases in scrap-based production). Material efficiency here refers 
+specifically to demand reduction. Electrification here includes only direct electrification, primarily via conventional 
+technologies, including shifts towards secondary production in EFs and electrification of ancillary process equipment like 
+preheaters and boilers. Hydrogen here refers specifically to electrolytic hydrogen, while so-called blue hydrogen (via 
+natural gas-based DRI with CCUS) is included under CCUS. Other fuel shifts include primarily coal to natural gas switching. 
+
+Figure 8 The impact of material efficiency strategy on carbon emission reductions in the iron and steel sector in comparison 
+with technology solutions  (IEA, 2020) 
+
+ 
+Resource efficiency in the construction sector offers a great opportunity to cut carbon emissions. 
+Estimates suggest that 22.3 MtCO2e of GHG emissions could be saved over 9 years by increasing 
+the reuse of construction products to 35% (CIE-MAP, 2018).  
+ 
+
+3.3 Steel prices fluctuations  
+ 
+Steel is a commodity material traded globally and as such, subject to fluctuations depending on 
+market activity. Steel prices reflect the immediate balance of supply and demand. Supply is 
+constrained by the current global capacity. Prices rise if demand increases ahead of capacity, but 
+when demand falls, prices fall below their long-run levels until sufficient steelmaking plants close 
+(Allwood et al., 2019).  
+ 
+
+9 
+ 
+
+
+
+Global steel prices have risen over the past five years owing to high demand from China and other 
+emerging markets, as well as supply shortages. The economic fallout from the COVID-19 outbreak 
+initially limited demand for metals from the construction, automotive and manufacturing sectors. 
+However, rising business confidence over 2021-22 is expected to support a recovery in these 
+markets (IBISWorld, 2018). Historical steel prices are provided in Figures 9 and 10.    
+ 
+
+ 
+ 
+
+Figure 9 Prices of new and scrap steel from 2011 to 2016 (Dunant et al., 2018) 
+
+ 
+ 
+
+Steel prices 2013-2022
+
+ £1,400
+
+ £1,200
+
+ £1,000
+
+ £800
+
+ £600
+
+ £400
+
+ £200
+
+ £-
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+
+A beams A1 beams
+ 
+
+Figure 10 Prices of steel beams from 2013 to 2022 (Data was provided by Cleveland Steel and Tubes) 
+
+ 
+The cost of steel has gone up increasingly for both new steel and scrap steel. The average cost of 
+new steel has undergone a 205% increase from £428 in 2016 to £1,307 in 2022 (see Figure 10). The 
+average cost of scrap steel grade OA has gone up from £65 per tonne in 2016 to £350 per tonne in 
+2022, which is a 438% increase (see Figure 11). 
+ 
+
+10 
+ 
+
+
+
+Price fluctuation of scrap steel
+Grade OA Heavy structural and plate
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Minimum
+
+Maximum
+ 
+
+ 
+
+Figure 11 Scrap steel prices (MRW, 2022) 
+
+ 
+Although new steel and scrap steel prices are volatile, there has been a consistent price differential 
+between new and scrap steel, which represents a profit opportunity for steel reuse. 
+ 
+
+3.4 Potential supply of scrap structural steel for reuse  
+ 
+Many buildings are currently demolished before the end of their technical lifetime, in particular 
+commercial buildings that are often only used for 30 to 40 years compared to a technical lifetime of 
+75 years or more (IEA, 2020).  
+ 
+
+ 
+Figure 12 Forecast availability of scrap structural sections in the UK (Allwood et al., 2012) 
+
+ 
+
+11 
+ 
+
+£/tonne
+
+
+
+The graph (Figure 12) shows an estimated history of construction steel used in the UK, and the 
+second line, smoothed and shifted forwards by 40 years, is an indicator of the upcoming availability 
+of structural steel in buildings reaching their end-of-life (Allwood et al., 2012).  
+ 
+
+ 
+
+4. Key drivers for steel reuse  
+ 
+
+4.1 Environmental advantages of steel reuse  
+ 
+Reusing steel can provide significant environmental benefits. The use of reclaimed steel products 
+reduces the demand for virgin materials resulting in lower energy use and GHG emissions.  
+ 
+According to European Metal Recycling (EMR), reusable steel is responsible for only 15 kg of carbon 
+emissions per tonne (EMR, 2022). This is significantly lower than primary steelmaking routes, see 
+Figure 13.  
+ 
+
+ 
+Figure 13 Carbon impact of steel reuse in comparison with other steelmaking routes (European Metal Recycling Ltd, 2022) 
+
+The Environmental Product Declaration (EPD) developed by EMR shows that their reusable steel is 
+responsible for as little as 46.6 kg of CO2e per tonne. This includes A1 raw material (25.5 kg/ CO2e/t), 
+A2 upstream transportation (13.4 kg/ CO2e/t) and A3 manufacturing (7.7 kg/ CO2e/t).  
+
+In comparison, embodied carbon of virgin steel (hot rolled sections) shows 1740 kg of CO2e per 
+tonne considering A1 module only, according to BCSA and SCI (NSC, 2021).  
+ 
+The use of reclaimed steel sections is estimated by BRE as having 96% lower environmental impact 
+across various categories in contrast to using new steel (Figure 14).  
+ 
+
+12 
+ 
+
+
+
+ 
+ 
+
+Figure 14 Life Cycle Assessment of reclaimed and new steel (BioRegional, 2002) 
+
+ 
+Cleveland Steel and Tubes Ltd commissioned a Life Cycle Assessment for their recovered and 
+refurbished coated steel tubes from the steel, oil and gas industry. The assessment revealed 96% 
+greenhouse gas emissions savings compared to buying new steel. The other environmental benefits 
+include an 84% reduction in acidification, 63% in eutrophication, 96% in photochemical oxidation, 
+95% in abiotic depletion and 99% in water savings. The life cycle analysis considered a range of 
+factors, including material processing, logistics, and disposal of any generated waste (Cleveland Steel 
+and Tubes Ltd, 2018).  
+ 
+
+4.2 Environmental policies and client demand for ESG as a driver for steel reuse 
+  
+The construction sector, similar to other sectors is experiencing growing pressure to reduce its 
+carbon footprint, material consumption and waste.  
+ 
+Decarbonisation of the steel industry is an important part of reaching the Government’s target to 
+achieve net-zero greenhouse gas emissions in the UK by 2050. Earlier this year, the Environmental 
+Audit Committee launched an inquiry looking for solutions to decarbonise UK steel production that 
+includes improving material efficiency in the sector (Environmental Audit Committee, 2022). Steel 
+reuse was mentioned as an approach to reduce the demand for steel production, lowering carbon 
+emissions (see Appendix).  
+ 
+Circular economy concepts are being promoted, particularly at the EU level, with a roadmap 
+developed to support a shift towards a resource-efficient, low-carbon European economy (SCI, 
+2019). In the UK, there are planning requirements for referable developments to the Greater London 
+Authority to undertake a circular economy statement. In undertaking this retention the reuse of 
+materials should be considered.  Other local authorities are starting to ask for these types of 
+Statements. There is also ad river for whole life carbon assessments and targets, which are being 
+carried out more so; reusing steel, as already discussed is a key strategy to reduce embodied carbon 
+on developments (Greater London Authority, 2022).       
+ 
+
+13 
+ 
+
+
+
+Strengthening policies around environmental issues impact developers who are looking for low 
+carbon circular economy solutions. For example, Grosvenor Group has engaged in a number of steel 
+reuse projects, including the Holbein Gardens project, Fabrix has enabled steel reuse at the 55 
+Suffolk Street project, and Delancey at Elephant and Castle town centre redevelopment project. 
+(Case studies with steel reuse will be published closer to the end of this project.) 
+ 
+A list of strategies and initiatives around steel sector decarbonisation and resource efficiency in the 
+UK is compiled in Table 2.  
+
+ 
+Table 2 Strategies, policies and initiatives around steel sector decarbonisation and waste reduction in the UK 
+
+Strategy/Policy/Initiative Owner  Target 
+Government and agency publications 
+
+Climate Change Act of 2008 The UK Government  To reduce 68% of carbon emissions by 
+ 2030 and 78% by 2035, compared to 
+
+1990 (which equates to a 67% 
+reduction compared to 2018 levels); 
+and net zero by 2050 
+
+Iron and Steel International Energy The analysis of strategies required to 
+Technology Roadmap, 2020 Agency  reduce carbon emissions in the iron 
+
+and steel industry concluded that:  
+-  when examining emission 
+reductions cumulatively during 2020-
+50, the largest roles are played by 
+material efficiency (40%), technology 
+performance (21%) and 
+improvements for carbon capture, 
+use and storage (CCUS) 16%.  
+- Within this, direct steel reuse 
+accounts for 15% of the cumulative 
+reductions in demand for crude steel.  
+
+Net Zero Strategy: Build Back HM Government To increase resource efficiency. 
+Greener, 2021 Resource efficiency and material 
+
+substitution measures could save 9 
+MtCO2e per annum in the industry 
+within the UK by 2050. Resource 
+efficiency measures reduce emissions 
+from industrial processes by keeping 
+products and materials in circulation 
+for longer by way of reuse, repair, 
+remanufacture and recycling as well 
+as reducing material usage. These 
+activities enable the retention of 
+value, and in some cases the creation 
+of new value for both the producer 
+and customer, at a much-reduced 
+environmental impact. 
+
+Industrial HM Government  Carbon emissions reduction by at 
+Decarbonisation Strategy, 2021 least two-thirds by 2035 need to fall 
+
+14 
+ 
+
+
+
+Strategy/Policy/Initiative Owner  Target 
+by around two-thirds by 2035, with 3 
+MtCO2 captured through Carbon 
+Capture, Usage and Storage (CCUS) 
+and around 20 TWh switching to low 
+carbon fuels by 2030 
+
+Steel Procurement The Steel Procurement - The UK steel industry should 
+Taskforce Taskforce network develop a digital products library, 
+Final Report 2022 consisted of collaborating with the Government as 
+ representatives from the necessary. 
+(Explored how the steel sector can UK steel industry and - HMG should restate the importance 
+best position itself to compete for from across the of early engagement with the steel 
+major public projects) government including supply chain, drawing on best 
+
+the Department for practices set out in the Construction 
+Business, Energy & Playbook. 
+Industrial Strategy (BEIS) - HMG should set a requirement for 
+
+all new qualifying contracts, where 
+steel may be purchased directly or via 
+any sub-contract, for the origin of this 
+steel to be recorded and reported. 
+
+Technological Innovations and Environmental Audit - The Committee is concerned with 
+Climate Change inquiry: Green Committee (EAC) increased dependency on imported 
+Steel, 2022 steel in future. 
+
+- Most of the scrap steel in the UK is 
+exported. There is a potential to make 
+better use of domestic scrap. 
+(more details in Appendix) 
+
+The London Plan 2021 Greater London Policy SI 7 Reducing waste and 
+ Authority supporting the circular economy  
+ encourages waste minimisation and 
+
+waste prevention through the reuse 
+of materials and using fewer 
+resources in the production and 
+distribution of products and sets the 
+folowing targets: 
+- To meet or exceed 95% reuse/ 
+recycling/ recovery targets for 
+construction and demolition 
+- To submit Circular Economy 
+Statements for major developments 
+in London demonstrating how all 
+materials arising from demolition 
+and remediation works will be re-
+used and/or recycled 
+
+Our Waste, Our Resources: A Department for To increase the reuse of materials 
+Strategy For England Environment, Food & and products and address barriers to 
+
+Rural Affairs (DEFRA) reuse. 
+
+15 
+ 
+
+
+
+Strategy/Policy/Initiative Owner  Target 
+Waste Prevention Programme for Department for To reduce construction waste and 
+England, 2021 Environment, Food & increase the reuse of construction 
+
+Rural Affairs (DEFRA) materials at their highest value. This 
+means designing buildings for 
+adaptability and deconstruction, 
+increased reuse of components, use 
+of materials that can be 
+reused and recycled, and improved 
+demolition systems. 
+
+Resource efficiency and waste Department for To eliminate avoidable waste of all 
+reduction targets Environment, Food & kinds by 2050. 
+Detailed Evidence report, 2022 Rural Affairs (DEFRA) 
+
+Industry networks 
+Low Carbon Roadmap The European Steel A roadmap to transition to a low or 
+Pathways to a CO2-Neutral Association (EUROFER) carbon neutral European steel 
+European Steel Industry, 2019 industry: 
+
+• To achieve carbon emissions cuts of 
+between 80-95% by 2050 
+• Total costs of production will rise by 
+35-100% per tonne of steel by 2050 
+as a result of the 
+costs of using new technologies and 
+more energy 
+• Additional energy requirements will 
+be about 400TWh of CO2-free 
+electricity in 2050 – 
+about seven times what the sector 
+purchases currently. 
+
+SteelZero initiative, 2020  Climate Group and To join SteelZero, organisations must 
+ResponsibleSteel  make a public commitment to 
+
+procuring, specifying or stocking 
+100% net zero steel by 2050 and an 
+interim commitment to procuring, 
+specifying or stocking 50% of its steel 
+requirement by 2030. Reuse is not 
+
+specifically mentioned.  
+How should ZeroWaste Scotland To encourage local reuse of steel to 
+Scotland manage reduce carbon footprint of 
+its scrap steel? steelmaking. A scenario is suggested 
+The environmental assessment, where 16% of the steel scrap 
+2021 generated in Scotland is reused and 
+
+the remaining 84% is recycled, which 
+would result in 580 kgCO2e/t. In 
+comparison, 100% recycling is 
+estimated at 641 kgCO2e/t.  
+
+Maximising value: Positive Make UK To contribute fully to those produced 
+Procurement of Steel. Guidance by 
+
+16 
+ 
+
+
+
+Strategy/Policy/Initiative Owner  Target 
+for Signatories for the UK Steel the UK, Scottish and Welsh 
+Charter, 2021 Governments.  
+
+ 
+Sourcing products locally cuts down 
+significantly 
+on transport related carbon 
+emissions. A tonne of 
+steel transported within the UK 
+produces less than 10kg CO2/tonne, 
+on average. Compare this to steel 
+imported from the EU at 160kg 
+CO2/tonne or from China at 550kg 
+CO2/tonne. 
+
+Roadmap to net zero for the Make UK and Inspired To achieve a 67% reduction in Scope 1 
+manufacturing sector, 2022 Energy and 2 emissions by 2035, and net zero 
+
+by 2050  
+Accelerating material re-use Grosvenor in To build confidence in supplying and 
+network, 2021 collaboration with 120 receiving materials on-site through 
+
+built environment enhancing knowledge and creating a 
+professionals network of progressive companies 
+representing the full willing to trial new approaches. 
+lifecycle of a building 
+
+UK structural BSCA A roadmap for the UK structural 
+steelwork: 2050 steelwork sector decarbonisation. 
+decarbonisation Steel reuse is featured as part of the 
+roadmap, 2022 circular economy strategy, which 
+
+contributes 15% along with other 
+strategies such as design efficiency, 
+direct steelmaking emission 
+reductions, decarbonisation of the 
+electricity grid, carbon capture and 
+use and storage, and steel transport, 
+fabrication and erection. Reuse and 
+remanufacture were given a 
+Technology Readiness Levels (TRL) 
+score of 7 (System prototype 
+demonstration in operational 
+environment).  
+
+Steel companies 
+Low-Carbon Roadmap, 2021 British Steel To deliver CO2 reduction by 2030, 
+
+2035 and 2050 to align with UK net 
+zero targets 
+To support recycling and reuse, for 
+instance using increased levels of 
+scrap in its steelmaking process and 
+encouraging reuse of steel products 
+at the end of life, where appropriate 
+
+17 
+ 
+
+
+
+Strategy/Policy/Initiative Owner  Target 
+Pathway to net zero carbon, 2021 CELSA Steel UK To achieve a Net Zero Carbon 
+
+emissions facility by 2030 
+Commitment to net zero, 2021 Tata Steel To achieve 30% carbon reductions by 
+
+2030 and become carbon neutral by 
+2050 
+
+GREENSTEEL strategies, 2021 LIBERTY Steel Group To recycle and upcycle the growing 
+amount of scrap steel, using electric 
+arc furnaces powered by renewable 
+energy 
+
+ 
+ 
+
+4.3 Economic benefits of steel reuse  
+ 
+Reusing steel can provide significant cost savings. The profitability of steel reuse depends on the 
+relative costs of new and scrap steel, and the costs of additional processes required for reclaimed 
+products (including reconditioning, testing, transporting, storing, certification and deconstruction 
+costs).  
+ 
+A research study by Dunant et al. (2018) showed that reclaimed steel products can be slightly (3 to 
+10%) more expensive than new steel depending on a number of factors. Figure 15 shows the cost 
+comparison for reused and new steel.    
+ 
+
+ 
+ 
+Figure 15 Comparison between reconstructed new steel prices, by summing individual costs, and from information about 
+the overall structure. Reused steel prices are reconstructed only by summing the prices of individual operations (Dunant et 
+al., 2018) 
+
+ 
+However, a review of case studies in the past showed many cases of gaining economic benefits from 
+steel reuse. A summary of steel reuse projects in the UK completed between 2004 and 2012 is given 
+in Table 3. The majority (75%) of steel reuse case studies were profitable. 
+
+18 
+ 
+
+
+
+ 
+Table 3 Profitability of steel reuse case studies in the UK between 2001 and 2014, compiled by (Dunant et al., 2018) 
+
+Case study  Profitability of Description  
+steel reuse 
+
+Guillemont Park No Five, 3-storey buildings, grid 9×9m, 14,000m2; 107 tonnes of 
+Camberley 2004 the almost unspoilt floor beam available for reuse. The price of 
+
+steel scrap was high so the proposed buyer price was not 
+profitable for the demolition contractor. 
+
+Carrwood Park Yes 1800m2 portal-framed building constructed using 82 tonnes of 
+Doncaster 2008  reclaimed structural steel from an old warehouse. Refurbished. 
+Blue Steel Building Yes 14,500m2, Poundstretcher facility refurbished and extended. 
+Leeds 2005 Became a Carlsberg facility. 
+BedZed London, 2001 Yes The structure of the workshop area of the building is made 
+(BioRegional using steel sourced from temporary works at Brighton railway 
+Development Group, station. No testing, and material costs were neutral compared 
+2002) to new steel, second-hand steel price was 300 £/t. 
+Relocation of Leigh Rd, Yes Relocation of the building 1 mile away. Reused: steel structure, 
+9 Cambridge Ave. glazing, staircases, loading doors, precast beams, planks, 
+(Segro) curtain walling, fencing, lift, balustrades. Not reused: bricks, 
+Slough, 2015 cladding, roof. 
+Sainsbury Mezzanine Yes The roof was disassembled, and a new floor was added. 
+Kent, 2010 Structure: shot blasted, not painted, not fire protected, only 
+
+connections tested. 
+RHS Hyde Hall Essex, No An option for reuse was developed and rejected based on 
+2014 costs. 
+Honda Central Swindon, Yes Honda steel warehouse deconstruction, and storage (for 18 
+2005 months). Re-erection in a different location (cladding not 
+
+reused). 
+
+ 
+Under certain (project-dependent) circumstances steel reuse can bring cost savings if some of the 
+costs are abolished or significantly lower, for example, when: 
+
+• Testing of individual elements is limited   
+• Transport costs are lower when the reused elements are available from a nearby site 
+• Sub-assemblies which are reused do not need to be re-fabricated 
+• Reused steel can be procured at low costs 
+• Fabrication costs for reclaimed steel are lower than for new steel (Dunant et al., 2018).  
+
+ 
+
+5. Barriers to steel reuse  
+ 
+Previous studies have shown that the major barriers to steel reuse include limited availability of 
+reclaimed products, lack of traceability, economic barriers and time limitations, poor supply chain 
+integration, and lack of incentives for steel reuse. Each of these barriers is described further in detail.  
+ 
+
+• Limited availability of reclaimed products. Given the low volume of steel sections currently 
+reclaimed from UK demolition (estimated to be 7%), reclaimed steel members are not 
+readily available, particularly in terms of the desired size, volume and the right location. This 
+hinders procurement and affects lead times that are critical in construction projects.  
+
+19 
+ 
+
+
+
+ 
+• Lack of traceability of reclaimed products. Steel reuse might be hindered when little or no 
+
+information is available about which building the reclaimed products come from, their 
+mechanical and chemical properties and in-use history. Having such information is essential 
+for deciding whether steel elements can be reused (e.g. steel from structures erected before 
+the 1970s is not recommended for reuse by the protocol for steel reuse (P427)). Some 
+properties of the material can be determined by tests, but this can increase costs and can be 
+time-consuming. Having information on the provenance of reclaimed steel products is 
+important for designers and steelwork contractors to design and fabricate reclaimed steel 
+structures efficiently and safely (Tingley et al., 2017).  
+ 
+
+• Insufficient time within new development programmes to allow for deconstruction and 
+recovery of the steel elements rather than demolition (BCSA, 2022b). Seel reuse being 
+uncommon practice means more time on planning, coordinating and reassurance might be 
+required. The impact of steel reuse on project timeliness is particularly important for the 
+clients, main contractors and demolition contractors. This will be mitigated with more 
+companies getting experience with steel reuse. 
+
+ 
+• Lack of incentives. Companies are not sufficiently incentivised to drive steel reuse from 
+
+policy and legislative perspectives. Material reuse is not directly recognised/encouraged in 
+the BREEAM sustainable building certification scheme (unlike in the LEED scheme where one 
+or two points are awarded, respectively, if the project can demonstrate that 5% or 10% of 
+the total monetary value of materials on the project is reclaimed, refurbished, or reused, 
+and installed permanently in the final building (Winters-Downey, 2010)). Also, the 
+reclamation of steel from demolition for reuse instead of recycling is not incentivised.   
+ 
+Economic barriers and time limitations. Although case studies demonstrate that steel reuse 
+can be profitable, it also entails economic risks. The profitability of steel reuse projects 
+depends on a number of factors including relative prices of new and scrap steel. Steel prices 
+have been highly volatile over the past five years; these pose risks and are difficult to 
+forecast. There are also additional costs incurred as a consequence of using reclaimed steel: 
+deconstruction/demolition, reconditioning, transportation, storage and testing costs. The 
+costs of these activities are highly variable and project dependent. 
+ 
+
+• Lack of supply chain integration. Traditional construction supply chains are complex and 
+highly fragmented. In most construction projects, the supply chain relations terminate at a 
+building completion/handover or shortly after this. Following the building’s useful life (which 
+can be 50-100 years or more, though usually shorter for commercial buildings), a demolition 
+contractor is engaged to demolish or deconstruct the building. Hence, designers and 
+demolition contractors are disconnected. In the reuse model where steel is recovered from a 
+demolished donor building and incorporated into a new recipient building, information 
+sharing between designers and demolition contractors is beneficial for planning the 
+reclamation of steel elements and design based on available steel elements (Tingley et al., 
+2017). 
+
+ 
+
+20 
+ 
+
+
+
+6. Enablers to steel reuse 
+ 
+The following enablers could help to overcome some of the barriers to steel reuse.  
+ 
+
+• Digital tools including BIM and material passports  
+ 
+
+The application of digital tools and the BIM model could increase information sharing across 
+the products supply chain, responding to the barriers of lack of traceability, supply chain 
+integration and availability of reclaimed products.  
+ 
+o For example, having a BIM model of a building could help to identify which materials 
+
+have been used in a building, its properties, certificates and testing details. When the 
+building is demolished/deconstructed, reclaimed steel products with known provenance 
+and properties are easier to be reused in future, as some testing can be avoided.  
+ 
+
+o A permanent marking on each steel product/section at regular intervals could specify its 
+grade, property and product history. This enhances the traceability of products and 
+facilitates decision-making on reusing products.  
+
+ 
+o A database of suppliers could be created to link supply and demand. The database could 
+
+show which products are available for purchase and their characteristics. This would 
+facilitate the procurement of reclaimed products (Tingley et al., 2017).  
+
+ 
+For instance, the Loopfront digital reuse platform launched in 2019 in Norway enables 
+registering technical information on materials and inventory on existing buildings or 
+those planned for demolition. The company connects building owners, construction 
+companies and industrial actors and is currently working with several organisations, 
+including municipalities in Norway and Sweden, and has plans to enter more countries in 
+the EU market (Loopfront, 2022).  
+ 
+In the UK, the London Borough of Enfield has set up an Excess Materials Exchange 
+platform for the partners, contractors and consultants where construction materials can 
+be uploaded and purchased to be reused in new projects (Enfield, 2022). Currently, 
+Drumsheds are scheduled for disassembly or demolition, which can potentially be 
+reused in new projects.   
+
+ 
+o Furthermore, the introduction of material passports could facilitate the reuse of steel 
+
+products. Material passports consist of a series of data describing the characteristics of 
+the building’s elements, including a complete description of all products, components, 
+and raw materials that are present in the building to provide value for the recovery, 
+recycling, and reuse of the mentioned parts after demolition/deconstruction (Bertino et 
+al., 2021).  
+
+ 
+• Design for reuse 
+
+ 
+
+21 
+ 
+
+
+
+Some of the principles for design for reuse include simplicity in design, modular design, using 
+standardised sizes, using longer beams, avoiding fabricated sections, and avoiding composite 
+materials, such as composite steel floor decks. Also, the development of a disassembly plan 
+could become part of the design process to encourage the reuse of materials and 
+components.  
+
+ 
+• Government policy and incentives 
+
+ 
+Government intervention could play a significant role to encourage supply (demolition 
+contractors) and demand (clients and their professional advisers) to increase steel reuse.  
+
+o The government could encourage demand through public sector procurement, 
+specifying a percentage of steelwork to be reused.  
+
+o Local authorities could incorporate design for deconstruction and future reuse into 
+local planning regulations. 
+
+o Fiscal incentives to support new business development around steel reuse could be 
+provided, for example, subsidising the storage of reused steel (Tingley et al., 2017). 
+Material pricing mechanisms such as virgin material taxes and material price 
+stabilisation instruments could be applied (Garvey et al., 2022).  
+
+o Softer initiatives might include establishing a registry for suppliers of reused steel, 
+encouraging information sharing, awareness-raising and recognition for projects 
+leading to steel reuse, for example through industry awards (Tingley et al., 2017). 
+
+ 
+• Technologies for non-destructive testing, deconstruction and segregation 
+
+ 
+Improvements in infrastructure for steel reuse would facilitate its wider adoption. This 
+includes: 
+
+o Rapid non-destructive testing technologies enable fast low-cost assessment of the 
+material properties of reclaimed steel members.  
+
+o Technologies for remote deconstruction of buildings conforming to health and safety 
+considerations.  
+
+o Technologies that effectively segregate composite materials (Allwood et al., 2010).  
+ 
+
+7. Processes for steel reuse 
+ 
+Figure 16 shows a simplified model for the construction of a building with reused steel. Testing and 
+certification of reclaimed steel are described in detail in the protocol for structural steel reuse (P427) 
+developed by the Steel Construction Institute (SCI, 2019). Also, the British Constructional Steelwork 
+Association (BCSA, 2022) has published a model specification that applies particularly to the contract 
+between the stockholder and the purchasing steelwork contractor to provide confidence that steel 
+sections meet performance requirements. 
+ 
+ 
+
+22 
+ 
+
+
+
+ 
+ 
+
+Figure 16 Process flow for building a new building with reused steel (Allwood et al., 2012) 
+
+ 
+ 
+The main processes required for steel reuse include the following.   
+ 
+• Pre-demolition audit (also called preliminary assessment) is conducted before the existing 
+
+structure is demolished/deconstructed to collect information about potential qualities and 
+quantities of steel.  At this step, general information about the existing structure is collected, 
+such as the description of the structure and its use, the location of the structure and the date of 
+construction. The audit can help to define expected steel condition, quantities, 
+recommendations for reclamation and ways to ensure safety during the process.  
+ 
+
+• Reclamation of steel products by demolition contractors from structures erected after 1970 that 
+were not subject to fatigue, significant strains, loss of section due to corrosion, and other severe 
+conditions such as fire.  
+
+ 
+• Inspection of reclaimed products after deconstruction (conducted by stockholders).  
+
+ 
+o Steelwork is visually inspected for any significant (exceeding 5%) loss of section due to 
+
+corrosion, signs of damage or plastic strain.  
+o If existing connections are to be reused, the condition of any welds should be carefully 
+
+inspected and tested.   
+o Also, a stockholder should measure the sectional dimensions (cross-section and length) and 
+
+assess straightness (against specified tolerances) to comply with the National Structural 
+Steelwork Specification for Building Construction (NSSS) (SCI, 2019).  
+
+ 
+
+23 
+ 
+
+
+
+Reclaimed steel will be available in various conditions. Some steelwork will have been used in a 
+building for years with plates welded and holes drilled through it. Some may have been stored 
+outside for months and may appear ‘rusty’. Other steelwork is as good as new, coming from 
+cancelled orders where the steel has already been fabricated for a new project - it has been certified 
+and its provenance is known.  To differentiate between various conditions of reclaimed steel, a 
+grading system has been proposed by Penny Gowler from Elliott Wood and Roy Fishwick from 
+Cleveland Steel and Tubes (Table 4).  
+ 
+Table 4 The proposed grading system for reclaimed steel (Gowler, 2022) 
+
+Grade A Grade B  Grade C Grade D Grade E 
+Pre-owned clean Second-hand Second-hand steel, Second-hand steel, Not structurally 
+steel, no holes, no steel, all existing some existing holes existing holes compliant e.g. 
+fittings etc.  holes repaired, all to be repaired remain, historic twisted, plastic 
+
+historic plates, (refer to drawings), plates, connections deformation  
+connections etc. historic plates, etc. can stay in 
+to be removed  connections etc. to place unless they 
+
+be removed  clash with 
+proposed 
+connections  
+
+     
+ 
+• Reconditioning (re-fabrication) of reclaimed steel products (by stockholder) including: 
+
+ 
+o removing coatings, particularly those containing toxic substances such as lead, cadmium, 
+
+asbestos and surface scaling 
+o removing redundant welded fittings, such as stiffeners or cleats 
+o filling bolt holes (depending on location, size and other requirements) 
+o Steel products should be free from discontinuities (imperfections and defects) resulting from 
+
+the reclamation process; these can be rectified by the supplier. 
+ 
+• Testing and certification of reclaimed products. This is conducted by independent accredited 
+
+testing bodies and coordinated by the stockholder. The following material properties are 
+determined via testing:  
+
+ 
+o yield strength, ultimate strength and elongation (determined by both destructive and non-
+
+destructive tests, based on which steel grade can be established) 
+o impact toughness (if required, determined by destructive tests) 
+o product analysis to determine Carbon Equivalent Value (CEV) (determined by non-
+
+destructive and destructive tests) 
+
+24 
+ 
+
+
+
+o section dimensions and member straightness (based on dimensional survey).  
+ 
+
+Reclaimed structural steelwork is subject to CE/UKCA Marking in accordance with BS EN 1090 in 
+a similar way as with new steel products. For reclaimed steel, the declared material properties 
+are consistent with those assumed in the design.  
+ 
+The following properties are mandatory to be declared:  
+
+o strength (yield and tensile), 
+o elongation,  
+o tolerance on dimensions and shape,  
+o heat treatment delivery conditions.  
+o If the steel is to be welded, information on Carbon Equivalent Value (CEV) should be 
+
+provided.  
+ 
+
+In some cases, the following properties might also need to be declared:  
+o stress reduction of area requirements (STRA),  
+o impact strength or toughness,  
+o through thickness requirements (Z-quality) and  
+o limits on internal discontinuities or cracks in zones to be welded.  
+
+ 
+• Transport and storage of reclaimed products.  
+ 
+• Data recording. The following data should be recorded and linked with each structural member:  
+ 
+
+o Data on buildings (from which steel products are reclaimed), i.e., building age and location, 
+the form of construction and any related information such as drawings, modifications and 
+records.  
+ 
+
+o Data on individual steel members, i.e., section size, length, group, member individual 
+identification, tolerance check (section dimensions and bow imperfections), comments such 
+as stiffeners or fabricated features, coating type, coating thickness if determined, condition 
+of coating, materials properties determined by tests and through conservative assumptions. 
+ 
+
+o Stockholder records, i.e., stockholder details including name and other relevant data, 
+internal report/documentation number (based on stockholder records) and other quality 
+records such as testing laboratories, etc. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+25 
+ 
+
+
+
+References 
+ 
+
+Allwood, J., Dunant, C., Lupton, R., & Serrenho, A. (2019). Steel Arising. Opportunities for the UK in a 
+transforming global steel industry. https://doi.org/10.17863/CAM.40835 
+
+Allwood, J. M., Cullen, J. M., Carruth, M. A., Cooper, D. R., McBrien, M., Milford, R. L., ..., & & Patel, 
+A. C. (2012). Sustainable materials: with both eyes open. In UIT Cambridge Limited. 
+
+Allwood, J. M., Cullen, J. M., Cooper, D. R., Milford, R. L., Patel, A. C. H., Carruth, M. A., & Mcbrien, 
+M. (2010). Conserving our metal energy. Avoiding melting steel and aluminium scrap to save 
+energy and carbon. 
+
+BCSA. (2022). Model specification for the purchase of reclaimed steel sections. https://portal.steel-
+sci.com/shop.html 
+
+BCSA. (2022). Why is European steel lower carbon than UK steel? 
+https://steelconstruction.org/resources/sustainability-faqs/why-is-european-steel-lower-
+carbon-than-uk-steel/ 
+
+BCSA. (2022). Why is structural steel reuse not more common? 
+https://steelconstruction.org/resources/sustainability-faqs/why-is-structural-steel-reuse-not-
+more-common/ 
+
+Bertino, G., Kisser, J., Zeilinger, J., Langergraber, G., Fischer, T., & Österreicher, D. (2021). 
+Fundamentals of building deconstruction as a circular economy strategy for the reuse of 
+construction materials. Applied Sciences (Switzerland), 11(3), 1–31. 
+https://doi.org/10.3390/app11030939 
+
+BioRegional. (2002). BedZED: Toolkit Part I A guide to construction materials for carbon neutral 
+developments. www.bioregional.com 
+
+Building. (2011). Steel insight: Structural steelwork. https://www.building.co.uk/steel-insight-
+structural-steelwork/5026908.article 
+
+CIE-MAP. (2018). Less in More out. Using resource efficiency to cut carbon and benefit the economy. 
+https://green-alliance.org.uk/wp-content/uploads/2021/11/Less_in_more_out.pdf 
+
+Cleveland Steel and Tubes Ltd. (2018). Life Cycle Analysis (LCA): recovered and refurbished coated 
+steel tubes. 
+
+Densley Tingley, D., Cooper, S., & Cullen, J. (2017). Understanding and overcoming the barriers to 
+structural steel reuse, a UK perspective. Journal of Cleaner Production, 148, 642–652. 
+https://doi.org/10.1016/j.jclepro.2017.02.006 
+
+Dunant, C. F., Drewniok, M. P., Sansom, M., Corbey, S., Cullen, J. M., & Allwood, J. M. (2018). Options 
+to make steel reuse profitable: An analysis of cost and risk distribution across the UK 
+construction value chain. Journal of Cleaner Production, 183, 102–111. 
+https://doi.org/10.1016/j.jclepro.2018.02.141 
+
+Enfield. (2022). https://enfield.excessmaterialsexchange.com/ 
+
+Environmental Audit Committee. (2022). Oral evidence: Technological innovations and climate 
+change: green steel, HC 1093. https://committees.parliament.uk/oralevidence/10186/pdf/ 
+
+26 
+ 
+
+
+
+EMR. (2022). Reusable Steel. Environmental Product Declaration. 
+https://api.environdec.com/api/v1/EPDLibrary/Files/c7738817-d300-4a47-ff97-
+08da578745ab/Data 
+
+European Metal Recycling Ltd. (2022). Written evidence submitted by European Metal Recycling Ltd. 
+https://committees.parliament.uk/writtenevidence/106883/pdf/ 
+
+Fishwick, R. (2022). Material Learnings and Reuse Stories from the CISL Entopia Building. CISL 
+Entopia Building - Material Learnings and Reuse. https://asbp.org.uk/webinar-
+recording/entopia-building-reuse 
+
+Garvey, A., Norman, J. B., & Barrett, J. (2022). Technology and material efficiency scenarios for net 
+zero emissions in the UK steel sector. Journal of Cleaner Production, 333. 
+https://doi.org/10.1016/j.jclepro.2021.130216 
+
+Gowler, P. (2022). Reusing steel: how do you know what your second-hand steelwork is going to look 
+like? - UKGBC - UK Green Building Council. https://www.ukgbc.org/news/reusing-steel-how-do-
+you-know-what-your-second-hand-steelwork-is-going-to-look-like/ 
+
+Greater London Authority. (2022). London Plan Guidance. Circular Economy Statements (Issue 
+March). 
+https://www.london.gov.uk/sites/default/files/circular_economy_statements_lpg_0.pdf 
+
+Hall, R., Zhang, W., & Li, Z. (2021). Domestic scrap steel recycling – economic, environmental and 
+social opportunities (EV0490). The Warwick Research Archive Portal (WRAP). 
+https://wrap.warwick.ac.uk/152270/ 
+
+Hradil, P., Fülöp, L., Vares, S., Wahlström, M., Rantala, J., Kilpi, L., Mäkeläinen, T., Tiihonen, N., 
+Sansom, M., Pimentel, R., Girão-Coelho, A. M., Kesti, J., Lautso, P., Kuhnhenne, M., Pyschny, D., 
+Janczyk, K., Dubina, D., Ungureanu, V., Dinu, F., … Kamrath, P. (2020). European Commission 
+Research Fund for Coal and Steel Provisions for a Greater Reuse of Steel Structures (PROGRESS) 
+Directorate-General for Research and Innovation. 
+
+Hutton, G. (2021). UK Steel Industry: Statistics and policy. 
+
+IBISWorld. (2018). IBISWorld Industry Report C24.100 Iron & Steel Manufacturing in the UK. 
+
+IBISWorld. (2022). Waste & Scrap Wholesaling in the UK. 
+
+IEA. (2020). Iron and Steel Technology Roadmap Towards more sustainable steelmaking Part of the 
+Energy Technology Perspectives series. 
+
+Letsrecycle.com. (2021). UK exports most steel scrap in Europe in 2020. 
+https://www.letsrecycle.com/news/uk-exports-most-steel-scrap-in-europe-in-2020/ 
+
+Leversha, D., Moylan, D., Firth, B., Moss, N., & Gilchrist, S. (2022). Delivering steel’s circular economy 
+potential. The Structural Engineer, 100(9), 10–13. https://doi.org/10.56330/SHAD6385 
+
+Loopfront. (2022). Product - Loopfront. https://www.loopfront.com/en/product 
+
+MRW. (2022). Prices Barrier. https://www.mrw.co.uk/prices-barrier/ 
+
+NSC. (2021). UK average embodied carbon of structural steel. 
+https://www.newsteelconstruction.com/wp/uk-average-embodied-carbon-of-structural-steel/ 
+
+27 
+ 
+
+
+
+Sansom, M., & Avery, N. (2014). Briefing: Reuse and recycling rates of UK steel demolition arisings. 
+Proceedings of the Institution of Civil Engineers: Engineering Sustainability, 167(3), 89–94. 
+https://doi.org/10.1680/ensu.13.00026 
+
+SCI. (2019). Structural Steel Reuse Assessment, Testing and Design principles. https://steel-
+sci.com/assets/downloads/steel-reuse-event-8th-october-2019/SCI_P427.pdf  
+
+Spooner, S., Davis, C., & Li, Z. (2020). Modelling the cumulative effect of scrap usage within a circular 
+UK steel industry – residual element aggregation residual element aggregation. Ironmaking & 
+Steelmaking, 47(10), 1100–1113. https://doi.org/10.1080/03019233.2020.1805276 
+
+Statista. (2021). Construction industry in the United Kingdom (UK). 
+
+SteelConstruction.info. (2022). Recycling and reuse. https://doi.org/10.1016/b978-081551406-
+0.50015-x 
+
+Winters-Downey, E. (2010). Reclaimed Structural Steel and LEED Credit MR 3 – Materials Reuse. 
+Modern Steel Construction, 3–5. 
+
+World Steel Association. (2021). Climate Change and the Production of Iron and Steel: an Industry 
+View. In World Steel Association (Issue May). https://worldsteel.org/wp-
+content/uploads/Climate-change-and-the-production-of-iron-and-steel.pdf 
+
+ 
+
+Appendix  
+ 
+
+Table 5 Written and oral evidence from the  inquiry examining green steel in 2022 referring to steel reuse* 
+
+Document Steel sector player Target 
+Oral evidence: Liberty Steel “We generate around 10 million  tonnes of scrap 
+Liberty Steel and the steel. We use about a quarter of it and we use only 
+future of the 2.7 million tonnes of recycled steel scrap. The UK 
+UK steel industry, HC was the largest exporter of scrap steel in Europe in 
+118 2020.” … “We need to focus on incentivising the use 
+ of scrap steel here in the UK” 
+20 July 2021 
+Oral evidence: British Metals Recycling “That [reuse of steel in buildings] will be down to 
+Technological Association health and safety in the main, depending on how a 
+innovations and building is deconstructed. If it is done rapidly, the 
+climate change: impact on the steel is going to be concerning. If the 
+green steel, HC 1093 I-beams and the steel are taken apart carefully and 
+ they are measured and checked for wear and 
+27 April 2022 fatigue, I would assume they could be reused. 
+
+However, in the main right now, because of those 
+safety concerns, a lot of it is cut up.” 
+
+Oral evidence: University of Oxford “we could reuse the products that we make for the 
+Technological construction sector—for instance, hollow sections, I-
+innovations and profiles and all these products that we currently use 
+climate change: on a daily basis in our buildings and have used for 
+green steel, HC 1093 the past 50 years. All these products are simply 
+
+28 
+ 
+
+
+
+Document Steel sector player Target 
+ discarded—they are simply shredded, used and re-
+20 April 2022 melted. We could reuse those products … that could 
+
+lead to massive reduction of our impacts.” 
+Written evidence British Constructional “BCSA has recently (November 2021) published its 
+submitted by the Steelwork Association decarbonisation roadmap … This roadmap includes 
+British Constructional (BCSA) supply-side measures, including steel production and 
+Steelwork fabrication, and demand-side measures relating to 
+Association design efficiency, use of higher strength steels, 
+ reusing structural steelwork and the circular 
+30 March 2022  economy.” 
+Written evidence European Metal Recycling Recommendations include: 
+submitted by Ltd “Producers should be made responsible for 
+European Metal sustainable design for reuse and 
+Recycling Ltd recycling.” 
+ “Support for R&D into design for recycling, 
+30 March 2022 enhancing reuse, and addressing challenges in 
+
+processing recycles steel including, cleaning, 
+chemistry and dealing with by-products.” 
+“Government can create a policy environment that 
+will encourage private sector investment 
+to decarbonise the sector through escalating carbon 
+taxation, mandated carbon targets for 
+construction and making producers responsible for 
+eco design for reuse and recycling.” 
+
+* https://committees.parliament.uk/work/6512/technological-innovations-and-climate-change-green-steel/publications/written-evidence/ 
+
+ 
+
+29

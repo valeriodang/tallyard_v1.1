@@ -1,0 +1,144 @@
+﻿CACSAES ES STTUDY  |  LOVELL HOMES - HOGGANFIELD PARK
+
+Lovell Homes - 
+Hogganfield 
+Park
+
+
+
+CASE STUDY  |  LOVELL HOMES - HOGGANFIELD PARK
+
+Lovell Homes - Hogganfield Park
+Project background Skip layout
+This four-acre residential development in the north-east Three 14-yard skips are located to the south end of the site; two 
+of Glasgow is composed of 24 detached and semi-detached for segregated waste (plasterboard and timber) and one mixed 
+houses of two, three and four bedrooms. As well as 15 waste skip. These are mainly filled from a mini-skip mounted 
+terraced houses with three bedrooms each, and eight flats to a telescopic forklift (tele-handler). When the research team 
+with two bedrooms a piece. The total floor space planned is arrived on site, waste was being carried from the main work 
+4,523 m2, with a project value of £10.5m. areas about 20m to the mini skips, and around 55m by tele-
+
+handler along a temporary road to the skip compound. 
+The main contractor, Lovell, is a residential house builder, 
+employing subcontracted trades to undertake most of the site 
+works. Their site management team is coordinating the trades, 
+providing skips, and buying most of the materials. A basic 
+Site Waste Management Plan is held within the contractor’s 
+electronic document management system.
+
+This site was chosen to trial use of the Construction Waste 
+Indicative Cost (CWIC) Calculator. The CWIC Calculator was 
+created to analyse individual skips on construction sites, to 
+estimate the full cost of materials purchased, labour costs, 
+including indirect costs associated with any rework and 
+replacement of wasted materials, in addition to the more 
+obvious skip-hire costs. Figure 1: Skip compound on south side of the site
+
+William Lindsay, the Health, Safety and Environment  
+Manager at Lovell spoke of the efficiency and importance 
+of the calculator:
+
+“ We are always looking for 
+initiatives to help us become 
+more efficient as a business. 
+The CWIC Calculator will allow Figure 2: Tele-handler filling a timber skip
+
+us to focus on the true cost 
+of waste at an operational 
+level and allow us to identify 
+appropriate waste reduction 
+measures both now and for 
+future developments”.
+
+Figure 3: Site layout drawing marked up with route of tele-handler
+
+
+
+CASE STUDY  |  LOVELL HOMES - HOGGANFIELD PARK
+
+A researcher collected waste data for the CWIC Calculator, assisted by Lovell Assistant Site Manager, over the course of 
+three days. This began with an assessment of the travel distances (Figures 3&4), which allowed the CWIC ‘Set-up’ page to be 
+completed using a hand-held tablet using Excel (Figure 6). After this, waste data was logged on the main spreadsheet. (Figure 7).
+
+Figure 7 shows a screenshot of the completed Data input sheet. 
+The rows, from left to right, show the categories of waste that 
+were logged. The volume column automatically calculates 
+how much waste has been logged. The right side of the volume 
+column shows categories for ‘Condition’ of the waste (as 
+judged by the user), and two final columns to check ‘yes’ or ‘no’, 
+depending on whether the waste materials had been installed 
+then removed, or replaced by new materials. If these are 
+checked with a ‘yes’, then extra costs are added. 
+
+Figure 4: Assessing travel distances
+
+Figure 5: Measuring length of material before going into the skip Figure 6: CWIC Calculator Set up page 
+
+Figure 7: CWIC Calculator ‘Data input’ tab
+
+
+
+CASE STUDY  |  LOVELL HOMES - HOGGANFIELD PARK
+
+Table 1 shows an overview of the waste costs, automatically analysed by the CWIC Calculator. The CWIC Calculator 
+also produces charts showing various aspects of the waste sample. Figure 8 shows a breakdown of the material 
+costs. Table 1 also shows how much this cost is per cubic meter and extrapolates the figures for the size of skip.
+
+Table 1: Overview of waste costs
+
+Overview of costs            5.019 Per 1m3 For skip:
+Volume (m3) of sample: (14 Yards)
+
+Total Materials Costs  £1,599.26  £18.66  £2,788.23 
+
+Total Labour Costs  £201.59  £40.17  £301.00
+
+Skip Hire Cost (mixed)  £261.56  £9.89  £261.56 
+
+Total (excl. VAT)  £2,062.40  £388.71  £3,350.79 
+
+VAT  £412.48  £77.74  £670.16 
+
+Total  £2,474.88  £466.46  £4,020.95
+
+The CWIC Calculator also produces charts showing various 
+aspects of the waste sample. Figure 10 shows a breakdown of 
+the material costs. This shows where the money is being lost, 
+mainly via gypsum materials and insulation. Even though there 
+were separate skips for timber and plasterboard, the mixed 
+skip included a wooden pallet and sheets of plasterboard that 
+were too contaminated for the segregated skips. The ‘gypsum 
+materials’ also included excess plaster, mixed on site.
+
+Figures 11 and 12 show the amount of waste (including 
+packaging and others with no cost) in the sample, by volume 
+and weight respectively. These show that 33% by volume, and Figure 8: Timber pallet in waste skip
+31% by weight, of waste material in the sample is treated wood 
+and plastic waste. ‘Other’ is the second largest type of waste, 
+which includes office furniture. 
+
+Figure 13 shows the waste sources by volume. Besides the 
+expected ‘cutting’ (off-cuts) wastes and packaging, the analysis 
+shows some waste materials are due to damage, either on site 
+or during delivery.
+
+Figure 14 shows that 52% of the sampled waste would need to 
+go to landfill. Whilst this is a subjective estimate, the analysis 
+also shows that just under 50% of the waste could be suitable 
+for recycling. 
+
+Figure 9: Plasterboard in mixed skip
+
+
+
+CASE STUDY  |  LOVELL HOMES - HOGGANFIELD PARK
+
+Figure 10: Material cost pie chart Figure 11: Volume of waste
+
+Figure 12: Weight of waste Figure 13: Source of waste
+
+Figure 14: Condition of waste
+
+EXPLORE THE CWIC CALCULATOR &  
+SITE WASTE REDUCTION PROTOCOL NOW
+
+Explore now

@@ -1,0 +1,4238 @@
+﻿Scaling circular finance:
+No time to waste
+Four levers for unlocking investment at scale 
+
+Scaling circular finance: No time to waste 1
+
+
+
+Table of contents
+Scaling circular finance: No time to waste 01
+
+Table of contents 02
+
+Foreword 03
+
+Executive Summary 04
+
+• Four levers could help close the USD6.5 trillion circular funding gap 06
+
+The circular economy: a multi trillion—dollar opportunity 08
+
+• Circular solutions enhance economic resilience and competitiveness 10
+
+Interest in the circular economy is growing but mainstream adoption has yet to happen 14
+
+• Strong circular momentum across key markets likely to lift circularity globally 15
+
+• Europe: rising circularity as policy focus intensifies 16
+
+• Circularity across Asia appears strongest in Singapore and China 17
+
+• Corporate engagement with circularity is growing 18
+
+• Widespread circular innovation is taking place across key sectors 19
+
+Waste management and recycling in the Global South - a critical development challenge 20
+
+• Managing waste may cost the global economy USD6.7 trillion by 2050 unless action is taken 21
+
+• The benefits of a global circular waste sector could reach USD912 billion 25
+
+Unlocking finance to close a USD6.5 trillion circular funding gap 30
+
+• The circular economy faces a significant funding gap 32
+
+• Risk-reducing financing solutions and avoided carbon help close the funding gap 35
+
+Critical levers for scaling circular investment 40
+1. Recognise that the circular economy is fundamental to the delivery of climate and 
+
+nature targets 41
+
+2.   Agree on circular definitions, principles, measurement and reporting 42
+
+3.   Integrate the circular economy into finance risk models 44
+
+4.   Drive for harmonised international regulation and policy landscape 47
+
+Appendix 52
+
+• A linear world increases raw material usage and waste generation by up to 80% 53
+
+• A review of policies across the world shows that circularity is gaining momentum 63
+
+• Circular investment requirements are at least USD7trn 65
+
+Authors 67
+
+References 69
+
+Disclaimer 71
+
+Scaling circular finance: No time to waste 2
+
+
+
+Foreword
+The circular economy (CE) has gained significant At Standard Chartered we recognise the 
+attention over the past ten years and has been importance of scaling finance for the circular 
+embraced as a framework for rethinking the way economy and have expanded our existing 
+we make, use and reuse products, and manage Sustainability Innovation Hubs to include a new 
+post use material flows in the economy. More than Circular Economy Innovation hub, with Andrew 
+70 governments around the world are Morlet, past CEO of the Ellen MacArthur 
+implementing regulation and policies to capture Foundation, appointed as a senior advisor to lead 
+its potential. Leading companies and the finance its development. 
+sector are also mobilising capital, with over 
+USD270billion of assets being deployed towards Our aim is to leverage Standard Chartered’s 
+circular solutions and infrastructure investments innovative financing expertise, network and 
+on our calculations. global reach to support our clients in developing 
+
+and scaling circular economy solutions. We also 
+The opportunity for development of circular aim to collaborate with other leading financial 
+economy solutions is vast, spanning all major institutions, commercial banks, MDBs and 
+sectors and all geographies. These range from investors to develop the much needed standards, 
+up-stream innovation for new materials, tools and insights to inform policy globally, in 
+innovation for lower waste and more efficient order to unlock and scale the investment 
+product manufacturing, and circular solutions for opportunities and capital needed to support CE 
+extending product life, such as reuse, repair, innovation and infrastructure development. 
+remanufacturing and resale. It also spans the “Scaling circular finance; no time to waste” is the 
+circularity of materials at the end of product life, initial output of the new CE Innovation Hub, and 
+through establishment of effective collection points to four key levers we believe will be 
+and recycling systems, particularly in essential to enable this capital mobilisation. We 
+developing markets. look forward to supporting our clients and working 
+Importantly, the solutions noted represent a huge with other leaders globally to capture this 
+economic opportunity, contributing to more opportunity and to realise the many benefits a 
+sustainable growth, enhancing resilience and circular economy holds. 
+reducing risk. At the same time, they also deliver 
+many other important benefits, perhaps most 
+important of which is avoided greenhouse gas 
+emissions, with many research publications 
+pointing out that the circular economy is essential 
+for delivery of decarbonisation and climate 
+objectives. Circularity is also an important vehicle 
+for delivery of nature and regenerative objectives, 
+and societal benefits. 
+However, as this report points out, while the 
+circular economy investment topic has been 
+socialised in many circles, neither its full potential 
+nor the scale of the opportunity  has led to 
+mainstream adoption yet. Conservatively, our 
+analysis demonstrates that, for a subset of key 
+sectors, the circular economy transition financing 
+gap to 2035 is at least USD6.5 trillion, and despite 
+the rapid growth of circular economy financing in 
+recent years the scale up and transition has really 
+only just begun.
+
+Marisa Drew
+Chief Sustainability Officer
+
+Scaling circular finance: No time to waste 3
+
+
+
+01
+Executive summary
+
+ScalinHga rcnirecsuslainrg fi nAafrnicae’:s Nbol utiemec toon womasyte 4
+
+
+
+In recent years there has been substantial growth of interest natural resources, the extraction and processing of 
+in the circular economy from leading businesses and which accounts for 55% of global GHG emissions. Such 
+governments, academics, the media and the public. strategies also benefit ecosystems, as 90% of land use 
+Numerous studies and reports have demonstrated its related biodiversity loss is linked to resource extraction 
+potential, including to create 8 million jobs by 2030 (ILO, and processing (United Nations Environment 
+2018), generate USD5 trillion in value by 2030 (Business and Programme, 2024a).
+Sustainable Development Commission, 2017) and benefit all 
+17 of the UN Sustainable Development Goals (Schroeder, et The circular economy is yet to become a fully mainstreamed 
+al., 2018). agenda despite wide reporting of its economic rationale and 
+
+the increasingly evident systemic risks posed by the linear 
+There are also many successful case examples of circular economy. Using the crude measures currently available, the 
+solutions around the world, with companies across sectors world remains mostly linear with material circularly hovering 
+investing in R&D and partnerships for circular solutions. In around 7% of total material throughput (Circle Economy, 
+recent years almost 80 governments have established circular 2025). It’s clear that while the concept of circularity is both 
+economy roadmaps, including policies, regulations, and economically compelling and brings numerous benefits, the 
+investment agendas (Chatham House, 2024). transition faces several challenges, including factors such as:
+However, the circular economy is often underestimated by • Linear lock-in as some businesses see circularity 
+being considered a concept only applicable to waste presenting a revenue cannibalisation risk, and a risk of 
+management and recycling. A more appropriate description creating lower valued or stranded assets.
+is that it is a systems solution framework that decouples 
+economic growth from the use of finite virgin raw materials, • Transition costs as developing a circular business model 
+minimising the production of waste and pollution. It achieves may require significant innovation and re-tooling which 
+these ends by extending the lifespan of products, keeping have associated investment costs. 
+them in high-value use in the economy for longer, and • Policy and regulatory innovation is required to scale 
+designing products and services to have nature-positive and initiatives including Extended Producer Responsibility 
+regenerative impact. (EPR) funding models; stimulate appropriate cross border 
+Adopting circular solutions improves the resilience and secondary material flows to improve aggregation and 
+competitiveness of companies and economies by reducing feedstock supply; and help develop economically viable 
+their dependence on virgin raw materials – and therefore markets for circularity to emerge. 
+their exposure to related price volatility – and lowering their The fact that circularity is not being adopted at pace globally 
+greenhouse gas (GHG) emissions and wider environmental is perhaps not surprising, given that the concept has only 
+footprints. Circularity reduces the impact of growth in gained global prominence over the past 10 years. Circularity 
+population and per-capita consumption on the world’s finite may well follow a development path similar to the renewable 
+resources and is able to help address the 45% of global GHG energy sector, which in its early years struggled to compete 
+emissions that energy transition solutions cannot tackle at commercially with the incumbent fossil-fuel based energy 
+scale (Ellen MacArthur Foundation, 2021). sector. However, renewable energy investments are now over 
+
+USD2 trillion per annum, 80% higher than fossil-fuel based 
+power investments (BloombergNEF, 2025).
+
+The rationale for making the case for The circular economy is especially relevant to developing 
+circularity as a climate solution is clear countries, as without it over half of the targets associated with 
+
+the UN’s Sustainable Development Goals cannot be achieved 
+• Integrating circular solutions into decarbonisation (Schroeder, et al., 2018). By adopting circular policies, 
+
+strategies for hard-to-abate sectors such as steel, developing countries can improve the resilience of their 
+concrete, cement and plastics can reduce GHG emissions economies. Key areas of focus include infrastructure 
+by more than 25% and lower abatement costs by 45% investments associated with waste and recycling as many 
+relative to only decarbonising the production of these developing markets lack basic waste management systems. 
+materials (Agora Industrie, et al., 2024). This  is both essential for post-use materials recovery and for 
+
+prevention of pollution, particularly in the case of plastics and 
+• Many circular solutions are ready for deployment at scale plastic packaging. Other important development areas are 
+
+and deliver multiple benefits beyond carbon reduction, water supply and adoption of circular principles in the food 
+whereas this is not the case for proposed transition and agriculture sectors. Circularity strategies for developed 
+solutions such as hydrogen or carbon capture and markets, such as in Europe and in some countries in Asia such 
+storage. as Singapore, will be different as these countries already have 
+
+• The introduction of circular solutions can reduce demand well established waste management and recycling systems. 
+for energy, including renewable energy, by 20%. This The focus in these countries will be on expanding product life 
+lowers renewable energy-related investment extension solutions and improving recycling and secondary 
+requirements, raw material demand, and end of life material flow economics.
+challenges. The risks resulting from failing to transition to a circular 
+
+• Introducing circular solutions can increase the return on economy are substantial. In the business-as-usual scenario, 
+invested energy. Extending the life of products keeps the extraction of raw materials will have to be 60% higher in 2060 
+energy embodied in them in use for longer, reducing compared to 2020 (UNEP, 2024), while total waste generated 
+overall energy demand and carbon emissions. Reducing would likely increase by 80%, costing the global economy 
+the need for mitigation releases capital that could be USD417 billion per year by 2050 (World Bank, 2024). The 
+redeployed to further scale-up circular solutions. annual social cost in terms of health impact of plastics waste 
+
+alone is estimated at over USD600 billion (Minderoo 
+• Successful circular strategies reduce the need for virgin Foundation, 2022).
+
+Scaling circular finance: No time to waste 5
+
+
+
+Four levers could help close the USD6.5 
+trillion circular funding gap
+
+This report focuses on the challenge of mobilising finance to approaches, including the use of green and sustainability-
+scale the circular economy. We outline four key actions linked bonds and loans, and a greater deployment of other 
+critical for mobilising the capital required to scale upstream innovative financial solutions. These include integrating 
+circular material solutions. public with private funding, blended finance, engagement 
+
+from larger corporates into circular investment projects across 
+their supply chains and embedding insurance or guarantee 
+
+Circular investment requirements features into circular investment vehicles. All these solutions 
+lower the perceived risk profile of circular projects, which in 
+
+For the assessed sectors we estimate a global circular combination with policy support of off-take agreements and 
+investment requirement by 2035 to be in the range of USD7- longer-term demand, is likely to help mobilise capital.
+14 trillion depending on the assumptions used by sector and Governments and corporates are deploying significant effort 
+the targets associated with the adopted circular strategies. and resources towards the introduction of policies, 
+Eliminating uncontrolled waste and increasing waste regulations and strategies to reduce their net emission 
+recycling rates to between 50-70% globally by 2050 alone profiles. However, other than in a few leading cases, most 
+requires USD2.6 trillion on our modelling. We have excluded governments and corporates currently fail to recognise the 
+some more complex sectors such as transport from our potential of circular solutions as climate or nature solutions. 
+estimates suggesting that the overall circular investment 
+requirement is higher than the top end of our current range. We argue that part of climate mitigation finance should be 
+By comparison, net zero-implied energy transition investment directed towards accelerating the development of a circular 
+requirements until 2035 may be more than USD88 trillion economy as this is likely to yield GHG emissions saving results 
+according to Bloomberg (BloombergNEF, 2025) quickly. In addition, we believe that developing countries 
+
+should explore the possibility of creating carbon credits based 
+on the level of GHG emissions avoided through the adoption 
+of circular solutions. This report asserts that to successfully 
+
+The funding gap deploy all these options and increase investments in circular 
+solutions requires the following four levers to be adopted by 
+
+To determine the circular funding gap, we have estimated the relevant stakeholders:
+current baseline of investment exposure to the circular 
+economy and the annual circular investments made into the 
+assessed sectors. Estimating financial exposure to the circular 
+economy is challenging as there are currently no globally- 1. Recognise that the circular economy is fundamental to 
+accepted circular finance reporting standards. We have delivering climate and nature targets
+collated existing published estimates and applied Greater recognition of the circular economy as a climate and 
+conservative modelling assumptions to develop an initial nature-related solution is important as it will raise the profile 
+perspective on major funding sources. This shows for of circular solutions and facilitate mobilisation of capital 
+corporate on-balance sheet lending a figure of around towards them. This recognition, alongside showing how 
+USD20 billion, and for corporate bonds and regional circular strategies directly reduce GHG emissions, would bring 
+development banks an additional USD165 billion. If including the circular economy into the mainstream climate agenda, 
+additional non-bank investment by asset managers, and facilitating access to climate finance flows (e.g. green bonds, 
+other private finance, this brings total existing financial sustainability-linked loans, climate funds).
+investment in the circular economy to around USD270 billion. 
+These figures compare to the USD334 billion estimate This report makes the case for strengthening sustainable 
+produced by the Ellen MacArthur Foundation in relation to finance business cases by linking circular practices to 
+named finance and investment mobilised and dedicated to measurable GHG emission reductions. This allows companies 
+circular economy solutions and infrastructure globally since and investors to internalise avoided carbon costs (e.g. through 
+2019 (Ellen MacArthur Foundation, 2024). As for investments carbon pricing, emissions trading, or corporate net-zero 
+into circular solutions for the assessed sectors, we estimate targets) which would make circular investments more 
+that these could reach USD563 billion until 2035. Subtracting financially attractive by showing more clearly their direct 
+this from our previous estimate for total investment contribution to decarbonisation commitments. The approach 
+requirements suggests a circular funding gap of at least could also enable a clearer path for policy support and 
+USD6.5 trillion for the period until 2035. blended finance support, which is particularly relevant to the 
+
+funding requirements of waste and recycling infrastructure in 
+To help close this gap we propose a number of financing developing markets.
+
+Scaling circular finance: No time to waste 6
+
+
+
+Many governments and development banks are increasingly Caribbean which in part aim to inform and influence circular 
+deploying blended finance solutions  to accelerate climate— economy policy harmonisation. 
+related investment. Establishing circular economy as a 
+recognised climate mitigation and adaptation strategy may The need for policy harmonisation has been clearly 
+expand the scope for its eligibility for blended finance, highlighted in the negotiations to establish a Global Plastics 
+concessional loans, and public–private partnerships, reduce Treaty. While at the time of writing, the United Nations 
+risk for private investors, and encourage larger capital flows Intergovernmental Negotiation Committee process has failed 
+into circular ventures. to deliver an agreed treaty, over 300 members of the Business 
+
+Coalition For a Global Plastics Treaty have called for globally 
+harmonised regulations that “businesses need and the 
+
+2. Agree on circular definitions, principles, measurement,      majority of countries want” (Business coalition for a global 
+and reporting plastics treaty, 2025).
+
+One of the key challenges to a wider adoption of circular Circular policies need to recognise any social implications that 
+solutions and the mobilisation of circular capital is that there circular adoption may have. This is especially relevant for the 
+is currently no universal agreement on the scope and Global South as work from the ILO shows that adopting 
+definition of the circular economy; how to measure circularity; circular solutions globally may cause up to five million job 
+and what the reporting standards for it are. As a result, it is losses across APAC and up to one million across Africa (ILO, 
+difficult to assess the rate of circularity of an economy or 2018). The adoption of circular economy solutions may also 
+organisation or understand capital allocation towards increase pressure on workers in sectors in the developing 
+circular solutions.  world that have a high share of informal labour. 
+
+This report shows that progress around circular principles and 
+reporting standards is being made, but more needs to 
+happen. Mandatory, sector-based approaches and standards 
+would help accelerate circular economy adoption. 
+
+3. Integrate the circular economy into finance risk models
+Engagement by the financial sector with the circular economy 
+has been low, and this needs to change if circular capital is to 
+scale more quickly. Increasing engagement requires 
+developing tools that estimate corporate exposure to the risks 
+and opportunities of circular and non-circular activities and 
+integrating these estimates into risk and lending models used 
+by financial institutions.
+This report highlights two recently published proposals that 
+may accelerate engagement from the financial sector: 
+the circular economy finance guidelines from the 
+International Finance Corporation; and the circular risk 
+scorecard methodology developed by the Kopgroep 
+Circulair Financieren.
+
+4. Drive for a harmonised international regulatory and 
+policy landscape
+Analysis across different countries suggest that regulation is 
+necessary to drive circular adoption rates (Sanz-Torro, et al., 
+2025). However, circular economy legislation often fails to 
+take a harmonised, sector-based, cross-border approach. 
+Such an approach is important for accelerating adoption as it 
+reduces complexity, costs and uncertainty for corporates and 
+investors; and it improves economies of scale and helps 
+develop cross border trade in secondary materials, which is 
+often essential for their market viability. This approach could 
+increase engagement with circularity from corporates across 
+the value chain which helps to attract the capital necessary to 
+develop low-cost circular solutions. 
+European Commission policy clearly demonstrates an 
+intention to harmonise policy to enable the single market to 
+achieve viable secondary material markets. This is apparent 
+in the Ecodesign for Sustainable Products Regulation (ESPR) 
+and the associated approach for the development of Product 
+Passports. The Commission is also actively engaged in 
+international trade and collaboration missions with numerous 
+countries across Asia, Africa, Latin America and the
+
+Scaling circular finance: No time to waste 7
+
+
+
+02
+The circular economy:
+a multi trillion—dollar opportunity
+
+ScalinHga rcnirecsuslainrg fi nAafrnicae’:s Nbol utiemec toon womasyte 8
+
+
+
+There is a strong economic and environmental rationale to 
+change the existing ‘take-make-dispose’ linear economic 
+model. Transitioning to a circular economy represents a multi 
+trillion-dollar opportunity that improves the resilience of 
+companies and economies and reduces environmental 
+pressures as the production of waste and pollution is 
+eliminated, products and materials are kept in circulation 
+longer and natural resources are regenerated.
+
+The current economic model demands 
+80% more from nature than ecosystems 
+can generate
+The current economic system is linear in nature. It uses raw 
+materials to manufacture goods that after an increasingly 
+short period of use are disposed of as waste. Maintaining 
+economic growth in such a system especially given continued 
+population and per capita consumption growth across the 
+developing world is becoming increasingly challenging. In the 
+appendix we discuss these challenges in more detail, but we 
+summarise these factors below:
+
+Destruction of natural capital:
+to sustainably meet humanity’s current demand for 
+ecological resources requires 1.75 Earths (Global 
+Footprint Network.) (link)
+
+Raw material demand:
+is set to increase by an additional 60% between 2020 and 
+2050. The developing world will face the greatest 
+challenge as it could experience an increase in per-capita 
+raw material demand of up to 90% (United Nations 
+Environment Programme, 2024a).
+
+Waste generation:
+total waste generation is on track to increase by 80% 
+between now and 2050, costing the global economy 
+USD417 billion per year (World Bank, 2024)
+
+Food and freshwater challenges:
+Food-related emissions may increase by 90% by 2050 
+while demand for freshwater may increase by 65%.  
+(Springmann, et al., 2018)
+
+Scaling circular finance: No time to waste 9
+
+
+
+Circular solutions enhance economic 
+resilience and competitiveness
+
+A circular economy is an economic system that aims to adoption of circular solutions go beyond those related to an 
+decouple economic growth from the use of finite non- economy’s long-term outlook. Short to medium-term 
+renewable raw materials and the extractive use of natural economic and security implications are highly significant too 
+resources. The circular economy has three core principles: and include the following:
+
+• Enhanced corporate resilience and competitiveness via 
+reductions in risk from scarcity of raw material inputs 
+
+Eliminate: or from exposure to resource or raw material input
+Design out waste and pollution price volatility.
+
+Circulate: • On a national level, adopting circularity improves supply 
+security of key materials such as critical minerals. It also 
+
+Increase the lifespan of products by keeping products builds resilience towards the supply of other finite raw 
+and materials in use at their highest value for as long materials, natural renewable materials, water and food.
+as possible and recycling materials at the end of life
+
+Regenerate: Circular strategies and solutions
+Adopt nature positive solutions and practices to 
+regenerate the world’s natural resources As noted, to capture the value inherent in a circular economy, 
+
+products, services and systems need to be redesigned, 
+offering the public and consumers new product and service 
+
+By redesigning products, services, processes and business solutions and enabling less raw material intensive 
+models, the circular economy reduces virgin raw material use, consumptive behaviours. To make this happen various 
+energy demand, waste and pollution. strategies and solutions have been developed that help 
+
+improve circularity across the entire lifecycle of a 
+The benefits of decoupling economic growth from the product. These strategies are summarised in the 10R 
+consumption of finite non-renewable resources through the framework (Figure 1). 
+
+Figure 01: The circular 10R framework
+
+Product cycle characteristics Strategy
+
+R0 Refuse Eliminate unnecessary materials. Make product 
+redundant or offer same function with different product
+
+Design phase of product
+Responsible use and R1 Rethink Intensify product use (e.g. sharing)
+manufacturing of product
+
+R2 Reduce Increase efficiency of manufacturing or product use by 
+using fewer materials
+
+R3 Reuse Reuse of existing product by other consumers
+
+R4 Repair Restore defective product to its original function
+Use phase of product, 
+increasing utilisation and R5 Refurbish Bring old product up to date through renovation
+extending product life
+
+R6 Remanufacture Use parts of existing product to build a product with the 
+same function
+
+R7 Repurpose Use parts of existing product to build a product with a 
+different function
+
+End-of-life return phase R8 Recycle Process input materials of existing products for usage as 
+inputs in new or other products
+
+Capture and retain value
+Use waste as a resource R9 Recovery Capturing energy from biomass via anaerobic digestion, 
+
+and use of digestate for soil enhancement 
+
+Source: : (Productivity Commission, 2025), Standard Chartered
+
+Scaling circular finance: No time to waste 10
+
+
+
+The circular economy ‘butterfly’ diagram as developed by the Ellen MacArthur Foundation visualises how these strategies and 
+solutions apply to finite non-biobased material flows on the right-hand side of the diagram, and to biobased materials on the 
+left (Figure 2).
+
+Figure 02: Visualising the circular economy
+
+Renewables Finite Materials
+Renewables Flow Management Stock Management
+
+Reduce by design
+
+Farming/Collection1
+
+Parts Manufacturer
+
+Biochemical Recycle
+Regeneration Feedstocl Product Manufacturer
+
+Refurbish/Remanufacture
+Service Provider /Repurpose
+
+Share
+Biogas Reuse/Redistribute/Resell
+
+Cascades Repair/Maintain/Prolong
+Anaerobic Digestion
+
+Consumer User
+
+Extraction of Biochemical feedstock2
+Collection Collection
+
+Source: Ellen MacArthur Foundation, Circular economy 
+system diagram(February 2019)
+
+1. Hunting and fishing www.ellenmacarthurfoundation.org
+2. Can take both post-harvest and post-consumer waste as an input Drawing based on Braungart & McDonough, Cradle to 
+
+Minimise Systematic Leakage and Cradle(C2C) Standard Chartered
+Negative Externalities
+
+Source: Ellen MacArthur Foundation, Standard Chartered
+
+Circular solutions deliver decarbonisation
+Research indicates that taking a circular approach can 45% reduction in abatement costs and a 20% reduced  
+significantly lower the life-cycle energy and emission intensity demand for energy (Figure 3). The study also stressed that 
+of an economy. A recent study from the Agora Industry in many of the CE solutions and technologies are market ready 
+conjunction with Systemiq (Agora Industry, et al., 2024) found and can be adopted at scale. Work from the Ellen MacArthur 
+that GHG emissions from hard-to-abate sectors such as steel, Foundation in 2021 also demonstrated that circular solutions 
+cement, concrete and plastics would fall by an additional can reduce GHG emissions by between 38% and 70% for key 
+25% through integration of circular solutions into sectors relative to a baseline scenario (Ellen MacArthur 
+decarbonisation strategies. In addition, the study found a Foundation, 2021) (Figure 4).
+
+Figure 03: Potential impact of adding circular solutions to decarbonisation strategies in Germany
+
+Decarbonising with circular strategies
+
+185 Decarbonising only
+Renewable energy demand until 2045 (TWh)
+
+230
+
+70
+Average abatement costs until 2045 (€/t CO2-eq)
+
+130
+
+850
+Cumulative GHG emissions 2020-2045 (MtCO2-eq)
+
+1150
+
+0 200 400 600 800 1000 1200 1400
+Source: Agora Industry, Systemiq, Standard Chartered
+
+Scaling circular finance: No time to waste 11
+
+
+
+Figure 04: Impact from adopting circular economy solutions on GHG emissions for key sectors
+
+-49% Food system
+
+-70% Transport (cars)
+
+-38% Built environment
+
+-40% Industry (steel, aluminium, plastic, cement)
+
+-80% -70% -60% -50% -40% -30% -20% -10% 0%
+Source: Ellen MacArthur Foundation, Standard Chartered
+
+A Circular Economy can generate USD5 trillion in value
+Various attempts have been made to estimate the value that is generated through the adoption of a circular economy. Work 
+from Accenture back in 2015 estimated that developing a circular economy would help avoid losses in economic output of 
+cUSD25 trillion by 2050.
+A range of other organisations have produced estimates for the impact that circular economy strategies can have on key 
+economic sectors such as food, textile, plastics, electronics, and capital equipment (Figure 5). Although these estimates 
+show a wide dispersion in terms of impact, they do clearly suggest that developing circular strategies carries a strong 
+economic rationale. 
+
+Figure 05: Circular economy considerations for key sectors
+USDbn, number represents maximum scenario value
+
+Sector Focus Impact Source
+
+Food Total annual opportunities USD4.5 trillion FOLU
+
+Bioeconomic opportunities USD7.7 trillion WBCSD
+
+Food waste reduction per year USD127 billion EMAF/Google
+Textiles Recycling textile waste USD100 billion EMAF
+
+Market for pre-owned clothes (2028) USD350 billion GlobalData
+
+Textile emission reduction potential 44% WRI
+
+Plastics Plastic waste generated per year 400 million tonnes UNEP
+
+Cost of plastic packaging waste per year USD120 billion UNEP
+
+Lifetime cost of plastic/kg (HIC/LIC) USD19/200 WWF
+
+Electronics                E - w a s t e   ge n e r a t e d   ( 2 0 1 0 / 2 0 3 0 )                                   34/82 million tonnes UN
+
+E-waste recovery value (2022) USD62 billion UN
+Capital Raw material usage 7.2 billion tonnes PACE
+equipment
+
+GHG emission generated 3.2 billion tonnes PACE
+Source: Organisations listed, Standard Chartered Bank
+
+Scaling circular finance: No time to waste 12
+
+
+
+One of the broader estimates for the potential value of a circular economy was provided through the 2017 ‘Valuing the SDG 
+Prize’ report (Business and Sustainable Development Commission, 2017). In it, some 60 SDG-focused strategies were valued, 27 
+of which support circular economy principles. Their estimates suggest that adopting these 27 strategies could represent USD5.1 
+trillion in value by 2030 (Figure 6).
+
+Figure 06: Potential value of adopting circular economy-related strategies
+USD billion, number represents maximum scenario value
+
+Circular economy - Automotive 810
+Reducing food waste in the value chain 405
+
+Circular economy - electronics 365
+Circular economy - appliances and machinery 365
+
+Reduce deforestation and degradation 365
+Energy storage 260
+
+Reducing consumer food waste 220
+Resource recovery 210
+
+Car sharing 205
+Technology in large scale farms 180
+
+Autonomous vehicles 160
+Building resilient cities 155
+
+Dietary switch 140
+Additive manufacturing 125
+Sustainable aquaculture 125
+
+Shared infrastructure 120
+Local content in extractives 120
+
+Minicipal water leakage 110
+Technology in smallholder farms 105
+
+Water and sanitation infrastructure 90
+Restoring degraded land 85
+
+Micro irrigation 85
+Office sharing 70
+
+Mine rehabilitation 65
+Reduced packaging waste 65
+
+Cattle intensification 55
+Urban agriculture 40
+
+0 100 200 300 400 500 600 700 800 900
+
+Source: Business and Sustainable Development Commission, AlphaBeta, Standard Chartered Bank
+
+Scaling circular finance: No time to waste 13
+
+
+
+03
+Interest in the circular economy 
+is growing but mainstream 
+adoption has yet to happen
+
+ScalinHga rcnirecsuslainrg fi nAafrnicae’:s Nbol utiemec toon womasyte 14
+
+
+
+Circularity (as measured by Circle Economy in their Circularity Gap Reports) has failed to show consistent growth since 2018. 
+However, the aggregate estimate contained in these reports fails to capture variations by country and region, the extent of 
+momentum behind corporate engagement with circularity, and substantial growth in regulation and policies. The combination 
+of these factors suggest that the rate of circularity globally is likely to increase going forward.
+
+Strong circular momentum across key 
+markets likely to lift circularity globally
+Circle Economy have published a Circularity Metric since 2018 Circularity Metric declined to 6.9% in 2025 from 9.1% in 2018 
+where they estimate the share of secondary or re-used (Figure 7).
+materials out of an economy’s total material consumption. 
+While there are limitations to this measure of circularity, it is Circle Economy have also published several country-level 
+one of the most widely used indicators for circular adoption. circularity metrics. These indicate that, except for the 
+The most recent update (Circle Economy, 2025) shows that the Netherlands, circularity rates tend to be around or below 10%, 
+amount of re-used materials in the global economy has indicating that the potential offered by moving to a circular 
+increased from 7.1 billion tonnes in 2018 to 7.3 billion tonnes in economy is broad-based rather than driven by just a few 
+2025, but that this growth was outpaced by growth in total countries (Figure 8).
+material usage in the global economy. As a result,  the 
+
+Figure 07: Circularity rate: Growth in re-used material consumption offset by growth in virgin material use
+Share of re-used materials in total material consumption
+
+10.0%
+
+7.5%
+
+5.0%
+
+2.5%
+
+0.0%
+2018 2020 2023 2025
+
+Source: Circle Economy, Standard Chartered Bank
+
+Figure 08: Rate of circularity for individual countries
+Share of re-used materials in total material consumption
+
+Netherlands 24.5%
+
+Poland 10.20%
+
+Austria 9.7%
+
+United Kingdom 7.50%
+
+Switzerland 6.90%
+
+Denmark 4.0%
+
+Sweden 3.40%
+
+Norway 2.0%
+
+0.0% 5.0% 10.0% 15.0% 20.0% 25.0% 30.0%
+
+Source: Circle Economy, Standard Chartered Bank
+
+Scaling circular finance: No time to waste 15
+
+
+
+Europe: rising circularity as policy 
+focus intensifies
+Data from Circle Economy showed that the rate of circularity associated with circularity and develop incentive schemes to 
+in the global economy appears to be falling. However, a reach them.
+closer look at circularity among different regions and As shown in the appendix, many European countries have 
+countries suggests that the picture is much more nuanced. For established circular economy targets, regulations and 
+example, EUROSTAT analysis shows that circularity is policies, and the EU commission and some European countries 
+increasing across all but a few EU countries (Figure 09). This are working in close collaboration with Asian countries to 
+approach is different from the one adopted by Circle progress efforts globally. EUROSTAT data for the degree of 
+Economy, however the rise in circularity shown by the circularity achieved by individual member states shows that 
+EUROSTAT analysis may well be explained by the range of these policies appear to be having an impact. The most 
+circular policies that have been adopted by the EU. recent data suggest that the total circular material use rate 
+This would also suggest that the global rate of circularity is for the EU as a whole reached 11.8% in 2023 which is up 44% 
+likely to increase if other countries adopt tighter targets from the 8.2% achieved in 2004 (Figure 10).
+
+Figure 09: Circular material use rate across EU countries %, 2023
+
+Netherlands
+Italy
+
+Malta
+Belgium
+Estonia
+France
+Austria
+
+Germany
+Czechia
+Slovakia
+
+Luxembourg
+Sweden
+
+2023
+Denmark
+Slovenia 2010
+
+Spain
+Poland
+
+Croatia
+Hungary
+
+Cyprus
+Greece
+Latvia
+
+Bulgaria
+Lithuania
+Portugal
+
+Finland
+Ireland
+
+Romania
+
+0 5 10 15 20 25 30 35
+Source: EUROSTAT, Standard Chartered Bank
+
+Scaling circular finance: No time to waste 16
+
+
+
+Figure 10: Circular material use rate in the EU%
+
+13
+12
+11
+
+10
+9
+8
+7
+6
+
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Source: EUROSTAT, Standard Chartered Bank
+
+Circularity across Asia appears 
+strongest in Singapore and China
+Outside of Europe we find that the topic of circularity has ambitious national circular economy plan, while Singapore is 
+been taken up by many countries and is notably prominent applauded for its implementation of all 10 R-based circular 
+across Asia. China has focused on circular economy solutions strategies and its zero-waste approach. Countries across 
+for more than 20 years, with a particular focus on industrial ASEAN with less advanced circular economy policies, 
+symbiosis and the establishment of industrial eco-parks in the according to Herrador et al, are Brunei, Laos and Myanmar.
+1990’s.  However, the most recent estimate of its degree of 
+circularity is the 5.8% estimate from 2015 (Wang, et al., 2020). Data for India does not exist although NITI Aayog (India’s 
+
+national policy think tank) is actively promoting a circular 
+Estimates for the ASEAN economies have been made, economy for the country. 
+although they only relate to 2018 (Emami, et al., 2024). This 
+work suggests that circularity rates in 2018 were highest in Overall, the data for Asia suggests that most of the benefits 
+Singapore at 18% but that the rate was below 2% for the from incorporating circularity in government policies have yet 
+majority of the ten countries being analysed (Figure 11). to be captured. The potential for this to happen is growing 
+
+considering that circular economy objectives are becoming 
+Work focused on more recent circular policies and targets more prominent across the region.
+suggests that Vietnam and Singapore currently have some of 
+the most elaborate circularity programmes (Herrador, et al., In the appendix we provide a summary of key circular policies 
+2023).Vietnam receives credit from the authors for its adopted across regions and countries globally.
+
+Figure 11: Circular adoption rate across Asia %, 2018 * China estimate is for 2015
+
+Singapore
+
+China*
+
+Brunei Darussalam
+
+Malaysia
+
+Thailand
+
+ASEAN
+
+Philippines
+
+Vietnam
+
+Indonesia
+
+Myanmar
+
+Cambodia
+
+Laos
+
+0.0% 2.0% 4.0% 6.0% 8.0% 10.0% 12.0% 14.0% 16.0%
+
+Source: Emami et al (2024), Standard Chartered Bank
+
+Scaling circular finance: No time to waste 17
+
+
+
+Corporate engagement with circularity 
+is growing
+Bloomberg data suggests that corporate engagement with Evidence for this can be found in the results of a survey held 
+circularity has been growing across all industries since 2018 by the Circular Transformation of Industries group among 420 
+(Figure 12). It shows that the frequency with which corporates top executives last year. It showed that almost all corporates 
+discuss circularity in their filings or reports has started to engaged with circularity believe that it will be an important or 
+accelerate for all major sectors. very important topic for their company by 2027 (Figure 13). 
+
+The survey also showed that 65% of surveyed executives view 
+Growing recognition that adopting circular solutions may circularity as positively impacting their GHG emission profile, 
+reduce a company’s supply chain and reputational risks, and while 73% believe that adopting circularity will have a 
+that circular solutions can offer value opportunities and lower positive revenue impact on a three-year view (World 
+GHG emissions, might explain the level of corporate interest. Economic Forum, 2025). 
+
+Figure 12: Mentions of ‘circular economy’, ‘resource efficiency’ and ‘recycling’ in company filings and reports count
+
+300 Materials Consumer staples Technology
+Consumer discretionary Industrials Utilities
+Energy Financials Real estate
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Source: BloombergNEF, Standard Chartered Bank
+
+Figure 13: Share of businesses engaging in circularity that consider it as important or extremely important %, 2024
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+Three years ago Today Three years from now
+
+Source: Circular Transformation of Industries, Standard Chartered Bank
+
+Scaling circular finance: No time to waste 18
+
+
+
+Widespread circular innovation is 
+taking place across key sectors
+Strong momentum in relation to circular innovations is Initiative’s investment tracker shows that more than 5,500 
+another factor suggesting that the rate of circularity globally companies globally focus on plastic-related circular solutions, 
+is likely to increase. Growing recognition of the value and while Circle Economy’s database covers more than 5,200 
+benefits provided by circularity has triggered a wave of circular economy focused businesses across seven sectors.
+innovation in circular solutions and created a large number of 
+startups across all key sectors. Our review found that there This report does not focus on exploring circular solutions that 
+are already thousands of circular economy case studies exist for individual sectors but rather takes stock of the waste 
+across a wide range of sectors. and recycling challenge in developing countries and explores 
+
+the circular funding gap and levers to address this. For 
+Figure 14 summarises organisations which profile case studies readers interested in key solutions by sector please refer to 
+for the key sectors covered in this report. The Circulate the appendix.
+
+Figure 14: Sources highlighting organisations that offer circular economy solutions
+
+Organisation Link Examples Focus
+
+Circle Economy Knowledge Hub | Circle Agrifood, materials and fuel, capital equipment, 
+Economy Foundation 5,273 transportation, building and construction, 
+
+goods and services
+
+Circular innovation The Global Circular Economy 
+lab Innovation Database In progress Textiles, electronics, food, plastics, construction
+
+Ellen MacArthur 
+foundation Circular Startup Index 811 Building and construction, textiles, finance, 
+
+agrifood, chemicals and plastics, product design
+
+Fashion For Good Innovations - Fashion for Good 200+ Textile and fashion supply chain
+
+Reuse landscape Database | Reuse Landscape 1,350 Plastics
+
+The Circulate Plastics Circularity Investment 
+Initiative Tracker 5,544 Plastics
+
+World Green Circular-Built-Environment-
+Building Council Playbook 75+ Building and construction
+
+WRAP WRAP - The Waste and 
+Resources Action Programme 140 Agrifood, plastics, textiles
+
+Source: Organisations highlighted, Standard Chartered
+
+Scaling circular finance: No time to waste 19
+
+
+
+04
+Waste management and 
+recycling in the Global South – a 
+critical development challenge
+
+ScalinHga rcnirecsuslainrg fi nAafrnicae’:s Nbol utiemec toon womasyte 20
+
+
+
+This section focusses on the waste sector and in particular the need for waste management and recycling infrastructure in the 
+developing world. This is a prerequisite for achieving the vision of a circular economy globally. We estimate the cost and 
+potential environmental benefits that can be achieved from switching to circular waste solutions, and also highlight the 
+potential of avoided emissions and how these can be valued and traded in order to contribute to financing the investment for 
+infrastructure development. Finally, the chapter discusses the value of reduced negative externalities triggered by a circular 
+waste management approach. 
+
+Managing waste may cost the global 
+economy USD6.7 trillion by 2050 unless 
+action is taken
+Waste generation in a business-as-
+usual scenario
+To be able to estimate the cost and impact of developing To estimate potential future waste generation by country 
+waste recycling capacity, we developed two scenarios. In the population estimates from the World Bank were used, in 
+business-as-usual scenario we model total waste generation addition to the fact that there is a strong fit between waste 
+for more than 80 countries globally until 2050, and assume generation-per-capita and GDP-per-capita (Figure 16). Each 
+that the share of total waste that is recycled remains of these countries was categorised into one of four income 
+constant. Our circular-economy scenario includes estimates groups ranging from low-income to high-income using World 
+for recycling and for adoption of circular economy solutions. Bank income thresholds. For each of these groups, 
+This allows us to estimate by how much waste generation assumptions were made on annual growth rates in GDP-per-
+may change for each of our scenarios. capita ranging from 6% for low-income countries to 2% for 
+The countries chosen for our calculations (Figure 15) may be high income countries. Combining the relationship between 
+seen as representative for global waste generation as their GDP-per-capita and waste-per-capita with population size 
+population represents more than 93% of the global estimates from the World Bank and GDP-per-capita 
+population, while total waste generated by these countries estimates from this research allowed us to estimate total 
+accounts for more than 90% of global municipal waste as per waste generation for each of the countries in this sample 
+World Bank data (Kaza, et al., 2018). until 2050.
+
+Figure 15: Countries used for modelling
+Grouped by region
+
+Region Countries Population (mln)
+
+# 2023 2050
+
+Central Asia 4 210 2021
+
+East Asia & Pacific 12 2295 2258
+
+Europe 10 524 509
+
+Latin America & Caribbean 10 558 625
+
+Middle East & North Africa 9 426 572
+
+North America 2 375 415
+
+South Asia 6 1937 2376
+
+Sub-Saharan Africa 28 1175 2086
+
+Source: World Bank, Standard Chartered 
+
+Scaling circular finance: No time to waste 21
+
+
+
+Figure 16: Waste generation per capita is correlated to GDP-per-capita Dots represent countries chosen
+
+900 GDP-per-capita (USD, 2023)
+
+800
+700
+600
+500
+400
+300
+200
+100
+
+0
+0 10,000 20,000 30,000 40,000 50,000 60,000 70,000 80,000 90,000
+
+Source: World Bank, Standard Chartered
+
+Based on our assumptions, we estimate that in a business-as- predicts global municipal waste to reach 2.6 trillion tonnes in 
+usual scenario total waste production across the chosen 2030 and 3.4 trillion tonnes by 2050 (Kaza, et al., 2018). The 
+countries would reach 2.4 trillion tonnes by 2030 and rise to United Nations in their ‘Beyond an age of waste’ publication 
+3.3 trillion tonnes by 2050 (Figure 17). Our calculations are predicts global waste to reach 2.7 trillion tonnes in 2030 and 
+relatively close to those produced by others. The World Bank 3.8 trillion tonnes by 2050 (World Bank, 2024).
+
+Figure 17: Business as usual scenario waste generation estimates Billion tonnes per year
+
+4000 Sub-Saharan Africa
+3500 South Asia
+3000 North America
+2500 Middle East & 
+
+North Africa
+2000
+
+Latin America 
+1500 & Caribbean
+1000 Europe
+500 East Asia & Pacific
+
+0 Central Asia
+2023 2030 2040 2050
+
+Source: World Bank, Standard Chartered
+
+Figure 18: Business as usual scenario waste treatment estimatesBillion tonnes per year
+
+4,000
+Waste-to-energy Landfilled Recycled Uncontrolled
+
+3,500
+
+3,000
+
+2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+2023 2030 2040 2050
+
+Source: World Bank, UN, Standard Chartered 
+
+Scaling circular finance: No time to waste 22
+
+Waste generation per capita 
+(kg/yr)
+
+
+
+Waste treatment in a business-as-
+usual scenario
+How waste is dealt with is as relevant as how much is in waste-per-capita relative to 2040 levels whereas we 
+generated. Data from the UN shows that municipal waste 
+collection rates range from nearly 100% across North America assume a 5% reduction in low-income countries.
+and Europe to as low as 36% in Sub-Saharan Africa. The Recycling adoption
+share of uncontrolled waste or waste that is dumped or 
+burned (even if collected) is 79% for Central and South Asian In addition to waste generation, we also model how 
+countries and 87% for countries in Sub-Saharan Africa. treatment of generated waste might change in our circular 
+Recycling rates of municipal waste are low across most scenario. We expect every region to achieve a 100% waste 
+regions. In Europe, 56% of municipal waste is recycled but this collection rate by 2050 and expect the share of 
+is 10% or less across Asia and Latin America while in Sub- uncontrolled waste to reach 0% by 2050. The circular 
+Saharan Africa it stands at just 3% according to data from 
+the UN (United Nations Environment Programme, 2024). scenario assumes that the share of recycled waste will 
+
+increase to 70% in the case of Europe and to 50% for 
+countries across the Global South.
+
+Uncontrolled waste: in need of a Based on these assumptions, we calculate that total waste 
+
+clean up generation in our circular scenario will increase by 2030 to 
+2.2 trillion tonnes or 6% lower than in our business-as-usual 
+
+Our business-as-usual scenario assumes no changes to the scenario. By 2050, waste generation in our circular scenario 
+treatment of waste across the regions. In that case, may have fallen to 1.7 trillion tonnes (Figure 19). 
+calculations suggest that total uncontrolled waste is likely to This level of waste would not only be 20% lower than 
+more than double and reach c1.5 trillion tonnes by 2050, or current waste levels but it would also be c50% lower than 
+45% of total global waste (Figure 18). what we believe could be generated in the business-as-
+The potential growth in the balance of uncontrolled waste usual scenario.
+poses significant health issues that increase the need for 
+action. Recent work from the University of Leeds shows that
+in 2020 almost 30 million tonnes of plastics were burned 
+without any controls in place, with India, Nigeria and 
+Indonesia accounting for 54% of this (Cottom, et al., 2024).
+In addition, data from the latest World Risk Poll report shows 
+that more than 40% of households globally dispose of their 
+waste in an uncontrolled manner (Lloyd's Register 
+Foundation, 2024). The health issues associated with the 
+uncontrolled disposal of waste, including open burning, are 
+significant and are estimated to cost up to 1 million lives a 
+year (Williams, et al., 2019)
+
+Waste generation when levels of 
+recycling and circularity increase
+To assess the extent to which recycling of waste, and 
+circularity solutions more broadly, can help lower total waste 
+generation and reduce demand for new virgin materials, we 
+have also developed a circular scenario. This scenario differs 
+from the business-as-usual calculations in two areas:
+
+Waste per capita generation 
+Recycling is but one of the circular solutions that help to 
+reduce waste generation. Our assumptions around total 
+waste generation per capita reflect that circularity will 
+increasingly be adopted globally. This should first result in 
+a decoupling of waste growth from GDP growth before an 
+absolute reduction of waste generation is achieved. 
+
+As part of our circular scenario we assume that high income 
+countries manage to decouple waste growth from GDP 
+growth by 2030 but we do not expect this to happen for 
+low-income countries until 2040. By 2050 we believe that 
+high income countries will have achieved a 25% reduction 
+
+Scaling circular finance: No time to waste 23
+
+
+
+Figure 19: Circular scenario waste generation estimates
+Billion tonnes per year
+
+2,500
+
+Sub-Saharan
+Africa
+
+2,000
+South Asia
+
+North America
+1,500
+
+Middle East &
+North Africa
+
+1,000 Latin America &
+Caribbean
+
+Europe
+500
+
+East Asia &
+Pacific
+
+0 Central Asia
+2023 2030 2040 2050
+
+Source: World Bank, UN, Standard Chartered 
+
+Figure 20: Circular scenario waste treatment estimates 
+Billion tonnes per year
+
+2,500
+
+2,000
+
+1,500 Waste-to-energy
+Landfilled
+Recycled
+
+1,000 Uncontrolled
+
+500
+
+0
+2023 2030 2040 2050
+
+Source: World Bank, UN, Standard Chartered 
+
+Scaling circular finance: No time to waste 24
+
+
+
+The benefits of a global circular waste 
+sector could reach USD912 billion
+Applying capital investment estimates from the Nordic Council associated with waste management activities to our waste 
+projections suggests that a circular waste approach may require an additional USD450 billion of investments relative to the 
+investments that are likely needed in our business-as-usual scenario. In the remainder of this chapter, we show that the 
+potential benefits of a circular waste approach can be more than twice the level of associated costs.
+
+Circularity can reduce waste 
+management costs by almost 
+USD500 billion
+Managing waste costs money. The potential for a long-term These waste projections show that low-income countries 
+decline in waste generation as predicted in our circular across South Asia and Sub-Saharan Africa are likely to face a 
+scenario therefore provides a financial incentive for strong increase in waste generation as their populations 
+governments to focus on circularity. We have modelled the increase, urbanisation continues, and income levels rise. This, 
+costs of operating and managing waste systems in our by implication, also means that these regions will see an 
+business-as-usual and circular scenarios. To do this we used increase in waste management costs. The increase in waste 
+2018 waste cost data (Kaza, et al., 2018) and adjusted this for management costs for these regions is set to be even stronger 
+inflation since 2018. It shows that collecting waste cost in our circular scenario given that it assumes that all waste will 
+USD176 per tonne in a high-income country and USD42 per be treated rather than being disposed of in an uncontrolled 
+tonne in a low-income country. Recycling costs range from way.
+USD15 per tonne in a low-income country to USD67 per tonne Our estimates suggest that adopting a circular waste strategy 
+in a high-income country. The cost of converting waste-to- as opposed to our business-as-usual approach will increase 
+energy ranges from USD91-146 per tonne whereas landfilling waste management costs for countries in South Asia and 
+costs range from USD18-85 per tonne. Sub-Saharan Africa by cUSD473 billion over the 2025-2050 
+Applying these cost estimates to our waste projections period (Figure 22). 
+implies that annual waste costs may reach USD243 billion by Funding such cost increases may be challenging for these low-
+2030 in a business-as-usual scenario before increasing to income countries, however our regional forecasts point to a 
+USD281 billion in 2040 and USD318 billion by 2050. Our possible solution. Switching to a circular waste management 
+annual projections suggest that the global cumulative cost of approach may reduce waste management costs for countries 
+managing waste in a business-as-usual scenario is USD6.75 in Europe and North America by a cumulative USD627 billion 
+trillion for the 2025-2050 period. Switching to a circular for the 2025-2050 period. They could use some of these 
+approach to waste management, as reflected in our circular savings to help fund the increased waste management cost 
+scenario, would lower these costs by almost USD500 billion that lower income regions face.
+over the 2025-2050 period (Figure 21). 
+
+Figure 21: Cost comparison between waste scenarios USD billion, 2025-2050
+
+Sub-Saharan Africa
+
+South Asia
+
+North America
+Circular Business as usual
+
+Middle East & North Africa
+
+Latin America & Caribbean
+
+Europe
+
+East Asia & Pacific
+
+Central Asia
+
+0 500 1000 1500 2000 2500 3000
+Source: World Bank, UN, Standard Chartered 
+
+Scaling circular finance: No time to waste 25
+
+
+
+Figure 22: Regional changes in waste costs between scenarios USD billion, 2025-2050
+
+South Asia 256
+
+Sub-Saharan Africa 217
+
+Central Asia 58
+
+Middle East & North Africa -46
+
+Latin America & Caribbean -76
+
+East Asia & Pacific -276
+
+Europe -295
+
+North America -332
+
+-400 -300 -200 -100 0 100 200 300
+
+Source: World Bank, UN, Standard Chartered 
+
+Avoided emissions may be worth 
+USD82 billion
+The benefits of adopting waste recycling and circular 
+solutions go beyond the direct cost savings associated with 
+the management of waste. One of the indirect benefits is the 
+GHG emissions avoided by adopting waste reduction 
+strategies. To gauge the potential size of these benefits, we 
+have estimated the emissions that can be avoided if countries 
+switch from the business-as-usual to the circular scenario. We 
+have also valued these avoided emissions by applying a 
+carbon credit price for each tonne of CO2-equivalent. 
+
+Methodology for estimating 
+avoided emissions
+A range of publications have provided estimates of the level category for each of the countries in our sample.
+of emissions generated by different types or categories of To be able to estimate the amount of waste generated by 
+waste. Examples include Greenhouse gases from landfills and category, we used data from the World Bank, which provides 
+Greenhouse gas emission factors for recycling of source in its ‘What a Waste 2.0’ publication a breakdown of waste 
+segregated waste materials. To calculate a country’s waste- by category for countries based on their average GDP-per-
+related emissions, we used emission estimates for different capita (Figure 23). 
+waste categories (Department for Envrionment Food & Rural We assumed that every country in a particular GDP-per-
+Affairs, 2022) and (Turner, et al., 2015) and multiplied these capita group has the same waste breakdown as given by the 
+by our estimates for the level of waste generated per World Bank. 
+
+Figure 23:  Waste composition for countries based on average income levels
+
+Income group Food and 
+green Glass Metal Other Paper and 
+
+cardboard Plastic Rubber and 
+leather Wood
+
+Low income 56% 1% 2% 27% 7% 6% 1% 0%
+
+Lower-middle income 53% 3% 2% 17% 13% 11% 1% 1%
+
+Upper-middle income 54% 4% 2% 15% 12% 11% 1% 1%
+
+High income 32% 5% 6% 11% 25% 13% 4% 4%
+
+Source: World Bank, Standard Chartered
+
+Scaling circular finance: No time to waste 26
+
+
+
+Emission estimates related to waste categories vary Figure 24. A negative number represents the emission savings 
+depending on how the waste is treated. For our calculations that are achieved through the adoption of a certain waste 
+we use four different treatments consisting of recycling, treatment for a given type of waste. This is especially relevant 
+landfilling,  waste-to-energy or incineration, and uncontrolled in the case of recycling.
+waste. Emission data related to these treatments are listed in
+
+Figure 24: Emission waste factor associated with different waste treatments (kg CO2eq/tonne of waste)
+
+Waste Food and 
+treatment green Glass Metal* Other* Paper and 
+
+cardboard Plastic* Rubber and 
+leather* Wood
+
+Recycling 0 -326 -4851 -512 -113 -576 -654 -477
+
+Landfilling 592 9 9 419 1042 9 445 828
+
+Waste-to-
+-70 8 21 229 -216 1802 438 -268
+
+energy
+
+Uncontrolled 592 9 9 419 1042 9 445 828
+
+* Source: DEFRA, Turner et al, Standard Chartered * Metal: average for steel, aluminium and copper, Other: Uses other waste and recycling 
+category of Defra, Plastic: average of PET, HDPE and dense plastics, Rubber and leather: Uses car and van tyre data from Turner et al
+
+We note here that our calculations of waste-related emissions 2023 and 2050. Adopting a circular waste strategy would 
+by country carry significant uncertainties as they are highly allow waste-related emissions to fall by 114% (Figure 25).
+dependent on methodological choices, assumptions 
+regarding waste generation, and the quality of the raw waste • Every region gains from switching to a circular waste 
+and emissions data. This suggests that assessing our strategy. By 2050, our estimates suggest that circular-
+calculations between the business-as-usual and circular related waste emissions can be between 90% and 200% 
+scenario is as relevant as focusing on the absolute estimates lower for most regions than they would be if they had 
+for each scenario individually. continued a business-as-usual strategy. Emissions in 
+
+Europe fall too on our estimates although by less than for 
+The assumptions we have made here around waste the other regions. The key reasons for this are that Europe 
+generation and the emission intensity of waste treatment is already recycling more than other regions and is 
+provide us with the following conclusions: expected to hit its peak recycling rate of 70% by 2040, 
+
+which is earlier than other regions. This means that a 
+• Our business-as-usual scenario implies that waste-related further reduction in total waste after 2040 generates less 
+
+GHG emissions will increase by 77% between recycled material and therefore reduced benefits from 
+avoided carbon emissions.
+
+Figure 25: Waste related GHG emissions by scenario % change relative to base year of 2023
+
+100% 77%
+
+50%
+
+0%
+Business as usual
+
+-50% Circular
+
+-100%
+
+-114%
+-150%
+
+2030 vs 2023 2040 vs 2023 2050 vs 2023
+
+Source: World Bank, UN, DEFRA, Turner et al, Standard Chartered
+
+Scaling circular finance: No time to waste 27
+
+
+
+Valuing avoided emissions
+Countries adopting circular waste strategies to reduce waste during the 2025-2050 period by switching to our circular 
+generation, increase recycling and therefore avoid emissions waste strategy can reach USD82 billion. Credits related to 
+might be able to sell these avoided emissions via the creation waste strategies adopted in Sub-Saharan Africa could be 
+of voluntary carbon credits. Each such credit would represent worth more than USD28 billion, followed by South Asia 
+one tonne of avoided GHG emissions. The total value of the (cUSD20 billion) and East Asia & Pacific (USD14.6 billion).
+avoided emissions through the adoption of a circular waste 
+strategy would be equal to the avoided emissions multiplied 
+by the value of each carbon credit. Circularity can reduce the cost of 
+We note that significant uncertainties exist around the externalities by USD336 billion
+creation and potential value of voluntary carbon credits. One 
+of the key issues relates to the concept of additionality of the Moving to a more circular approach of waste management 
+avoided carbon. In essence this relates to the question of not only reduces direct costs but also lowers externality costs 
+whether the creation of the voluntary carbon credit was the associated with the impact of waste on climate change, 
+key driver for the action taken to avoid the emissions, or in biodiversity loss and pollution. Environmental prices can be 
+fact whether a country would have taken the action anyway. used to calculate the social cost of particulate matter or 
+Through engagement with Standard Chartered’s carbon products. One of the main publications that highlights 
+team we have assessed a prudent approach to valuing the environmental prices for different products is the 
+avoided waste-related emissions associated with our circular Environmental Prices Handbook (Bruyn de, et al., 2018). 
+scenario. We incorporate the carbon team’s view that less We have used the Environmental Prices Handbook to 
+developed countries are more likely to be able to make the estimate the reduction in waste-related externalities from the 
+argument that avoided emissions-related carbon credits are adoption of more circular waste management practices. 
+essential to fund the development of a circular and recycling Multiplying the difference in emission levels between the two 
+focused waste strategy. This in their view should translate into scenarios with the stated externality cost of EUR56.6 per 
+greater demand for such credits and, by implication, higher tonne of CO2 equivalent provides an estimate of the cost 
+prices for these credits too. We value the avoided emissions differential of externalities that a move to circular waste 
+by applying a regional carbon credit price. We use a range of treatment can generate. 
+USD25 for a credit created by countries in Sub-Saharan Africa 
+to USD5 for a credit generated by countries in Europe and Based on our cumulative avoided emission estimates for the 
+North America. various regions in the 2025-2050 period, we calculate that 
+
+switching to a circular economy can reduce the total level of 
+By multiplying the avoided emissions by region by our region- externality costs by cUSD336 billion. Countries across East 
+specific carbon credit price we calculate that the annual Asia & Pacific and Sub-Saharan Africa would see the greatest 
+value of avoided emissions globally reaches USD3.4 billion in benefit from a switch to circularity as this would lower their 
+2030 and increases to almost USD18 billion by 2050. Our externality costs from waste by USD94 billion and USD73 
+approach implies that the value of all emissions avoided billion respectively.
+
+ 
+
+Scaling circular finance: No time to waste 28
+
+
+
+A circular waste model may provide a 
+USD918 billion benefit
+Combining our calculations for the reduction in waste costs push waste generation higher. Developing countries often 
+(USD500 billion), avoided emissions (USD82 billion) and face challenges when trying to attract investment. However, 
+reduced externalities (USD336 billion) by region suggests that in this case we believe that a pathway exists if developed 
+adopting a circular waste program globally may yield total countries accept that waste knows no boundaries. It often 
+benefits of cUSD918 billion over the 2025-2050 period. gets exported by developed countries to the developing 
+Countries that are likely to see the biggest benefits include world and emissions and pollution affect the world at large.
+those in East Asia & Pacific, North America, and Europe 
+(Figure 26). Countries across Europe and North America may see total 
+
+benefits of USD657 billion during the 2025-2050 period. This is 
+Countries across South Asia, Sub-Saharan Africa and Central double the USD328 billion in total cost increases that we 
+Asia, on the other hand, are likely to face higher waste- estimate countries across South Asia, Sub-Saharan Africa and 
+related costs in a circular scenario. Reasons for this are the Central Asia are likely to face as they adopt circular waste 
+need to reduce current high shares of uncontrolled waste, and strategies. Giving up half of the potential benefits would fund 
+simultaneously increase waste management capacity as these cost increases and still leave USD329 billion in net 
+expanding populations, urbanisation and income levels will savings for Europe and North America.
+
+Figure 26: Costs and benefits of adopting a circular waste programme by region
+USD billion, cumulative impact for the 2025-2050 period
+
+  
+500 500
+
+400 400
+
+300 300
+
+200 200
+
+100 100
+
+0 0
+
+-100 -100
+
+-200 -200
+
+-300 -300
+
+-400 -400
+South Asia Sub-Saharan Central Asia Middle East & Latin America Europe North America East Asia &
+
+Africa North Africa & Caribbean Pacific
+
+Avoided emission value Reduced externalities Direct waste costs decline Total
+
+Source: World Bank, UN, DEFRA, Turner et al, Standard Chartered 
+
+Scaling circular finance: No time to waste 29
+
+
+
+05
+Unlocking finance to close 
+a USD6.5 trillion circular 
+funding gap
+
+Scaling circular finance: No time to waste 30
+
+
+
+Despite the strong economic, social, and environmental demand. The latest data shows that in 2020, 84% of all 
+benefits that a circular economy provides, finance is yet to global material demand was related to three sectors: the 
+flow at scale towards these solutions. In this chapter we food system (agrifood), the building and construction sector, 
+estimate that the circular funding gap ranges between and the transport sector (Figure 27). 
+USD6.5-13.4 trillion and highlight a range of financial 
+solutions that may help close this gap. To assess the relative environmental footprint of different 
+
+economic activities we used materiality dependency ratings 
+Most businesses can improve economic resilience by adopting from the ENCORE (Exploring Natural Capital Opportunities, 
+circular solutions. However, not all have the same circular Risks and Exposure) database. These ratings suggest that 
+potential. For our funding gap analysis we have included a activities related to agrifood, building and construction, 
+sub-set of sectors and economic activities that have high transport, chemicals, plastics and textiles have significant 
+material or environmental intensity. environmental intensity. This focus is aligned with that of 
+
+various other major reports, including the IRP, UNEP and the 
+The UNEP Global Material Flows Database provides insight sector focus of many national strategies, including the EU 
+into the broad sectors that account for most raw material and UK. 
+
+Figure 27: Share of material footprint by sector and country income group (2020)* 
+ 
+
+Agrifood Transport
+Building & construction Energy
+
+60% EEC Other
+Waste & resource requirements
+
+40%
+
+20%
+
+0%
+Low income Lower middle income Upper middle income High income
+
+Source: UNEP, Standard Chartered Research * EEC = Electronics, electrical equipment and communications
+
+Scaling circular finance: No time to waste 31
+
+
+
+The circular economy faces a significant 
+funding gap
+
+The lack of commonly agreed definitions and frameworks makes it very challenging to accurately estimate the current level of 
+investment activity directed towards the circular economy. One study found that worldwide public spending on the circular 
+economy totalled cUSD500 billion in 2019/2020 (Schroder, et al., 2021).
+The investment shortfall for the developing world is even more significant as many countries lack sufficient waste collection, 
+recycling, and treatment infrastructure. Data  from the World Bank show that total infrastructure investments across the 
+developing world reached cUSD92 billion in 2023 (Figure 28) (World Bank, 2025). Of this, investments in waste and water and 
+sewage treatment accounted for less than 8% while annual investments in municipal waste projects reached just USD400 
+million during the latest three years for which data is available. 
+
+Figure 28: Investments in infrastructure projects with private participation across developing countries USD billion
+
+80.0 Energy
+
+70.0
+
+60.0 Transport
+
+50.0
+
+40.0 Information and
+communication
+
+30.0 technology (ICT)
+
+20.0 Water and
+sewerage
+
+10.0
+
+0.0 Municipal Solid
+Waste
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+
+Source: World Bank, UN, Standard Chartered 
+
+Figure 29: Official development finance flows related to solid waste projects across developing countries 
+USD million, broken down by income level (L=Lower, LM=Lower-Middle, UM=Upper-Middle, H=Higher)
+
+2000 Regional H UM LM L
+1800
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+
+0
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+Source: Lerpinierre et al (2025), Standard Chartered
+
+Scaling circular finance: No time to waste 32
+
+
+
+Work from (Lerpinierre, et al., 2025) regarding development finance shows a similar story. Investments directed towards 
+solid waste, water and sanitation projects increased from cUSD4 billion in 2003 to cUSD13 billion in 2023. However, most of 
+this was directed to water and sanitation projects as investments in solid municipal waste projects reached just USD1.8 billion 
+in 2023 (Figure 29). 
+
+Creating circular sectors likely requires After deducting current investment 
+at least USD7 trillion of investments activity, we see a circular funding gap of 
+Mobilising more public and private capital towards circular at least USD6.5 trillion
+solutions is one of the key barriers to achieving a fully 
+integrated circular economy. To assess the magnitude of While we estimate total circular funding requirements to be at 
+additional circular financing required to enable a global  least USD7 trillion, we note that some of these may be covered 
+transition towards a circular economy we have reviewed the by existing public and private investment activity. Across the 
+investment requirements for some of the key circular end activities highlighted above, we calculate that current funding 
+markets for the period until 2035. The main conclusions are of circular-related investments may reach USD563 billion for 
+shown below but we refer to the appendix where we explain the period until 2035. This implies a circular financing or 
+our methodology for calculating these investment funding gap to cover the above-mentioned investment 
+requirements in more detail. requirements of at least USD6.5 trillion (Figure 30).
+
+Current Funding
+Funding Gap
+
+4,542 Funding Gap(High)
+
+608 1,281
+
+1,923
+2,016
+
+1,292 140
+296 58 945
+
+155 56
+86
+
+~0 ~0
+285 6,465 1,900 55 295 148 382 1 114 74 2,016 2,226
+
+Agrifood Building and Industry Plastic Textile Waste Water
+Construction Recycling (desalination)
+
+Figure 30: Circular funding gap for the period until 2035  USD billion
+
+Sector Investment Low Need High Current funding Funding Low Gap High
+
+Agrifood 2,208 6,750 285 -1923 -6465
+
+Not
+Building and Construction 1,292 1,900 1,292 1,900
+
+meaningful
+Industry ( Steel, 
+
+210 350 55 155 295
+Aluminium, Cement)
+Plastic 234 530 148 86 382
+
+Textile 57 115 1 56 114
+
+Waste recycling 2,090 2,090 74 2,016 2,016
+Not
+
+Water (desalination) 945 2,226 945 2,226
+meaningful
+
+Total 7,036 13,960 563 6,473 13,397
+
+Source: : CPI, FAO, WEF, Bloomberg, Nordic Council, World Bank, McKinsey, WRI, Standard Chartered
+
+Scaling circular finance: No time to waste 33
+
+
+
+Figure 31: Circular economy-related financial exposure USD billion, 
+
+Investor type USDbn
+
+Commercial bank lending 20
+
+Regional and development banks 49
+
+Private Equity 42
+
+Public Equity 42
+
+Corporate bonds issued 116
+
+Total 270
+
+Source: Organisations, Standard Chartered, Bloomberg
+
+Three points are worth highlighting:
+
+There is a degree of uncertainty Most of our estimated circular funding Our overall investment and funding 
+regarding our estimates given the requirements are likely to fall on the gap calculations do not include some 
+previously stated concerns regarding developing world given its relative important sectors most notably 
+data consistency, accuracy, and lack of infrastructure across areas such transport. Therefore, the total circular 
+availability in relation to the adoption as municipal waste, plastic recycling, funding gap may well be substantially 
+of circular economy solutions. and agriculture. larger than our current estimates.
+
+To put our estimate for the circular funding gap into context we have calculated what the total current financial exposure of 
+investors and lenders to the circular economy is. Summing the on-balance sheet exposure of commercial banks, lending by 
+regional and development banks, equity investments both public and private, and corporate bond issuance we estimate that 
+total current financial exposure to the circular economy is USD270 billion (Figure 31). 
+Our estimate of USD270bn is conservative as this is only based on publicly disclosed information. For example, our USD20bn 
+estimate for commercial bank lending is only based on data for a few European banks with specific circular economy activities. 
+Total bank lending across the entire global banking system is therefore likely to be substantially larger than our estimate.
+
+Scaling circular finance: No time to waste 34
+
+
+
+Risk-reducing financing solutions and 
+avoided carbon help close the funding gap
+
+A review of circular economy-related finance flows during the past few years suggests that to increase funding to close the 
+above-mentioned funding gap likely requires a broadening of financial instruments or investment approaches. 
+Sustainable finance data from Bloomberg shows that the total issuance of sustainability-linked bonds and loans with a focus 
+on the circular economy, waste or water projects reached almost USD119 billion since 2016 (Figure 32). While issuance levels 
+increased rapidly between 2018 and 2021, less than USD20 billion per year was raised between 2023 and 2024 (Figure 33).
+Investor appetite for circular debt appears healthy as indicated by a recent transaction involving Adapteo, a company offering 
+modular or circular building solutions. The company raised EUR2 billion spread across green private-placement notes, green 
+bank loans and revolving credit facilities with investor demand totalling three times the offer size (Adapteo announces 
+landmark EUR2 billion investment grade green financing). 
+
+Figure 32: Issuance of sustainability-linked bonds and loans with environmental sub-categories USD  billion 2016-2025
+
+Water, 40 Waste,17
+Circular economy, 62 Other climate change
+
+GHG emissions
+
+Renewable energy
+
+Circular economy
+
+Water
+
+Other environmental
+
+Waste
+
+Source: Bloomberg, Standard Chartered 
+
+Figure 33: Cumulative issuance of sustainability-linked bonds and loans related to circular economy, waste and water projects USD billion 
+
+140
+
+120
+
+100
+
+80 Water
+
+60 Waste
+
+Circular economy
+40
+
+20
+
+0
+2018 2019 2020 2021 2022 2023 2024
+
+Source: Bloomberg, Standard Chartered 
+
+Scaling circular finance: No time to waste 35
+
+
+
+Data for equity-related financing also suggests that finance flows towards circular economy solutions need to increase. 
+Bloomberg’s latest Energy Transition Investment Trends 2025 report shows that 40 different solution areas in alternative fuels, 
+carbon and nature, clean industry and agriculture attracted less than USD10 billion in equity funding last year (down from 
+cUSD18 billion in 2022). Across the three years just over USD40 billion was invested in these solutions (Figure 34). The fact that 
+90% of this equity funding was venture capital and private equity-related suggests that most circular solution providers 
+seeking funding are in the early stages of their development.
+Interest in public equity investments in circularity-related companies has started to pick up during the past few years. The 
+number of circular economy equity funds listed increased from less than 5 in 2019 to almost 40 this year. There are also almost 
+50 funds with an investment strategy that includes a focus on circular economy-related end markets such as waste, recycling, 
+and clean water (Figure 35). Total assets under management for these funds is USD8 billion in case of the circular economy 
+specific funds, and USD35 billion for the funds that have circular economy markets as part of their broader investment strategy. 
+Given the extent of public and private sector focus on this topic and the investment requirements associated with creating a 
+circular economy, we believe that public equity exposure to circular economy related companies and sectors may increase.
+
+Figure 34: Equity financing in circular-related sectors USD  billion
+
+45
+40
+35 Alternative fuel
+
+30
+25 Carbon and nature
+
+20
+Industry
+
+15
+10
+
+Agriculture
+5
+0
+
+2022 2023 2024
+
+Source: Bloomberg, Standard Chartered 
+
+Figure 35: Circular economy related equity funds Number
+
+60
+
+50
+
+40
+
+30
+
+20 Funds with a focus on some circular end
+markets
+
+10 Circular economy funds
+
+0
+Dec-19 Jun-20 Dec-20 Jun-21 Dec-21 Jun-22 Dec-22 Jun-23 Dec-23 Jun-24 Dec-24 Jun-25
+
+Source: Bloomberg, Standard Chartered 
+
+International funding is needed to help funding in mature markets was sourced domestically. In 
+contrast, across Central Asia and Eastern Europe and Sub-
+
+scale the circular economy across the Saharan Africa, only 50% and 23% of funding respectively 
+developing world was provided by domestic sources (Figure 36). In addition to a 
+
+greater reliance on international funding for climate projects, 
+To scale circular economy investments successfully across the we note that developing countries also rely more than 
+developing world requires support from international funding countries across the Global North on public rather than 
+sources. Climate finance data shows that the majority of private funds (Figure 37).
+
+Scaling circular finance: No time to waste 36
+
+
+
+Figure 36: Climate finance split by funding source 2023
+
+Sub-Saharan Africa 23%
+
+Central Asia and Eastern Europe 50%
+
+South Asia 57%
+
+Middle East & North Africa 57%
+
+Latin America & Caribbean 61%
+
+Other Oceania 68%
+
+Western Europe 80%
+
+US and Canada 88%
+
+East Asia and Pacific 95%
+
+0% 20% 40% 60% 80% 100%
+
+Domestic International
+
+Source: Climate Policy Initiative, Standard Chartered
+
+Figure 37: Climate finance split by private-public source 2023
+
+Sub-Saharan Africa 30%
+
+South Asia 53%
+
+Latin America & Caribbean 57%
+
+East Asia and Pacific 57%
+
+Central Asia and Eastern Europe 61%
+
+Middle East & North Africa 66%
+
+Western Europe 73%
+
+Other Oceania 84%
+
+US and Canada 91%
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+Private Public
+Source: Chatham House, Standard Chartered
+
+Developing countries rely heavily on foreign and public climate finance funds. This is likely to be the case for circular economy-
+related projects too. Part of the reason for this in our view is the fact that domestic capital may not be available in sufficient 
+quantity. This means that until private domestic capital markets across the Global South reach sufficient scale, liquidity and 
+capacity, scaling circular economy funding in these countries will require increased engagement from international sources. 
+Governments in developing countries should continue to develop policies and regulations that support the development and 
+risk profile of their domestic private capital markets. Some current regulations such as Basel III rules make foreign investments 
+into developing countries less attractive due to their perceived higher-risk profiles. Incorporating circularity-related risk into 
+regulations such a Basel III could help lower this barrier. 
+
+Scaling circular finance: No time to waste 37
+
+
+
+Innovative finance solutions are 
+needed to scale the circular economy
+Data for climate finance demonstrates that the universe countries and the fact that local capital markets are often 
+of finance solutions available to help scale circular economy not developed or liquid enough to provide sufficient 
+investing needs to broaden. In 2023, more than 90% of private funds. 
+climate finance expected market-rate returns whereas Blended finance is one approach that could be catalytic in 
+only 7% was made up of concessional finance such as unlocking greater circular economy investments across the 
+grants, philanthropies, or blended finance (Climate Policy developing world as it reduces the risk profile of these 
+Initiative, 2025). investments. There are other financial structures that will help 
+Data from the CPI shows that the share of concessional scale funding by crowding-in private capital through risk 
+climate finance across emerging countries, excluding the reduction. These include revenue or return guarantees or 
+least developed nations, was 35% in 2023. We believe that insurance mechanisms that offset downside risks such as 
+this share is low given the relative risk profile for these political risk. Figure 38 lists examples of some of these 
+
+(Schroder, et al., 2021).
+
+Figure 38: Financing structures that help scale circular economy investments
+
+Waste collection and 
+recycling infrastructure 
+
+Political risk insurance Private infrastructure
+Stabilises investment investments
+environment Wastewater infrastructure 
+
+Modular construction and
+housing solution 
+
+Public blended finance Private capital
+Provides concessional
+rates Zero waste and pollution
+
+manufacturing solutions
+
+Repair and reuse business
+models
+
+Government-backed loan Commercial loans for
+guarantee schemes Risk reduction and loan SMEs
+
+facilitation Digital platforms  for 
+sharing and services 
+
+Regenerative agroforestry
+and agriculture 
+
+Public equity co-
+Investment Private equity Investor 
+
+Mobilises capital Ecosystem and forest
+restoration
+
+Source: (Schroder, et al., 2021), Standard Chartered
+
+Scaling circular finance: No time to waste 38
+
+
+
+Other real-life examples of innovative approaches 
+to scaling circular investments include: 
+
+Combining government and private funding Avoided carbon as a potential 
+funding source
+
+One of the potential reasons why circular economy related 
+investments have yet to accelerate sufficiently may be While measurement and accounting for avoided emissions is 
+perceived investment risk. Governments may decide to challenging, there is growing recognition of the importance of 
+provide guarantees to companies, which reduces credit risk this topic. Circular solutions that dematerialise or extend 
+
+product life both keep invested energy in use longer and 
+and is likely to draw-in more private capital. avoid additional carbon emissions in the production of new 
+Venture capital teaming up with products and hence may qualify for carbon credits if they can 
+
+prove that they prevent emissions. The sale of these credits 
+industry leaders would generate revenues that can help fund the investments 
+
+needed to establish the circular solutions.  
+Venture capital funds can play a key role in not only 
+driving equity funding of circular solutions, but also in A full assessment of the avoided carbon potential that 
+applying their deep industry knowledge and access to circular economy solutions have is beyond the scope of this 
+industry leaders to help integrate a circular operation into report. However, as an indication, we refer to our chapter on 
+the wider supply chain. waste recycling. In it we showed that the development of 
+
+sufficient waste recycling capacity globally can help reduce 
+Supply chain engagement waste-related emissions by 114% between 2023 and 2050 
+
+compared to a 77% increase in a business-as-usual scenario. 
+Circular challenges and opportunities can be very sector Furthermore, we calculated that the value of these avoided 
+specific and therefore require the development of sector- emissions could reach USD82 billion with the majority of this 
+based circular strategies and policies. Leading businesses created by avoiding emissions in Africa (USD28 billion), South 
+play a key role in driving both these strategies and circular Asia (USD20 billion) and East Asia & Pacific (USD15 billion). 
+adoption in their sectors. They are more established than Circular solutions reduce emissions relative to the status quo. 
+start up circular companies, tend to have larger balance This suggests that the topic of avoided emissions and related 
+sheets to help fund investments and, importantly, are very, carbon credits as outlined in our chapter on waste is likely 
+familiar with the organisation of their sector’s entire supply applicable to other circular solution areas too. Thus, avoided 
+chain and related challenges. All this means that they can carbon could become a significant potential funding source 
+help circular companies across the value chain optimise for circular investments, provided that uncertainties 
+their strategies and offerings. regarding the functioning of voluntary carbon markets and 
+
+carbon credits are addressed. 
+
+Scaling circular finance: No time to waste 39
+
+
+
+06
+Critical levers for scaling 
+circular investment
+
+ScalinHga r cnirecsusllainrrg ffi niAnafarninccaee’:s :NNbool uttiemimeec totoon wowmaasysttee 40
+
+
+
+The level of the funding gap as estimated in the previous section shows that the need to scale circular economy-related 
+investments is high. We have identified four levers that are essential to make this happen.
+
+1. Recognise that the circular economy is 
+fundamental to the delivery of climate 
+and nature targets
+
+During the past ten years countries and corporates around • Reducing net zero-related investment requirements. The 
+the world have become increasingly active in developing earlier cited analysis from Agora Industry showed that 
+strategies that combat climate change and regenerate integrating circular solutions into decarbonisation 
+nature. Integrating circular solutions fully into climate and strategies resulted in a 45% reduction in abatement costs 
+nature strategies is clearly apparent in EU Commission in key sectors. This is due to circular economy strategies 
+policies and regulation relating to product design not requiring investment in novel, low carbon technologies 
+
+in contrast to some suggested decarbonisation solutions 
+(Ecodesign for Sustainable Products Regulation (ESPR) and such as hydrogen or carbon capture and storage which 
+Energy Labelling Framework Regulation (ELFR), and are in early-stage development and can be expensive. 
+regulation relating to Product Passports and Right To Repair Opting for circular solutions can therefore provide a 
+(PPRTR). These policies make an explicit link between product cheaper and more scalable strategy that can reduce GHG 
+life extension and reduced energy demand. Other public emissions more quickly.
+policy roadmaps are less explicit on this and far less 
+developed which is a missed opportunity given that 55% of all 
+GHG emissions are accounted for by biomass cultivation, 
+mineral and fossil resource extraction and processing for Circular solutions also provide nature-
+materials, fuels, and food (United Nations Environment 
+Programme, 2024). Circular solutions are ideally placed to positive benefits 
+address the material and energy intensity of these activities. Circular solutions not only aid climate targets, they also 
+This view is echoed by analysis from the Ellen MacArthur provide a range of nature-positive benefits. This is important 
+foundation which states that 45% of the 1.5°C target is as 90% of terrestrial biodiversity loss is caused by material 
+dependent on delivery of circular economy solutions (Ellen resource extraction and processing (United Nations 
+MacArthur Foundation, 2021). Environment Programme, 2024a). Examples of how circular 
+
+solutions can help improve ecosystems include:
+• Regenerative agriculture practices improve soil health, 
+
+Adopting circularity lowers better wastewater infrastructure increases flood 
+GHG emissions and the need for resistance, and installing green water infrastructure and 
+
+restoring marine and wetland environments reduces 
+transition investments freshwater stress.
+
+All circular strategies – including re-use, repair, • Reducing the production of waste and increasing the 
+remanufacturing, and recycling – reduce demand for new collection and recycling of waste reduces pollution levels 
+products and virgin materials as existing products, which in turn helps to regenerate natural ecosystems. 
+components and materials are used for longer. This allows the 
+
+• Circular solutions may reduce demand for energy, 
+circular economy to support climate objectives by: including renewable energy. Zaabi et al estimate that in 
+• Reducing carbon emissions to help achieve net zero 2050 more than 70 million tonnes of solar panel waste 
+
+strategies and targets. We refer to our earlier comments could end up in landfills in a business-as-usual scenario, 
+on page 10 and shown in Figure 3 which outlined that GHG but adopting circular strategies could reduce this to 17 
+emissions fall 25% more in hard to abate sectors if circular million tonnes (Al Zaabi, et al., 2024). 
+solutions are integrated into decarbonisation strategies 
+
+• Adopting circular design in construction, infrastructure 
+(Agora Industry, 2024). These reductions come in the form and city planning can have a significant nature-positive 
+of avoided emissions, for example from not having to impact. Adopting nature-positive circular design principles 
+produce as much virgin steel or cement. We note that the can deliver ecosystem services such as improved water 
+topic of avoided emissions is gaining traction - see management, better temperature regulation, and more 
+(WBCSD, 2025) and (SystemiQ, 2025) - and could help green space and habitat - see 
+improve companies’ and countries’ strategic positioning (Ellen MacArthur Foundation, 2024) and (Holcim, 
+and perception with investors. Systemiq, 2024)
+
+Scaling circular finance: No time to waste 41
+
+
+
+2. Agree on circular definitions, principles, 
+measurement and reporting
+
+One of the key challenges to a wider adoption of circular economic, but also environmental statistics. The central 
+solutions is that there is currently no universal agreement on framework (SEEA-CF) covers physical flows between the 
+the scope and definition of what a circular economy entails, environment and an economy as well as flows within an  
+what it can achieve and how best to put it in place. For economy. It also records stock levels of environmental assets 
+example, we note that Kirchherr et al identified 221 different both in physical and monetary terms and it records monetary 
+definitions of the Circular Economy in scientific literature flows associated with economic activities related to the 
+between 2017 and 2021 alone (Kirchherr, et al., 2023). environment.
+Our own analysis suggests that most countries tend to focus Using SEEA data for a country allows for measuring circular 
+on recycling or general waste reduction strategies in selected strategies such as recovery and recycling. However, not all 
+sectors when developing circular economy policies and aspects of a circular economy are currently measured 
+strategies. This approach fails to fully capitalise on the statistically. Examples of this include flows of goods and 
+benefits a fully integrated, upstream, design-led approach to services related to sharing, repair, or refurbishment activities. 
+product life extension can yield, such as improving a country’s To monitor these and other circular “R” strategies such as 
+resilience to natural resource and finite raw material related ‘reduce’, ‘rethink’, ‘reuse’ and ‘re-design’, requires additional 
+shocks, reducing a country’s raw material intensity risk profile, data sources that may not be available.
+and reducing a country’s dependence on imported raw 
+materials and exposure to related price volatility. Another drawback of using SEEA data for measuring 
+
+circularity is that not all countries currently have adopted 
+In addition to the definition challenge, we note below that and implemented the SEEA-CF or report accounts on a 
+there is currently no uniformly accepted methodology or regular basis. The 2024 Global Assessment report showed 
+framework that outlines how circular adoption is to be that 94 countries have implemented the SEEA, and that 67 
+measured and reported by country, sector, or company. of these publish at least one account on a regular basis 
+Agreement on this amongst sector leaders, and ultimately (UNCEEA, 2025). 
+amongst governments and international organisations, needs 
+to be reached as soon as possible for circular adoption to 
+accelerate more rapidly. Circular reporting standards for 
+
+corporates need to tighten
+Measuring circularity on a macro level Understanding the degree to which companies have adopted 
+is work in progress circularity is also a work in progress, not least as corporate 
+
+reporting or disclosure standards for circularity have yet to be 
+Several organisations are engaged in developing approaches fully implemented. The need to address this issue is high as it 
+to measure circularity on a macro level. Examples of these clouds the ability to understand capital allocation to circular 
+efforts include UNECE in cooperation with the OECD (OECD solutions by companies over time and make it more difficult 
+and United Nations, 2023) the International Organisation for for investors to identify which companies are meaningfully 
+Standardisation (ISO, 2024) the European Environment exposed to the circular economy, and which are not. This 
+Agency (European Union, 2024)  Circle Economy (Circle latter point hampers efforts to scale circular capital allocation 
+Economy, 2025) and the World Business Council for the and may cause capital to be allocated by fund managers or 
+Sustainable Development WBCSD. These approaches mostly investors to companies that are not significantly exposed to 
+adopt Material Flow Accounting (MFA), Input Output the circular economy. The relevance of this issue was also 
+Analysis and Life Cycle Analysis (Ghisellini, et al., 2023). underscored by a recent briefing paper from the World 
+Providing an overall estimate of a country’s circularity, Economic Forum released in November 2024 (World 
+however, is made more difficult because it requires economic, Economic Forum, 2024). It showed that almost 90% of 
+social, and environmental statistics that are not always surveyed corporate executives believe that harmonisation 
+collected or reported. of circularity standards will help enable the circular 
+
+transformation of industries. 
+Given these constraints, the frameworks developed to date 
+are mostly aligned with the central framework of the System As with measuring circularity on a macro level, several 
+of Environmental-Economic Accounts (SEEA). The SEEA is an frameworks exist that track corporate progress on 
+international statistical standard for compiling not only the adoption of circularity. We highlight some of these 
+
+in Figure 39. 
+
+Scaling circular finance: No time to waste 42
+
+
+
+Figure 39: Initiatives relevant for measuring circular economy adoption
+
+Organisation Organisation Relevance
+
+International Sustainability Disclosure regarding commitments and strategies around waste 
+IFRS S1 and S2
+
+Standards Board (ISSB) elimination, resource circulation and nature regeneration
+
+Taskforce for Nature related Nature-related corporate disclosures relevant for most circular-
+TNFD disclosures
+
+Financial Disclosure (TNFD) related end markets
+
+World Business Council for CTI provides a range of indicators that measure a corporate’s 
+Circular Transition 
+
+Sustainable Development current circularity, how it impacts sustainability and how further 
+Indicators (CTI)
+
+(WBCSD) improvements can be made
+
+World Business Council for Framework in development that by 2026 should guide companies 
+Global Circularity 
+
+Sustainable Development in target-setting, measuring, reporting and disclosing progress on 
+Protocol
+
+(WBCSD) resource efficiency and circularity
+
+Science Based Targets Science-based Several of the SBTN targets (e.g. land and water-related) can be 
+Network (SBTN) Targets for Nature used to assess whether a company is focused on circularity
+
+The ISO 59020 “Measurement and Evaluation of Circularity” 
+International Organisation for SO 59004 – Circular 
+
+framework assists companies in minimising resource usage and 
+Standardisation (ISO) Economy
+
+increase circular flow of resources.
+
+European ESRS E5 focuses on resource use and circularity and requires 
+Sustainable companies to disclose information on their policies, actions, 
+
+European Union (EU)
+Reporting targets, financial impacts related to resource flows and risks and 
+Standards (ESRS) opportunities linked to the circular economy.
+
+Source: Standard Chartered
+
+While progress on corporate reporting initiative is positive, in our view several issues remain:
+
+• There is currently no global agreement on what data • Not all suggested circular solutions are uniformly accepted. 
+corporates need to report. For example, while recycling waste into energy is seen as a 
+
+sustainable circular solution by some, critics argue that it 
+• The EU’s European Sustainable Reporting Standards locks in waste as a feedstock and may therefore reduce the 
+
+(ESRS) which is associated with the Corporate incentive for further innovation or the design of new 
+Sustainability Reporting Directive (CSRD) is the only solutions that eradicate this waste. 
+mandatory framework that currently exists. All other 
+approaches are voluntary.
+
+Scaling circular finance: No time to waste 43
+
+
+
+3. Integrate the circular economy into 
+finance risk models
+
+We see low engagement by the financial sector with the roadmap that discussed these bottlenecks. It offered best 
+topic of circularity as a key barrier for the required increase in practices in financing circular projects and outlined key 
+circular finance flows. Solutions for this include establishing a actions required to address funding challenges (Circle 
+generally agreed framework that defines eligible circular Economy, 2022). 
+activities. We also believe that tools need to be developed 
+that estimate corporate exposure to the risks and Two recent publications from the International Finance 
+opportunities from circular and non-circular activities. Corporation (IFC) and the Kopgroep Circulair Financiering 
+Integrating these tools into risk or lending models used by (KCF) expanded on this work and provide guidelines for 
+financial institutions would help improve the necessary classifying circular solutions and a methodology for modelling 
+scaling of circular capital. the associated risks and opportunities. These two approaches 
+
+combined could offer strong potential to help address the 
+above-mentioned funding bottlenecks.
+
+Creating a framework to model circular Harmonised Circular Economy Finance 
+risk will help circular lending Guidelines
+Financial institutions play a key role in enabling circular The International Finance Corporation (IFC) published their 
+finance to scale. They are providers of financing to circular Harmonised Circular Economy Finance Guidelines this year 
+investment projects or companies, asset managers of circular (IFC, 2025). The guidelines are meant to assist financial 
+projects, or they act as intermediaries between suppliers of institutions with identifying assets, products or services that 
+circular funding and project owners and developers. qualify as aiding the circular agenda. To that end, the 
+
+guidelines define eligibility criteria for products and services 
+While financial institutions have been active supporters of and include examples of reporting parameters that can assist 
+solutions associated with the energy transition, we have not the monitoring of them. The guidelines include three key 
+yet seen the same level of support in relation to the circular circular economy activities: Circular design and production, 
+economy. There are several factors that might explain why Circular use, and Value recovery. In addition, the guidelines 
+engagement from the financial sector with the circular also recognise activities that enable the adoption of 
+economy currently lags that of more traditional sustainable circularity. Importantly the guidelines are compatible with the 
+development projects. EU’s guidance on circular economy finance and are aligned 
+• The circular economy is a relatively new concept. General with the International Capital Market Association’s Green 
+
+awareness of the topic is therefore likely to be mixed Bond Principles. Figure 40 summarise the key activities and 
+across financial firms which constrains the willingness to shows examples of eligible projects and reporting 
+support financing requests. parameters. The IFC’s circular economy finance guidelines are 
+
+based on a few key principles that are consistent with existing 
+• The absence of globally accepted definitions and guidelines that support the acceleration of broader climate, 
+
+measurement standards makes risk-return assessments of blue and biodiversity finance. These principles are:
+circular projects more challenging. This may unjustly 
+penalise circular projects. • Eligible circular projects and services should clearly outline 
+
+how they will achieve circular economy goals and how 
+• Existing risk models used by financial institutions often do these will be measured.
+
+not incorporate the long-term risks or negative 
+externalities that a linear economy has on existing • The contribution that a circular economy project is to 
+business models. The risk assessment of linear projects deliver should be clear and go beyond the business-as-
+may therefore be too optimistic both in absolute terms usual conditions in the local market context.
+and relative to circular projects. Circular economy projects and services should not do 
+
+We believe that these funding challenges could be at least significant harm or introduce material risk to environmental 
+partially addressed if a risk framework was adopted by banks objectives. Environmental, social and governance safeguards 
+that integrates circular business models into their general risk and standards should be applied in the implementation of 
+modelling. In 2022, Circle Economy produced a high-level projects if there are material environmental and social risks.
+
+Scaling circular finance: No time to waste 44
+
+
+
+Figure 40: Circular economy activities and reporting parameters
+
+Category Description Project components Reporting examples
+
+Circular design and production
+
+• Modular design • Number of 
+Design phase that circular components
+incorporates reduction of • Standardised equipment
+material inputs, use of • Share of materials 
+
+- Design
+regenerative inputs and • Reused and recycled packaging designed for durability
+increased use of reuse, 
+repair and recycling • Incorporate raw materials from • Amount of CO2 or food waste 
+
+regenerative practices avoided and reduced
+
+• Share of recycled materials
+• Use of secondary materials
+
+• Ratio of circular materials
+• Use of materials that are nature positive
+
+Production processes that 
+• Reduction of raw 
+
+reduce virgin raw material 
+Production • Use of zero waste and 3D printing material use
+
+usage and increase techniques
+production effectiveness • Waste decline
+
+• Use of regenerative agri- and 
+aquaculture solutions • Area under regenerative agri- or 
+
+aquaculture 
+
+• Reuse of resale or products
+• Volume of reused, repaired 
+
+Life extension of products • Construction of refurbishing remanufactured products
+through repair, or remanufacturing facilities 
+
+Circular use refurbishment, reuse, and technologies • Change in products derived from 
+end-of-life products
+
+retrofitting and 
+remanufacturing • Circular approaches to forestry and • Change in life-cycle GHG-
+
+agriculture and restoration of emissions or material use
+ecosystems
+
+Value recovery
+
+• Deposit return and take-back schemes • Volume of products collected
+Collection and sorting of 
+
+Collection and products to enable • Collection and sorting services • Volume of avoided waste
+sorting circularity of end-of-life  sorted material
+
+products and materials • Development of waste • Volume of
+management infrastructure
+
+• Collection points for waste
+
+• Facilities for reuse and recycling
+• Products derived from by-
+
+• Mechanical and chemical products and waste
+Organic and non-organic recycling capacity
+
+n life-cycle GHG 
+- Material reduction material management, • Reduction i
+
+recycling and recovery • Biomass waste recovery facilities emissions
+
+• Wastewater treatment facilities • Production of food from 
+upcycling and by-products
+
+• Recovery of hazardous waste
+
+• Virtual marketplaces for secondary 
+materials or products
+
+• Digital tools for optimisation of 
+circular solutions • Amount of waste avoided
+
+Products, services and • Industrial automation and robotics to • Share of products covered by 
+business models that enable promote circularity disclosure of inputs or material 
+circularity across different passport
+
+Circular enablers segments of the materials life • Rental or leasing services beyond • Production covered by 
+cycle including increased business-as-usual conditions traceability mechanisms, data 
+intensity of use and technologies
+
+• Subscription of maintenance and 
+repair services • Use of precision agriculture 
+
+• Sharing platforms
+
+• Information services
+
+Source: IFC, Standard Chartered
+
+Scaling circular finance: No time to waste 45
+
+
+
+Circular risk scorecard (CRS)
+While understanding whether an activity is eligible for government officials and private sector representatives in the 
+circularity is an important element to help drive acceptance UK. We believe that this methodology could be a good first 
+of the theme, we do not believe that it is sufficient to help step to help financial institutions incorporate circularity into 
+scale finance flows at the levels required. For this to happen their risk modelling and investment and finance decision 
+we believe that risk models used by financial institutions making processes.
+when making investment and finance decisions would also The circular risk scorecard (CRS) developed by the KCF 
+need to be adjusted. These models would need to assesses the risks faced by circular business models. To do 
+incorporate the risks associated with a continuation of the this, the CRS reviews six key risk drivers for a company. To 
+current linear economic model and how these risks differ for measure risk, 18 variables have been established across the six 
+companies that have adopted circular practices. This is risk drivers (Figure 41). The overall score for a company’s 
+particularly relevant as some work suggests that adopting circular risk is calculated as the weighted average of the 
+circular strategies may reduce investment risks and improve scores for each of the six risk drivers. The score ranges from 0 
+risk-adjusted returns (Bocconi University, Ellen MacArthur (= low risk) to 100 (= high risk).
+Foundation, Intensa Sanpaolo, 2021). To realistically estimate 
+a company’s linear risks and circular opportunities, these The KCF has made a first assessment of the CRS by analysing 
+models need to be driven by future cashflows and the initial results for more than 100 companies (Kopgroep 
+incorporate a full value chain assessment. Circulair Financieren, 2024). This analysis shows that 
+
+companies with circular business models have a lower risk 
+Recently, the Kopgroep Circulair Financieren (KCF), a profile than traditional linear companies. Their data also 
+collaboration between various Dutch financial institutions, show that circular companies manage resources and 
+published a circular risk scorecard methodology (Kopgroep materials better than assessed linear companies. This reduces 
+Circulair Financieren, 2024). The methodology is already the risk that circular companies face from resource scarcity 
+supported by several Dutch commercial banks and the Dutch and resource or raw material input price volatility. 
+Central Bank , but was recently also presented to a range of 
+
+Figure 41: Circular Risk Scorecard components
+
+Risk driver Variable
+
+• Experience of management team with innovation and circular  businesses 
+Ability of management team
+
+• Diversity of management team
+
+• Suitability of product for circular proposition
+Suitability for circular proposition
+
+• Incentives to optimise use of products
+
+• Dependency on and availability of (critical raw) material
+Security of resources • Ownership and control of resources
+
+• Type of relationship with value chain
+
+• Design and upgradability
+• Circular material use product
+
+Circularity of asset
+• Durability
+• Ease of repair
+
+• Contract length of portfolio
+Robustness of contract • Contract term flexibility
+
+• Incentives for contract renewal
+
+• Access to market (entry barriers)
+• Level of competition/substitution risk
+
+Market competitiveness
+• Circular market share
+• Compliance to (future) green policies
+
+Source: Kopgroep Circulair Financieren, Standard Chartered
+
+Scaling circular finance: No time to waste 46
+
+
+
+4. Drive for harmonised international 
+regulation and policy landscape
+
+While there is progress on current circular economy policies across regions and countries, as we show in the appendix, more is 
+needed on this front to help accelerate the adoption of circular principles by corporates and consumers.
+
+Almost 80 countries are already 
+engaged with the circular economy
+Policymakers around the world are increasingly engaging with The latest update from Chatham House shows that the 
+the circular economy. Data from the UN, in cooperation with number of policies developed by countries around the world 
+Chatham House, tracks different types of circular economy that are relevant for the circular economy has increased 
+policies including: national circular and bioeconomy exponentially during the past ten years and has now reached 
+roadmaps; sustainable production and consumptions almost 700 (Figure 42). More than half of these are policies 
+strategies; and policies aimed at waste management and aimed at waste management and recycling (284) and 
+recycling, producer responsibility, specific products or with a product specific policies (98) (Chatham House, 2024). 
+fiscal focus. The data also identifies how advanced a country’s 
+circular economy policies are. 
+
+Figure 42: Cumulative number of circular economy-related policies developed by countries
+
+800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+1991 2001 2011 2021
+
+Source: Chatham House, Standard Chartered Bank
+
+Figure 43: Number of national circular economy policies by region broken down by stage of development
+
+South America North America Asia Africa & Middle East Europe
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+In scoping In development Call to action Roadmap Operational
+
+Source: Chatham House, Standard Chartered
+
+Scaling circular finance: No time to waste 47
+
+
+
+The development of national circular economy policies is progressing too. The most recent data from Chatham House and the 
+UN shows that 16 countries now have an operational national circular economy policy, while 30 have developed roadmaps 
+towards one. In total 77 countries are engaged with the development of national circular economy policies (Figure 43).
+From a regional perspective European countries are the most advanced as they account for 56% of those countries that have 
+developed roadmaps for a national circular economy strategy, or that have already put such a strategy into operation.
+Eight countries in Asia have done the same. The circular economy is also gaining traction in Africa, where three countries 
+have operational national strategies (Mauritius, Nigeria and Rwanda) and 12 more have national strategies at different stages 
+of development.
+
+Europe shows the relevance of policies
+The relevance of policies and targets when transitioning • Solutions and strategies can be developed that 
+towards a circular economy was outlined in a recent are specifically tailored to meet individual 
+publication (Sanz-Torro, et al., 2025). It showed that across 19 sector characteristics. 
+EU member states the introduction of circular economy 
+polices resulted in an average 13.3% improvement in the • Solutions can be developed that take country or regional 
+efficiency of 11 circular economy-related variables. The differences into consideration. For example, certain 
+analysis is in line with other work (Arranz, et al., 2023) which technologies may be applicable in markets where waste 
+showed that strict regulation is the most impactful policy tool collection and recycling infrastructure are in place, but 
+for driving circular economy adoption among corporates, but different solutions are needed where this is not the case.
+that producer and consumer-focused policies show positive • Reporting and disclosure requirements can be developed 
+impact too. that focus on sector-specific characteristics, parameters, or 
+
+variables. 
+• They allow for increased collaboration between different 
+
+Sector-based policies are needed to stakeholders within a sector on circular strategies and 
+
+drive circular adoption solutions.
+
+In this regard we see the approach taken by the plastics 
+The lack of a generally accepted approach to developing industry in relation to the circular economy as a good example 
+circular policies and to measuring circularity on a macro and of how industry can help develop circular solutions and help 
+corporate level makes it more challenging for shareholders, inform policies and regulation for removing barriers.
+lenders, and other stakeholders to engage with corporates on 
+circularity. This in turn slows down the adoption of circularity 
+across key sectors and limits the ability to develop cross 
+border trade in secondary materials. This is necessary for Important circular policy and regulation 
+enabling economically viable aggregation of secondary 
+materials for reprocessing, remanufacturing and recycling. considerations
+To increase the speed at which companies transition towards Despite the evidence that stronger and more comprehensive 
+circular business models and improve capital flows that fund policies and regulatory frameworks drive and enable faster 
+circular solutions, we believe that circular standards and development and scaling of circular solutions, our analysis 
+policies need to be primarily sector based. This is particularly shows that this has yet to be adopted by many nations. We 
+relevant for those sectors that stand to benefit most from also note that the breadth or scope of circular targets and 
+adopting circular solutions as shown in the previous chapter. frameworks as adopted by many countries are not yet 
+Sector-based circular policies can deliver a range of sufficient. As noted earlier, the link between circular economy 
+clear benefits: strategies and their impacts on climate and nature strategies 
+
+is often not incorporated fully. With that in mind, we highlight 
+• They allow for more detailed assessments of the some of the key objectives that circular economy policies 
+
+applicability of circular solutions as sector specific need to be focused on in Figure 44. To achieve these 
+constraints can be taken into consideration. objectives, we also highlight specific aspects that need to be 
+
+included in national circular economy policies to make them 
+more effective (Figure 45).
+
+Scaling circular finance: No time to waste 48
+
+
+
+Figure 44: Key objectives for national circular economy policies
+
+Objective    Description
+Maximise resource efficiency and 
+
+Reduce virgin material usage through product lifecycle extension and recycling
+value retention
+
+Reduce exposure to pricing and geopolitical volatility through a reduction of cross 
+Improve supply chain resilience
+
+border/regional raw material dependency. Increase local material circularity
+Develop social policies that support 
+
+New circular markets need to provide quality job opportunities
+job creation
+
+Develop circular infrastructure Development of physical and digital infrastructure needed to support circular solutions
+
+Ensure legislation aligns internationally Driving circularity globally requires harmonised policies across nations
+
+Innovation, research and development Support development of new business models, materials and circular solutions
+
+Establish product design standards Set quality requirements for products that increase durability, repairability and recyclability 
+
+Improve disclosure Ensure that relevant data is collected and reported
+
+Influence consumer behaviour Improve general awareness of needs and benefits of circular solutions
+
+Source: Standard Chartered
+
+Figure 45: Key elements to make national circular economy policies more effective
+
+Necessary 
+Aspect Characteristics
+
+components
+
+• Design requirements with the aim to minimise material usage and environmental 
+impact of a product
+
+• Eco-design
+• Requires products to consist of interchangeable units. Enhances disassembly, repair 
+
+Product design • Modularity
+and reuse. Relevant to all industries and building/construction
+
+• Digital passport
+• Increased product transparency supports supply chain management, compliance 
+
+with circular regulation and improved repair, recycling, end-of-life management
+
+• Right to repair (RtR)
+• RtR legislation reduces demand for new products, waste and material usage
+
+Product life 
+• Re-use programmes • Re-use infrastructure including sharing lowers demand for new products
+
+extension
+• Establishing clear legal frameworks supports corporate re-use of products
+
+• Product as a Service
+
+• General targets
+• Strict recycling targets both on national and sector level are needed to drive down 
+
+• Infrastructure policies
+waste and increase the share of re-used goods and materials
+
+• Extended producer 
+Recycling • Government will need to incentivise investments in recycling capacity and expertise
+
+responsibility (EPR)
+• Corporates will need to be required to be responsible for end-of-life product use
+
+• Deposit refund 
+• DRS incentivise the collection, recycling and re-use of materials
+
+schemes (DRS)
+
+• Waste collection targets • Clear quantitative targets need to be established by country and sector. 
+Waste
+
+• General waste policies • Zero waste policies should be the target for each country
+
+Monitoring and • Corporate and national • Regular disclosure of corporate and national performance on internationally agreed 
+reporting reporting frameworks circular economy variables is required
+
+• Legal status • Circular policies need to be made mandatory
+Legal structure • Fines and penalties • Non-compliance should be penalised with clear and substantive penalties
+
+• Green washing • National policies should include measures that minimise the risk of green washing
+
+• National circular economy frameworks need to include policies with clear 
+Sector specific • Policies, targets and quantitative targets that cover the specific conditions of individual sectors
+policies support programmes • Key sectors include building & construction, chemicals & plastics, textiles, electronics 
+
+and electrical equipment, agriculture, packaging , transport and energy
+
+Source: Standard Chartered
+
+Scaling circular finance: No time to waste 49
+
+
+
+Social and labour implications for developing nations need to be acknowledged
+Critical for the success of a circular economy model is that These reports showed  that a circular economy approach 
+policies need to be developed that not only support the could generate  an increase in net employment of up to 8 
+development of circular businesses models, but that also million jobs by 2030. Work done for the EU on the impact of a 
+address social issues that may arise because of these policies. circular economy showed that it could generate almost 
+Understanding of these issues is limited because they can be 700,000 new jobs by 2030 (Cambridge Econometrics, 
+very complex, as is employment modelling in general. As a Trinomics and ICF, 2018).
+result, most analysis of circular economy models to date has 
+only focused on return on investment and impact on GDP Most estimates suggest that a circular economy yields net 
+growth. Other important issues, such as if circular economy employment growth, but that gains are not equally 
+models redress inequalities between the Global North and distributed by sector or region. Estimates from the ILO show 
+South, how job quality may change, and whether a circular that on a global basis, employment levels may increase most 
+economy model helps to reduce gender inequalities, is far less for steel recycling (31 million new jobs), the repair of personal 
+often assessed (Pansera, et al., 2024). and household goods (22 million) and solar-based electricity 
+
+production (15 million). Activities that may experience the 
+Some of the studies that have tried to model the potential strongest decline in job numbers according to the ILO include 
+impact of a circular economy on labour prospects include iron and steel manufacturing (-28 million), mining (-37 million 
+analysis from the International Labour Organisation  ILO in across copper, iron, coal and nickel) and the manufacturing of 
+2018 and 2019 (ILO, 2018), (ILO, 2019). wood products (10 million job losses globally) Figure 46.
+
+Figure 46: Impact of circular economy on jobs Million jobs, by sector in 2030
+
+Reprocessing of secondary steel
+
+Repair or personal/household goods
+
+Solar-based electricity production
+
+Wholesale trade (ex vehicles)
+
+Reprocessing of secondary wood
+
+Sales and repair of cars
+
+Research and development
+
+Mining of nickel
+
+Mining of coal and lignite
+
+Manufacture of glass and products
+
+Mining of iron ores
+
+Manufacture of wood and products
+
+Mining of copper
+
+Manufacture of iron and steel
+
+-40 -30 -20 -10 0 10 20 30 40
+
+Source: ILO (2018), Standard Chartered
+
+Considerations of the impact of a 
+circular economy on the Global South
+The estimates from the ILO regarding the sectors that may the impacted sectors. Circular economy approaches are 
+face significant job losses are particularly relevant for the generally based on the assumption that employment across 
+developing world as they tend to account for the lion’s share an economy is formally regulated. However, this is not 
+of global production for these sectors. For example, more necessarily the case in the developing world. The ILO’s latest 
+than 75% of mining and steel production takes place across estimates show that in 2019, nearly two billion people globally 
+developing countries according to (Tang, et al., 2023) and the (or almost 60% of the world’s employed population) worked 
+world steel association (World Steel in Figures). The 2018 ILO in the informal sector. The share of informal labour is 
+study indeed estimated that adopting circular economy especially high in low-income countries at 89% (ILO, 2023). 
+principles could generate net employment losses in APAC and Data by region shows that in Africa more than 84% of 
+across Africa of around 5 million and 1 million jobs employment is informal while the share in APAC is almost 
+respectively, unless action was taken to diversify local 66% (Figure 48).
+economies and develop active redeployment strategies for
+
+Scaling circular finance: No time to waste 50
+
+
+
+Figure 47: Share of informal employment by region%, 2019
+
+Africa
+
+Asia and the Pacific
+
+Americas
+
+Europe and Central Asia
+
+0% 25% 50% 75% 100%
+
+Source: ILO (2023), Standard Chartered 
+
+Figure 48: Sectors with the highest share of informal employment by sector %, 2019
+
+Agriculture, forestry and fishing
+
+Construction
+
+Wholesale & retail trade Asia and the Pacific
+Transportation and storage
+
+Africa
+Industry
+
+Manufacturing World
+Mining and Quarrying
+
+Water supply, sewage and waste
+
+0% 25% 50% 75% 100% 125%
+
+Source: ILO (2023), Standard Chartered
+
+There are several reasons why circular economy policies need 
+to acknowledge the topic of informal employment: 
+
+• Most of the sectors that face the greatest employment risk being exposed to health hazards and toxic materials. 
+from a move to circularity also have the highest Moving to a circular economy is likely to put these workers 
+share of informal employment (Figure 48). This could have under greater pressure as local recycling demand 
+significant implications for exposed workers especially increases, and under even greater pressure if exports of 
+since informal employment is often associated with waste and second-hand goods from countries in the 
+weaker worker rights, lack of social protection and Global North to countries in the Global South 
+lack of access to healthcare (Circle Economy also rise. 
+Foundation, 2024).
+
+The above suggests that a successful expansion of the 
+circular economy requires the development of policies that 
+recognise the potential negative employment impacts on key 
+
+• Informal employment related to circular activities across sectors and countries across the Global South. Circular policies 
+the developing world is focused on reuse, repair, waste should include support programmes that i) help existing 
+collection, sorting and recycling. Estimates from the Fair companies transition their linear operations towards 
+Circularity Initiative together with Systemiq put the circularity, ii) provide financial and/or retraining support to 
+number of informal waste pickers globally at up to-24 affected workers and iii) help developing countries reduce the 
+million (Fair circularity initiative, Systemiq, 2024). These share of their total economic activity accounted for by their 
+workers often have poor working conditions including informal economies.
+
+Scaling circular finance: No time to waste 51
+
+
+
+07
+Appendix
+
+Scaling  circullarrffininaannccee: :NNoottimimeettoowwaassttee 52
+
+
+
+A linear world increases raw material usage 
+and waste generation by up to 80%
+
+Since the first industrial revolution around 1760, a range of technological advances were developed that created an economic 
+model that increased GDP by c190x, improved average living standards and supported greater than 10x increase in the world’s 
+population to around 8.2 billion people today (Figure 49).
+The current economic model, however, has negative externalities including increasing levels of emission generation, resource 
+consumption, and waste production (Figure 50). To support further economic growth in a sustainable way and improve living 
+standards of a population that may reach more than 10 billion by 2050 requires a shift to a more effective and efficient 
+economic model that keep finite materials in use at their highest value for longer, decoupling economic growth from finite raw 
+materials consumption, and which is both nature-positive and regenerative by design.
+
+Figure 49: Global GDP increased 190x since 1700 International dollars (trillion)
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+40
+
+20
+
+0
+1700 1731 1761 1792 1822 1853 1884 1912 1943 1973 2004
+
+Source: Our World in Data, Standard Chartered
+
+Figure 50: Growing impact of new technologies Intensity of economic output through time
+
+Information and 
+communication
+
+Oil, autos and mass 
+production
+
+Steel, electricity and 
+heavy  engineering 
+
+Age of steam and 
+railways
+
+First Industrial 
+revolution
+
+1760 1829 1875 1908 1971
+
+Source: Standard Chartered
+
+Scaling circular finance: No time to waste 53
+
+Trn
+
+Energy emission and waste intensity
+
+
+
+The current economic system puts 
+natural resources under pressure
+The current economic system is linear in nature. It uses raw planet can generate in that year. The most recent data shows 
+materials to manufacture goods that after increasingly that in 2024 this day was August 1 implying that to 
+shorter period of use are disposed of as waste. Maintaining sustainably meet humanity’s current demand for ecological 
+economic growth in such a system can only be achieved resources requires 1.75 Earths (Global Footprint Network, 
+through continuously increasing the extraction of virgin raw 2025)(Figure 51).
+materials in the absence of recycling or reusing of goods 
+and materials. Reviewing data by country underlines the need for a more 
+
+sustainable global economic model. More than 5 Earths 
+Our current economic model not only leads to an increase in would be needed if every citizen globally would have the 
+greenhouse gas emissions but also to destruction of natural same ecological footprint as an average American or 
+resources, and drawdown that is faster than the speed at Canadian citizen, while adopting the consumption profile of a 
+which remaining nature can regenerate. This latter point is typical European citizen would require more than 3 Earths. 
+made clear by work from the Global Footprint Network. Their Current consumption patterns across developing countries are 
+Earth Overshoot Day shows the day in a year when global less demanding on the world’s resources although still more 
+demand for nature’s resources and services exceeds what the intense than the world’s current biocapacity in the cases of 
+
+China, South Africa, Brazil and Indonesia (Figure 52).
+Figure 51: Earth Overshoot Day
+Day at which resource demand is greater than annual capacity to generate
+
+Dec
+
+Oct
+
+Sep
+
+Jul
+
+May
+
+Apr
+
+Feb
+
+Jan
+1971 1976 1981 1986 1991 1996 2001 2006 2011 2016 2021
+
+Source: EarthOvershootDay.org, Standard Chartered
+
+Figure 52: Earths required to support humanity’s demand
+Earths needed to produce the resources needed if everyone adopted the ecological footprint of a certain country (x)
+
+USA
+Canada
+Belgium
+
+Netherlands
+Australia
+
+Norway
+Sweden
+
+Germany
+France
+Japan
+
+Italy
+Spain
+
+Switzerland
+China
+
+UK
+South Africa
+
+Brazil
+Indonesia
+
+India
+
+0.0 1.0 2.0 3.0 4.0 5.0 6.0
+
+Source: EarthOvershootDay.org, Standard Chartered
+
+Scaling circular finance: No time to waste 54
+
+
+
+Structural drivers put pressure on the earth’s resources
+The need to change the linear structure of our economic model is not just driven by current consumption patterns. The 
+expected rise of the global population, and most significantly the further expansion of the high consumption middle class 
+across developing countries and continued urbanisation, are structural drivers that will put substantially more pressure on the 
+earth’s resources.
+
+Population growth
+Population estimates from the United Nations (World 
+Population Prospects) provide a useful insight into the 
+potential consumer demand shifts that may occur during 
+the next few decades. Between 2023 and 2050 the global 
+population is expected to increase by c1.6 billion people 
+according to the UN. Almost 60% of this growth is set to 
+occur across Sub-Saharan Africa (Figure 53). Some of these 
+countries are expected to experience very strong growth of 
+their population between 2023 and 2050 according to the 
+UN (Figure 54). Managing this growth effectively and 
+limiting its impact on key resources will be a major 
+challenge for national, regional and global policymakers.
+
+Expanding middle class
+Average wealth levels globally as measured by GDP-per-
+capita have more than doubled from cUSD5,500 in 1995 to 
+more than USD12,500 currently. The middle class across 
+Asia in particular has experienced strong growth, as 
+implied by increases in average GDP-per-capita since 1995 
+of 6.7x for countries in Central Asia, 5.1x for Southern Asia 
+and 3.7x for South-East Asia (according to data from the 
+UN). Consumer demand increases as income levels rise, 
+creating a need to produce more goods. However, in a 
+linear economic model this leads to more demand for 
+virgin raw materials, the creation of more emissions and 
+the generation of more waste. 
+
+Urbanisation
+Since the 1960s the share of people living in urban areas 
+has steadily increased. Across developed countries more 
+than 80% of the population now lives in cities compared to 
+c60% in the 1960s. Urbanisation is also becoming a factor 
+across the developing world. More than 35% of people in 
+low-income countries now live in urban areas compared to 
+just 13% in 1960 according to data from the World Bank 
+and the United Nations (World Bank, 2025). Urbanisation 
+matters from a sustainability perspective given 
+thatbecause urban areas contributed around 75% of 
+greenhouse gas emissions in 2020 according to the IPCC 
+(Keith, 2024). Work from the PEAK Urban Research 
+programme suggests that urban land areas may triple 
+between 2015 and 2050 suggesting high demand for virgin 
+raw materials, increased emissions and generally negative 
+impacts on ecosystems (Keith, 2024).
+
+Scaling circular finance: No time to waste 55
+
+
+
+Figure 53: Population estimates by region (million)
+
+2500
+2023 2050
+
+2000
+
+1500
+
+1000
+
+500
+
+0
+South Asia East Asia & Sub-Saharan Europe & Latin America Middle East & North America
+
+Pacific Africa Central Asia & Caribbean North Africa
+
+Source: United Nations, Standard Chartered 
+
+Figure 54: Greatest expected population growth by country 2023 vs 2050 increase (million and %)
+
+India 17%
+
+Nigeria 69%
+
+Pakistan 53%
+
+DRC 113%
+
+Ethiopia 70%
+
+Tanzania 93%
+
+Egypt 42%
+
+Philippines 35%
+
+Niger 146%
+
+Indonesia 14%
+
+Uganda 80%
+
+Sudan 76%
+
+Angola 97%
+
+0 50 100 150 200 250 300
+
+Source: United Nations, Standard Chartered
+
+Raw materials, waste, food and water 
+challenges are set to grow 
+To explain the need for a more effective and efficient circular tonnes in 2024 according to data from the UN’s Global 
+economic model more clearly, we assessed how raw material Material Flows Database (Global Material Flows Database). 
+consumption, waste generation and demand for food and Two aspects are relevant when trying to understand the 
+water could change if the current, linear, economic model outlook for raw material demand.
+remains in place.
+
+• Raw material consumption efficiency has declined given 
+Demand for virgin finite raw materials that on a per capita basis more raw material is needed 
+
+today to sustain economic momentum than was the case 
+and biomaterials is forecast to increase historically (Figure 55).
+
+by 60% over the next 25 years • A shift in material consumption is taking place with a 
+relative reduction in the use of biomass and a relative 
+
+The key material resources used to support economic increase in the use of finite non-metallic minerals such as 
+development are biomass, fossil fuels, metals and non- sand, gravel and clay for construction and industrial 
+metallic minerals. Global demand for these materials has processes (Figure 56).
+increased from c31 billion tonnes in 1970 to almost 107 billion
+
+Scaling circular finance: No time to waste 56
+
+
+
+Figure 55: Raw material consumption growth
+
+Consumption (lhs) Consumption/capita (rhs)
+
+120,000 14,000
+
+100,000 12,000
+
+10,000
+80,000
+
+8,000
+60,000
+
+6,000
+
+40,000
+4,000
+
+20,000 2,000
+
+0 0
+
+Source: UN Global Material Flows Database, Standard Chartered
+
+Figure 56: Global raw material consumption by type
+
+Biomass Fossil fuels Metal ores Non-metallic minerals
+100%
+
+31%
+80% 34% 36% 41% 45% 50%
+
+9%
+60% 8% 8%
+
+20% 9%
+21% 20% 10%
+
+10%
+40% 17%
+
+18% 15%
+
+20% 41% 38% 37% 32% 28% 25%
+
+0%
+1970 1980 1990 2000 2010 2024
+
+Source: UN Global Material Flows Database, Standard Chartered
+
+As countries transition from rural and agricultural economies across these regions are likely to drive a significant increase in 
+to industrialised and urban economies their need for demand for non-metallic minerals going forward. Improving 
+infrastructure development increases which raises their use of economic output per unit of virgin raw material extracted and 
+non-metallic minerals. This process has certainly taken place biomass used will increasingly drive the need and opportunity 
+across parts of Asia during the past 50 years. Data from the for adoption of circular economic solutions. 
+UN Global Material Flows Database shows that domestic 
+extraction of non-metallic minerals in Asia has increased 17x Modelling work from the UN in their most recent Global 
+since 1970 to more than 35 billion tonnes in 2024. These Resources Outlook report (Global Resources Outlook 2024) 
+minerals now make up 60% of the region’s total material indicates what the raw material challenges the world may 
+extraction compared to just 26% in 1970. face in a business-as-usual scenario. Their base case scenario 
+
+incorporates a 23% increase in the global population 
+The challenge faced by the world is accommodating further between 2020 and 2060 and a doubling of global GDP-per-
+growth in demand for key finite raw materials, and biomass, capita over that period. Without changes to the economic 
+as other developing regions transition their economies too. model, this growth will likely drive an almost 60% rise in 
+For example, non-metallic mineral extraction in Africa and demand for raw materials according to their estimates. 
+Latin America and the Caribbean currently comprises just Meeting this demand will be most challenging for developing 
+32% and 24% of total raw material extraction respectively. countries as the UN estimates that they are likely to face an 
+Population growth, urbanisation and economic development 80-90% rise in per-capita raw material demand.
+
+Scaling circular finance: No time to waste 57
+
+Tonne mln
+
+1970
+1972
+1974
+1976
+1978
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+
+2020
+2022
+2024
+
+Tonne
+
+
+
+Total waste generation is forecast to 
+increase by 80% and cost USD417 
+billion a year by 2050
+Data from the World Bank suggest that global solid waste waste generation per capita (Figure 57). We note that the 
+production increased from 1.3 billion tonnes in 2012 to more World Bank supports this view as it estimates that 70% of 
+than 2 billion tonnes today, making a significant contribution the potential increase in global waste production in a 
+to climate change, biodiversity loss and pollution. In their business-as-usual scenario is likely to be driven by GDP 
+2024 Global Waste Management Outlook report the World growth and that the strongest growth is set to occur 
+Bank estimates that total waste production is likely to across the developing world.
+increase by almost 80% to 3.8 billion tonnes in 2050 unless 
+strong action is taken to reduce consumption and • Total waste production across a range of developing 
+dramatically increase rates of re-use and recycling (United countries is high especially given the size of their 
+Nations Environment Programme, 2024). The World Bank economies. For example, China, India and Brazil account 
+also estimates that the direct annual financial cost for 32% of global waste production but only 22% of global 
+associated with this scenario would increase by more than GDP. The absence of effective waste management 
+USD160 billion to reach USD417 billion in 2050. programmes may by one reason why 
+
+some developing countries appear to generate more 
+Municipal waste data from the World Bank suggest that per waste per unit of GDP. Another important driver relates to 
+capita waste production in North America and Europe is up the fact that some waste production is related to 
+to 4x higher than for Latin America, South Asia, or Sub- the outsourcing of production from developed countries to 
+Saharan Africa (World Bank, 2024). Reducing waste intensity the emerging world. 
+levels across the developed world would clearly help lower 
+the current burden of waste production. However, we see To reduce growth in waste production globally, and 
+several reasons for believing that to successfully address the especially across the developing world, requires in our view 
+potential future burden of waste globally requires a strong the introduction of strong engagement from policymakers, 
+focus on emerging economies. consumers and corporates. Such policies should also 
+
+recognise the fact that the nature of waste production 
+• The developing world is likely to see a combination of changes as incomes increase (Figure 58). Food waste is a 
+
+population growth and the further expansion of the more prominent challenge for the developing world today, 
+middle class. This implies a strong increase in waste probably because of a lack of cooling and food-related 
+production across these countries unless policies and logistical infrastructure. Waste production in more developed 
+behavioural changes manage to break the traditional regions tends to be more tilted towards glass, metal and 
+relationship between average income per capita and paper cardboard.
+
+Figure 57: Waste generation is correlated with wealth
+
+1.00
+
+North America
+0.90 R² = 0.95
+
+0.80
+
+0.70
+
+0.60 Latin America & 
+Caribbean Europe and Central 
+
+0.50 Asia
+
+0.40
+Middle East and North 
+
+Sub-Saharan Africa
+0.30 Africa
+
+0.20
+East Asia & Pacific
+
+0.10 South Asia
+
+0.00
+0 10,000 20,000 30,000 40,000 50,000 60,000 70,000
+
+GDP/capita (USD)
+
+Source: World Bank, Standard Chartered
+
+Scaling circular finance: No time to waste 58
+
+Waste/capita (tonne/yr)
+
+
+
+Figure 58: Breakdown of waste production
+
+Food and garden waste Glass Metal Paper cardboard Plastic Other
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+Latin America & South Asia Sub-Saharan Europe and Middle East and East Asia & North America
+
+Caribbean Africa Central Asia North Africa Pacific
+
+Source: World Bank, Standard Chartered
+
+Growing food demand accelerates 
+land, water and emission challenges
+Food-related supply and demand challenges will intensify 
+rapidly unless the global food system is able to shift to more 
+nature positive and regenerative production methods that 
+are both efficient and socially inclusive, particularly for 
+farmers and rural communities. The growing challenges of 
+meeting food demand are mainly driven by developing 
+countries where an increase in income and population size is 
+likely to not only lift aggregate demand for calories but also 
+lead to a dietary shift towards higher protein consumption 
+(Figures 59 and 60). 
+
+Figure 59: Protein consumption increases with income 2022
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+0 20,000 40,000 60,000 80,000 100,000 120,000 140,000
+
+GDP/capita
+
+Source: FAO, World Bank, Standard Chartered
+
+Scaling circular finance: No time to waste 59
+
+Protein/capita/day
+
+
+
+Figure 60: Variation in calorie intake per capita per country 2020, greater income correlates with more equal calorie access
+
+0.45
+
+0.40
+
+0.35
+
+0.30
+
+0.25
+
+0.20
+
+0.15
+
+0.10
+0 20,000 40,000 60,000 80,000 100,000 120,000 140,000
+
+GDP/capita
+
+Source: FAO, World Bank, Standard Chartered
+
+The environmental impact of the global food system is already significant with some estimates suggesting it accounts for more 
+than 30% of global GHG emissions (Figure 61) while agricultural also accounts for 70% of global freshwater consumption 
+(Vermeulen, et al., 2012), (Poore, et al., 2019), (IPCC, 2019) (Crippa, et al., 2021), (Li, et al., 2024)). 
+Analysis from Springmann et al (Springmann, et al., 2018) shows how much more challenging the environmental impact of the 
+food system may become in a business-as-usual scenario. Their calculations show that a rise in income levels and population 
+size may lift food-related GHG emissions to 2.6x the maximum sustainable level. Blue water use (i.e. freshwater excluding 
+rainfall) and crop land needs meanwhile would likely rise by 65% and 67% respectively.
+
+Figure 61: Food system and GHG emissions Share of GHG emissions driven by global food system
+
+40% 21-37% 34%
+
+35% 30%
+19-29%
+
+30% 26%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+0%
+Vermeulen et al, 2012 Poore and nemecek, IPCC 2019 Crispa et al, 2021 Li et al, 2022
+
+2018
+
+Source: authors, Standard Chartered
+
+Scaling circular finance: No time to waste 60
+
+Calorie intake inequality 
+
+
+
+Figure 62: Emission intensity of key food items
+CO2eq/kilogram of product
+
+Beef 87
+Lamb 30
+
+Cheese 23
+Dark chocolate 21
+
+Bacon 19
+Tea 18
+
+Coffee beans 17
+Tuna 13
+
+Salmon 10
+Chicken breast 9
+
+Raspberries 8
+Eggs 4
+Rice 4
+
+Cow's milk 4
+Sunflower oil 4
+
+Butter 3
+Peanuts 3
+
+Brazil nuts 3
+Walnuts 2
+
+Tomatoes 2
+Cashew nuts 2
+
+Beans 1
+Melon 1
+
+Meat-free burger 1
+Avocados 1
+
+Soy milk 1
+Bananas 1
+
+Courgettes 1
+Almond milk 1
+
+Lemons 0
+Seaweed 0
+
+0.0 10.0 20.0 30.0 40.0 50.0 60.0 70.0 80.0 90.0 100.0
+
+Source: Poore and Nemecek, Standard Chartered
+
+Pressure on freshwater availability is 
+forecast to intensify
+The environmental and social challenges created by strong The water related challenges are likely to spread 
+demand growth for raw materials and food are not the only geographically. At present a range of mostly developing 
+reason we advocate for a more circular economic model. The countries already withdraw unsustainably high shares of their 
+increasingly challenged supply of fresh water is another. water resources as freshwater for use in agriculture and 
+Global freshwater usage has increased c6x since 1900 to more industry or for domestic use (Figure 63). Water demand in 
+than 4,000km³ per year in 2022 (FAO). This increase has these countries is likely to increase even more as their 
+contributed to global groundwater depletion and has economies develop (Figure 64). 
+contributed to an annual  increase of the area of drylands Sub-Saharan Africa is not really represented among the 
+that face drought and severe water stress. As a , in 2015 countries highlighted in Figure 16. The reason is that a lack of 
+around 500 million people lived in areas that experienced proper water infrastructure keeps per capita water 
+desertification and associated water stress. Furthermore, consumption levels artificially low (Figure 64). Greater 
+some 2 billion people lack access to safely managed drinking investments in water infrastructure are critical if African 
+water services while 3.6 billion people lack access to improved countries are to meet their Sustainable Development Goals. 
+sanitation services (World Bank, 2021). The impact of greater water access, however, will be that 
+The expected increase in the world’s population will further available freshwater resources are likely to come under more 
+increase demand for freshwater which, in turn, puts more pressure. To limit that risk requires countries to stimulate 
+people at risk unless efficiency enhancing strategies and corporates and consumers to adopt more efficient water-use 
+investments are adopted. strategies and broaden the sources of water supply.
+
+Scaling circular finance: No time to waste 61
+
+
+
+Figure 63: Fresh water withdrawal as % of available fresh water resources2021, a ratio of >100% implies requirement for water import 
+or desalination
+
+Country % Country %
+Kuwait 3851 Sudan 119
+
+UAE 1533 Oman 117
+
+Saudi Arabia 974 Jordan 103
+
+Libya 817 Tunisia 98
+
+Qatar 431 Sri Lanka 91
+
+Yemen 170 Barbados 88
+
+Pakistan 162 South Korea 85
+
+Egypt 141 Singapore 83
+
+Algeria 138 Iran 81
+
+Turkmenistan 135 Tajikistan 70
+
+Bahrain 134 South Africa 67
+
+Israel 132 India 66
+
+Syria 124 Armenia 60
+
+Uzbekistan 122 Iraq 60
+
+Source: FAO, World Bank, Standard Chartered 
+
+Figure 64: Fresh water use per capita versus GDP/capita
+Average by region, 2020 (Trendline in dashed format)
+
+1400
+
+1200
+North America
+
+1000
+
+800 Latin America & 
+Caribbean
+
+East Asia & Pacific
+600
+
+Europe & Central Asia
+
+South Asia
+400
+
+Middle East & North 
+200 Africa
+
+Sub-Saharan Africa
+
+0
+0 10,000 20,000 30,000 40,000 50,000 60,000 70,000 80,000
+
+GDP/capita (USD)Axis Title
+Source: World Bank, Standard Chartered
+
+Scaling circular finance: No time to waste 62
+
+M3/yr/capita
+
+
+
+A review of policies across the  world shows 
+that circularity is gaining momentum         
+
+The European example shows that establishing clear circular policies and targets can help increase an economy’s rate of 
+circularity. This implies that the rate of circularity globally is likely to increase as other countries and regions have started to 
+become more engaged with developing circular policies. We show examples of circular policy developments for key regions 
+and countries below.
+
+European Union
+The European Union has some of the most advanced circular economy policies in the world today. In March 2020, the 
+European Commission adopted the new circular economy action plan (CEAP). The plan, which includes 35 actions, is part 
+of the EU’s Green Deal and seen as essential to achieving the EU’s 2050 climate neutrality target and to halt biodiversity loss. 
+Most recently the European Commission has adopted its 2025-2030 working plan for the Ecodesign for Sustainable Products 
+Regulation (ESPR) linked to the Commission’s Energy Labelling Framework Regulation (ELFR). In combination these efforts 
+build on the EU Commission’s commitment to the vision of a circular economy and set the regulatory conditions for significant 
+growth of circular economic activity across the EU single market and potentially with other trading partners over the next 
+decade. The introduction of Digital Product Passports has the potential to significantly increase data and information 
+availability and transparency, which will help enable trade, repair, refurbishment and remanufacturing, and improve 
+recycling economics. 
+
+United Kingdom
+During the past five years, the United Kingdom (UK) incorporated several policies that aim to advance the circular economy. 
+These policies follow the Resources and Waste strategy for England that was published by the Department for Environment, 
+Food and rural Affairs ( (UK Government) and align with the UK’s commitment to reach carbon neutrality by 2050. One of the 
+key circular economy-policies adopted by the UK is the Circular Economy Package (CEP). The CEP includes a revised legislative 
+framework for reducing waste and establishing waste management and recycling pathways. Earlier this year, the UK 
+government announced that it intends to publish a new circular economy strategy that will focus on reducing waste and 
+increasing the reuse of materials across several key industries (link). The priority sectors identified by the UK government are 
+agri-food, chemicals and plastics, construction, textiles and transport. 
+
+USA 
+In contrast to most of the other key regions, the US does not have a comprehensive national circular economy framework. The 
+most prominent national strategies that have been proposed include the National Recycling Strategy (EPA, 2021), the National 
+Strategy for Reducing Food Loss and Waste and Recycling Organics (EPA, 2024) and the National Strategy to Prevent Plastic 
+Pollution (EPA, 2024). These initiatives, however, are voluntary in nature. Legally binding circular requirements have only been 
+developed in some US states. These often focus on Extended Producer Responsibility (EPR), E-waste recycling programs and a 
+ban on single-use plastic.
+
+China
+China has developed circular economy-related policies and regulations since the early 2000s (Yang, et al., 2020). In 2005 the 
+Chinese State Council issued “Opinions on accelerating the development of the circular economy”, while the 11th Five-Year plan 
+starting in 2006 implemented the circular economy as a key policy objective. This was followed by the publication of the 
+Circular Economy Promotion Law in 2008 (Bleischwitz, et al., 2022). It its 14th five year plan, which was published in 2021, the 
+Chinese government announced its intention to fully implement the concept of the circular economy and to build a multi-level 
+resource recycling system (Xinhua News Agency, 2021). 
+China’s focus on circular economy-related areas has shifted over time. Originally policies primarily aimed to improve resource 
+efficiency and productivity especially owing to the energy intensive nature of China’s developing industries. Later policies 
+focused on improving the circularity of industrial systems and processes while the most recent programmes also focus on 
+broader environmental, biodiversity and social-related areas.
+
+Scaling circular finance: No time to waste 63
+
+
+
+India
+In 2023 the Confederation of Indian Industry in conjunction with the Indian government published India’s National Circular 
+Economy Framework (Confederation of Indian Industry, 2023). It outlined that adopting a circular economy approach has the 
+potential to reduce waste generation and water consumption by 50% and 20% respectively by 2050. Furthermore, it has the 
+potential to reduce carbon emissions by 40% by 2050, create 10 million jobs and have a projected economic value by 2050 of 
+USD2 trillion.
+The framework highlights 11 areas that it believes will be key in trying to transition the Indian economy towards a circular 
+model. These include waste (all types), batteries, end-of-life vehicles, solar panels and rubber and tyre recycling. The areas 
+that provide the greatest immediate value opportunity from a switch to circularity, and that have a higher environmental 
+benefit because of it, are plastics, construction materials, electrical and electronic goods and mixed municipal waste. 
+
+Southeast Asia
+Adopting circular economy principles has strong potential for the countries that make up the Association of Southeast 
+Asian Nations (ASEAN). Estimates from the Economic Research Institute for ASEAN and East Asia (ERIA) show that a 
+circular economy could lead to economic growth of USD324 billion and create 1.5 million jobs across Asia. Sectors with 
+strong potential include manufacturing, agriculture and forestry (BIMP, 2023).
+In 2021, the member countries of the ASEAN Economic Community adopted its Framework for the Circular Economy 
+(ASEAN, 2021). The overall goal of the framework is to create a resilient regional economy that makes efficient use of its 
+resources and can deliver sustainable growth. Individual countries across the ASEAN region are also developing their own 
+circular strategies. For example, as part of its circular economy roadmap and national action plan 2025-2045, Indonesia 
+published a policy paper which showed that implementing a circular strategy could boost Indonesia’s GDP by more than 
+10% and create 4.4 million jobs, 75% of which would be for female workers (Kementerian PPN - Bappenas, 2024).
+
+Africa
+The circular economy has gained political traction in Africa through initiatives such as the African Circular Economy Alliance 
+(ACEA) and the African Circular Economy Action Plan, which was mandated by the African Union and endorsed during the 
+17th African Ministerial Conference on the Environment (AMCEN). As a result, almost all African countries have at least one CE-
+related policy, including reducing plastic bag usage, waste management strategies, sustainability plans, and regulations 
+concerning extended producer responsibility. 
+An analysis conducted for the Directorate-General Environment of the European Commission showed that Africa should focus 
+on five priority sectors when trying to maximise the benefits from a circular economy approach (Rademaekers, et al., 2021). 
+These are Agriculture, Construction and housing, Plastics and packaging, Electronics and ICT and Waste management. The 
+benefits from adopting circular approaches in these sectors include improved trade balances, reduced pollution, forest and soil 
+restoration, enhanced biodiversity and the creation of 11 million jobs.
+
+Brazil
+In 2024 Brazil’s President signed a decree creating Brazil’s National Circular Economy Strategy (ENEC). This strategy is focused 
+on the elimination of waste and pollution, increasing the circulation of materials and products and the regeneration of nature. 
+Brazil’s strategy is focused on strengthening regulation, increasing innovation, reducing waste, making financial support 
+available and improving intergovernmental coordination.
+
+Scaling circular finance: No time to waste 64
+
+
+
+Circular investment requirements
+
+To assess the magnitude of additional financing required to reduce emissions from the built environment by 38% (Ellen 
+enable a global transition towards a circular economy, we MacArthur Foundation, 2024). Assuming that emission 
+have reviewed the investment requirements for some of the reductions are proportionate to the investment requirement 
+key circular end markets. We highlighted the key conclusions implies that 38% of the incremental building investment 
+of this earlier in the report and show our methodology behind requirement may relate to the adoption of circular solutions. 
+these estimates below. This suggests that circular building investment needs may 
+
+reach USD1.3-1.9 trillion during the next ten years. 
+Agrifood: USD2.2-6.5 trillion
+
+Steel, aluminium and cement: 
+The FAO estimates that the agriculture and forestry sector 
+needs over USD1.1 trillion per year until 2030 to be aligned USD210-350 billion
+with a 1.5°C global warming scenario. Our review of their Industries such as steel, aluminium and cement can choose to 
+analysis suggests that some USD675 billion of this amount adopt circular solutions as part of attempts to reduce their 
+covers circular solutions. These include regenerative farming, virgin material consumption and their emission footprint. Over 
+food loss and waste reduction, land rehabilitation and the next 10 years Bloomberg estimates that USD1.3 trillion of 
+restoration and water management (CPI & FAO, 2025). Work clean-industry investments are needed. Historically 
+from A&O Shearman (CPI / A&O Shearman, 2024) supports Bloomberg’s data suggest that 16% of clean industry 
+the FAO estimates and suggests that annual investments of investments were related to industry-focused circular 
+USD1.2 trillion are needed between 2030 and 2050. This economy solutions. If this ratio remains constant, cUSD210 
+suggests that for the agricultural and forestry sector to billion of the USD1.3 trillion of required clean industry 
+transform towards an operating model that helps limit global investments relates to circular solutions during the next ten 
+warming to 1.5°C would require total investments of USD6.5 years.
+trillion in circular solutions. 
+
+Another way to estimate the circular investment requirements 
+1.5°C-related investment requirements provide an upper for these hard-to-abate sectors is by using the Net Zero 
+bound estimate for circular agrifood investments. A more Industry Tracker analysis from the World Economic Forum 
+moderate estimate is provided by using targets adopted by (World Economic Forum, 2024). Their calculations show that 
+countries as part of their Nationally Determined to reach net zero requires USD2.2 trillion of investments across 
+Contributions (NDCs). A country’s NDC outlines its steel, aluminium, and cement by 2050 or USD0.9 trillion by 
+commitment to reducing GHGs and how it intends to adapt 2035 assuming equal annual investments. Of this almost 
+to the impacts of climate change. The investment USD350 billion would be for circular-related investments on 
+implications of NDC commitments are typically much less our calculations.
+aggressive than those associated with 1.5°C scenarios. 
+Analysis from the FAO suggests that to meet the NDC targets 
+requires some USD2.2 trillion to be invested across six circular 
+economy-related agricultural and forestry activities by 2035. The plastic sector: USD234-530 billion
+We see this as the lower bound for circular investment Data from Circulate Initiative (The Circulate Initiative, 2025) 
+requirements associated with the agrifood sector. show that investments into circular plastic solutions averaged 
+
+USD24 billion per year during the 2018-2024 period. In 2024 
+Building and construction: USD1.3-1.9trn investments reached USD17.9 billion, 83% of which were 
+
+directed at plastic waste collection, sorting and recycling. This 
+An estimated 37% of global energy-related emissions can be is far below what is needed to scale plastic waste collection, 
+attributed to the building and construction sector (Climate sorting and recycling capacity. Using data from the Nordic 
+finance leadership alliance, 2022). A wide range of circular Council of Ministers for plastic costs we calculate that 
+solutions can be applied to improve the material and emission USD530 billion in capital investments are needed to build out 
+intensity of this sector. However, creating a building sector sufficient plastic collection, sorting and recycling capacity by 
+aligned with long term net zero targets requires a substantial 2035 (Nordic Council of Ministers, 2023). Not only are plastic 
+increase in investments or repurposing of existing investments related investments too low, they are also overly directed 
+to take into account circular principles. Estimates from towards high-income countries. Just USD11 billion or 6% of 
+organisations such as the IEA and McKinsey suggest that circular-related plastic investments since 2018 were directed 
+incremental investment needs to align the building sector towards emerging economies even though they account for 
+with net zero are USD340-500 billion per year (IEA, 2024) and 94% of plastic leakage into the ocean according to data from 
+(McKinsey, 2022). This implies a total incremental investment the Circulate Initiative. Data for 2024 shows that circular-
+requirement until 2035 of USD3.4-5.0 trillion. The Ellen related plastic investments in Africa accounted for just 0.2% 
+MacArthur Foundation estimated that circular solutions can of total investments (Circulate Initiative, 2025).
+
+Scaling circular finance: No time to waste 65
+
+
+
+Another indication of circular investment requirements until 2050 of cUSD2.1 trillion globally. We note that almost 90 
+associated with plastic may come from the earlier mentioned 90% of these investment requirements relate to countries in 
+report from the World Economic Forum (World Economic Asia, Africa and Latin America and the Caribbean. 
+Forum, 2024). Their net zero estimates for the chemical sector 
+shows that a total of USD2.6 trillion of investments are 
+required by 2035. Of this 9% refers to waste management, Scaling water desalination: USD2.2 trillion
+most of which relates to plastic recycling. The World 
+Economic Forum calculations therefore suggest that plastic Improving water security is a major challenge for many 
+recycling investment requirements are USD234 billion during countries, not least across the developing world. Circular 
+the next decade. solutions that help address these challenges include water 
+Addressing plastic waste effectively not only requires an recycling, water conservation, technologies used to deal with 
+increase in waste treatment facilities but also the flood and drought resilience, and desalination. 
+development of waste collection capabilities especially Perspectives on inclusion of desalination as a circular solution 
+across the Global South. To underline how big this challenge vary widely. However, if it is powered by renewable energy, 
+is we refer here to work from PEW Charitable Trusts and uses appropriate brine management, and is complemented 
+Systemiq. They estimate that 500,000 additional people will with clear water demand reduction, water efficiency 
+have to be connected to waste collection services every single and wastewater reuse strategies, desalination may be a 
+day until 2040 if long term plastic waste recycling targets are viable solution.
+to be met (Pew Charitable Trusts and Systemiq, 2020).
+
+Demand for desalination is significant as two thirds of the 
+world’s population experience severe water scarcity at least 
+one month each year while over two billion people live in 
+
+Textiles: USD115 billion countries where water supply is inadequate (UNICEF, 2025). 
+Global textile waste reached c92 million tonnes in 2020 and Corporate potential is significant too as just 8% of freshwater 
+at current rates is forecast to reach 134 million tonnes in 2030 withdrawals by industry and for domestic use is treated for 
+(Fashion for good, 2022). However, less than 1% of annual reuse globally according to Water Resources Group (Water 
+material use by the textile industry is reused (World Business Resources Group, 2025). Overall water-related investment 
+Council for Sustainable Development, 2025). Data from needs are very significant, with the OECD estimating that 
+BloombergNEF shows that cumulative investments into the they exceed USD1 trillion per year (OECD, 2022). 
+textile recycling industry globally reached less than USD1 To provide an indication of the potential circular investment 
+billion during the past 10 years (BloombergNEF, 2025). requirements associated with reducing water scarcity we 
+McKinsey suggests that optimising textile recycling in the EU have run a simple scenario focused on desalination. Using 
+alone requires up to EUR7 billion of investments by 2030 data for the gap between renewable water availability and 
+(McKinsey, 2022). Estimates from Fashion for good suggest water consumption by country we can calculate how much 
+that USD60 billion could be needed globally to increase investment in desalination plants is needed if desalination is 
+recycling capacity to allow the textile industry to meet SDG- used as the primary tool to fully eradicate a country’s water 
+compliant targets (Fashion for good, 2020). gap. For this calculation we restrict ourselves to 37 countries 
+Using low and high textile recycling CAPEX estimates from that, according to estimates from the World Resources 
+McKinsey for traditional closed loop recycling systems we Institute, are likely to have high or very high water scarcity in 
+calculate that recycling all textile waste globally in 2035 2040 in a business-as-usual scenario (World Resources 
+requires between USD53-115 billion in investments. Institute, 2015) and that border an ocean. The latter condition 
+
+is stipulated as desalination mostly uses seawater.
+The value opportunity associated with a move towards 
+circularity for the textile industry is significant. Estimates from A recent publication by Rosa et al provides baseline water 
+the UN indicate that it could generate USD700 billion in gap data by country as well as how this may change under 
+economic value by 2030 (United Nations Environment different global warming scenarios (Rosa, et al., 2025). Their 
+Programme, 2023). Circular textile solutions such as reuse and data suggests that the cumulative water gap for the 
+repair risk cannibalising the existing business model of textile countries reviewed is 345 km3 per year. This gap rises to 
+retailers. Therefore regulatory, policy and investment support 371km3/year if global warming is limited to 1.5 degrees and 
+is likely needed to mobilise textile companies to transition to 406km3/year in a 3-degree warming scenario. Capital 
+their linear operations to a circular-based model. expenditure costs for existing desalination plants range 
+
+between USD1,000-2,000 per m3 per day (Chunke, 2024). 
+Applying these costs to the above-mentioned water gaps 
+implies that removing the baseline water gap fully through 
+
+Waste recycling capacity: USD2.1 trillion desalination could cost between USD0.9-1.9 trillion. These 
+costs would rise to USD1.1-2.2 trillion in a 3-degree warming 
+
+Earlier in this report we showed modelling results for the cost scenario. It is unlikely that desalination would be the only 
+and capital investment requirements associated with technology used to solve a country’s water scarcity problems, 
+developing waste recycling capacity across 80 countries. Our but countries that border an ocean may consider using it if 
+calculations suggest that to develop a global circular waste these problems become severe.
+strategy may require cumulative incremental investments
+
+Scaling circular finance: No time to waste 66
+
+
+
+Authors
+
+Eugène Klerk is the Head of Sustainability Insights at Standard Chartered. In this role, 
+Eugène is responsible for generating and coordinating Standard Chartered’s sustainability-
+related content. 
+Prior to his current role, Eugène was the Global Head of ESG Research at Standard 
+Chartered. In this role, he was responsible for developing ESG related investment and 
+trading strategies across the major asset classes. Eugène joined Standard Chartered from 
+Credit Suisse, where for 10 years he was responsible for sustainable thematic and ESG 
+research and managed the Global ESG research team. In addition Eugène was the head of 
+the Sustainability pillar of the Credit Suisse Research Institute.
+Eugène started his career in the mid-90s as an emerging markets fixed income and equity 
+analyst. During this time, he was responsible for the EMEA Research team at Credit Suisse 
+First Boston and he achieved multiple top 3 rankings in major surveys. 
+Eugène holds a master’s degree in applied mathematics.
+
+Eugène Klerk,
+Head of Sustainability Insights
+
+Standard Chartered
+eugene.klerk@sc.com
+
+Andrew Morlet is a Senior Advisor and leads the Circular Economy Innovation Hub at 
+Standard Chartered 
+Prior to joining Standard Charted, Andrew was CEO at the Ellen MacArthur Foundation from 
+2015, establishing  it as one of the leading organisations developing and promoting the 
+circular economy. 
+While at EMF Andrew produced numerous widely referenced reports, launched major sector 
+transformation initiatives, produced thousands of hours of media and education content, 
+worked with leading businesses to innovate system solutions, and with numerous 
+governments to develop enabling regulation and policies. 
+Prior to his role at EMF Andrew was a strategy Partner with McKinsey & Company and a 
+Global Managing Director for information technology strategy at Accenture. Andrew holds 
+master’s degrees in psychology and business administration.
+
+Andrew Morlet,
+Senior Advisor, Circular Economy Hub
+
+Standard Chartered
+Andrew.Morlet@sc.com
+
+Scaling circular finance: No time to waste 67
+
+
+
+Acknowledgements
+Thanks to Vivienne Yang, Circular Economy Solutions Lead for significant editorial contribution 
+and to Standard Chartered  Innovation Hub leads, and external reviewers for comments 
+and feedback.
+
+Standard Chartered Innovation Hubs
+Innovation Hub model has been established in the sustainability office to enable Standard 
+Chartered to identify and deliver new innovative solutions for our clients and markets. The 
+Hubs collaborate and work to develop insights, help define and contribute to standards setting 
+on key sustainability topics for the industry as a whole, and to develop new financial products 
+and services in partnership with teams from across the Bank. 
+In total there are five Innovation Hubs: Adaptation Finance, Nature Finance, Blended Finance 
+Programmes, Carbon Markets, and Circular Economy. 
+Standard Chartererd’s market reach and deep innovation expertise uniquely positions it to 
+take a leading role in the support circular economic business growth globally, and to develop 
+and scale deployment of financial solutions for the transition to a circular economy.
+
+Scaling circular finance: No time to waste 68
+
+
+
+References
+Agora Industrie and Systemic Resilienter klimaschutz durch eine zirkulare wirtschaft [Report]. - 2023.
+Al Zaabi B. and Ghossh A Managing photovoltaic waste: sustainable solutions and global challenges [Journal]. - [s.l.] : 
+Solar energy, 2024.
+Arranz C and et al. Institutional theory and circular economy business models [Journal]. - [s.l.] : Journal of environmental management, 2023.
+Bleischwitz R and et al The circular economy in China: achievements, challenges and potential implications for decarbonisation [Journal] // 
+Resources, Conservation and Recycling. - 2022.
+BloombergNEF Industrial decarbonisation market outlook H1 2025 [Report]. - 2025.
+BloombergNEF New Energy Outlook 2025. - 2025.
+BloombergNEF New Energy Outlook 2025: Data viewer. - [s.l.] : Bloomberg, 2025.
+BloombergNEF Textile recycling technologies [Report]. - 2025.
+Bocconi University, Ellen MacArthur Foundation, Intensa Sanpaolo The Circular Economy as a de-risking strategy and driver of superior risk-
+adjusted returns [Report]. - 2021.
+Bruyn de S and et al Environmental Prices Handbook: EU28 version [Report]. - [s.l.] : CE Delft, 2018.
+Business and Sustainable Development Commission Valuing the SDG prize [Report]. - 2017.
+Cambridge Econometrics, Trinomics and ICF Impacts of circular economy policies on the labour market [Report]. - 2018.
+Chatham House National circular economy roadmaps: A global stocktake for 2024 [Report]. - 2024.
+Circle Economy Circularity Gap Report 2025 [Report]. - 2025.
+Circle Economy Foundation Circularity & informality: redefining narratives [Report]. - 2024.
+Circle Economy Unlocking the potential of international financial institutions in the circular economy transition [Report]. - 2022.
+Circulate Initiative The state of play on global private investment into solutions to plastic pollution: Insights ahead of 
+INC-5.2 [Report]. - 2025.
+Climate Policy Initiative Global Landscape of Climate Finance [Report]. - 2025.
+Cottom J and et al. A local-to-global emisions inventory if macroplastic pollution [Journal]. - [s.l.] : Nature, 2024.
+CPI & FAO The triple gap in finance for agrifood systems. Revised [Report]. - 2025.
+CPI / A&O Shearman How big is the net zero financing gap? [Report]. - 2024.
+Department for Envrionment Food & Rural Affairs Experimental statistics on the carbon impact of waste from households managed by local 
+authorities in England [Report]. - 2022.
+Ellen MacArthur Foundation Completing the picture: How the circular economy tackles climate change [Report]. - 2021.
+Emami N and et al Measuring progress toward a circular economy of the ASEAN community [Journal] // Journal of industrial ecology. - 2024.
+Eunomia Global Recycling League Table [Report]. - 2024.
+Fashion for good Financing the transformation in the fashion industry [Report]. - 2020.
+Fashion for good Wealth in waste [Report]. - 2022.
+Herrador M and et al Circular economy strategies in the ASEAN region: A comparative study [Journal] // Science of the total environment. - 
+2023.
+Hestin M and et al. Increased EU Plastics Recycling Targets: Envrionmental, Economic and Social Impact Assessment [Report]. - [s.l.] : Bio by 
+Deloitte, 2015.
+Holcim, Systemiq Unleashing a regenerative revolution for the built environment [Report]. - 2024.
+IEA Recycling of critical minerals [Report]. - 2024.
+IFC Harmonised Circular Economy Finance Guidelines [Report]. - 2025.
+ILO Decent work in the circular economy: An overview of the existing evidence base [Report]. - 2023.
+ILO Skills for a Greener Future: A global view [Report]. - 2019.
+ILO Women and men in the informal sector: A statistical update [Report]. - 2023.
+ILO World Emploument Social Outlook 2018: Greening with jobs [Report]. - 2018.
+Kaza S and et al What a Waste 2.0 [Report]. - 2018.
+Kirchherr j and et al Conceptualising the circular economy (revisited): An analysis of 221 definitions [Journal] // Resources, Conservation and 
+Recycling. - 2023.
+Kopgroep Circulair Financieren A practical guide to Circular Risk Scorecard [Report]. - 2024.
+
+Scaling circular finance: No time to waste 69
+
+
+
+Kopgroep Circulair Financieren Circular companies have a lower risk profile than linear models [Report]. - 2024.
+Koundouri and et al Financing the joint implementation of Agenda 2030 and the European Green Deal [Report]. - [s.l.] : SDSN, 2022. 
+Lerpinierre D and et al Official development finance in solid waste management reveals insufficient resources for tackling plastic pollution 
+[Journal] // Resources, conservation and recycling. - 2025.
+Lloyd's Register Foundation A World of Waste: Risks and opportunities in household waste management [Report]. - 2024.
+McKinsey Scaling textile recycling in Europe - turning waste into value [Online]. - 2022.
+Nordic Council of Ministers Towards ending plastic pollution by 2040: Technical annex [Report]. - 2023.
+OECD Global Plastics Outlook: policy scenarios to 2060 [Report]. - 2020.
+OECD The jobs potential of a transition towards a resource efficient and circular economy [Report]. - 2020.
+Pansera M and et al Toward a just circular economy: conceptualising environmental, labor and gender justice in circularity studies [Journal] // 
+Sustainability: Science Practice and Policy. - 2024.
+Pew Charitable Trusts and Systemiq Breaking the plastic wave [Report]. - 2020.
+Productivity Commission Australia's circular economy: Unlocking the opportunities [Book]. - 2025.
+Rademaekers K and et al Circular economy in Africa-EU cooperation [Report]. - [s.l.] : European Commission, 2021.
+Rosa L and Sangiorgio M Global water gaps under future warming levels [Journal]. - [s.l.] : Nature Communications, 2025.
+Sanz-Torro V. and et al. Assessment of European countries' national circular economy policies [Journal]. - [s.l.] : Journal of environmental 
+management, 2025.
+Schroder P and Raes J Financing an inclusive circular economy [Report]. - [s.l.] : Chatham House, 2021.
+Schroder P and Raes J Financing an inclusive circular economy: De-risking investments for circular business models and the SDGs [Report]. - 
+2021.
+Schroeder P, Anggraeni K and Weber U The relevance of circular economy practices to the sustainable development goals [Journal] // 
+Journal of Industrial Ecology. - 2018.
+SystemiQ Bringing circularity to Germany's energy-intensive industry [Report]. - 2025.
+Tang L and Werner T Global mining footprint mapped from high-resolution satellite imagery [Journal] // Communications Earth and 
+Environment. - 2023.
+The Circulate Initiative Plastics Circularity Investment Tracker [Website]. - 2025.
+The Minderoo Foundation The price of plastic pollution: Annex 1 the social cost of plastic-related harms [Report]. - 2022.
+Transport & Environment From waste to value: Europe's opportunity for self-sufficiency and a low-impact supply chain [Report]. - 2024.
+Turner D and et al Greenhouse gas emission factors for recycling of source-segregated waste materials [Journal] // Resources, Conservation 
+and Recycling. - 2015.
+United Nations Environment Programme Global Resources Outlook 2024 [Report]. - 2024.
+United Nations Environment Programme Global Waste Management Outlook 2024 [Report]. - 2024.
+United Nations Environment Programme Sustainability and circularity in the textile value chain: A global roadmap 
+[Report]. - 2023.
+Wang Heming and et al Measuring progress of China's circular economy [Journal] // Resources, conservation and 
+recycling. - 2020.
+Wang K and et al Circular economy as a climate strategy [Report]. - [s.l.] : World Resources Institute, 2022.
+WBCSD Avoided emissions & climate investing [Report]. - 2025.
+Williams M and et al. No time to waste: Tackling the plastic pollution crisis before it's too late [Journal]. - [s.l.] : Institute of development 
+studies, 2019.
+World Bank Global Waste Management Outlook 2024 [Report]. - 2024.
+World Economic Forum Circular Transformation Industries: Unlocking economic value [Report]. - 2025.
+World Economic Forum Harmonising metrics to measure circularity: A call to action [Report]. - 2024.
+World Economic Forum Net zero industry tracker [Report]. - 2024.
+Yang X, L and et al Transitioning China to a circular economy [Journal] // Resource Conservation Recycling. - 2020.
+
+Scaling circular finance: No time to waste 70
+
+
+
+Disclaimers
+Forward-looking statements sustainability-related issues; the Financial instruments
+
+development of standards and 
+The information included in this interpretations, including evolving Nothing in this document shall 
+document may contain ‘forward- requirements and practices in ESG constitute, in any jurisdiction, an offer 
+looking statements’ based upon reporting and the development of or solicitation to sell or any securities or 
+current expectations or beliefs as well sustainability-related metrics and other financial instruments, nor shall it 
+as statements formulated with methodologies; the ability of the constitute a recommendation or 
+assumptions about future events. Group, together with governments and advice in respect of any securities or 
+Forward-looking statements include, other stakeholders to measure, other financial instruments or any 
+without limitation, projections, manage, and mitigate the impacts of other matter. 
+estimates, commitments, plans, climate change and broader 
+approaches, ambitions and targets Basis of Preparation and Caution 
+
+sustainability-related issues effectively; 
+(including, without limitation, ESG Regarding Data Limitations 
+
+changes in how sectoral pathways for 
+commitments, ambitions and targets). high-carbon sectors develop, the This section is specifically relevant to, 
+Forward-looking statements often use methodologies used to quantify the amongst others, the sustainability and 
+words such as ‘may’, ‘could’, ‘will’, impact of investment in transition climate models, calculations and 
+‘expect’, ‘intend’, ‘estimate’, activities, and the metrics and disclosures throughout this document. 
+‘anticipate’, ‘believe’, ‘plan’, ‘seek’, ‘aim’, methodologies used to measure 
+‘continue’ or other words of similar The information contained in this 
+
+attainment in respect of concepts such 
+meaning to any of the foregoing. document has been prepared on the 
+
+as ‘just transition’ and transition 
+Forward-looking statements may also following basis:
+
+activities; risks arising out of health 
+(or additionally) be identified by the crises and pandemics; risks of cyber- I. Certain information in this 
+fact that they do not relate only to attacks, data, information or security document is unaudited; 
+historical or current facts. breaches or technology failures II. All information, positions and 
+By their very nature, forward-looking involving the Group; changes in tax statements set out in this 
+statements are subject to known and rates or policy; future business document are subject to change 
+unknown risks and uncertainties and combinations or dispositions; and without notice;
+other factors that could cause actual other factors specific to the Group, 
+results, and the Group’s plans and including those identified in this III. The information included in this 
+objectives, to differ materially from document. To the extent that any document does not constitute 
+those expressed or implied in the forward-looking statements contained any investment, accounting, 
+forward-looking statements. Readers in this document are based on past or legal, regulatory or tax advice or 
+should not place reliance on, and are current trends and/or activities of the an invitation or recommendation 
+cautioned about relying on, any Group, they should not be taken as a to enter into any transaction;
+forward-looking statements. In representation that such trends or IV. The information included in this 
+particular, there is additional activities will continue in the future. document may have been 
+uncertainty around the evolution, No statement in this document is prepared using models, 
+impact and risk surrounding climate intended to be, nor should be methodologies and data which 
+change that cannot be evaluated in interpreted as, a profit forecast or to are subject to certain limitations. 
+the same way as more conventional imply that the earnings of the Group These limitations include (but are 
+financial risk due to the long-term, for the current year or future years will not limited to): the limited 
+complex and novel nature and the necessarily match or exceed the availability of reliable data, data 
+different interaction with non-climate- historical or published earnings of the gaps, and the nascent nature of 
+related risks and vulnerabilities. Group. Each forward-looking the methodologies and 
+There are several factors which could statement speaks only as of the date technologies underpinning this 
+cause the Group’s actual results and its that it is made. Except as required by data; the limited standardisation 
+plans, targets and objectives to differ any applicable laws or regulations, the of data (given, amongst other 
+materially from those expressed or Group expressly disclaims any things, limited international 
+implied in forward-looking statements. obligation to revise or update any coordination on data and 
+The factors include (but are not limited forward-looking statement contained methodology standards); and 
+to): changes in global, political, within this document, regardless of future uncertainty (due, amongst 
+economic, business, competitive and whether those statements are affected other things, to changing 
+market forces or conditions, or in future as a result of new information, future projections relating to 
+exchange and interest rates; changes events or otherwise. technological development and 
+in environmental, geopolitical, social or global and regional laws, 
+
+Please refer to the latest Annual Report 
+physical risks; legal, regulatory and regulations and policies, and the 
+
+and the financial statements of the 
+policy developments, including current inability to make use of 
+
+Group for a discussion of certain of the 
+regulatory measures addressing strong historical data);
+
+risks and factors that could adversely 
+climate change and broader impact the Group’s actual results, and 
+
+cause its plans and objectives, to differ 
+materially from those expressed or 
+implied in any 
+forward-looking statements. 
+
+Scaling circular finance: No time to waste 71
+
+
+
+Disclaimers(cont)
+V. The models, external data and X. The data contained in this As standards and practices continue to 
+
+methodologies used in document reflects available evolve, it may mean subsequent 
+information included in this information and estimates at the transition plans do not allow a reader 
+document are or could be subject relevant time; to compare metrics, data points or 
+to adjustment which is beyond targets between transition plans on a 
+our control; XI. Where the Group has used any direct like-for-like basis. In addition, the 
+
+methodology or tools developed Group’s climate related risk 
+VI. Any opinions and estimates by a third party, the application capabilities, its net zero transition 
+
+should be regarded as indicative, of the methodology or tools (or strategy, targets and transition plan, 
+preliminary and for illustrative consequences of its application) and its approach towards nature-
+purposes only. Expected and shall not be interpreted as related impacts, dependencies, risks 
+actual outcomes may differ from conflicting with any legal or and opportunities remain under 
+those set out in this document (as contractual obligations and such development and the data underlying 
+explained in the “Forward- legal or contractual obligations these, and market practice in relation 
+looking statements” section shall take precedence over the to the disclosures made in this 
+above); application of the methodology transition plan, will evolve over time. As 
+
+or tools; 
+VII. Some of the related information a result, certain of such disclosures are 
+
+appearing in this document may XII. Where the Group has used any likely to be amended, updated, 
+have been obtained from public underlying data provided or recalculated and restated in future 
+and other sources and, while the sourced by a third party, the use transition plans.
+Group believes such information of the data shall not be You are advised to exercise your own 
+to be reliable, it has not been interpreted as conflicting with independent judgement (with the 
+independently verified by the any legal or contractual advice of your professional advisers as 
+Group and no representation or obligations and such legal or necessary) with respect to the risks and 
+warranty is made by the Group as contractual obligations shall take consequences of any matter contained 
+to its quality, completeness, precedence over the use of the in this document.
+accuracy, fitness for a particular data; 
+purpose or noninfringement of The Group, its affiliates, directors, 
+such information; XIII. This Important Notice is not officers, employees or agents expressly 
+
+limited in applicability to those disclaim any liability and responsibility 
+VIII. For the purposes of the sections of the document where for any decisions or actions which you 
+
+information included in this limitations to data, metrics and may take and for any damage or 
+document, a number of key methodologies are identified and losses you may suffer from your use of 
+judgements and assumptions where this Important Notice is or reliance on the information 
+have been made. It is possible referenced. This Important Notice contained in this document. Copyright 
+that the assumptions drawn, and applies to the whole document; in all materials, text, articles and 
+the judgement exercised may 
+subsequently turn out to be XIV. Further development of information contained in this 
+inaccurate. The judgements and reporting, standards or other document (other than third party 
+data presented in this document principles could impact the materials, text, articles and 
+are not a substitute for information included in this information) is the property of, and 
+judgements and analysis made document or any metrics, data may only be reproduced with 
+independently by the reader; and targets included in this permission of an authorised signatory 
+
+document (it being noted that of, the Group.
+IX. Any opinions or views of third ESG reporting and standards are Copyright in materials, text, articles 
+
+parties expressed in this subject to rapid change and and information created by third 
+document are those of the third development); and parties and the rights under copyright 
+parties identified, and not of the 
+Group, its affiliates, directors, XV. While all reasonable care has of such parties are hereby 
+officers, employees or agents. By been taken in preparing the acknowledged. Copyright in all other 
+incorporating or referring to information included in this materials not belonging to third parties 
+opinions and views of third document, neither the Group nor and copyright in these materials as a 
+parties, the Group is not, in any any of its affiliates, directors, compilation vest and shall remain at 
+way, endorsing or supporting officers, employees or agents all times copyright of the Group and 
+such opinions or views; whilst the make any representation or should not be reproduced or used 
+Group bears primary warranty as to its quality, except for business purposes on behalf 
+
+of the Group or save with the express 
+responsibility for the information accuracy or completeness, and 
+included in this document, it does they accept no responsibility or prior written consent of an authorised 
+
+signatory of the Group. 
+not accept responsibility for the liability for the contents of this 
+external input provided by any information, including any errors All rights reserved.
+third parties for the purposes of of fact, omission or opinion It is not intended that any of the 
+developing the information expressed. information contained in this 
+included in this document; document includes commercially 
+
+sensitive information in respect of 
+the Group.
+
+Scaling circular finance: No time to waste 72
+
+
+
+73

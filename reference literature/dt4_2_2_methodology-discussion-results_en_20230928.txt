@@ -1,0 +1,2719 @@
+﻿EX-POST ANALYSIS OF 32 
+CONSTRUCTION AND RENOVATION 
+WORKS
+
+RESULTS AND DISCUSSIONS
+
+
+
+
+
+
+EX-POST ANALYSIS OF 32 
+CONSTRUCTION AND RENOVATION 
+WORKS
+
+RESULTS AND DISCUSSIONS
+
+
+
+Authors and contributors :
+
+Célia Chaussebel (Rotor)
+Mathilde Doutreleau (CSTB)
+Gaspard Geerts (Rotor)
+Michaël Ghyoot (Rotor)
+Emilie Gobbo (Bruxelles Environnement)
+Elodie Macé (CSTB)
+Elham Maghsoudi Nia (TU Delft)
+Victor Meesters (Rotor)
+Martine Mouchet (Bruxelles Environnement)
+Mona Nasseredine (CSTB)
+Marie-Annick Rabefiraisana (Rotor)
+Charline Richard (Bruxelles Environnement)
+Ad Straub (Tu Delft)
+
+With the support of :
+
+Bruno Domange (LIST)
+Duan Hua (LIST)
+Merel Limbeek (Utrecht)
+Sara Rademaker (Utrecht)
+Hugo Topalov (Bellastock)
+
+Thank you to all the architects and engineering consultants who 
+contributed to this work by sharing their experiences and data.
+
+Coordonnées :
+
+Rotor asbl - 3 avenue de Bâle, 1040 Brussels.
+
+info@rotordb.org 
+
+This document has been produced as part of the Interreg NWE 739 
+FCRBE project (Facilitating the Circulation of Reclaimed Building 
+Elements), implemented between October 2018 and December 
+2023.
+
+Online publication: September 2023.
+
+
+
+The FCRBE project aims at enhancing by 50% the quantity of 
+materials being reclaimed for reuse in North West Europe by 2032. 
+This guidebook has been prepared in the contact of the project 
+capitalisation (2022-23). It corresponds to the deliverable WP T4.2.2.
+
+https://vb.nweurope.eu/fcrbe
+
+The content of this document has been tested, promoted and 
+validated through live tests as well as during three study trips 
+(Brussels, Rennes and Utrecht) entailing the participation of 
+contracting authorities and other construction professionals.
+
+The authors and the funding bodies of the FCRBE project cannot 
+be held liable for the use that can be done with the content of 
+this document. This document benefited from the support of the 
+European Regional Development Fund through the Interreg NWE 
+programme.
+
+
+
+The FCRBE project is a partnership between Bellastock, Buildwise, 
+Brussels Environment, le Centre Scientifique et Technique du 
+Bâtiment (CSTB), Embuild, le LIST, Rotor, Salvo, TU Delft, University 
+of Brighton and the City of Utrecht.
+
+
+
+
+
+
+TABLE OF CONTENT
+
+1° METHODOLOGY��������������������������������������������������������������������������������������������������������������������������11
+
+1.1 Context�������������������������������������������������������������������������������������������������������������������������� 11
+
+1.2 Collect the data������������������������������������������������������������������������������������������������������������� 14
+
+1.3 Subdivision into layers������������������������������������������������������������������������������������������������� 14
+
+1.4 Calculation of the total mass of materials per layer and calculation of the reuse 
+rate��������������������������������������������������������������������������������������������������������������������������������������� 17
+
+ 
+2° CORPUS OF PROJECTS����������������������������������������������������������������������������������������������������������������21
+
+2.1  Projects selection��������������������������������������������������������������������������������������������������������� 21
+
+2.2 The projects������������������������������������������������������������������������������������������������������������������� 23
+
+2.3  Projects clusters����������������������������������������������������������������������������������������������������������� 24
+
+3° RESULTS �������������������������������������������������������������������������������������������������������������������������������������� 27
+
+3.1  Table of the reuse rates���������������������������������������������������������������������������������������������� 27
+
+3.2 Analysis of the results   ����������������������������������������������������������������������������������������������� 30
+
+A few comments on the analysis of reuse rates by category and by layer���������� 30
+
+Category 1: renovations for social and cultural facilities��������������������������������������� 31
+
+Category 2 : housing�������������������������������������������������������������������������������������������������� 35
+
+Category 3 : tertiary buildings���������������������������������������������������������������������������������� 38
+
+Category 4 : micro-projects and demonstrators���������������������������������������������������� 42
+
+Category 5 : outdoor spaces������������������������������������������������������������������������������������� 45
+
+Can we extrapolate general indicative rates?��������������������������������������������������������� 47
+
+3.3 Evaluation of the environmental benefits������������������������������������������������������������������ 52
+
+
+
+4. DISCUSSIONS ������������������������������������������������������������������������������������������������������������������������������ 57
+
+4.1  Size of the sample�������������������������������������������������������������������������������������������������������� 57
+
+4.2 Pioneering projects������������������������������������������������������������������������������������������������������ 58
+
+4.3  Assumptions and extrapolations������������������������������������������������������������������������������� 58
+
+4.4 Be cautious with indicators����������������������������������������������������������������������������������������� 59
+
+5. CONCLUSION������������������������������������������������������������������������������������������������������������������������������� 61
+
+APPENDIX 1: DETAILS EXPLANATION OF THE ASSUMPTIONS����������������������������������������������������63
+
+1. Reference database�������������������������������������������������������������������������������������������������������� 64
+
+1.1 ICE et KBOB���������������������������������������������������������������������������������������������������������� 64
+
+1.2  Internal database and unit masses������������������������������������������������������������������ 64
+
+2. Specific assumptions������������������������������������������������������������������������������������������������������ 65
+
+2.1 Conservative calculations����������������������������������������������������������������������������������� 65
+
+2.2 Calculation of the mortar in the case of a brick wall��������������������������������������� 65
+
+2.3  Calculation of the martyr in the case of stone pavers������������������������������������ 66
+
+2.4  Simplified calculation for the windows’ mass�������������������������������������������������� 66
+
+2.5 Assessment of the mass of equipment (sanitary, HVAC, electricity)�������������� 67
+
+2.6  Table of the elements per layer ����������������������������������������������������������������������� 67
+
+
+
+
+
+
+1° METHODOLOGY
+
+1.1 Context
+
+This document details the approach used to analyse the reuse rates 
+achieved by 32 construction and renovation projects that have 
+successfully reused building materials and elements. A particular 
+feature of this analysis is that the reuse rates were calculated post 
+facto, i.e. for projects that had already been completed.
+
+It is one of the four reports produced within the FCRBE project 
+as part of the work on reuse (and reclamation) rates. The four 
+documents are as follows:
+
+1.	Set, monitor and report on reclamation and reuse rates in 		
+construction projects. A common approach. This document 		
+sets out the necessary definitions and presents the main 		
+methodological aspects for dealing with the issue of reuse 		
+and reclamation rates.
+
+2.	Ex-post analysis of 32 construction and renovation works. 	
+Results and discussions. This is the present document. It sets 	
+out how we calculated and analysed the reuse rates achieved 
+in a sample of 32 recently completed projects.
+
+11/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+3.	 32 detailed project sheets. Projects info, reused rates and reused 
+elements. This document complements the analysis presented 
+here below. It details the results achieved in each project 
+with regards to their specificities. It also provides a detailed 
+overview of the quantity and nature of reused elements.
+
+4.	Live tests. Report on 4 operations using reuse targets. This 
+last document reports on live tests which explored how to 
+implement reuse rates in various procurement procedures.
+
+Most of the projects we analysed here had not explicitly set a reuse 
+rate as an objective to be achieved at the start of the project (as 
+set out in Set, monitor and report on reclamation and reuse rates 
+in construction projects). However, most of them had formulated 
+qualitative and open-ended reuse targets, which our ex-post 
+analysis makes it possible to quantify1.
+
+Our aim in analysing these 32 projects was to learn about the reuse 
+rates achievable in different contexts and to see whether it was 
+possible to infer from them indicative rates that would be useful 
+in supporting the formulation of quantitative targets in future 
+projects.
+
+Our analyses focus only on the reuse rate. This corresponds to the 
+fraction of materials reused in relation to all the materials needed 
+to carry out the work (see chapter 2 of Set, monitor and report on 
+reclamation and reuse rates in construction projects). According 
+to the stock-flow model developed in our general method, our 
+analyses therefore focus only on the flow in. We have not analysed 
+the reclamation rate (related to the flow out) or calculated the 
+preservation rate (related to the retained stock, i.e. the part of the 
+original buildings that has not been demolished) for the projects we 
+have analysed. This is not to say that no effort has been made in 
+these areas. Quite the opposite, in fact! However, our objective was 
+to provide input into the way in which construction and renovation 
+work can foster the adoption of reuse practices. This explains the 
+focus of our approach.
+
+1- Some of the projects analysed had already carried out a quantitative assessment of their 
+reuse efforts. Where available, these assessments were a valuable source of information 
+for our own analysis. However, to ensure a consistent approach across our 32 projects, we 
+generally had to repeat this analysis.
+
+12/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Methodology
+
+EX-POST 
+ANALYSIS OF 
+
+ACHIEVED 
+RESULT
+
+13/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+1.2 Collect the data
+
+The first stage of the analysis consisted in identifying a sample of 
+completed projects that had applied reuse (see below chapter 2). 
+The next step was to gather data on the material flows that had 
+been used in the project. We wanted to know the nature and 
+quantity of these materials.
+
+In theory, this type of information can be deduced from an as built 
+file, containing in particular :
+
+-	 The bill of quantities for the project.
+
+-	 The specifications, which detail the type of materials 		
+	 required and how they are to be installed.
+
+-	 The final plans, which complete the information on 		
+	 quantities.
+
+-	 The technical data sheets for the equipment installed, 		
+	 detailing the characteristics of the elements actually used.
+
+In practice, for several projects, we were only able to collect part 
+of these documents, but this did not prevent us from carrying 
+out the analyses on the basis of a few clearly formulated working 
+hypotheses (see below Appendix 1).
+
+1.3 Subdivision into layers
+
+In our approach, we have chosen to work with a re-use rate 
+expressed per layer1. We used the following layers:
+
+-	 Structure.
+
+-	 Skin.
+
+-	 Space plan.
+
+1- Stewart Brand, How Buildings Learn: What Happens After They’re Built (Viking Press, 1994).
+
+14/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Methodology
+
+-	 Services - HVAC.
+
+-	 Services - electricity.
+
+-	 Services - sanitary.
+
+-	 Outdoor infrastructure.
+
+-	 Outdoor surfaces.
+
+-	 Outdoor furniture.
+
+Structure Skin Space plan
+
+Services HVAC Services electricity Services sanitary
+
+Outdoor infrastructure Outdoor surfaces Outdoor furnishing
+
+15/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+In our analysis, we have left out furniture, which corresponds to the 
+Stuff layer in Brand’s model (in How Buildings Learn: What Happens 
+After They’re Built, Viking Press, 1994).
+
+This enabled us to ensure, for the most recurrent layers, greater 
+comparability between projects despite a relatively small sample. 
+It was also a way of focusing on the most relevant parts of the 
+projects – those that had actually been reused – thus making the 
+analysis work somewhat easier.
+
+In practice, for each project, we relied on the bill of quantities. For 
+each line, we specified:
+
+-	 Whether the element was new or reused.
+
+-	 To which layer the element belonged.
+
+In some projects, the initial subdivision of the bill of materials 
+corresponded fairly well to the layer structure we had adopted. In 
+other cases, it was necessary to reorganise the bill of quantities 
+according to our layers – a division that necessarily involves making 
+choices (some elements being open to interpretation) and then 
+being transparent and consistent with these choices.
+
+Only layers containing reuse were analysed in detail. This is why, 
+with a few exceptions, we cannot express the rate of reuse achieved 
+at the scale of an entire project.
+
+Example: let’s imagine a new-build project where all the effort 
+comes down to reusing 10 interior doors and 10 washbasins. In this 
+case, we concentrated our analysis on the following layers: space 
+plan and services sanitary. However, for each of these layers, we 
+analysed the entire flow of materials involved (i.e. new and reused 
+materials).
+
+The other layers were not analysed in detail, as we already knew 
+that their reuse rate was 0%.
+
+ 
+
+16/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Methodology
+
+1.4 Calculation of the total mass of materials per 
+layer and calculation of the reuse rate
+
+Once the bills of quantities had been adapted according to our 
+layers, we proceeded to calculate the reuse rate. To do this, we 
+assigned a weight to each line of the bill of quantities belonging to a 
+layer concerned by reuse.
+
+We chose to work on a mass basis in order to have a homogeneous 
+unit that would allow us to compare elements that are otherwise 
+very diverse. Although this choice is not without bias1, these are 
+largely mitigated by the subdivision into layers. It avoids mixing 
+elements with masses of too dissimilar orders of magnitude (100 
+m³ of poured concrete screed with a dozen nylon door handles, for 
+instance).
+
+In practice, it turns out that the mass of materials is rarely indicated 
+as such in bills of quantities. Quantities are generally expressed 
+in various units (mc, m², m³, pc, etc.). A conversion is therefore 
+necessary to obtain the mass of the materials, which is used to 
+calculate reuse rates.
+
+In our analysis, we have made the conversion as follows:
+
+1.	For homogeneous materials, we have obtained the mass by 	
+multiplying the volume by the density (kg/m³) (or, more rarely, 
+the surface area by the mass per unit area (kg/m²)). When it is 
+not expressed as such, the volume is generally easy to calculate 
+if the specifications of the materials concerned can be found. 
+For example, a masonry structure expressed in surface area, 
+where the thickness of the bricks is also known.
+
+2.	For composite materials and/or materials with volumes that 
+are difficult to measure, the mass is obtained by multiplying 
+the number of units by their unit mass.
+
+Density and unit mass are also information that does not always 
+appear as such in quantity surveys. We therefore have to look 
+
+1- These are detailed in the document describing the general method for setting reuse rates.
+
+17/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+elsewhere for this information. To do this, we used the following 
+elements, in order of preference:
+
+1.	Technical data sheets for the components concerned. An 
+investigation into the plans, pictures, technical data sheets, as-
+built documents, etc. generally (but not always...) enabled us to 
+find precise data.
+
+2.	 If this specific information was not available, we relied 
+on reference databases in which the density of materials is 
+expressed (in most cases, these were databases designed to 
+express the environmental impact of materials, see appendix 1 
+below).
+
+3.	Specific assumptions. Where specific information was not 
+available, nor was it possible to rely on standard data, we 
+made assumptions, usually relying on data from comparable 
+items. These assumptions are mentioned and sourced in our 
+reference database.
+
+Once we had identified all the elements making up a layer 
+concerned by reuse, we calculated its total mass, including the 
+mass of the reused elements. A simple division then allows us to 
+establish the rate of reuse achieved within a given layer.
+
+ 
+
+18/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Methodology
+
+Example :
+
+ID Description Data Unit Quantity Reuse or Layer Mass (kg) Source
+new?
+
+N Application N
+
+N.1 Component 1 Thickness = m² 100 Neuf ▼ Space plan ▼ 1.000 Thickness 
+0.01 m, ρ = = technical 
+1000 kg/m³ sheet from the 
+
+manufacturer.
+Volumic mass 
+= idem..
+
+N.2 Component 2 Thickness m² 100 Reuse▼ Space plan▼ 1.000 Thickness 
+= 0.01 m, ρ = = project 
+1000 kgm³ specification 
+
+book. 
+Volumic mass 
+= database 
+XYZ.
+
+Total Mass Space Plan (kg) 2.000
+
+Total Mass Reuse for Space Plan (kg) 1.000
+
+Reuse rate (%) 50
+
+19/71
+
+
+
+
+
+
+2° CORPUS OF 
+PROJECTS
+
+2.1  Projects selection
+
+From a shortlist of around sixty projects, we have selected 32 on 
+the basis of various selection criteria.
+
+The first criterion was whether these projects had successfully 
+reused building materials and elements. To identify them, we used 
+several sources of information:
+
+-	 Websites listing reuse projects (e.g. Opalis.eu).
+
+-	 Pilot operations carried out in the first phase of the FCRBE 
+project1.
+
+-	 Literature on the topic of reuse.
+
+In addition, we made sure that these projects were evenly spread 
+across the different countries of the FCRBE project area. In total, 14 
+projects were selected in Belgium, 9 in France, 8 in the Netherlands 
+and 1 in the United Kingdom.
+
+1- FCRBE, FCRBE Pilot Operations. 37 case studies on reclaiming and reusing building 
+elements. Novembre 2021. Available online:  https://vb.nweurope.eu/media/15788/37-po-
+summary-report_cv_low.pdf
+
+21/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+Next, we focused on diversity in terms of programmes. The selected 
+projects cover a wide range of functions (see section 2.3). We felt 
+that looking exclusively at office projects, for example, would not 
+be sufficiently representative. In addition, we sought to strike a 
+balance between new builds and renovations (which we will see 
+later is a very significant factor in the reuse rates that can be 
+achieved). However, we have tried to obtain a certain number of 
+projects for the different types of work envisaged, in order to have 
+some points of comparison.
+
+Another criterion was the conditions for replicability of the 
+selected projects. As far as possible, we opted for projects that fit 
+into relatively common contexts, avoiding projects carried out in 
+somewhat exceptional circumstances (a student workshop, for 
+example) or those with exorbitant budgets. Our aim was to give 
+priority to projects that were as close as possible to current practice 
+(although this point is open to discussion, see section 4.2).
+
+We have also focused on relatively recent projects.The oldest, 
+Bedzed, was completed in 2002.
+
+Finally, we have sought to diversify the scale of the projects, ranging 
+from buildings of just a few square metres to work with a total 
+surface area of several tens of thousands of square metres, or even 
+outdoor developments covering several hectares.
+
+It should be pointed out that our overall selection was somewhat 
+constrained by issues of access to information. Some pre-selected 
+projects did not respond to our requests.
+
+22/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Corpus of projects
+
+2.2 The projects
+
+Maison des Grande Halle Zinneke Takeda school
+Canaux Colombelle
+
+Warland Clos Dupont Maison Rue Dethy Cohousing Bedzed Caserne de 
+Vignette de De Schilders Reuilly 
+
+l’est
+
+Clinic of Circl’ Pavilion Mundo Madou Biopartner 5 Déchèterie de Botany 
+Emergis child & Kaysersberg institute 
+
+youth Liège
+
+Bureau Pulse Multi
+
+Green Circular Tree Bloc VLA Local La Fabrique 
+house Pavilion house sanitaire office Droits et Ressourcerie
+
+Chiro habitat
+
+Caserne de Place Croeselaan Cremerstraat Caserne 
+Reuilly communale de Mellinet
+
+Molenbeek
+
+23/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+2.3  Projects clusters
+
+In order to improve comparability between projects and to refine 
+the analysis of the results of the 32 projects, we have grouped them 
+into 5 clusters:
+
+1.	Renovations for social and cultural facilities.
+
+2.	Housing.
+
+3.	Tertiary buildings.
+
+4.	Micro-projects and demonstrators.
+
+5.	Outdoor spaces.
+
+These clusters were defined on the basis of the initial selection of 
+projects. They were developed during a participatory workshop 
+involving several of the FCRBE project’s partners. After a 
+presentation of each project, the participants used various factors 
+to bring the 32 projects together. The factors were as follows:
+
+-	 Programme.
+
+-	 Nature of the work.
+
+-	 Scale of the projects.
+
+-	 Architectural approaches.
+
+Some of these factors were decisive for certain clusters and less so 
+for others. For example, the question of the scale of the projects 
+(approached through their floor area) was decisive for category no. 
+1 (conversion of existing buildings to house socio-cultural activities), 
+which groups together projects of a similar scale, but less so for 
+category no. 2 (housing), which includes both small detached 
+houses and collective housing.
+
+24/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Corpus of projects
+
+These categories are neither fixed nor entirely exhaustive. They 
+are, however, useful for analysing and interpreting the reuse rates 
+actually achieved.
+
+FCRBE CASE STUDY ANALYSIS
+
+#30 CROESELAAN OUTDOOR
+SPACES
+
+#28 GARDEN OF REUILLY #31 CREMERSTRAAT
+
+#32 GARDEN OF MELLINET
+
+MICRO PROJECT/ #29 MOLENBEEK 
+TOWN SQUARE
+
+DEMONSTRATOR
+#21 GREEN HOUSE
+
+*Outdoor Spaces is considered neither “New Construction” nor “Renovation”
+
+#13 JEUGDKLINIEK
+
+#17 KAYSERBERG WASTE 
+#14 CIRCL PAVILION COLLECTION CENTRE
+
+#23 SANITARY 
+#22 CIRCULAR BLOCK
+
+PAVILION
+
+#16 BIOPARTNER 5
+
+#24 TREE HOUSE #10 CO-HOUSING DE SCHILDER
+
+#07 MAISON 
+VIGNETTE #19 PULSE OFFICES
+
+#11 BEDZED TERTIARY BUILDING
+
+HOUSING
+#25 VLA OFFICE
+
+#18 BOTANY INSTITUTE 
+LIEGE UNIVERISTY
+
+#27 REUSE CENTRE LA FABRIQUE
+
+#26 DROIT ET HABITAT 
+PREMISES
+
+#15 MUNDO-MADOU
+
+#20 MULTI
+
+# 02 GRANDE HALLE DE 
+COLOMBELLES
+
+#08 HOUSE #04 TAKEDA SCHOOL #12 HOUSING REUILLY - LOT AE
+DETHY
+
+#05 HOUSE 
+WARLAND
+
+# 01 MAISON DES CANAUX
+#09 HOUSE 
+
+RUE DE L’EST
+RENOVATION FOR 
+
+SOCIAL AND CULTURAL #03 ZINNEKE
+#06 HOUSE CLOS 
+
+DUPONT FACILITIES
+
+100 1000 5000 100,000
+PROJECT AREA (m2)
+
+Classification of the 32 projects according to surface area and whether they are new builds or renovations.  
+Projects involving the development of outdoor spaces are classified according to surface area but not according to whether they are 
+new or renovated, which does not apply to these projects.
+
+25/71
+
+RENOVATION NEW CONSTRUCTION
+
+
+
+
+
+
+3° RESULTS 
+
+3.1  Table of the reuse rates
+
+This table (see next page) shows the overall reuse rates in the 
+32 projects analysed. The columns (vertical) correspond to the 
+projects. The horizontal lines correspond to our different layers.
+
+The columns are grouped by cluster and, within each cluster, the 
+projects are sorted in ascending order of surface area.
+
+We used a five-colour gradient to highlight the reuse rates achieved:
+
+The application of this colour code highlights a number of general 
+observations:
+
+-	 For example, it is very clear that projects in the Micro 
+Projects and Demonstrators cluster achieve high reuse rates in 
+several layers.
+
+-	 Or that the category of outdoor facilities / public spaces only 
+concerns 3 layers.
+
+27/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+Cluster Renovation for social and cultural facilities Housing Tertiary building Micro project / Demonstrator Outdoor spaces
+Project Surface (m²) 1.009 3.650 4.000 4.000 160 200 255 255 290 1.200 2.500 6.330 3.334 3.350 6.500 6.827 7.535 8.600 33.588 45.120 7,7 7,7 18 24 100 135 204 4.820 6.300 13.599 12.000 130.000
+New construction TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE / / / / /
+Layers with reuse 8 4 7 1 4 5 2 4 2 1 2 2 4 2 1 4 5 3 1 2 3 3 4 4 6 4 2 2 1 2 2 2
+Project ID #01 #02 #03 #04 #05 #06 #07 #08 #09 #10 #11 #12 #13 #14 #15 #16 #17 #18 #19 #20 #21 #22 #23 #24 #25 #26 #27 #28 #29 #30 #31 #32
+
+Structure 0 0
+Total mass layer (kg) 20.133 not calc. 178.130 not calc. 16.968 not calc. not calc. 19.080 not calc. not calc. 12.709.000 not calc. 301.674 9.308.260 not calc. 4.595.763 1.673.287 not calc. not calc. not calc. 2.288 7.949 20.936 3.782 93 2.694 1.573 N/A N/A N/A N/A N/A
+Reused mass layer (kg) 8.674 0 11.590 0 1.388 0 0 2.784 0 0 98.000 0 28.915 0 0 159.000 29.345 0 0 0 2.278 7.366 261 3.782 93 0 0
+Reuse rate (%) 43,08% 0,00% 6,51% 0,00% 8,18% 0,00% 0,00% 14,59% 0,00% 0,00% 0,77% 0,00% 9,58% 0,00% 0,00% 3,46% 1,75% 0,00% 0,00% 0,00% 99,54% 92,67% 1,25% 100,00% 100,00% 0,00% 0,00%
+
+Skin
+Total mass layer (kg) 1.505 18.721 23.296 not calc. not calc. 11.325 36.883 26.157 15.966 160.414 2.517.000 not calc. 244.996 357.892 not calc. 1.464.334 not calc. 512.509 not calc. 2.868.153 1.114 1.162 9.454 340 1.764 378 N/A N/A N/A N/A N/A N/A
+Reused mass layer (kg) 300 0 4.526 0 0 7.595 5.412 585 5.056 89.238 0 0 19.402 0 0 411.171 0 33.774 0 93.455 1.114 1.039 5.263 273 497 0
+Reuse rate (%) 19,94% 0,00% 19,43% 0,00% 0,00% 67,06% 14,67% 2,24% 31,66% 55,63% 0,00% 0,00% 7,92% 0,00% 0,00% 28,08% 0,00% 6,59% 0,00% 3,26% 100,00% 89,40% 55,67% 80,41% 28,17% 0,00%
+
+Space Plan
+Total mass layer (kg) 30.157 358.841 60.870 62.895 18.162 4.855 38.321 34.016 125.279 not calc. 1.852.000 1.343.958 62.020 1.466.998 128.746 2.769.893 64.832 not calc. 2.695.204 9.005.503 52 192 939 576 6.583 9.430 10.274 N/A N/A N/A N/A N/A
+Reused mass layer (kg) 15.468 3.744 12.770 16.540 3.095 405 3.207 2.183 2.355 0 182.000 25.686 833 63.123 31.342 82.252 873 0 543.630 115.524 52 192 375 576 5.625 915 2.263
+Reuse rate (%) 51,29% 1,04% 20,98% 26,30% 17,04% 8,34% 8,37% 6,42% 1,88% 0,00% 9,83% 1,91% 1,34% 4,30% 24,34% 2,97% 1,35% 0,00% 20,17% 1,28% 100,00% 100,00% 39,90% 100,00% 85,45% 9,70% 22,03%
+
+Service - HVAC
+Total mass layer (kg) 8.027 13.391 22.471 not calc. 2.800 2.262 not calc. 3.310 not calc. not calc. 32.500 32.428 43.342 43.550 not calc. 88.751 not calc. not calc. not calc. not calc. N/A N/A 234 N/A 1.828 1.755 1.127 N/A N/A N/A N/A N/A
+Reused mass layer (kg) 61 6.952 1.990 0 825 82 0 336 0 0 0 8.500 0 0 0 0 0 0 0 0 0 528 79 0
+Reuse rate (%) 0,76% 51,92% 8,86% 0,00% 29,46% 3,64% 0,00% 10,15% 0,00% 0,00% 0,00% 26,21% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 28,88% 4,50% 0,00%
+Rule of thumb used TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+Service - Elec
+Total mass layer (kg) 683 not calc. 16.207 not calc. not calc. not calc. not calc. 1.018 not calc. not calc. 10.000 not calc. 13.336 13.400 not calc. 27.308 not calc. not calc. not calc. not calc. N/A N/A 72 N/A 400 540 739 N/A N/A N/A N/A N/A
+Reused mass layer (kg) 129 0 207 0 0 0 0 0 0 0 0 0 312 0 0 0 0 0 0 0 0 40 36 0
+Reuse rate (%) 18,91% 0,00% 1,28% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 2,34% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 10,00% 6,74% 0,00%
+Rule of thumb used TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+Service - Sanitary
+Total mass layer (kg) 248 3.702 4.424 not calc. 480 44 765 764 not calc. not calc. 7.500 not calc. 10.002 10.050 not calc. 3.781 564 not calc. not calc. not calc. N/A N/A 177 51 300 239 165 N/A N/A N/A N/A N/A
+Reused mass layer (kg) 132 1.499 824 0 405 30 30 0 0 0 0 0 0 0 0 285 143 0 0 0 167 39 5 165 53
+Reuse rate (%) 53,25% 40,49% 18,63% 0,00% 84,38% 67,77% 3,92% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 7,54% 25,35% 0,00% 0,00% 0,00% 94,42% 77,17% 1,67% 69,19% 32,15%
+Rule of thumb used TRUE TRUE TRUE TRUE
+
+Outdoor - Infrastructure
+Total mass layer (kg) 7.754 N/A 42.375 N/A N/A not calc. not calc. N/A not calc. not calc. 3.676.000 N/A N/A N/A N/A N/A not calc. not calc. N/A N/A N/A N/A 173 N/A N/A N/A N/A not calc. not calc. 6.894.657 not calc. not calc.
+Reused mass layer (kg) 0 0 0 0 0 0 0 0 0 0 0 0 1.505.000 0 0
+Reuse rate (%) 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 21,83% 0,00% 0,00%
+
+Outdoor - Surfaces
+Total mass layer (kg) 130.947 N/A 36.964 N/A N/A 872 not calc. N/A not calc. not calc. 1.038.000 N/A N/A 112.646 N/A N/A 1.447.010 65.590 N/A N/A N/A N/A N/A N/A N/A N/A N/A 1.472.921 2.359.436 2.384.387 15.142.577 14.019.960
+Reused mass layer (kg) 130.947 6.370 773 0 0 0 3.000 97.410 10.340 14.431 543.840 2.254.414 115.000 3.851.037 2.477.534
+Reuse rate (%) 100,00% 17,23% 88,67% 0,00% 0,00% 0,00% 0,29% 86,47% 0,71% 22,00% 36,92% 95,55% 4,82% 25,43% 17,67%
+
+Outdoor - Furnishings
+Total mass layer (kg) 2.317 N/A N/A N/A N/A not calc. not calc. N/A not calc. not calc. not calc. N/A N/A N/A N/A N/A 7.591 55 N/A N/A N/A N/A N/A N/A N/A N/A N/A 256.976 not calc. N/A 11.273 296.667
+Reused mass layer (kg) 1.955 0 0 0 0 0 706 12 1.000 0 1.260 229.730
+Reuse rate (%) 84,39% 0,00% 0,00% 0,00% 0,00% 0,00% 9,30% 22,20% 0,39% 0,00% 11,17% 77,44%
+
+Total reuse rate (when available)
+Total mass of materials (kg) 201.771 384.737 38.410 19.358 75.970 84.345 141.245 160.414 21.842.000 1.376.386 675.369 11.312.795 128.746 8.949.831 3.185.693 578.155 11.873.657 3.454 9.303 31.985 4.860 10.968 15.036 13.878 1.472.921 2.359.436 9.279.044
+Total mass of reused materials1(5k7g.)666 12.195 38.277 16.540 5.713 8.885 8.649 5.888 7.410 89.238 283.000 34.186 49.462 160.533 31.342 652.708 41.407 48.217 543.630 208.978 3.444 8.597 6.066 4.781 6.695 1.196 2.316 544.840 2.254.414 1.620.000 3.852.297 2.707.264
+Total reuse rate (%) 78,14% 9,95% 14,87% 1,30% 7,32% 1,42% 24,34% 7,29% 99,70% 92,41% 18,97% 98,39% 61,04% 7,95% 16,69% 17,46%
+Total mass of reused materials per1S5u6rface (kg/m3²) 10 4 36 44 34 23 26 74 113 5 15 48 5 96 5 6 16 5 447 1116 337 199 67 9 11 113 358 119 321 21
+
+Légende
+
+Category 1 : Renovations for social and cultural facilities
+Category 2 : Housing
+
+28/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+Maison des 
+Canaux
+
+Grande Halle de 
+Colombelles
+
+Zinneke
+
+Takeda school
+
+House Warland
+
+House Clos Dupont
+
+House Vignette
+
+House Dethy
+
+House Rue de l'Est
+
+Cohousing de 
+Schilders
+
+Housing BedZed
+
+Housing Reuilly 
+(Lot Ae)
+
+Jeugdkliniek
+
+Circl Pavilion
+
+Mundo-Madou
+
+Biopartner 5
+
+Kaysersberg waste 
+collection centre
+
+Botany Institute 
+Liège University
+
+Pulse offices
+
+Multi
+
+Green House
+
+Circular Pavilion
+
+Sanitary block
+
+Tree House
+
+VLA office
+
+Droit et habitat' 
+premises
+
+Reuse Centre La 
+Fabrique
+
+Garden of Reuilly
+
+Molenbeek town 
+square
+
+Croeselaan
+
+Cremerstraat
+
+Garden of Mellinet
+
+
+
+Results
+
+Cluster Renovation for social and cultural facilities Housing Tertiary building Micro project / Demonstrator Outdoor spaces
+Project Surface (m²) 1.009 3.650 4.000 4.000 160 200 255 255 290 1.200 2.500 6.330 3.334 3.350 6.500 6.827 7.535 8.600 33.588 45.120 7,7 7,7 18 24 100 135 204 4.820 6.300 13.599 12.000 130.000
+New construction TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE / / / / /
+Layers with reuse 8 4 7 1 4 5 2 4 2 1 2 2 4 2 1 4 5 3 1 2 3 3 4 4 6 4 2 2 1 2 2 2
+Project ID #01 #02 #03 #04 #05 #06 #07 #08 #09 #10 #11 #12 #13 #14 #15 #16 #17 #18 #19 #20 #21 #22 #23 #24 #25 #26 #27 #28 #29 #30 #31 #32
+
+Structure 0 0
+Total mass layer (kg) 20.133 not calc. 178.130 not calc. 16.968 not calc. not calc. 19.080 not calc. not calc. 12.709.000 not calc. 301.674 9.308.260 not calc. 4.595.763 1.673.287 not calc. not calc. not calc. 2.288 7.949 20.936 3.782 93 2.694 1.573 N/A N/A N/A N/A N/A
+Reused mass layer (kg) 8.674 0 11.590 0 1.388 0 0 2.784 0 0 98.000 0 28.915 0 0 159.000 29.345 0 0 0 2.278 7.366 261 3.782 93 0 0
+Reuse rate (%) 43,08% 0,00% 6,51% 0,00% 8,18% 0,00% 0,00% 14,59% 0,00% 0,00% 0,77% 0,00% 9,58% 0,00% 0,00% 3,46% 1,75% 0,00% 0,00% 0,00% 99,54% 92,67% 1,25% 100,00% 100,00% 0,00% 0,00%
+
+Skin
+Total mass layer (kg) 1.505 18.721 23.296 not calc. not calc. 11.325 36.883 26.157 15.966 160.414 2.517.000 not calc. 244.996 357.892 not calc. 1.464.334 not calc. 512.509 not calc. 2.868.153 1.114 1.162 9.454 340 1.764 378 N/A N/A N/A N/A N/A N/A
+Reused mass layer (kg) 300 0 4.526 0 0 7.595 5.412 585 5.056 89.238 0 0 19.402 0 0 411.171 0 33.774 0 93.455 1.114 1.039 5.263 273 497 0
+Reuse rate (%) 19,94% 0,00% 19,43% 0,00% 0,00% 67,06% 14,67% 2,24% 31,66% 55,63% 0,00% 0,00% 7,92% 0,00% 0,00% 28,08% 0,00% 6,59% 0,00% 3,26% 100,00% 89,40% 55,67% 80,41% 28,17% 0,00%
+
+Space Plan
+Total mass layer (kg) 30.157 358.841 60.870 62.895 18.162 4.855 38.321 34.016 125.279 not calc. 1.852.000 1.343.958 62.020 1.466.998 128.746 2.769.893 64.832 not calc. 2.695.204 9.005.503 52 192 939 576 6.583 9.430 10.274 N/A N/A N/A N/A N/A
+Reused mass layer (kg) 15.468 3.744 12.770 16.540 3.095 405 3.207 2.183 2.355 0 182.000 25.686 833 63.123 31.342 82.252 873 0 543.630 115.524 52 192 375 576 5.625 915 2.263
+Reuse rate (%) 51,29% 1,04% 20,98% 26,30% 17,04% 8,34% 8,37% 6,42% 1,88% 0,00% 9,83% 1,91% 1,34% 4,30% 24,34% 2,97% 1,35% 0,00% 20,17% 1,28% 100,00% 100,00% 39,90% 100,00% 85,45% 9,70% 22,03%
+
+Service - HVAC
+Total mass layer (kg) 8.027 13.391 22.471 not calc. 2.800 2.262 not calc. 3.310 not calc. not calc. 32.500 32.428 43.342 43.550 not calc. 88.751 not calc. not calc. not calc. not calc. N/A N/A 234 N/A 1.828 1.755 1.127 N/A N/A N/A N/A N/A
+Reused mass layer (kg) 61 6.952 1.990 0 825 82 0 336 0 0 0 8.500 0 0 0 0 0 0 0 0 0 528 79 0
+Reuse rate (%) 0,76% 51,92% 8,86% 0,00% 29,46% 3,64% 0,00% 10,15% 0,00% 0,00% 0,00% 26,21% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 28,88% 4,50% 0,00%
+Rule of thumb used TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+Service - Elec
+Total mass layer (kg) 683 not calc. 16.207 not calc. not calc. not calc. not calc. 1.018 not calc. not calc. 10.000 not calc. 13.336 13.400 not calc. 27.308 not calc. not calc. not calc. not calc. N/A N/A 72 N/A 400 540 739 N/A N/A N/A N/A N/A
+Reused mass layer (kg) 129 0 207 0 0 0 0 0 0 0 0 0 312 0 0 0 0 0 0 0 0 40 36 0
+Reuse rate (%) 18,91% 0,00% 1,28% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 2,34% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 10,00% 6,74% 0,00%
+Rule of thumb used TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+Service - Sanitary
+Total mass layer (kg) 248 3.702 4.424 not calc. 480 44 765 764 not calc. not calc. 7.500 not calc. 10.002 10.050 not calc. 3.781 564 not calc. not calc. not calc. N/A N/A 177 51 300 239 165 N/A N/A N/A N/A N/A
+Reused mass layer (kg) 132 1.499 824 0 405 30 30 0 0 0 0 0 0 0 0 285 143 0 0 0 167 39 5 165 53
+Reuse rate (%) 53,25% 40,49% 18,63% 0,00% 84,38% 67,77% 3,92% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 7,54% 25,35% 0,00% 0,00% 0,00% 94,42% 77,17% 1,67% 69,19% 32,15%
+Rule of thumb used TRUE TRUE TRUE TRUE
+
+Outdoor - Infrastructure
+Total mass layer (kg) 7.754 N/A 42.375 N/A N/A not calc. not calc. N/A not calc. not calc. 3.676.000 N/A N/A N/A N/A N/A not calc. not calc. N/A N/A N/A N/A 173 N/A N/A N/A N/A not calc. not calc. 6.894.657 not calc. not calc.
+Reused mass layer (kg) 0 0 0 0 0 0 0 0 0 0 0 0 1.505.000 0 0
+Reuse rate (%) 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 0,00% 21,83% 0,00% 0,00%
+
+Outdoor - Surfaces
+Total mass layer (kg) 130.947 N/A 36.964 N/A N/A 872 not calc. N/A not calc. not calc. 1.038.000 N/A N/A 112.646 N/A N/A 1.447.010 65.590 N/A N/A N/A N/A N/A N/A N/A N/A N/A 1.472.921 2.359.436 2.384.387 15.142.577 14.019.960
+Reused mass layer (kg) 130.947 6.370 773 0 0 0 3.000 97.410 10.340 14.431 543.840 2.254.414 115.000 3.851.037 2.477.534
+Reuse rate (%) 100,00% 17,23% 88,67% 0,00% 0,00% 0,00% 0,29% 86,47% 0,71% 22,00% 36,92% 95,55% 4,82% 25,43% 17,67%
+
+Outdoor - Furnishings
+Total mass layer (kg) 2.317 N/A N/A N/A N/A not calc. not calc. N/A not calc. not calc. not calc. N/A N/A N/A N/A N/A 7.591 55 N/A N/A N/A N/A N/A N/A N/A N/A N/A 256.976 not calc. N/A 11.273 296.667
+Reused mass layer (kg) 1.955 0 0 0 0 0 706 12 1.000 0 1.260 229.730
+Reuse rate (%) 84,39% 0,00% 0,00% 0,00% 0,00% 0,00% 9,30% 22,20% 0,39% 0,00% 11,17% 77,44%
+
+Total reuse rate (when available)
+Total mass of materials (kg) 201.771 384.737 38.410 19.358 75.970 84.345 141.245 160.414 21.842.000 1.376.386 675.369 11.312.795 128.746 8.949.831 3.185.693 578.155 11.873.657 3.454 9.303 31.985 4.860 10.968 15.036 13.878 1.472.921 2.359.436 9.279.044
+Total mass of reused materials1(5k7g.)666 12.195 38.277 16.540 5.713 8.885 8.649 5.888 7.410 89.238 283.000 34.186 49.462 160.533 31.342 652.708 41.407 48.217 543.630 208.978 3.444 8.597 6.066 4.781 6.695 1.196 2.316 544.840 2.254.414 1.620.000 3.852.297 2.707.264
+Total reuse rate (%) 78,14% 9,95% 14,87% 1,30% 7,32% 1,42% 24,34% 7,29% 99,70% 92,41% 18,97% 98,39% 61,04% 7,95% 16,69% 17,46%
+Total mass of reused materials per1S5u6rface (kg/m3²) 10 4 36 44 34 23 26 74 113 5 15 48 5 96 5 6 16 5 447 1116 337 199 67 9 11 113 358 119 321 21
+
+Category 3 : Tertiary buildings
+Category 4 : Micro-projects et demonstrators
+Category 5 : Outdoor spaces
+
+29/71
+
+Maison des 
+Canaux
+
+Grande Halle de 
+Colombelles
+
+Zinneke
+
+Takeda school
+
+House Warland
+
+House Clos Dupont
+
+House Vignette
+
+House Dethy
+
+House Rue de l'Est
+
+Cohousing de 
+Schilders
+
+Housing BedZed
+
+Housing Reuilly 
+(Lot Ae)
+
+Jeugdkliniek
+
+Circl Pavilion
+
+Mundo-Madou
+
+Biopartner 5
+
+Kaysersberg waste 
+collection centre
+
+Botany Institute 
+Liège University
+
+Pulse offices
+
+Multi
+
+Green House
+
+Circular Pavilion
+
+Sanitary block
+
+Tree House
+
+VLA office
+
+Droit et habitat' 
+premises
+
+Reuse Centre La 
+Fabrique
+
+Garden of Reuilly
+
+Molenbeek town 
+square
+
+Croeselaan
+
+Cremerstraat
+
+Garden of Mellinet
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+-	 We can also see, when we look at the projects column by 
+column, that some have a multi-layered approach, achieving 
+reuse rates in most of the layers concerned (this is particularly 
+the case for projects in the first category), while others focus 
+their reuse efforts on a smaller number of layers (a strategy 
+found particularly in housing and tertiary building projects).
+
+There is an important nuance to be borne in mind when reading 
+this table:
+
+-	 Cells left completely blank correspond to layers which, in 
+a given project, were not affected by the work. For example, 
+renovation work on an existing building that did not affect the 
+structure at all.
+
+-	 Cells explicitly indicating 0% correspond to situations where 
+the work carried out did affect a given layer, although there 
+was no reuse within it.
+
+3.2 Analysis of the results   
+
+This section details the rates achieved in the projects. 
+
+A few comments on the analysis of reuse rates 
+by category and by layer
+
+As a first approach, it is important to note that the reuse rate 
+depends on the total quantity of materials used for the works. The 
+greater the total mass, the greater the mass of reused materials 
+must be to achieve a high rate. It is clear that absolute quantities 
+have an impact on the rates achieved. The projects analysed show 
+orders of magnitude that are sometimes very far apart.
+
+The reuse rate also depends on the mass of the elements involved. 
+For the same layer, the use of heavier materials logically leads to 
+a higher rate. These rates are therefore not always representative 
+of the efforts made, but they are one indicator among others that 
+should be studied.
+
+30/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+A few indications about the analysis itself:
+
+-	 When the quantity of materials reused per layer was too low 
+(of the order of a few kilograms) and the corresponding rate 
+was also too low, it was not included in the analysis. We then 
+considered the reuse in the layer concerned to be marginal.
+
+-	 When the rates achieved within a category are too 
+heterogeneous, indicating an average or median rate is 
+not relevant. We have therefore chosen to indicate only 
+the minimum and maximum values. Similarly, there is no 
+point in expressing the average rate when the sample under 
+consideration contains only two projects.
+
+-	 Finally, the expression of minimum and maximum reuse 
+rates per layer only includes projects for which there has been 
+reuse (a rate of 0% is therefore not taken into account as a 
+minimum reuse rate).
+
+In the following chapters, we analyse the rates achieved for each 
+layer within each project category.
+
+Category 1: renovations for social and cultural 
+facilities
+
+This subgroup comprises four projects ranging in size from 1,000 
+to 4,000 m². It concerns only renovation projects in which reuse 
+efforts have been coupled with significant preservation of existing 
+buildings.
+
+Structure
+
+In these projects, the structural layer is generally absent or 
+negligible. Indeed, these projects have all chosen to integrate 
+into existing built structures, which have been altered very little. 
+Some projects do have an inflow of materials for structural work, 
+but these are generally minor in terms of quantity: these are 
+relatively minor additions or occasional reinforcements (such as 
+the construction of a covered terrace in the case of the Maison 
+
+31/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+des Canaux, for example, where reused steel was used to a large 
+extent, achieving a reuse rate of 43%).
+
+Skin
+
+Operations concerned 2 projetcs out of 4
+
+Minimum rate 19,43 %
+
+Maximum rate 19,94 %
+
+Average rate 19,68 %
+
+The three projects have reuse rates in the same orders of 
+magnitude, so the average reuse rate presented here can be 
+considered consistent (while taking into account the small size of 
+the sample).
+
+Space plan :
+
+Operations concerned 4 projects out of 4
+
+Minimum rate 1,04 %
+
+Maximum rate 43,78 %
+
+Average rate 23,02 %
+
+Both the Takeda School and Zinneke projects have a reuse rate 
+of around 23%, which represents around 15 tonnes of materials 
+each, for a surface area of 4,000 m². The rate given here can be 
+considered consistent (taking into account the small size of the 
+sample).
+
+32/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+Service HVAC
+
+Operations concerned 2 projects out of 4
+
+Minimum rate 8,86 %
+
+Maximum rate 51,9 %
+
+Average rate -
+
+Expressing an average rate for this layer in this category of project 
+is not relevant because there are only two projects and the 
+quantities are very different: 
+
+-	 52 units (corresponding to 6.9 t) of radiators from reuse out 
+of 13.4 t for the Grande Halle Colombelle project, giving a rate 
+of 52%.
+
+-	  20 radiators and 1 ventilation unit, corresponding to 1.9 t 
+out of 22.5 t for the Zinneke project, giving a reuse rate of 8.9%.
+
+Service - Sanitary
+
+Operations concerned 3 projects out of 4
+
+Minimum rate 18,6 %
+
+Maximum rate 56,4 %
+
+Average rate 38,5 %
+
+For this layer, the reuse rates are not very representative of the 
+effort made for each project. Indeed, by reusing 132kg (out of 
+248kg), the Maison des Canaux project has the highest reuse rate 
+at 53.25%, while the Zinneke project achieves 40% by reusing 1.5t 
+(out of 3.7t). The rate is highly dependent on the total quantity of 
+material reintegrated into this layer - which is highly dependent on 
+the facilities in place and the possibility of maintaining them or, on 
+the contrary, the need to replace them.
+
+33/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+Outdoor - Surfaces
+
+Operations concerned 2 projects out of 4
+
+Minimum rate 17,2 %
+
+Maximum rate 87,6 %
+
+Average rate 52,4 %
+
+Only two projects used reclaimed materials for their outdoor 
+surfaces. Moreover, the rates show very significant variations. The 
+average rate expressed here is therefore not very representative.
+
+It is noteworthy that the Maison des canaux project has used wood 
+from windows and doors, and reclaimed stone and cobblestones 
+dry-assembled to create the exterior flooring, enabling them to 
+achieve a rate of 100%.
+
+Outdoor furnishings
+
+Operations concerned 1 project out of 4
+
+Rate 84,4 %
+
+Only one of the four projects (the Maison des Canaux) involved the 
+production of permanent outdoor furniture. The rate shown here 
+cannot therefore be considered representative.
+
+34/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+Category 2 : housing
+
+This category includes eight projects of various sizes: six have a 
+surface area of between 100 and 300 m², two have a surface area 
+of between 1,000 and 2,500 m² and one has a surface area of over 
+6,000 m². This category includes both renovation and new-build 
+projects.
+
+Structure
+
+Operations concerned 3 projects out of 8
+
+Minimum rate 0,77 %
+
+Maximum rate 14,59 %
+
+Average rate -
+
+The rates given here conceal highly variable absolute quantities. 
+Thus, the lowest rate (0.77%) corresponds to the project that has 
+reused the largest quantity of structural materials (98 t of steel 
+sections, for Housing Bedzed). By comparison, the other two 
+projects (House Dethy and House Warland) reused 7 t and 17 t 
+of structural materials respectively, achieving reuse rates of 8% 
+and 15%. It should be noted that these two projects involve the 
+renovation of single-family homes, whereas Bedzed is a new build 
+of collective housing.
+
+In any event, given the small sample, it is not possible to deduce an 
+indicative average rate here.
+
+Skin
+
+Operations concerned 5 projects out of 8
+
+Minimum rate 2,24 %
+
+Maximum rate 67,06 %
+
+Average rate 23,02 %
+
+35/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+The reuse rates achieved within this layer depend quite directly on 
+the choice of materials. The three projects that achieved the highest 
+rates (32%, 56% and 67%) in this layer did so by reusing facing brick 
+- a relatively bulky element compared with other solutions (wood, 
+for example).
+
+For example, Schilder’s Cohousing project reused 89t of bricks (out 
+of the 160t of materials making up the layer skin), giving it a reuse 
+rate of 55.63%. The Clos Dupont project also reused 7t of brick 
+and the Rue de l’Est project 5t, achieving reuse rates of 67.06% and 
+31.66% respectively.
+
+It is difficult to generalise the average rate achieved here for all 
+facade construction solutions. Nevertheless, it can be inferred that 
+the choice of reclaimed brick generally makes it possible to achieve 
+high rates, of over 20%.
+
+Space plan
+
+Operations concerned 7 projects out of 8
+
+Minimum rate 1,88 %
+
+Maximum rate 17,04 %
+
+Average rate 7,3 %
+
+The project that reused the largest mass of reused materials 
+was BedZed, with 182 t of wood reused to make the interior wall 
+framing. Given the total mass of the layer space plan in this project 
+(1,852 t), and given the comparatively lighter nature of wood, the 
+rate achieved is 10%.
+
+In the other projects, the most frequently reused materials are floor 
+tiles, wall and ceiling coverings and interior woodwork (doors, built-
+in cupboards, etc.).
+
+The average rate expressed here (between 5 and 10%) seems 
+plausible and can be considered representative.
+
+36/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+Service - HVAC
+
+Operations concerned 4 projects out of 8
+
+Minimum rate 3,64%
+
+Maximum rate 29,46%
+
+Average rate  -
+
+The materials that contribute to the reuse rate in this layer are 
+mainly radiators (cast iron, steel and aluminium). The rate varies 
+greatly depending on the number of radiators, their composition 
+(cast iron cannot be compared with aluminium!) and whether 
+or not the projects concerned were able to use existing sanitary 
+installations.
+
+On the basis of the available data, it is not possible to give a 
+relevant indicative rate.
+
+Service – Sanitary
+
+Operations concerned 3 projects out of 8
+
+Minimum rate 3,92 %
+
+Maximum rate 84,38 %
+
+Average rate -
+
+This layer also shows that the reuse rate varies greatly depending 
+on whether it was necessary to (re)build the entire sanitary 
+installation or, on the contrary, whether the work only involved 
+replacing individual items of equipment (washbasins, bathtubs, 
+toilet bowls, etc.).
+
+For example, in the Maison Vignette and the Clos Dupont houses, 
+30 kg of materials were reused in each case. In one case - a new 
+build - this gives a rate of 4%, in the other - a renovation - a rate of 
+68%!
+
+37/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+On the basis of the available data, it is not possible to give a 
+relevant indicative rate.
+
+Outdoor - Surfaces :
+
+Operations concerned 2 projects out of 8
+
+Minimum rate 0,29 %
+
+Maximum rate 87,67 %
+
+Only two projects in this category reused outdoor surface elements. 
+In addition, the landscaping of the surroundings represents very 
+different surface areas (and, by extension, quantities of materials) 
+from one project to another.
+
+For Bedzed, this layer represents more than 1,000 t of materials, 
+within which 3 t of granite kerbstones were reused (leading to a 
+rate of 0.29%). For the Clos Dupont project, we are talking about a 
+small outdoor terrace, involving just under 800 kg of material, of 
+which 700 kg of concrete paving stones were reused (leading to a 
+particularly high rate of 87.67%).
+
+On the basis of the available data, it is not possible to give a 
+relevant indicative rate.
+
+Category 3 : tertiary buildings
+
+There are eight projects in this category. Six of them have a surface 
+area of between 3,000 and 8,000 m², and two are larger, with a 
+surface area of between 33,000 and 45,000 m². The works studied 
+involve 5 new constructions and 3 renovation projects of existing 
+buildings. This category includes a variety of programmes, with the 
+majority of office space (possibly combined with other functions 
+such as conference rooms, shops, etc.) but also a waste collection 
+centre and a clinic.
+
+38/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+Structure :
+
+Operations concerned 3 projects out of 8
+
+Minimum rate 1,75 %
+
+Maximum rate 9,58 %
+
+Average rate 4,93 %
+
+The projects concerned by the structural layer are all new 
+constructions. The vast majority of the elements reused are steel or 
+timber frames, but there is also one case of concrete retaining walls 
+being reused.
+
+In absolute value and compared with other layers, the masses 
+involved in reuse are quite considerable: between 30 and 160 t. 
+However, they represent comparatively lower rates of re-use than 
+in other layers, due to the total mass of material flows required for 
+the structural layer.
+
+Despite a relatively small sample, the average rate given here can 
+be considered a useful indication of a plausible target for new 
+projects that choose to reuse structural elements.
+
+Skin : 
+
+Operations concerned 4 projects out of 8
+
+Minimum rate 3,26 %
+
+Maximum rate 28,08 %
+
+Average rate 14,49 %
+
+The two highest reuse rates (around 25%) concern new-build 
+projects. The materials reused and re-employed are varied, ranging 
+from reused windows and terrace boards to stone paving and 
+rubble reused in gabion walls.
+
+39/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+Despite a relatively small sample, the average rate given here can 
+be considered a useful indication of a plausible target for projects 
+that choose to reuse envelope elements.
+
+Space plan :
+
+Operations concerned 7 projects out of 8
+
+Minimum rate 1,28 %
+
+Maximum rate 24,34 %
+
+Average rate 7,81 %
+
+The office renovation project Mundo Madou and the new 
+construction project Pulse have the highest rates of re-use in this 
+layer (around 20%), which is also the only one to include re-use. The 
+other projects range from 0.25% to 4.3%.
+
+The range of materials reused in this flow is highly diverse: flooring, 
+wall cladding, insulation materials, woodwork, partitions, handrails 
+etc.
+
+The Mundo Madou project alone, for example, reused no fewer 
+than 11 different types of material, representing 24.34% of the total 
+mass of this layer.
+
+Despite significant variations in the rates achieved within the 
+different projects analysed, the average rate given here can be 
+considered a useful indicative target for similar projects choosing to 
+reuse materials for interior finishes. The analysis carried out here 
+shows that there is a wide range of possibilities for achieving reuse 
+rates within this layer.
+
+Service – Electricity :
+
+Operations concerned 1 project out of 8
+
+Rate 2,34 %
+
+40/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+The construction project for the youth clinic is the only one in this 
+category to have reused electrical components: lighting, cable trays, 
+various electrical components, alarms and detectors.
+
+On the basis of the available data, it is not possible to give a 
+relevant indicative rate.
+
+Service – Sanitary :
+
+Operation concerned 2 projects out of 8
+
+Minimum rate 7,54 %
+
+Maximum rate 25,35 %
+
+There are only two projects that have reused sanitary equipment 
+(Biopartner 5 and Kaysersberg). One was a toilet bowl and the other 
+a sink.
+
+On the basis of the available data, it is not possible to give a 
+relevant indicative rate.
+
+Outdoor - Surfaces :
+
+Operations concerned 3 projects out of 8
+
+Minimum rates 0,71%
+
+Maximum rate 86,47 %
+
+The materials used in this layer are concrete and asphalt slabs. 
+There are very large differences between the various projects, 
+which mainly have to do with the surfaces of the surrounding areas 
+and their scale within the projects.
+
+On the basis of the available data, it is not possible to give a 
+relevant indicative rate.
+
+41/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+Outdoor - Furnishings :
+
+Operations concerned 2 projects out of 8
+
+Minimum rate 9,30 %
+
+Maximum rate 22,20 %
+
+The rates measured here are not sufficient to infer relevant 
+indicative rates. Not only because the sample is too small, but 
+also due to the fact that the orders of magnitude vary too widely 
+between projects.
+
+Category 4 : micro-projects and demonstrators
+
+This category includes seven projects which have in common the 
+fact that they are small-scale and have set themselves the objective 
+of pushing reuse strategies to the maximum. However, there are 
+two cases in point:
+
+-	 Four of them (the ‘Chiro’ sanitary block, the VLA office, the 
+Droit & Habitat office and the ‘La Fabrique’ collection centre) 
+operate in fairly conventional contexts.
+
+-	 The other three are closer to a form of micro-architecture 
+that avoids certain constraints such as durability over time 
+(temporary structures) or accommodating certain functions (no 
+sanitary facilities, no heating installation, etc.).
+
+In any case, most of these projects achieve very high reuse rates, 
+foreshadowing strategies that may well find their way into more 
+conventional construction practices.
+
+42/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+Structure :
+
+Operations concerned 5 projects out of 7
+
+Minimum rate 1,25 %
+
+Maximum rate 100 %
+
+Average rate 78,69 %
+
+Among the five projects involved, between 93 kg and 5.2 t of 
+structural materials were reused. Compared with the quantities 
+involved in this layer in the other project categories, these figures 
+are very low.
+
+The average rate shown here is not representative.
+
+Skin :
+
+Operations concerned 5 projects out of 7
+
+Minimum rate 28,17 %
+
+Maximum rate 100 %
+
+Average rate 70,73%
+
+The materials reused in the layer are mainly plywood or rigid 
+insulation panels, external woodwork and sheet metal roofing.
+
+The average rate shown here is not representative.
+
+Space plan :
+
+Operations concerned 7 projects out of 7
+
+Minimum rate 9,70 %
+
+Maximum rate 100 %
+
+Average rate 65,30 %
+
+43/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+All the projects have reused materials in the space plan layer, in 
+quantities ranging from 50 kg to 5.6 t. The materials are varied 
+(floor coverings, wall coverings, glazed partitions, built-in cupboards 
+and interior woodwork) and, in the more permanent projects, fairly 
+representative of what can be found in the other categories.
+
+Due to the more specific projects in the sample, the average rate 
+shown here is not representative.
+
+Service - HVAC :
+
+Operations concerned 2 projects out of 7
+
+Minimum rate 4,50 %
+
+Maximum rate 28,88 %
+
+The reuse of materials here is exclusively focused on steel and cast 
+iron radiators.
+
+Service - Electricity :
+
+Operation concerned 2 projects out of 7
+
+Minimum rate 6,74 %
+
+Maximum rate 10 %
+
+An electrical panel and some spotlights and LED tubes were reused 
+in the two projects covered by this layer.
+
+Service – Sanitary :
+
+Operations concerned 5 projects out of 7
+
+Minimum rate 1,67 %
+
+Maximum rate 94,42 %
+
+Average rate 54,92 %
+
+44/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+Sinks, toilet, towel and paper holders, water tanks, faucets and grab 
+bars were reused in the various projects. Despite the larger sample 
+than for the other layers in this category, the large differences 
+between the minimum and maximum rates make the average rate 
+shown here unrepresentative.
+
+Category 5 : outdoor spaces
+
+This category includes 5 projects for outdoor development, 
+involving roadworks and, in some cases, landscaping. The projects 
+range in size from 5,000 m² to over 130,000 m². 
+
+By definition, the projects included in this category only concern the 
+three outdoor layers.
+
+Outdoor - Infrastructure :
+
+Operations concerned 1 project out of 5
+
+Rate 21,83%
+
+Only one project out of five reused infrastructure materials. In 
+this case, aggregates were reused in the Croeselaan project, 
+representing a total mass of 1,500 t (one fifth of the mass of this 
+layer). As this is the only occurrence, not only in this category but 
+also in all the projects concerned with outdoor development, this 
+rate cannot be considered representative.
+
+Outdoor - Surfaces :
+
+Operations concerned 5 projects out of 5
+
+Minimum rate 4,82 %
+
+Maximum rate 95,55 %
+
+Average rate 36,08 %
+
+45/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+All the projects have reused materials for the external surfaces. This 
+mainly involved stone, concrete and brick paving. The quantities 
+involved vary between 115 t and 2,500 t.
+
+Despite the wide variations, the average rate given here can be 
+considered a plausible target for outdoor development projects 
+that aim to reuse outdoor flooring. Indeed, there is a certain 
+homogeneity in the materials used.
+
+Outdoor - Furnishings :
+
+Operations concerned 3 projects out of 5
+
+Minimum rate 0,39 %
+
+Maximum rate 77,44%
+
+Average rate 29,67%
+
+The materials reused in this layer are bicycle racks, lighting posts 
+and a gate.
+
+Because of this wide diversity, the large differences between the 
+minimum and maximum rates and the small sample size, the 
+average rate given here is not representative.
+
+46/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+Can we extrapolate general indicative rates?
+
+One of the questions that arises from the analysis of these reuse 
+rates is whether it is possible to deduce indicative rates that could 
+be applied on a large scale for a wide range of projects.
+
+The answer to this has to be balanced
+
+In the first instance, the analysis carried out here tends to show 
+that it is difficult to generalise indicative rates for all categories 
+of projects combined (see below, chapter 4, for methodological 
+limitations). On the contrary, the analysis confirms the extent 
+to which reuse practices are highly contextual and the extent to 
+which the rates actually achieved depend on the type of project 
+(new build or renovation), the quantities of materials involved, the 
+programmes and, more broadly, the architectural choices made by 
+the designers and their clients.
+
+However, in certain layers and for certain categories of project, we 
+can see the emergence of data which present a certain plausibility 
+(despite all the biases mentioned in the course of the analysis and 
+discussed below in chapter 4).
+
+The table below shows the data that could be used as indicative 
+targets in cases close to the projects analysed. The figures in 
+parenthesis refer to assumptions that are discussed below.
+
+47/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+Cat 1 Cat 2 Cat 3 Cat 4 Cat 5 Target
+Renovations for Housing Tertiary Micro-projects Outdoor spaces
+
+social and cultural buildings  and 
+facilities demonstrators
+
+Structure / / (5 %) / / [1 - 5 %]
+
+Skin 15 % (23 %) 15 % / / [5 - 15 %]
+
+Space Plan 23 % 7 % 8 % (65 %) / [10 - 25 %]
+
+Service – HVAC / / / / /
+
+Service – Electricity / / / / /
+
+Services – Sanitary / / / / /
+
+Outdoor – / / / / /
+Infrastructure
+
+Outdoor – Surfaces (52 %) (50 %) (50 %) / 36 % [30 - 50 %]
+
+Outdoor – Furnishings / / / / /
+
+Structure
+
+Overall, the reuse of structural elements remains relatively 
+uncommon. However, it is no longer a completely unexplored terra 
+incognita. Both within the sample of 32 projects and beyond, more 
+and more projects are following this path, and impressive projects 
+are being built on a regular basis.
+
+This tendency is accompanied by a gradual structuring of working 
+methods and risk management protocols, paving the way for a 
+possible generalisation of these practices1.
+
+Our analysis shows that the reuse of structural elements often 
+involves quantities which, in absolute terms, are substantial (and 
+therefore also reductions in the environmental impact).
+
+1- See the work undertaken on the issue of insurance for the reuse of materials, as part of 
+the FCRBE project. 
+https://vb.nweurope.eu/fcrbe
+
+48/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+The structural layer, however, also tends to be very heavy 
+(particularly for new-build projects). As a result, reuse rates remain 
+relatively low – between 1 and 5% in mass if an estimated range 
+had to be given.
+
+The difference between new builds and renovations plays an 
+important role here. Most renovation projects retain the existing 
+structures and therefore manage to drastically reduce material 
+requirements.
+
+At this stage, it would undoubtedly be premature to require 
+the systematic reuse of structural elements. However, it is an 
+exemplary approach that deserves to be encouraged, and one that 
+should be considered alongside efforts to preserve the existing 
+buildings.
+
+Skin
+
+Works on building envelopes appear to lend themselves relatively 
+well to the reuse of materials. The existing market offers various 
+solutions in this respect, including wood cladding, brick facing 
+and even windows. Several projects in our sample also re-used 
+insulation materials, although these are relatively uncommon on 
+the reuse market.
+
+This layer is particularly subject to the biases inherent in the choice 
+of mass as a unit: apart from bricks, there are many rather light 
+elements – although their reuse is not intrinsically less attractive 
+than that of bricks (wood, insulation, etc.). This is an aspect that 
+should be taken into account when setting a possible reuse rate.
+
+In the context of efforts to improve energy efficiency, much of 
+the work to come will involve the building envelope. It is worth 
+encouraging the use of reused materials where the context allows. 
+As mentioned, setting an indicative rate depends very much on the 
+planned construction solution. As a guide, a range of between 5 and 
+15 % (by mass) seems achievable if the project is suitable for the 
+application of timber cladding or brick facing to a substantial part 
+of the façade. Reusing glazing - where possible - also helps to meet 
+(and even exceed) this target.
+
+49/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+Space plan
+
+Unsurprisingly, the layer space plan is the one that features in the 
+greatest number of projects. It is also the one that uses the widest 
+range of reused materials.
+
+It is also a layer that is relatively unaffected by the difference 
+between new build and renovation projects. In most cases, the 
+work involves interior finishes – although in the case of renovation, 
+it is of course possible to explore the possibility of retaining a 
+significant proportion of the original finishes in order to minimise 
+the flow of materials required for the works.
+
+Our analysis suggests indicative reuse rates within the layer space 
+plan of between 10% and 25% (by mass). This does not mean 
+that all construction projects in North West Europe could reach 
+this target overnight. Clearly, a generalisation of this target would 
+have unpredictable impacts on the reuse market. On the other 
+hand, it is not absurd to set these orders of magnitude (and even 
+more, in certain specific cases) as a reasonable target for projects 
+corresponding to those analysed here and which wish to set 
+themselves reuse objectives.
+
+Services
+
+The three layers relating to technical equipment are trickier. 
+The data collected here does not allow us to establish relevant 
+indicative rates. However, a number of interesting observations can 
+be made.
+
+In our sample, the reuse of technical equipment mainly concerns 
+visible elements (toilet bowls, washbasins, radiators, etc.) and, to 
+a lesser extent, certain machines (water heaters, ventilation units). 
+The “hidden” elements of these installations (pipes, ducts, etc.) are 
+almost never reused in our sample of projects.
+
+This makes a very big difference between renovation projects, 
+which can afford to keep some of the existing installations, and 
+those that have to install (or re-install) everything from scratch.
+
+50/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+Quantifying material flows relating to technical installations is not a 
+simple matter. It is a field in which it is complicated to find detailed 
+data. That said, the reuse of technical equipment is a subject that 
+is currently the focus of a number of research projects, suggesting 
+that such practices could become widespread in the future1.
+
+As it stands, the projects analysed demonstrate that the reuse 
+of various relatively simple technical equipment is possible and 
+deserves to be encouraged. Incentives based on something 
+other than reuse rates (in mass) would be more appropriate (e.g. 
+qualitative targets, targets expressed per piece, etc.).
+
+Outdoor – Infrastructures   
+  
+The projects analysed here seem to indicate that the reuse of 
+infrastructural layers in road and landscaping works is still very 
+uncommon. In a way, this practice tends to slide into the realm of 
+soil management – a crucial subject, but quite different from the 
+one addressed here.
+
+Outdoor – Surfaces 
+
+The figures vary greatly depending on the scale of the project. 
+There are small-scale, almost domestic, landscaping projects 
+alongside much larger-scale roadworks.
+
+However, there is a certain congruence in the data collected and in 
+the materials reused: natural stone paving blocks, concrete paving 
+blocks and terracotta paving blocks. These are materials that are 
+relatively common on the reuse market and for which there are 
+suppliers capable of delivering large quantities. They are also 
+materials that lend themselves well to reuse.
+
+For all these reasons, it is no exaggeration to formulate indicative 
+reuse rates within a range of 30% to 50% (by mass). Depending on 
+
+1- See for example Loreau, S., Stephan, A., Cooper, D. R., & Maerckx, A. (2022). “Assessing 
+material and embodied flows related to building services in office buildings - the case of 
+Brussels, Belgium”. IOP Conference Series: Earth and Environmental Science, 1122(1), 012030. 
+Et Loreau, S., Stephan, A., Cooper, D., & Maerckx, A.-L. (2022, 5-7 Oct 2022). Identifying 
+building system reuse pathways using physical reliability and technological performance metrics 
+- the case of chillers and their components. Paper presented at the International Building 
+Decarbonization Conference 2022, Athens, Greece.
+
+51/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+the specific context, this target may of course be revised upwards 
+(some projects have managed to achieve rates of over 90%) or 
+downwards (if the context poses specific constraints).
+
+Outdoor – Furnishings
+
+On the basis of the data collected through this analysis, it is not 
+possible to establish indicative reuse rates. However, the projects 
+analysed show that this is a type of application that can lend itself 
+admirably to reuse. If quantitative targets were to be set, they 
+would have to be based primarily on a contextual study.
+
+3.3 Evaluation of the environmental benefits
+
+In the 32 construction and renovation projects studied, our analysis 
+was carried out a posteriori. As a result, we did not always have all 
+the information about the exact origin of the materials reused, their 
+age or the entire process that led to their reuse.
+
+In this context, to measure the environmental benefits of reuse, it 
+seemed to us that the most relevant approach was to measure the 
+impact saved compared to the use of new materials. This approach 
+does not take into account the previous life of the material.
+
+According to the stages in the life cycle of materials as set out in 
+standard EN 15804, it can be considered that reusing a material in 
+a new construction avoids the impacts inherent in phases A1 to A3 
+(i.e. the production phases) of the life cycle of building components.
+
+In order to assess these values, we used reference values.
+
+In this case, the analysis proposed here is based on a carbon 
+database established in the context of the Label Bas Carbone 
+Rénovation (LBC). This is a French government label that provides 
+a framework for assessing the carbon impact of a renovation 
+project at every stage of its life cycle. The LBC database is based 
+on the French INIES database, which contains a growing number 
+of environmental and health declaration sheets for construction 
+
+52/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+materials and components (see box). The database used contains 
+a list of average impacts for numerous categories and families of 
+construction products (seebox).
+
+Representativeness of the INIES database
+
+The INIES database is currently the most complete library 
+of environmental declaration sheets in Europe. Although it 
+focuses on products sold in France, it covers a wider scope of 
+production. In this sense, it is representative of the scope of 
+the projects analysed here. These are located in Belgium (14), 
+France (9), the Netherlands (8) and the UK (1). An analysis of 
+the origins of the products documented in the INIES database 
+shows that these countries are also represented.
+
+The database created for the Label Bas Carbone can therefore 
+be used as a reference base to assess the impacts by category 
+or by product family. On the other hand, while the Label Bas 
+Carbone Rénovation takes the approach of encouraging reuse by 
+considering that the impacts of the entire life cycle are avoided 
+thanks to reuse, for our part we have chosen to estimate the gain 
+more realistically by considering that only the impacts of phases A1 
+to A3 are avoided thanks to the reuse of materials. These will have 
+to be installed, maintained and, if necessary, managed at the end of 
+their life in a way that is not fundamentally different from that for 
+new components.
+
+53/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+Category or equivalent product family?
+
+The Low Carbon Label database is structured on a tree 
+structure at two levels: firstly, there are categories, which 
+themselves contain families of materials.
+The categories cover general functions in construction, 
+without referring to specific materials (for example, wall 
+cladding)1. Each category contains families of products that 
+fulfil this function (for example, cement tiles). An average 
+environmental impact is assigned to each family and also to 
+each category.
+In our approach, the question therefore arose as to whether 
+the reuse of a given material was a substitute for a category 
+or a family. In practice, both scenarios can be encountered in 
+the development of construction projects.
+In the first case, the designers of a project adopt an open 
+approach and look for a reusable material likely to meet a 
+general function, without necessarily settling on a specific 
+material. They will choose a particular batch depending on the 
+opportunities available at the time. So the thinking here is at 
+the level of categories.
+In the second case, reuse is more targeted. The designers 
+have a precise idea of the material needed and try to find it 
+through various reuse channels. The thinking then shifts to 
+the product family level.
+For our analysis, as we did not necessarily have the 
+information concerning the genesis of the projects, we 
+systematically considered that the second scenario was the 
+one that applied, which today seems to be more common, 
+and therefore used the impact at product family level in our 
+estimates.
+
+1- The list of categories was established by the French legislator in Appendix 1 of the Order 
+of 23 December 2013 on the environmental declaration of construction and decoration 
+products intended for use in building works.
+
+54/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Results
+
+Calculation steps :
+
+To estimate the carbon avoided in the projects studied, we 
+implemented the following approach:
+
+-	 Step 1: Based on a detailed survey of the materials 
+reused in the 32 projects in the corpus, identification of the 
+corresponding product families in the LBC database.
+
+-	 Step 2: calculation of greenhouse gas emissions in phases 
+A1 - A3 for these product families.
+
+-	 Step 3: search for additional data for families not listed in the 
+LBC method (INIES, ADEME databases or other international 
+sources).
+
+-	 Step 4: conversion of the quantities calculated into 
+functional units.
+
+-	 Step 5: calculation of the total carbon impact avoided.
+
+The environmental benefits of reuse are measured in the detailed 
+project sheets. It is expressed in kilograms of carbon equivalent 
+corresponding to the quantities involved in each project. We 
+have expressed these figures as negative values: the minus sign 
+expresses the emissions avoided thanks to reuse.
+
+For some materials, we have not found sufficiently reliable data. For 
+these, we have not provided any information.
+
+In the case of certain wood components, the sum of greenhouse 
+gas emissions during phases A1-A3 can lead to negative results. 
+This is because some LCAs take into account the carbon absorbed 
+by the metabolism of trees and plants through photosynthesis 
+(known as biogenic carbon). In some cases, the biogenic carbon 
+contained in the wood is greater than the carbon equivalent 
+emissions linked to its production. 
+
+55/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+The result is a ‘negative’ contribution to this specific impact and 
+to these phases of the life cycle. In our approach based on the 
+principle of substitution (measuring avoided emissions), these data 
+were difficult to interpret: how could we represent the avoidance 
+of negative emissions? To avoid this, we used a simplified formula 
+to extract from the impact calculation the biogenic carbon 
+corresponding to the quantities of wood involved1.
+
+1- For the sake of simplicity in this analysis carried out after the projects have been 
+completed, we are using a default biogenic carbon content for all types of wood, provided by 
+standard NF EN 16449 (2014), which gives an associated CO2 capture rate of 1.637kg.CO2/kg.
+
+56/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+4. DISCUSSIONS 
+
+This section presents the limitations and biases inherent in our 
+approach.
+
+4.1  Size of the sample
+
+Our sample (32 projects analysed) remains relatively limited. This 
+makes our results less representative, particularly for certain layers 
+in which very few projects incorporated reused elements.
+
+This limitation stems from the time and resources available to us 
+when carrying out this analysis. In the future, we are optimistic that 
+more and more projects will adopt the habit of monitoring and 
+reporting on their reuse efforts in order to gradually add to the 
+collection of available case studies.
+
+Carrying out a retrospective analysis of projects in which we have 
+not participated undoubtedly requires more time and research 
+than following a project “live”, as it progresses and with direct 
+access to the relevant data.
+
+57/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+4.2 Pioneering projects
+Although we have chosen projects with the potential for replication 
+rather than those that are highly experimental, these 32 projects all 
+have a remarkable and/or innovative character precisely because 
+they have chosen to reuse materials.
+
+Seen from a broader perspective, and despite increasingly 
+significant efforts to encourage reuse, the vast majority of the 
+construction industry continues not to reuse materials.
+
+As it stands, this bias is unavoidable. It is to be hoped that it will 
+fade with time and with a gradual increase in the adoption of reuse 
+practices.
+
+4.3  Assumptions and extrapolations
+
+The calculation of the mass of the elements and materials has 
+been carried out with the utmost care and a high level of precision, 
+based on the maximum available data. However, due to the lack of 
+precise information for certain elements, we were forced to make 
+assumptions and make extrapolations that could weaken the final 
+results somewhat.
+
+This situation largely stems from the retrospective (ex post) 
+dimension of our analysis. We met a series of obstacles to access 
+the information: lack of responsiveness of the organisations who 
+were involved in the projects, information lost or difficult to access, 
+and so on.
+
+In an ideal world, each material used on a construction site 
+would be duly identified, recorded (and weighed!) before being 
+implemented. Similarly, each element leaving the construction site 
+would also be identified and quantified. Such monitoring would 
+undoubtedly be tedious to implement, but it would allow the 
+automatic and precise calculation of the reuse and reclamation 
+rates actually achieved.
+
+More realistically, the calculation of the reuse rates can be 
+anticipated from the start of the project, and more particularly 
+
+58/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Discussions
+
+when the bill of quantities is drawn up. The calculation of the 
+reclamation rate can, for its part, be established on the basis of 
+slips used for waste management and a meticulous listing of the 
+reclaimed elements (which can, if necessary, be based on a prior 
+inventory of reusable materials).
+
+4.4 Be cautious with indicators
+
+The reuse rate is an indicator that can, up to a certain point, 
+account for the efforts undertaken or expected in terms of reusing 
+materials. This is an approach that aims to be relatively simple and 
+homogeneous but which, in no case, can claim to account for all the 
+dimensions inherent in reuse.
+
+Reuse cannot be reduced to a question of quantity. It is an 
+approach that carries with it cultural, social, economic and 
+environmental dimensions, which are equally, if not more, 
+significant than a purely quantitative aspect. These dimensions are 
+not always easily measurable or quantifiable. In this respect, the 
+reuse rate can be a practical proxy, likely to give general indications 
+with relatively light monitoring efforts. However, it is important not 
+to make it an end in itself, at the risk of losing important aspects of 
+reuse practices.
+
+In the same vein, the reuse rate is only one facet of circularity 
+efforts. This should not be used as an excuse to ignore other 
+important aspects (in particular the preservation rate of existing 
+buildings!).
+
+59/71
+
+
+
+
+
+
+5. CONCLUSION
+
+Reporting on the reuse rates achieved in various projects is a 
+practice that deserves to be encouraged more widely. This would 
+create a positive emulation and allow progress to be monitored 
+over time at various levels (within an architectural firm, a 
+construction company, a city, a region or even a given country).
+
+To achieve this, however, we need to ensure that the approach 
+adopted is harmonised and consistent. If each project owner, 
+architect or design office uses its own calculation method, with 
+definitions that are too different, all these accounting efforts will 
+be of little use, as they will not make it possible to compare the 
+different results.
+
+In this respect, public authorities can play an important role by 
+establishing common frameworks and harmonised measures. 
+
+This document - and the other sections to which it refers - is 
+intended to make a contribution in this direction.
+
+61/71
+
+
+
+
+
+
+APPENDIX 1: 
+DETAILS 
+EXPLANATION OF 
+THE ASSUMPTIONS
+
+As explained previously (see chapter 1 and 2 of this document), to 
+calculate the mass of the elements and materials, we relied on the 
+following elements (in order of preference):
+
+1.	Technical data sheets for materials specific to the project.
+
+2.	Reference databases.
+
+3.	Specific assumptions.
+
+In this appendix, we describe in detail the reference databases 
+used and the specific assumptions we made. This analytical work 
+constantly required us to make micro-decisions, to arbitrate 
+between several choices, to formulate hypotheses and then to 
+remain consistent with them. Here are the details of our choices.
+
+63/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+1. Reference database
+
+1.1 ICE et KBOB
+
+We mainly used two databases: (1) The Inventory of Carbon and 
+Energy (also known as the ICE database) and (2) the Ecobalance Data 
+Platform from KBOB/ecobau construction1.
+
+The ICE database was created by Dr Craig Jones when he was a 
+research scientist at the University of Bath (UK) and worked for 
+Professor Geoff Hammond in the research team on Sustainable 
+Energy (SERT). It is freely accessible and frequently updated by 
+Circular Ecology, an environmental consultancy spin-off from the 
+university. It contains data on over 200 materials, divided into more 
+than 30 main categories.
+
+The LCA data platform for the construction industry is a Swiss 
+database set up by KBOB. Its aim is to present up-to-date and 
+nationally relevant information on construction materials, technical 
+building equipment, energy systems and means of transport.
+
+By combining these two databases, we had data on the density of 
+more than 500 building materials, which were used to calculate the 
+mass of homogeneous elements. For certain very specific materials, 
+we had to look for this data in more specific sources (for certain 
+wood species or certain local stone varieties, for example, for which 
+we generally found the information in the technical documentation 
+drawn up by the concerned federations).
+
+1.2  Internal database and unit masses
+
+For composite materials and/or materials whose volume is complex 
+to measure (e.g. of sanitary equipment, electrical appliances, 
+ventilation machines, etc.), we used unit masses.
+
+Unlike data relating to density, unit masses do not seem to be 
+systematically included in reference databases. We therefore built 
+
+1- KBOB (Conference for the coordination of construction and building services of public 
+contracting authorities of the Swiss Confederation). Data from life cycle assessments in 
+construction - 2016
+
+64/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Appendix 1: details explanation of the assumptions
+
+our own database as the analysis progressed by compiling data 
+from technical data sheets for materials similar to those present in 
+the analysed projects1.
+
+2. Specific assumptions
+
+Despite the precision of the databases used, in some cases, the 
+calculation of the mass of an element or an assembly of materials 
+requires making assumptions. For example, while it is relatively 
+easy to find the density and the dimensions of a brick in order to 
+calculate its mass, it is not easy to know the thickness of mortar 
+used to assemble these bricks. However, this information is crucial 
+when it comes to accurately calculating the reuse rate in a brick 
+wall. The thickness of the joints is sometimes mentioned in the 
+specifications of the works. If this information was available, we 
+used it. Otherwise, we made assumptions and established internal 
+rules to be consistent between projects. The following section 
+presents the main rules of thumb used for our analysis.
+
+2.1 Conservative calculations
+
+As a general rule, when we had several different values for a 
+material or element, whether in terms of density or unit weight, 
+we either averaged the different values or gave priority to the least 
+advantageous values (i.e. those that tended to reduce the reuse 
+rate). In this way, we ensured that we did not overestimate the 
+reuse rates we were calculating.
+
+2.2 Calculation of the mortar in the case of a 
+brick wall
+
+Let’s go back to the example of the brick wall. When we did not 
+have access to the specific thickness of mortar used in a project, we 
+then used a reference thickness: 0.012 m (12 mm).
+
+It is the reference thickness used by the Belgian tool Totem (Tool 
+to Optimise the Total Environmental impact of Materials). Using the 
+dimensions of the bricks, we could deduce the brick-to-mortar ratio 
+
+1- Database available on demand.
+
+65/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+of the wall to calculate the mass of each elements. Since the mortar 
+is always new, a wall made entirely of reused bricks will therefore 
+never be 100% reused. In general, the mortar represents 20 to 30% 
+of the surface of a brick wall, which is not negligible.
+
+2.3  Calculation of the martyr in the case of 
+stone pavers
+
+For natural stone pavers, we factored in the mortar between 
+the pavers and the screed just below the pavers, which are both 
+necessary for the sound layout of the material.
+
+When we could not find the mortar-to-paver ratio in the available 
+documentation, we used this generic value: 80% of pavers for 20% 
+of mortar (on the surface).
+
+This value is based on one of the projects we analysed (Caserne 
+of Mellinet) and for which we could access specific data. It allowed 
+us to estimate that the ratio was somewhere between 80/20 and 
+90/10. Following our conservative approach, we adopted the 
+80/20 value as a rule of thumb for the other projects when this 
+information was unavailable.
+
+For what concerns the mortar beneath the pavers, we used a 
+generic value of 3 cm (using data from Totem).
+
+2.4  Simplified calculation for the windows’ 
+mass
+
+To calculate the mass of certain windows, we have used a simplified 
+approach which only takes into account the glass and not the 
+frame. The mass of the frame can in fact be considered negligible in 
+certain cases meeting the following conditions: 
+
+-	 Double-glazed windows.
+
+-	 Wooden or aluminium frames (not applicable to PVC).
+
+-	 Relatively standard dimensions where the frame represents 
+no more than 30% of the total surface area of the window.
+
+66/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Appendix 1: details explanation of the assumptions
+
+In the case responding to these conditions (and for which we had 
+no access to more specific data), we used the following reference 
+values :
+
+-	 Security glass = 35 kg/m².
+
+-	 Standard double-glazed windows (non-secured) = 20 kg/m².
+
+2.5 Assessment of the mass of equipment 
+(sanitary, HVAC, electricity)
+
+The layers relating to the various building equipment are those for 
+which we generally had little information and precise data. They 
+also proved the most time-consuming to calculate, as they are 
+made up of a vast array of very specific elements.
+
+Where data was lacking, too incomplete or too imprecise, we used 
+a very simplified calculation based on reference values. These 
+values come from the scientific literature on the carbon impact of 
+service installations in the United States, more specifically in new 
+office buildings1. In this type of building, the authors estimated that 
+heating and ventilation installations weighed on average 13 kg/m², 
+electrical installations 4 kg/m² and sanitary installations 3 kg/m².
+
+However, care must be taken when using these estimates, 
+particularly in the context of renovation projects: these values 
+calculate all the service installations, whereas in a light renovation, 
+for example, a significant proportion of the elements are often 
+retained. The use of these estimates in this type of project to 
+calculate flows in is therefore imprecise, and we have not applied 
+it in such cases. Likewise, this formula is probably not suitable for 
+other context.
+
+2.6  Table of the elements per layer 
+
+Defining which layer each element belongs to is not always easy, 
+and while for some elements this is quite obvious, for others two 
+or more layers may be appropriate according to interpretations. So 
+
+1- Rodriguez B. X. & Alberti M. (2019). Embodied carbon of heating ventilation air conditioning 
+and refrigerants (hvac r) systems. Dissertation at the University of Washington Libraries.
+
+67/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+we have made choices, often on a case-by-case basis, depending on 
+the specifics of the project.
+
+The reader will find below a table detailing to which layer we usually 
+attributed discussable elements.
+
+68/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Appendix 1: details explanation of the assumptions
+
+Layer Element Notes
+01. Structure
+01. Structure Beams
+01. Structure Columns
+01. Structure Load-bearing walls
+01. Structure Foundations
+01. Structure Floor slabs
+01. Structure Joists
+01. Structure Window and door lintels
+01. Structure Retaining walls
+01. Structure Poured concrete stairs
+01. Structure Bridge structure
+01. Structure Structure of terraces/patios
+01. Structure Load-bearing brick walls Including mortar
+02. Skin
+02. Skin Facade material
+02. Skin Facade structure
+02. Skin Insulation If part of exterior wall. If part of interior partitions, count as space plan
+02. Skin Exterior doors
+02. Skin Exterior windows
+02. Skin Exterior window sills
+02. Skin Outdoor motorized sunscreen
+02. Skin Roof cladding
+02. Skin Underlay
+02. Skin Rainwater pipes
+02. Skin Insulation/sealing between building and ground
+02. Skin Balcony structure and finishes
+02. Skin Awnings and their structure Structure supporting only the element itself
+02. Skin External glass railing
+02. Skin Brick cladding Including mortar
+03.01 Services - HVAC
+03.01 Services - HVAC Ventilation systems
+03.01 Services - HVAC Radiators
+03.02 Services - Electricity
+03.02 Services - Electricity Electrical cables
+03.02 Services - Electricity Electrical panels
+03.02 Services - Electricity Outlets
+03.02 Services - Electricity Electrical applicances
+03.02 Services - Electricity Kitchen appliances
+03.02 Services - Electricity Fixed lighting fixtures
+03.02 Services - Electricity Fixed fire equipment
+03.02 Services - Electricity Fixed fire alarms
+03.02 Services - Electricity CO2 detector
+03.02 Services - Electricity Security equipment
+03.02 Services - Electricity Security alarms
+03.02 Services - Electricity Security cameras
+03.03 Services - Sanitary/Plumbing
+03.01 Services - Sanitary/Plumbing Toilets
+03.01 Services - Sanitary/Plumbing Bathroom sinks
+03.01 Services - Sanitary/Plumbing Bathtubs and showers
+03.01 Services - Sanitary/Plumbing Grab bars
+03.01 Services - Sanitary/Plumbing Water pipes
+03.01 Services - Sanitary/Plumbing Kitchen sink
+03.01 Services - Sanitary/Plumbing Water tanks Even if outdoors, since they are an extension of the sanitary system
+03.01 Services - Sanitary/Plumbing Pipes Outdoor extension of the sanitary system
+04. Space Plan
+04. Space Plan Non-load bearing walls and partitions Including any structure within that assembly
+04. Space Plan Glass partitions
+04. Space Plan Interior windows
+04. Space Plan Interior doors
+04. Space Plan Flooring materials Including underflooring, screed, and other floor supporting structure
+04. Space Plan Baseboards
+04. Space Plan Railings
+04. Space Plan Drop ceilings
+04. Space Plan Acoustic panels
+
+69/71
+
+
+
+Ex-post analysis of 32 construction and renovation works
+
+Layer Element Notes
+04. Space Plan Service hatches
+04. Space Plan Partitions that cover service ducts "Gaine technique" if they are have wood or plasterboard lining
+04. Space Plan Fixed or built-in furniture
+04. Space Plan Shelves, cabinets, millwork
+04. Space Plan Closet doors
+04. Space Plan Mailboxes
+04. Space Plan Baby changing tables
+04. Space Plan Kitchen cabinets
+04. Space Plan Kitchen islands
+04. Space Plan Kitchen countertops
+04. Space Plan Plaster If it is thicker than 0.5 cm and considered a finish on its own
+04. Space Plan Fixed mirrors
+04. Space Plan Interior stairs If they are not poured concrete
+04. Space Plan External staircases Can be evaluated on a case by case basis
+05. Outdoor - Infrastructure
+05. Outdoor - Infrastructure Retaining walls
+05. Outdoor - Infrastructure Road works (underneath the asphalt surface)
+05. Outdoor - Infrastructure External wall foundations
+05. Outdoor - Infrastructure Fence foundations
+05. Outdoor - Infrastructure Sand or soil supporting any pavers or paths
+05. Outdoor - Infrastructure Underground networks of pipes
+05. Outdoor - Infrastructure Valves
+05. Outdoor - Infrastructure Manhole covers
+05. Outdoor - Infrastructure Meshes
+05. Outdoor - Infrastructure Grills
+05. Outdoor - Infrastructure Water meters
+05. Outdoor - Infrastructure Electrical meters
+05. Outdoor - Infrastructure Control boxes
+05. Outdoor - Infrastructure Inspection chamber
+05. Outdoor - Infrastructure Topsoil Underneath the humus layer
+06. Outdoor - Surfaces
+06. Outdoor - Surfaces Road surfaces (ex: asphalt)
+06. Outdoor - Surfaces Mulch, gravel, or pavers used to mark areas
+06. Outdoor - Surfaces Mulch, gravel used as planting areas
+06. Outdoor - Surfaces Exterior stairs If bearing on the ground
+06. Outdoor - Surfaces Terraces, patios Can be evaluated on a case by case basis
+06. Outdoor - Surfaces Pavers Including the mortar in between them and the layer of mortar below them
+07. Outdoor - Furnishings
+07. Outdoor - Furnishings Fences
+07. Outdoor - Furnishings Gates
+07. Outdoor - Furnishings Guardrails
+07. Outdoor - Furnishings Sprinklers
+07. Outdoor - Furnishings Water fountains
+07. Outdoor - Furnishings Bike racks
+07. Outdoor - Furnishings Playground and gym equipment
+07. Outdoor - Furnishings Sculptures
+07. Outdoor - Furnishings Billboards
+07. Outdoor - Furnishings Benches, tables, other fixed outdoor furniture
+07. Outdoor - Furnishings Tree trellises and supports
+Exclusions
+We are not including a “site” layer. Instead, we are breaking up anything that has to do with site into the three categories in sections 05, 06, 07.
+
+We are not including: 
+- Loose furniture including loose lighting fixtures
+- Paints, primers, varnishes, and other surface finishes thinner than 0.5 cm
+- Plants and trees
+- Signage
+- Elevators
+
+FR
+Nous n'incluons pas de layer "site". En revanche, nous répartissons tout ce qui a trait au site dans les trois catégories des sections 05, 06 et 07.
+
+Nous n'incluons pas : 
+- Les meubles, sauf s'ils sont fixes, y compris les appareils d'éclairage, sauf s'ils sont encastrés
+- Les peintures, vernis et autres finitions de surface d'une épaisseur inférieure à 0,5 cm.
+- Les plantes et les arbres
+- La signalétique
+- Les ascenseurs
+
+70/71 FACILITATING THE CIRCULATION OF RECLAIMED BUILDUING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+Appendix 1: details explanation of the assumptions
+
+71/71

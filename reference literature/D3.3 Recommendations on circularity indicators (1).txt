@@ -1,0 +1,4293 @@
+﻿Deliverable D3.3 Recommendations on circularity indicators for 
+WP8 
+
+Grant Agreement No 821201 
+
+Project Acronym CIRCuIT 
+
+Project Title Circular Construction in Regenerative Cities 
+
+Contractual delivery date 31January 2021 [M20] 
+
+Actual submission date 31January 2021 
+
+Dissemination level Public  
+
+Work Package WP3 
+
+Author(s) Ben Cartwright, Flavie Lowres, Eleanor Turner and Gilli 
+Hobbs with direct input from 
+Marco Abis, Rune Andersen, Janus Bromisch, Andrea 
+Charlson, Tiina Haaspuro, Antony Maubach-Howard, 
+Petra Pikkarainen, Vasiliki Savvilotidou, Henna 
+Teerihalme, Daniel Antony van Peer, Andy Watts  
+as well as support from other CIRCuIT partners. 
+
+Quality assured by Martin Tilsted  
+
+Approved by Mette Skovgaard 
+
+Abstract Effective circular economy indicators allow actors to 
+measure the circularity of their activities, target 
+opportunities for improvement, and communicate their 
+circular economy actions in a consistent and 
+comparable way. This report presents the results of a 
+research programme, which intended to develop 
+indicators at the level of materials, buildings and cities.  
+ 
+An initial review identified around 510 existing indicators 
+within the extant literature, representing sources from 
+the four CIRCuIT cities and internationally. A process of 
+indicator development and prioritisation was then 
+conducted, resulting in a list of recommended indicators 
+including 10 at city-level, 13 at building-level and 11 at 
+material-/product-/component-level. In addition, a 
+number of enablers were identified as being useful to 
+drive the circular economy process. These indicators 
+will assist, at the municipal level in supporting evidence-
+based policy and planning development, and decision-
+making to support circularity of material flows within 
+buildings and throughout material lifecycles. They can 
+be used to inform measurement of the environmental, 
+economic and social impact of circular economy 
+decisions and validate their benefits (or not) using LCA 
+(Life Cycle Assessment), LCC (Life Cycle Costing) and 
+social approaches.  
+
+  
+
+1 
+ 
+
+
+
+ 
+
+Table of Contents 
+
+Executive Summary ............................................................................................................ 3 
+
+1 Introduction .................................................................................................................... 5 
+
+1.1 The purpose and structure of this report ........................................................... 5 
+
+1.2 General introduction ......................................................................................... 5 
+
+1.3 The role of indicators ........................................................................................ 6 
+
+2 Methodology for the development of circular economy indicators ............................ 8 
+
+Step 1: Literature review .............................................................................................. 8 
+
+Step 2: Initial selection, grouping and refinement of indicators ................................... 10 
+
+Step 3: Stakeholder engagement ............................................................................... 11 
+
+Step 4: Prioritisation and recommendations for indicators .......................................... 15 
+
+3 Findings ........................................................................................................................ 16 
+
+3.1 Key findings from Step 1: Literature review..................................................... 16 
+
+ General information .................................................................................... 16 
+
+ Scale and scope ......................................................................................... 16 
+
+ Sources ...................................................................................................... 16 
+
+ Content ...................................................................................................... 16 
+
+ Structure and data application .................................................................... 17 
+
+ Standardisation and comparability .............................................................. 18 
+
+3.2 Key findings from Step 2: Initial selection, grouping and refinement ............... 18 
+
+3.3 Key findings from Step 3: Stakeholder engagement ....................................... 34 
+
+ City-level workshop summary ..................................................................... 34 
+
+ Building-level workshop summary .............................................................. 35 
+
+ Materials/products/components-level workshop summary .......................... 35 
+
+4 Key findings from Step 4: Finalised list of indicators ................................................ 36 
+
+5 Summary and next steps ............................................................................................. 48 
+
+Annex 1: Feedback from stakeholder workshops .......................................................... 50 
+
+ 
+ 
+
+  
+
+2 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+Executive Summary 
+
+Overview 
+
+This report summarises the work done in CIRCuIT Task 3.2 “Development of circularity 
+
+indicators”. It provides an overview of the methodology carried out to establish a set of 
+
+indicators based upon a comprehensive literature review, incorporating the needs of the 
+
+CIRCuIT project, the findings of D3.2, and stakeholder engagement. A list of recommended 
+
+indicators is then provided, designed for use by a range of actor groups with influence over 
+
+the circularity of built environment material flows. These are to be considered for eventual 
+
+inclusion in the City Circularity Dashboard (CIRCuIT Task 8.5), as well as certain other tasks 
+
+within CIRCuIT via integration into the Data Templates (Task 3.3) and Data Frameworks 
+
+(Task 3.4). 
+
+Methodology 
+
+The list of recommended list includes indicators developed to measure circularity at the level 
+
+of city, building and materials/products/components. The final list was compiled following a 
+
+process in four steps:  
+
+• Step 1: Literature review - A literature review was carried out covering the UK, 
+
+Denmark, Germany, Finland, the EU and, to some extent, beyond the EU to identify 
+
+indicators linked to the CIRCuIT focus areas or indices (urban mining index, lifespan 
+
+index and circular design index).  
+
+• Step 2: Initial selection, grouping and refinement of indicators - Using the literature 
+
+review described in Step 1 a desk-based study was carried out to develop a 
+
+rationalised list of indicators grouped according to lifecycle stage categories from 
+
+cradle to grave.  
+
+• Step 3: Stakeholder engagement – Following the rationalisation and grouping of 
+
+indicators, the refined set were used as the basis for discussions with invited 
+
+stakeholders in a series of workshops within each CIRCuIT city cluster.  
+
+• Step 4: Prioritisation and recommendations for indicators – Following Steps 1 to 3, 
+
+final prioritisation exercise was carried out to develop a shortlist of recommended 
+
+indicators. This activity took into account the findings from the initial definition of 
+
+useful indicators identified through the literature review, the initial grouping and 
+
+refinement process, and a review of feedback from the stakeholder workshops. The 
+
+Step 4 prioritisation also took into account the potential for indicators to contribute 
+
+towards a set of ‘use cases’ for circular economy action developed concurrently 
+
+within CIRCuIT Task 3.1. 
+
+3 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+Finally, the prioritisation also classified indicators as either ‘Core’ or ‘Aspirational’. Core 
+
+indicators were those for which there exists a known methodology through which to calculate 
+
+performance against the indicator, and the data necessary for the indicator is available. 
+
+The resulting shortlist of recommended indicators also presented information on the 
+
+attributes of the indicators, including: 
+
+• A description of the indicator 
+
+• The measurement (where possible) and units of the indicator  
+
+• Relevant stakeholder/user of the indicator  
+
+Findings  
+
+Approximately 510 indicators were identified, emerging from all geographic areas and 
+
+covering many lifecycle stages and focal aspects of materials, products, buildings and cities 
+
+with regard to the circular economy.  
+
+Through the process of prioritisation described above the list was consolidated and refined. 
+
+The final recommended list of indicators included 10 circular economy indicators at city level, 
+
+13 at building level and 11 at material/product/component level. Through the process of 
+
+identification of these indicators, it also became apparent that some enabling factors would 
+
+be necessary to drive the circular economy process, which were separately recommended 
+
+as “enablers”.  
+
+These indicators will be recommended for further evaluation to enable possible integration in 
+
+the Circularity Dashboard. 
+
+Next steps 
+
+The main next task will involve further refinement of the recommended list of indicators in 
+
+order to define the set of indicators to include in the Circularity Dashboard (Task 8.5). While 
+
+the dashboard is aimed to be used at city level, a review of the building- and material-
+
+/product-/component-level indicators will be reviewed as they enable the calculation of city 
+
+level indicators when aiding with the capture of data to be aggregated. Additionally, the 
+
+recommendations presented in this report will be combined with the recommendations from 
+
+Deliverable D3.2 to determine the data to be captured via CIRCuIT Tasks 3.3 (Data 
+
+Templates) and 3.4 (Data frameworks) to support and monitor the circularity of activities 
+
+across the CIRCuIT project; this will involve close collaboration with partners across 
+
+CIRCuIT.  
+
+  
+
+4 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+1 Introduction 
+
+1.1 The purpose and structure of this report 
+
+The aim of this report is to summarise the work done in Task 3.2 “Development of circularity 
+
+indicators”. It provides an overview of the methodology carried out to establish a set of 
+
+indicators based upon a comprehensive literature review, incorporating the needs of the 
+
+CIRCuIT project, the findings of D3.2, and stakeholder engagement. A list of recommended 
+
+indicators at city, building and materials/products level is then provided, presenting a mix of 
+
+impact metrics (e.g. recycled content, material use), productivity metrics (e.g. per value, 
+
+area) and enabler metrics (e.g. number of projects with circular economy requirements) for 
+
+inclusion in the Dashboard for Circularity Indicators (Task 8.5). Each indicator in the final 
+
+recommended list is further described in a form that can be easily used by stakeholders and 
+
+will provide guidance on the type of indicators that can be used depending on the data 
+
+availability, their purpose, how they can be measured, monitored and reported and whom by 
+
+and the benefits of using them.  
+
+1.2 General introduction 
+
+While substantial social and economic gains are made possible by urban lifestyles and 
+
+economies, the enormous degree of material consumption currently required to do so 
+
+contributes to the unsustainable degradation of the Earth’s natural systems, limiting their 
+
+capacity to deliver essential ecosystem services that support society. In the long term, this 
+
+trend will counteract any social and economic achievements. Moreover, there are large 
+
+inefficiencies inherent to the existing delivery of societal benefits, presenting great potential 
+
+to unlock additional benefits. 
+
+It is now widely understood that a key factor limiting or promoting the efficient and 
+
+sustainable extraction of value is the structure of the economy. In a linear economy, the 
+
+current standard model, the material resources that are used in a city or region’s built 
+
+environments are generally extracted from a remote hinterland before travelling via the 
+
+supply chain to where they serve their purpose as material stocks within built assets, before 
+
+being removed and disposed of when the asset or product that contains the material comes 
+
+to the end of its useful life.  
+
+The concept of the circular economy seeks to mitigate these issues by ensuring that 
+
+maximal social and economic value is extracted from each unit of resource used by a society 
+
+and by reducing the overall demand for resources, whilst minimising the negative impacts 
+
+(e.g. on the environment) of those resources that are used.  
+
+CIRCuIT is a Horizon 2020 funded project which aims to support the creation of regenerative 
+
+cities by promoting and implementing circular construction approaches. Running from 2019-
+
+5 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+2023, it brings together 29 ambitious partners from Copenhagen, London, Hamburg, and the 
+
+Helsinki region working across the entire built environment value chain who will work 
+
+collaboratively to enhance knowledge-and resource-sharing and uptake of the results. To 
+
+bridge the gap between theory, practice, and policy, the consortium will deliver a series of 
+
+demonstrations, case studies, events, training sessions, and other dissemination activities 
+
+that showcase the possibilities of circular, regenerative built environments. Overarching 
+
+objectives are: to increase the regenerative capacity in the four cities; to reduce the yearly 
+
+consumption of virgin raw materials by 20% in new built environments; and to show cost 
+
+savings of 15%. The project will implement innovative solutions focussed on the following 
+
+areas: 
+
+• Urban mining and reverse cycles (dismantling buildings to re-use and recycling of 
+
+materials); 
+
+• Extending building life through transformation and refurbishment; 
+
+• Designing for disassembly and flexible construction.  
+
+The overall objective of WP3 is to develop a consistent and comprehensive approach to data 
+
+collection, analysis and management in order to support the demonstrators and to enable 
+
+the aim for moving the concept of buildings as material banks into a city scale understanding 
+
+and implementation. Task 3.2 focuses on the development of circularity indicators based on 
+
+the findings of Task 3.1. The robust and concise list of indicators will provide an overview of 
+
+circularity at a city, building and material level. The indicators are to be a mix of impact 
+
+metrics (e.g. recycled content, material use), productivity metrics (e.g. per value, area) and 
+
+enabler metrics (e.g. number of projects with circular economy requirements). Additionally, 
+
+reflecting the CIRCuIT focus areas listed above, they are categorised into three indices: the 
+
+urban mining index, lifespan index and circular design index (see Methodology – Step 2 for 
+
+definition).  
+
+These indicators will assist, at the municipal level in supporting evidence-based policy and 
+
+planning development, and decision-making to support circularity of material flows within 
+
+buildings and throughout material lifecycles. In addition, these indicators can be used to 
+
+inform measurement of the environmental, economic and social impact of circular economy 
+
+decisions and validate their benefits (or not) using LCA (Life Cycle Assessment), LCC (Life 
+
+Cycle Costing) and social approaches.  
+
+1.3 The role of indicators 
+
+An indicator is considered within this research to be a piece of information that an actor (for 
+
+definition, see footnotes in Methodology Step 2) can use to measure performance and guide 
+
+their decision-making to enable a circular economy. 
+
+6 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+Effective indicators allow such actors to know what they should measure and how and 
+
+should enable the industry to communicate their circular economy actions in a consistent 
+
+way. Indicators can support tools used by organisations in identifying additional and circular 
+
+value from their products; they can enable manufacturers to mitigate risks from material 
+
+price volatility and material supply when combined with other actions; and, they can allow 
+
+policymakers to design optimal interventions to promote circularity of built environment 
+
+material flows. Indicators, sometimes also referred to as metrics, have a key role in enabling 
+
+the supply chain to understand levels of performance that are achievable and to set 
+
+targets/benchmark to drive and track improvements. An example is the dashboard created 
+
+by the Construction Leadership Council in the UK1, which provides the industry baseline for 
+
+comparisons of their performances.  
+
+  
+
+ 
+1 New CLC Smart Construction Dashboard Published » Construction Leadership Council 
+
+7 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+2 Methodology for the development of circular economy indicators 
+
+Step 1: Literature review 
+
+A literature review was carried out covering the UK, Denmark, Germany, Finland, the EU 
+
+and, to some extent, beyond the EU to identify indicators linked to the CIRCuIT focus areas 
+
+or indices (urban mining index, lifespan index and circular design index).  
+
+A semi-systematic approach was taken to the literature review, since the disaggregated and 
+
+multi-disciplinary nature of the literature on indicators, as well as the need for overly broad 
+
+eligibility criteria, were judged to prohibit a systematic protocol. Partners from each CIRCuIT 
+
+city cluster (led by: DTU, TUHH, BRE and HSY) were instructed to conduct a review of the 
+
+literature on indicators for the circularity of materials, products, buildings, cities and 
+
+regions/economies2.  
+
+The sources to be included within the literature review included:  
+
+1. Known sources (i.e. that the researchers were aware of already) 
+
+2. Academic publications 
+
+3. Government resources (whether municipal, national or international) 
+
+4. Standards and guidance 
+
+5. Grey literature (including research reports, think pieces etc.) 
+
+As well as literature, it was also recommended that the researchers consult relevant 
+
+stakeholders in, for example, local government or academic institutions. 
+
+Additionally, any identified indicators were to be classed according to whether they would fit 
+
+into one (or more) of three indices: 
+
+• Urban Mining Index – Indicators that allow measurement of the degree of secondary 
+
+resource use through reuse/recycling in existing materials, products, buildings and cities. 
+
+• Lifespan Index – Indicators that allow measurement of the lifespans, efficiency of use 
+
+and potential for lifespan extension of existing materials, products, buildings and cities.  
+
+• Circular Design Index – Indicators that allow measurement of how cities, buildings, and 
+
+products have incorporated designs and principles in new construction, that facilitate the 
+
+lifespan extension and reclamation of materials after their use cycle within buildings and 
+
+products. 
+
+ 
+2 NB the rationale for including indicators that covered regions and economies was that they would 
+follow similar organisational principles to those of cities. 
+
+8 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+For each indicator identified through the research process, the information shown in Table 1, 
+
+below, was provided. 
+
+Table 1 Structure of the data collection template sent to the partners 
+
+Indicator Provide a name for the indicator. This can be the original name given by the 
+authors or, if the original is unclear, you can create your own. It should be as 
+succinct and accurate as possible. 
+
+Level of mandate Level 3 Recommendations from academic papers, white papers and 
+other research/conceptual work; 
+
+Level 2 Voluntary industry reporting + initiatives, government and 
+industry ambitions (including proposed policies); 
+
+Level 1 Mandatory policies and regulations. 
+
+Description Describe the indicator in more detail. This may be direct quotes from the 
+original source describing the indicator, or it may be your own description. 
+
+Source details Where possible, provide the author, date and country of the relevant source. 
+If possible, hyperlink a URL to the cell. 
+
+Calculation method How is performance on the indicator calculated? For example, what 
+methodology is being used, what are the equations? Alternatively, provide a 
+brief description.  
+
+Data requirements What data is required to perform the calculations for the indicator? 
+
+Metric What units are used to report performance on the indicator? 
+
+Benchmarks/targets Indicate whether there are either benchmarks (baselines for performance 
+against this particular indicator) and/or targets (threshold levels to reach for 
+the indicator). In case of 'yes', please provide brief details if possible. 
+
+Comments box Please briefly provide rationale for why the indicator has been classified as 
+the type 
+
+Demonstrate which Index the indicator is relevant to. Some indicators will 
+cut across more than one of the indices, for example use of reclaimed bricks 
+in a new building could indicate urban mining and circular design. Tick more 
+than one if it makes sense to do so. In other cases, an indicator will not fit 
+
+Index (urban mining index, lifespan neatly into any of the indices. (See the three ‘index’ descriptions below for 
+index and circular design index) more detail) 
+
+This is the scale that the indicator's authors intended it to be applied to. In 
+Scale: reality, an indicator could theoretically be applied at multiple scales 
+
+Check this box if the indicator measures some aspect of circularity at a level 
+larger than a city (i.e. if it demonstrates circular attributes of a region, 
+
+Regional/national/international country, or multiple countries). 
+
+Check this box if the indicator measures some aspect of circularity at the 
+City level of a town or city. 
+
+9 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+Check this box if the indicator measures some aspect of circularity at the 
+Asset [building] level of a building or other built asset. 
+
+Check this box if the indicator measures some aspect of circularity at the 
+Component/Product level of a building component/product. 
+
+Check this box if the indicator measures some aspect of circularity at the 
+Material level of a single material. 
+
+Check this box if the indicator measures some aspect of circularity at the 
+Organisation level of an organisation. 
+
+Other Any additional comments 
+
+ 
+
+Step 2: Initial selection, grouping and refinement of indicators 
+
+Using the literature review described in Step 1 as a basis, work (including desk-based 
+
+research as well as internal workshops between CIRCuIT partners) was carried out to 
+
+develop a longlist of indicators that were applicable to CIRCuIT as well as to relevant 
+
+stakeholders more generally. Some of these were directly pulled from sources in the 
+
+literature, while others were developed to reflect the specific requirements within the 
+
+CIRCuIT project.  
+
+This rationalisation was also based in part upon an “actor-based approach”, whereby 
+
+indicators were selected or developed according to their utility to the decision-making of key 
+
+actors3. Actors from all points in the lifecycles of materials, products, buildings and building 
+
+stocks were thus considered as potential users of the indicators, including but not limited to: 
+
+• Product manufacturers and distributors 
+
+• Building design teams and consultants 
+
+• Project clients (private and public)  
+
+• Building / asset / facilities managers and owners 
+
+• Demolition contractors 
+
+• Waste management organisations 
+
+• Reused product brokers 
+
+• Planning officers 
+
+ 
+3 The term ‘actor’ is used in the present research to refer to any stakeholder with influence over the 
+built environment of a city, and in particular the material stocks and flows associated with the built 
+environment. Actors may be at any level of organisation from product manufacturers to city 
+government. 
+
+10 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+• City policymakers.  
+
+Evidently, each of the listed actor groups has a differing remit according to the scale of their 
+
+influence (i.e. processes at the levels of materials/waste, products, buildings or cities) and 
+
+lifecycle stage they are responsible for. The rationalised indicators were thus classified into 
+
+product-, building- and city-level indicators, and under each of these classifications, 
+
+indicators were also grouped according to lifecycle stage: 
+
+• Cradle to gate: including the extraction/provenance of raw materials, any 
+
+manufacturing process (either to manufacture new products, 
+
+remanufacture/recycle/reuse existing ones),  
+
+• Installation and construction: including transport, installation design and materials 
+
+input 
+
+• Use: including maintenance, materials health, service life, use capacity, 
+
+transformation capacity 
+
+• End of life: including reuse potential, transformation capacity (to avoid end of life) 
+
+ 
+
+To be maximally useful for the identified actors, the lifecycle stage-based groupings were 
+
+further subdivided into the following categories: 
+
+• Materials input: this category describes any indicators that will influence the cradle 
+
+to gate stage buildings and products/materials/components 
+
+• Design: this category describes any indicators that will influence the way the building 
+
+is designed – building and products/materials/components levels only 
+
+• Lifespan and in-use performance: indicators of how efficiently value is extracted 
+
+and waste is avoided from materials in their in-use phase in products, buildings or 
+
+building stocks (cities) 
+
+• Circular potential: indicators that demonstrate the potential for in-use products or 
+
+buildings to achieve value retention of materials, and minimise waste 
+
+• Material outflows and recirculation: indicators of the actual quantities and fates of 
+
+materials emerging at end-of-life within a building 
+
+• Circularity enablers: indicators of the presence or absence of factors that could 
+
+enable the acceleration of the uptake of circular decisions.  
+
+ 
+
+The refined list of indicators was then used as the basis for discussions in stakeholder 
+
+engagement workshops, and are presented in section 3.3.  
+
+Step 3: Stakeholder engagement 
+
+Following the rationalisation and grouping of indicators, the refined set were used as the 
+
+basis for discussions with invited stakeholders in a series of workshops within each CIRCuIT 
+
+city cluster.  
+
+11 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+During the workshops, the summarised indicators at product/materials, building and city level 
+
+and the inter-connectivity of those three levels were discussed. Questions included: 
+
+• Do the indicators properly measure circular economy at the relevant level (city, 
+
+building, product/material)? 
+
+• Which indicators are most important? 
+
+• How could circular economy indicators help to guide circular decision-making in 
+
+different sectors? 
+
+• How should indicators be presented and communicated for highest impact? 
+
+• What is the feasibility of the relevant stakeholders implementing indicators such as 
+
+the ones suggested? 
+
+A briefing paper with the refined set of indicators was sent to the participants prior to the 
+
+event to give them more time to reflect on the indicators’ list and come prepared. MIRO was 
+
+used as a platform to run the workshops, which, due to COVID-19 restrictions, had to be 
+
+held remotely. A MIRO board was created to capture participants feedback (see Figure 1 
+
+below). All the indicators provided in the briefing paper were listed on the board (blue = city 
+
+level; pale yellow = building level; dark yellow = materials/product level). 
+
+12 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+ 
+
+Figure 1: MIRO board used for the indicators’ workshops 
+
+Each section of the board was constructed in the same way: 
+
+• Indicators were listed in the blue post-its and grouped per category – as per the 
+
+briefing paper 
+
+• The little black comment box provided the definition of the indicators as per the 
+
+briefing paper – as a reminder 
+
+• The delegates were given “dots” to vote for the indicators they decided were a priority 
+
+(blue dots) or non-priority (yellow dots) 
+
+• Additional indicators deemed to be “missing” could also be added in the “white box” 
+
+at the bottom of the MIRO board.  
+
+Figure 2, below, shows the building level MIRO board in more detail. 
+
+13 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+ 
+
+Figure 2: Building level indicators board in MIRO 
+
+Delegates were also able to provide comments for each indicator using the “comment” 
+
+function or additional post-its.  
+
+The final task of the workshop was to gather any further feedback or suggestions. That was 
+
+done via discussions over the board presented in Figure 3, below: 
+
+ 
+
+Figure 3: Further feedback and suggestions board in MIRO 
+
+Overall, over 80 stakeholders were consulted covering a range of professions: architects, 
+
+designers, contractors, manufacturers, urban planners, etc. during more than 12 workshops 
+
+across the 4 cities to represent the actors identified in section 3.1.1Fejl! Henvisningskilde 
+
+14 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+ikke fundet.. Existing groups interested in circular economy indicators were specifically 
+
+targets to ensure the right stakeholders were present. For example, the London workshops 
+
+involved consultation of the UK Green Building Council circular economy forum, and the 
+
+Finnish Association of Building Owners and Construction Clients (RAKLI).  
+
+Step 4: Prioritisation and recommendations for indicators 
+
+Following Steps 1 to 3, final prioritisation exercise was carried out to develop a shortlist of 
+
+recommended indicators. This activity took into account the findings from the initial definition 
+
+of useful indicators identified through the literature review (Methodology Step 1), the initial 
+
+grouping and refinement process (Methodology Step 2), and a review of feedback from the 
+
+stakeholder workshops (Methodology Step 3). 
+
+The Step 4 prioritisation also took into account the potential for indicators to contribute 
+
+towards a set of ‘use cases’ for circular economy action developed concurrently within 
+
+CIRCuIT Task 3.1 (these are presented within Table 2 of CIRCuIT deliverable report D3.1). 
+
+Finally, the prioritisation also classified indicators as either ‘Core’ or ‘Aspirational’. Core 
+
+indicators were those for which there exists a known methodology through which to calculate 
+
+performance against the indicator, and the data necessary for the indicator is available. 
+
+The resulting shortlist of recommended indicators also presented information on the 
+
+attributes of the indicators, including: 
+
+• A description of the indicator 
+
+• The measurement (where possible) and units of the indicator  
+
+• Relevant stakeholder/user of the indicator   
+
+15 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+3 Findings 
+
+3.1 Key findings from Step 1: Literature review 
+
+ General information 
+
+Approximately 510 of indicators were identified, emerging from all geographic areas and 
+
+covering many lifecycle stages and focal aspects of materials, products, buildings and cities 
+
+with regard to the circular economy.  
+
+ Scale and scope 
+
+The scales covered by indicators ranged from the single units of materials or products to 
+
+buildings and other built assets to city-level. 
+
+One notable trend was in terms of the lifecycle stages of products or buildings that the 
+
+identified indicators covered: mostly, they were geared towards actors in the early stages 
+
+(manufacture for products, and design/construction for buildings), whereas very few had the 
+
+functionality of being continuously updated by stakeholder groups throughout a product or 
+
+building’s lifecycle. This is despite an understanding that many indicators of circularity may 
+
+be influenced distinctly at all lifecycle stages. For example, a product may have good 
+
+potential for reuse or recycling at design stage (e.g. due to being composed of easily 
+
+recyclable materials or having design features that allow for high-value deinstallation), but its 
+
+circularity at end-of-use within a building may be far lower if it was irreversibly bonded to 
+
+surrounding components or combined with hazardous or non-recyclable materials upon 
+
+installation. 
+
+ Sources 
+
+Based on the broad scope of sources considered, indicators identified in the review were 
+
+drawn from a range of stakeholder groups including, but not limited to, international 
+
+governance bodies (i.e. the European Union), international development organisations (e.g. 
+
+the Organisation for Economic Cooperation and Development), city authorities (e.g. 
+
+Amsterdam Circular Strategy), research and technology organisations (e.g. Dutch Green 
+
+Building Council, Ellen McArthur Foundation), sustainability assessment scheme operators 
+
+(e.g. BREEAM) and various others. Most sources were organisations based within the 
+
+European Union.  
+
+ Content 
+
+While there was broad agreement over some aspects of the circular economy, such as the 
+
+fact that it involved resources efficiency and minimisation of waste, there were also 
+
+16 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+numerous heterogeneities between indicator sets in terms of content. This likely reflects the 
+
+fact that the precise parameters, boundaries and terminologies of the circular economy 
+
+concept is yet to be universally agreed upon (European Commission 20204). Within the 
+
+existing knowledge base on the circular economy, there are many overlapping concepts and 
+
+principles, with different ones adopted by different stakeholder groups depending on their 
+
+utility and applicability in context. 
+
+There were, understandably, variations in content between indicator sets that dealt with 
+
+different scales (e.g. product indicators vs. city indicators), owing to the differing processes 
+
+and challenges specific to each, though the general ‘material input-output’ metrics tended to 
+
+be represented well throughout. 
+
+There was also variation in terms of the type of variables covered. In some cases, indicators 
+
+were strictly focused on quantification of material flows and related impacts or externalities. 
+
+In other cases, ‘enabler’ type metrics were used to indicate, for example, the level of 
+
+investment in circular business models within cities.  
+
+Throughout the indicators identified there tended to be limited links made between resource 
+
+use and sustainability-related externalities other than in very explicit cases such as product 
+
+or building lifecycle assessment (LCA) indicators. The circularity of material flows tended to 
+
+be taken as the final subject of indicators, rather than any positive or negative outcomes, 
+
+though there were occasionally those such as ‘decoupling index’5 which sought to measure 
+
+how strongly economic growth was linked with material consumption. The social dimensions 
+
+of sustainability were poorly represented at all scales, owing in part to the relatively 
+
+underdeveloped field of quantifying social value/development as related to the built 
+
+environment. At city level, limited links with key built environment concepts such as 
+
+transformation capacity – unclear exactly how to implement these. 
+
+ Structure and data application 
+
+There was a high degree of variability in terms of how the identified indicators were 
+
+structured. For example, some presented single observed data points while others 
+
+presented the result of complex calculations; some presented binary ‘yes/no’ answers while 
+
+others presented categorical or continuous variables; some relied on qualitative information 
+
+analysis while others were strictly quantitative. The structure of indicators developed and 
+
+adopted generally depended, at least in part, on the available data. In a great number of 
+
+cases, and as validated through stakeholder workshops, the data that would be required to 
+
+support the optimal indicators to measure circular economy was simply not available.  
+
+ 
+4 https://op.europa.eu/en/publication-detail/-/publication/ca9846a8-6289-11ea-b735-01aa75ed71a1 
+5 UNEP (2011) Decoupling natural resource use and environmental impacts from economic growth, A 
+Report of the Working Group on Decoupling to the International Resource Panel. 
+
+17 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+ Standardisation and comparability 
+
+While, as mentioned, the indicators identified through the literature review did demonstrate 
+
+some commonalities in terms of overarching focal areas, the otherwise high variability meant 
+
+that there was little ability to make direct comparisons between systems that were measured 
+
+using different indicator sets. For example, a building being measured using the Regenerate 
+
+tool could not be compared against one measured using relevant BREEAM Materials and 
+
+Waste metrics due to differences in the subjects of the data, measurement approaches, and 
+
+types of variable. 
+
+Another point to note was that there was often no explicit consideration of whether the 
+
+indicators would be useable by different stakeholder groups, especially those at different 
+
+levels of organisations. No indicator developers created indicator sets wherein material-
+
+/product-level indicators could be aggregated to building-level indicators and then to city-
+
+level indicators, despite the fact that material flows span and may be indicated at these three 
+
+levels.  
+
+3.2 Key findings from Step 2: Initial selection, grouping and refinement 
+
+Following the literature review (Step 1) and the development of a longlist of candidate 
+
+indicators, a grouped and refined list of indicators was developed according to their 
+
+relevance to CIRCuIT and their applicability for the defined actor groups and use cases as 
+
+referred to in Deliverable D3.2. The resulting lists of indicators emerging from this grouping 
+
+and refinement process are presented in Tables 2 to 4, commencing overleaf. 
+
+18 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+  
+
+ 
+
+Table 2: Grouped and refined list of selected city-level indicators 
+
+CD/L/UM6 D3.2 use Reference 
+Category Suggested indicator Definition 
+
+cases 
+
+Total materials (virgin and secondary) added UM 21, 23, 26, Circular Flanders (2018)7 
+Total material inputs to building to the building stock via new construction, 27, 28, 29 
+
+EU Circular Economy 
+stock refurbishment, retrofit, repairs and 
+
+Monitoring Framework 
+maintenance. 
+
+Amount of material required for a typical UM 21, 28, 29 Schiller et al 20208 
+Average whole life material inputs 
+
+building in the building stock, across its whole 
+per building 
+
+life. 
+Material 
+inputs UM 21, 22, 24, CIRCuIT Task 4.1 
+
+Secondary inputs to building stock Proportion of material inputs to building stock 26, 28, 29 
+– local/non-local (split into reuse that are reused or recycled following a EOL-RIR indicator from EU 
+
+and recycling) previous use within/outside the city/region. Circular Economy Monitoring 
+Framework  
+
+The amount of material input per unit of CD 21, 29 UNEP 20119; Sanye-Mengual et 
+Resource Decoupling Index – 
+
+economic/ social/environmental value added al 201910 
+economic/social/environmental 
+
+by construction & buildings 
+
+ 
+6 Urban mining index (UM), circular design index (CD) or lifespan index (L) 
+7 https://vlaanderen-circulair.be/en/summa-ce-centre/publications/indicators-for-a-circular-economy  
+8 Schiller G, Lutzkendorf T, Lehmann I, Mormann K, Gruhler K & Knappe F (2020). Management system for building materials as a basis for closed 
+loop material flow analysis considering material efficiency and climate change mitigation. IOP Conf. Ser.: Earth Environ. Sci. 588, 022010 
+9 UNEP (2011) Decoupling natural resource use and environmental impacts from economic growth, A Report of the Working Group on Decoupling to 
+the International Resource Panel. 
+10 Sanyé-Mengual E, Secchi M, Corrado S, Beylot S & Sala S (2019). Assessing the decoupling of economic growth from environmental impacts in the 
+European Union: A consumption-based approach. Journal of Cleaner Production 236, 117535. 
+ 
+
+19 
+ 
+
+
+
+ 
+
+L 21, 28, 29 CIRCuIT Tasks 4.1 and 5.1; 
+Average/predicted lifespan of The average/predicted length of time the 
+
+Bradley & Kohler 200711; Hu et 
+existing building stock current buildings are expected to function for 
+
+al 201012 
+
+Proportion of building stock that is at high L 21, 28, 29 CIRCuIT Task 5.1; Bradley & 
+Near-obsolescence/demolition 
+
+relative risk of demolition within given Kohler 2007; Zhou et al 201913 
+floorspace 
+
+timeframe 
+
+Ratio of building transformation to Ratio of refurbishment/transformation to new CD 21, 25, 28, CIRCuIT Task 5.1 and 
+new construction construction 29 discussions with partners 
+
+Lifespan and 
+in-use What is the average intensiveness of use of L 21, 25, 28, CIRCuIT Task 5.1 and 
+performance Actual vs potential intensiveness 
+
+the building stock relative to the average 29 discussions with partners 
+of use 
+
+potential intensiveness of use? 
+
+What is the average user satisfaction of L 21, 25, 28, CIRCuIT Task 5.1 and 
+Average user satisfaction 
+
+building users across building stock? 29 discussions with partners 
+
+L 21, 22, 25, Cradle to cradle certification 
+
+Average healthy life years lost due to material 28, 29 scheme 
+Material health 
+
+health impacts in building stock CIRCuIT Task 5.1 and 
+discussions with partners 
+
+ 
+11 Bradley PE & Kohler N (2007). Methodology for the survival analysis of urban building stocks (2007). Building Research & Information 35(5), 529-
+542. 
+12 Hu M, van der Voet E & Huppes G (2010). Dynamic material flow analysis for strategic construction and demolition waste management in Beijing. 
+Journal of Industrial Ecology 14, 440-456. 
+13 Zhou W, Moncaster A, Reiner DM & Guthrie P (2019). Estimating lifetimes and stock turnover dynamics of urban residential buildings in China. 
+Sustainability 11, 3720. 
+ 
+
+20 
+
+
+
+ 
+
+The proportion of a city’s floorspace that is CD 21, 25, 28, CIRCuIT Task 5.1 and 
+Transformable floorspace 
+
+suitable to be adapted for a different function 29 discussions with partners 
+
+UM 21, 22, 23, Stephan & Athanassiadis 
+Circular 
+
+24, 26, 28, 201814; Hu et al 2010 
+potential of 
+
+Reuse/recycling potential of The amount of materials which are available 29 
+existing GLA circular economy 
+
+existing building stock for reuse/recycling in the building stock 
+building statement 
+stock 
+
+Materiaalitkiertoon15 
+
+Predicted material losses under most likely L 21, 26, 28, Kohler (2017)16 
+Resilience of building stock 
+
+climate scenarios 29 
+
+UM 21, 22, 24, Eurostat Economy-Wide 
+26, 28, 29 Material Flow Accounts17 
+
+Total material arisings from The total amount of materials emerging from 
+EU Circular Economy 
+
+construction and buildings sector the construction and buildings sector 
+Monitoring Framework 
+
+Material 
+SDG indikatoren18
+
+outflows and  
+
+recirculation 
+UM 21, 24, 26, EU Circular Economy 
+
+The proportion of total material arisings (see 
+Recirculated materials – 28, 29 Monitoring Framework 
+
+above) that enter new use cycles 
+local/non-local 
+
+within/outside the city/region Eurostat Economy-Wide 
+Material Flow Accounts 
+
+ 
+14 Stephan A & Athanassiadis A (2018). Towards a more circular construction sector: Estimating and spatialising current and future non-structural 
+material replacement flows to maintain urban building stocks. Resources, Conservation & Recycling 129, 248-262. 
+15 https://materiaalitkiertoon.fi/fi-FI/Seuranta/Rakennusjatteet  
+16 Kohler N (2017). From the design of green buildings to resilience management of building stocks. Building Research & Information 46(5), 578-593. 
+17 https://ec.europa.eu/eurostat/cache/metadata/en/env_ac_cur_esms.htm  
+18 http://sdg-indikatoren.de/12-5-1/ 
+ 
+
+21 
+
+
+
+ 
+
+CD 21, 22, 23, BREEAM UK19 
+Average distance to new point of The distance travelled between recirculated 
+
+24, 26, 28, 
+use by products/materials materials’ original use and their next use 
+
+29 
+
+Total residual value of The total value obtained by recirculation of CD 22, 23, 24, BAMB20 
+recirculated materials materials and products 26, 28, 29 
+
+Regulations and (dis)incentives CD/L/UM None Aggregate levy21 
+promoting circular design (e.g. 
+
+MI-ROG22 
+lean principles, design for 
+disassembly and adaptability)/ Promotion of circular design incentives 
+building lifespan extension over 
+replacement/ looping at building 
+end of life 
+
+Circularity 
+enablers CD/L/UM None EU Circular Economy 
+
+Circular economy included in Circular economy is included in public Monitoring Framework 
+public procurement strategies procurement strategies  
+
+CIRCTER Project Final report23 
+
+CD/L/UM None EU Circular Economy 
+Investment in circular sectors and Investment into sectors and infrastructure Monitoring Framework 
+infrastructure using circular economy practices  
+
+Circular Flanders24 
+
+ 
+19 BREEAM UK New Construction 2018 
+20 www.bamb2020.eu  
+21 Environmental taxes, reliefs and schemes for businesses: Aggregates Levy - GOV.UK (www.gov.uk) 
+22 Major Infrastructure – Resources Optimisation Group (MI-ROG) (aecom.com) 
+23 CIRCTER (Circular Economy and Territorial Consequences) https://www.espon.eu/circular-economy  
+24 Vercalsteren A, Maarten C & Van Hoof V (2018). Indicators for a circular economy. SUMMA. Available at: 
+https://circulareconomy.europa.eu/platform/sites/default/files/summa_-_indicators_for_a_circular_economy.pdf  
+ 
+
+22 
+
+
+
+ 
+
+N/A None London Circular Economy 
+Number of people employed in Routemap25
+
+Employment in circular practices within the  
+circularity parts of construction  
+
+construction sector. 
+sector  EU Circular Economy 
+
+ Monitoring Framework26 
+
+‘City circularity database’ exists UM 21-29 CIRCuIT WP8 
+for aggregation and analysis of A database is present in the city to analysis 
+data on building stocks and the circular economy practices in buildings 
+material flows 
+
+Extent to which material consumption within UM None EASAC indicators27 
+Trade balance city/region is based on resources extracted 
+
+from outside the city/region 
+
+Number of participants enrolled in University  CD/L/UM None SDG indikatoren 
+Educational courses 
+
+courses on the topic of circular economy 
+
+Taxes Taxes on new products UM None UK Aggregate Levy28 
+
+ 
+
+  
+
+ 
+25 LWARB. London Circular Economy Routemap. Available at: https://www.isb-global.com/lwarb-londons-circular-economy-routemap/  
+26 Amsterdam Circle City Scan  
+27 EASAC; European Academies Science Advisory Council (2016). Indicators for a circular economy. Available at: 
+https://www.interacademies.org/publication/easac-indicators-circular-economy  
+28 Rates and allowances: Aggregates Levy - GOV.UK (www.gov.uk) 
+
+23 
+
+
+
+ 
+
+Table 3: Grouped and refined list of selected building-level indicators 
+
+CD/L/UM29 D3.2 Use Reference 
+Category Suggested indicator Definitions 
+
+cases 
+
+Material savings achieved through design CD 8 BREEAM UK30 
+measures addressing dematerialisation while 
+
+CEEQUAL 
+achieving the same whole life functionality 
+
+Dematerialisation 
+and without compromising on durability, MI-ROG 
+resilience, other technical requirements or 
+
+Dutch GBC 
+health and safety. 
+
+Design for secondary/ renewable CD 8 CEEQUAL 
+Proportion of a building that can be 
+
+material compatibility (i.e. 
+Building assembled from secondary/renewable SCREEN indicators 
+
+secondary materials are available 
+design materials and components. 
+
+for design features) 
+
+CD 10 ISO2088731 
+
+Proportion of building components that are BAMB 
+
+reversible from the wider building without 
+Design for disassembly DGNB 
+
+significant damage to either the removed 
+component or its wider assembly London Circular Economy 
+
+Statement Guidance; GLA 
+(2020) 
+
+ 
+29 Urban mining index (UM), circular design index (CD) or lifespan index (L) 
+30 BREEAM UK New Construction 2018 
+31 ISO 20887:2020. Sustainability in buildings and civil engineering works — Design for disassembly and adaptability — Principles, requirements and 
+guidance. https://www.iso.org/standard/69370.html  
+ 
+
+24 
+
+
+
+ 
+
+CD 11 ISO20887 
+
+The spatial and technical aspects of building 
+Design for adaptability BAMB 
+
+design allow for adaptation to another 
+(transformation capacity) 
+
+function (as designed) DGNB 
+
+Regenerate tool32 
+
+Proportion of building components specified CD 9, 10 DGNB 
+Design for repairability 
+
+that are designed to be repairable DGBC BREEAM indicators33 
+
+Proportion of the building that is formed of UM 12 London Circular Economy 
+Reused/ recycled content (split by 
+
+reused/recycled/upcycled products and Statement34 
+onsite and offsite reuse) 
+
+product components 
+
+CD None CEEQUAL 
+Material Average transport distance for 
+
+The average distance each unit of material BREEAM 
+inputs to raw materials (split by virgin and 
+
+travelled to site. Both virgin and secondary. 
+building secondary) Voluntary sustainability class for 
+
+new buildings35 
+
+Material losses (waste) through The amount of materials lost as waste CD 12 Resource wisdom indicator36 
+supply chain and construction through the processing, transport, storage Ellen MacArthur Foundation37 
+stage and configuration/ assembly of materials and 
+
+ 
+32 Regenerate Guidance Document.pdf - Google Drive 
+33 Dutch Green Building Council 2018 - A Framework for Circular Buildings: Indicators for possible inclusion in BREEAM 
+34 Circular Economy Statement Guidance consultation draft | London City Hall 
+35 https://www.trafikstyrelsen.dk/da/Byggeri/Baeredygtigt-byggeri/Om-baeredygtigt-byggeri#hvad-er-baeredygtigt-byggeri  
+36 https://www.sitra.fi/en/articles/resource-wisdom-indicators/  
+37 Ellen MacArthur Foundation. Circularity indicators: An approach to measuring circularity. Available at: 
+https://www.ellenmacarthurfoundation.org/resources/apply/material-circularity-indicator  
+ 
+
+25 
+
+
+
+ 
+
+products prior to specification, plus 
+construction site waste. 
+
+The quantity and profile of materials required CD 17, 18 London Circular Economy 
+Material inputs through Statement38
+
+for refurbishments of the building up to the  
+refurbishment 
+
+date of measurement SCREEN indicators 
+
+Overall health risks of materials and products L 17, 18, 19, Nordic Swan Ecolabel39 
+Material health  in building, quantified as impact on healthy 20 
+
+BREEAM 
+life years of building occupants 
+
+The spatial and technical aspects of building CD 15, 16, 19, BAMB (Durmesevic 201640) 
+Transformation capacity design allow for adaptation to another 20 
+
+function (as built) 
+
+UM 17, 18, 19, Reuse Potential41 
+Circular The percentage (by mass) of products which 
+potential (as Reuse/recycling potential 20, 27 
+
+can be reused/recycled Cradle to Cradle Certified™ 
+built) Product42 
+
+L 15, 19, 20 London Circular Economy 
+The percentage (by mass) of products which 
+
+Repairability Statement  
+can be repaired 
+
+DGNB 
+
+ 
+38 Circular Economy Statement Guidance consultation draft | London City Hall 
+39 https://www.nordic-ecolabel.org/  
+40 https://www.bamb2020.eu/wp-content/uploads/2016/11/Elma-sustainable-innovation-paper.pdf 
+41 Durmisevic 2019 - Reversible Building Design Strategies  
+42 https://www.c2ccertified.org/get-certified/product-certification  
+ 
+
+26 
+
+
+
+ 
+
+% building products covered by CD 17, 18, 19, EPR43 
+Extended Producer Responsibility The percentage of buildings which are part of 20 
+scheme (e.g. a take-back an Extended Producer Responsibility scheme 
+scheme) 
+
+The years the building can be used for its L 15, 16, 19, CIRCuIT WP5 and discussions 
+Useful lifespan 
+
+intended purpose 20 with partners 
+
+L 15, 16, 19, MI-ROG 
+The condition of the building relative to the 
+
+Condition 20, 27 
+industry average RTS Environmental 
+
+Lifespan & Classification?44 
+in-use 
+performance The intensity of building use compared to the L 15, 16, 17, Ellen MacArthur Foundation 
+
+Intensiveness of use 
+industry average 19, 20, 27 
+
+How well the building performs its function L 15, 16, 19, CIRCuIT workshop November 
+Performance (subjective or objective measurement 20 2019 
+
+depending on building function) 
+
+The amount of material arisings from the UM 21, 24, 26, Part of the concept of EN 
+Total material arisings (whole life) 
+
+building across its lifetime 28, 29 1597845  
+
+Material 
+CD 21, 24, 26, London Circular Economy 
+
+outflows and 
+28, 29 Statement  
+
+recirculation % reused, remanufactured, The percentage of materials which were 
+recycled reused, remanufactured or recycled MI-ROG 
+
+CITYkeys indicators 
+
+ 
+43 https://www.wastepackgroup.co.uk/2020/08/26/defra-publishes-waste-plan-confirms-epr-date/  
+44 https://cer.rts.fi/en/rts-environmental-classification/  
+45 EN 15978: 2011 Sustainability of construction works - Assessment of environmental performance of buildings - Calculation method 
+ 
+
+27 
+
+
+
+ 
+
+SCREEN indicators 
+
+Dutch GBC indicators46 
+
+Residual value (all materials in The total value obtained from material L  MI-ROG 
+building) recirculation of materials within the building 
+
+The data set that describes the CD/UM/L 8-20, 27 Dutch GBC indicators  
+Building passport / Bill of characteristics of the products in the building 
+
+BAMB 
+Materials which give them value for recovery, recycling 
+
+and reuse 
+
+CD/UM/L 15-19 Renovation barometer47 
+Guidelines available for repair, Data is available for the repair, maintenance, 
+maintenance, transformation and transformation and material looping of the “Guidelines for Sustainable 
+
+Circularity material looping building Building” (“Leitfaden 
+enablers Nachhaltiges Bauen” 
+
+Has a Building Information Model with CD/UM/L 8-20, 27 UK industrial strategy48 
+BIM 
+
+relevant circularity data 
+
+Relevant data routinely shared CD/UM/L 21-29 CIRCuIT WP8 and discussions 
+with a ‘city circularity database’ As described with partners  
+throughout lifetime 
+
+ 
+ 
+  
+
+ 
+46 Dutch Green Building Council 2018 - A Framework for Circular Buildings: Indicators for possible inclusion in BREEAM 
+47 https://www.kiinteistoliitto.fi/palvelut/tutkimus/saannolliset/korjausrakentamisbarometri/  
+48 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/210099/bis-13-955-construction-2025-industrial-
+strategy.pdf  
+ 
+
+28 
+
+
+
+ 
+
+Table 4: Grouped and refined list of selected product-level indicators 
+
+CD/L/UM49 D3.2 use Reference 
+Category Suggested indicator Definitions 
+
+cases 
+
+Product has been designed so that the CD 8, 9 BREEAM UK50 
+minimum material inputs are required to 
+
+CEEQUAL 
+Dematerialisation achieve the same whole life functionality, 
+
+without compromising on durability, MI-ROG 
+resilience or health and safety. 
+
+Design for secondary/renewable CD 9 CEEQUAL 
+% by mass of product that can be assembled 
+
+material compatibility (i.e. 
+from secondary/renewable materials and 
+
+secondary materials are available 
+Product components.  
+
+for design features) 
+design 
+
+Product can be removed from the building CD 9, 10, 11, BAMB 
+without significant damage to either the 27 
+
+Design for reversibility DGNB 
+removed product or other parts of the 
+building. 
+
+% by mass of components of the product that CD 9, 10, 27 DGNB 
+Design for repairability can be easily removed and repaired or 
+
+replaced. 
+
+% by mass of the product that consists of UM 9, 27 London Circular Economy 
+Reused/recycled content 
+
+components that have been reused/recycled Statement51 
+
+ 
+49 Urban mining index (UM), circular design index (CD) or lifespan index (L) 
+50 BREEAM UK New Construction 2018 
+51 Circular Economy Statement Guidance consultation draft | London City Hall 
+ 
+
+29 
+
+
+
+ 
+
+Overall health risks of materials and products L 27, 28, 29 Nordic Swan Ecolabel52 
+
+Material health  in building, quantified as impact on healthy Cradle to Cradle Certified 
+life years of building occupants product53 
+
+CD 9, 27 CEEQUAL 
+
+Material Average transport distance for The average distance the virgin and 
+BREEAM 
+
+inputs (as raw materials (split by virgin and secondary materials have travelled before 
+
+manufactured) secondary) incorporation into the product Voluntary sustainability class for 
+new buildings54 
+
+Quantity of materials wasted in processing, CD 8, 9, 27 Resource wisdom indicator55 
+Material losses (waste) through transport, storage and 
+
+Ellen MacArthur Foundation 
+supply chain configuration/assembly of materials for final 
+
+product 
+
+The product has previously been used for the CD 9 DGBC indicators56 
+Product is reused 
+
+Material same function in another building 
+
+inputs (as 
+installed in UM 9 BREEAM 
+building)  Transport distance from point of The distance the material travels between 
+
+extraction to point of installation extraction and installation Voluntary sustainability class for 
+new buildings57 
+
+ 
+52 https://www.nordic-ecolabel.org/  
+53 https://www.c2ccertified.org/get-certified/product-certification  
+54 https://www.trafikstyrelsen.dk/da/Byggeri/Baeredygtigt-byggeri/Om-baeredygtigt-byggeri#hvad-er-baeredygtigt-byggeri  
+55 https://www.sitra.fi/en/articles/resource-wisdom-indicators/  
+56 Dutch Green Building Council 2018 - A Framework for Circular Buildings: Indicators for possible inclusion in BREEAM 
+57 https://www.trafikstyrelsen.dk/da/Byggeri/Baeredygtigt-byggeri/Om-baeredygtigt-byggeri#hvad-er-baeredygtigt-byggeri  
+ 
+
+30 
+
+
+
+ 
+
+Product is designed and installed so that it UM 9, 10, 11, Reuse Potential58 
+can be easily demounted from the wider 15, 16, 17, 
+
+Reuse potential Cradle to Cradle Certified 
+assembly with no loss of value to itself or the 18, 27 
+
+product 
+assembly 
+
+The number of components of the product L 9, 15 London Circular Economy 
+Statement  
+
+Circular Repairability that can be easily removed and replaced 
+
+potential (as (once installed) DGNB 
+installed) 
+
+The product is covered by an Extended CD 9, 17, 18 EPR59 
+Part of an extended producer 
+
+Producer Responsibility scheme by the 
+responsibility scheme 
+
+manufacturer (e.g. a take-back scheme) 
+
+The product is used as part of a product- CD 9, 17, 18 BAMB 
+Part of a product-service system 
+
+service system Ellen McArthur Foundation 
+
+The number of years the material or product L 9, 15, 17, Ellen McArthur Foundation 
+Service life 
+
+can be used for its intended function 18, 27 
+
+L 9, 15, 17, MI-ROG 
+Lifespan and Condition of product compared with industry 18, 19, 27 
+
+BREEAM 
+in-use Condition  average, taking into account its time in-use 
+performance and usage patterns RTS Environmental 
+
+Classification60 
+
+The intensity of product use compared to the L 9, 15, 17, Ellen MacArthur Foundation 
+Intensiveness of use 
+
+industry average 18 
+
+ 
+58 Durmisevic 2019 - Reversible Building Design Strategies  
+59 https://www.wastepackgroup.co.uk/2020/08/26/defra-publishes-waste-plan-confirms-epr-date/  
+60 https://cer.rts.fi/en/rts-environmental-classification/  
+
+31 
+
+
+
+ 
+
+How well the product or material performs its L 9, 15, 17, CIRCuIT workshop November 
+Performance 
+
+function 18, 27 2019 
+
+The percentage of materials in the product CD 21-26, 28, CIRCuIT Task 4.1 and 
+which actually sent for reused, 29 discussions with partners 
+remanufactured or recycled following the 
+refurbishment/demolition of a building. NB 
+this indicator would be useful where it feeds 
+
+% of product actually reused, 
+into a database compiling the stocks and 
+
+remanufactured or recycled 
+flows of materials and products, for 
+aggregation and analysis to understand 
+typical whole life performance against 
+circularity-related variables for common 
+products / product groups. 
+
+Distance travelled by materials from original UM 21-26, 28, Voluntary sustainability class for 
+use to next use. NB this indicator would be 29 new buildings 
+
+Material 
+useful where it feeds into a database 
+
+outflows and 
+Average distance to new point of compiling the stocks and flows of materials 
+
+recirculation 
+use and products, for aggregation and analysis to 
+
+understand typical whole life performance 
+against circularity-related variables for 
+common products / product groups 
+
+Financial value obtained by actor with duty of L 21-26, 28, CIRCuIT Tasks 4.1 and 7.5 and 
+care of product at building end of life. NB this 27, 29 discussions with partners 
+indicator would be useful where it feeds into 
+
+BAMB D15 
+a database compiling the stocks and flows of 
+
+Residual value materials and products, for aggregation and 
+analysis to understand typical whole life 
+performance against circularity-related 
+variables for common products / product 
+groups. 
+
+32 
+
+
+
+ 
+
+The data set that describes the CD/UM/L 8-18 DGBC indicators 
+characteristics of the products in the building 
+
+Material passport BAMB 
+which give them value for recovery, recycling 
+and reuse 
+
+CD/UM/L 9, 15, 17, Renovation barometer61 
+18 
+
+Data is available for the repair, maintenance, “Guidelines for Sustainable 
+Guidelines available for repair, 
+
+transformation and material looping of the Building” (“Leitfaden 
+maintenance and material looping 
+
+building Nachhaltiges Bauen) 
+Circularity 
+enablers Cradle to Cradle Certified 
+
+Relevant data routinely shared CD/UM/L 21-29 WP8 
+As described; allows for material traceability 
+
+with ‘city circularity database’ 
+throughout lifecycle 
+
+throughout lifetime 
+
+Taxes Taxes on new products CD/UM/L 22 Aggregate Levy UK 
+
+Affordability of reused and leased Price of reused and leased products CD/UM/L 28, 29 Discussions with partners 
+products compared to linear products 
+
+ 
+ 
+  
+
+ 
+61 https://www.kiinteistoliitto.fi/palvelut/tutkimus/saannolliset/korjausrakentamisbarometri/  
+
+33 
+
+
+
+ 
+
+3.3 Key findings from Step 3: Stakeholder engagement 
+
+As described in section 2 (Step 2: Stakeholder engagement), a number of workshops were 
+
+run in each city to discuss to gather the level of interest generated by the indicators.  
+
+The workshops did not focus on indicators that would be calculated using LCA, LCC or 
+
+social impact, rather they focused on the more circularity-related indicators that would feed 
+
+into these type of assessments (for example the mass of materials and distance transported, 
+
+as opposed to the carbon footprint of these actions). However, the importance of including 
+
+LCA-related metrics, in particular the carbon footprint in terms of kgCO2eq was mentioned in 
+
+several workshops. Whatever the results provided by the indicators, the results should be 
+
+validated by an environmental, economic and social impact assessment. In particular, the 
+
+reference to LCA was made several times and, at the very least, a measure of the decisions 
+
+taken expressed in terms of kgCO2eq was identified as being of high importance. 
+
+The outcomes of the workshop are presented at city, building and product/components in 
+
+Annex 1. A summary of the findings is summarised in the sections below. 
+
+ City-level workshop summary 
+
+The following indicators generated much interest from the stakeholders at city level: 
+
+• Total material inputs to building stock 
+
+• Secondary inputs to building stock – reused/recycled materials with more focus on 
+
+reuse 
+
+• Ratio of building transformation to new construction 
+
+• Average/predicted lifespan of existing building stock 
+
+• Intensiveness of use 
+
+• Reuse/recycling potential of existing building stock 
+
+• Total waste arisings from construction and buildings sector and end of life reporting 
+
+• Recirculated materials 
+
+In addition, two indicators classified as enablers could be quantifiable and added to the list: 
+
+• Quantity of materials that is reused/recycled through dedicated centres  
+
+• Proportion of building stock mapped (i.e.: % of buildings for which material content 
+
+has been calculated and mapped) 
+
+ 
+
+This project has received funding from  
+34 
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+ Building-level workshop summary 
+
+The following indicators generated the most interest from the stakeholders: 
+
+• Total materials input to building stock 
+
+• Design for disassembly 
+
+• Design for adaptability  
+
+• Renewable/recycled/reused content 
+
+• Reuse/recycling potential 
+
+• Transformation capacity 
+
+• Total material arisings (whole life)  
+
+• % reused, remanufactured, recycled  
+
+• End of Life scenario (additional) 
+
+• Intensiveness of use 
+
+Some of the indicators generated a lot of discussions and there is a range of opinions from 
+
+the different cities, such as residual value. 
+
+ Materials/products/components-level workshop summary 
+
+The following indicators generated the most interest from the stakeholders: 
+
+• Dematerialisation 
+
+• Design for reversibility and repairability 
+
+• Reused, recycled and renewable content 
+
+• Reused or recycled products 
+
+• Reuse potential 
+
+• Part of an extended producer responsibility scheme  
+
+• Service life 
+
+• % of product actually reused, remanufactured or recycled  
+
+• Residual value 
+
+Overall, there was a broad agreement on the indicators that should be taken forward. The 
+
+main point of difference is around the reuse potential. Some stakeholders think it is more 
+
+important to focus on the actual performances, others think that designing products with the 
+
+potential for reuse will avoid the displacement of the impact to the future. Materials passports 
+
+and guidelines on the product were discussed as important enabler to ensure that if a 
+
+product is designed to be reused, that information is communicated throughout its use 
+
+phase. 
+
+ 
+  
+
+This project has received funding from  
+35 
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+4 Key findings from Step 4: Finalised list of indicators 
+
+The shortlist of recommended indicators, presented in Table 4 below, is the result of the final 
+
+prioritisation exercise (Methodology Step 4), taking into account the findings from the initial 
+
+definition of useful indicators identified through the literature review (Methodology Step 1), 
+
+the initial grouping and refinement process (Methodology Step 2), and a review of feedback 
+
+from the stakeholder workshops (Methodology Step 3). 
+
+These indicators will be recommended as part of the final identification of indicators for WP8 
+
+Dashboard for Circularity Indicators and will, where applicable, support the data collection 
+
+process during the demonstrators. 
+
+Note that while enablers were considered less directly important for monitoring and 
+
+benchmarking circular economy than more quantitative indicators, they are still included as 
+
+recommendations (see Table 6) due to their ability to support evidence-based policy 
+
+development and decision-making, as detailed in task 7.1 and 7.5. Note that only enablers 
+
+as high or medium interest were selected for the final list. 
+
+Table 5 below provides a summary of the final list of indicators together with a definition, the 
+
+measurement unit and stakeholder mapping.  
+
+This project has received funding from  
+36 
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+  
+
+ 
+
+Table 4: Shortlist of indicators at city, building and materials/products/components level 
+
+City level indicators 
+
+Core or 
+Category Indicator name (index) Indicator description Suggested unit Stakeholder relevance/benefit 
+
+Aspirational 
+
+Indicates the quantity of material inputs 
+Urban planners will be able to set 
+
+Total material inputs to (virgin and secondary) to the city's built Tonnes of 
+targets on how much materials is Aspirational 
+
+building stock (UM) environment. Calculated as an absolute materials 
+needed and what type  
+
+quantity of materials used. 
+
+Indicates the proportion of raw material 
+inputs to the city's built environment that are Planning officers will be able to 
+
+Secondary inputs to recycled (excluding downcycling) following a % of recycled 
+set targets for amount of recycled 
+
+Material inputs building stock – recycled previous use cycle. materials versus Aspirational 
+materials to be used in future 
+
+materials (UM) virgin materials 
+Existing stock Calculated as a percentage of recycled buildings 
+
+materials compared to virgin materials used. 
+
+Indicates the proportion of raw material 
+
+Secondary inputs to inputs to the city's built environment that are Planning officers will be able to 
+% of reused 
+
+set targets for amount of reused 
+building stock – reused reused) following a previous use cycle. materials versus Aspirational 
+
+materials to be used in future 
+materials (UM) Calculated as a percentage of reused virgin materials 
+
+buildings 
+compared to virgin materials used. 
+
+% of buildings Urban planners will be able to set 
+Ratio of building 
+
+Ratio of refurbishment/transformation to new that are targets for buildings to be 
+transformation to new Core 
+
+construction refurbished rather refurbished rather than 
+construction (CD) 
+
+than demolished demolished 
+Lifespan and 
+in-use 
+
+The average intensiveness of use of the Planning officers will be able to 
+performance 
+
+building stock relative to the average % hours actually validate the need for new 
+Intensiveness of use (L) potential intensiveness of use. This indicator occupied versus buildings to be added or if they Aspirational 
+
+is only suitable for buildings such as schools, potential could more efficiently use existing 
+offices or community centres.  ones 
+
+37 
+ 
+
+
+
+ 
+
+Number of hours the building is occupied 
+versus the amount of hours it has the 
+capacity to be occupied in average 
+
+Map of materials available in the current 
+Proportion of different building stock Demolition industry/contractors 
+materials in building Tonnes of will be able to evaluate faster 
+
+Aspirational 
+stock mapped Tonnes of materials of different types in materials what material is available where 
+(additional one) (UM) different building types. This will be for more efficient reuse 
+
+calculated using pre-demolition audits 
+
+Circular Tonnes of 
+Reuse/recycling 
+
+potential of The amount of materials which are available materials that has Policy makers will be able to set 
+potential of existing Aspirational 
+
+existing for reuse/recycling in the building stock.  the potential for targets for recycling and reuse 
+building stock (UM) 
+
+building stock reuse/recycling 
+
+Total materials/wastes 
+arising from construction The total amount of materials and wastes Policy makers will be able to 
+
+Tonnes of wastes 
+and buildings sector and emerging from the construction and buildings understand quantities of wastes Core 
+
+generated 
+end of life reporting sector.  generated 
+(UM) 
+
+Material 
+outflows and The proportion of total materials arisings at 
+
+recirculation – end-of-use in buildings within the city/region % per tonnes of 
+
+based on Recirculated materials (see above), that enter new use cycles within the city’s solid Policy makers will be able to 
+
+actual current (UM) the city/region (reuse/recycle) waste that is validate their targets for recycling Aspirational 
+recycled or and reuse against those numbers 
+
+activities % per tonnes of the city’s construction and reused 
+ demolition waste that is recycled or reused 
+
+Quantity of materials Quantity of materials that is reused/recycled 
+
+that is reused/recycled through as a material outflow Tonnes of Policy makers will be able to 
+materials understand the efficiency of Core 
+
+through dedicated Tonnes of materials reused/recycled in the reused/recycled reuse/recycling ability at city level 
+centres (UM) city 
+
+38 
+
+
+
+ 
+
+Building level indicators 
+
+Stakeholder Core or 
+Category Indicator name Indicator description Suggested unit 
+
+relevance/benefit aspirational 
+
+Building has been designed so that the 
+minimum material inputs are required to Designers demonstrate that they 
+achieve the same whole life functionality, have designed the asset with 
+
+Dematerialisation (linked without compromising on durability, material optimisation. This will 
+% of material not 
+
+to total material inputs to resilience, other technical performance support building level Aspirational 
+used 
+
+building stock) (CD) requirements or health and safety. assessments, such as BREEAM. 
+
+% of material that has not been used as a This information will also inform 
+
+result of redesigning and as a function of LCA and LCC studies 
+
+the total amount of material used 
+
+Proportion of building components that are 
+
+Building reversible from the wider building without 
+
+design  significant damage to either the removed Designers can demonstrate to 
+component or its wider assembly. This urban planners that the building 
+indicator should be linked to BIM and % of the building can be disassembled at the end 
+
+Design for disassembly guidelines to ensure stakeholder down the that can be of its life. This will support building Core 
+(CD)  supply chain can optimise the building end disassembled level assessments, such as 
+
+of life. This indicator is measured using DGNB. This information will also 
+ISO20887. inform LCA and LCC studies 
+
+% of the building that can be disassembled 
+at end of life 
+
+The spatial and technical aspects of % of the building 
+Design for adaptability Designers can demonstrate to 
+
+building design allow for adaptation to that can be 
+(transformation capacity) urban planners that the building Core 
+
+another function (as designed). This adapted at end of 
+(CD  can be disassembled at the end 
+
+indicator is measured using ISO20887. life of its life. This will support building 
+
+39 
+
+
+
+ 
+
+% of the building that can be adapted at level assessments, such as 
+end of life DGNB. 
+
+This information will also inform 
+LCA and LCC studies 
+
+Proportion of the building that is formed of These will enable contractors to 
+demonstrate compliance with 
+
+Reused content (UM) reused products and product components  % reused content Core 
+local requirements, such as the 
+
+% reused content GLA circular economy statement. 
+Material inputs This indicator will also inform 
+to building policy makers to set future 
+
+Proportion of the building that is formed of 
+targets.  
+
+recycled/upcycled products and product % recycled 
+Recycled content (UM) components (exclude downcycling). This information will also inform Core 
+
+content 
+LCA studies 
+
+% recycled content 
+
+Monofunctional 
+(score 3-6) This enables building owners/ 
+
+managers or developers to 
+The spatial and technical aspects of Transfunctional 
+
+Transformation capacity understand the potential to 
+building design allow for adaptation to (score 6-8) Aspirational 
+
+(CD) transform their building to deliver 
+Circular another function (for existing buildings)  
+
+Fully greater value and function with 
+potential (as 
+
+transformable lower resource inputs. 
+built) 
+
+(score >8)62 
+
+The percentage (by mass) of products % by mass of 
+Reuse potential  (UM) which can be reused at the end of the life of products that can These will enable contractors to Core 
+
+the building be reused demonstrate compliance with 
+
+ 
+62 See Durmisevic, E. (2016). Dynamic and Circular Buildings by High Transformation and Reuse Capacity https://www.bamb2020.eu/wp-
+content/uploads/2016/11/Elma-sustainable-innovation-paper.pdf 
+
+40 
+
+
+
+ 
+
+local requirements, such as the 
+The percentage (by mass) of products % by mass of 
+
+GLA circular economy statement.  
+Recycling potential  (UM) which can be recycled at the end of the life products that can Core 
+
+of the building be recycled 
+
+The average intensiveness of use of the Clients will be able to understand 
+building stock relative to the average whether the use of their asset is 
+potential intensiveness of use. This optimised. 
+
+Lifespan & in- indicator is only suitable for buildings such % hours actually 
+use Intensiveness of use  (L) as schools, offices or community centres.  occupied versus Planning officers will also be able Aspirational 
+performance potential to validate the need for new 
+
+Number of hours the building is occupied buildings to be added or if they 
+versus the amount of hours it has the could more efficiently use existing 
+capacity to be occupied in average ones 
+
+Demolition companies and 
+£ or euro that can contractors will be able to quantify 
+
+The forecasted total value obtained from be extracted from 
+Residual value (all the benefits of maximising reuse 
+
+material recirculation of materials within the the reuse of 
+materials in building)  (L) and recycling.  Aspirational 
+
+building  components in 
+the building Investors will understand the 
+
+value of their portfolio 
+
+Material 
+Policy makers will be able to 
+
+outflows The amount of waste materials from the 
+Total material arisings Tonnes of waste understand quantities of wastes 
+
+and recirculati building across its lifetime, including during Core 
+(whole life)  (UM) arising generated. This information will 
+
+on  future refurbishment, repair phases. 
+also inform LCA and LCC studies 
+
+Policy makers will be able to 
+
+% reused, The percentage of materials which were % reused, validate their targets for recycling 
+
+remanufactured, recycled reused, remanufactured or recycled at the remanufactured, and reuse against those numbers. Core 
+(CD)  end of the life of the building recycled  This information will also inform 
+
+LCA studies 
+
+41 
+
+
+
+ 
+
+Policy makers will be able to 
+Typical % 
+
+Mapping of material history and recycling validate their targets for recycling 
+End of Life reference recycled or 
+
+potential, before it reaches a material and reuse against those numbers. Aspirational 
+scenario (UM) reused at end of 
+
+bank/storing site. 
+life This information will also inform 
+
+LCA studies 
+
+Materials/product/components level indicators  
+
+Core or 
+Category Indicator name (index) Indicator description Suggested unit Stakeholder relevance/benefit 
+
+aspirational 
+
+Product has been designed so that the 
+minimum material inputs are required to Product manufacturers 
+
+achieve the same whole life functionality, demonstrate that they have 
+designed the product with 
+
+Dematerialisation (linked without compromising on durability, 
+material optimisation. This will 
+
+to total material inputs to resilience, other technical performance % of material not 
+Core 
+
+used support scheme such as the 
+building stock) (CD) requirements or health and safety.  
+
+cradle to cradle certification 
+% of material that has not been used as a scheme. This information will also 
+result of redesigning the product and as a inform LCA and LCC studies 
+
+Product function of the total amount of material used 
+design  
+
+Product manufacturers 
+Product has been designed to enable future % by mass of 
+
+demonstrate that they have 
+repair of key components of the product. components of 
+
+designed the product for future 
+the product that 
+
+Design for repairability This is not applicable to all products. repairability. This will support 
+can be easily Core 
+
+(CD) % by mass of components of the product scheme such as the cradle to 
+removed and 
+
+that can be easily removed and repaired or cradle certification scheme. This 
+repaired or 
+
+replaced.  information will also inform LCA 
+replaced.  
+
+and LCC studies 
+
+Material inputs Proportion of the product/component that is 
+Reused content  (UM) % reused content These will enable products Core 
+
+(as formed of reused materials/products manufacturers to demonstrate to 
+
+42 
+
+
+
+ 
+
+manufactured) % by mass of the product that consists of contractors’ compliance with local 
+  components that have been reused requirements, such as the GLA 
+
+circular economy statement. This 
+indicator will also inform policy 
+makers to set future targets.  
+
+Proportion of the product/component that is This will also support product 
+formed of recycled materials/products certification schemes like EPD or 
+
+Recycled content (UM) (exclude downcycling). % recycled 
+cradle to cradle Core 
+
+content 
+% by mass of the product that consists of This will support schemes such as 
+components that have been recycled  the cradle to cradle certification 
+
+scheme. This information will also 
+inform LCA and LCC studies 
+
+The product has previously been used for 
+
+Product is reused  after it the same function in another building This informs the product 
+has been used in a anufacturers on the end of life 
+
+% of similar products/components that are % reuse m Core 
+building (CD) potential of their 
+
+reused at the end of their life based on 
+product/component. 
+
+actual waste analysis. 
+Material inputs This can also inform policy 
+(as installed in The product has previously been used for makers on whether there is a 
+building)   the same value function in another building further need for recycling facilities. 
+
+Product is recycled after it and has been through some processing. 
+This will support scheme such as 
+
+has been used in a % of similar products/components that are % recycled the cradle to cradle certification Core 
+building (CD) recycled at the end of their life based on scheme. This information will also 
+
+actual waste analysis. Excludes inform LCA and LCC studies 
+downcycling 
+
+Product is designed and installed so that it This will support scheme such as 
+Circular 
+
+can be easily demounted from the wider the cradle to cradle certification 
+potential (as Reuse potential (UM) % potential reuse Core 
+
+assembly with no loss of value to itself or scheme. This information will also 
+installed)  
+
+the assembly inform LCA and LCC studies 
+
+43 
+
+
+
+ 
+
+% of the product/component that has the 
+potential to be reused 
+
+This will enable policy makers to 
+The product is covered by an Extended identify where more EPR 
+
+Part of an extended Producer Responsibility scheme by the schemes may need to be 
+producer responsibility manufacturer (e.g. a take-back scheme)  Yes/no Core 
+
+implemented. This will affect 
+scheme (CD) 
+
+This is a yes/no answer product manufacturers & 
+suppliers 
+
+This will enable the replacement 
+% of the essential of core components of units 
+
+The amount of components of the product 
+components of without the need to replace whole 
+
+Repairability potential (L) that can be easily removed and replaced Aspirational 
+the product that units. This will enable facility 
+
+(once installed)  
+can be repaired managers to manage better the 
+
+buildings 
+
+This will enable the demolition 
+industry to understand whether 
+the product/component can be 
+
+Lifespan and The number of years the material or 
+reused. It will also inform 
+
+in-use Service life (L) product has been used for its intended Number of years Core 
+contractors on when the product 
+
+performance  function. 
+needs to be considered for further 
+testing to ensure it is fit for 
+purpose 
+
+Demolition companies and 
+Material contractors will be able to quantify 
+
+£ or euro that can 
+outflows Financial value obtained by actor with duty the benefits of maximising reuse 
+
+Residual value (L) be made from the Aspirational 
+and recirculati of care of product at building end of life  and recycling. Investors will 
+
+reuse of a product 
+on  understand the value of their 
+
+portfolio 
+
+ 
+
+44 
+
+
+
+ 
+
+Table 6: Short list of enablers at city, building and materials/products/components level 
+
+City level enablers 
+
+Indicator Description Stakeholder 
+
+Number of initiatives, regulations, taxes for new materials Policy makers need to develop the right incentives to the whole 
+and incentives promoting circular design (e.g. lean construction industry to enable more circular decisions to be 
+
+Promotion of circular design 
+principles, design for disassembly and adaptability)/ made. Those could be at planning stage for example. 
+
+incentives 
+building lifespan extension over replacement/ looping at 
+building end of life 
+
+Government department, local authorities, public bodies need 
+Circular economy included in Proportion of value procurement in which Circular economy 
+
+to set procurement rules to enable more circular economy 
+public procurement strategies requirements are included in public procurement strategies  
+
+decisions to be made 
+
+The database would be populated and used by contractors and 
+‘City circularity database’ exists 
+
+demolition companies (demand/supply), facility managers 
+for aggregation and analysis of A database is present in the city to analyse the circular 
+
+(during refurbishment and repair cycles). It would also be 
+data on building stocks and economy practices in buildings  
+
+useful to policy makers to establish targets for reuse/repair and 
+material flows 
+
+recycling. 
+
+Universities and professional bodies can set up course to 
+Number of participants enrolled in University courses/ 
+
+Educational courses/skills upskill professionals and students to make them aware of the 
+apprenticeship/ upskilling on the topic of circular economy 
+
+importance of circular economy 
+
+Proportion of building stock A better understanding of the building stock in a given city will 
+Amount of material required for a typical building in the 
+
+mapped (ie: materials with support planning officers in their decision to award permission 
+building stock, across its whole life. 
+
+building known) to build as they would understand the building stock better.  
+
+Building level enablers 
+
+Indicator Description Comment 
+
+45 
+
+
+
+ 
+
+The data set that describes the characteristics of the Building on materials passport this enable information on the 
+Building passport / Bill of 
+
+products in the building which give them value for recovery, building to be passed on to facility managers, landlords. 
+Materials  
+
+recycling and reuse  
+
+Information on the efficient repair/maintenance/replacement 
+schedule of components will enable facility managers/ 
+
+Guidelines available for repair, 
+Data is available for the repair, maintenance, transformation landlords to manage their facility more efficiently. It will also 
+
+maintenance, transformation and 
+and material looping of the building  ensure the end of life of components/products is optimised. 
+
+material looping  
+Product manufacturers could therefore benefit from 
+materials/products re-entering the manufacturing loop 
+
+The BIM model should be used by the whole building supply 
+Has a Building Information Model with relevant 
+
+BIM  chain from designers to facility managers and need to be kept 
+circularity data. 
+
+up to date throughout the building life 
+
+A database that enables communication across the whole 
+Relevant data routinely shared with a ‘city circularity 
+
+‘City circularity database’ supply chain and support the supply/demand of 
+database’ throughout lifetime  
+
+recycled/reused materials 
+
+Screening of existing buildings Contracted by the client or contractor, this will enable the policy 
+Resource and environmental pre-demolition audit 
+
+(added) makers to inform recycling/reuse targets  
+
+Logistic centre to store and transport recycled/reuse Client with large portfolio would benefits for setting hubs to 
+
+Logistic centre materials in an efficient way. Linked to “number of support a better supply/demand approach. 
+
+reuse/recycling centres created” at city level/ Those could also be set up at city level. 
+
+Material/product/component enablers 
+
+Indicator Description Comment 
+
+The data set that describes the characteristics of the This must be in place to support any re-use or potential re-use 
+Material passport  products in the building which give them value for recovery, in future life cycles. Really important to know what is going into 
+
+recycling and reuse  buildings today to avoid the same issues we currently face with 
+
+46 
+
+
+
+ 
+
+existing building stock i.e. don't know what's in them so how do 
+we reuse?  Screening/mappings of the potential hazardous 
+substances in buildings should be part of the materials 
+passport.  
+
+Long use of buildings, components and materials can be 
+promoted by equipping buildings with a 
+deconstruction/disassembly/adaptability plan 
+
+Guidelines available for repair, This is not always the right incentive for all products. Could be 
+Data is available for the repair, maintenance, transformation 
+
+maintenance and material part of material passport 
+and material looping of the building  
+
+looping  
+
+Important to ensure that the tax will drive the right incentive 
+
+Taxes Taxes on new products and not promote the wrong behaviour.  
+
+Tax relief on high recycling/reuse rate could be an option 
+
+Affordability of reused and leased Price of reused and leased products compared to linear This is calculated as part of a whole life costing approach 
+products (additional) products  
+
+ 
+  
+
+47 
+
+
+
+  
+
+5 Summary and next steps 
+
+Summary of finding 
+
+Task 3.2 focused on the development of circularity indicators based on the findings of Task 
+
+3.1 to create a robust and concise list of indicators to recommend for inclusion in the 
+
+Circularity Dashboard (WP8). The indicators identified provide an overview of circularity at a 
+
+city, building and material level and a mix of impact metrics (e.g. recycled content, material 
+
+use), productivity metrics (e.g. per value, area) and enabler metrics (e.g. number of projects 
+
+with circular economy requirements). Those indicators will feed into the lifespan, urban 
+
+mining and circular design indices and will assist, at the municipal level in supporting 
+
+evidence-based policy and planning development and decision making, as well as at the 
+
+project level, in terms of the availability and use of reclaimed and recycled materials. In 
+
+addition, these indicators can be used to inform measurement of the environmental, 
+
+economic and social impact of circular economy decisions and validate their benefits (or not) 
+
+using LCA (Life Cycle Assessment), LCC (Life Cycle Costing) and social impact approaches. 
+
+Approximately 510 indicators were identified through the literature review and a process of 
+
+prioritisation then enabled the categorisation of these indicators in categories following life 
+
+cycle stages. A process of prioritisation taking into account the findings from the initial 
+
+definition of useful indicators identified through the literature review, the initial grouping and 
+
+refinement process, and a review of feedback from the stakeholder workshops. The final list 
+
+of indicators was informed by the D3.2 use cases.  
+
+The final recommended list of indicators included 10 circular economy indicators at city level, 
+
+13 at building level and 11 at material/product/component level. Through the process of 
+
+identification of these indicators, it also became apparent that some enabling factors would 
+
+be necessary to drive the circular economy process. Those have been labelled “enablers”.  
+
+These indicators will be recommended for further evaluation to enable possible integration in 
+
+the WP8 circularity dashboard.  
+
+Next steps 
+
+1) Refining and finalisation of the list of indicators to include in the WP8 Circularity 
+
+Dashboard based on recommendations from D3.3. and wider input from the four 
+
+cities, which might include the review of the initial list of indicators. While the 
+
+dashboard is aimed to be used at city level, a review of the building and 
+
+materials/products/components level indicators will be reviewed as they enable the 
+
+calculation of city level ones.  
+
+2) Rationalisation of the indicators to feed into the measurement of the three indices: 
+
+urban mining index, lifespan index and circular design index.  
+
+48 
+ 
+
+
+
+ 
+
+3) Clear and specific definition of the final indicators boundaries and applicability in 
+
+each city 
+
+4) The results of this report will feed into the remaining WP3 tasks, specifically 3.3 and 
+
+3.4., WP8 and WP7. 
+
+ 
+
+ 
+
+49 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+  
+
+Annex 1: Feedback from stakeholder workshops 
+
+City level indicators 
+
+Table 7 below summarises the workshops findings at City level and highlights whether the 
+
+indicators generated a high, medium or low level of interest. Based on the ease of 
+
+calculation with the current data available, those indicators have been classified as suitable 
+
+for CIRCuIT (core) or aspirational (ie: the data and/or the methodology to calculate the 
+
+indicator are not available). It is important to note that not all indicators were given a rating 
+
+as the workshop attendees were only given a number of votes each. The indicators were 
+
+also classified as “impact” (eg: recycled content or materials use) or “productivity” (eg: per 
+
+value, area). 
+
+50 
+ 
+
+
+
+ 
+
+Table 7: City level indicators identified as relevant to the sector 
+
+Priority (H/M/L) 
+Impact/ Core or 
+
+Category Indicator name Indicator description and suggested units 
+productivity aspirational 
+
+Lon63 Cop64 Ham65 Van66 
+
+Indicates the quantity of material inputs (virgin 
+Total material inputs to and secondary) to the city's built environment 
+
+H M H - Impact Core 
+building stock Calculated as an absolute quantity of materials 
+
+used materials used. 
+
+Indicates the proportion of raw material inputs 
+to the city's built environment that are recycled 
+
+Secondary inputs to (excluding downcycling) following a previous 
+building stock – use cycle. H L - - Impact Core 
+recycled materials  
+
+Calculated as a percentage of recycled 
+Material inputs materials compared to virgin materials used. 
+
+Indicates the proportion of raw material inputs 
+
+Secondary inputs to to the city's built environment that are reused) 
+
+building stock – reused following a previous use cycle. H L H - Impact Core 
+materials Calculated as a percentage of reused 
+
+compared to virgin materials used. 
+
+The amount of material input per unit of 
+Resource Decoupling economic/ social/environmental value added L M -  Productivity Aspirational 
+Index – by construction & buildings 
+
+ 
+63 London 
+64 Copenhagen 
+65 Hamburg 
+66 Vantaa 
+
+51 
+
+
+
+ 
+
+economic/social/enviro
+nmental 
+
+Ratio of building 
+Ratio of refurbishment/transformation to new 
+
+transformation to new M H H  Productivity Core 
+construction 
+
+construction 
+
+The average intensiveness of use of the 
+building stock relative to the average potential 
+
+Intensiveness of use intensiveness of use. This indicator is only M - - - Productivity Core 
+Lifespan and suitable for buildings such as schools, offices 
+in-use or community centres.  
+performance 
+
+The average/predicted length of time 
+remaining in the current buildings are expected 
+
+Average/predicted to function for. This could be defined as either 
+lifespan of existing the average life-span of the specific building H H - L Impact Aspirational 
+building stock type based on reference buildings OR the 
+
+potential life-span, as a measure of possible 
+future use cases - prolonging the lifespan. 
+
+Circular 
+Reuse/recycling 
+
+potential of The amount of materials which are available Remov
+potential of existing H H H Impa t C
+
+e67 c ore 
+existing for reuse/recycling in the building stock  
+
+building stock 
+building stock 
+
+Total waste arisings The total amount of materials wastes (which 
+Material 
+
+from construction and may be recycled/reused or 
+outflows and H - - L Impact Core 
+
+buildings sector and downcycled/landfilled/incinerated) emerging 
+recirculation 
+
+end of life reporting from the construction and buildings sector 
+
+ 
+67 The Vantaa stakeholders felt that it was not really an indicator, but more like a material flow analysis or potential measure 
+
+52 
+
+
+
+ 
+
+The proportion of total material arisings (see 
+above) that enter new use cycles within the 
+
+Recirculated materials  city/region (reuse/recycle) H - - - Impact Core 
+
+% per tonne of the city’s construction and 
+demolition waste that is recycled 
+
+ 
+
+The indicators listed below were discussed during the workshops and it was decided that they should not be selected for the WP8 dashboard 
+
+either because they were not seen as a priority or because they were seen as a priority, but not at city level. Table 8, below, summarises the 
+
+rationales for not selecting them.  
+
+Table 8: City level indicators not selected 
+
+Reason this indicator was not selected 
+Indicator description 
+
+Category Indicator name 
+and suggested units 
+
+London Vantaa Hamburg Copenhagen 
+
+Amount of material 
+Average whole life required for a typical 
+
+Material 
+material inputs per building in the building Suggested remove   Medium interest 
+
+inputs 
+building stock, across its whole 
+
+life. 
+
+Proportion of building 
+Near- This indicator was seen as 
+
+stock that is at high Need better 
+Lifespan obsolescence/demoliti lower priority compared to - - 
+
+relative risk of demolition definition - remove 
+and in- on floorspace others selected 
+
+within given timeframe 
+use 
+performan This indicator was seen as 
+ce Average user What is the average user difficult to measure, Important but hard to 
+
+- Perhaps this could be 
+satisfaction satisfaction of building especially for residential measure - remove building owner 
+
+developments. There is 
+
+53 
+
+
+
+ 
+
+users across building opposing interest in satisfaction? Suggest 
+stock? performance and use removing 
+
+versus cost and ease of 
+delivery. 
+
+This indicator was seen as 
+difficult to measure. The Very 
+connection between the important but 
+
+Average healthy life years Unclear what it Perhaps link to 
+average healthy life years more 
+
+Material health lost due to material health means at city level – hazardous wastes? 
+and materials health can be relevant at 
+
+impacts in building stock remove Suggest removing 
+difficult to establish, even building or 
+
+though there are increasing product level 
+number of studies. 
+
+Difficult to calculate High priority – perhaps 
+The proportion of a city’s 
+
+This indicator is important – remove change to transformation 
+Transformation floorspace that is suitable 
+
+but best measured at At city level, it would - potential? More 
+capacity to be adapted for a 
+
+building level. be best to include appropriate at building 
+different function 
+
+shared space level 
+
+Circular 
+potential Copenhagen has 
+of existing created scenarios of 
+building most likely climate 
+stock change scenarios (e.g. 
+
+Predicted material losses Mixed review of this 
+Resilience of building urban heat islands, 
+
+under most likely climate - indicator. Suggest it - 
+stock precipitation, floods etc) 
+
+scenarios is out of scope 
+which could be used to 
+predict most exposed 
+materials/components. 
+
+But out of scope 
+
+Material Average distance to Distance is not the only It should not 
+outflows new point of use by The distance travelled 
+
+issue, the type of transport - just be a - 
+
+and products/materials between recirculated 
+is what is transported consideration 
+
+54 
+
+
+
+ 
+
+recirculati materials’ original use and needs to be considered. of the 
+on their next use Overall, this should be distance, but 
+
+covered in a whole life also of the 
+environmental impact haulier as 
+
+assessment there are 
+limitations on 
+the possibility 
+to transport 
+
+recycled 
+materials 
+
+High - it would provide 
+incentives to enable Low priority – 
+
+The total value obtained 
+Total residual value of change at building level. best applied 
+
+by recirculation of - - 
+recirculated materials Remove this indicator at at building 
+
+materials and products 
+city level and include at level 
+
+building level 
+
+The balance of trade is 
+the difference between 
+the monetary value of a 
+
+Trade balance - - - - 
+nation's exports and 
+imports over a certain 
+
+Circularity time period 
+enablers 
+
+Impact of taxes incentives 
+to promote the use of 
+
+Included in circular design 
+Taxes recycled (excluding down - - - 
+
+incentives 
+cycling) and reused 
+activities on new products  
+
+Additional Capture data being Merge with circular design 
+Added by London N/A N/A N/A 
+
+ones collected by other incentives 
+organisations, eg: GLA 
+
+55 
+
+
+
+ 
+
+waste targets, CE 
+statement 
+
+Planning/how does the 
+planning system 
+encourage CE. It 
+
+Additional Merge with circular design 
+currently does not flex Added by London N/A N/A N/A 
+
+ones incentives 
+enough to promote 
+radical thinking 
+solutions 
+
+ 
+ 
+
+56 
+
+
+
+  
+
+Table 9, below, presents the summary of the enablers that were discussed at the workshop. 
+
+There was a consensus that those were not indicators but would be useful initiatives that 
+
+would support a circular economy approach. The review of the four cities is summarise in 
+
+this table. 
+
+Table 9: City level enablers review 
+
+Indicator Description Priority Comment 
+
+Number of initiatives, regulations, taxes 
+for new materials and incentives Great success in Denmark on 
+
+Promotion of promoting circular design (e.g. lean High in London, energy efficiency 
+circular design principles, design for disassembly and Copenhagen and 
+incentives adaptability)/ building lifespan extension Hamburg In the UK, example of 
+
+over replacement/ looping at building Aggregate Levy 
+
+end of life 
+
+Circular 
+economy Proportion of value procurement in 
+included in which  Circular economy requirements Medium in 
+
+ 
+public are included in public procurement London 
+procurement strategies  
+strategies 
+
+Investment into sectors and 
+Investment in 
+
+infrastructure that demonstrate they are 
+circular sectors Low in London Investors tend to be too much 
+
+using circular economy practices, ie: 
+and and Copenhagen in business as usual thinking 
+
+that they apply some of the principles 
+infrastructure 
+
+laid out in the building level section 
+
+Number of jobs 
+Low in London, 
+
+created in Number of jobs created in circular Suggestion to separate jobs 
+and in Hamburg; 
+
+circularity parts economy activities, such as repair, for low skills/unemployed 
+medium in 
+
+of construction reuse, high recycling value workers 
+Copenhagen 
+
+sector 
+
+‘City circularity 
+database’ exists 
+for aggregation A database is present in the city to 
+
+High in London 
+and analysis of analyse the circular economy practices  
+
+and Hamburg 
+data on building in buildings  
+stocks and 
+material flows 
+
+Number of participants enrolled in Low in London Difficult to enforce, but could 
+Educational University courses/ apprenticeship/ 
+
+be attractive proposition for 
+courses/skills upskilling on the topic of circular Medium in 
+
+economy Copenhagen economic recovery 
+
+Quantity of Heathrow expansion was 
+materials that is Number of reuse/recycling centres considering the use of hubs to 
+reused/recycled High in London 
+
+created in the city store products. This is 
+through essential to support logistic 
+dedicated 
+
+57 
+ 
+
+
+
+ 
+
+centres 
+(Additional one)  
+
+Link to material flow analysis 
+Proportion of 
+
+Percentage of total floor area for which and supports understanding of 
+building stock 
+
+material content has been quantified High what material might become 
+mapped with 
+
+using materials flow analysis.  available in the future if linked 
+materials content 
+
+to  
+
+ 
+
+ 
+
+Building level indicators 
+
+Table 10, overleaf, summarises the workshops findings at building level and highlights 
+
+whether the indicators generated a high, medium or low level of interest. Based on the ease 
+
+of calculation with the current data available, those indicators have been classified as 
+
+suitable for CIRCuIT (core) or aspirational (ie: the data and/or the methodology to calculate 
+
+the indicator are not available). It is important to note that not all indicators were given a 
+
+rating as the workshop attendees were only given a number of votes each. The indicators 
+
+were also classified as “impact” (eg: recycled content or materials use) or “productivity” (eg: 
+
+per value, area). 
+
+ 
+
+ 
+
+58 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+ 
+
+Table 10: Building level indicators identified as relevant to the sector 
+
+Priority (H/M/L) 
+Impact/ Core or 
+
+Category Indicator name Indicator description and suggested units 
+1 productivity aspirational 
+
+Lon68 Cop69 Ham70 Van7  
+
+Building has been designed so that the 
+Dematerialisation (link
+
+minimum material inputs are required to 
+ed to total material 
+
+achieve the same whole life functionality, H L - - Productivity Core 
+inputs to building 
+
+without compromising on durability, resilience 
+stock) 
+
+or health and safety. 
+
+Design for Proportion of building components that are 
+disassembly (to enable reversible from the wider building without 
+
+Building H M H - Productivity Core 
+increase reused and significant damage to either the removed 
+
+design  
+recycling potential) component or its wider assembly  
+
+Design for adaptability The spatial and technical aspects of building 
+(transformation design allow for adaptation to another function H L - - Productivity Core 
+capacity)  (as designed)  
+
+Proportion of building components specified 
+Design for repairability  H L - - Productivity Aspirational 
+
+that are designed to be repairable 
+
+Proportion of the building that is formed of 
+Renewable content L - - M Impact Core 
+
+renewable products and product components  
+Material inputs 
+to building 
+
+Proportion of the building that is formed of 
+Reused content  M - - M Impact Core 
+
+reused products and product components  
+
+ 
+68 London 
+69 Copenhagen 
+70 Hamburg 
+71 Vantaa 
+
+59 
+
+
+
+ 
+
+Priority (H/M/L) 
+Impact/ Core or 
+
+Category Indicator name Indicator description and suggested units 
+68 70 productivity aspirational 
+
+Lon  Cop69 Ham  Van71 
+
+Proportion of the building that is formed of L 
+Recycled content  recycled/upcycled products and product - - M Impact Core 
+
+components (exclude downcycling)  
+
+The spatial and technical aspects of building 
+Transformation 
+
+design allow for adaptation to another function H L - H Productivity Aspirational 
+capacity  
+
+(for existing buildings)  
+
+Circular 
+The percentage (by mass) of products which 
+
+potential (as Reuse potential  H - - - Impact Core 
+can be reused  
+
+built)  
+
+The percentage (by mass) of products which 
+Recycling potential  M - - - Impact Core 
+
+can be recycled  
+
+The years the building can be used for its 
+Useful lifespan  H L - - Productivity Core 
+
+Lifespan & in- intended purpose  
+use 
+performance  The intensity of building use compared to the 
+
+Intensiveness of use  M L - H Productivity Aspirational 
+industry average  
+
+Total material arisings The forecasted amount of waste materials 
+M L - - Impact Core 
+
+Material (whole life)  from the building across its lifetime.  
+outflows 
+and recirculati % reused, The actual percentage of materials which were 
+on  remanufactured, reused, remanufactured or recycled at the end H L H - Impact Core 
+
+recycled  of the life of the building 
+
+60 
+
+
+
+ 
+
+Priority (H/M/L) 
+Impact/ Core or 
+
+Category Indicator name Indicator description and suggested units 
+productivity aspirational 
+
+Lon68 Cop69 Ham70 Van71 
+
+The forecasted total value obtained from 
+Residual value (all 
+
+material recirculation of materials within the H L X H Productivity Aspirational 
+materials in building)  
+
+building  
+
+End of Life scenario Mapping of the typical end of life scenarios of 
+Additional 
+
+(additional discussed materials (reuse/recycling), before it reaches a N/A L N/A N/A Impact Core 
+indicator 
+
+in Copenhagen) material bank/storing site. 
+
+While the dashboard will be reporting city level indicators, the building level indicators are necessary to feed into the city level ones. The 
+
+indicators listed below were discussed during the workshops and did not generate interest because they were not seen as a priority or because 
+
+they were seen as a priority, but not at building level. Table 11, below, summarises the rationale for not selecting them.  
+
+Table 11: Building level indicators not selected 
+
+Reason this indicator was not selected 
+Indicator description and 
+
+Category Indicator name 
+suggested units 
+
+London Vantaa Hamburg Copenhagen 
+
+Proportion of a building that can 
+Building Design for secondary 
+
+be assembled from secondary Medium interest   Low 
+design material compatibility  
+
+materials and components. 
+
+Average transport 
+Material The average distance each unit of Should be 
+
+distance for raw 
+inputs to material travelled to site. Both calculated as part Hard to measure - High interest 
+
+materials (split by virgin 
+building  virgin and secondary.  of WLC 
+
+and secondary)  
+
+61 
+
+
+
+ 
+
+The quantity and profile of 
+Material inputs through materials required for Low interest, hard 
+
+No - - 
+refurbishment  refurbishments of the building up to define 
+
+to the date of measurement  
+
+Overall health risks of materials 
+Medium, but best 
+
+and products in building, No – materials 
+Material health   - - measured at 
+
+quantified as impact on healthy level 
+product level 
+
+life years of building occupants  
+
+The amount of materials lost as 
+waste through the processing, 
+
+Material losses (waste) transport, storage and Interesting – but 
+through supply chain configuration/ assembly of not relevant to - - Low 
+and construction stage  materials and products prior to CIRCuIT 
+
+specification, plus construction 
+site waste.  
+
+The percentage (by mass) of No – materials Low – difficult to 
+Repairability  - - 
+
+products which can be repaired  level measure 
+
+Circular 
+% building products 
+
+potential (as The percentage of building 
+covered by Extended 
+
+built)  products/components which are Not relevant at 
+Producer Responsibility - Low Low 
+
+part of an Extended Producer building level 
+scheme (e.g. a take-
+
+Responsibility scheme  
+back scheme)  
+
+No – the condition 
+of the building 
+
+Lifespan & 
+The condition of the building does not always 
+
+in-use Condition  - - No 
+relative to the industry average  dictate what 
+
+performance  
+happens to the 
+
+building 
+
+62 
+
+
+
+ 
+
+How well the building performs its 
+function (subjective or objective Medium – unsure 
+
+Performance  Low Not relevant  
+measurement depending on how to quantify 
+building function)  
+
+ 
+
+63 
+
+
+
+  
+
+Table 12, below, provide the summary of the enablers that were discussed at the workshop. 
+
+There was a consensus that those were not indicators but would be useful initiatives that 
+
+would support a circular economy approach. The review of the four cities is summarised in 
+
+that table. 
+
+Table 12: Building level enablers review 
+
+Indicator Description Priority Comment 
+
+High in London 
+
+The data set that describes the and Hamburg but 
+Building 
+
+characteristics of the products in the needs to be 
+passport / Bill of defined Needs to be clearly defined 
+
+building which give them value for 
+Materials  
+
+recovery, recycling and reuse  Low in 
+Copenhagen 
+
+Guidelines 
+This is important to ensure the 
+
+available for 
+repair, Data is available for the repair, High in London buildings designed for 
+
+adaptability or disassembly 
+maintenance, maintenance, transformation and Low in reach their potential when 
+transformation material looping of the building  Copenhagen reaching the end of their 
+and material 
+
+purposed life 
+looping  
+
+High in Vantaa, BIM is seen as a mean to 
+London and communicate information 
+
+Has a Building Information Model with 
+BIM  Hamburg  throughout the life stages of a 
+
+relevant circularity data. 
+Low in building. It is important that the 
+
+Copenhagen model is continuously updated 
+
+Relevant data routinely shared with a High in London 
+‘City circularity 
+
+‘city circularity database’ throughout 
+database’ Low in  
+
+lifetime  Copenhagen 
+
+Screening of Pre-demolition audits enable 
+Resource and environmental pre- Medium in 
+
+existing buildings the calculation of the reuse 
+demolition audit Copenhagen 
+
+(added) and recycling potential 
+
+These hubs are key to enable 
+the management of resources 
+
+Logistic centre to store and transport High in Hamburg from buildings being 
+Logistic centre recycled/reuse materials in an efficient demolished. This indicator 
+
+way High in London cannot be implemented at 
+building level, so will be moved 
+to city level 
+
+ 
+
+64 
+ 
+
+
+
+ 
+
+Materials/products/components level indicators 
+
+Table 13, overleaf, summarises the workshops findings at materials/products/components 
+
+level and highlight whether the indicators generated a high, medium or low level of interest. 
+
+Based on the ease of calculation with the current data available, those indicators have been 
+
+classified as suitable for CIRCuIT (core) or aspirational (ie: the data and/or the methodology 
+
+to calculate the indicator are not available). It is important to note that not all indicators were 
+
+given a rating as the workshop attendees were only given a number of votes each. The 
+
+indicators were also classified as “impact” (eg: recycled content or materials use) or 
+
+“productivity” (eg: per value, area). 
+
+ 
+
+65 
+
+This project has received funding from  
+
+the European Union’s Horizon 2020  
+
+research and innovation programme  
+
+under grant agreement No 821201 
+
+
+
+  
+
+ 
+
+Table 13: Materials/product/component level indicators identified as relevant to the sector 
+
+Priority (H/M/L) 
+Indicator description and suggested Impact/ Core or 
+
+Category Indicator name 
+units productivity aspirational 
+
+Lon72 Cop73 Ham74 Van75 
+
+Product has been designed so that the 
+Dematerialisation  (link minimum material inputs are required to 
+ed to total material achieve the same whole life functionality, 
+
+H - - - Productivity Core 
+inputs to building without compromising on durability, 
+stock) resilience, other required technical 
+
+performance or health and safety.  
+
+Product design  Potential for a product to be removed from 
+the building without significant damage to 
+
+Design for reversibility  H - - - Productivity Aspirational 
+either the removed product or other parts 
+of the building.  
+
+% by mass of components of the product 
+Design for repairability  that can be easily removed and repaired H - - - Productivity Core 
+
+or replaced.  
+
+% by mass of the product that consists of 
+Reused content  H H - - Impact Core 
+
+components that have been reused 
+
+Material inputs (as 
+manufactured)  
+
+% by mass of the product that consists of Core 
+Recycled content M - - - Impact 
+
+components that have been recycled   
+
+ 
+72 London 
+73 Copenhagen 
+74 Hamburg 
+75 Vantaa 
+
+66 
+ 
+
+
+
+ 
+
+Priority (H/M/L) 
+Indicator description and suggested Impact/ Core or 
+
+Category Indicator name 
+units aspirational 
+
+Lon72 productivity 
+ Cop73 Ham74 Van75 
+
+Circular economy should measure how it 
+Environmental impact, responds to the "resource challenge" 
+waste, resource according to UN i.e. how it responds to 
+
+N/A H N/A N/A Impact Aspirational 
+scarcity (additional resource scarcity, environmental impacts 
+indicator) and waste associated with resource 
+
+consumption and production 
+
+Product is reused after 
+The product has previously been used for 
+
+it has been used in a H M - - Productivity Core 
+the same function in another building  
+
+building 
+Material inputs (as 
+installed in building)   The product has previously been used for 
+
+Product is recycled 
+the same value function in another 
+
+after it has been used M M - - Productivity Core 
+building and has been through some 
+
+in a building 
+processing 
+
+Product is designed and installed so that it 
+can be easily demounted from the wider 
+
+Reuse potential  H L - - Impact Core 
+assembly with no loss of value to itself or 
+the assembly  
+
+Circular potential (as The amount of components of the product 
+installed)  Repairability potential  that can be easily removed and replaced H L - - Impact Aspirational 
+
+(once installed)  
+
+Part of an extended The product is covered by an Extended 
+producer responsibility Producer Responsibility scheme by the H - - - Impact Core 
+scheme  manufacturer (e.g. a take-back scheme)  
+
+67 
+This project has received funding from  
+
+the European Union’s Horizon 2020 
+
+research and innovation programme 
+
+under grant agreement No 821201 
+
+
+
+ 
+
+Priority (H/M/L) 
+Indicator description and suggested Impact/ Core or 
+
+Category Indicator name 
+units productivity aspirational 
+
+Lon72 Cop73 Ham74 Van75 
+
+Part of a product- The product is used as part of a product-
+L - - - Productivity Aspirational 
+
+service system  service system  
+
+The number of years the material or 
+Lifespan and in-use 
+
+Service life  product could be used for its intended H H - - Productivity Core 
+performance  
+
+function  
+
+Financial value obtained by actor with 
+Material outflows 
+
+Residual value  duty of care of product at building end of M - H - Productivity Aspirational 
+and recirculation  
+
+life  
+
+ 
+
+While the dashboard will be reporting city level indicators, the materials/product/component level indicators are necessary to feed into the 
+
+building level and thereafter into city level ones. The indicators listed below were discussed during the workshops and did not generate 
+
+interest because they were not seen as a priority or because they were seen as a priority, but not at building level. Table Fejl! 
+
+Henvisningskilde ikke fundet.14, below, summarises the rationale for not selecting them.  
+
+Table 14: Materials/product/component level indicators not selected 
+
+Category Indicator name Indicator description and Reason why indicator was not selected 
+suggested units 
+
+Lon76 Cop77 Ham78 Van79 
+
+ 
+76 London 
+77 Copenhagen 
+78 Hamburg 
+79 Vantaa 
+
+68 
+This project has received funding from  
+
+the European Union’s Horizon 2020 
+
+research and innovation programme 
+
+under grant agreement No 821201 
+
+
+
+ 
+
+Design for There is a L - - 
+secondary/renewable % by mass of product that can be possibility that this 
+material compatibility assembled from disassembly does 
+
+Product design 
+(i.e. secondary materials secondary/renewable materials and not happen 
+are available for design components.   
+features)  
+
+This indicator may L transport - - 
+lead to the wrong should be 
+
+Average transport distance The average distance the virgin and approach. It needs included in 
+for raw materials (split by secondary materials have travelled to be considered as whole life 
+virgin and secondary)  before incorporation into the product  part of a whole life environmental 
+
+environmental impact 
+impact 
+
+Material inputs (as 
+Interesting Interesting - - 
+
+manufactured) % by mass of the product that 
+indicator, but out of indicator, but 
+
+Renewable content consists of components from 
+CIRCuIT scope out of CIRCuIT 
+
+renewable source  
+scope 
+
+Quantity of materials wasted in Low interest Medium   
+Material losses (waste) processing, transport, storage and interest, but 
+through supply chain  configuration/assembly of materials out of CIRCuIT 
+
+for final product  scope 
+
+Transport distance from - -   
+Material inputs (as The distance the material travels 
+
+point of extraction to point 
+installed in building between extraction and installation  
+
+of installation  
+
+Difficult to measure Low interest - - - 
+Condition of product compared with Difficult to 
+
+Lifespan and in-use 
+Condition   industry average, taking into account measure for 
+
+performance 
+its time in-use and usage patterns  some 
+
+materials 
+
+69 
+This project has received funding from  
+
+the European Union’s Horizon 2020 
+
+research and innovation programme 
+
+under grant agreement No 821201 
+
+
+
+ 
+
+Hard to measure at - - - 
+product level as it is 
+
+The intensity of product use 
+Intensiveness of use  out of 
+
+compared to the industry average  
+manufacturer’s 
+control 
+
+High interest but    
+How the product or material performs 
+
+Performance  unsure how to 
+its function 
+
+quantify 
+
+Average distance to new Distance travelled by materials from Same as above - - - 
+point of use  original use to next use  
+
+The percentage of materials in High interest but High interest High interest but - 
+Material outflows and 
+
+% of the product which actually not suitable at but not not suitable at 
+recirculation 
+
+product actually reused, sent for reused, remanufactured or product level suitable at product level 
+remanufactured or recycled following the product level 
+recycled  refurbishment/demolition of a 
+
+building  
+
+Table 15 below provide the summary of the enablers that were discussed at the workshop. There was a consensus that those were not 
+
+indicators but would be useful initiatives that would support a circular economy approach. The review of the four cities is summarised in 
+
+that table. 
+
+Table 15: Materials/product/component level enablers review 
+
+Indicator Description Priority Comment 
+
+High for London, This must be in place to support any re-use or potential re-use in future life 
+The data set that describes the 
+
+Material passport  Hamburg and cycles. Really important to know what we're putting into buildings today to 
+characteristics of the products in 
+
+Copenhagen avoid the same issues we currently face with existing building 
+the building which give them 
+
+stock i.e. don't know what's in them so how do we 
+
+70 
+This project has received funding from  
+
+the European Union’s Horizon 2020 
+
+research and innovation programme 
+
+under grant agreement No 821201 
+
+
+
+ 
+
+value for recovery, recycling and reuse?  Screening/mappings of the potential hazardous substances in 
+reuse  buildings should be part of the materials passport.  
+
+Long use of buildings, components and materials can be promoted by 
+equipping buildings with a deconstruction/disassembly/adaptability plan 
+
+Guidelines available for repair, Data is available for the repair, High for London This is not always the right incentive for all products. Could be part of 
+
+maintenance and material maintenance, transformation and material passport 
+Low in 
+
+looping  material looping of the building  Copenhagen 
+
+Relevant data routinely shared Not relevant for Materials passport is seen as more relevant 
+As described; allows for material 
+
+with ‘city circularity database’ London or 
+traceability throughout lifecycle  
+
+throughout lifetime  Copenhagen 
+
+Low for London Important to ensure that the tax will drive the right incentive and not 
+
+Taxes Taxes on new products promote the wrong behaviour.  
+High in 
+Copenhagen Tax relief on high recycling/reuse rate could be an option 
+
+Price of reused and leased Medium for This is calculated as part of a whole life costing approach 
+Affordability of reused and 
+
+products compared to linear London  
+leased products (additional) 
+
+products  
+
+ 
+
+71 
+This project has received funding from  
+
+the European Union’s Horizon 2020 
+
+research and innovation programme 
+
+under grant agreement No 821201

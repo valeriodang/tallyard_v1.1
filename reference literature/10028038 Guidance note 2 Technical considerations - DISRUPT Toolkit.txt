@@ -1,0 +1,48 @@
+﻿DISRUPT - Delivering Innovative Steel ReUse ProjecT
+GUIDANCE NOTE
+
+WHAT ARE THE TECHNICAL CONSIDERATIONS WHEN USING 
+RECLAIMED STEEL? 
+
+Reclaimed steel by its very nature will be different from virgin steel, although that is also dependent 
+upon its source. 
+
+If sourced as new, i.e. from design changes and cancelled orders, then its properties, manufacturer/
+fabricator and certification should be known. However if it is sourced from an existing  building, then 
+it will need assessing for reuse.
+
+This is relatively straightforward. The SCI Protocol for reusing Structural Steel defines a clear 
+process with a data collection, inspection and testing regime to ensure that the steel can be reused 
+with confidence and can be CE marked in accordance with EN 1090. Usually, sections are inspected 
+to verify their dimensional properties, tested to determine their mechanical properties and then 
+generally shot or sand-blasted to remove any coatings. They are then refabricated and primed to the 
+requirements of the new project. Reclaimed steel stockholders, such as Cleveland Steel and Tubes 
+(CST) and EMR, can undertake or organise these services. The Protocol also describes whether 
+steelwork is suitable, essentially it has to be no older than 1970s, although that said the Protocol  is 
+now being updated and a new standard should be ready shortly from the SCI which covers steelwork 
+that is older than the 1970s.
+
+There is not as such a visual grading system as yet, but Penny Gowler from Elliott Wood and Roy 
+Fishwick from CST have proposed a system that provides a grade to steel from Prime (new), A 
+to E depending on holes, fittings, connections and condition. This could also help in terms of the 
+acceptability of the steelwork in the new structure from an aesthetic/cosmetic viewpoint, especially 
+if it is to be exposed. 
+
+Other guidance is also available to make it easier to specify reclaimed steel – the British 
+Construction Steel Association (BCSA) has a model specification for the purchase of reclaimed 
+steel sections; and general requirements for sustainability related to steel in construction. Guidance 
+is also available from the FCBRE project on steel beams.
+
+From a design perspective, there are obvious considerations. Designers/engineers will have to 
+design with the sizes of reclaimed steel in stock, albeit supplemented with virgin steel where 
+required. Loadings will have to be adapted to the reclaimed steelwork available.  If coming from 
+an existing building and being used in a new building, then the designers/engineers may want to 
+get involved in the identification and deconstruction process. A number of engineering companies 
+are developing tools which allows them to optimise the use of reclaimed steel work in the design, 
+ensuring that it used in the most beneficial way. This also helps in ensuring that the overall tonnage 
+is minimised. 
+
+The forthcoming IStructE, Circular economy and reuse: guidance for designer will be an excellent 
+resource to enable the technical reuse of structural steel. 
+
+Download a free steel reuse toolkit and view case studies at asbp.org.uk/toolkit/disrupt-steel-reuse 1

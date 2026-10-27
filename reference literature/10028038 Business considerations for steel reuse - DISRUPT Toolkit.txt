@@ -1,0 +1,2360 @@
+﻿DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+CONSIDERATIONS A set of business considerations has been 
+developed for major supply chain stakeholders 
+involved in steel reuse, ranging from demolition 
+
+FOR STEEL REUSE contractors to clients. These considerations 
+cover technical, supply chain, economic, and 
+carbon savings, as well as other benefits.
+
+Click the icons to see 
+considerations for 
+each stakeholder
+
+Demolition Stockholder Steel Steelwork 
+Contractor Contractor Erector
+
+(Fabricator)
+
+Main Cost Designer Client
+Contractor Consultant 
+
+and Project 
+Manager
+
+
+
+Demolition Contractor
+
+TECHNICAL SUPPLY CHAIN ECONOMIC CARBON & OTHER 
+Pre-demolition audits (to Time constraints (it may take Potential cost increase in case Competitive advantage 
+ascertain which structural steel more time than usual although of delays to the demolition (knowledge and experience 
+maybe suitable for reuse, the not necessarily as depends programme (although not of steel reuse could provide 
+quantities, its condition and on the type of structure, the necessarily as this depends on competitive advantage)
+potential age) complexity of connections, the complexity of the project)
+
+composite materials and other Carbon savings and 
+Specifications/requirements factors) Payment for reclaimed steel environmental benefits 
+from clients (to recover a certain (versus payment sent for 
+amount of steel, in certain Storage on site (might need recycling, and agreeing on the 
+conditions and/or specific steel to store large quantities of payment rate)
+elements) reclaimed steel on site) 
+
+Potential increased labour costs 
+Demolition approach to recover Transportation of reclaimed (not necessarily as depends on 
+steel sections steel elements the complexity of the project)
+
+Ability to use existing Demand for reclaimed steel Potential increased machinery/
+demolition equipment to (versus demand for scrap steel) equipment cost (not necessarily 
+reclaim steel or utilise different as depends on the complexity of 
+equipment the project)
+
+Health and safety Cash flow (versus quick 
+considerations (careful payment for steel scrap sent for 
+demolition/deconstruction may recycling)
+possess more injury risks)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Pre-demolition audits (to ascertain which structural steel maybe Greater London Authority requires conducting pre-demolition 
+suitable for reuse, the quantities, its condition and potential age) audits for major developments in London. The audit should be 
+
+undertaken by a third-party independent specialist with expertise 
+According to Protocol SCI P427 for assessment, testing and in reclamation of materials. The pre-demolition audits should 
+design principles for structural steel reuse, the following steel be accompanies with: justification for demolition, summary of 
+sections are acceptable for reuse: the key components and materials in the existing buildings and 
+
+whether they are suitable for reclamation, and Circular Economy 
+•	 Steelwork no older than 1970; Statements demonstrating how building materials/components 
+•	 No built-up members (unless welds are tested); and products will be disassembled and reused at the end of their 
+•	 No spliced members (the individual lengths of a member life. Reference: https://www.london.gov.uk/sites/default/files/
+
+with a bolted or welded splice can be disassembled/cut and circular_economy_statements_lpg.pdf
+reclaimed; otherwise, welds need to be tested); 
+
+•	 No significant section loss due to corrosion (loss exceeding 5% BREEAM targets require that a third-party independent of the 
+of the element thickness is considered significant); project conducts the pre-demolition audit. 
+
+•	 No signs of fire exposure; 
+•	 No evidence of plasticity observed in the steel surface or NFDC provides guidance for demolition contractors on conducting 
+
+corrosion protection; pre-demolition audits through the Demolition & Refurbishment 
+•	 Members must meet the geometric tolerances of BS EN 1090- Resource Protocol DRG116:2019. Reference: https://demolition-
+
+2 (straightening can be performed if tolerances are not met). nfdc.com/wp-content/uploads/2022/07/DRG116_Demolition_and_
+Reference: https://steel-sci.com/assets/downloads/steel- Refurbishment_Resource_Protocol_2019-1.pdf
+reuse-event-8th-october-2019/SCI_P427.pdf
+
+When measuring steel during the pre-demolition audit, it is 
+An updated version of SCI P427 has been drafted and is currently important to consider that the recovered steel will be shorter 
+under review by the BCSA’s Steel Reuse working group. This in length. Typically, cutting off the steel at the ends is the most 
+revised version is expected to be launched in April or May of 2023 efficient way to reclaim steel. In this case, approximately 70% of 
+and will enable the reuse of steel sections dating back to 1932. the yield is usually recovered. Around 15% of the steel, in terms of 
+
+weight, is typically found in the connections, and will be cut off. 
+Furthermore, a project led by Heyne Tillett Steel is currently 
+underway to explore the potential for reusing concrete encased 
+steel structures built prior to the 1970s. It is estimated that 
+approximately 50% of steel in London is encased in concrete, 
+which means that the outcomes of this project could stimulate 
+the reuse of a significant amount of steelwork in the capital. More 
+information: https://www.istructe.org/resources/blog/reuse-of-
+1950s-concrete-encased-steel-at-cundy-str/ Demolition
+
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Specifications/requirements from clients (to recover a certain 
+amount of steel, in certain conditions and/or specific steel 
+elements)
+
+In Enfield Council’s Meridian Water project, a formal agreement 
+between donor and recipient projects and deconstruction 
+specifications were put in place. Specifications for the demolition 
+contractor included requirements to exclude end plates and 
+connections of steel elements, requirements to the length of steel 
+elements (above 3m and not exceeding 12m), and condition of 
+steel (undamaged from a structural perspective, such as not being 
+bent and not subject to dynamic loading). 
+
+Demolition
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Demolition approach to recover steel sections
+
+Compared to BAU, a slightly different demolition approach might 
+be required to reclaim steel from a building. For example, under 
+BAU conditions, one strategy for demolition is to cut steel into 
+small sections and drop them down a lift shoot. However, this 
+approach is not appropriate for steel reuse, as the recovered steel 
+elements should not be bent or structurally compromised. 
+
+Deconstruction is commonly associated with unbolting steel 
+sections, which can be unproductive since connections tend to 
+be highly individual and it is unlikely an identical connection will 
+be used on the new building. Instead, cutting the section 1 metre 
+away from the connections (and recovering the middle parts) can 
+be more efficient. 
+
+As steel sections are usually cut off at the ends when recovered, 
+it is important to consider that the recovered steel will be shorter 
+in lengths. Around 15% of the weight of steel is in connections 
+which, which will be cut off. On average, a 70% yield is expected 
+when recovering steel from a building. 
+
+As projects vary, different demolition approaches might be 
+required. For example, in the Holbein Gardens project, the steel 
+sections from the Bermondsey site had simple bolted connections 
+that were easy to dismantle. Therefore, the steel sections were 
+unbolted during the demolition process.
+
+Demolition
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Ability to use existing demolition equipment to reclaim steel or 
+utilise different equipment
+
+Demolition contractors can use their existing equipment to reclaim 
+steel elements. However, they may need to use additional of 
+different types of equipment such as additional mobile cranes, 
+mini spider cranes, or additional road closures.
+
+A demolition contractor interviewed are developing an innovative 
+robotic approach to assist and improve reclamation of steel from 
+buildings.
+
+Demolition
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Health and safety considerations (careful demolition/
+deconstruction may possess more injury risks) 
+
+Additional health and safety considerations due to deconstruction/
+careful demolition include increased exclusion zones, additional 
+lifting operations and access requirements.
+
+For example, in the Holbein Gardens project, health and safety 
+factors had economic implications. In this project, steel had to be 
+supported on scaffold towers before being unbolted, which added 
+significant costs. It is important to note that  in this particular 
+instance, steel sections were unbolted, whereas cutting off steel 
+at the ends could have fewer implications. 
+
+There is also an argument that whilst health and safety is a 
+consideration, it may not be a primary concern. The maturity of the 
+industry should be such that health and safety is engrained into 
+current practices, and demolition processes are highly automated. 
+Therefore, health and safety is likely a perceived risk but not 
+necessarily something that would affect the project.
+
+NFDC provides the following recommendations for recovering 
+steel sections: 
+- Use correct protective equipment for removing bolts and mortar. 
+- Wear gloves when handling steel sections with damaged edges, 
+galvanised or coated in fire retardant paints to prevent irritation, 
+cuts and splinters. 
+- Wear eye protection when using hand tools. 
+- Do not walk on wet and slippery steel. 
+- Only use harness protection at height as a last resort. 
+- Only use 360 plant, attachments or cutting tools if properly 
+trained. 
+- Use appropriate respiratory protection equipment with a cutting 
+torch.
+Reference: http://nfdc-drids.com/drid/metal/m1-steel.html Demolition
+
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Time constraints (it may take more time than usual although not 
+necessarily as depends on the type of structure, the complexity 
+of connections, composite materials and other factors)
+
+It is important to understand the program implications of steel 
+reuse and time constraints. 
+
+For example, the idea of recovering steel from the original building 
+and incorporating it into the new building on the same site was 
+explored at the Holbein Gardens project.  This would have required 
+recovering the steel during demolition in a controlled manner, 
+transporting the steel sections to testing facilities, sorting, 
+inspecting, and cleaning the steel, and then refabricating it. These 
+processes would have taken around 6 to 8 weeks, which the 
+program did not allow for. Therefore, the recovered steel elements 
+were reused in the client’s other projects, whereas reclaimed 
+steel sections from other buildings which were available were 
+incorporated. 
+
+In one of the case studies, there was a marked increase in the 
+programme time required to facilitate the demolition of the steel 
+frame by dismantling. However, the additional demolition costs 
+are expected to be compensated by the reduced material costs for 
+the new building.
+
+Demolition
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Storage on site (might need to store large quantities of reclaimed 
+steel on site)
+
+Storage is managed usually in two ways:
+
+- Agreeing upon a rate with a stockholder and moving steel 
+sections off-site as quickly as possible, to avoid storing the 
+material on-site. 
+- storing material on-site when there is available storage space, 
+such as in projects involving partial demolition. However, on-site 
+storage can be very limited, especially in central London projects.
+
+In the Meridian Water project, an additional cost of £40 per tonne 
+was estimated for the demolition contractor to place primary 
+steels in the holding area for collection.
+
+Demolition
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Transportation of reclaimed steel elements
+
+Depending on the length of reclaimed materials, standard-length 
+lorries might not be suitable, and extendable trailers might be 
+required for transportation. 
+
+Depending on the project location, if space is an issue, more 
+attention to route planning might be required, including issues 
+such as parking on-site, SWEEP path analysis (evaluation of the 
+space required when a vehicle makes turning manoeuvres), etc.
+
+Demolition
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Demand for reclaimed steel (versus demand for scrap steel)
+
+Recycling is an established route, and there is a clear demand 
+for scrap steel. However, presently, there is also high demand 
+for reclaimed steel for reuse, and payment for reusable steel can 
+be the same or higher than that for scrap steel, notwithstanding 
+carbon and other benefits.
+
+Demolition
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Payment for reclaimed steel (versus payment sent for recycling, 
+and agreeing on the payment rate)
+
+The value of reclaimed steel for reuse is higher than the value of 
+scrap sent for recycling. 
+
+In the client driven steel reuse model, demolition contractors do 
+not get paid specifically for the recovered material, as the clients 
+retain ownership over the reclaimed steel. However they will still 
+need to be paid for the  resources required for deconstruction.
+
+In the stockholder driven steel reuse model, demolition 
+contractors own the recovered materials and sell them to a 
+stockholder at an agreed rate, which might depend on the length 
+of the recovered sections, condition, available information, and 
+other factors. This model can be profitable.
+
+Payment estimations for recovering steel are not clearly 
+established as it is not a widespread practice. This might depend 
+on the complexity of works, any additional time added to the 
+demolition programme, extra equipment needed, and additional 
+labour required for recovering steel from a building. 
+
+Companies with no prior experience in reclaiming steel may 
+perceive it as high risk and charge a premium, while those with 
+experience or a thorough understanding of the process may 
+minimise perceived risks and not charge extra.
+
+Demolition
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Potential increased labour costs (not necessarily as depends on 
+the complexity of the project)
+
+Depending on the conditions of each project, more planning and 
+labour might be required. Additionally, more training of operatives 
+might be necessary to ensure that the recovered steel is in an 
+acceptable condition compared to business as usual.
+
+Demolition
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Competitive advantage
+
+There is a high demand for steel reuse in the industry, but a lack of 
+supply, so ‘early adopters’ will benefit.
+
+Demolition
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Carbon savings and environmental benefits
+
+A key consideration to drive steel reuse is incentivising asset 
+owners to encourage demolition contractors to recover steel from 
+demolished buildings.
+
+Currently, clients or asset owners are driving the demand for 
+reuse in the market. However, the supply chain is not yet well-
+established or adequately stocked. Consequently, prominent asset 
+owners are retrieving steel from their own buildings for reuse in 
+their projects. This is further incentivised by the fact that most of 
+the carbon benefit is credited to the recipient building, while the 
+environmental benefit for the demolished building is relatively 
+insignificant. 
+
+In sustainability assessments of construction works, steel reuse is 
+included in Module D.  Module A involves sourcing and production 
+of the construction products and their assembly into buildings 
+Module B involves the use of the building over its design life.
+Module C involves the end-of-life of the building including 
+demolition and disposal of the demolition waste. Module D is 
+a supplementary module that includes the reuse and recycling 
+potentials of materials recovered from the end-of-life of buildings.
+
+There is a view that steel reuse should be included in Module A 
+or similar to Module A, specific targets should be established for 
+Module D. 
+
+Including steel reuse in Module A, which is currently prioritised, 
+would incentivise asset owners to increase the recovery of steel 
+from demolition sites. 
+
+More information: https://steelconstruction.org/resources/
+sustainability-faqs/what-is-module-d-and-how-do-i-use-it/
+https://www.ukgbc.org/news/steel-reuse-challenges-and- Demolition
+
+Contractor
+opportunities/
+
+
+
+Stockholder
+
+TECHNICAL SUPPLY CHAIN ECONOMIC CARBON & OTHER 
+Reclaimed steel condition and Limited availability of reclaimed Material costs (purchasing Reporting and carbon savings
+sizes steel for reuse reclaimed steel)
+
+Competitive advantage 
+Initial processing of reclaimed Storage (large stockyards and Cost of product types/ (knowledge and experience 
+steel (this includes removing inventory) applications (selling reclaimed of steel reuse could provide 
+existing fittings, fixing holes, steel)  competitive advantage)
+removing coatings and paints) Lead times (turnover of 
+
+reclaimed steel is slower than Selling cycle (short selling cycle Environmental Product 
+Testing and quality assurance new steel) versus long selling cycle) Declaration (EPD)/LCA (Life 
+(arrangements with testing Cycle Assessment)
+laboratories) Cost of testing
+
+Additional equipment for 
+Material information (including reconditioning reclaimed Contracts (for reserving 
+drawings from the demolished steel (such as sandblasting materials or agreeing on the 
+building, original certificates, equipment to remove paintings process route for materials. 
+grade and properties of steel and coatings) This could include deposits and 
+sections, etc. Having material storage fees)
+provenance is crucial since steel Product liability insurance
+from certain sources may not Storage fees
+acceptable for reuse. Having Possibility to invest in non-
+information on steel sections destructive testing technologies 
+facilitates the testing and (to identify material properties 
+certification process) quickly at low cost on site, such 
+spark test to identify chemical as hardness test and electric 
+compositions) spark test to identify chemical 
+
+compositions) 
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Reclaimed steel condition and sizes
+
+Reclaimed steel sections can come in a variety of conditions. It 
+is important that the reclaimed steel is structurally compliant, for 
+example, it should not be twisted or have plastic deformation.
+
+To distinguish between the different types of reclaimed steel, 
+Elliott Wood and Cleveland Steel and Tubes have proposed a 
+grading system. Reference: https://www.ukgbc.org/news/reusing-
+steel-how-do-you-know-what-your-second-hand-steelwork-is-
+going-to-look-like/
+
+When considering reclaimed steel, longer length sections are 
+generally preferable over shorter ones as steel sections tend to 
+get shorter after being recovered from the building. Additionally, 
+irregular size sections are less desirable.
+
+An updated version of SCI P427 has been drafted and is currently 
+under review by the BCSA’s Steel Reuse working group. This 
+revised version is expected to be launched in April or May of 2023 
+and will enable the reuse of steel sections dating back to 1932. 
+
+Furthermore, a project led by Heyne Tillett Steel is currently 
+underway to explore the potential for reusing concrete encased 
+steel structures built prior to the 1970s. It is estimated that 
+approximately 50% of steel in London is encased in concrete, 
+which means that the outcomes of this project could stimulate 
+the reuse of a significant amount of steelwork in the capital. More 
+information: https://www.istructe.org/resources/blog/reuse-of-
+1950s-concrete-encased-steel-at-cundy-str/
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Initial processing of reclaimed steel (this includes removing 
+existing fittings, fixing holes, removing coatings and paints, etc.)
+
+The level of processing depends on the aspirations of the clients 
+and architects in terms of what the final product is going to 
+look like, and whether the steel will be exposed or enclosed in a 
+building. 
+
+Reclaimed steelwork may have holes and marks from previous 
+use. Retaining the original holes would be economically beneficial, 
+since less rework is required. However, grinder marks will remain 
+on the steel permanently and can transmit through the paint. If the 
+steel is going to be exposed, it is necessary to reach an agreement 
+with clients on what can be accepted aesthetically. 
+
+In the Holbein Gardens project, the client was happy that the 
+material had evidence of a previous life, and some beams with 
+existing holes were left exposed.
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Testing and quality assurance
+
+Stockholders typically oversee the testing of reclaimed steel. 
+Protocol SCI P427 outlines the principles for assessing and 
+testing structural steel reuse. Reference: https://steel-sci.com/
+assets/downloads/steel-reuse-event-8th-october-2019/SCI_P427.
+pdf
+
+Testing is conducted by independent accredited laboratories. 
+
+The testing process can usually be completed within a week, 
+depending on the arrangements with testing laboratories and 
+other factors.
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Material information (including drawings from the demolished 
+building, original certificates, grade and properties of steel 
+sections, etc. Having material provenance is crucial since 
+steel from certain sources may not acceptable for reuse. 
+Having information on steel sections facilitates the testing and 
+certification process)
+
+According to Protocol SCI P427 for assessment, testing and 
+design principles for structural steel reuse, the following steel 
+sections are acceptable for reuse: 
+
+•	 Steelwork no older than 1970; 
+•	 No built-up members (unless welds are tested); 
+•	 No spliced members (the individual lengths of a member 
+
+with a bolted or welded splice can be disassembled/cut and 
+reclaimed; otherwise, welds need to be tested); 
+
+•	 No significant section loss due to corrosion (loss exceeding 5% 
+of the element thickness is considered significant); 
+
+•	 No signs of fire exposure; 
+•	 No evidence of plasticity observed in the steel surface or 
+
+corrosion protection; 
+•	 Members must meet the geometric tolerances of BS EN 1090-
+
+2 (straightening can be performed if tolerances are not met). 
+
+SCI P427 outlines the material information that should be 
+recorded and associated with each structural member, including 
+the building age, drawings of the original building, steel grade, 
+and mechanical properties. The document also lists the material 
+properties that should be declared for reclaimed steelwork 
+according to BS EN 1090-2. 
+
+Reference: https://steel-sci.com/assets/downloads/steel-reuse-
+event-8th-october-2019/SCI_P427.pdf
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Additional equipment for reconditioning reclaimed steel (such as 
+sandblasting equipment to remove paintings and coatings) 
+
+While shotblasting equipment is typically used by stockholders, 
+in some cases, sandblasting equipment may be necessary to 
+remove thick paints and coatings from reclaimed steel, as these 
+can absorb shots and are difficult to remove. However, the use 
+of sandblasting equipment is less common in comparison to 
+shotblasting equipment.
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Product liability insurance 
+
+As steel reuse is not yet common, there could be some 
+ambiguities with warranties depending on the steel reuse model. 
+
+Overall, fabricators are expected to issue a manufacturing 
+warranty for the reclaimed steel. They would look for product 
+liability insurance from the reuse specialist (which could be a 
+stockholder or stock owner). Additionally, a structural engineer 
+would take Professional Indemnity (PI) insurance on specifying 
+steel reuse. 
+
+More ambiguities could arise in the client driven steel reuse 
+model. The clients retain ownership over the products throughout 
+the entire steel reuse process and act as suppliers of steel.  Some 
+possible scenarios include:
+
+The client might take PI insurance if the steel comes from one 
+of their donor buildings, or they would insure the steel and 
+fabricators would supply PI on the fabricated and erected element 
+of it.
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Limited availability of reclaimed steel for reuse
+
+There are two types of reclaimed stock:
+ 
+- overstock and steel sections from cancelled projects, for 
+example, where the steel has already been fabricated for a project 
+but the order has been cancelled. These steels may come in like-
+new condition, and 
+
+- steel reclaimed from buildings, which could have original paints, 
+holes, and fittings from its previous use.
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Storage (large stockyards and inventory)
+
+The storage and inventory of reclaimed steel can be more complex 
+since reclaimed steel does not come in standardised lengths.  
+Inventories of steel stock should be up to date and made available 
+to designers etc
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Selling cycle (short selling cycle versus long selling cycle) 
+
+In traditional stockholding, steel is purchased and delivered 
+within a short period of time, typically within a couple of months. 
+However, in the steel reuse scenario, materials can be procured 
+early in the project, such as at the design stage, and must be 
+reserved and stored for a long time, often years, before they are 
+delivered to the construction site.
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Cost of testing
+
+The costs of testing vary depending on the fees of each testing 
+body. In the EU, testing fees tend to be three times higher than in 
+the UK.
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Storage fees 
+
+When reclaimed steel is reserved long in advance, storage fees 
+may apply. 
+
+Additionally, storage fees are also a consideration when 
+stockholders do not own the reclaimed steel but instead, provide 
+storage and initial reconditioning services.
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Competitive advantage (knowledge and experience of steel reuse 
+could provide competitive advantage)
+
+There is a lot of demand for steel reuse in the industry and a lack 
+of supply, so ‘early adopters’ will benefit.
+
+Stockholder
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Environmental Product Declaration (EPD)/LCA (Life Cycle 
+Assessment)
+
+EMR has produced an EPD for their reusable steel. Reference: 
+https://emrglobalstorage.blob.core.windows.net/sitemedia/
+uploads/reusable-steel-edp-2023.pdf
+
+Cleveland Steel and Tubes have produced an LCA for their steel 
+tubes recovered
+and refurbished coated steel tubes. Reference: https://cleveland-
+steel.com/sites/default/files/2020-01/CST-life-cycle-analysis.pdf
+
+John Lawrie have produced an LCA for their repurposed 
+steel tubulars. Reference: https://uploads-ssl.webflow.
+com/612f56d40abf3fb6874ef134/614496ce7d750c22fdd43ec3_
+John%20Lawrie%20Tubulars%20Life%20Cycle%20
+Assessment%20Giraffe%20Innovation%20Ltd_CONDENSED%20
+VERSION.pdf
+
+Stockholder
+
+
+
+Steel Contractor (Fabricator)
+
+TECHNICAL SUPPLY CHAIN ECONOMIC CARBON & OTHER 
+Using existing equipment to Lead in times (processing Payment for fabricating Reporting and carbon savings
+fabricate reclaimed steel reclaimed steel can take longer) reclaimed steel elements
+
+Competitive advantage 
+Production line slowing down Limited availability of reclaimed Additional cost (due to more (knowledge and experience 
+(reclaimed steel can take longer steel for reuse time for fabricating and of steel reuse could provide 
+to fabricate) additional QA) competitive advantage)
+
+Procurement of reclaimed steel
+Material information (such Risk profile (use of large 
+as age of structure, material quantities of reused steel on a 
+properties, physical inspection project might be perceived to be 
+records, tests conducted, CE riskier than new, particularly in 
+mark) the transition phase)
+
+Technical performance of 
+reclaimed steel sections 
+(inspection for damage such as 
+a survey of existing bolts, and 
+manufacturing tolerances)
+
+Warranties Additional considerations:
+
+Surface condition (appearance Materials tagging (to increase 
+of steel including surface traceability and facilitate steel 
+imperfections) reuse)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Using existing equipment to fabricate reclaimed steel
+
+Generally, fabricators can use their existing equipment for 
+processing reclaimed steel, provided that all the existing fittings 
+and paints are removed, which is usually done by stockholders 
+or fabricators themselves. Therefore, they would not need any 
+additional specialised equipment.
+
+Steel
+Contractor
+(Fabricator)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Production line slowing down (reclaimed steel can take longer to 
+fabricate)
+
+Most workshops are either semi-automated or fully automated 
+now. However, processing a reclaimed section through an 
+automated line can be more challenging due to the presence 
+of original holes, stiffeners, and dents. This can lead to longer 
+fabrication times for reclaimed steelwork.
+
+The duration of the fabrication ultimately depends on the condition 
+of the reclaimed steelwork and the level to which it was initially 
+processed. Typically, stockholders conduct the initial processing, 
+but fabricators can also do it. For example, steel in new-like 
+conditions from cancelled projects would take very similar time to 
+fabricate. However, steel with existing holes, stiffeners, and dents 
+can take 15 to 20% longer to fabricate, according to two steel 
+contractors with relevant experience.
+
+It is important to note that the experience of fabricators may vary 
+as there is a variety of fabrication equipment types. For instance, 
+one steel contractor stated that they spend some time at the start 
+of the fabrication process to ensure that the reclaimed steel does 
+not damage the machinery. Another steel contractor mentioned 
+that they would run the reclaimed steel through the production 
+line at a slower speed to ensure that any protrusions beyond the 
+envelope of the section do not damage the production capabilities.
+
+Steel
+Contractor
+(Fabricator)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Material information (such as age of the structure, information 
+on material properties, records of physical inspection, tests 
+conducted, CE mark)
+
+More details are in the technical guidance documents, namely:
+
+- SCI P427 Structural Steel Reuse. Assessment, Testing and 
+Design Principles.  
+Reference: https://steel-sci.com/assets/downloads/steel-reuse-
+event-8th-october-2019/SCI_P427.pdf
+
+- BSCA Model Specification for the purchase of reclaimed 
+steel sections. Reference: https://www.steelconstruction.info/
+images/7/70/BCSA_MS-Reclaimed_Sections.pdf
+
+- Annex J of the National Structural Steelwork Specification. 
+Reference: https://steelconstruction.org/product/annex-j-
+sustainability-specification-pdf/#:~:text=The%201st%20
+edition%20of%20the,revised%20in%20its%208th%20edition
+
+Steel
+Contractor
+(Fabricator)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Technical performance of reclaimed steel sections (inspection 
+for damage such as a survey of existing bolts, and manufacturing 
+tolerances)
+
+Please refer to the following industy guidelines: 
+
+- SCI P427 Structural Steel Reuse. Assessment, Testing and 
+Design Principles. Reference: https://steel-sci.com/assets/
+downloads/steel-reuse-event-8th-october-2019/SCI_P427.pdf
+
+- BSCA Model Specification for the purchase of reclaimed 
+steel sections. Reference: https://www.steelconstruction.info/
+images/7/70/BCSA_MS-Reclaimed_Sections.pdf
+
+- Annex J of the National Structural Steelwork Specification. 
+Reference: https://steelconstruction.org/product/annex-j-
+sustainability-specification-pdf/#:~:text=The%201st%20
+edition%20of%20the,revised%20in%20its%208th%20edition
+
+There are manufacturing tolerances for rolled steel that new steel 
+must comply with. However, when using reclaimed steel, there 
+may be some deviations from these requirements, which could 
+affect the design assumptions made in the original product. 
+
+For instance, if reclaimed steel is bent beyond the original 
+manufacturer’s specified tolerances, it could cause issues with 
+design assumptions, as the design may have assumed that the 
+steel was straight. 
+
+While requiring reclaimed steel to meet the same tolerances 
+as new steel would be easier, it may result in missing out on a 
+significant amount of usable reclaimed steel that deviates slightly 
+from those tolerances. Therefore, it is crucial to understand what 
+is acceptable in terms of tolerances for reclaimed steel to ensure 
+that it does not undermine design constraints and decisions. Steel
+
+Contractor
+(Fabricator)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Warranties Indemnity (PI) Insurance, or they could insure the steel while 
+the fabricators would provide PI for the fabricated and erected 
+
+The steel fabricator can CE/UKCA mark structural components element of it.
+made from reclaimed steel sections. Pre-2014 steel does not 
+require CE/UKCA marking to be used in a CE/UKCA marked 
+structure. Therefore, as per CPR guidelines, second-hand steel 
+sections mostly do not need to be CE/UKCA marked and can be 
+used in a CE marked structure, subject to their properties being 
+verified through testing.
+
+More details: https://www.istructe.org/journal/volumes/
+volume-101-(2023)/issue-3/reusing-structural-steel-new-istructe-
+guide/
+
+Fabricators are responsible for issuing a manufacturing warranty 
+for the reclaimed steel. 
+
+They would typically seek product liability insurance from the 
+reuse specialist, which could be either the stockholder or stock 
+owner). 
+
+A structural engineer would take Professional Indemnity (PI) 
+insurance on specifying steel reuse. 
+
+In the stockholder driven steel reuse model, warranty issues tend 
+to be relatively straightforward since the products are tested and 
+CE marked. 
+
+More ambiguities could arise in the client driven steel reuse 
+model, where clients recover steel from their demolished buildings 
+and incorporate it into new ones. Technically, the reusable steel 
+sections do not have to be CE marked since they are not sold 
+on the market. In this model, the clients retain ownership of 
+the products throughout the entire steel reuse process and act 
+as suppliers of steel. Therefore, they could take  Professional Steel
+
+Contractor
+(Fabricator)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Surface condition (appearance of steel including surface 
+imperfections)
+
+This can be a concern if steel is exposed, e.g. exposed ceilings 
+and facades. Therefore, it is essential to establish a mutual 
+understanding with clients or architects regarding their desired 
+aesthetics for the final product.
+
+However, surface imperfections can also be viewed as a reflection 
+of the steel’s origin and a celebration of its reuse.
+
+In the Holbein Gardens project, the client was happy that the 
+material had evidence of a previous life, and some beams with 
+existing holes were left exposed.
+
+Steel
+Contractor
+(Fabricator)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Limited availability of reclaimed steel for reuse
+
+Currently, there is a demand for steel reuse, but a limited supply 
+of reclaimed steel. This affects various technical, economic, and 
+supply chain factors. However, as the market expands and more 
+reclaimed steel becomes available, many issues related to steel 
+reuse are likely to become more straightforward.
+
+Steel
+Contractor
+(Fabricator)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Procurement of reclaimed steel
+
+In the stockholder driven steel reuse model, reclaimed steel is 
+procured from a stockholder who conducts initial processing of 
+steel and coordinates testing and certification. There are two 
+types of reclaimed stock:
+ 
+- overstock and steel sections from cancelled projects, for 
+example, where the steel has already been fabricated for a project 
+but the order was cancelled. These steels may comes in like-new 
+condition, and 
+
+- steel reclaimed from buildings, which could have original paints, 
+holes, and fittings from its previous use. 
+
+In the client driven steel reuse model, reclaimed steel is supplied 
+by the client, who recovers steel from their demolished buildings 
+and incorporate into new ones. 
+
+Since it is difficult to predict the availability and type of 
+reclaimed materials in advance, there are several approaches to 
+procurement:
+
+- Securing the reclaimed materials early on in the project so that 
+the design is based on the available steel sections;
+
+- Procuring appropriate steel sections based on the predefined 
+design but allowing for design iterations;
+
+- Combining the previous two approaches by reserving materials 
+early in the project and maximizing steel reuse later when 
+possible.
+
+Steel
+Contractor
+(Fabricator)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Payment for fabricating reclaimed steel elements
+
+Payment for fabricating steelwork is usually estimated at expected 
+fabricating hours depending on the tonnages, complexity of works, 
+duplicated items and so on. 
+
+Payment for fabricating reclaimed steel sections ultimately 
+depends on the condition of the reclaimed steel and the initial 
+processing done to the steelwork. 
+
+However, since steel reuse is not a common practice, payment 
+estimations for fabricating reclaimed steelwork is not yet 
+established, and companies with little prior experience in steel 
+reuse might charge premium for the perceived risk. As steel reuse 
+becomes a more common practice, this will be mitigated.
+
+Steel
+Contractor
+(Fabricator)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Additional cost (due to more time for fabricating and additional 
+QA)
+
+Fabricators may put more QA into reclaimed steel to make sure 
+that certificates are in place and all the mechanical and chemical 
+tests have been undertaken. These costs might plateau out as 
+fabricators get used to steel reuse.
+
+Steel
+Contractor
+(Fabricator)
+
+
+
+Steelwork Erector
+
+TECHNICAL SUPPLY CHAIN ECONOMIC CARBON & OTHER 
+Assembly/fabrications guidance N/A N/A Reporting and carbon savings
+(in case there are spare holes or 
+attachments)  Competitive advantage 
+
+(knowledge and experience 
+Client support and requirements of steel reuse could provide 
+for steel reuse competitive advantage)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Assembly/fabrications guidance (in case there are spare holes or 
+attachments)
+
+The process of assembling reclaimed steelwork on site is similar 
+to new steel, except of the cases where there are spare holes 
+and attachments. In this case, additional precautions may be 
+necessary during the assembly process to prevent accidents. This 
+could include marking up the required holes to ensure they are not 
+inadvertently used instead of the original holes.
+
+Steelwork 
+Erector
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Client support and requirements for steel reuse
+
+It is essential to establish a mutual understanding with clients or 
+architects regarding their desired aesthetics for the final product. 
+
+Reclaimed steelwork might have signs of its previous use. 
+However, these can also be viewed as a reflection of the steel’s 
+origin and a celebration of its reuse.
+
+In the Holbein Gardens project, the client was happy that the 
+material had evidence of a previous life, and some beams with 
+existing holes were left exposed.
+
+Steelwork 
+Erector
+
+
+
+Main Contractor
+
+TECHNICAL SUPPLY CHAIN ECONOMIC CARBON & OTHER 
+Warranties (linked to the quality Availability of reclaimed steel Material costs (cost of Competitive advantage 
+of steel) sizes and sections reclaimed steel vs virgin steel) (knowledge and experience 
+
+of steel reuse could provide 
+Client support and requirements Procurement of reclaimed steel Possibility of increased costs competitive advantage)
+for steel reuse in case of delays (although 
+
+Lead in times (possibility of not necessary, as this largely Carbon savings and 
+delays although not necessary) depends on how the material is environmental benefits 
+
+being procured. If the material 
+Storage of reclaimed steel is readily available, procurement 
+
+can be even quicker than new 
+steel)
+
+Contracts (for reserving 
+materials or agreeing on the 
+process route for materials. 
+This could include deposits and 
+storage fees)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Warranties (linked to the quality of steel)
+
+Warranty issues are one of the major factors for main contractors. 
+
+Main contractors rely on fabricators who issue manufacturing 
+warranties. Also, they rely on structural engineers who provide 
+their professional indemnity as a function of their services. 
+
+In general: 
+
+Fabricators are responsible for issuing a manufacturing warranty 
+for the reclaimed steel. 
+
+They would typically seek product liability insurance from the 
+reuse specialist, which could be either the stockholder or stock 
+owner). 
+
+A structural engineer would take Professional Indemnity (PI) 
+insurance on specifying steel reuse. 
+
+In the stockholder driven steel reuse model, warranty issues tend 
+to be relatively straightforward since the products are tested and 
+CE marked. 
+
+More ambiguities could arise in the client driven steel reuse 
+model, where clients recover steel from their demolished buildings 
+and incorporate it into new ones. Technically, the reusable steel 
+sections do not have to be CE marked since they are not sold 
+on the market. In this model, the clients retain ownership of 
+the products throughout the entire steel reuse process and act 
+as suppliers of steel. Therefore, they could take  Professional 
+Indemnity (PI) Insurance, or they could insure the steel while 
+the fabricators would provide PI for the fabricated and erected 
+element of it.
+
+Main 
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Client support and requirements for steel reuse 
+
+It is essential to establish a mutual understanding with clients or 
+architects regarding their desired aesthetics for the final product, 
+steel reuse targets, and other issues related to steel reuse. 
+
+In terms of aesthetics, reclaimed steelwork might have signs of its 
+previous use. However, these can also be viewed as a reflection of 
+the steel’s origin and a celebration of its reuse.
+
+In the Holbein Gardens project, the client was happy that the 
+material had evidence of a previous life, and some beams with 
+existing holes were left exposed.
+
+Main 
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Availability of reclaimed steel sizes and sections
+
+Currently, there is a demand for steel reuse, but a limited supply 
+of reclaimed steel. This affects various technical, economic, and 
+supply chain factors. However, as the market expands and more 
+reclaimed steel becomes available, many issues related to steel 
+reuse are likely to become more straightforward.
+
+Main 
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Procurement of reclaimed steel 
+
+In the stockholder driven steel reuse model, reclaimed steel is 
+procured from a stockholder who conducts initial processing of 
+steel and coordinates testing and certification. There are two 
+types of reclaimed stock:
+
+ - overstock and steel sections from cancelled projects, for 
+example, where the steel has already been fabricated for a project 
+but the order was cancelled. These steels may comes in like-new 
+condition, and 
+
+- steel reclaimed from buildings, which could have original paints, 
+holes, and fittings from its previous use. 
+
+In the client driven steel reuse model, reclaimed steel is supplied 
+by the client, who recovers steel from their demolished buildings 
+and incorporate into new ones. 
+
+Since it is difficult to predict the availability and type of 
+reclaimed materials in advance, there are several approaches to 
+procurement:
+
+- Securing the reclaimed materials early on in the project so that 
+the design is based on the available steel sections;
+
+- Procuring appropriate steel sections based on the predefined 
+design but allowing for design iterations;
+
+- Combining the previous two approaches by reserving materials 
+early in the project and maximising steel reuse later when 
+possible.
+
+Main 
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Lead in times (possibility of delays although not necessary)
+
+This mainly depends on the procurement route. 
+
+Delays are more likely to happen in the client driven steel reuse 
+model, as recovering steel from a building might result in 
+additional time to the demolition programme. 
+
+For example, the idea of recovering steel from the original building 
+and incorporating them into the new building on the same site was 
+explored at the Holbein Gardens project. However, this would have 
+required recovering the steel during demolition in a controlled 
+manner, transporting the steel sections to testing facilities, 
+sorting, inspecting, and cleaning the steels, and then refabricating 
+them. These processes would have taken around 6 to 8 weeks, 
+which the program did not allow for. Therefore, the recovered 
+steel elements were reused in the client’s other projects, whereas 
+reclaimed steel sections from other buildings were incorporated. 
+
+Additionally, in one of the projects we reviewed, there was a 
+marked increase in the programme time required to facilitate 
+the demolition of the steel frame by dismantling. However, the 
+additional demolition costs are expected to be compensated by 
+the reduced material costs for the new building.
+
+Main 
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Storage of reclaimed steel
+
+This is linked to the issue of transfer of ownership over reclaimed 
+steel, i.e. who owns steel and at which stage. 
+
+For example, in the stockholder driven steel reuse model, 
+stockholders usually store the reclaimed steel until it is supplied 
+to the construction site. 
+
+In the client driven steel reuse model, clients retain ownership over 
+reclaimed steel throughout the demolition and new development. 
+Reclaimed steel can possibly be stored at demolition/construction 
+site. However, storage space can be limited, especially in central 
+London projects. Another possibility is when stockholders store 
+the material and also conduct initial processing and coordinate 
+testing. In this case, storage fees may apply.
+
+Main 
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Material costs (cost of reclaimed steel vs virgin steel)
+
+The cost of reclaimed steel ultimately depends on the cost of new 
+versus scrap steel, as well as the costs of recovering steel from a 
+building, initial processing, testing, fabricating, and transportation. 
+As a commodity traded product, the price of steel is subject to 
+fluctuations, and the price of scrap steel is also affected by it. 
+
+In the stockholder driven steel reuse model, procuring/reserving 
+reclaimed materials early in the project allows fixing the price so 
+that estimated steel costs remain the same as actual. 
+
+In the client driven steel reuse model, steel from demolished 
+buildings is incorporated into new buildings, so steel price 
+fluctuations have no effect on the material costs.  
+
+In the Brent Cross Town Primary Substation project, reclaimed 
+steel was reserved long in advance. Later on, the prices of new 
+steel increased dramatically, but this did not affect the viability 
+of the project as the price of the reclaimed steel was fixed and 
+remained the same. This led to an economic advantage in this 
+project.
+
+Main 
+Contractor
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Possibility of increased costs in case of delays (although not 
+necessary, as this largely depends on how the material is being 
+procured. If the material is readily available, procurement can be 
+even quicker than new steel)
+
+In this steel reuse domestic refurbishment project, procuring 
+reclaimed steel from the stockholder had only a 4-day lead time, 
+which is significantly quicker than procuring new steel.
+
+Main 
+Contractor
+
+
+
+Cost Consultant and Project Manager
+
+TECHNICAL SUPPLY CHAIN ECONOMIC CARBON & OTHER 
+Pre-demolition audits (to Availability of reclaimed Consultant QS (unfamiliarity Reporting and carbon savings
+ascertain potential steelwork materials with the steel reuse process 
+suitable for reuse their condition might lead cost consultants to Competitive advantage 
+and quantities and age) Possible construction project price projects at higher rates, (knowledge and experience 
+
+delays (perceived complexities which discourages steel reuse) of steel reuse could provide 
+Warranties and insurance due to steel reuse being competitive advantage)
+
+uncommon practice) Mitigating steel price 
+fluctuations 
+
+Value engineering (considering 
+embodied carbon along with 
+cost factor)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Pre-demolition audits (to ascertain potential steelwork suitable Greater London Authority requires conducting pre-demolition 
+for reuse their condition and quantities and age) audits for major developments in London. The audit should be 
+
+undertaken by a third-party independent specialist with expertise 
+According to Protocol SCI P427 for assessment, testing and in reclamation of materials. The pre-demolition audits should 
+design principles for structural steel reuse, the following steel be accompanies with: justification for demolition, summary of 
+sections are acceptable for reuse: the key components and materials in the existing buildings and 
+
+whether they are suitable for reclamation, and Circular Economy 
+•	 Steelwork no older than 1970; Statements demonstrating how building materials/components 
+•	 No built-up members (unless welds are tested); and products will be disassembled and reused at the end of their
+•	 No spliced members (the individual lengths of a member life. Reference: https://www.london.gov.uk/sites/default/files/
+
+with a bolted or welded splice can be disassembled/cut and circular_economy_statements_lpg.pdf
+reclaimed; otherwise, welds need to be tested); 
+
+•	 No significant section loss due to corrosion (loss exceeding 5% BREEAM targets require that a third-party independent of the 
+of the element thickness is considered significant); project conducts the pre-demolition audit. 
+
+•	 No signs of fire exposure; 
+•	 No evidence of plasticity observed in the steel surface or NFDC provides guidance for demolition contractors on conducting 
+
+corrosion protection; pre-demolition audits through the Demolition & Refurbishment 
+•	 Members must meet the geometric tolerances of BS EN 1090- Resource Protocol DRG116:2019. Reference: https://demolition-
+
+2 (straightening can be performed if tolerances are not met). nfdc.com/wp-content/uploads/2022/07/DRG116_Demolition_and_
+Reference: https://steel-sci.com/assets/downloads/steel- Refurbishment_Resource_Protocol_2019-1.pdf
+reuse-event-8th-october-2019/SCI_P427.pdf
+
+When measuring steel during the pre-demolition audit, it is 
+An updated version of SCI P427 has been drafted and is currently important to consider that the recovered steel will be shorter 
+under review by the BCSA’s Steel Reuse working group. This in length. Typically, cutting off the steel at the ends is the most 
+revised version is expected to be launched in April or May of 2023 efficient way to reclaim steel. In this case, approximately 70% of 
+and will enable the reuse of steel sections dating back to 1932. the yield is usually recovered. Around 15% of the steel, in terms of 
+
+weight, is typically found in the connections, and will be cut off.
+Furthermore, a project led by Heyne Tillett Steel is currently 
+underway to explore the potential for reusing concrete encased 
+steel structures built prior to the 1970s. It is estimated that 
+approximately 50% of steel in London is encased in concrete, 
+which means that the outcomes of this project could stimulate 
+the reuse of a significant amount of steelwork in the capital. More 
+information: https://www.istructe.org/resources/blog/reuse-of-
+1950s-concrete-encased-steel-at-cundy-str/ Cost 
+
+Consultant 
+and Project 
+
+Manager
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Warranties and insurance
+
+The project manager (PM) and quantity surveyor (QS) are often 
+the ones most concerned about warranties.
+
+In general:
+
+Fabricators are responsible for issuing a manufacturing warranty 
+for the reclaimed steel. 
+
+They would typically seek product liability insurance from the 
+reuse specialist, which could be either the stockholder or stock 
+owner). 
+
+A structural engineer would take Professional Indemnity (PI) 
+insurance on specifying steel reuse. 
+
+In the stockholder driven steel reuse model, warranty issues tend 
+to be relatively straightforward since the products are tested and 
+CE marked. 
+
+More ambiguities could arise in the client driven steel reuse 
+model, where clients recover steel from their demolished buildings 
+and incorporate it into new ones. Technically, the reusable steel 
+sections do not have to be CE marked since they are not sold 
+on the market. In this model, the clients retain ownership of 
+the products throughout the entire steel reuse process and act 
+as suppliers of steel. Therefore, they could take  Professional 
+Indemnity (PI) Insurance, or they could insure the steel while 
+the fabricators would provide PI for the fabricated and erected 
+element of it.
+
+Cost 
+Consultant 
+and Project 
+
+Manager
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Availability of reclaimed materials
+
+Currently, there is a demand for steel reuse but a limited supply 
+of reclaimed steel. This affects many technical, economic and 
+supply chain factors. However, as the market expands and more 
+steel becomes available, many issues with steel reuse will become 
+more straightforward.
+
+Cost 
+Consultant 
+and Project 
+
+Manager
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Consultant QS (unfamiliarity with the steel reuse process might 
+lead cost consultants to price projects at higher rates, which 
+discourages steel reuse)
+
+If cost consultants do not fully understand the process or lack 
+experience in steel reuse, they may price at much higher rates. 
+Therefore, it is crucial that cost consultants are adequately 
+educated, so they can accurately price for steel reuse. 
+Additionally, obtaining a second opinion on price estimates is also 
+an option. 
+
+In the Entopia Building project, the initial cost estimate for the 
+project was a 25% premium, but the team agreed at stage 3 that 
+this was unlikely. Steel reuse proved to be cost neutral in this 
+project. The lack of similar projects to compare with, especially on 
+stage 1, resulted in the discrepancy in the cost estimate.
+
+Cost 
+Consultant 
+and Project 
+
+Manager
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Mitigating steel price fluctuations
+
+The cost of reclaimed steel ultimately depends on the cost of new 
+versus scrap steel, as well as the costs of recovering steel from a 
+building, initial processing, testing, fabricating, and transportation. 
+As a commodity traded product, the price of steel is subject to 
+fluctuations, and the price of scrap steel is also affected by it. 
+
+In the stockholder driven steel reuse model, procuring/reserving 
+reclaimed materials early in the project allows fixing the price so 
+that estimated steel costs remain the same as actual. 
+
+In the client driven steel reuse model, steel from demolished 
+buildings is incorporated into new buildings, so steel price 
+fluctuations have no effect on the material costs.  
+
+In the Brent Cross Town Primary Substation project, reclaimed 
+steel was reserved long in advance. Later on, the prices of new 
+steel increased dramatically, but this did not affect the viability 
+of the project as the price of the reclaimed steel was fixed and 
+remained the same. This led to an economic advantage in this 
+project
+
+Cost 
+Consultant 
+and Project 
+
+Manager
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Value engineering (considering embodied carbon along with cost 
+factor)
+
+It is important to consider embodied carbon when conducting 
+value engineering. 
+
+In the Brent Cross Town Primary Substation project, the design 
+underwent changes, and the structure was value engineered 
+purely on a weight and cost basis, so some of the pre-sourced 
+reclaimed steel became irrelevant.
+
+Cost 
+Consultant 
+and Project 
+
+Manager
+
+
+
+Designer
+
+TECHNICAL SUPPLY CHAIN ECONOMIC CARBON & OTHER 
+Material information (CE mark, Availability of reclaimed steel Cost of the construction project Embodied carbon reduction 
+material history, properties, (with steel reuse versus BAU) measurement (facilitated by the 
+original specification,  Reclaimed steel sizes and availability of EPD and LCAs on 
+information on steel condition, lengths Possible increased design costs reusable steel)
+if steel was subject to dynamic (additional design fees in case 
+loading, age of steel, etc.) Possibility of longer design of design iterations, and more Reporting (CSR and ESG)
+
+times (particularly in case of coordination and planning due 
+Pre-demolition audits design iterations) to steel reuse being uncommon Competitive advantage 
+(specifying and possibly practice) (knowledge and experience 
+conducting pre-demolition Storage of reclaimed steel of steel reuse could provide 
+audits to ascertain what (considering whether clients Contracts (for reserving competitive advantage)
+materials can be reclaimed and have sufficient space on their materials or agreeing on the 
+gather material information) site to store reclaimed steel process route for materials. 
+
+or if it is necessary to involve This could include deposits and 
+Design based on available steel stockists, etc.) storage fees)
+sections and procurement route  
+
+Design efficiency (avoid using Aesthetics (particularly if Client support and requirements Design for reuse (including 
+larger sections than required) steel is exposed. Also includes for steel reuse (client briefing modular design, standardised 
+
+different section sizes, splicing and communication) sizes, using longer span 
+Design iterations (based on details, connection details, etc.) beams, avoiding fabricated 
+available reclaimed steel sizes Professional Indemnity (PI) steel sections, avoiding 
+and lengths) Client targets (help to achieve insurance composite materials such as 
+
+client targets, e.g. low carbon, steelfloor decks, and developing 
+Tolerances circular economy, sustainability) deconstruction plans as part of 
+
+the design process)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Material information (CE mark, material history, properties, 
+original specification, information on steel condition, if steel was 
+subject to dynamic loading, age of steel, etc.) 
+
+Structural engineers may also require the original specifications, 
+information on whether the steel has been exposed to external 
+conditions, and its current condition to determine its strength and 
+suitability for reuse. For instance, if the steel has been subjected 
+to higher loads than originally anticipated, it may be less suitable 
+for reuse. 
+
+Protocol SCI P427 outlines material information required for 
+assessment, testing and design for structural steel reuse. 
+Reference: https://steel-sci.com/assets/downloads/steel-reuse-
+event-8th-october-2019/SCI_P427.pdf
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Pre-demolition audits (specifying and possibly conducting pre- An updated version of SCI P427 has been drafted and is currently 
+demolition audits to ascertain what materials can be reclaimed under review by the BCSA’s Steel Reuse working group. This 
+and gather material information) revised version is expected to be launched in April or May of 2023 
+
+and will enable the reuse of steel sections dating back to 1932. 
+Structural engineers tend to be involved more than usual with 
+the demolition site on projects with steel reuse, where steel Furthermore, a project led by Heyne Tillett Steel is currently 
+sections are reclaimed from buildings and incorporated into new underway to explore the potential for reusing concrete encased 
+developments (client driven steel reuse model). steel structures built prior to the 1970s. It is estimated that 
+
+approximately 50% of steel in London is encased in concrete, 
+When measuring steel during the pre-demolition audit, it is which means that the outcomes of this project could stimulate 
+important to consider that the recovered steel will be shorter the reuse of a significant amount of steelwork in the capital. More 
+in length. Typically, cutting off the steel at the ends is the most information: https://www.istructe.org/resources/blog/reuse-of-
+efficient way to reclaim steel. In this case, approximately 70% of 1950s-concrete-encased-steel-at-cundy-str/
+the yield is usually recovered. Around 15% of the steel, in terms of 
+weight, is typically found in the connections, and will be cut off. 
+
+According to Protocol SCI P427 for assessment, testing and 
+design principles for structural steel reuse, the following steel 
+sections are acceptable for reuse:
+
+•	 Steelwork no older than 1970; 
+•	 No built-up members (unless welds are tested); 
+•	 No spliced members (the individual lengths of a member 
+
+with a bolted or welded splice can be disassembled/cut and 
+reclaimed; otherwise, welds need to be tested); 
+
+•	 No significant section loss due to corrosion (loss exceeding 5% 
+of the element thickness is considered significant); 
+
+•	 No signs of fire exposure; 
+•	 No evidence of plasticity observed in the steel surface or 
+
+corrosion protection; 
+•	 Members must meet the geometric tolerances of BS EN 1090-
+
+2 (straightening can be performed if tolerances are not met). 
+Reference: https://steel-sci.com/assets/downloads/steel-
+reuse-event-8th-october-2019/SCI_P427.pdf
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Design based on available steel sections and procurement route A similar matching tool was also developed by Heyne Tillett Steel. 
+More details: https://hts.uk.com/news/hts-reused-steel-stock-
+
+The design process for projects involving steel reuse is not matcher/
+significantly different from BAU. The design depends largely on 
+the available materials, including steel section sizes and lengths, 
+and procurement route. 
+
+In the client driven steel reuse model, the design of new buildings 
+is restricted to the steel sections available from the demolished 
+buildings. This may lead to design inefficiencies, such as using 
+larger sections than necessary due to limited availability or 
+complications in accommodating existing openings or different 
+openings in the reclaimed steel to put services through.  
+
+In the stockholder driven steel reuse model, there tends to be 
+more flexibility in selecting steel sections and lengths. 
+
+Overall, the supply of reclaimed steel is currently limited. However, 
+as the market expands, more steel sections will become available, 
+simplifying the design process for steel reuse.
+
+More information about design of buildings with reclaimed 
+steel can be found in Circular economy and reuse: guidance for 
+designers. More information: https://www.istructe.org/journal/
+volumes/volume-101-(2023)/issue-3/reusing-structural-steel-
+new-istructe-guide/
+
+Steel that forms part of a tall building’s main frame requires 
+additional testing for CE marking, so reusing such steel might be 
+less economic. 
+
+In the Elephant & Castle Town Centre Redevelopment project, a 
+digital matching tool developed by WSP was utilised to facilitate 
+the matching of available steel with design requirements. 
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Design efficiency (avoiding using larger sections than required)
+
+When aiming to maximise steel reuse, it is important to consider 
+design efficiency.  
+
+One argument suggests that steelwork that is underutilised by 
+30% or more should be avoided and used in other projects where 
+it would be more appropriate. As steel reuse becomes more 
+common and reclaimed stock becomes more available, designers 
+will have a broader selection of suitable steel sizes and lengths to 
+choose from.
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Design iterations (based on available reclaimed steel sizes and 
+lengths) 
+
+Design iterations may occur when additional materials become 
+available after the final design has been completed, leading to 
+a need to revisit the design in order to maximise the amount of 
+reused steel.
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Tolerances
+
+Tolerances are a crucial consideration in the design process 
+to ensure that the dimensions of the steel beams do not cause 
+problems later on. When using new steel, steel beams can be 
+designed to be the same size. However, when reusing steel, 
+there may be variations in sizes (e.g. steel beam can be 10-20 ml 
+deeper) that need to be accounted for. Therefore, the design team 
+will need to discuss tolerances to ensure they accommodate the 
+reused steel. 
+
+Also, there are manufacturing tolerances for rolled steel that 
+new steel must comply with. However, when using reclaimed 
+steel, there may be some deviations from these requirements, 
+which could affect the design assumptions made in the original 
+product. For instance, if reclaimed steel is bent beyond the original 
+manufacturer’s specified tolerances, it could cause issues with 
+design assumptions, as the design may have assumed that the 
+steel was straight. 
+
+Therefore, it is crucial to understand what is acceptable in terms 
+of tolerances for reclaimed steel to ensure that it does not 
+undermine design constraints and decisions.
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Aesthetics (particularly if steel is exposed. Also includes 
+different steel section sizes, splicing details, connection details, 
+etc.)
+
+This can be a major concern for architects, particularly if steel 
+is external, e.g. exposed ceilings and facades. In this case, more 
+coordination among architects, structural engineers and clients 
+might be required. 
+
+However, surface imperfections can also be viewed as a reflection 
+of the steel’s origin and a celebration of its reuse.
+
+In the Holbein Gardens project, the client was happy that the 
+material had evidence of a previous life, and some beams with 
+existing holes were left exposed.
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Professional Indemnity (PI) insurance 
+
+A structural engineer would take some PI on specifying steel 
+reuse. This is similar to BAU. 
+
+In general:
+
+Fabricators are responsible for issuing a manufacturing warranty 
+for the reclaimed steel. 
+
+They would typically seek product liability insurance from the 
+reuse specialist, which could be either the stockholder or stock 
+owner). 
+
+A structural engineer would take Professional Indemnity (PI) 
+insurance on specifying steel reuse. 
+
+In the stockholder driven steel reuse model, warranty issues tend 
+to be relatively straightforward since the products are tested and 
+CE marked. 
+
+More ambiguities could arise in the client driven steel reuse 
+model, where clients recover steel from their demolished buildings 
+and incorporate it into new ones. Technically, the reusable steel 
+sections do not have to be CE marked since they are not sold 
+on the market. In this model, the clients retain ownership of 
+the products throughout the entire steel reuse process and act 
+as suppliers of steel. Therefore, they could take  Professional 
+Indemnity (PI) Insurance, or they could insure the steel while 
+the fabricators would provide PI for the fabricated and erected 
+element of it.
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Additional considerations: 
+
+Design for reuse (including modular design, standardised sizes, 
+using longer span beams, avoiding fabricated steel sections, 
+avoiding composite materials such as composite steel floor 
+decks, and developing deconstruction plans as part of the design 
+process)
+
+Industry guides commonly suggest designing new buildings with 
+bolted connections instead of welded ones. However, connections 
+tend to be highly individual for buildings, and it is unlikely that 
+a new building would have identical connections to the donor 
+building. Additionally, bolts are typically coated with spray, which 
+can impact paint settings, making it time and cost-prohibitive 
+to unbolt steel sections. Instead, cutting steel at the ends of 
+connections during demolition/deconstruction might be a better 
+solution. This means that unless connections are standardised, 
+designing buildings with bolted connections would not necessarily 
+facilitate steel reuse. 
+
+Longer steel sections are more likely to be reused than shorter 
+ones because they have a higher residual value and can be cut 
+further. 
+
+In terms of avoiding fabricated steel sections,  openings in the 
+sections to pass services through are usually designed bespoke, 
+so that is quite limiting for steel reuse. Additionally, it can be more 
+complex for architects to level office floors with terraces when 
+using pre-fabricated steel sections.
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Availability of reclaimed steel  
+
+Currently, there is a demand for steel reuse but a limited supply 
+of reclaimed steel. This affects many technical, economic and 
+supply chain factors. However, as the market expands and more 
+steel becomes available, many issues with steel reuse will become 
+more straightforward.
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Reclaimed steel sizes and lengths 
+
+Reclaimed steel tends to be shorter than new steel. It gets shorter 
+from the process of being reclaimed from buildings and after 
+initial processing such as removing attachments.
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Possible increased design costs (additional design fees in case 
+of design iterations, and more coordination and planning due to 
+steel reuse being uncommon practice) 
+
+If sourcing material during the design, a lot more surveying and 
+on-site involvement may be required, especially in the client driven 
+steel reuse model. This model involves designing a new building 
+based on steel sections recovered from a demolished (donor) 
+building. In such cases, designers can be more involved with the 
+demolition process, such as conducting/commissioning pre-
+demolition audits and site visits
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Embodied carbon reduction measurement (facilitated by the 
+availability of EPD and LCAs on reusable steel)
+
+EMR has produced an EPD for their reusable steel. Reference: 
+https://emrglobalstorage.blob.core.windows.net/sitemedia/
+uploads/reusable-steel-edp-2023.pdf
+
+Cleveland Steel and Tubes have produced an LCA for their steel 
+tubes recovered and refurbished coated steel tubes. Reference: 
+https://cleveland-steel.com/sites/default/files/2020-01/CST-life-
+cycle-analysis.pdf
+
+John Lawrie have produced an LCA for their repurposed 
+steel tubulars. Reference: https://uploads-ssl.webflow.
+com/612f56d40abf3fb6874ef134/614496ce7d750c22fdd43ec3_
+John%20Lawrie%20Tubulars%20Life%20Cycle%20
+Assessment%20Giraffe%20Innovation%20Ltd_CONDENSED%20
+VERSION.pdf
+
+Designer
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Embodied carbon reduction measurement (facilitated by the 
+availability of EPD and LCAs on reusable steel)
+
+EMR has produced an EPD for their reusable steel. Reference: 
+https://emrglobalstorage.blob.core.windows.net/sitemedia/
+uploads/reusable-steel-edp-2023.pdf
+
+Cleveland Steel and Tubes have produced an LCA for their steel 
+tubes recovered and refurbished coated steel tubes. Reference: 
+https://cleveland-steel.com/sites/default/files/2020-01/CST-life-
+cycle-analysis.pdf
+
+John Lawrie have produced an LCA for their repurposed 
+steel tubulars. Reference: https://uploads-ssl.webflow.
+com/612f56d40abf3fb6874ef134/614496ce7d750c22fdd43ec3_
+John%20Lawrie%20Tubulars%20Life%20Cycle%20
+Assessment%20Giraffe%20Innovation%20Ltd_CONDENSED%20
+VERSION.pdf
+
+Designer
+
+
+
+Client
+
+TECHNICAL SUPPLY CHAIN ECONOMIC CARBON & OTHER 
+Feasibility assessment of steel Availability of reclaimed steel Project budget Reporting (CSR, ESG 
+reuse (investigating what steel and shareholder/funding 
+is available from demolished Procurement of reclaimed steel Costs in case of construction requirements for sustainability, 
+buildings or on the market, and project delays and demolition/ low carbon solutions and 
+whether this can be reused Possible construction project deconstruction delays circular economy)
+effectively in new developments) delays and demolition/ 
+
+deconstruction delays (although Upfront investment for Competitive advantage 
+Specifying steel reuse in not necessary, as this largely investigating what steel is (knowledge and experience 
+new developments wherever depends on how the material is available and whether it is of steel reuse could provide 
+practical or possible (this being procured. If the material feasible to reuse it, as well as competitive advantage)
+includes setting contractual is readily available, procurement deposits for securing steelwork 
+requirements) can be even quicker than new Incentives for clients to 
+
+steel) Mitigating steel price request recovering steel at the 
+Demolition/deconstruction fluctuations demolition stage
+specifications (to recover steel Storage of reclaimed steel
+from demolished buildings Contracts (for reserving 
+suitable for further reuse) materials or agreeing on the 
+
+process route for materials. 
+Warranties and technical This could include deposits and 
+assurances  Additional considerations: storage fees)
+
+Aesthetics (the appearance of Requesting design for reuse for 
+reclaimed steel, especially if new buildings
+exposed)
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Feasibility assessment of steel reuse (investigating what steel More information: https://www.istructe.org/resources/blog/reuse-
+is available from demolished buildings or on the market, and of-1950s-concrete-encased-steel-at-cundy-str/
+whether this can be reused effectively in new developments)
+
+Greater London Authority requires conducting pre-demolition 
+According to Protocol SCI P427 for assessment, testing and audits for major developments in London. The audit should be 
+design principles for structural steel reuse, the following steel undertaken by a third-party independent specialist with expertise 
+sections are acceptable for reuse: in reclamation of materials. The pre-demolition audits should 
+
+be accompanies with: justification for demolition, summary of 
+•	 Steelwork no older than 1970; the key components and materials in the existing buildings and 
+•	 No built-up members (unless welds are tested); whether they are suitable for reclamation, and Circular Economy 
+•	 No spliced members (the individual lengths of a member Statements demonstrating how building materials/components 
+
+with a bolted or welded splice can be disassembled/cut and and products will be disassembled and reused at the end of their
+reclaimed; otherwise, welds need to be tested); life. Reference: https://www.london.gov.uk/sites/default/files/
+
+•	 No significant section loss due to corrosion (loss exceeding 5% circular_economy_statements_lpg.pdf
+of the element thickness is considered significant); 
+
+•	 No signs of fire exposure; BREEAM targets require that a third-party independent of the 
+•	 No evidence of plasticity observed in the steel surface or project conducts the pre-demolition audit. 
+
+corrosion protection; 
+•	 Members must meet the geometric tolerances of BS EN 1090- NFDC provides guidance for demolition contractors on conducting 
+
+2 (straightening can be performed if tolerances are not met). pre-demolition audits through the Demolition & Refurbishment 
+Reference: https://steel-sci.com/assets/downloads/steel- Resource Protocol DRG116:2019. Reference: https://demolition-
+reuse-event-8th-october-2019/SCI_P427.pdf nfdc.com/wp-content/uploads/2022/07/DRG116_Demolition_and_
+
+Refurbishment_Resource_Protocol_2019-1.pdf
+An updated version of SCI P427 has been drafted and is currently 
+under review by the BCSA’s Steel Reuse working group. This When measuring steel during the pre-demolition audit, it is 
+revised version is expected to be launched in April or May of 2023 important to consider that the recovered steel will be shorter 
+and will enable the reuse of steel sections dating back to 1932. in length. Typically, cutting off the steel at the ends is the most 
+
+efficient way to reclaim steel. In this case, approximately 70% of 
+Furthermore, a project led by Heyne Tillett Steel is currently the yield is usually recovered. Around 15% of the steel, in terms of 
+underway to explore the potential for reusing concrete encased weight, is typically found in the connections, and will be cut off.
+steel structures built prior to the 1970s. It is estimated that 
+approximately 50% of steel in London is encased in concrete, 
+which means that the outcomes of this project could stimulate the 
+reuse of a significant amount of steelwork in the capital.
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Demolition/deconstruction specifications (to recover steel from 
+demolished buildings suitable for further reuse) 
+
+In the Enfield Council’s Meridian Water project, a formal agreement 
+between donor and recipient projects and deconstruction 
+specifications were put in place. Specifications for the demolition 
+contractor included requirements to exclude end plates and 
+connections of steel elements, requirements to the length of steel 
+elements (above 3m and not exceeding 12m), and condition of 
+steel (undamaged from a structural perspective, such as not being 
+bent and not subject to dynamic loading).
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Warranties and technical assurances  
+
+In general: 
+
+Fabricators are responsible for issuing a manufacturing warranty 
+for the reclaimed steel. 
+
+They would typically seek product liability insurance from the 
+reuse specialist, which could be either the stockholder or stock 
+owner). 
+
+A structural engineer would take Professional Indemnity (PI) 
+insurance on specifying steel reuse. 
+
+In the stockholder driven steel reuse model, warranty issues tend 
+to be relatively straightforward since the products are tested and 
+CE marked. 
+
+More ambiguities could arise in the client driven steel reuse 
+model, where clients recover steel from their demolished buildings 
+and incorporate it into new ones. Technically, the reusable steel 
+sections do not have to be CE marked since they are not sold 
+on the market. In this model, the clients retain ownership of 
+the products throughout the entire steel reuse process and act 
+as suppliers of steel. Therefore, they could take  Professional 
+Indemnity (PI) Insurance, or they could insure the steel while 
+the fabricators would provide PI for the fabricated and erected 
+element of it.
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Aesthetics (the appearance of reclaimed steel, especially if 
+exposed)
+
+The appearance of reclaimed steel can be a concern for some 
+clients, particularly if steel is external, e.g. exposed ceilings and 
+facades. In this case, more coordination with architects, structural 
+engineers and steel contractors might be required. 
+
+However, surface imperfections can also be viewed as a reflection 
+of the steel’s origin and a celebration of its reuse.
+
+In the Holbein Gardens project, the client was happy that the 
+material had evidence of a previous life, and some beams with 
+existing holes were left exposed.
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Additional considerations:
+
+Requesting design for reuse for new buildings
+
+The Greater London Authority encourages design for disassembly 
+for major developments across London. 
+
+Reference: https://www.london.gov.uk/sites/default/files/circular_
+economy_statements_lpg.pdf
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Availability of reclaimed steel
+
+Currently, there is a demand for steel reuse but a limited supply 
+of reclaimed steel. This affects many technical, economic and 
+supply chain factors. However, as the market expands and more 
+steel becomes available, many issues with steel reuse will become 
+more straightforward.
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Procurement of reclaimed steel 
+
+Currently, there are two major steel reuse models depending on 
+the procurement route. 
+
+In the stockholder driven steel reuse model, reclaimed steel is 
+procured from a stockholder who conducts initial processing of 
+steel and coordinates testing and certification. There are two 
+types of reclaimed stock:
+ - overstock and steel sections from cancelled projects, for 
+example, where the steel has already been fabricated for a project 
+but the order was cancelled. These steels may comes in like-new 
+condition, and 
+- steel reclaimed from buildings, which could have original paints, 
+holes, and fittings from its previous use. 
+
+In the client driven steel reuse model, reclaimed steel is supplied 
+by the client, who recovers steel from their demolished buildings 
+and incorporate into new ones. 
+
+Since it is difficult to predict the availability and type of 
+reclaimed materials in advance, there are several approaches to 
+procurement:
+- Securing the reclaimed materials early on in the project so that 
+the design is based on the available steel sections;
+- Procuring appropriate steel sections based on the predefined 
+design but allowing for design iterations;
+- Combining the previous two approaches by reserving materials 
+early in the project and maximising steel reuse later when 
+possible.
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Possible construction project delays and demolition/ 
+deconstruction delays (although not necessary, as this largely 
+depends on how the material is being procured. If the material 
+is readily available, procurement can be even quicker than new 
+steel)
+
+This is linked to the steel reuse model and procurement route:
+
+In the client driven steel reuse model, steel is recovered from 
+the client’s demolished buildings and integrated into new 
+developments. The challenge is that demolition should align with 
+the new building development, and demolition delays may affect 
+the construction process.  Therefore, it is important to understand 
+the program implications of steel reuse and time constraints. 
+
+For example, in one of the projects we reviewed, there was a 
+marked increase in the programme time required to facilitate 
+the demolition of the steel frame by dismantling. However, the 
+additional demolition costs are expected to be compensated by 
+the reduced material costs for the new building.
+
+In two more projects, the 55 Great Suffolk Street and Holbein 
+Gardens, steel reuse did not have implications on the project 
+timeline. The reused material was sourced in advance of 
+production requirements and was available when required. 
+
+In the stockholder driven steel reuse model, steel is purchased 
+on the open market from steel stockholders. Depending on the 
+available stock, the procurement process can be very quick. 
+
+For example, in this domestic refurbishment project, procuring 
+reclaimed steel from the stockholder had only a 4-day lead time, 
+which was significantly quicker than procuring new steel. Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Storage of reclaimed steel
+
+This depends on the steel reuse model. 
+
+In the stockholder driven steel reuse model, steel is procured from 
+stockholders who provide storage. Storage fees and contracts 
+may apply. 
+
+In the client driven model, reclaimed steel from demolished 
+buildings can be stored on site if possible, for example, in projects 
+with partial demolition. Alternatively, reclaimed steel can be sent 
+to stockholders for initial processing and storage. Storage fees 
+and contractors may also apply.
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Project budget
+
+Several projects reviewed within the DISRUPT project resulted in, 
+or are expected to result in, economic savings from steel reuse. 
+These projects are:
+
+- Brent Cross Town Primary Station project 
+- Sloane Square House
+- Steel reuse agricultural buildings
+- Steel reuse domestic refurbishment project 
+- Steel reuse for offshore wind farm
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Costs in case of construction project delays and demolition/
+deconstruction delays
+
+A major perceived barrier, particularly in the client driven 
+steel reuse mode, is the additional programme time, 
+which can cause the developers to lose out on income e.g. 
+commercial rent.
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Mitigating steel price fluctuations 
+
+The cost of reclaimed steel ultimately depends on the cost of new 
+versus scrap steel, as well as the costs of recovering steel from a 
+building, initial processing, testing, fabricating, and transportation. 
+As a commodity traded product, the price of steel is subject to 
+fluctuations, and the price of scrap steel is also affected by it. 
+
+In the stockholder driven steel reuse model, procuring/reserving 
+reclaimed materials early in the project allows fixing the price so 
+that estimated steel costs remain the same as actual. 
+
+In the client driven steel reuse model, steel from demolished 
+buildings is incorporated into new buildings, so steel price 
+fluctuations have no effect on the material costs.  
+
+In the Brent Cross Town Primary Substation project, reclaimed 
+steel was reserved long in advance. Later on, the prices of new 
+steel increased dramatically, but this did not affect the viability 
+of the project as the price of the reclaimed steel was fixed and 
+remained the same. This led to an economic advantage in this 
+project
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Reporting (CSR, ESG and shareholder/funding requirements for 
+sustainability, low carbon solutions and circular economy)
+
+In the 55 Great Suffolk Street project, the upfront embodied carbon 
+of the building (modules A1-A5) was estimated to be 386kgCO2e/
+m2 owing to steel reuse, representing a 36% reduction compared 
+to the LETI 2020 design target of 600kgCO2e/m2.
+
+Client
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Incentives for clients to request recovering steel at the More information: https://steelconstruction.org/resources/
+demolition stage sustainability-faqs/what-is-module-d-and-how-do-i-use-it/
+
+Currently, clients or asset owners are driving the demand for https://www.ukgbc.org/news/steel-reuse-challenges-and-
+reuse in the market. However, the supply chain is not yet well- opportunities/
+established or adequately stocked. Consequently, prominent asset 
+owners are retrieving steel from their own buildings for reuse in 
+their projects. This is further incentivised by the fact that most of 
+the carbon benefit is credited to the recipient building, while the 
+environmental benefit for the demolished building is relatively 
+insignificant. 
+
+Therefore, a key consideration is incentivising asset owners 
+to encourage demolition contractors to recover steel from 
+demolished buildings.
+
+In sustainability assessments of construction works, steel reuse is 
+included in Module D.  Module A involves sourcing and production 
+of the construction products and their assembly into buildings 
+Module B involves the use of the building over its design life.
+Module C involves the end-of-life of the building including 
+demolition and disposal of the demolition waste. Module D is 
+a supplementary module that includes the reuse and recycling 
+potentials of materials recovered from the end-of-life of buildings.
+
+There is a view that steel reuse should be included in Module A 
+or similar to Module A, specific targets should be established for 
+Module D. 
+
+Including steel reuse in Module A, which is currently prioritised, 
+would incentivise asset owners to increase the recovery of steel 
+from demolition sites. 
+
+Client

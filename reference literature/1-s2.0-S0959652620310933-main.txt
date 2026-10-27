@@ -1,0 +1,2143 @@
+﻿Journal of Cleaner Production 260 (2020) 121046
+
+lable at ScienceDirect
+Contents lists avai
+Journal of Cleaner Production
+
+journal homepage: www.elsevier .com/locate/ jc lepro
+Review
+Circular economy in the construction industry: A systematic literature
+review
+Gabriel Luiz Fritz Benachio*, Maria do Carmo Duarte Freitas, Sergio Fernando Tavares
+Department of Civil Construction Engineering, Federal University of Parana, Centro Politecnico, 81531-980, Curitiba, PR, Brazil
+a r t i c l e i n f o
+
+Article history:
+Received 22 September 2019
+Received in revised form
+6 March 2020
+Accepted 9 March 2020
+Available online 12 March 2020
+
+Handling Editor: Prof. Jiri Jaromir Klemes
+
+Keywords:
+Circular economy
+Construction industry
+Built environment
+Literature review
+* Corresponding author.
+E-mail addresses: gabrielbenachio@ufpr.br
+
+(G.L.F. Benachio).
+
+https://doi.org/10.1016/j.jclepro.2020.121046
+0959-6526/© 2020 Elsevier Ltd. All rights reserved.
+a b s t r a c t
+
+The Construction Industry is responsible for over 30% of the extraction of natural resources, as well as
+25% of solid waste generated in the world. This happens because the construction sector mostly adopts a
+linear economic model of “take, make, dispose”, using materials to the construction of buildings and
+disposing them at the end of life, since they are assembled for one time use and don’t retain potential for
+reuse. Over the last decades, a paradigm shift has been occurring in the industry at large, with the
+adoption of a Circular Economy model, that aims at keeping the materials in a closed loop to retain their
+maximum value, therefore with a greater potential of reducing the waste generation and resources
+extraction for the Construction Industry. This article aims at finding the recent developments of how
+Circular Economy can be used inside the construction industry. To achieve this goal, a systematic liter-
+ature review was conducted, including 45 articles that were divided into six areas of research: devel-
+opment of Circular Economy, reuse of materials, material stocks, Circular Economy in the built
+environment, LCA analysis and material passport. An analysis of the content of these articles was made
+and the knowledge gaps in this area were identified, as well as table with known Circular Economy
+practices for the Construction Industry was created divided by life cycle stages. Finally, a discussion of
+each area of research and their findings is made.
+
+© 2020 Elsevier Ltd. All rights reserved.
+Contents
+
+1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2. Systematic review methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+2.1. Steps of the systematic review . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+3. Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+3.1. Descriptive analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.2. Content analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+3.2.1. Definition of Circular Economy for the built environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.2.2. Stages of the life cycle included in the researches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.2.3. Analysis by research theme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+3.2.4. List of Circular Economy practices by life cycle stage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+4. Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+4.1. Descriptive discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+4.2. Content discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+4.2.1. Development of Circular Economy in the built environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+4.2.2. Reuse of materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+4.2.3. Material stocks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+4.2.4. Circular economy in the project design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+4.2.5. LCA analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+, gabrielbenachio@ufpr.br
+
+
+
+2 G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046
+4.2.6. Material passports . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+4.3. Research gaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+5. Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Declaration of competing interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Summary of each article included in the literature review . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Main contributions of each article included in the literature review . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+1. Introduction
+
+Over the last three decades, it has been known that the Con-
+struction Industry consumes a huge amount of natural resources, as
+it was responsible for over 40% in the 1990s (Rees, 1999) and
+nowadays this number only falls to around 32% (Yeheyis et al.,
+2013). Not only consuming, the Construction Industry is also
+responsible for one quarter of the solid waste (Yeheyis et al., 2013)
+generated worldwide, and it can reach bigger numbers in countries
+under development like Brazil, where waste generated by the
+Construction Industry reaches over 60% (ABRELPE, 2018).
+
+The waste generated by construction and demolition (C&D)
+happens throughout the life cycle of buildings, even through
+planning and design phases since there is a lack of consideration on
+waste management and waste reduction in earlier phases of a
+project (Esa et al., 2016). However, the most impactful phase in
+terms of C&Dwaste generation is the end of life, which accounts for
+50% of the numbers (Kibert, 2008), which happens because most of
+building materials are often disposed at their end of life, since they
+don’t have a potential for reuse (Akanbi et al., 2018).
+
+This problem mainly happens because the Construction In-
+dustry uses a linear economic model, based on the idea of “take,
+make, dispose of” (EMF, 2015). In this model, the phases that
+feature this idea start with the extraction of raw materials from the
+environment, that are then processed into becoming construction
+materials and assembled in the construction site, in ways that
+cannot be deconstructed, becoming obsolete at the end of life of the
+building, having to be disposed in landfills or incinerated, along
+with all the waste generated through the whole process
+(Mangialardo and Micelli, 2018).
+
+In contrast, another economic model that has been gaining
+attention in the last decades is the Circular Economy, that has its
+founding principals in better management of resources (Pomponi
+and Moncaster, 2017). Through a series of reports, Ellen Mac-
+Arthur Foundation has been promoting the ideas and opportunities
+of Circular Economy, defining it as a regenerative system that aims
+to keepmaterials in a closed loop at their highest value (EMF, 2015).
+
+In the Circular Economy models, the end of life building mate-
+rials should be reused and their components and parts decon-
+structed, to act as material banks for new buildings, keeping the
+components andmaterials in a closed loop (Hopkinson et al., 2019),
+just as EMF proposes in the general Circular Economy concept.
+However, this idea still needs development of knowledge and tools
+to have a larger adoption in the industry (Lacy and Rutqvist, 2015),
+especially in the Construction Industry, where innovation takes
+more time to be implemented (BIS, 2013), since buildings are most
+of the time unique projects with a large supply chain that only adds
+to the complexity involved (Pomponi and Moncaster, 2017).
+
+Therefore, this article aims at finding the recent developments
+of how Circular Economy concepts can be used inside the Con-
+struction Industry, using a systematic literature review of existing
+databases. This paper is organized as follows. Section 2 explains the
+methods that were used, Section 3 shows the results of this liter-
+ature review, Section 4 brings a discussion about the bibliometric
+and content results, as well as the knowledge gaps in this field, and
+Section 5 ends the articles with a conclusion of this literature
+review.
+2. Systematic review methodology
+
+The chosenmethod for this research was a systematic review, as
+it is an essential feature on any research activity (Esa et al., 2016),
+since it provides a summary of previous studies in the area and
+looks for the gaps of knowledge in those published studies
+(Webster and Watson, 2002). According to Briner and Denyer
+(2012) this method should follow these principles: (1) review
+conducted systematically or through a method; (2) present a
+transparent method; (3) be replicable and updatable; (4) summa-
+rize and synthetize the main subject of the research. Table 1 shows
+how those steps were utilized in this research.
+
+Tranfield et al. (2003) defined three stages for conducting a
+systematic review, with the first stage about planning the review,
+followed by the conduction of the review and finally, the last stage
+is reporting and dissemination of the results. Later, Briner and
+Denyer (2012) developed a protocol to conduct a systematic re-
+view, adapting from Higgins and Green (2008), incorporating those
+stages in eight steps: (1) initial review, that defines the problem
+that will be studied; (2) definition of the objective; (3) criteria from
+considering studies, that defines the types of researches that will be
+included in the review; (4) strategy to obtain the studies, according
+to which databases will be selected; (5) eligibility, that eliminates
+those studies that do not meet the pre-established criteria; (6) data
+collection, the manner in which the data will be obtained; (7)
+quality assessment method, that evaluates the quality of the
+collected data; (8) synthetize the results.
+
+This protocol was followed for the conduction of this review,
+since it is focused on incorporating the research question and en-
+sures that this review is systematic, transparent and replicable
+(Briner and Denyer, 2012).
+2.1. Steps of the systematic review
+
+The first step of this literature review was to define the problem
+that would be studied, that is “How can the concept of Circular
+Economy be utilized in the Construction Industry to help minimize
+waste generation?”. The objective of the review was defined as to
+identify the recent developments of Circular Economy in the
+building sector and how are they being used. The following step
+was the definition that the studies that would be included in this
+review were those that used concepts of Circular Economy in a
+research within the Construction Industry. Additionally, this defi-
+nition included the creation of a bibliometric network of all the
+abstracts of a preliminary research, to find the most relevant sub-
+jects within those papers, that would the focus of this research.
+
+
+
+G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046 3
+
+Table 1
+Steps of the systematic review.
+
+Steps Research
+
+Initial review How Circular Economy concepts can be used in the Construction Industry
+Objective Find recent developments of CE in the Construction Industry
+Criteria for considering studies Papers that used concepts of CE in the Construction Industry through a bibliometric network
+Strategy to obtain the studies Research inside three databases (Science Direct, Web of Science and Scopus) for articles published in the last 5 years
+Eligibility Peer reviewed and proceedings
+Data collection Exclusion of repeated articles; read of abstracts; read of full articles; addition of relevant articles that were not included in this process
+Quality assessment Articles analyzed by the authors
+Synthetize results Summary and results of all analyzed papers divided by area of research
+
+SOURCE: The authors (2020).
+The strategy to obtain the articles started with preliminary
+research to create a bibliometric network of the words used in the
+abstracts. A bibliometric network consists of nodes and edges that
+indicates the correlation between the words, and the strength of
+the connection through the edges (Van Eck and Waltman, 2014).
+The objective in creating this network for this review was to
+delimitate the biggest areas of research inside the theme of Circular
+Economy for the Construction Industry and then focus the review
+on those areas.
+
+To help create and visualize this bibliometric network, the
+software VOS Viewer was used to create a distance-based network,
+in which the distance between two nodes indicates their correla-
+tion and the bigger the node, the bigger the number of citations the
+word has (Van Eck and Waltman, 2014).
+
+This software delimits the use of only one database for network,
+therefore this preliminary research was conducted in the three
+databases used in this review (Science Direct, Web of Science and
+Scopus), and the database that found the biggest number of results
+was used to create this network. In this preliminary search it was
+used the words “Circular Economy” and “Buildings”, that found 375
+results in the Scopus database (Science Direct and Web of Science
+had 115 and 70, respectively), therefore it was the used database.
+
+Fig. 1 shows the results of this bibliometric network, clearly
+dividing the most used words in three areas of focus.
+
+This division shows that there were three most researched
+different areas of research inside this theme. The three chosen
+words to focus this systematic review were “reuse”, “case” and
+“technique”, with the last one not being the most common in its
+area, however it was used instead of “China” since it would most
+likely restrict studies to that country.
+
+With the definition of the words of focus for this study, the
+initial search was conducted in the three databases using the
+combination of: “Circular Economy” AND “Buildings” AND (“Reuse”
+OR “Technique” OR “Case”). This first search found 262 total papers.
+Fig. 1. Bibliometric network of “circular economy” and “buildings”.
+Source: The authors (2020).
+Then all the papers that were not peer reviewed or proceedings, as
+well of not being published in the last five years were eliminated,
+resulting in 214.
+
+The next step of eliminating the repeated articles, reached 142
+results. To eliminate most of the papers that were not related to the
+Construction Industry, a read of all the titles was made, reducing
+the total to 71 papers. This drastic reduction by only reading the
+title can be explained since the word “buildings” can mean the
+creation of something, therefore the article could have the searched
+keywords but be in a totally different field than the Construction
+Industry.
+
+The first analysis of content was conducted by reading the ab-
+stract of the remaining articles and eliminating all that was not
+relevant for the use of Circular Economy in the Construction In-
+dustry, resulting in 45 articles. The last step was a reading of the
+complete papers, excluding those that didn’t meet the established
+criteria and inserting relevant papers that were not included in the
+search of the databases. This last step eliminated 2 articles and
+included 2more, resulting in a final number of 45 articles that were
+used in this literature review. Fig. 2 summarizes this process.
+
+The second to last step of this protocol was the quality assess-
+ment of these articles, that considered the integrity of all the da-
+tabases used and the fact that all the papers were peer reviewed or
+proceedings, ensuring they were reliable sources for this review.
+
+Additionally, a bibliometric analysis about the 45 articles was
+made, with the help of the software Excel, and reported the results
+in the next section. Finally, this systematic review was concluded
+with a content analysis, inwhich the definition of Circular Economy
+Fig. 2. Article selection sequence.
+Source: The authors (2020).
+
+
+
+4 G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046
+given in each paper was collected, the life cycle stages contem-
+plated in each article was analyzed and a summary of all the articles
+included in this literature review was given, with their respective
+findings.
+
+After the found results, the next sectionwill bring the discussion
+about the descriptive and content results, respectively.
+3. Results
+
+The results of this research are divided into two parts, first it will
+be provided a descriptive analysis of the bibliometric results ob-
+tained, followed by an analysis of the content of the articles
+included in this literature review. The articles were divided into six
+different research themes and each paper was given a brief
+summary.
+3.1. Descriptive analysis
+
+The first bibliometric analysis is about the number of publica-
+tions per year, as shown in Fig. 3.
+
+There is definitive increase in the number of articles published
+since 2017, as the number grew exponentially, and it shows a clear
+indicative that this topic of research is starting to gain traction in
+the built environment and will likely continue to grow in terms of
+number of publications.
+
+Also, this literature review only covers papers that were pub-
+lished until May of 2019, so the number for this year will likely be
+even higher than already is.
+
+Another analysis made was about the place of publication of the
+papers, that might help understand the big increase that 2019 has
+shown in number of publications, although this research did not
+include half of the year.
+
+Fig. 4 shows that the biggest place of publication was the con-
+ference proceedings “IOP Conference Series: Earth and Environ-
+mental Sciences”, with 14 papers, that in this special case was the
+proceedings of the event named “Building as Material Banks e A
+pathway for a circular future”, that had the theme of Circular
+Economy in the built environment and happened in the beginning
+of 2019.
+
+The next biggest sources of publications were “Journal of
+Cleaner Production” and “Resources, Conservation and Recycling”,
+with 9 and 4 publications respectively, both journals with qualifi-
+cation “Q1” in the Scimago Journal & Country Rank (SJR) showing
+the interest of important research sources.
+
+Finally, an analysis about the country that hadmost publications
+was conducted, as the results as shown in Fig. 5. The country with
+Fig. 3. Number of publications per year.
+Source: The authors (2020).
+the greatest number of papers in this review was the United
+Kingdom, with seven, followed by Denmark with five, Netherlands
+and Italy, four each. Also, Europe was by far the continent with the
+most publications in this area, with 34 of the 45 papers included in
+this review. The next continent was Asia with only 4 publications.
+
+3.2. Content analysis
+
+The content analysis of this research is divided into four stages:
+(1) Definition of Circular Economy for the built environment; (2)
+Stages of the life cycle included in the researches; (3) Analysis by
+research theme; and (4) List of Circular Economy practices by life
+cycle stage.
+
+3.2.1. Definition of Circular Economy for the built environment
+A first analysis about the content of the articles was made
+
+regarding the definition that was used for Circular Economy for the
+Construction Industry. This analysis was made by selecting all the
+sources of definitions of “Circular Economy” in the articles included
+in this literature review, weather it was defined in regards of the
+built environment or for the general industry, and in the end a
+definition of Circular Economy for the Construction Industry is
+given by the authors.
+
+The most cited source of definition about this concept was Ellen
+MacArthur Foundation, with 12 citations of their several reports
+(EMF, 2012, 2013, 2014, 2015) that has helped increasing the
+awareness in this subject, as they have published multiple reports
+promoting the opportunities of adoption of Circular Economy in
+our society. They have defined Circular Economy as “restorative by
+design and aims to keep products, components, and materials at
+their highest utility and value at all times, distinguishing between
+technical and biological cycles” (EMF, 2015).
+
+Two other sources have been citedmultiple times in this review.
+First, Lacy and Rutqvist (2015), cited 4 times, have a bigger focus on
+the competitive advantage that companies can acquire through the
+Circular Economy, as they call “circular advantage”. They define
+Circular Economy as the opposite of the usual consumption of
+natural resources, as the “circular approach keep resources in
+productive use in the economy for as long as possible” (Lacy and
+Rutqvist, 2015).
+
+The other common cited source was Pomponi and Moncaster
+(2017), with 4 citations, that, unlike the other authors, had their
+focus on the definition of Circular Economy for the Construction
+Industry. They conducted a literature review on the existing general
+Circular Economy definitions, in which they found six different
+dimensions that CE must be addressed in the built environment:
+governmental, economic, environmental, behavioural, societal and
+technological. In their definition, they considered Circular Economy
+for the Construction Industry as a “building that is designed,
+planned, built, operated, maintained, and deconstructed in a
+manner consistent with CE principles” (Pomponi and Moncaster,
+2017).
+
+Outside of the most cited sources, there has also been some
+authors that had only one citation as source of definition for the
+concept but with the focus on the Construction Industry, as
+Geissdoerfer et al. (2017) defined a “regenerative closed loop sys-
+tem which can be achieved through appropriate design, mainte-
+nance, refurbishing or reuse”. Later, Leising et al. (2018) defined the
+Circular Economy approach for buildings as a “life cycle approach
+that optimizes the buildings’ useful lifetime, integrating the end-of-
+life phase in the design and uses new ownership models where
+materials are only temporarily stored in the building that acts as a
+material bank”.
+
+We have considered the definitions given by the Circular
+Economy of themost cited sources in a general manner, andmost of
+
+
+
+G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046 5
+
+Fig. 4. Places of publications.
+Source: The authors (2020).
+
+Fig. 5. Countries of publications.
+Source: The authors (2020).
+them have the focus on the general concept of Circular Economy
+and only a few focus on the Construction Industry, with only one
+(Leising et al., 2018) considering the life cycle of a building in the
+definition. Therefore we found the necessity to define the concept
+of Circular Economy focused on the Construction Industry, as well
+as considering the life cycle stages of a building, as “the use of
+practices, in all stages of the life cycle of a building, to keep the
+materials as long as possible in a closed loop, to reduce the use of
+new natural resources in a construction project”.
+
+3.2.2. Stages of the life cycle included in the researches
+A second analysis about the content of the included papers in
+
+this review was conducted in terms of which life cycle stages of a
+building were contemplated in these researches. The considered
+stages were project design, material manufacture, construction,
+operation and end of life.
+
+The consideration of these five phases takes into account the
+European standard EN 15978:2011, that specifies the calculation
+method for Life Cycle Assessment (LCA) of a building and considers
+four main life cycle stages: (1) product manufacture; (2) con-
+struction; (3) operation; and (4) end-of-life. It also considers the
+definition from the EU funded Building As Material Banks (BAMB)
+project that defines also four main life cycle stages, however it does
+not consider the product manufacture phase, but it does consider
+the project design phase as the initial phase (BAMB, 2016).
+
+The combination of both definitions has been used by Adams
+et al. (2017) and it has been chosen for this research, since multi-
+ple practices based on the concept of Circular Economy must
+
+
+
+6 G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046
+happen in the design phase of a project as well as in the manu-
+facture of the building parts and structures, therefore it will help
+the differentiation of stages for this research.
+
+Table 2 shows that the end of life of buildings was the stage that
+most appeared in the articles, with two thirds of them (30)
+considering, followed by the project design, with 14. The phase that
+was least covered was the operation, with only 4 papers discussing
+it. Also, out of all the articles, the most common approach was to
+consider only one of the stages, used by 21 papers, followed by
+considering 2 stages (15). In this review only one article (Hossain
+and Ng, 2018) considered all five stages in its research.
+
+The fact that only one article considered all stages, and most
+considered only shows that the research in this area is still focused
+on applying the concepts of Circular Economy in the build envi-
+ronment in only one life cycle stage at a time. This means that
+research is still trying to understand how to use Circular Economy
+practices in specific cases for construction, and not yet focusing in a
+more global use of those concepts, which can be understood as a
+challenge for future researches in this area to incorporate Circular
+Economy in more life cycle stages of a building.
+Table 2
+Life cycle stages of the building considered in the papers.
+
+Article Building life cycle stages
+
+Project Design Manufac
+
+Smol et al. (2015) X
+Geldermans (2016) X
+Adams et al. (2017) X
+Oezdemir et al. (2017) X
+Esa et al. (2016)
+Pomponi and Moncaster (2017) X
+Swift et al. (2017) X X
+Sanchez and Haas (2018a)
+Tallini and Cedola (2018) X
+Sanchez and Haas (2018b) X
+Sauter et al. (2018) X
+Leising et al. (2018) X X
+Huang et al. (2018)
+Hossain and Ng (2018) X X
+Ghisellini et al. (2018)
+Mangialardo and Micelli (2018) X
+Akanbi et al. (2018) X
+Minunno et al. (2018) X X
+Nun~ez-Cacho et al. (2018) X
+Chang and Hsieh (2019) X
+Nordby (2019)
+Maerckx et al. (2019) X
+Heinrich and Lang (2019) X
+Van Bueren et al. (2019)
+Nubholz et al. (2019) X
+Manelius et al. (2019)
+Eberhardt et al. (2019a) X
+Nijgh and Veljkovic (2019) X
+Akanbi et al. (2019a) X
+Kyro€ et al. (2019) X
+Gepts et al. (2019)
+Honic et al. (2019) X
+Bertino et al. (2019)
+Eberhardt et al. (2019b) X
+Ali (2019) X
+Eberhardt et al. (2019c) X
+Munaro et al. (2019) X
+Ajayabi et al. (2019) X
+Hopkinson et al. (2019) X
+Krause and Hafner (2019) X
+Arora et al. (2019)
+Akanbi et al. (2019b)
+Pimentel-Rodrigues and Siva-Afonso (2019)
+Rasmussen et al. (2019) X
+Ünal et al. (2019) X
+Totals 23 14
+
+SOURCE: The authors (2020).
+3.2.3. Analysis by research theme
+The content analysis of each articles was divided by six different
+
+research areas that were found in this review. This division was
+made in regard of the main area that each research followed;
+however, they were not always the focus of their researches.
+Therefore, this division was made to facilitate the understanding of
+recent developments of articles in similar areas of research inside
+the main theme of Circular Economy in the Construction Industry.
+
+Table 3 shows each article that was included in this literature
+review and the research theme that it was considered.
+
+The summary of each article is given in Appendix A, in chro-
+nological order of publication, separated by each area of research.
+At Appendix B, the most important results and findings of each
+article are given, as well as their contributions, by area of research.
+In the discussion section of this article, an explanation of each area
+of research is shown, with the recent developments of their
+researches.
+
+3.2.4. List of Circular Economy practices by life cycle stage
+Another analysis that was possible after this literature review,
+Totals
+
+ture Construction Operation End of life
+
+X 2
+X X 3
+
+X 2
+X 2
+X 1
+
+X X 3
+X 3
+X 1
+
+X 2
+1
+1
+
+X X 4
+X 1
+
+X X X 5
+X 1
+
+X X 3
+X 2
+
+2
+X X X 4
+
+1
+X 1
+
+X X 3
+X 2
+
+X 1
+X 2
+
+X X 2
+X 2
+
+1
+X 2
+X 2
+X 1
+
+1
+X 1
+
+1
+1
+
+X X 3
+1
+
+X 2
+X 2
+X 2
+X 1
+X 1
+
+X 1
+1
+1
+
+11 4 30
+
+
+
+G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046 7
+
+Table 3
+Articles in this literature review by area of research.
+
+Nº of Area of research Authors
+Articles
+
+13 Development of Circular Economy in the Adams et al. (2017); Pomponi and Moncaster (2017); Esa et al. (2016); Leising et al. (2018); Huang et al. (2018);
+built environment Mangialardo and Micelli (2018); Nun~ez-Cacho et al. (2018); Minunno et al. (2018); Chang and Hsieh (2019); Maerckx
+
+et al. (2019); Van Bueren et al. (2019); Ünal et al. (2019); Eberhardt et al. (2019c)
+12 Reuse of materials Smol et al. (2015); Geldermans (2016);Sanchez and Haas (2018a,b); Tallini and Cedola (2018); Ghisellini et al. (2018);
+
+Nordby (2019); Nubholz et al. (2019); Manelius et al. (2019); Nijgh and Veljkovic (2019); Akanbi et al. (2019b);
+Pimentel-Rodrigues and Siva-Afonso (2019); Hopkinson et al. (2019)
+
+6 Material stocks Oezdemir et al. (2017); Heinrich and Lang (2019); Gepts et al. (2019); Ali (2019); Ajayabi et al. (2019); Arora et al.
+(2019)
+
+6 Circular Economy in the project design Swift et al. (2017); Sanchez and Haas (2018b); Akanbi et al. (2018); Akanbi et al. (2019a,b); Bertino et al. (2019); Kyro€
+et al. (2019)
+
+5 LCA Analysis Hossain and Ng (2018); Eberhardt et al. (2019a); Eberhardt et al. (2019b); Krause and Hafner (2019); Rasmussen et al.
+(2019)
+
+3 Material passports Sauter et al. (2018); Honic et al. (2019); Munaro et al. (2019)
+
+SOURCE: The authors (2020).
+was the creation of a list of different types of Circular Economy
+practices that exists focused on the built environment. This list
+becomes important to the development of this area in the con-
+struction sector as several authors (Adams et al., 2017; Huang et al.,
+2018; Van Bueren et al., 2019) have shown that there is a lack of
+known standard practices to implement Circular Economy in the
+Construction Industry.
+
+Table 4 was done by listing the found practices in the 45 articles
+used in the literature review, separating each practice in its life
+cycle stage. However, this separation is not absolute, since most of
+these practices can be done in different life cycle stages but were
+listed on their main phase.
+Table 4
+CIRCULAR ECONOMY practices for the construction industry.
+
+Life Cycle Circular Economy Practices Refe
+Stage
+
+Project Design and use of modular buildings Kyro€
+Design Design for adaptability of existing buildings Man
+
+and
+Design for Disassembly of building structures Leisi
+
+et al
+(201
+
+Use of a scale to analyze the level of implementation of Circular Nun~
+Economy practices in the company
+Use of a simulation in a BIM model to analyze the reuse potential of Akan
+the materials of different types of designs early in the project.
+Use of Life-cycle analysis to find the benefits of reusing different Eber
+types of materials in the design stage
+Use of material stock data to help reuse of materials of a new Oezd
+building (201
+
+Manufacture Change of use of materials, by giving it ownership to the Swif
+manufacturers to reuse the materials after the end of life of the first
+building
+Development of material passports Leisi
+Reuse of secondary materials in the production of building materials Nub
+
+Construction Reuse of building materials in a new construction Smo
+and
+(201
+
+Waste reduction Esa
+Off-site construction Adam
+
+Operation Use of a tool to evaluate the state of materials during the lifespan Akan
+and end of life of a building
+Use of water management practices Pime
+Minimize recuperative maintenance with preventive maintenance Adam
+
+End of Life Analyze the potential for reuse or recycling of existing materials and Sanc
+if it is feasible comparing to using new materials.
+Management of demolition waste Ghis
+Use of a circularity tool to evaluate existing buildings and give the Bert
+best possible solutions to refurbishment
+Deconstruction of building structures and parts Adam
+
+SOURCE: The authors (2020).
+This list can help the development of Circular Economy on the
+Construction Industry, since it gives practical steps that a company
+can take in order to implement CE in their projects, as well as help
+further the research on this theme.
+4. Discussion
+
+The discussion of the obtained results is divided into three
+separate items. First, a descriptive discussion related to the biblio-
+metric results is conducted, followed by a content discussion of all
+six areas of research included in this study. Finally, the research
+gaps found in this literature review are discussed.
+rences
+
+et al. (2019)
+gialardo and Micelli (2018); Maerckx et al. (2019); Geldermans (2016); Sanchez
+Haas (2018a,b)
+ng et al. (2018); Mangialardo and Micelli (2018); Maerckx et al. (2019); Eberhardt
+. (2019b); Rasmussen et al. (2019); Sanchez and Haas (2018a,b); Manelius et al.
+9); Nijgh and Veljkovic (2019); Eberhardt et al. (2019c)
+ez-Cacho et al. (2018)
+
+bi et al. (2018); Akanbi et al. (2019a,b)
+
+hardt et al. (2019a); Eberhardt et al. (2019b); Hossain and Ng (2018)
+
+emir et al. (2017); Heinrich and Lang (2019); Gepts et al. (2019); Ajayabi et al.
+9); Arora et al. (2019); Manelius et al. (2019)
+t et al. (2017); Leising et al. (2018)
+
+ng et al. (2018); Sauter et al. (2018); Honic et al. (2019); Munaro et al. (2019)
+holz et al. (2019)
+l et al. (2015); Sanchez and Haas (2018b); Mangialardo and Micelli (2018); Tallini
+Cedola (2018); Maerckx et al. (2019); Rasmussen et al. (2019); Ajayabi et al.
+9); Nordby (2019)
+et al. (2016); Adams et al. (2017)
+s et al. (2017); Minunno et al. (2018); Mangialardo and Micelli (2018)
+bi et al. (2019b)
+
+ntel-Rodrigues and Siva-Afonso (2019)
+s et al. (2017)
+
+hez and Haas (2018b)
+
+ellini et al. (2018); Maerckx et al. (2019)
+ino et al. (2019)
+
+s et al. (2017); Hopkinson et al. (2019)
+
+
+
+8 G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046
+4.1. Descriptive discussion
+
+The bibliometric data of this literature review showed the great
+increase in the research of Circular Economy in the Construction
+Industry, mostly on the last three years, when the number of
+published papers has more than doubled every year. The reasoning
+behind the great number of publications in 2019 was the event
+“Building as Material Banks (BAMB) e A pathway for a circular
+future” that happened earlier in the year.
+
+This event was part of the a project initiated in Europe with 15
+partners from 7 different countries called BAMB e Building As
+Material Banks, that has the goal of “enabling a systemic shift in the
+building sector by creating circular solutions” (BAMB, 2016) and
+focuses mostly on Building Material Passports and Reversible
+Building Design (RBD), in which a project should consider all life
+cycle stages, guarantee high reuse and transformation potential of
+the building (BAMB, 2017c).
+
+Other than that, the biggest number of publications comes from
+two journals that are classified as Q1 in the Scimago Journal Rank
+(SJR), “Journal of Cleaner Production” and Resources, Conservation
+& Recycling”. This shows the interest of important sources of
+knowledge in the built environment research world.
+
+With this increase of interest in the area shown by the biblio-
+metric numbers, we believe there is a need to help unite authors to
+further the developments of researches in the Circular Economy for
+the Construction Industry by creating a Community of Practice
+(CoP) for this area.
+
+Community of Practice is considered an efficient management
+system to create and share knowledge, regardless of the place,
+either physical or digital (Sartori, 2012). This concept started with
+the definition of Lave and Wenger (1991) that a CoP is a group of
+relationships between people, activities and the world. Later,
+Wenger (1998) defined CoP as a group of individuals that share the
+same interests or passions, aiming at improving their knowledge,
+information sharing and problem resolutions.
+
+Wenger et al. (2002) described the three main elements of a
+Community of Practice: (1) Domain, that is the subject which the
+members have identified themselves with; (2) Community, that is
+the interactions between the members inside the defined domain;
+and (3) Practice, in which the sharing of information happens to
+improve the community knowledge in the domain. Table 5 de-
+scribes the three main elements developed byWenger et al. (2002)
+with the focus on the development of Circular Economy in the built
+environment.
+
+The potential creation of a Community of Practice can help
+further research in the practices of Circular Economy inside the
+Construction Industry, since will help researchers around the world
+communicate and share their researches and progress, as well as
+finding other professionals who are studying and developing
+studies on the same subject.
+
+4.2. Content discussion
+
+This step of the discussion is divided into the six found areas of
+research inside the theme: (1) Development of Circular Economy in
+Table 5
+Elements of a potential community of practice.
+
+Elements Description
+
+Domain Circular Economy for the Construction Industry
+Community Universities and Organizations within the Construction Industry
+Practice Development of researches and studies to further the adoption of
+
+Circular Economy in the construction sector
+
+SOURCE: The authors (2020).
+the built environment; (2) Reuse of materials; (3) Material stocks;
+(4) Circular Economy in the project design; (5) LCA Analysis; and (6)
+Material passports.
+
+4.2.1. Development of Circular Economy in the built environment
+This group of articles is about researches that were concerned
+
+with the implementation and development of the concepts of Cir-
+cular Economy in the Construction Industry, with multiple papers
+(Esa et al., 2016; Adams et al., 2017; Leising et al., 2018; Huang et al.,
+2018; Mangialardo and Micelli, 2018; Chang and Hsieh, 2019; Van
+Bueren et al., 2019) investigating the barriers, challenges and op-
+portunities to the use of these concepts in the built environment of
+their countries.
+
+The overall finding about the level of awareness inside the
+Construction Industry about Circular Economy seems good, how-
+ever these concepts are being introduced in the built environment
+in a slow manner, since most of the stakeholders don’t understand
+how the concepts can be applied in a practical way for the Con-
+struction Industry (Adams et al., 2017; Eberhardt et al., 2019c).
+Eberhardt et al. (2019c) also found that the lack of knowledge on
+how to implement Circular Economy in the Construction Industry is
+due to the complexity of the supply chain and the short-term goals
+of most companies, not giving the needed attention for the end of
+life stage.
+
+To help the understanding of how these concepts can be
+adopted in the built environment, Pomponi and Moncaster (2017)
+defined the Circular Economy concept for the Construction In-
+dustry considering six different dimensions: governmental, eco-
+nomic, environmental, behavioural, societal and technological.
+Those dimensions were needed, since the authors found that the
+study of Circular Economy for the built environment has been
+focusing too much on the global vision of cities or the construction
+materials, and not enough on the buildings themselves. With the
+division of those six dimensions, the authors provided a basis for
+researchers in the development of this concept for the Construction
+Industry.
+
+Other than that, a lack of standards for use of these concepts also
+hurts its adoption (Huang et al., 2018), as well as the need to the
+development of a better waste management of C&D in developing
+countries (Esa et al., 2016). In terms of opportunities to increase the
+adoption of Circular Economy in the construction sector some au-
+thors (Huang et al., 2018; Van Bueren et al., 2019; Chang and Hsieh,
+2019) agree that the government could play an important part, with
+financial and other types of incentives for companies that uses
+practices of reuse or disassemble in their operations.
+
+Additionally, this area of research included articles that analyzed
+real cases where Circular Economy concepts have been used in their
+operations (Leising et al., 2018; Mangialardo and Micelli, 2018;
+Maerckx et al., 2019) to understand how they were used and
+what benefits they brought to the projects.
+
+4.2.2. Reuse of materials
+This area of research was defined for articles that had the focus
+
+of its research on the reuse of materials in the built environment,
+with a total of 12 papers. These studies can be divided into three
+different levels in Construction Industry. Firstly, the micro-level
+included the studies that covered applications or methods to
+reuse specific materials. Sanchez and Haas (2018a) and Nijgh and
+Veljkovic (2019) conducted researches about new methods of
+reuse, while Smol et al. (2015) and Tallini and Cedola (2018) studied
+the possible applications for the reuse of materials through the
+existing literature.
+
+Secondly, the meso-level includes researches that covered ap-
+plications of reuse in the whole building, not focusing only on
+specificmaterials or elements. Manelius et al. (2019) analyzed a real
+
+
+
+G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046 9
+case of buildings that reused materials in its construction and
+Pimentel-Rodrigues and Siva-Afonso (2019) discussed the possi-
+bilities of applications of reuse in the operation phase of buildings,
+while Akanbi et al. (2019b) developed a method to measure the
+level of reusability of materials in the end of life stage of a building.
+
+Finally, the macro-level included papers that focused on the
+reuse potential of materials for the Construction Industry.
+Geldermans (2016) researched the prerequisites that materials
+need to be reused in the built environment, Nubholz et al. (2019)
+analyzed the potential benefits of reuse to reduce carbon emis-
+sions in the industry and Nordby (2019) identified the barriers and
+opportunities for reuse in Norway.
+
+This division of different levels of analysis for the reuse of ma-
+terials in the built environment and balanced number of publica-
+tions (4, 3, 3, respectively) shows that research in this area has not
+focused in only one level of reuse and is committed to develop
+better methods and ways of reuse in all levels of the Construction
+Industry.
+
+Another type of research taken in this area was through a
+literature review, as Ghisellini et al. (2018) and Hopkinson et al.
+(2019) found that recycling is still the most researched practice
+for non-disposal methods in the Construction Industry, showing
+the need to improve the research into reducing and reusing ma-
+terials before recycling them.
+
+4.2.3. Material stocks
+In the research area of material stocks, the articles focused on
+
+the creation of models to estimate the existing or future quantity of
+materials that can be reused on buildings in their end of life. Most of
+the papers created models to estimate the material quantity of
+specific regions (Oezdemir et al., 2017; Heinrich and Lang, 2019;
+Gepts et al., 2019; Ajayabi et al., 2019), differing in the methods and
+data used to estimating the missing values.
+
+Oezdemir et al. (2017) extracted data from GIS and material
+values from the literature, while Heinrich and Lang (2019) used
+geometric data from a city 3D model, as well as material data from
+the literature. In their study, Gepts et al. (2019) combined two
+existing data to create the material stock, an EPC (Energy Perfor-
+mance Certificate) database and a marketing agency specialized in
+the construction sector.
+
+The consensus from this group of articles is that it is possible to
+creatematerial stocks of a city scale with the existing data, however
+it is still needed more research on the material properties to reli-
+ably estimate the percentage that can actually be reused and be
+considered on the material banks of cities.
+
+4.2.4. Circular economy in the project design
+One of the most discussed subjects in articles through all areas
+
+of research is that the concepts of Circular Economy should be
+introduced in the early stages of a project, in its design phase, and
+this specific group of six articles had their focus on developing tools
+or understanding the changes that need to happen for CE be
+implemented in the design phase of buildings.
+
+Half of the articles in this group (Swift et al., 2017; Akanbi et al.,
+2018, 2019a) discussed the use of these concepts in the design
+phase of the project in collaboration with BIM tools. This process
+has the capability of storing different types of information in its
+digital model, becoming an important tool for the adoption of
+Circular Economy in the built environment. Akanbi et al. (2018)
+developed a BIM-based Whole-Life Performance Estimator
+(BWPE) to analyze in the design phase the recoverability of mate-
+rials at end of life of the building. Later, Akanbi et al. (2019a)
+developed a plug-in for Revit that helps Design for Disassemble
+(DfD). Also, with use of the BIM process, Swift et al. (2017) studied
+the utilization of RFID physical tags to change ownership of
+components of buildings inside BIM data, helping manage the
+components in their whole life cycle.
+
+Kyro€ et al. (2019) and Bertino et al. (2019) also studied the use of
+Circular Economy in the design phase but analysing real cases
+where the Circular Economy concepts were utilized from the start
+of the project. This was the main discussion of Sanchez and Haas
+(2018b), that suggested that projects that use Circular Economy
+should have distinct phases in the design stage, with decision gates
+and planning methods.
+
+This area of research shows the potential that exists to imple-
+ment Circular Economy practices at very early stages of a project,
+incorporating BIM tools that allow analysis of how different ma-
+terials can affect the reuse potential of a building, but not only using
+BIM tools, as it is also very beneficial to design structures to
+disassemble in the project phase to allow a bigger percentage of
+materials and structures that can be reused at end of life of
+buildings.
+
+4.2.5. LCA analysis
+This area of research included articles that studied how can
+
+Circular Economy be used in Life Cycle Assessments (LCA) andwhat
+are the benefits and results of this. Four papers of the five articles in
+this group conducted a LCA with concepts of Circular Economy.
+
+Eberhardt et al. (2019b) and Rasmussen et al. (2019) performed
+a LCA for buildings that used Design for Disassembly, concluding
+that this practice can have great results on the environmental
+embodied impacts of the buildings, however specifically on the EN
+15804/15978 standards the practices didn’t bring advantages, since
+these standards have the focus on reducing emissions, rather than
+crediting future emission savings.
+
+Eberhardt et al. (2019a) also analyzed a LCA that used compared
+the results of a linear approach to a circular one of three different
+components of a building, finding that material loops will not be
+100% circular, as there is a need to input materials in order to keep
+the original materials in the loop, given the system losses. Addi-
+tionally, Hossain and Ng (2018) found that the majority of LCA’s do
+not account for reuse possibilities or any type of waste
+management.
+
+Another focus of analysis in this areawas the Module D of a LCA,
+that brings the summary of all benefits and loads outside the sys-
+tem boundaries. Krause and Hafner (2019) conducted a LCA using
+this module and found that it can provide information about the
+recycling potentials at the end of life of a building, however it only
+contributes to around 3e4% of the overall results of the LCA.
+
+Although the use of LCA tools and methods within the built
+environment have been increasing over the last years (Eberhardt
+et al., 2019a), there is a potential and need to start incorporating
+more Circular Economy concepts in these analyses. The results of
+three articles of this area (Eberhardt et al., 2019a, 2019b; Krause and
+Hafner, 2019) shows the benefits of including practices such as
+design for disassemble in the LCA, as it can reduce the value of
+embodied carbon and energy in buildings.
+
+4.2.6. Material passports
+This last area of research included three articles, which the focus
+
+was on investigating the creation of Building Material Passports
+(BMP), that can be used to store important data of these building
+components for their use in their end of life, helping incorporate
+the materials in the circular loop, instead of disposing them.
+
+To help the development of BMPs, Sauter et al. (2018) proposed
+two different ontologies for building materials, named Circular
+Exchange and Circular Materials and Activities, with the goal of
+aligning product descriptions and increasing material circulation in
+the built environment. They also developed a procedure to publish
+circular data as Linked Data (RDF), incentivizing users,
+
+
+
+10 G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046
+organizations and organizations to publish their material data as
+RDF.
+
+Honic et al. (2019) created a BMP for a building with different
+variants to analyze its environmental impacts, where they found
+that in the studied case concrete had a better recycling potential
+than timber. Munaro et al. (2019) also developed a BMP in their
+research, but for the wood frame system in the Brazilian industry.
+They found that the lack of need for Environmental Product Dec-
+larations (EPD) in the country makes it hard to create a BMP,
+showing the need for building material manufacturers to create
+EPDs for its materials in order to make it viable for the creation of
+BMPs.
+
+The existence of a consolidated database of BMPs can help the
+evaluation and optimization of recycling potential and environ-
+ment impacts (Honic et al., 2019), which comes to the agreement of
+other areas of research showing the immense potential of using
+Circular Economy tools and practices earlier in the project to reduce
+the negative environment impacts constructions can have. How-
+ever, there are still problems in the process of creating BMPs, as
+Munaro et al. (2019) described a series challenges in the political,
+commercial and social areas that still need research and better
+collaboration between stakeholders to make this process more
+accessible and feasible.
+4.3. Research gaps
+
+After the development of this literature review, this section will
+describe the knowledge gaps still existing in the use of Circular
+Economy for the Construction Industry.
+
+Although the biggest number of publications in one area was
+about the reuse of materials, one of the most common barriers for
+the adoption of Circular Economy concepts was the lack of standard
+practices for the reuse of thosematerials (Adams et al., 2017; Huang
+et al., 2018; Van Bueren et al., 2019). This shows the existing need
+for research to develop more standard practices about the reuse of
+building materials that can be proved and adopted by the industry.
+
+Another area that needs more development in the academia is
+in the creation of Building Material Passports. This literature review
+found just three articles in that area, inwhich only two had the goal
+of creating a BMP. This shows the need for more research on un-
+derstanding the prerequisites and barriers existing in the process of
+creating a BMP from the academia, given the low number of articles
+in this area. This knowledge gap, however, has been explored by the
+BAMB project and has already had a number of useful reports on
+the guidelines and results obtained (BAMB, 2017a, 2017b, 2018b,
+2019b, 2019c, 2019d), which could help the development and
+establishment of this practice in the construction industry.
+
+Additionally, one area of research that was not included in this
+literature review but still needs attention in the Circular Economy is
+the development of business models within the Construction In-
+dustry. The current models are still supporting the linear use of
+resources (BAMB, 2017c), in which the construction company only
+cares about the resources that will be used for the construction, not
+giving the importance it needs for the end of life of the materials.
+
+This paradigm shift for a circular use of resources needs to
+happen in the Circular Economy, and with this more business
+models opportunities will arise, since new business services will be
+needed, such as companies that support the collection of materials
+at end of their life, companies that specialize in disassembling
+materials and structures to be reused, among others (EMF, 2015).
+With more different business services emerging from this concept,
+there is a big need of researching how the current business models
+of construction companies can adapt to this change.
+5. Conclusions
+
+This article had the objective of finding the recent developments
+of Circular Economy in the Construction Industry, and a systematic
+literature review was conducted to reach this goal. In total 45 ar-
+ticles were included in the review after the creation of a biblio-
+metric network that gave the three most relevant cited terms in
+Circular Economy researches for the construction sector.
+
+Through the literature review, it was possible to divide the pa-
+pers into six different areas of research inside this subject. The one
+that had the biggest number of publications was about the devel-
+opment of Circular Economy in the built environment. The other
+research areas found were, in order of number of publications:
+reuse of building materials at their end of life stage, material stocks,
+Circular Economy in the project design, LCA analysis and material
+passports.
+
+From the development of Circular Economy in the built envi-
+ronment research area, the consensus is that there is good level of
+awareness of the need of change from the linear to the Circular
+Economy, however practitioners argue about the lack standardized
+methods and practices to help them implement in their construc-
+tion projects.
+
+The reuse of materials area of research shows the need to study
+how building materials can be reutilized in different levels, ana-
+lysing the materials for the Construction Industry in general, their
+materials in specifically for buildings and for each specific material
+as well.
+
+The following area of research, material stocks, found that it is
+possible to create material stocks in a large scale, such as a whole
+city, by the means of existing data. This possibility, however, needs
+further research to improve the reliability of the percentage of
+existing building materials that will be possible to reuse.
+
+Throughoutmost of the 45 articles reviewed in this research, the
+necessity to implement Circular Economy concepts from the proj-
+ect design phase has been emphasized. The potential to consider
+those concepts in the earlier stages of a project can help assess the
+reuse percentage of the materials that will be used and help deci-
+sion makers choose the most fitting materials in the circularity
+mentality, as well as better manage all the resources that will be
+used throughout the life cycle of the building.
+
+By considering the Circular Economy practices earlier in the
+project design stage, there is also the possibility of incorporating
+them into the LCA analysis of the project. This will help show the
+benefits of reusing materials and reducing the amount of resources
+taken from the nature, with the results of reducing emissions,
+embodied carbon and energy in the project.
+
+After analysing the content of the selected articles, the biggest
+knowledge gaps and research opportunities were given. There is a
+need to further the development of standard practices for the reuse
+of building materials, as several articles found this fact as one of the
+biggest barriers for the adoption of Circular Economy in the Con-
+struction Industry. To help in this gap, this review created a table of
+known CE practices in each life cycle stage, that were described in
+the 45 articles. Also, a bigger attention should be given to research
+the needs and challenges on the creation of Building Material
+Passports, as well of in the development of new business models
+that use the Circular Economy approach in their operations.
+
+Another analysis made was regarding the bibliometric data of
+the articles in this review. Over the last three years the number of
+publications has more than doubled every time, and the places that
+had the biggest number of articles are important sources of
+knowledge sharing in the construction sector. These facts showed
+that the concept of Circular Economy has been gaining a lot interest
+in the built environment and we found the need to create a Com-
+munity of Practice for this area of research, to help develop and
+
+
+
+G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046 11
+increase its adoption in the Construction Industry.
+Although not included in the list of 45 articles included in this
+
+literature review since it only included peer reviewed and pro-
+ceeding papers, the project BAMB has been helping the develop-
+ment of the implementation of Circular Economy in the
+Construction Industry. Throughout a series of reports and pilot
+projects, this EU funded project contributes with practical cases of
+how the implementation of CE practices happens and their results
+and should be considered and explored by practitioners that want
+to apply CE into their businesses.
+
+Finally, this article brings to attention the fact that most of the
+20 practices found for the Circular Economy in the Construction
+Industry are aiming at reducing the amount of waste generated at
+the end of the life cycle of a building, as well as better manage the
+resources used throughout it. These two results are very similar to
+the end goals of Lean Construction, that looks to eliminate waste
+along the construction and improve the efficiency of the process
+(Koskela, 2000). Nadeem et al. (2019) states that the similarities
+between Lean Thinking, the concept behind Lean Construction, and
+Circular Economy have the potential to produce good results,
+therefore is something that can be explored and better studied.
+
+The summary of each article included in this literature review is
+Articles Area of Research Summary
+
+Swift et al. (2017) Circular economy in the Switft et al. (2017) conducted a
+project design of components parts of buildin
+
+tags in three case studies.
+Sanchez and Haas (2018b) Circular economy in the Sanchez and Haas (2018b) disc
+
+project design from linear to circular econom
+phases, decision gates and pla
+
+Akanbi et al. (2018) Circular economy in the Akanbi et al. (2018) developed
+project design recoverability of structural com
+
+makers in the early stages of t
+Akanbi et al. (2019a) Circular economy in the Akanbi et al. (2019a) develope
+
+project design materials, helping introduce th
+Bertino et al. (2019) Circular economy in the Bertino et al. (2019) presented
+
+project design with the concept of circularity
+management of materials, wat
+
+Kyro€ et al. (2019) Circular economy in the Kyro€ et al. (2019) analyzed mu
+project design structured interviews, develop
+
+circularity of construction.
+Esa et al. (2016) Development of circular Esa et al. (2016) researched ab
+
+economy literature review about how ca
+framework for this purpose in
+
+Adams et al. (2017) Development of circular Adams et al. (2017) conducted
+economy stakeholders in the United Kin
+
+Pomponi and Moncaster Development of circular Pomponi and Moncaster (2017
+(2017) economy environment and all of its dime
+
+of circular economy, the meso
+Leising et al. (2018) Development of circular Leising et al. (2018) analyzed t
+
+economy economy, to understand the le
+collaboration tool to boost the
+vision, involvement of the mar
+preparation for next uses.
+
+Huang et al. (2018) Development of circular Huang et al. (2018) conducted
+economy construction and demolition w
+
+found the biggest barriers to t
+Mangialardo and Micelli Development of circular Mangialardo and Micelli (2018
+
+(2018) economy Construction Industry introduc
+Minunno et al. (2018) Development of circular Minunno et al. (2018) conduct
+
+economy industry sector to find how ca
+guidelines for this application.
+
+Nun~ez-Cacho et al. (2018) Development of circular Nun~ez-Cacho et al. (2018) deve
+economy implementation, using seven d
+
+environmental impacts and on
+Chang and Hsieh (2019) Development of circular Chang and Hsieh (2019) condu
+
+economy economy in Taiwan, finding its
+Eberhardt et al. (2019c) Development of circular
+
+economy
+given in Appendix A, as it can help better understand the contents
+of each research. Following, Appendix B gives the main contribu-
+tions of each study contemplated in this literature review.
+Declaration of competing interest
+
+The authors declare that they have no known competing
+financial interests or personal relationships that could have
+appeared to influence the work reported in this paper.
+Acknowledgements
+
+The authors would like to thank Programa de Pos-Graduaça~o em
+Engenharia de Construç~ao Civil (PPGECC). This research did not
+receive any specific grant from funding agencies in the public,
+commercial, or not-for-profit sectors.
+Appendix A. Summary of each article included in the
+literature review
+research that studied how the RFID technology can help changing the ownership
+gs, so they can be easily reused or readapted, through BIM data and physical RFID
+
+ussed the shift that needs to happen in the project planning for capital projects,
+y. The authors suggest that capital projects delivery phases should have distinct
+nning methods, as disassembly or LCA protocols.
+a BIM-based Whole-life Performance Estimator (BWPE) to analyze the
+ponents of buildings in the design phase, as a potential tool to help decision
+
+he project.
+d a Revit plug-in to analyze the disassemble and deconstruction capabilities of
+is concept in the project design phase in combination with BIM platforms.
+a case study of a existing building in Vienna that suffered multiple interventions
+in mind, in a project called HOUSEFUL, to reduce the negative impacts on the
+er, waste and energy of the building.
+ltiple case studies of relocatable modular buildings in Finland through semi-
+ing a framework for usable and relocatable modular buildings, helping the
+
+out the use of the concept of circular economy to minimize CDW, conducting a
+n CE be operationalized as a way to minimize wastes and developed a CE-based
+a micro, meso and macro level.
+a research about the level of awareness of circular economy between the different
+gdom construction section through a quantitative and qualitative survey.
+) conducted a literature review on the definitions of circular economy for the built
+nsions considered in the previous literature, focusing on the least researched level
+-level, that the authors state that are the buildings.
+hree case studies in the Dutch construction sector that used principles of circular
+vel of collaboration between the supply chain of the industry and develop a
+use of circular economy, creating five phases for the project: preparation and
+ket, design and collaboration, business model and implementation, and usage and
+
+a research about the adoption of the 3R concept (redection, reuse and recycling) of
+aste in China, through a literature review and personal interviews the authors
+he use of each of those three concepts in the country.
+) analyzed through three different case studies on Europe how can the
+e and apply the concepts of circular economy and how it will transform itself.
+ed a literature review on how the circular economy can be applied to different
+n it be used in the prefabricated sector of built environment, resulting in seven
+
+loped a circular economy scale for the building industry, to measure the degree of
+ifferent weighted dimensions, four related to waste management, two related to
+e with indicators about the transition to a CE.
+cted an interview and case study to disclose the current development of circular
+barriers and potentials for its use in the construction sector.
+
+(continued on next page)
+
+
+
+12 G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046
+
+(continued )
+
+Articles Area of Research Summary
+
+Eberhardt et al. (2019c) conducted a literature review to identify the main challenges of implementing circular
+economy within the construction industry, as well as analyzing a case study of a Danish office building that was
+designed to disassemble to quantify its potential environmental and economic benefits.
+
+Maerckx et al. (2019) Development of circular Maerckx et al. (2019) conducted an overview of 14 awarded projects from the Brussels Regional Program for a
+economy Circular Economy, which focused on better management of human and material resources, exploring the reuse,
+
+design for disassembly, training of workers and partnerships that those projects used.
+Van Bueren et al. (2019) Development of circular Van Bueren et al. (2019) conducted an interviewwith several stakeholders of different projects in Taiwan that had
+
+economy the goal of introducing circular economy in the sector, understanding its existing barriers and obstacles.
+Ünal et al. (2019) Development of circular Ünal et al. (2019) proposed a theoretical framework for creating value within a circular economymodel, based on
+
+economy managerial practices, and applied to a study case of a small medium-size enterprise in the building sector.
+Hossain and Ng (2018) LCA Analysis Hossain and Ng (2018) conducted a literature review about a number of LCA studies and circular economy in the
+
+built environment, with aim of finding knowledge gaps for the adoption of CE in the construction sector, as the
+authors developed a framework based on this review to extend the scope of research in this area and help the
+adoption of CE.
+
+Eberhardt et al. (2019a) LCA Analysis Eberhardt et al. (2019a) researched about the concept that life cycle assessments (LCA) are usually modeled
+linearly, that goes against the concept of circular economy. Because of that, the authors conducted two LCAs for
+three different materials, one using the linear approach and another incorporating circular perspectives as reuse
+and recycling.
+
+Eberhardt et al. (2019b) LCA Analysis Eberhardt et al. (2019b) conducted a life cycle assessment of a Danish office building that used a concrete
+structure that was designed for disassembly (DfD) to compare with traditional building methods.
+
+Krause and Hafner (2019) LCA Analysis Krause and Hafner (2019) performed a LCA analysis of exemplary buildings to investigate if the final module of
+the LCA (D) - summary of all benefits and loads outside the system boundaries - can be a suitable source of
+information for recycling potential of waste materials from demolition.
+
+Rasmussen et al. (2019) LCA Analysis Rasmussen et al. (2019) conducted a LCA using the EN 15804/15978 standards to compare how these calculations
+affect the environmental impacts (in this study GWP) of a building that used primarily upcycled materials and a
+building that was designed for disassembly (DfD).
+
+Sauter et al. (2018) Material passport Sauter et al. (2018) proposed two different building material ontologies, Circular Exchange and Circular Materials
+and Activities to facilitate material circulation in the construction sector, giving the materials the necessary
+elements for material exchange happen, in order to create building materials passport.
+
+Honic et al. (2019) Material passport Honic et al. (2019) developed a Material Passport of a case study building with two different variants, one that
+used concrete and the other timber, to compare the environmental impacts and the recycle potential of each
+variant.
+
+Munaro et al. (2019) Material passport Munaro et al. (2019) developed a Building Material Passport of the wood frame system for the Brazilian industry
+and used the created BMP in a case study of a wood frame specialized company to analyze the feasibility of this
+BMP, as well as investigating the main challenges to implement a Material Passport in the built environment.
+
+Oezdemir et al. (2017) Material stocks Oezdemir et al. (2017) developed a framework to assessing the material stock available in residential buildings in
+a urban region of Germany, by extracting the data from GIS and reviewing this data with previous studies about
+the material values, creating a cadaster of secondary resource that will be available to reuse in the future.
+
+Heinrich and Lang (2019) Material stocks Heinrich and Lang (2019) developed a model to calculate the material stocks in the district of Munich, Germany,
+using geometric data from the city 3D model and material specific data, finding the potential date for several
+material self-sufficiency.
+
+Gepts et al. (2019) Material stocks Gepts et al. (2019) studied the existing databases of building materials in Belgium to combine them in creating a
+material bank of the existing building stock, but only as a starting point of this data, since extra checks and data
+are needed to create a more accurate dataset for material banks.
+
+Ali (2019) Material stocks Ali (2019) created a framework that aims at including material reuse decisions on the project design of a new
+building, using a BIM platform to calculate all the materials needed for the new building and comparing with data
+from close sites of buildings that have been or are in process of being de-constructed.
+
+Ajayabi et al. (2019) Material stocks Ajayabi et al. (2019) conducted a research inside the 3 year project called REBUILD in the UK, that aims at
+quantifying the existing material stocks and flows of buildings, new demolition techniques to optimize the
+amount of material that can be reused, quantification of the potential of reuse and defining optimized circular
+system elements in the built environment. In this particular paper the authors focused on the first two goals,
+quantifying the existing material stocks for a city and finding new techniques for the extraction of bricks in
+demolition.
+
+Arora et al. (2019) Material stocks Arora et al. (2019) developed a methodology to estimate material and component stock of public housing in the
+city-state of Singapore using a bottom-up stock analysis, in order to enhance the potential for secondary resource
+recovery.
+
+Smol et al. (2015) Reuse of materials Smol et al. (2015) discussed the different applications existing in the literature for the use of sewage sludge ash
+(SSA) for the manufacture of building materials, in order to make this chain more circular.
+
+Geldermans (2016) Reuse of materials Geldermans (2016) conducted a research with the goal of finding the prerequisites for effective performance of
+materials, for them to be used and reused in a circular manner in the built environment. It was based on four
+workshops with different types of stakeholders, creating preconditions and guidelines to help this practice.
+
+Ghisellini et al. (2018) Reuse of materials Ghisellini et al. (2018) conducted a literature review with the goal of evaluating if the circular economy approach
+is environmentally and economically sustainable for the C&D waste management.
+
+Sanchez and Haas (2018a) Reuse of materials Sanchez and Haas (2018a) developed a new disassembly sequence planning method for adaptive reuse of
+buildings, using expert rules derived from case studies for buildings.
+
+Tallini and Cedola (2018) Reuse of materials Tallini and Cedola (2018) conducted a state-of-art review about the use of waste materials into building materials
+to enhance its thermal capacities and achieve a Net-Zero Energy Building.
+
+Hopkinson et al. (2019) Reuse of materials Hopkinson et al. (2019) conducted a literature review about the recovery and reuse of building products,
+especially the ones involved in the structure of buildings, as steel, bricks and concrete, analyzing its techniques for
+recovery at the end of life service of buildings to reuse them, as well as their environmental impacts.
+
+Nordby (2019) Reuse of materials Nordby (2019) studied the current level of reuse in the Norwegian construction sector, identifying its technical
+and legal barriers, and providing new opportunities to help grow the reuse in the country, as a legal framework,
+economic incentives, competence and awareness, information system and control schemes.
+
+Nubholz et al. (2019) Reuse of materials
+
+
+
+G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046 13
+
+(continued )
+
+Articles Area of Research Summary
+
+Nubholz et al. (2019) conducted a research about the use of secondarymaterial in the construction sector with the
+goal of minimizing carbon emissions of buildings, finding that this use can reduce the emissions, varying with the
+type of material.
+
+Manelius et al. (2019) Reuse of materials Manelius et al. (2019) conducted a research about three case studies of constructions that used high percentage of
+reused material in its constructions, through qualitative surveys with the architects of these projects.
+
+Nijgh and Veljkovic (2019) Reuse of materials Nijgh and Veljkovic (2019) developed a way of making composite floor structures demountable and reusable,
+using injection bolts, under laboratory conditions, showing that these types of structures can be developed for
+reusability and circularity.
+
+Akanbi et al. (2019b) Reuse of materials Akanbi et al. (2019b) developed a tool for the assessment the status of building materials in the end of life service
+of the structure, using a reliability analysis principle a mathematical tool was created and tested in a case study.
+
+Pimentel-Rodrigues and Reuse of materials Pimentel-Rodrigues and Siva-Afonso (2019) discussed the different possibilities of using the concept of circular
+Siva-Afonso (2019) economy in the operation phase of buildings to manage the water as a resource, such as new green roof solutions
+
+and rainwater harvesting systems for buildings.
+Appendix B. Main contributions of each article included in
+the literature review
+Articles Area of Research Contributions
+
+Swift et al. (2017) Circular economy in the  It was possible to connect data from a physical component through RFID tag to BIM.
+project design  The use of tags in new or existing buildings can help service manage components over the life cycle, checking
+
+their performance and taking them back for updates or repairs.
+Sanchez and Haas (2018b) Circular economy in the  A capital project planning framework was proposed for closed-loop cycle in construction projects.
+
+project design  The authors argue that capital projects delivery phase should have distinct stages, decision gates, definition
+confidence categories and planning methods.
+
+Akanbi et al. (2018) Circular economy in the  Results showed that building design with steel structure, demountable connections and prefabricated
+project design assemblies generate the most reusable materials.
+
+ Building materials with concrete structure generates mostly recyclable materials.
+ Tool that can be used in the design phase to evaluate the potential for reuse of the materials chosen in the design
+
+Akanbi et al. (2019a) Circular economy in the  A system architecture for evaluating building design for performance analysis of the end of the life was designed.
+project design  A BIM tool was developed, as a Revit plug-in, to help the assessment of a building designs’ level of imple-
+
+mentation and use of circular economy principles and objectives.
+Bertino et al. (2019) Circular economy in the  The project aims at reducing the amount of waste destined to landfills (from 40% to 10% in ten years).
+
+project design  Provided new circular solutions for the construction sector.
+ Created new economic models for circular economy in the EU market.
+
+Kyro€ et al. (2019) Circular economy in the  Through the literature review it found the characteristics of modular buildings that supports circularity, namely
+project design the adaptability of the modules with multifunctionality and elasticity, the location within existing urban
+
+structure and lack of burden of ownership.
+ Modular buildings must comply with the following elements of circular economy: resource efficiency,
+
+preserving and extending what is already made, designing for the future, and rethinking the business model.
+Esa et al. (2016) Development of circular  A framework based on the concept of circular economy to minimize CDW in Malaysia was developed in a three-
+
+economy layer approach, micro-, meso- and macro-level.
+ The micro-level should focus on transforming the traditional method of construction, in a way that waste could
+
+be reduced. In a meso-level the procurement methods should be changed to better manage wastes. In macro-
+level it should be provided better monitoring and coordinating mechanisms to ensure that the waste man-
+agement is well implemented and controlled.
+
+Adams et al. (2017) Development of circular  At an individual level there was a good sense of awareness about circular economy, however there was a lack of
+economy consensus of what circular economy means in terms of the built environment.
+
+ The lack of incentives to design the project for end of life issues and lack of market mechanisms to aid greater
+recovery were the biggest challenges found by the authors.
+
+Pomponi and Moncaster Development of circular  The authors were able to create a frame of reference for the definition of circular economy in the built
+(2017) economy environment level, that considers six dimensions: governmental, economic, environmental, behavioral,
+
+societal and technological.
+Leising et al. (2018) Development of circular  The authors found five ways for the supply chain collaboration to achieve more circular buildings: (1) vision
+
+economy development of the whole lifecycle of a building through clients and stakeholders; (2) actor learning to
+broaden the scope of the parties involved into including end-of-life solutions early into development; (3)
+facilitating supply chain collaboration by bringing all partners together; (4) use of new sustainable business
+models, that extends the ownership of the elements involved in the supply chain through the lifecycle of the
+building; and (5) a new design process is needed to include the supply chain in the development of the vision of
+the building with the clients.
+
+Huang et al. (2018) Development of circular  The biggest challenges found by the authors the adoption of 3R concept in China were the lack of a building
+economy design standard for reducing CDW, low cost to dispose CDW and bad urban planning.
+
+ To reduce CDW it is important to reinforce source control, supervision and management, and new technologies
+should be essential to promote the use of circular economy in the built environment.
+
+Mangialardo and Micelli Development of circular  The use of high-performance technologies opens new perspectives for the construction industry.
+(2018) economy  Off-site industrialization increases the energy efficiency of buildings, becoming a great opportunity for
+
+construction.
+Minunno et al. (2018) Development of circular  Seven strategies were found from the application of CE in other industries that can be used in the prefabricated
+
+economy sector and their barriers of implementation.
+ Seven guidelines were developed as potential applications of CE concepts in the building sector
+
+(continued on next page)
+
+
+
+14 G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046
+
+(continued )
+
+Articles Area of Research Contributions
+
+Nun~ez-Cacho et al. (2018) Development of circular  The scale designed can provide information to the company and its stakeholders on the degree of long-term
+economy sustainability and CE implementation for the construction company.
+
+ It can also be used as a critical analysis tool for the sustainability indicators in the construction sector, as well as
+for strategic and business management of companies in this industry.
+
+Chang and Hsieh (2019) Development of circular  Even though the government of Taiwan has made strong emphasis on the use of circular economy in the
+economy construction industry, the level of awareness among the stakeholders is still low.
+
+ There needs to be an establishment of financial incentives and platforms for material circularity in the industry.
+Eberhardt et al. (2019c) Development of circular  The main challenges of implementing CE in the construction sector are the high complexity of the supply chain
+
+economy and the focus on short-term goals, that create competition between stakeholders instead of collaboration
+needed to the CE concept.
+
+ There is a lack of agreement on the concept of CE that results in a lack of knowledge on how to implement CE in
+the construction sector.
+
+ Different building types and materials might use different CE principles to optimize its benefits.
+Maerckx et al. (2019) Development of circular  In overview of the case studies, the authors found a transfer of investments related to material resources to
+
+economy human resources.
+ The cases showed that it is already possible to implement circular economy principles in the construction site,
+
+but that requires effort and creativity from the stakeholders.
+Van Bueren et al. (2019) Development of circular  The cases analyzed showed that academia gains knowledge, industry gains technology and government gains
+
+economy new policies through foreign institutions, making, in the case of Taiwan, a stronger collaboration in order to
+implement the circular economy concepts in the industry.
+
+ The government of Taiwan have the right goals for this implementation, however it still needs to improve its
+regulations and incentives for construction companies, so it can be adopted more.
+
+Ünal et al. (2019) Development of circular  Materialistic approach to circular economy that only focus on resources use restricts the potentials for this
+economy concept.
+
+ The results showed that regeneration, in terms of resources and location, is one of the sources for value creation
+in the circular economy model.
+
+Hossain and Ng (2018) LCA Analysis  Less than half of the LCA studies used in this review took to account the cradle-to-grave approach for their
+analysis, therefore it is something that should be addressed moving forward, also implementing a more cradle-
+to-cradle approach to the assessment.
+
+ More than two thirds of the studies analyzed did not consider waste management in any part of the analysis,
+showing the need to introduce these concepts in the assessment in order to achieve a circular economy in
+the construction sector.
+
+Eberhardt et al. (2019a) LCA Analysis  Material loops will not be 100% circular, as additional inputmaterials are needed to keep the original materials in
+the loop, due to system losses.
+
+ There is a need for a more consistent LCA approach to implement CE concepts to provide stakeholders a reliable
+tool for decision-making.
+
+Eberhardt et al. (2019b) LCA Analysis  Material composition has a great impact on the embodied environmental impacts and depends on the number of
+reuse cycles and material’s service life.
+
+ The longer the material’s lifespan and its number of reuse cycles, the longer it postpones the need to extract new
+raw resources.
+
+Krause and Hafner (2019) LCA Analysis  Module D provides methods to display information on the recycling potential of materials that were used in the
+buildings
+
+ The results from Module D only contribute to 3e4% of the overall results of the LCA.
+Rasmussen et al. (2019) LCA Analysis  The EN standards points at the upcycling approach with less environmental impacts, as the DfD strategy did not
+
+bring an environmental advantage within the standard.
+ The authors concluded that the current standards focus on lowering current emissions rather than crediting
+
+potential future emission savings.
+ The development of DfD for concrete components might not be the optimal use for DfD approach, as it should be
+
+used on shorter-lived elements to result in higher benefits potential.
+Sauter et al. (2018) Material passport  A common ontology was developed to align product descriptions and increase material circulation in the
+
+construction sector.
+ The authors proposed a procedure to publishing circular economy data in Linked Data (RDF) from existing
+
+material passport data.
+ The proposed ontologies should incentivize individual users, organizations andmanufacturers to publish data as
+
+Linked Data.
+Honic et al. (2019) Material passport  Concrete showed a bigger (52%) recycle potential than timber (34%) for this studied case.
+
+ Concrete had a bigger mass of waste (1797 tons) compared to timber (1123 tons).
+ Various aspects should be taken in account when choosing the material to consider the recycling potential of a
+
+project, such as the use of lighter construction materials, higher lifespan and high recycling potential.
+Munaro et al. (2019) Material passport  The lack of necessity of EPDs in the Brazilian construction sector makes it hard to create a complete BMP, as
+
+several key information are missing or not disclosed.
+ There are many barriers to the implementation of a BMP in the construction sector, since it requires systemic
+
+thinking about value chains and flows, it also needs a better collaboration between stakeholders and
+government support.
+
+Oezdemir et al. (2017) Material stocks  The developed framework can be performed to analyze the recycle potential of any region, however the
+separation of material composite in existing buildings is not yet possible.
+
+ The results showed that although material intensity has been reduced recently in buildings, the gross floor area
+has increased, and the material distribution is the same, something that the authors could not explain in this
+paper, highlighting the need for further researches to understand this process before extrapolating results.
+
+Heinrich and Lang (2019) Material stocks  This study found that from this specific case under certain conditions, it could be achieved a self-sufficiency of
+steel and recycled concrete from 2036 to 2031, respectively, in the material stock model created for the German
+district used.
+
+ With geographical information ofmaterials, it was able to creatematerial stock for secondary rawmaterials from
+the existing buildings.
+
+Gepts et al. (2019) Material stocks
+
+
+
+G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046 15
+
+(continued )
+
+Articles Area of Research Contributions
+
+ Through the use of two existing databases, it was possible to create a material bank of a Belgium region while
+estimating the interior wall area with building volume and typology data.
+
+ The estimating model developed can be a starting process to the creation of more material banks, but still needs
+more research to check its suitability for older buildings.
+
+Ali (2019) Material stocks  There needs to be paradigm shift from the usual Design-Bid-Build process to include reuse information in the
+decision making of the project design.
+
+ In order for this shift to happen, a Unified Virtual Repository database should be created to connect all available
+physical repositories.
+
+ This database should be connected with BIM to give decision makers more tools in the project design phase to
+help the adoption of reused materials in the project.
+
+Ajayabi et al. (2019) Material stocks  The research was able to quantify the material intensity of existing buildings in this first stage of the project, but
+still needs to access the potential for reuse of these materials.
+
+ The technique used to recover bricks from the case study showed good potential, as they were able to recover
+around 97% of the bricks without compromising its structure capacity.
+
+Arora et al. (2019) Material stocks  The developed methodology can be applied at neighborhood or city-level.
+ There needs to be more collaboration between industrial ecologists, urban developers, planners and policy
+
+makers to make use of material stocks more reliable and real.
+Smol et al. (2015) Reuse of materials  Sewage sludge ash has the potential to be an alternative substitute in construction materials.
+
+ Product manufacturers in the building sector should look into researching and producing more materials using
+SSA to avoid disposing it on landfill.
+
+Geldermans (2016) Reuse of materials  The intrinsic properties that materials should have to impulse the use in a circular economy is high quality,
+sustainable origin, non-toxic and consistent with biological cycle.
+
+ Seven data categories were identified as preconditions to assess the circularity potential of a material, including
+composition, performance quality, intended path of use, performance time, connections between materials,
+dimensioning and quality of the registration system.
+
+ The use of materials or principals of circular economy demands very different approaches in the stages of before,
+during and after the performance span.
+
+Ghisellini et al. (2018) Reuse of materials  Environmental impacts more studied than economic impacts.
+ Recycling is the most researched option of the 3R.
+ The adoption of circular economy reduces the negative environmental impacts.
+ There are still a lot of barriers that prevent the use of recycled materials in the construction, as economic,
+
+legislative or technical.
+Sanchez and Haas (2018a,b) Reuse of materials  The paper describes the principles to improve the process of adaptive reuse with a technical approach, with
+
+great importance for the disassembly planning.
+ A new single-target selective disassembly sequence planning framework was developed and validated.
+ In the case of adaptive reuse of a existing building, specific targeted components should be disassembled for
+
+reuse first, then its subsystem can also be disassembled.
+Tallini and Cedola (2018) Reuse of materials  The use of waste materials for non-structural applications improves thermal performance in terms of reduction
+
+of thermal conductivity.
+ The results revealed that proper addition of selected waste materials can significantly reduce heat loss, improve
+
+thermal insulation performance and increase mechanical strength.
+Hopkinson et al. (2019) Reuse of materials  Most existing studies focus on the recycling rate and its techniques, instead of direct reuse of materials.
+
+ Little attention has been given for LCA environmental benefits of material reuse.
+Nordby (2019) Reuse of materials  The barriers for the reuse in the Norwegian construction sector are still technical, with an undeveloped market
+
+for professional actors, lack of information about the use of these materials and an established framework, as
+well as legal restrictions about the use of these materials.
+
+ There are plenty of opportunities to develop the reuse of materials in this sector, as adapting the current legal
+framework, adding economic incentives, raising the level of awareness, a better information system and
+marketplace for this practice.
+
+Nubholz et al. (2019) Reuse of materials  The results showed that secondary-based products emit 30e50% carbon of their primary correspondents for
+concrete aggregates and wood-plastics composites, respectively.
+
+ Carbon emission savings depends on which harmful processes are replaced in the primary material production
+with secondary materials and its consequences in the industry chain.
+
+ Although all studied cases in this paper showed positive results in terms of reducing emissions, there were
+notable differences in the amplitude of savings between different strategies adopted.
+
+Manelius et al. (2019) Reuse of materials  The authors concluded that cities could maintain their resources as material banks and should exchange this
+information with other cities.
+
+ Temporary projects are optimal opportunities to implement the concept of Design for Disassemble (DfD), since it
+is their nature to have a small lifespan.
+
+Nijgh and Veljkovic (2019) Reuse of materials * The demountability and reusability of a composite flooring system that consisted of steel beams and
+prefabricated concrete was demonstrated using resin-injected bolted shear connectors.
+
+Akanbi et al. (2019b) Reuse of materials  The quality of materials at end of life service of the building varies with the building component.
+ The results of evaluation of the model provide an efficient tool of maintenance for buildings and the material
+
+stock.
+ This tool provides the amount and quality of materials at the end of life of a building, as well as a tool to evaluate
+
+the performance of different designs in terms of circular economy.
+Pimentel-Rodrigues and Reuse of materials  The use of green roof or rainwater harvesting systems should be used to adapt buildings in the circular use of
+
+Siva-Afonso (2019) their resources, such as water.
+References
+
+ABRELPE, 2018. Panorama dos resíduos solidos no Brasil 2017. Available at: http://
+abrelpe.org.br/panorama/. (Accessed 25 May 2019).
+
+Adams, K.T., Osmani, M., Thorpe, T., Thornback, J., 2017. Circular economy in con-
+struction: current awareness, challenges and enablers. Waste Resour. Manag.
+170 (1), 15e24. https://doi.org/10.1680/jwarm.16.00011.
+Ajayabi, A., Chen, H., Zhou, K., Hopkinson, P., Wang, Y., 2019. REBUILD: regenerative
+
+buildings and construction systems for a circular economy. IOP Conf. Ser. Earth
+Environ. Sci. 225 (1). https://doi:10.1088/1755-1315/225/1/012015.
+
+Akanbi, L.A., Oyedele, L.O., Akinade, O.O., et al., 2018. Salvaging building materials in
+a circular economy: a BIM-based whole-life performance estimator. Resour.
+
+
+
+16 G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046
+Conserv. Recycl. 129, 175e186. https://doi.org/10.1016/j.resconrec.2017.10.026.
+Akanbi, L.A., Oyedele, L.O., Omoteso, K., et al., 2019a. Disassembly and decon-
+
+struction analytics system (D-DAS) for construction in a circular economy.
+J. Clean. Prod. 223, 386e396. https://doi.org/10.1016/j.jclepro.2019.03.172.
+
+Akanbi, L., Oyedele, L., Delgado, J.M.D., et al., 2019b. Reusability analytics tool for
+end-of-life assessment of building materials in a circular economy. World J. Sci.
+Technol. Sustain. Dev. 16 (1), 40e55. https://doi.org/10.1108/WJSTSD-05-2018-
+0041.
+
+Ali, A.K., 2019. Mapping a resource-based design workflow to activate a circular
+economy in building design and construction. IOP Conf. Ser. Earth Environ. Sci.
+225 (1). https://doi:10.1088/1755-1315/225/1/012010.
+
+Arora, M., Raspall, F., Cheah, L., Silva, A., 2019. Residential building material stocks
+and component-level circularity: the case of Singapore. J. Clean. Prod. 216,
+239e248. https://doi.org/10.1016/j.jclepro.2019.01.199.
+
+BAMB (Building As Material Banks), 2017c. Buildings as Material Banks and the
+need for innovative Business Models. BAMB. http://www.bamb2020.eu/wp-
+content/uploads/2017/11/BAMB_Business-Models_20171114_extract.pdf.
+(Accessed 7 January 2020).
+
+BAMB (Building As Material Banks), 2019a. 4 Pilots Built þ Feedback Report. BAMB.
+Available at. https://www.bamb2020.eu/wp-content/uploads/2019/03/
+20190228-BAMB-D14.pdf. (Accessed 8 January 2020).
+
+BAMB (Building as Material Banks), 2016. D1 Synthesis of the State-of-Art. Available
+at: https://www.bamb2020.eu/. (Accessed 25 May 2019).
+
+BAMB (Building As Material Banks), 2017b. Feasibility Study þ Feedback Report.
+Disponível. http://www.bamb2020.eu/wp-content/uploads/2017/09/D12-
+feasibility-report-and-feedback-report_web.pdf. (Accessed 8 January 2020).
+
+BAMB (Building As Material Banks), 2017a. Framework for Material Passports.
+Disponível. http://www.bamb2020.eu/passports/framework-report/. (Accessed
+8 January 2020).
+
+BAMB (Building As Material Banks), 2019b. Material Passports e Best Practice.
+Disponível. http://www.bamb2020.eu/wp-content/uploads/2019/02/BAMB_
+MaterialsPassports_BestPractice.pdf. (Accessed 8 January 2020).
+
+BAMB (Building As Material Banks), 2019c. Operational material passports. Dis-
+ponível. http://www.bamb2020.eu/wp-content/uploads/2019/02/D7-
+Operational-materials-passports.pdf. (Accessed 8 January 2020).
+
+BAMB (Building As Material Banks), 2018. Prototyping þ Feedback Report. Dis-
+ponível. http://www.bamb2020.eu/wp-content/uploads/2018/10/20180425-
+BAMB-WP4-D13.pdf. (Accessed 8 January 2020).
+
+Bertino, G., Menconi, F., Zraunig, A., Terzidis, E., Kisser, J., 2019. Innovative circular
+solutions and services for new buildings and refurbishments. WIT Trans. Built
+Environ. 183, 83e91. https://doi:10.2495/ARC180081.
+
+BIS (Department for Business Innovation & Skills), 2013. Supply Chain Analysis into
+the Construction Industry: A Report for the Construction Industrial Strategy. BIS
+Research Paper 145. Department for Business, Innovation and Skills, London,
+United Kingdom.
+
+Briner, R.B., Denyer, D., 2012. Systematic Review and Evidence Synthesis as a
+Practice and Scholarship Tool. The Oxford Handbook of Evidence-Based
+Management.
+
+Chang, Y., Hsieh, S., 2019. A preliminary case study on circular economy in Taiwan’s
+construction. IOP Conf. Ser. Earth Environ. Sci. 225 (1). https://doi:10.1088/
+1755-1315/225/1/012069.
+
+Eberhardt, L.C.M., Birgisdottir, H., Birkved, M., 2019b. Life cycle assessment of a
+Danish office building designed for disassembly. Build. Res. Inf. 47 (6), 666e680.
+https://doi.org/10.1080/09613218.2018.1517458.
+
+Eberhardt, L.C.M., Birgisdottir, H., Birkved, M., 2019c. Potential of circular economy
+in sustainable buildings. IOP Conf. Ser. Mater. Sci. Eng. 471 (1). https://doi:10.
+1088/1757-899X/471/9/092051.
+
+Eberhardt, L., Birgisdottir, H., Birkved, M., 2019a. Comparing life cycle assessment
+modelling of linear vs. circular building components. IOP Conf. Ser. Earth En-
+viron. Sci. 225 (1). https://doi:10.1088/1755-1315/225/1/012039.
+
+EMF (Ellen MacArthur Foundation), 2012. Towards the Circular Economy Vol. 1: an
+economic and business rationale for an accelerated transition. Available at:
+https://www.ellenmacarthurfoundation.org/publications/towards-the-circular-
+economy-vol-1-an-economic-and-business-rationale-for-an-accelerated-tran-
+sition. (Accessed 24 May 2019).
+
+EMF (Ellen MacArthur Foundation), 2013. Towards the Circular Economy Vol. 2:
+opportunities for the consumer goods sector. Disponível em. https://www.
+ellenmacarthurfoundation.org/publications/towards-the-circular-economy-
+vol-2-opportunities-for-the-consumer-goods-sector. (Accessed 24 May 2019).
+
+EMF (Ellen MacArthur Foundation), 2014. Towards the Circular Economy Vol. 3:
+accelerating the scale-up across global supply chains. Available at: https://
+www.ellenmacarthurfoundation.org/publications/towards-the-circular-
+economy-vol-3-accelerating-the-scale-up-across-global-supply-chains.
+(Accessed 24 May 2019).
+
+EMF (Ellen MacArthur Foundation), 2015. Towards a Circular Economy: business
+rationale for an accelerated transition. Available at: https://www.
+ellenmacarthurfoundation.org/publications/towards-a-circular-economy-
+business-rationale-for-an-accelerated-transition. (Accessed 24 May 2019).
+
+Esa, M.R., Halog, A., Rigamonti, L., 2016. Developing strategies for managing con-
+struction and demolition wastes in Malaysia based on the concept of circular
+economy. J. Mater. Cycles Waste Manag. 19 (3), 1144e1154. https://doi:10.1007/
+s10163-016-0516-x.
+
+Geissdoerfer, M., Savaget, P., Bocken, N.M.P., Hultink, E.J., 2017. The circular economy
+e a new sustainability paradigm? J. Clean. Prod. 143, 757e768. https://doi.org/
+10.1016/j.jclepro.2016.12.048.
+Geldermans, R.J., 2016. Design for change and circularity e accommodating circular
+material & product flows in construction. Energy Procedia 96, 301e311. https://
+doi:10.1016/j.egypro.2016.09.153.
+
+Gepts, B., Meex, E., Nuyts, E., Knapen, E., Verbeeck, G., 2019. Existing databases as
+means to explore the potential of the building stock as material bank. IOP Conf.
+Ser. Earth Environ. Sci. 225 (1). https://doi:10.1088/1755-1315/225/1/012002.
+
+Ghisellini, P., Ripa, M., Ulgiati, S., 2018. Exploring environmental and economic costs
+and benefits of a circular economy approach to the construction and demolition
+sector. A literature review. J. Clean. Prod. 178, 618e643. https://doi.org/10.1016/
+j.jclepro.2017.11.207.
+
+Heinrich, M.A., Lang, W., 2019. Capture and control of material flows and stocks in
+urban residential buildings. IOP Conf. Ser. Earth Environ. Sci. 225 (1). https://
+doi:10.1088/1755-1315/225/1/012001.
+
+Higgins, J.P.T., Green, S., 2008. Cochrane Handbook for Systematic Reviews of In-
+terventions. The Cochrane Collaboration.
+
+Honic, M., Kovacic, I., Rechberger, H., 2019. Improving the recycling potential of
+buildings through Material Passports (MP): an Austrian case study. J. Clean.
+Prod. 217, 787e797. https://doi.org/10.1016/j.jclepro.2019.01.212.
+
+Hopkinson, P., Wang, Y., Chen, H., Lam, D., Zhou, K., 2019. Recovery and reuse of
+structural products from end-of-life buildings. Eng. Sustain. 172 (3), 119e128.
+https://doi.org/10.1680/jensu.18.00007.
+
+Hossain, U., Ng, S.T., 2018. Critical consideration of buildings’ environmental impact
+assessment towards adoption of circular economy: an analytical review.
+J. Clean. Prod. 205, 763e780. https://doi.org/10.1016/j.jclepro.2018.09.120.
+
+Huang, B., Wang, X., Kua, H., Geng, Y., Bleischwitz, R., 2018. Construction and de-
+molition waste management in China through the 3R principle. Resour. Con-
+serv. Recycl. 129, 36e44. https://doi.org/10.1016/j.resconrec.2017.09.029.
+
+Kibert, C.J., 2008. Sustainable Construction: Green Building Design and Delivery.
+John Wiley & Sons, Inc., New Jersey, Estados Unidos.
+
+Koskela, L., 2000. An exploration towards a production theory and its application to
+construction. Dissertation (Doctor of Technology) e Technical Research Centre,
+Helsinki University of Technology, Helsinki, Finland, pp. 298ep.
+
+Krause, K., Hafner, A., 2019. Relevance of the information content in module D on
+circular economy of building materials. In: Proceedings of the 6th International
+Symposium on Life-Cycle Civil Engineering, pp. 1627e1633.
+
+Kyro€, R., Jylh€a, T., Peltokorpi, A., 2019. Embodying circularity through usable relo-
+catable modular buildings. Facilities 37 (1), 75e90. https://doi.org/10.1108/F-
+12-2017-0129.
+
+Lacy, P., Rutqvist, J., 2015. Waste to Wealth - the Circular Economy Advantage.
+Palgrave Macmillan, London, United Kingdom.
+
+Lave, J., Wenger, E., 1991. Situated Learning: Legitimate Peripheral Participation.
+Cambridge University Press, New York.
+
+Leising, E., Quist, J., Bocken, N., 2018. Circular Economy in the building sector: three
+cases and a collaboration tool. J. Clean. Prod. 176, 976e989. https://doi.org/
+10.1016/j.jclepro.2017.12.010.
+
+Maerckx, A.L., D’Otrppe, Y., Scherrier, N., 2019. Building circular in Brussels: an
+overview through 14 inspiring projects. IOP Conf. Ser. Earth Environ. Sci. 225
+(1). https://doi:10.1088/1755-1315/225/1/012059.
+
+Manelius, A., Nielsen, S., Kauschen, J.S., 2019. City as material bank e constructing
+with reuse in Musicon, Roskilde. IOP Conf. Ser. Earth Environ. Sci. 225 (1).
+https://doi:10.1088/1755-1315/225/1/012020.
+
+Mangialardo, A., Micelli, E., 2018. Rethinking the construction industry under the
+circular economy: principles and case studies. In: Proceedings of the Interna-
+tional conference on Smart and Sustainable Planning for Cities and Regions, 1,
+pp. 333e344. https://doi.org/10.1007/978-3-319-75774-2_23.
+
+Minunno, R., O’Grady, T., Morrison, G.M., Grunner, R.L., COLLING, M., 2018. Strategies
+for applying the circular economy to prefabricated buildings. Buildings 8 (9).
+https://doi:10.3390/buildings8090125.
+
+Munaro, M.R., Fischer, A.C., Azevedo, N.C., Tavares, S.F., 2019. Proposal of a building
+material passport and its application feasibility to the wood frame constructive
+system in Brazil. IOP Conf. Ser. Earth Environ. Sci. 225 (1). https://doi:10.1088/
+1755-1315/225/1/012018.
+
+Nadeem, S.P., Garza-Reyes, J.A., Anosike, A.I., Kumar, V., 2019. Coalescing the Lean
+and Circular Economy. In: Proceedings of the INTERNATIONAL CONFERENCE ON
+INDUSTRIAL ENGINEERING AND OPERATIONS MANAGEMENT.
+
+Nijgh, M.P., Veljkovic, M., 2019. Design of composite flooring systems for reuse. IOP
+Conf. Ser. Earth Environ. Sci. 225 (1).
+
+Nordby, A.S., 2019. Barriers and opportunities to reuse of building materials in the
+Norwegian construction sector. IOP Conf. Ser. Earth Environ. Sci. 225 (1).
+https://doi:10.1088/1755-1315/225/1/012026.
+
+Nun~ez-Cacho, P., Gorecki, J., Molina-Moreno, V., Corpas-Iglesias, F.A., 2018. What
+gets measured, gets done: development of a circular economy measurement
+scale for building industry. Sustainability 10. https://doi:10.3390/su10072340.
+
+Nußholz, J.L.K., Nygaard, F., Milios, L., 2019. Circular building materials: carbon
+saving potential and the role of business model innovation and public policy.
+Resour. Conserv. Recycl. 141, 308e316. https://doi.org/10.1016/
+j.resconrec.2018.10.036.
+
+Oezdemir, O., Krause, K., Hafner, A., 2017. Creating a resource cadaster d a case
+study of a district in the rhine-ruhr metropolitan area. Buildings 7 (2). https://
+doi:10.3390/buildings7020045.
+
+Pimentel-Rodrigues, C., Siva-Afonso, A., 2019. Reuse of resources in the use phase of
+buildings. Solutions for water. IOP Conf. Ser. Earth Environ. Sci. 225 (1). https://
+doi:10.1088/1755-1315/225/1/012050.
+
+Pomponi, F., Moncaster, A., 2017. Circular economy for the built environment: a
+research framework. J. Clean. Prod. 143, 710e718. https://doi.org/10.1016/
+
+
+
+G.L.F. Benachio et al. / Journal of Cleaner Production 260 (2020) 121046 17
+j.jclepro.2016.12.055.
+Rasmussen, F.N., Birkved, M., Birgisdottir, H., 2019. Upcycling and Design for
+
+Disassembly e LCA of buildings employing circular design strategies. IOP Conf.
+Ser. Earth Environ. Sci. 225 (1). https://doi:10.1088/1755-1315/225/1/012040.
+
+Rees, W.E., 1999. The built environment and the ecosphere: a global perspective.
+Build. Res. Inf. 27 (4e5), 206e220, 1999.
+
+Sanchez, B., Haas, C., 2018a. A novel selective disassembly sequence planning
+method for adaptive reuse of buildings. J. Clean. Prod. 183, 998e1010. https://
+doi.org/10.1016/j.jclepro.2018.02.201.
+
+Sanchez, B., Haas, C., 2018b. Capital project planning for a circular economy.
+Construct. Manag. Econ. 36 (6), 303e312. https://doi.org/10.1080/
+01446193.2018.1435895.
+
+Sartori, V., 2012. Comunidade de Pratica Virtual como ferramenta de compartil-
+hamento de conhecimento na educaça~o a distância. 2012. 144 p. Dissertation.
+Programa de Pos-Graduaça~o em Engenharia e Gesta~o do Conhecimento, Uni-
+versidade Federal de Santa Catarina.
+
+Sauter, E.M., Leemens, R.L.G., Pauwels, P., 2018. CEO & CAMO Ontologies: a circu-
+lation medium for materials in the construction industry. In: Proceedings of the
+6th International Symposium on Life-Cycle Civil Engineering, 1, pp. 1645e1652.
+
+Smol, M., Kulczycka, J., Henclik, A., Gorazda, K., 2015. The possible use of sewage
+sludge ash (SSA) in the construction industry as a way towards a circular
+economy. J. Clean. Prod. 95, 45e54. https://doi.org/10.1016/
+j.jclepro.2015.02.051.
+
+Swift, J., Ness, D., Kim, K.P., Gelder, J., 2017. Towards adaptable and reusable building
+elements: harnessing the versatility of the construction database through RFID
+and BIM towards adaptable and reusable building elements: harnessing the
+versatility of the construction database through RFID and BIM. In: Proceedings
+for the UAI 2017 Seoul World Architects Congress, pp. 1e7.
+Tallini, A., Cedola, L., 2018. A review of the properties of recycled and waste ma-
+
+terials for energy furbishment of existing buildings towards the requirements of
+NZEB. Energy Procedia 148, 868e875. https://doi:10.1016/j.egypro.2018.08.108.
+
+Tranfield, D., Denyer, D., Smart, P., 2003. Towards a methodology for developing
+evidence-informed management knowledge by means of systematic review. Br.
+J. Manag. 14, 207e222.
+
+Ünal, E., Urbinati, A., Chiaroni, D., Manzini, R., 2019. Value Creation in Circular
+Business Models: the case of a US small medium enterprise in the building
+sector. Resour. Conserv. Recycl. 146, 291e307. https://doi.org/10.1016/
+j.resconrec.2018.12.034.
+
+Van Eck, N.J., Waltman, L., 2014. Visualizing bibliometric networks. In: Ding, Y.,
+Rousseau, R., Wolfram, D. (Eds.), Measuring Scholarly Impact: Methods and
+Practice. Springer, pp. 285e320.
+
+Van Bueren, B.J.A., Leenders, M.A.A.M., Nordling, T.E.M., 2019. Case Study: Taiwan’s
+pathway into a circular future for buildings. IOP Conf. Ser. Earth Environ. Sci.
+225 (1). https://doi:10.1088/1755-1315/225/1/012060.
+
+Webster, J., Watson, R.T., 2002. Analyzing the past to prepare the future: writing a
+literature review. MIS Q. 26 (2), 13e26.
+
+Wenger, E., 1998. Communities of Practice: Learning, Meaning, and Identity. Cam-
+bridge University Press, New York.
+
+Wenger, E., Mcdermott, R., Snyder, W., 2002. Cultivating Communities of Practice: a
+Guide to Managing Knowledge. Harvard Business School Press, Boston.
+
+Yeheyis, M., Hewage, K., Alam, M.S., Eskicioglu, C., Sadiq, R., 2013. An overview of
+construction and demolition waste management in Canada: a life cycle analysis
+approach to sustainability. Clean Technol. Environ. Policy 15 (1), 81e91. https://
+doi.org/10.1007/s10098-012-0481-6.

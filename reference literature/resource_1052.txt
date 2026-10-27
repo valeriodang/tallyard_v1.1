@@ -1,0 +1,1452 @@
+﻿British Council for Offices
+November 2022
+
+CIRCULAR ECONOMY  
+IN OFFICES
+Implementing circular principles  
+in fit-out and new-build offices
+
+
+
+ABOUT THE BCO ABOUT THE AUTHORS
+The BCO is the UK’s leading forum for the discussion and Anna Surgenor is a circular economy expert who has 
+debate of issues affecting the office sector. Established in provided advisory services and written guidance documents 
+1990, its membership base comprises organisations involved for built environment professionals in relation to buildings, 
+in creating, acquiring or occupying office space, including infrastructure and cities. She has developed advocacy 
+architects, lawyers, surveyors, financial institutions and positions for NGOs supporting circular economy, climate 
+public agencies. change mitigation and a just transition. With considerable 
+
+experience around the application of sustainability in the 
+The BCO recognises that offices don’t just house companies, 
+
+built environment she is very familiar with the challenges 
+they hold people and so what goes on inside them is  
+
+and opportunities of moving towards a circular and more 
+paramount to workplace wellbeing.
+
+regenerative economy.
+
+Kate Jones is a Sustainability Consultant and has experience 
+ACKNOWLEDGEMENTS undertaking a wide range of projects in the ESG space. With 
+
+a background in environmental policy, Kate has experience 
+The BCO and the authors thank the following experts who took working on a range of environmental and sustainability 
+part in interviews and provided case studies: focused projects, ranging from projects at a buildings scale 
+
+Gilli Hobbs, Reusefully to large‑scale infrastructure projects. 
+Juliana Renn, T P Bennett Tim Ferns has experience in climate-related projects 
+Kai Liebetanz, UKGBC and engagement through his involvement in various town 
+Laura Wardrope, JLL planning projects. He is particularly interested in the ways 
+
+in which the planning industry can forge a more sustainable, 
+Nick Woodmore, Overbury environmentally conscious future.
+Peter Kelly, ISG
+Peter Runacres, Argent
+Rachel Hoolahan, Orms
+Rebecca Marsh, RMF
+
+CITATION
+British Council for Offices (2022). Circular Economy in Offices. Implementing Circular Principles in Fit-out and New-build Offices.  
+http://www.bco.org.uk/Research/Publications/Circular_Economy_in_Offices_Implementing_Circular_Principles_in_Fit-out_and_New-
+build_Offices.aspx
+
+COPYRIGHT © BRITISH COUNCIL FOR OFFICES, 2022
+All rights reserved by British Council for Offices. No part of this publication may be reproduced, stored or transmitted in any form or by any means 
+without prior written permission from the British Council for Offices. The BCO warrants that reasonable skill and care has been used in preparing 
+this report. Notwithstanding this warranty the BCO shall not be under liability for any loss of profit, business, revenues or any special indirect or 
+consequential damage of any nature whatsoever or loss of anticipated saving or for any increased costs sustained by the client or his or her servants 
+or agents arising in any way whether directly or indirectly as a result of reliance on this publication or of any error or defect in this publication. The 
+BCO makes no warranty, either express or implied, as to the accuracy of any data used by the BCO in preparing this report nor as to any projections 
+contained in this report which are necessarily of any subjective nature and subject to uncertainty and which constitute only the BCO’s opinion as 
+to likely future trends or events based on information known to the BCO at the date of this publication. The BCO shall not in any circumstances be 
+under any liability whatsoever to any other person for any loss or damage arising in any way as a result of reliance on this publication.
+
+CIRCULAR ECONOMY IN OFFICES 2 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+COVER IMAGE  Copyright ONiONA | Shutterstock
+
+
+
+CONTENTS
+
+EXECUTIVE SUMMARY 4
+
+INTRODUCTION 5
+
+RESEARCH AIM AND APPROACH 6
+
+DRIVERS FOR CHANGE 7
+
+CURRENT APPROACH TO CIRCULAR ECONOMY IN THE OFFICE SECTOR 9
+
+APPLYING CIRCULAR ECONOMY PRINCIPLES IN THE BUILT ENVIRONMENT 10
+
+CHALLENGES IDENTIFIED WITHIN THE OFFICE SECTOR 11
+
+RECOMMENDATIONS 13
+Park 2020, The Netherlands 13
+Australia and New Zealand Banking Group Limited (ANZ),  
+North Colonnade, Canary Wharf, London 15
+Entopia Building, University of Cambridge, Cambridge 17
+80 Charlotte Street, London 18
+
+ENABLING CIRCULAR OFFICE FIT-OUTS 19
+
+CONCLUSION 21
+
+REFERENCES 22
+
+CIRCULAR ECONOMY IN OFFICES 3 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+EXECUTIVE SUMMARY
+This report provides circular economy guidance to TEN KEY POINTS
+the office sector in relation to fit-out and new build 
+through: The following ten-point list provides a high-level overview of 
+
+the actions that should be taken by the value chain to ensure 
+• raising awareness of the opportunity for circularity circular economy principles are incorporated into construction, 
+
+in new-build, refurbishment and fit‑out of offices refurbishment and fit-out of offices.
+
+• providing an understanding of the key challenges 1. There is a need for systems change whereby policy, the
+
+in delivering circular economy principles economy and centralised infrastructure supports a shift to
+a circular economy – owners, occupiers and all those in the
+
+• setting out recommendations for stakeholders value chain should embrace, support and advocate for this
+within the value chain to apply circular wider transition.
+
+principles. 2. Circular strategies should be incorporated early in the
+decision-making process, such as pre-redevelopment
+
+The circular economy provides a framework that supports a audits, to ensure demolition or significant refurbishment
+transition to an economy which creates maximum value from can be avoided.
+resources and supports the circulation of materials while 
+reducing waste and pollution and allowing nature to regenerate. 3. Owners and occupiers need to set clear circular economy
+
+strategic objectives and project-level key performance
+Traditionally, the office sector has operated in a linear indicators (KPIs) that embrace reducing embodied carbon,
+fashion. Recent events with COVID-19 and the current zero waste, recirculating materials and regenerating nature.
+market conditions indicate there are many drivers shifting 
+this perspective, including consideration of environmental 4. Design teams should be encouraged to use pre-demolition 
+impacts, policy drivers, occupier vision and economic benefits. audits when designing spaces. There should be
+Furthermore, numerous sustainability certifications provide prioritisation of principles such as designing for
+guidance on how to embed circular principles into a project. disassembly, designing out waste and reusing from
+The case studies in this report emphasise how bespoke demolition or from other projects.
+solutions are often required to achieve greater circularity in 5. Clear articulation by letting agents is required to inform
+office fit-out projects, and greater knowledge sharing and future occupiers of the reasons why a circular economy is
+systematic change can ensure that systems and processes are in incorporated in office new-build and fit-out.
+place to help enable circular principles in projects.
+
+6. Cat A fit-out should not be carried out on speculative
+The literature review and interviews conducted with industry spaces. Either an alternative approach should be taken
+peers highlighted the challenges of embedding circular (e.g. virtual reality (VR)) or, if needed, one office space with
+economy principles in the office sector. It is crucial that temporary Cat A fit-out could be used as a showroom.
+challenges associated with the wider economy and political 
+system are overcome if we are to see a genuine increase in the 7. New business models are required, particularly in the
+circularity of projects. There are also more practical challenges manufacturing sector, that support take-back of material
+that may be deeply rooted in the way projects are run with and eliminate the extraction of new material. Designers can
+a business-as-usual mindset. Challenges include perceived support this by specifying these materials.
+aesthetic requirements, impacts on programmes, costs 8. Where skills and knowledge need to be increased, refer
+implications, risk and liability, knowledge and skills, ambition to case study examples of where challenges have been
+and a clear strategic direction from informed clients. overcome, and engage suppliers and project teams who are
+These challenges are addressed through the recommendations, supportive of applying circular principles.
+which are viewed through a project life-cycle lens. The 9. Offices should support regenerating nature, providing a
+recommendations include setting out activities that should take positive impact on broader biodiversity – this includes the
+place early on in the project inception, including reuse as the asset itself but also the impact it creates through the value
+only viable option, designing out speculative Category A (Cat A) chain.
+fit-out, designing for future scenarios, engaging suppliers 
+early to support take-back of materials, application of material 10. With a shift in office use since COVID-19, offices need to
+passports to enable occupiers to understand materials that be designed to be flexible and adaptable. This not only
+are within their remit, and taking new design approaches that supports short-term change of use but also supports future
+incorporate reuse, reversible fixings, and standardised designs. scenarios where offices transition to residential or other
+
+uses, adapt to climate change scenarios or create flexible
+Overall, this research highlights the action that can be taken by multi-use spaces. ■
+the value chain to embed circular principles into projects within 
+the office sector to transition away from a linear approach.
+
+CIRCULAR ECONOMY IN OFFICES 4 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+INTRODUCTION
+WHY IS CIRCULAR ECONOMY 
+IMPORTANT?
+The construction sector is one of the largest consumers of 
+materials and produces more waste than any other sector in 
+the UK.1 In 2018, the UK produced 137.8 million tonnes of 
+construction, demolition and excavation waste. Of this, 50% 
+was construction and demolition waste, and 92% of this waste 
+was recovered for onward use.1 However, much of the waste 
+diverted from landfill is not reused or recycled, but rather is 
+downgraded or incinerated. With population and consumption 
+growth projected to increase, there will be increasing pressure 
+on natural resources, and this will create resource scarcity and 
+price volatility. Undoubtedly, offices contribute massively to 
+this waste, forming 15% of the total commercial property sector 
+and 44% of the construction sector’s total value.2 Alongside 
+the mismanagement of resources, there is the associated Copyright Hilda Weges | Alamy Stock Photo
+
+embodied carbon that is emitted as part of the processes 
+of extracting, manufacturing and transporting resources. 
+Therefore, when reducing the whole-life carbon of a building 
+it is important to address the embodied carbon. According to of our time – climate change, species decline and improving 
+the UK Green Building Council (UKGBC) 2021 report Net Zero the quality of life for people. This will require a whole-systems 
+Whole Life Carbon Roadmap,3 embodied carbon from the change – one where all parts of society will need to rethink 
+construction and refurbishment of buildings makes up 20% of business models, policies and financial mechanisms to make a 
+built environment emissions. The report also sets out that, as transition to a circular and more regenerative economy.
+operational emissions reduce, the embodied carbon emissions 
+from buildings is projected to account for over half of built This is summarised by the following Ellen MacArthur 
+environment emissions by 2035. It is therefore vital to address Foundation* principles6 of a circular economy that remove 
+embodied carbon before it is ‘locked into’ buildings. the need to profit from resource exploitation and negative 
+
+environmental and social impact:
+With these trends, many organisations in the property sector 
+are starting to move towards adopting circular principles • eliminate waste and pollution
+as part of their business model and strategic direction. It • circulate products and materials
+is expected that by 2050, 80% of all UK buildings will have 
+already been built today.4 Policies at many levels are also • regenerate nature.
+signalling a shift to a more circular economy, with the UK We are now seeing businesses understand the climate and 
+Government 2020 Circular Economy Package5 in place at biodiversity emergencies as well as wider political and economic 
+the national level. At the local level, many cities and local uncertainties and the impact this has on their business model. 
+authorities are implementing strategies and even policy with They are now rethinking their traditional linear approach to 
+regard to planning requirements, particularly in London, become more circular and offer a new circular business model of 
+Glasgow and the West Midlands. reuse or leasing, for example. This report provides a deep dive 
+
+into the circular opportunities that can be applied to the office 
+sector, with a focus on fit‑out but also addressing new-build 
+
+WHAT IS A CIRCULAR ECONOMY? projects. The circular economy framework provides a significant 
+opportunity to meet our urgent goals around carbon, waste 
+
+The circular economy is a framework that supports a transition generation, material extraction, pollution and species decline. 
+from a linear economy to one that creates maximum value It also provides a set of principles that can support longer-term 
+from resources and supports the circulation of materials sustainability, reducing reliance on imports of materials that 
+while reducing waste and pollution and allowing nature to can create price fluctuations and project risks in terms of cost 
+regenerate. This supports the defining threats and challenges and programme. ■
+
+* The Ellen MacArthur Foundation was created in 2010 to accelerate the transition to a circular economy: https://ellenmacarthurfoundation.org
+
+CIRCULAR ECONOMY IN OFFICES 5 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+RESEARCH AIM AND APPROACH
+AIMS OF THIS REPORT
+Considering the scale of the challenge identified in the previous 
+section, this report aims to:
+
+• raise general awareness about the opportunity for circularity
+in office new-build, refurbishment and fit-out, and showcase
+existing guidance
+
+• provide an understanding of the key challenges in delivering
+circular economy principles in new-build projects and the
+fit-out of offices
+
+• provide recommendations and solutions for stakeholders
+along the value chain of the offices sector, with a focus on
+fit-out, to support the shift to more sustainable and circular
+approaches.
+
+OUR APPROACH 80 Charlotte Street, London 
+Courtesy of Arup. Copyright right  
+
+This report builds on existing research and guidance available Make 2022
+on the circular economy and the built environment. It identifies 
+the challenges and opportunities related to embedding circular 
+economy principles in the office fit-out sector, including 
+reference to case studies. As part of this research, a literature 
+review was undertaken, alongside interviews with experts 
+within the office sector as well as circular economy experts. 
+The final section of the report includes recommendations and 
+actions that can be taken by industry players to support the 
+transition to a circular economy. This research focuses on office 
+fit-outs due to the increased frequency of short-term leases and 
+the impact that Cat A fit-outs are having in relation to material 
+extraction, waste generation, greenhouse gas emissions 
+and species decline. However, much of the guidance and 
+recommendations can, and should, be applied to office new-
+build developments and refurbishments. ■
+
+CIRCULAR ECONOMY IN OFFICES 6 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+DRIVERS FOR CHANGE
+Here we set out the drivers that are shifting the consolidating offices within one major hub rather than having 
+development and fit-out of offices. many satellite offices. Others have said that more short-term 
+
+leases are being set up to enable a level of flexibility. All of this 
+will potentially contribute towards increased environmental 
+impacts. In these cases, the principles of a circular economy 
+
+IMPACT OF COVID-19 should be considered and applied, such that the material 
+resources used in the creation of new office space is kept to the 
+
+Perhaps the most crucial factor affecting fit-outs in a absolute minimum.
+post-COVID office environment is falling occupancy rates.
+
+As hybrid working becomes the norm, falling occupancy 
+rates are the most frequently reported consequence for the 
+commercial office sector. A spring 2022 Office for National WHY ADDRESS CIRCULAR 
+Statistics survey7 found that hybrid working rose from 13% in ECONOMY IN NEW 
+February 2022 to 24% in May 2022, with one in seven workers 
+permanently working from home. DEVELOPMENTS, 
+The long-term implications of an increase in home working 
+for the commercial office sector are not yet clear, but trends REFURBISHMENTS AND 
+suggest that this reduced demand would lead to an increase FIT‑OUTS?
+in fit-outs due to existing spaces no longer being fit for 
+purpose.8 Some have suggested that many organisations are To date, it has been standard practice to approach office 
+
+developments, refurbishments and fit-outs in a linear manner – 
+extract materials, construct, demolish and dispose. However, 
+
+Growth in short-term leases and the future of it is becoming increasingly clear that a transition to a circular 
+
+the office approach is required, and some of the key drivers are explored 
+in the following paragraphs.
+
+The office sector has experienced unprecedented disruption 
+over the last 2 years. While the shift to hybrid working appears 
+to be here to stay, longer-term trends will continue to shape the VISION AND VALUES ALIGNMENT
+traditional office, with implications for the office fit-out sector. Many developers and corporates include whole-life carbon and 
+Employees are increasingly demanding a workspace that circular economy targets within their strategies. This vision 
+addresses health, wellbeing and sustainability.8 Analysis within and associated values need to be established at the outset of the 
+Arup indicates that of the top five factors employees look for in a project, with key decisions about reuse over recycling taken at 
+new office, two are operational and embodied carbon. the early stages.
+
+The BCO 2019 Guide to Specification9 identified business models Brand and reputational benefits can be achieved through 
+shifting away from traditional long-term leasing as a key driver embedding circular economy principles and acting as a 
+for change. Additional analysis from the UK and North America responsible building owner, letting agent or occupier.
+indicates an ongoing trend of shorter commercial lease lengths, 
+which has been exacerbated by the COVID pandemic.10–12 
+Uncertainties due to the pandemic have allowed occupiers to REGULATORY REQUIREMENTS AND REPORTING
+negotiate greater flexibility in leasing agreements rather than Circular economy principles will help drive improved 
+adopting traditionally longer leases (e.g. 10-year leases). This performance in key reported metrics, including embodied 
+presents both a challenge and an opportunity for circularity. carbon intensity, and are likely to feature in regulatory 
+Growth in short-term leases in the office sector means greater requirements. Applying many of these principles will support 
+turnover of occupiers. These occupiers may demand bespoke whole-life carbon reductions, and therefore will support energy 
+fit‑outs and strip-out, creating unnecessary waste. The BCO9 and carbon reductions within reporting frameworks such as 
+notes that buildings designed with adaptability in mind will the Streamlined Energy and Carbon Reporting (SECR), Energy 
+safeguard against unpredictable long-term market shifts, Savings Opportunity Scheme (ESOS) and Task Force on 
+enabled by interventions such as flexible flooring and the ability Climate-related Financial Disclosures (TCFD).
+to retrofit the base-build infrastructure, by improving future 
+prospects for the building beyond just office redevelopment.
+
+POLICY DRIVERS
+Shorter-term leases lead to greater flexibility in the market as 
+more rental space becomes available at any one time. Greater Policy requirements in the UK are increasing in relation 
+choice of existing office space, especially existing fully fitted‑out to circular economy. The UK Government 2020 Circular 
+office space, can prevent huge unnecessary strip-outs if old Economy Package5 will address waste reduction and stimulate 
+and new occupiers are able to ‘matchmake’, and perceptions the transition towards a circular economy. The Extended 
+of adopting existing spaces are overcome. Having sight of Producer Responsibility (EPR) legislation will see suppliers 
+upcoming available office spaces can be a great enabler in having to address packaging impacts. UK cities and local 
+preventing unnecessary strip-outs and waste. ■ authorities are now embedding circular principles in their 
+
+strategies and policies, most notably the Greater London 
+
+CIRCULAR ECONOMY IN OFFICES 7 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+Authority’s requirement for Circular Economy Statements as 
+part of planning applications.13 This is now starting to directly Whole-life Carbon emissions to practical completion
+influence the nature of developments and activities undertaken operational
+
+carbon Carbon emissions in use
+at a national and local level. emissions
+
+Operational emissions regulated
+
+Operational emissions unregulated
+By embedding circular economy principles in major policy 
+frameworks, the UK could deliver 80% of the additional 
+emissions cuts needed to meet its Fifth Carbon Budget, which 
+covers the period 2028–2032.14 ■
+
+Whole-life
+embodied
+carbon
+emissions
+
+ENVIRONMENTAL IMPACTS Figure 1
+Greenhouse gas emissions Total whole-life carbon emissions breakdown for speculative office 
+
+building with Cat A fit-out in central London.
+Employing a more circular approach delivers whole-life carbon Source: RICS.15 Copyright Sturgis Carbon Profiling
+reductions, across Scope 1, 2 and 3. These include emissions 
+associated with the supply chain, which can help realise global 
+and national net-zero goals. Figure 1 shows the proportion 
+of carbon emissions attributed to an office. The chart gives Biodiversity impacts
+the relative split of whole-life carbon for office buildings. The The extraction of materials, destruction of forest habitats, 
+whole-life figures account for all building components covering emissions from processes and waste disposal all play a 
+a cradle-to-grave approach scope over a 60-year life cycle.15 significant role in species decline. The reuse of assets and 
+
+materials will alleviate the burden on nature. New business 
+
+Resource extraction models that support a regenerative approach will be a key 
+contributor towards supporting biodiversity.
+
+Globally we extract 100 billion tonnes of raw material out of the 
+fabric of the planet in just a single year. Roughly half of the raw 
+materials we extract goes into the world’s built environment.16 ECONOMIC BENEFIT
+
+Embedding more circular principles can potentially create cost 
+Waste disposal savings, as material prices are rapidly increasing while, in many 
+Construction creates an estimated third of all the waste cases, reuse elements are staying the same. The case study on 
+generated in the EU.17 Construction waste contains a wide the Australia and New Zealand Banking Group (see page 15) 
+variety of materials, including waste generated by the provides an overview of cost savings as a result of reusing 
+construction and demolition of buildings. The circular economy material. ■
+focuses on reducing waste generation, alongside ensuring waste 
+is handled in the correct manner.
+
+Increasing costs of materials
+The following points showcase the increase in costs of materials, Chartered Surveyors (RICS) suggests that construction material 
+which further strengthens the argument for reusing materials and costs in the UK will continue to escalate, reaching a 40-year high 
+assets or designing out material: based on the annual growth of the BCIS Materials Cost Index.19 
+
+•	 According to the Office for National Statistics,18 UK construction •	 Government data shows that material costs have surged by 
+material prices in July 2022 were 24.1% higher than a year 23% in a year. Specifically, imported sawn or planed wood 
+earlier, and 46.2% higher than in January 2020. This does not costs increased to 74% more than in August 2020, and the 
+take into account significant energy costs and current volatility price of fabricated stainless steel jumped by 74.8% in the same 
+in the market. period.20
+
+•	 The increase in the prices of materials has resulted from •	 The Circularity Gap Report from 201816 shows that the global 
+increasing demand in the construction sector alongside economy is only 9% circular – meaning that just 9% of the 
+logistical challenges, including those caused by the COVID-19 92.8 billion tonnes of minerals, fossil fuels, metals and biomass 
+pandemic and Brexit. As a result, the Royal Institute of that enter the economy are reused annually. ■
+
+CIRCULAR ECONOMY IN OFFICES 8 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+CURRENT APPROACH TO CIRCULAR ECONOMY 
+IN THE OFFICE SECTOR
+A range of sustainability certification standards 
+exist to guide designers and contractors through 
+a sustainable project, including the BREEAM 
+standard specifically for fit-out.21 This standard 
+categorises the elements of a fit-out and assigns 
+credits based on compliance with best practice 
+(e.g. appointing a sustainability champion, 
+responsibly sourcing materials or conducting 
+a pre-refurbishment audit). Categories such as 
+Project Management and Setup, Materials, Waste 
+and Innovation contain credits directly related to 
+a circular fit-out. Other sustainability standards 
+in the UK include the RICS SKA rating,22 which 
+addresses fit-out, and the WELL Building Standard, 
+which advocates health and wellbeing. In some Copyright wzfs1s | iStock
+cases, office projects will be assessed against LEED 
+and the Living Buildings Challenge, among others.
+Currently, when addressing circular economy principles, 
+projects will typically look to limit waste to landfill or to recycle 
+waste where possible, but incorporating circular approaches 
+around designing for deconstruction, integrating reuse 
+materials and exploring issues such as designing for future 
+scenarios and new business models is limited.
+
+The next section identifies the challenges associated with 
+shifting towards a new systems approach, where waste and 
+pollution is no longer generated, material and products are 
+recirculated, and nature is regenerated. ■
+
+CIRCULAR ECONOMY IN OFFICES 9 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+APPLYING CIRCULAR ECONOMY PRINCIPLES 
+IN THE BUILT ENVIRONMENT
+The circular principles that should be incorporated 
+in built environment projects encourage the Guidance documents and toolkits
+following: There are many guidance documents and toolkits that can 
+
+support the design, construction and management of offices, 
+Retain – what is already there. whether for new build or for fit-out.
+•	 Reuse – buildings, products and materials. Some of these include:
+Extended life – ensure what is designed in will keep materials •	 UKGBC, Circular Economy Guidance for Construction 
+at the highest residual value. Clients23
+•	 Longevity – design to enable a long life for materials.
+
+•	 Business in the Community (BITC), The Circular Office 
+•	 Flexibility – design spaces to be flexible and allow for Guide24 and How to Tackle Suppliers’ Emissions: A Guide 
+
+multiple uses. for Procurers25
+•	 Adaptability – design for spaces to be adaptable to future 
+
+scenarios and uses. •	 Ellen MacArthur Foundation26 and Arup,27 Circular 
+•	 Design for disassembly – allow for building components to Buildings Toolkit
+
+be reversed and reused. •	 International Living Future Institute, Living Building 
+•	 Standardisation – design spaces to use standard dimensions Challenge28
+
+to enable onward reuse and offsite manufacturing processes. •	 BRE, BREEAM UK Refurbishment and Fit-Out 201421
+•	 Products as a service – lease products and services rather 
+
+than purchase. •	 RICS, SKA rating.22 ■
+
+Reduced impact – reduce the impact of anything introduced 
+and make improvements to nature.
+•	 Designing out waste – through design stages review 
+
+opportunities to design out excess material.
+•	 Reducing embodied carbon and environmental impacts – 
+
+calculate opportunities to reduce embodied carbon and 
+wider environmental impacts from design options.
+
+•	 Eliminating unhealthy materials – specify materials that 
+are safe for humans and the environment.
+
+•	 Restoring and regenerating nature – create spaces that 
+support nature to regenerate. ■
+
+CIRCULAR ECONOMY IN OFFICES 10 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+CHALLENGES IDENTIFIED WITHIN THE OFFICE 
+SECTOR
+This section sets out challenges that have been PRACTICAL APPLICATION
+encountered when embedding circular economy 
+principles in the office sector. The discussion is This section sets out the challenges associated with the 
+
+addressed through the lens of: practical application of a circular economy in office projects.
+
+•	 systemic challenges
+ATTITUDES AND PERCEPTIONS
+
+•	 practical application challenges.
+There is a presumption by developers and letting agents that 
+
+The challenges have been identified through a literature review occupants expect offices to contain new materials, and that 
+and interviews with various representatives from the value chain. reused materials would reduce the aesthetic quality of the 
+
+space and consequentially achieve a lower rental yield. While 
+occupant expectations are starting to change, with carbon 
+
+SYSTEMIC CHALLENGES impacts rising up the agenda, there is evidence that this is not 
+yet translating into substantial changes in expectations more 
+
+This section sets out challenges that are systemic within the broadly.
+wider economy and political system that we operate within. Even where occupiers are not involved in early design 
+Driving systems change is critical if we are to make the true decisions, designers currently do not always consider 
+shift to a circular economy. This would create the policy and circular economy. While there is a definite increase in focus 
+economic conditions to ensure that the private and public on embodied carbon outcomes among both developers and 
+sector can collectively adapt and transition. designers, designing out waste or enabling materials to have 
+
+onward use beyond their first life through designing for 
+disassembly still do not always attract sufficient focus.
+
+LACK OF POLICY DRIVERS AND REGULATION
+While policy is evolving, national policy and regulations are not 
+developing quickly enough. The new Greater London Authority BUSINESS CASE AND COST
+circular economy policy and guidance13 is undoubtedly a step Sourcing reclaimed material impacts programmes as well as 
+in the right direction, but only applies to referrable projects. creating uncertainty as to whether materials will be available, 
+A great deal of construction, and fit-out work in particular, is making it riskier than simply purchasing new. It was also felt 
+outside of this threshold. that there is a general lack of awareness about the process to 
+The UK Government 2020 Circular Economy Package5 incorporate reuse and understanding of the financial benefits.
+introduces a revised legislative framework, identifying steps for When considering reusing materials, although there are many 
+the reduction of waste and establishing a long-term path for platforms to share surplus materials, storing materials or 
+waste management and recycling. However, the opportunities products between design and construction is often not practical 
+set out are limited and do not fully embrace a transition to no or financially viable.23 This challenge can add time and storage 
+waste and pollution, recirculating materials and products, and cost to often short programmes and decreases the appeal of 
+regenerating nature. reusing materials.
+
+Having to frontload activities such as conducting a 
+BUSINESS MODELS IN THE PRIVATE SECTOR pre‑refurbishment audit or whole-life carbon assessment, or 
+
+engaging a consultant to develop a sustainable project brief 
+Moving away from a linear approach to a circular approach in line with circular economy aspirations in the early project 
+requires business models to change. It requires consumption- stages can add time and money without immediate financial 
+centred businesses to take a new approach to create value from gains.
+reusing material that currently exists, not creating waste and 
+instead looking to regenerate nature.
+
+The business case for reuse of materials is weak in many TIMING AND RISK
+cases, with the cost of recovery exceeding the market value. Within the design and construction process, a key barrier 
+Extraction and sale of raw materials is still cost-effective and to designing in reused materials arises in the programme 
+profitable. The fiscal system does not favour reuse or biobased timing. Earlier engagement of the design and construction 
+materials, or materials with lower embodied carbon intensity. team enables opportunities to be identified sooner, before 
+Commercial office developers will typically follow a linear ‘build the opportunity is lost, i.e. before demolition has begun or 
+and sell’ approach, which makes it difficult to realise the value fundamental decisions are made (e.g. the building concept 
+from investment to create flexibility and allow for disassembly is defined).
+and reuse. Compare this with a ‘build, own, rent’ model, 
+where the developer has greater financial incentive to invest 
+in high-quality assets that can ensure products can be kept in 
+circulation at their highest residual value.29
+
+CIRCULAR ECONOMY IN OFFICES 11 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+WARRANTY AND STANDARDS
+Analysis conducted by Arup on new raised access flooring versus 
+
+Another barrier identified is around product standards and reused raised access flooring in a 20,000 m2 office development 
+the liability issues associated with reused assets. Related to shows a great reduction in embodied carbon over the building’s 
+linear business models, manufacturers are often reluctant life cycle, as based on RICS whole-life carbon assessment 
+to sell and occupiers are reluctant to purchase old items that guidance (Figure 2).15 ■
+could either put them at risk of liability claims or put them 
+outside of warranty.23, 30 Another challenge is the shift away 
+from business as usual, taking the time to upskill owners, A1–A3 Materials A4 Transportation A5 Site
+letting agents and occupiers that reuse is not a risk but in B4 Replacement C1–C4 End of life
+fact an inevitable trend given the climate emergency and as 3000
+emphasised by recent supply chain disruptions.
+
+2500
+
+2000
+CATEGORY A STRIP-OUTS
+
+1500
+Cat A strip-outs occur when an occupier agrees to lease 
+the space but the Cat A fit-out design does not fit with the 1000
+
+occupiers needs or branding. These elements, such as raised 500
+access flooring, lighting and soft spots, are then removed and 
+replaced with new materials and bespoke Category B (Cat B) 0
+
+New raised access flooring RMF ECO-Range
+fit-out elements. Typically, the Cat A items are removed in raised access flooring
+such a way that they cannot be reused, and will be sent to 
+
+Figure 2
+landfill if they cannot easily be reclaimed and sent back to Embodied carbon per life-cycle stage
+the manufacturer. Source: Arup
+
+SPECIFICATION
+In many cases key performance indicators (KPIs) are not For example, when a building lease is complete, this lack of 
+established on projects for circular outcomes, such as in transparency and information sharing can make it difficult to 
+relation to reuse within the project, deconstruction, onward determine which materials a building contains and which of 
+reuse, healthy materials, material passports, adaptability and these can be disassembled for onward reuse, remanufacturing 
+flexibility. Most design teams will be familiar with KPIs in or recycling.
+relation to recycled content, secondary materials and reducing 
+waste to landfill, which is business as usual rather than a 
+circular transition. PROCUREMENT
+
+When going through the procurement process, procurement 
+REUSING MATERIALS teams often do not consider asking suppliers for circular 
+
+outcomes, for example, leasing services instead of procuring 
+There is a general lack of knowledge about the availability a product,30, 32 or leasing products that can be returned for 
+of sustainable materials in the market. Until reuse and onward reuse, with the supplier being the owner of the product 
+refurbishment become common practice, smaller suppliers may even while it is in use. This will require supplier business 
+struggle to deliver the scale of product required in large‑scale models to adapt and see the value in providing an alternative 
+fit-outs. service. Greater awareness of pre-redevelopment audits and 
+At the end of a tenancy, occupiers may be unaware of the pre-demolition audits will need to be shared, understood and 
+materials and assets they own, and therefore what can be procured at the right point in the project (i.e. at the earliest 
+reused or repurposed. There is usually no record capturing this stage). These audits will enable project teams to understand 
+level of information. the opportunities for reusing the asset or the materials and 
+
+products within the asset if it is to be deconstructed. ■
+There are secondary markets for reused materials, but these 
+are still not widely adopted. In addition, where products are 
+already in use, there is a lack of infrastructure to store these 
+materials to ensure they retain their residual value. Currently, What is a pre-refurbishment audit and a pre‑demolition 
+there is a limited number of material and product suppliers audit?
+that take back materials for reprocessing and recertification to A pre-refurbishment audit identifies materials present 
+make them eligible for onward reuse. within a building and presents opportunities for reusing the 
+
+building and elements within the building.
+
+SHARING CONSTRUCTION MATERIAL DATA A pre-demolition audit identifies which elements can 
+be reused on or offsite, ensuring that, when the building is 
+
+Challenges associated with embedding circular economy demolished, the reuse elements are kept in a condition for 
+principles are present in the supply chain. Suppliers are often onward reuse and the remaining materials are available for 
+reluctant to share commercial data on materials used that recycling, with zero waste going to landfill. ■
+might reduce their competitive advantage in the market.31 
+
+CIRCULAR ECONOMY IN OFFICES 12 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+Tonnes CO2e
+
+
+
+RECOMMENDATIONS
+The recommendations discussed in this section 
+respond to the challenges identified in this Metrics for measuring circular economy on 
+document. office projects
+
+Life-cycle embodied carbon is a key circular economy metric – 
+Our needs from office spaces have changed following the many types of circular economy measures will feed through into 
+COVID-19 pandemic and are likely to change in the future. a reduction in embodied carbon. There is a range of circular 
+Keeping assets in circulation at their highest value requires the metrics and indicators that can be established for office projects, 
+ability to adapt, rather than predict these changes, and while including:
+difficult, consideration should be given to potential other or 
+future uses of your fit-out. •	 Arup’s Circular Buildings Toolkit27
+
+•	 LETI’s Circular Economy for the Built Environment.34
+
+For businesses, there are further metrics that can be explored. 
+STRATEGY BITC has undertaken a review of circular economy metrics, 
+
+reporting frameworks and gathered insight from businesses to 
+Setting clear strategic objectives as an owner, developer or provide a set of circular economy KPIs.35 ■
+occupier is important to enable circular aspirations to be 
+applied early on in the process.
+
+Site appraisal and due diligence are opportunities to identify 
+circular opportunity for reuse. Investment choices should Case study
+be made based on pre-refurbishment audits, with a focus on 
+investing in existing buildings and not those that will need to 
+be heavily modified or demolished. Park 2020, The Netherlands
+Including clear metrics that go beyond recycling and 
+incineration but instead reuse should be included. Replacing The Park 2020 office development in the Netherlands was able to 
+or finding low-carbon solutions of high carbon elements, such make a financial case for a circular building approach with high 
+as concrete and steel, should be a focus, as should elements social, environmental and economic impact. Achievements included:
+that have a high turnover, such as plasterboard and carpet. •	 cradle-to-cradle certification, creating healthy materials
+This could be through reuse, design changes or alternative 
+bio-based solutions, or redesigning the space in a way that •	 applying the ‘products as a service’ concept for lighting and lifts
+enables design for deconstruction. •	 buildings and materials designed for disassembly and reuse, 
+Appointing a circular champion to act as a point of contact including adaptable buildings to reduce energy-intensive 
+for all queries will assist with implementing circular remodelling
+opportunities.21
+
+•	 1.4% under budget, driven by market dictation/forces
+Developers should also consider within tenders their •	 rental levels outperformed the market by 15–30%
+requirements for logging of material information, and whether 
+their current requirements are sufficient to understand what •	 exit yields consistently outperformed the market by 6–12%
+materials they own at the end-of-life stage. •	 user satisfaction >95%
+
+•	 a centralised energy system that saves 3% technical room 
+space per building (3% leased was bigger in the total building 
+
+DESIGN initially). ■
+
+During the pre-design stage it is useful to use data from 
+archived drawings and site surveys to understand the materials 
+that are currently on site. Conducting record searches for authorities to enquire about resource hubs that have been 
+archive drawings or specifications of the existing building, established with materials available for onward reuse.
+together with fabric surveys, helps establish the basis of Carrying out life-cycle assessment on design options will 
+the original design and identify the opportunities for reuse. enable design decisions to be made that support a reduction in 
+Where this is not available, pre-refurbishment audits and embodied carbon. Embodied carbon data can be accessed for 
+pre-demolition audits should be carried out by an experienced free through the RICS Building Carbon Database.33
+professional who can identify opportunities for reuse. 
+
+Establishing touchpoints along the design process for clients 
+Designing in standardised design formats and reversible fixings and designers allows progress to be measured regularly 
+will facilitate future reuse. Avoid specifying glued materials against KPIs. In addition, scheduling workshops in the project 
+and solutions that do not allow for materials to be taken apart programme to cover different elements of circularity will 
+and kept at their highest residual value. For example, planning provide a forum to discuss these issues. These may include, for 
+ahead for cabling prevents unnecessarily taking up floors or example, a workshop on designing out waste or a workshop 
+taking down ceilings, therefore reducing any unnecessary waste. on the procurement of sustainable materials.23 There are a 
+Source and design in materials that are available on platforms large number of guidance documents and toolkits that can help 
+and marketplaces. Engage local construction projects or local facilitate workshops and guide project teams.
+
+CIRCULAR ECONOMY IN OFFICES 13 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+PROCUREMENT What are material passports?
+Specifications should be clear and drive circular outcomes. 
+For example, manufacturers should be required to take back “Waste is a material without 
+materials. This should drive business model change. an identity.
+Conducting product testing pre-tender is a useful way to ”
+
+Thomas Rau
+understand which materials and products can be reused and 
+repurposed, and allows time for the test results to be worked 
+into the design programme. This will also reduce the amount of Material passports store information about a product, for example 
+waste produced. a concrete block. They can increase confidence when reusing 
+
+the material, as information is available about the product’s 
+Recertification schemes such as Raised Modular Flooring’s development, how long it has been used, any maintenance it has 
+(RMF) Eco Range keep flooring tiles in circulation by enabling a been subjected to, etc., which can contribute successfully to reuse. 
+take-back system of all raised access flooring. These products are A material passport typically includes the following information:
+often perfectly fine for reuse, but external factors such as supply 
+of taken-back panels prevent their widespread adoption. Tiles •	 unique identifier
+are cleaned and tested, then used on new projects, often at a •	 material
+10–15% cost reduction compared to new panels. These products 
+are under a new warranty provided by RMF, which gives •	 dimensions
+assurance to purchasers and alleviates some of the warranty •	 date and location of manufacture
+and liability concerns we found in the literature review.
+
+•	 data installed and maintenance history
+Supporting smaller-scale suppliers that offer reused material 
+should be encouraged and should lead to greater adoption of •	 performance and aesthetic grade.
+recertification/take-back schemes across the industry for a A database is used to store this information. This ensures that 
+wider number of products. information from surveys is easily accessible to design teams, 
+The project team should be made up of individuals and and provides a single source of information for operational 
+organisations who proactively support the application of teams when undertaking maintenance.
+circular principles, including fire teams, health and safety, Orms38 has produced a comprehensive guide on material 
+finance and procurement. This will enable alternative passports. ■
+approaches to be explored and fulfilled.
+
+Material passports are documents that record all the materials 
+included in an asset or building.36 Including the use of To specifically address challenges associated with the asset 
+material passports in tender documents will ensure that these post-construction, material passports could be implemented.38 
+are used within projects,37 therefore maintaining the value If this is not possible, the designer should aim to log as much 
+of the materials or products and reducing waste. There is a data into the chosen format (e.g. BIM, architectural drawings). 
+plethora of existing local materials exchange platforms that Hiring a survey and product testing consultant ensures 
+procurement and design teams should investigate, for example components will meet the necessary requirements, and the 
+Restado. Information does not necessarily need to be logged logging of waste going off site is useful for future lessons learnt 
+in building information modelling (BIM) software, as this is and material audits.
+a costly process and could dissuade clients and teams from 
+documenting information. Properly denoted architectural The UKGBC has launched a Solutions Library,39 the aim of 
+drawings are sufficient as long as the information is logged in which is to identify and promote tried and tested solutions 
+an accessible format, with digital and physical copies. that address sustainability impact areas. This tool can be used 
+
+to provide project examples that have embedded circular 
+Establishing a list of questions to ask contractors and suppliers, elements. The library provides a breakdown of the building 
+for example around product testing or take-back schemes, asset type, the solution, impact area and project stage, 
+encourages conversations and discussion from project inception. showcasing how challenges can be overcome. Tools such as 
+A wealth of existing guidance around questions to ask during the these should be shared more widely to disseminate knowledge 
+early project stages is available from a range of organisations: and share lessons learnt, thereby alleviating concerns that 
+•	 UKGBC, Circular Economy Guidance for Construction reusing materials creates risk.
+
+Clients23
+
+•	 BITC, The Circular Office Guide24 and Tackling Suppliers’ 
+Emissions: A Guide for Procurers25
+
+•	 BRE, BREEAM UK Refurbishment and Fit-Out 201421
+
+CIRCULAR ECONOMY IN OFFICES 14 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+Case study
+
+Australia and New Zealand Banking Group Limited (ANZ), 
+North Colonnade, Canary Wharf, London
+Fit-out – TP Bennett
+
+Supply chain management
+TP Bennett’s early engagement with suppliers of sustainable 
+materials was essential for the successful outcome of the project. 
+Due to the relatively small size of the reuse market and the short 
+timeframes on the project, there was difficulty sourcing the quantity 
+of reused chairs and desks required for a full office fit-out. Engaging 
+early on to ensure an adequate supply of reused materials is 
+therefore essential in developing a circular economy fit-out.
+
+Due to the bespoke approach that fit-outs require, the furniture 
+supplier encountered challenges in re-upholstering some chairs 
+using water-based adhesives or no adhesives (which reduces the 
+amount of volatile organic compounds (VOCs) and allows for easier 
+future disassembly). Not all fabrics can be used on recovered furniture, 
+leading to numerous product trials to achieve acceptable quality.
+
+Overall, the project is a successful example of embedding circular 
+Copyright TP Bennett principles. Of the 700 furniture products required in the fit-out, 80% 
+
+(560 products) reused existing materials, including 19% of furniture 
+reused after cleaning and 27% of refurbished pre-used furniture. 
+
+TP Bennett designed and led this one-storey fit-out for Australia and Only 20% (140 items, mostly desks) of the items were made from 
+New Zealand Banking Group Limited (ANZ), with a particular focus entirely virgin materials. This buy-in from the client and ultimate 
+on the reuse of furniture. Two aspects of the project in particular led end-user of the product, as well as early supply chain engagement, 
+to its success: are essential in realising greater sustainability standards.
+
+Client appetite for sustainability Three key aspects to focus on in a circular fit-out
+ANZ’s aspirations of being a leading environmental sustainability •	 Furniture – one of the largest contributors to embodied carbon  
+bank were key in enabling TP Bennett to push for greater than in fit-outs and with the greatest opportunities for reuse.
+average circular targets. From the outset, the direction was given to •	 Plasterboard partitions – high embodied carbon and little 
+reuse as much as possible in design, refurbishing where necessary opportunity for reuse.
+and reducing the number of new products.
+
+•	 Raised access flooring – often implemented as part of Cat A 
+TP Bennett developed a bespoke sustainability strategy for the fit‑outs and then stripped out later, with few avenues for reuse.
+project in collaboration with ANZ. Using ANZ’s own environmental, 
+social and governance strategy as a basis and following a wider 
+literature review, workshops were held with ANZ’s sustainability Lessons learnt
+and leadership teams, end-users of the building and the design It is important to manage expectations. Reusing furniture is often 
+team. This fed into the project sustainability plan and the creation of not easier or quicker than purchasing new. It can be cheaper, but 
+consolidated targets and KPIs for the project, divided into categories cost should not be the main driver. This approach requires real 
+such as carbon (CO2) emissions or materials. commitment from the client and design team. Ensure that all 
+To ensure targets were being progressed, TP Bennett implemented stakeholders are aware of this and the implications on timelines for 
+fortnightly reviews and monthly updates to the plan, signalling to all your fit-out.
+parties that sustainability was a key priority of the project. This approach Early and proper engagement with material suppliers is key. 
+helps to foster an environment where stakeholders feel comfortable Verifying their supply and delivery claims at tender stage should be 
+challenging some of the sustainability aspects of the project. paramount to ensure programme delays are not experienced. ■
+
+CIRCULAR ECONOMY IN OFFICES 15 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+CONSTRUCTION Guidance documents
+Where possible, occupiers should be engaged early on in the 
+project to ensure the Cat A and Cat B fit-out solutions meet These guidance documents provide a useful overview of how to 
+their expectations. Setting clear circular economy construction reuse materials.
+targets in contracts could incentivise contractors to deliver the •	 Evaluating Re-use Potential: Material Profiles and Vision 
+best outcome. for Project Workflow, Arup40
+
+Many owners now produce only one floor to Cat A standard 	 This report includes material profiles that explore the 
+as a showroom for future occupiers. This practice should challenges and opportunities associated with reusing 
+be adopted as standard across the industry. Technological materials, and Arup’s vision for a project workflow to ensure 
+solutions such as VR headsets can also be used by agents to the successful integration of materials for reuse.
+showcase the potential of a space to future occupiers. •	 Full Circle to Reuse, Elliott Wood and Grosvenor Britain & 
+Often, procuring reused elements can raise issues in relation Ireland41
+
+to risk and liability. Two potential solutions to warranty issues 	 This guide aims to unlock and highlight the unrealised value 
+are: of building materials within existing and occupied buildings 
+•	 Procuring products from sources that provide a warranty on to create reuse opportunities. The aim is to make reuse the 
+
+reused and refurbished assets. norm for the construction industry in order to address the 
+global climate crisis. The guide includes twelve steps to 
+
+•	 Procuring products as a service. Leasing products rather reuse, ranging from mapping the RIBA stages and assessing 
+than purchasing them returns the risk back to the supplier. potential, to reuse evaluation of materials including steel, 
+It has the additional benefits of retaining capital on balance concrete, timber and masonry.
+sheets, and futureproofing an organisation as it is not locked 
+into old assets.29 •	 Circular Economy Implementation Packs for Products as a 
+
+Service and Reuse, UKGBC42
+
+	 UKGBC has developed implementation packs on reuse (and 
+
+LETTING products as a service) to assist in the adoption of circular 
+economy principles in built environment projects. The 
+
+Agents and owners have a vital role to play in supporting a packs provide guidance on how to encourage the reuse of 
+circular economy, including preventing Cat A strip-outs. In material in projects and how to apply products as a service. 
+addition to generally raising awareness about circular thinking It also signposts to products and services that support these 
+and the contribution this can make to sustainability targets, principles. ■
+letting agents and occupiers are in a unique position to support 
+the transition to a circular economy.
+
+Agents and owners have oversight of the rental market and first place. Undertaking user surveys (overseen by occupants 
+can see which leases are ending in the coming months, which and facilities management) can help inform how the existing 
+occupiers are looking to move, and what the requirements assets are used and which products are purchased most often. 
+of those occupiers are for a new space. This creates a huge Following this, individuals can target the most significant 
+opportunity to connect existing occupiers with new occupiers waste streams by weight, volume or cost.24 Involving staff in 
+that, with owner agreement, can negotiate to leave the space as the process to understand what assets they use most can help 
+it is for the new occupier and minimise, or ideally prevent, the determine which design features and items are not required 
+need for strip-out and reinstatement of Cat B. and can be designed out or substituted with refurbished 
+
+products.
+Letting agents can assist in locating new office space but 
+should also be aware of existing Cat A and Cat B fitted spaces Post-use, it is important to utilise the various reuse platforms 
+coming back onto the market following other clients’ leases available and material databases (e.g. Madastar and 
+ending. Early discussions with the owner and/or previous Globechain), both to source reused materials and to list your 
+occupier can open these doors, keeping the existing fit-out in own products.31 The earlier these organisations are engaged, 
+circulation with only minor changes. It is important to ensure the greater the likelihood of success. In addition, connecting 
+enough time is allocated in the programme to properly explore with organisations that can reuse furniture early on in the 
+these options. process will help promote circular principles.43 The use of 
+
+material passports may help de-risk the reuse of materials, as 
+Ideally, letting agents will start to build up a portfolio of spaces 
+
+it shows a product’s whole life cycle, can maintain the value 
+that enable matching of available office space with prospective 
+
+of the material, and can provide a greater level of certification 
+occupiers who are looking to reuse existing products. However, 
+
+and quality.36 Modular construction, prefabrication or off-site 
+the scale of this change should not be underestimated, as there 
+
+construction can minimise on-site construction activity, reduce 
+would need to be a clear incentive for the letting agent to start 
+
+wastage and optimise safety.44 Every effort should be made to 
+working in this way.
+
+ensure that modular construction, prefabrication or off-site 
+To overcome these challenges, it is important to understand construction also has disassembly designed in to enable reuse 
+where material waste originates, and why it is generated in the and prevent demolition in the future. ■
+
+CIRCULAR ECONOMY IN OFFICES 16 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+Case study
+
+Entopia Building, University of Cambridge, Cambridge
+ISG and Architype
+
+Copyright Soren Kristensen | SOLK photography Copyright Soren Kristensen | SOLK photography
+
+A group of organisations* delivered this ambitious refurbishment for fluid on the perimeter panels could impact skirting paint finishes. 
+the University of Cambridge, with the aim of achieving a BREEAM Experimentation with additional drying and the application of stain 
+Outstanding rating, Passivhaus EnerPHit certification and WELL blockers did not produce consistent and repeatable results. A key 
+Gold certification. Particular focus was given to reusing the raised learning for contractors conducting similar processes of on-site 
+access flooring, given its significant contributions to the building’s cleaning is to programme cleaning of the raised access floor before 
+embodied carbon footprint. the skirting is installed.
+
+Where new raised access flooring was needed in the basement, this 
+Design stage did not need to be brand new. ISG sourced reclaimed panels from the 
+At RIBA Stage 2, an embodied carbon assessment was carried out by company floor plan. They collected raised access floor components 
+Architype. Based on this analysis early in the project design phase, the from other construction projects, cleaned them at their workshop 
+team discovered that the choice of floor finish significantly impacted and delivered them to the Entopia Building for installation.
+the overall embodied carbon of the refurbishment. Low‑impact finish 
+options were proposed, as well as a strategy to use the retained existing Results
+raised access floor panels as a floor finish in its own right in some areas.
+
+Raised access floor panels were retained on the ground to third 
+floors, and reclaimed raised access floor panels were installed in the 
+
+Alleviating client concerns through exemplar basement, to be used as the new floor finish in many areas.
+engagement
+Following these discussions, the University of Cambridge was happy Lessons learnt
+to retain and reuse the raised access floor, but there were some 
+
+Early exploration of circularity is crucial to unlocking opportunities 
+concerns around the suitability of the raised access floor as a finish. 
+
+before design decisions are locked in.
+These valid concerns included potential acoustic problems, slip 
+resistance, durability and aesthetics. This should be carried out with the full knowledge and engagement 
+
+of the client. The willingness to collaborate between Architype as 
+To explore these concerns, the client team arranged a site visit to a 
+
+designers, ISG as contractors and the university as client to explain 
+completed project (the Bradfield Centre on the Cambridge Science 
+
+a design choice and conduct a site visit, drawing on existing projects, 
+Park) where new raised access floor panels had been exposed as 
+
+resulted in huge materials and embodied carbon savings.
+the floor finish in corridors, offices and meeting rooms. Seeing the 
+raised access floor exposed in a similar environment, and talking to Achieving greater circularity is a shared challenge. Industry-wide 
+end‑users of that building helped allay many of university’s concerns. knowledge sharing on specific design and construction issues can 
+
+reduce waste further, as in the programming of the detackifying 
+
+Construction – reuse in practice process. Other industry bodies should be consulted for lessons learnt 
+and best practice. ■
+
+The existing raised access floor panels were cleaned to remove 
+old adhesives. However, it was quickly noted that the detackifying 
+
+* 3PM, Gardiner & Theobald, Architype, BDP, ISG, Feilden + Mawson, Max Fordham and CAR.
+
+CIRCULAR ECONOMY IN OFFICES 17 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+Case study
+
+80 Charlotte Street, London
+Arup
+Arup recently fitted out its new office at 80 Charlotte Street, with a 
+focus on the fit-out being as low carbon as possible. In alignment 
+with the World Green Building Council’s Net Zero Commitment,45 
+Arup conducted an embodied carbon assessment for the fit-out of its 
+new office.
+
+Greater London Authority guidance benchmarks13 state that 
+Cat A fit-outs account for approximately 25% of the carbon from 
+product development and construction process (stages A1–A5) and 
+approximately 75% of stages B–C, in reference to RICS embodied 
+carbon guidance.15
+
+Results
+The team found that the highest contributors to embodied carbon 
+in the fittings, furnishing and equipment (FFE) were cabinets, 
+catering units, office chairs and soundproof glass booths. Raised 
+
+Courtesy of Arup. Copyright Make
+access flooring in the Cat A fit-out was found to be an overwhelming 
+contributor to embodied carbon, and design decisions that have 
+reduced the embodied carbon in the project include:
+
+•	 Recycled content. The use of an eco-alternative carpet option saved 
+•	 Minimise finishes. The use of mostly exposed ceilings with acoustic 22 tCO2e compared with the alternative from the same manufacturer.
+
+panels and aluminium-clad exposed services saved 345 tCO2e 
+compared with a suspended ceiling. •	 Timber as an alternative material. The use of timber stairs saved 
+
+3.8–4.2 tCO2e compared with a steel basement stair.
+•	 Reusing furniture. The reuse of meeting desks and chairs from 
+
+the previous office saved 31 tCO2e compared with brand-new The team also conducted a retrospective valuation of design decisions 
+furniture. taken to assess the embodied carbon and inform future design. ■
+
+CIRCULAR ECONOMY IN OFFICES 18 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+ENABLING CIRCULAR OFFICE FIT-OUTS
+Following the desktop review and interviews, this 
+section outlines the actions and poses the questions 
+that specific parties within the office sector supply 
+chain can and should consider when embedding 
+circular principles in a project. The list of actions 
+is not exhaustive, and further details can be found 
+in the guidance documents mentioned through 
+this report.
+The Ellen MacArthur Foundation31 highlights the following 
+enabling factors for embedding circular principles in built 
+environment projects:
+
+•	 Design – deconstruction, reassembly and future flexibility.
+
+•	 Information – cost, condition, resource productivity, 
+life‑cycle data, ownership and warranty.
+
+•	 Collaboration – shared incentives, transparency and 
+innovation.
+
+DESIGNERS AND CONTRACTORS The Brunel Building, 2 Canalside Walk, London
+Copyright BDG architecture+design Ltd
+
+The design team can have a great influence on the embedding 
+of circular economy principles in projects and showcasing the 
+benefits of doing so. •	 Build to standards as a minimum (e.g. BREEAM refurbishment 
+•	 If reusing existing furniture is not possible, look at using and fit-out standard).
+
+recycled or reused materials. Consider holding reuse and •	 Apply critical thinking to the function of the asset. Is it really 
+designing out waste workshops with the design team early needed? Simplifying the design to reduce the amount of 
+on in the process. material used will prevent waste being created.
+
+•	 Conduct material audits before strip-out. Disassembly of •	 Take a longer-term view of assets, and consider the past, 
+fit-out items will ensure that those items can be repurposed, present and future of materials and components.
+reused or recycled by appropriate organisations.
+
+•	 Conducting material audits post-development will highlight 
+opportunities to reduce waste in future developments. SUPPLIER/MANUFACTURER
+
+•	 Consider designing a space that encompasses a flexible Material suppliers and manufacturers can play a significant 
+fit‑out, including moveable partitions or flexible fittings. role in providing the infrastructure to enable, for example, 
+
+•	 Consider and embed material databases or material passports take-back schemes to become a more common feature of the 
+to store information regarding reuse and disassembly. market. The following points can be used as a checklist or 
+
+guidance to promote thought about the actions that these types 
+•	 Establish a standard approach to logging information on of organisations can have.
+
+materials (e.g. in BIM or architectural drawings). Ensure 
+this approach is shared with all design teams for consistent •	 Do you have schemes in place to reuse, repurpose and 
+materials logging. recycle items, promoting circularity?
+
+•	 Manage the expectations of your client. Be upfront about •	 If you cannot offer recertification yourself, can you connect 
+the extra time that it may take to achieve more sustainable with or promote a third party that will recertify your product?
+outcomes, and that additional challenges may be •	 Would you consider whether items can be manufactured and 
+experienced. constructed off-site to reduce potential waste.
+
+•	 Engage with your suppliers at the earliest possible stage to •	 Are your products designed for disassembly?
+gauge their ability to respond to your aspirations.
+
+•	 Are the mechanisms to return or reuse your product made 
+•	 Implement life-cycle thinking in the design and specifications. clear to buyers?
+
+If the space is being refurbished, encourage clients to review 
+existing furniture and assets and to understand that items •	 Is there any information you could share regarding your 
+that can be retained, reused or recycled. product that would make its reuse or recycling easier?
+
+•	 Embed circular economy principles at each RIBA stage and •	 Can you engage with your buyers to understand barriers or 
+undertake refurbishment and pre-demolition audits (see challenges to reusing your product?
+UKGBC guidance23).
+
+CIRCULAR ECONOMY IN OFFICES 19 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+AGENTS previously occupied. They can do this through the following 
+actions.
+
+Agents are responsible for either managing or letting a space, •	 It should be explored whether leasing furniture and 
+often showcasing office spaces to future occupiers. They have equipment is feasible.
+an opportunity to promote circular economy principles at this 
+early stage through the following actions. •	 It should be explored with the owner whether it is possible 
+
+to keep existing Cat B fit-out/furniture from previous 
+•	 The benefits of embedding more circular principles in office occupiers, or to liaise with the previous occupier directly.
+
+spaces can be showcased, and a move away from a linear 
+approach encouraged. •	 There should be engagement with staff to determine which 
+
+aspects of their current office are essential, which are nice to 
+•	 Data demonstrating the benefits of embedding circular have and which are not required.
+
+economy principles can be shared, including data on the 
+monetary value, carbon saved and marketing opportunity. •	 If responsible for procurement, options to lease materials 
+Case studies illustrating the benefits of doing so can be rather than purchase them outright should be considered, 
+included as necessary. and the use of reused products should be explored. The 
+
+latter may have a shorter or no warranty but will likely be 
+•	 There should be a discussion with potential occupiers to cheaper.
+
+find out if Cat A fit-outs can be leapfrogged completely. 
+The benefits of doing this, including materials and carbon •	 The tender requirements should be considered. Is it possible 
+savings, should be highlighted, especially at the end of to push for higher targets above best practice (e.g. higher 
+tenancies recycling rates than local authority targets)?
+
+•	 The use of technology to showcase office space, including the •	 There should be engagement with suppliers at the earliest 
+use of VR headsets, should be explored. possible stage to gauge their ability to respond to your 
+
+aspirations.
+
+•	 If moving to previously occupied office space, early 
+OCCUPIERS conversations should be had with the owner and letting 
+
+agent to prevent spaces being reverted to a Cat A fit‑out. 
+Occupiers have the opportunity to identify, propose and embed This will prevent unnecessary waste and provide an 
+circular principles in their office spaces. It is important that opportunity to understand if, for example, furniture items  
+they have the ambition to challenge the way spaces have been or assets can be reused. ■
+
+CIRCULAR ECONOMY IN OFFICES 20 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+CONCLUSION
+The transition away from a linear economy 
+demands systems change. The circular economy 
+creates value through engaging new business 
+models and changing current operating systems. 
+Keeping assets in circulation at their highest value 
+is one of the key principles of a circular economy, 
+and undoubtedly this will need to be addressed in 
+the office sector.
+The industry is undergoing rapid change due to both short- and 
+long-term factors. Drivers for change, including the impact of 
+the COVID-19 pandemic and the resulting changing attitudes to 
+work, changes in the length of leases and a growing commitment 
+to sustainability and net zero are all shaping the future of the 
+office. This presents a big challenge for circularity as the industry 
+grapples with multiple shocks, but also huge opportunities to 
+embed a new way of thinking. There is a range of sustainability 
+certifications and guidance documents that can assist designers 
+in creating a sustainable project. This guidance aims to retain 
+the value of products, extend the life of products to ensure 
+materials keep their highest residual value, reduce the impact on 
+the environment and contribute positively to nature. Guidance 
+should be updated regularly as the industry strives to embed 
+circular principles, until these become business as usual.
+
+The challenges of embedding circular economy principles 
+can be seen through two lenses: systematic challenges and 
+practical application challenges. Systematic change is required 
+to transform the policy landscape and ensure public and 
+private organisations operate in a manner that encompasses 
+circularity. Our research shows that the challenges of the 
+practical application of embedding circular principles are FORGE, 24 Church Street, Woking
+multifaceted, and are not limited to changing attitudes, Copyright Hawkins Brown
+
+perceptions, understanding the business case and warranty or 
+standards. Sharing lessons learnt and having the ambition to go 
+beyond business as usual can help overcome these challenges. The recommendations found in the literature review and 
+Fit-out is seen as the most significant opportunity to embed from conducting interviews highlight the need for a shift in 
+circular principles within the office sector, and to meet urgent attitudes away from the traditional business models and ways 
+goals around carbon, waste generation, material extraction, in which fit-out projects are conducted. As a result, industry 
+pollution and species decline. Retrofitting existing building collaboration and consensus are crucial to steering the office 
+stock rather than building new is a key pathway to net zero, and sector towards more circular outcomes. Embracing circularly 
+when considering the quantum of high-quality offices in the UK in the office sector will ensure we retain the value of materials, 
+compared to those of a lower quality, refurbishment is set to reuse as much as possible and reduce unnecessary waste. ■
+grow to keep pace with the new demands from office spaces.
+
+CIRCULAR ECONOMY IN OFFICES 21 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+REFERENCES
+1.	 Construction Products Association (2022) How Much 12.	JLL (2020) Office Leases Are Getting Shorter. Available at: 
+
+Waste is Produced by the Construction Sector? Available at: https://www.jll.co.uk/en/trends-and-insights/workplace/
+https://www.constructionproducts.org.uk/our-expertise/ office-leases-are-getting-shorter (accessed 6 October 2021).
+sustainability/briefing-papers/how-much-waste-is-
+produced-by-the-construction-sector  13.	Greater London Authority (2021) The London Plan. 
+(accessed 6 October 2021). Available at: https://www.london.gov.uk/sites/default/
+
+files/the_london_plan_2021.pdf (accessed 6 October 2021).
+2.	 IPF Research (2016) The Size and Structure of the UK 
+
+Property Market: End-2015 Update. Available at:  14.	Young K and Molho N (2021) Closing the Loop: Time to 
+https://www.ipf.org.uk/resourceLibrary/the-size-and- Crack On with Resource Efficiency. Available at:  
+structure-of-the-uk-property-market---end-2015-update- https://www.aldersgategroup.org.uk/content/
+(July-2016)-full-report.html (accessed 6 October 2021). uploads/2022/03/Aldersgate-Group-Closing-the-Loop-
+
+Report.pdf (accessed 6 October 2021).
+3.	 UKGBC (2021) Net Zero Whole Life Carbon Roadmap. 
+
+Available at: https://www.ukgbc.org/wp-content/ 15.	RICS (2017) Whole Life Carbon Assessment for the Built 
+uploads/2021/11/UKGBC-Whole-Life-Carbon-Roadmap- Environment. Available at: https://www.rics.org/uk/
+Technical-Report.pdf (accessed 6 October 2021). upholding-professional-standards/sector-standards/
+
+building-surveying/whole-life-carbon-assessment-for-the-
+4.	 UKGBC (2021) Climate Change. Available at:  built-environment (accessed 6 October 2021).
+
+https://www.ukgbc.org/climate-change-2  
+(accessed 6 October 2021). 16.	Circle Economy (2018) The Circularity Gap Report:  
+
+The World is Only 9% Circular. Available at:  
+5.	 UK Government (2020) Circular Economy Package Policy https://www.circularity-gap.world/updates-collection/the-
+
+Statement. Available at: https://www.gov.uk/government/ circularity-gap-report-our-world-is-only-9-circular  
+publications/circular-economy-package-policy-statement/ (accessed 6 October 2021).
+circular-economy-package-policy-statement  
+(accessed 6 October 2021). 17.	European Commission (2018) Construction and 
+
+Demolition Waste. Available at: https://environment.
+6.	 Ellen MacArthur Foundation (2022) What Is a Circular ec.europa.eu/topics/waste-and-recycling/construction-
+
+Economy? Available at: https://ellenmacarthurfoundation. and-demolition-waste_en (accessed 6 October 2021).
+org/topics/circular-economy-introduction/overview 
+(accessed 6 October 2021). 18.	Office for National Statistics (2022) Construction 
+
+Output in Great Britain: June 2022, New Orders 
+7.	 Office for National Statistics (2022) Is Hybrid Working and Construction Output Price Indices: April to 
+
+Here to Stay? Available at: https://www.ons.gov. June 2022. Available at: https://www.ons.gov.uk/
+uk/employmentandlabourmarket/peopleinwork/ businessindustryandtrade/constructionindustry/
+employmentandemployeetypes/articles/ bulletins/constructionoutputingreatbritain/
+ishybridworkingheretostay/latest  june2022#constructionoutput-price-indices-in-june-2022 
+(accessed 6 October 2021). (accessed 6 October 2021).
+
+8.	 JLL (2021) EMEA Fit-Out Cost Guide 2021/22. Available at: 19.	RICS (2021) Construction Materials Cost Increases Reach 
+https://www.jll.co.uk/en/trends-and-insights/research/emea- 40-Year High. Available at: https://www.rics.org/uk/news-
+fit-out-cost-guide-2021-2022 (accessed 6 October 2021). insight/latest-news/news-opinion/construction-materials-
+
+cost-increases-reach-40-year-high (accessed 6 October 2021).
+9.	 BCO (2019) Guide to Specification. Available at: 
+
+https://www.bco.org.uk/Research/Publications/ 20.	Stein J (2021) Material costs surge 23% in a year, 
+BCOGuideToSpec2019.aspx (accessed 6 October 2021). government data shows. Architects Journal, 8 October. 
+
+Available at: https://www.architectsjournal.co.uk/news/
+10.	Fagan K (2022) The “Big Short” of Office Leases: What Do material-costs-surge-23-in-a-year-government-data-shows 
+
+Shorter Terms Really Mean, and Will They Last? Moody’s (accessed 6 October 2021).
+Analytics. Available at: https://cre.moodysanalytics.
+com/insights/cre-news/the-big-short-of-office-leases- 21.	BRE Group (2014) BREEAM UK Refurbishment and 
+what-do-shorter-terms-really-mean-and-will-they- Fit-out 2014. Technical Manual SD216 2.0. Available at: 
+last/#:~:text=Average%20office%20lease%20terms%20 https://files.bregroup.com/breeam/technicalmanuals/
+decreased,about%2065%20to%2063%20months  ndrefurb2014manual (accessed 6 October 2021).
+(accessed 6 October 2021).
+
+22.	RICS (2022) SKA Rating. Available at: https://www.rics.org/
+11.	Barnes M (2021) UK Flex Office Growth. Savills. uk/about-rics/responsible-business/ska-rating  
+
+Available at: https://www.savills.co.uk/research_ (accessed 6 October 2021).
+articles/229130/319853-0 (accessed 6 October 2021).
+
+CIRCULAR ECONOMY IN OFFICES 22 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+23.	UKGBC (2019) Circular Economy Guidance for Construction 35.	BITC (2022) Measuring and Reporting Circular Economy 
+Clients: How to Practically Apply Circular Economy in Business. Available at: https://www.bitc.org.uk/report/
+Principles at the Project Brief Stage. Available at:  measuring-and-reporting-circular-economy-in-business 
+https://ukgbc.s3.eu-west-2.amazonaws.com/wp-content/ (accessed 6 October 2021).
+uploads/2019/04/05150937/Circular-Economy-Report.pdf 
+(accessed 6 October 2021). 36.	Buildings as Materials Banks (BAMB) (2020) Material 
+
+Passports. Available at: https://www.bamb2020.eu/topics/
+24.	BITC (2020) The Circular Office Guide. Available at:  materials-passports (accessed 6 October 2021)
+
+https://www.bitcni.org.uk/wp-content/uploads/2019/01/ 
+190122-Circular-Economy-Office-Guide.pdf  37.	Ellen MacArthur Foundation (2016) Circularity in the Built 
+(accessed 6 October 2021). Environment: Case Studies. Available at:  
+
+https://emf.thirdlight.com/link/bpso50t2ia56-9bw2n5/@/
+25.	BITC (2021) Tackling Suppliers’ Emissions: A Guide preview/1?o (accessed 6 October 2021).
+
+for Procurers. Available at: https://www.bitc.org.uk/
+wp-content/uploads/2021/10/bitc-toolkit-environment- 38.	Orms (2021) How Can Material Passports Support 
+tackling-supply-chain-emissions-oct21.pdf  Material Re-Use of Existing Buildings? Available at: 
+(accessed 6 October 2021). https://orms.co.uk/insights/material-passport-vision 
+
+(accessed 6 October 2021).
+26.	Ellen MacArthur Foundation (2022) Circular Buildings 
+
+Toolkit. Available at: https://ellenmacarthurfoundation. 39.	UKGBC (2022) Solutions Library. Available at:  
+org/articles/circular-buildings-toolkit  https://www.ukgbc.org/solutions (accessed 6 October 2021).
+(accessed 6 October 2021).
+
+40.	Arup (2022) Evaluating Re-use Potential: Material 
+27.	Arup (2022) Circular Buildings Toolkit. Available at: Profiles and Vision for Project Workflow. Available at: 
+
+https://www.arup.com/services/advisory-services/circular- https://www.arup.com/perspectives/publications/
+buildings-toolkit (accessed 6 October 2021). research/section/evaluating-re-use-potential-materials-
+
+profiles (accessed 6 October 2021). 
+28.	International Living Future Institute (2020) Living Building 
+
+Challenge. Available at: https://living-future.org/lbc 41.	Elliott Wood and Grosvenor Britain & Ireland (2021) Full 
+(accessed 6 October 2021). Circle to Reuse. Available at: https://www.elliottwood.
+
+co.uk/latest/elliott-wood-launches-full-circle-to-reuse-guide 
+29.	BITC (2020) Advancing Circular Construction. (accessed 6 October 2021).
+
+Available at: https://www.bitc.org.uk/wp-content/
+uploads/2020/09/BITC_Casestudiesdoc_ 42.	UKGBC (2020) Circular Economy Implementation 
+AdvancingCircularConstruction_September2020.pdf Packs for Products as a Service and Reuse. Available at: 
+(accessed 6 October 2021). https://www.ukgbc.org/ukgbc-work/circular-economy-
+
+implementation-packs (accessed 6 October 2021).
+30.	UKGBC (2020) Circular Economy Innovation Insights: 
+
+Reuse and Products as a Service. Available at:  43.	BITC (2019) Making the Journey Towards a Circular 
+https://www.ukgbc.org/inside_innovation/circular- Office. Available at: https://www.bitc.org.uk/toolkit/
+economy-innovation-insights-reuse-and-products-as-a- making-the-journey-towards-a-circular-office  
+service (accessed 6 October 2021). (accessed 6 October 2021).
+
+31.	Carra G and Magdani, N (2018) Circular Business Models 44.	Government Property Agency (2022) Government 
+for the Built Environment. ARUP and BAM. Available at: Workplace Design Guide. Available at: https://assets.
+https://www.arup.com/perspectives/publications/ publishing.service.gov.uk/government/uploads/
+research/section/circular-business-models-for-the-built- system/uploads/attachment_data/file/1080616/
+environment (accessed 6 October 2021). Government_Workplace_Design_Guide_V3.0_
+
+Government_Workplace_Design_Guide_-_Current_
+32.	BITC (2020) Identifying Opportunities to Create Your version__uploaded_05_05_22__A_Accepted_as_Stage_
+
+Circular Office. Available at: https://www.bitc.org.uk/ Complete_4.pdf (accessed 6 October 2021).
+toolkit/identifying-opportunities-to-create-your-circular-
+office (accessed 6 October 2021). 45.	World Green Building Council (2022) The Net Zero 
+
+Carbon Buildings Commitment. Available at: https://www.
+33.	RICS (2022) RICS Building Carbon Database. Available at: worldgbc.org/thecommitment (accessed 6 October 2021).
+
+https://www.rics.org/uk/products/data-products/insights/
+rics-building-carbon-database (accessed 6 October 2021).
+
+34.	LETI (2022) Circular Economy for the Built Environment: 
+A Summary. Available at: https://www.leti.uk/_files/
+ugd/252d09_ecec993000bf4cf9acba953b845eb9af.pdf 
+(accessed 6 October 2021).
+
+CIRCULAR ECONOMY IN OFFICES 23 © BCO 2022
+Implementing Circular Principles in Fit-out and New-build Offices
+
+
+
+78-79 Leadenhall Street
+London EC3A 3DH
+
+info@bco.org.uk 
+020 7283 0125 
+
+www.bco.org.uk
+
+Follow us @BCO_UK or @BCO_NextGen
+
+British Council for Offices – Join the Debate: BCO online or BCO NextGen
+
+facebook.com/British Council for Offices
+
+/British Council for Offices
+
+/British Council for Offices
+
+/BCO_UK
+Sign up for our newsletter on www.bco.org.uk

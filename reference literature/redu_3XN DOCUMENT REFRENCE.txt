@@ -1,0 +1,2109 @@
+Ressource Blokken 
+— Upcycling af 60’erne og 70’ernes almene byggeri 
+
+Publikationen er udarbejdet i et samarbejde mellem 
+GXN Innovation  JAJA Architects  
+Teknologisk Institut  Regnestuen  
+SBI  
+
+Forfattere / redaktion 
+Nichlas Moos Heunicke, GXN Innovation Kathrin Susanna Gimmel, JAJA Architects Kåre Stockholm Poulsgård, GXN Innovation Katja Udbye, Teknologisk Institut Katrine Hauge Smith, Teknologisk Institut Lene Dalvang, Teknologisk Institut Jens Haukhol, Regnestuen Leonora Eberhardt, SBI 
+Bidragsydere 
+Realdania Reværk EFFEKT Arkitekter Spektrum Arkitekter Panum & Kappel CINARK / Det Kongelige Akademis og de studerende Enemærke & Petersen Sderaard A/S Ungdomsbo 
+Baggrundsmateriale 
+Der er igennem de seneste år udgivet flere publikationer, som beskæftiger sig med bæredygtige betoninitiativer. 
+Denne publikation tager særligt udgangspunkt i fgende publikationer/rapporter: 
+Ét Danmark uden Parallelsamfund (2018), Regeringen De 16 ’ hårdeste ghettoområder’ (2018), BL Danmarks Almene Boliger 
+Evidens for sociale effekter af fysiske indsatser i udsatte boligområder (2014), Købehvans Kommunne og KADK 
+Building a Circular Future (2018), GXN Innovation 
+Burchardt, J. (2019). Vejen til det industrielle byggeri 15 års forceret teknologiudvikling 1945-1960. Circularity City, shaping our urban future (2020) GXN Innovation et Al. Cirkulær nedrivning (2020), Værdibyg.dk & GI Ressourceplan, Cirkulær kortlægning ved nedrivning af byggeri (2019), Innobyg, Enemærke & Petersen, CINARK, Tscherning, Teknologisk Institut Fremtidens Byggematerialer. Har vi mangel på råstoffer? (2020) Teknologisk Institut og GI 
+Luftfotos: Krak 
+Beregningsgrundlag 
+Beregning af CO2-potentialet er udregnet af SBi. Det har det været nødvendigt at opstille en række forudsætninger - herunder baserer angivelser af potentieller besparelser på tidligere udgivelser af BUILD:  Zimmermann, R. K., Andersen, C. E., Kanafani, K., & Birgisdottir, H. (2020). Klimapåvirkning fra 60 bygninger: Muligheder for udformning af referenceværdier til LCA for bygninger. Polyteknisk Boghandel og Forlag. 
+& SBi 2019:08 Livscyklusvurdering for cirkulære lninger med fokus på klimapåvirkning – Forunderselse 
+
+
+HAUKOHL & KØPPEN 
+
+
+Ressource Blokken 
+— 
+Upcycling af 60’erne og 70’ernes almene byggeri 
+Publiceret Marts 2021 Den publikation er udarbejdet med stte fra Realdania 
+
+
+
+
+
+Del I 
+
+Over hele landet forestår der at skulle nedrives 1.360.300 m2 eksisterende boliger for derefter at give plads til opførelsen 724.300 m2 nye boliger. 
+
+
+
+Baggrund 
+Hvordan har Regeringen udvalgt boligområderne? 
+Regeringen har udvalgt boligområderne på baggrund af socioøkonomisk data og altså ikke på baggrund af de bebyggelsernes tilstand i de enkelte områder. De 15 ‘hårdeste ghettoer’ ligger fordelt over Jylland, Fyn og Sjælland, men ses især placeret i forstæderne til landets største byer. 
+Udvælgelseskriterier 
+Udsatte Ghettoområder Hårde 
+1. Arbejde 
+Mere end 40 % af beboerne (18-64 
+
+boligområder Ghettoområder 
+år) er uden tilknytning til arbejds-
+Et alment boligområde Et alment boligområde For at falde ind 
+markedet. 
+skal opfylde minimum 2 skal opfylde yderligere under kategorien ud af kriterie 1-5 for at 2 ud af kriterie 1-5 hårdt ghettoområde 
+blive defineret som et eller kriterie 6 for at skal området være Mere end 60 % af beboerne (15-64 
+2. Uddannelse 
+udsat boligområde. blive defineret som et defineret som ghetto år) har alene grundskole-uddannelse. 
+ghettoområde. område 4 år i træk. 
+3. Løn 
+Den gennemsnitlige indkomst for be­
+boerne (15-64 år) udgør mindre end 
+55 % af gennemsnittet for den regio­
+nale indkomst. 
+4. Dømte 
+Mere end 2,7 % af beboerne har en domme for lovovertrædelse. 
+5. Beboere 
+13 
+Mere end 50 % af beboerne er 
+Der er 57 udsatte bolig 
+invandrere og efterkommere fra ikke­
+områder i Danmark 
+vestlige lande. 
+pr. 1. december 2019 
+13
+6. Beboere 
+Der er 28 ghetto 
+Mere end 60 % af beboerne er invan­
+områder i Danmark 
+drere og efterkommere fra ikke-vest­
+pr. 1. december 2019 
+lige lande. 
+15
+7. Tid - 4 år 
+Der er 15 hårde ghetto 
+Området har været på ghettolisten 
+områder i Danmark 
+mere end 4 år i træk. 
+pr. 1. december 2019 
+De 15 ’hårdeste ghettoområder’ 
+Ghettoområder 
+Udsatte boligområder 
+De ’Hårde Ghettoområder’ findes over hele landet. Flere områder som ligger tæt geografisk set befinder sig 
+henholdsvis på listen over ’udsatte’ og ’hårde’ ghettoområder 
+- det illustrerer de i nogle tilfælde små forskelle som er 
+afgørende for områdernes listning. 
+
+
+
+Hvad betyder det for de 15 ‘hårdeste ghettoer’? 
+Blandt de mange tiltag Regeringen har vedtaget i omstruktureringen af de 15 ‘hårde ghettoområder’ er en fysisk omstrukturering, hvilket medfører at der både skal rives ned, ommærkes og bygges nyt frem til 
+2030. 
+Udviklingsplanen ’Et Danmark uden parallelsamfund’ stiller 
+en række forslag til berørte områder kan udvikles. Særligt 
+forslag 1 om ’fysisk nedrivning og omdannelse af udsatte boligområder’ kan potentielt resultere i en stor miljæssig 
+udfordring. Bliver et område listet som ’hård ghetto’ 
+fger der krav om at områdets boligsammensætning 
+omstruktureres således at der maksimalt findes 40% almene boliger i området fremover. 
+I handlingsplanen foreslår Regeringen blandt andet fysisk nedrivning og omdannelse af udsatte boligområder, med 
+specifikt fokus på: 
+1. 
+Fysisk forandrede boligområder 
+
+2. 
+Nye muligheder for fuld afvikling af de mest udsatte ghettoområder 
+
+3. 
+Adgang til at opsige lejere ved salg af almene boliger i udsatte boligområder 
+
+
+Denne fysiske forandring af boligområderne foreslås 
+gennem fire primære værktøjer: Nedrivning, Ommærkning, Frasalg samt Nybyg. 
+Nedrivning 
+Helt enkelt involverer dette tiltag at nedrive eksisterende 
+boligmasse for at gøre plads til ny. 
+Ommærkning 
+Ommærkning tillader at boligmassen bevares, men mærkes 
+om fra almene boliger til anden type, f.eks. ejerboliger eller private lejeboliger, eller i nogle tilfælde erhverv m.v. 
+Frasalg 
+Frasalg af almene boliger til private investorer som herfra 
+finder anden nytte for boligmassen 
+Nybyg 
+Områderne fortættes med nybyg for derigennem nedbringe 
+den procentuelle andel af almene boliger i området. 
+Realiteten lige nu 
+~95% af boligerne i de updegede områder er almene boliger 
+40%-reglen. I områderne på listen skal boligmassen ændres så 
+maksimalt 40% af boligmassen i områderne er alment byggeri. 
+Strategien fremadrettet 
+Boligområderne i dag Eksisterende boliger rives ned eller ommærkes og nye boliger bygges 
+Fortætning og ændret boligtypesammensætning 
+
+
+
+Del II 
+
+De bygninger vi har set på 
+repræsenterer en miljøpåvirkning på 3.000 tons CO2 ækv. På landsplan betyder det at  ghettolistens nedrivningstruede bygninger til sammen udgør et betydeligt CO2-splid. 
+
+
+
+Analyse 
+
+
+Tidslinje 
+1971 1986 2008
+1916 1933 1953 1961 2020 
+Boligmangel og huslejestig-Som en konsekvens af den Der indføres en begrænsning på Landsbyggeloven indføres med Statsbyggeloven, der organiserer Byggetekniske fejl og dårlig Finanskrisen rammer Den frivillige bæredygtighedklasse ninger fører til oprettelsen af økonomiske krise indgåes 15 % murerarbejdskraft hvilket krav om at støttet boligbyggeri statens byggevirksomhed kvalitet i det almene byggeri byggebranchen og boligmarkedet indføres i Byggereglementet. boligkomissionen. Kanslergadeforliget som sikrer medfører en stor stigning i brugen bygges efter modulstandarder. vedtages med totaløkonomi som fører til omfattende renoveringer hårdt. Efterspørgslen på almene 
+støtte på 30 mio. kr. til byggeriet af af betonelementer. Det første bygningsreglement et nyt parametre. finansieret af den nyoprettede boliger stiger. almene boliger. træder i kraft. Byggeskadefond. 
+16.000 
+1977 2001 20181922 1946 1960 
+
+Ordningen med offentlig støtte til En stigning på 40% i mængden Folketinget vedtager en strategi Oprettelse af Statens Boligfond Efter 2. verdenskrig vedtages en Montagecirkulæret eller forsøgsbyggeri etableres for at af byggeaffald fra 1994 til 2001 for at bekæmpe parallelsamnfund i 
+
+14.000 sætter gang i byggeriet. støttelov med intentionen om at betoncirkulæret giver støtte til 
+fremme den teknologiske udvikling medfører tiltag fra Miljøministeriet. Danmark, den såkaldte  “Parallelsam­opføre 14.000 boliger om året. opførelsen af 7.500 boliger af i byggeriet. fundslov”. 
+
+præfabrikerede betonelementer. 
+12.000 
+10.000 
+8.000 
+6.000 
+4.000 
+2.000 
+
+De 15 hårde ghettoer Antal nybyggede almene boliger pr. år 
+
+0  Fuldmuret  Insitustt  Elementbyggeri  
+1910  1920  1930  1940  1950  1960  1970  1980  1990  2000  2010  2020  
+Blyhvidt maling 1910-   1950  PCB 1977-1986  
+Asbest 1930-1986  
+1957  1958  1959  1960  1961  1962  1963  1964  1965  1966  1967  1968  1969  1970  1971  1972  1973  1974  1975  1976  1977  1978  1979  1980  1981  1982  1983  1984  
+
+Motalavej Ringparken Agervang Stengårdsvej Gellerup-Skovvejen Taastrupgård Mjnerparken 1957 1963 1966 1967 parken 1971 1973 1984 1968 
+
+
+
+
+
+Stengårdsvej 
+Der er udført en LCA på boligblokkene Stengårdsvej 8 og 10. Beregningen er repræsentativ, dvs. at det er beregenet hvad tilsvarende byggeri ville have af CO2-påvirking hvis det skulle opføres i dag.  
+ton CO2 eq.ækv. 
+
+Andel CO2 fra skæring af elementer 
+16 %
+
+600 
+533 ton 
+
+500 
+
+Mulig miljesparelse ved genbrug af beton 
+400 
+278 ton CO2 eq.ækv. 
+300 
+Distribution af CO2-emissioner fra genbrug av beton elementer Stengårdsvej 8 
+
+200 
+
+Andel CO2 fra skæring af elementer 
+
+100 
+12 % 
+
+0 Ny produktion Ny produktion Stengårdsvej 8 Stengårdsvej 10 
+Mulig miljesparelse ved genbrug af beton 
+
+335 ton CO2 eq.ækv. 
+Livsscyklusanalyse (LCA) 
+LCA'en på Stengårdsvej viser et betragteligt fodaftryk i  
+form af indlejret CO2 . I alt er c a 700 t ons CO 2 er indlejret i byggeriets betonelementer, mestendels i gulvdæk og  Distribution af CO2-emissioner fra genbrug av beton elementer Stengårdsvej 10  
+indr e v ægge .  
+Beton gulvplader  Tagdæk  
+Cirkeldiagrammerne viser indlejret CO2 for al beton i  Beton primære vægge  Tagisolering  
+bygningen, samt anslået CO2 påvirkning ved adskillese  Indvendige vægge  Tagpap  
+med henblik på genbrug . Dett e udgør 12-16% af den  Vinduesrammer  Betontrappe  
+samlede CO2 og muligg således en besparelse på i alt  Glas  Indvendige de  
+600 tons CO2 .  Beton facade  Energiforbrug til skæring  
+Murfacade  Udskiftning af klinger  
+
+
+
+Birkeparken 
+Der er udført en LCA på boligblokken Birkeparken 65. Beregningen er repræsentativ, dvs. at det er beregenet hvad et tilsvarende byggeri ville have af CO2-påvirking hvis det skulle opføres i dag.  
+Andel CO2 fra skæring af elementer 
+14 % 
+
+ton CO2 eq.ækv. 
+3000 
+Mulig miljesparelse ved genbrug af beton 
+
+2500 
+1732 ton CO2 eq.ækv 
+
+2286 ton 
+
+
+2000 
+1500 
+1000 
+500 
+0 
+
+Beton gulvplader Beton primære vægge Indvendige vægge Beton facade Murfacade Vinduesrammer Glas Betontrappe Stål Tagdæk Tagisolering Tagpap Energiforbrug til skæring Udskiftning af klinger 
+
+Livsscyklusanalyse (LCA)  
+LCA'en på Birkeparken viser et betragteligt fodaftryk  Cirkeldiagrammet viser indlejret CO2 for al beton i  
+i form af indlejret CO2. I alt næsten 2.000 tons CO2 er  bygningen, samt anslået CO2 påvirkning ved adskillese  
+indlejret i byggeriets betonelementer, mestendels i  med henblik på genbrug. Dette udgør 14% af den samlede  
+gulvdæk og primære vægge.  CO2 og muliggør således en besparelse på i alt 1.700 tons  
+CO2.  
+
+
+
+Miljøkortlægninger 
+Miljøkortlægninger af byggeri, som står for at skulle nedtages, er første skridt i afdækningen af genbrugspotentialet. Herigennem belyses hvilke af bygningens materialer som potentiel kan udgøre sundhedsrisici og derved besværlig- eller umuliggøre genbrug. 
+Der er i forbindelse med projektet Ressource Blokken udft milj- og ressourcekortlægninger af træ bygninger; to i boligområdet Stengårdsvej, Esbjerg og en i Birkeparken, 
+Vollsmose. For bygningerne på Stengårdsvej er der udført 
+lovpligitige miljcreeninger, som går forud for enhver 
+nedrivning. For birkeparken er er der udført en lidt mindre omfattende ressourcekortlægning. 
+En general betragtning ift. genbrug med henblik på at opnå 
+en miljæssig gevinst er, at der vil være stst fordel i at genbruge de stste materialefraktioner, hvilket oftest udges af ydervægge, indervægge, etageadskillelser og 
+tage. 
+Som det fremgår af Teknologisk instituts ressourcekortlægning er en stor del af bygningernes dele 
+uden skadelige stoffer og kan derfor genbruges (såfremt 
+materialerne kan nedtages uden beskadigelse som 
+forhindrer genbrug). Her bør det noteres at størstedelen af betonelementerne er klassificeret uden forventede skadelige stoffer. Da disse bygningsdele samtidigt 
+udg langt ststedelen af bygningsmassen - på både Stengårdsvej og Birkeparken - er det således her at der 
+vurderes at findes den største miljømæssige gevinst. Dette understøttes af LCA-analysen på de foregående sider. 
+Dette illustrerer behovet for udvikling af metoder som muligg og tager risikoen ud af at genbruge betonelementer således at de stst mulige miljevinster 
+kan opnås. Sådanne metoder omfatter en række andre 
+tidlige screeninger af byggeriet såsom betonprveanalyser, 
+afklaring af armeringsgrad og -type i beton, mv. 
+Det er ligeledes værd at bemærke, at en del andre materialefraktioner,  såsom vinduer og de, overvejende 
+er uden skadelige stoffer. Disse bygningsdele er væsentligt 
+lettere at genbruge og kan endda tilfe nybyggeriet i 
+områder en forhøjet arkitektonisk kvalitet. 
+I tabellen til hre ses et udpluk af opgelsen over skadelige 
+stoffer i bygningen Birkeparken 65. 
+
+Lavhus  Ikke nærmere undersgt forventes rent eller mulighed for direkte genbrug  
+Antal m²  Uden skadelige stoffer der skal kategoriseres  
+Ikke nærmere undersgt forventes forurenede  
+Stamdata  Skadelige stoffer der kan udgre et problem  
+Forventes ikke at kunne genbruges  
+
+Reg. nr.  Bygningsdel  Konstruktionsdel  Materiale  Overflade behandling  Forurening jvf.miljrapport Mængdeopgrelse  Tilstand Kommentar/Vurdering Genbrug Genanvendelse Materialenyttiggrelse  Nedtagning  Afsætning / Ressourcedagsorden ­potentiale for genbrug og genanvendelse  
+Længde Bredde Hjde Enhed Mængde Enhed 
+1. Tag 1.1 Tag 2. Facader 2.1 Facader 2.2 Gavle 3. Altaner 3.1 Altaner Altan loft Altandæk 4. Fundamenter 4,1 Fundament 5. Dre og vinduer 5,1 Dre 5,2 Vinduer 6. Trappeopgang 6,1 Trappeopgan g  Betondækelemente r Rem Spær Sålbænke Vindgips Sjleprofil Facadeplader eternit Stålsjle Stålsjle Skalmur Teglsten Eternitfacadeplade Rammekonstruktio n Vindgips Vinduer træ/alu Vinduer Vinduer Vinduer Dre Dre Forskalling Eternitplade Betonelementer 180mm Stribefundamenter Facadedre H1 Altandr Vindue G1, Facade vest vindue mod altan Vindue K2, Trapperum Vindue K1, Trapperum Vindue F, Gavle Vindue Vindue Vindue Vindue Trappelb  Beton Aluminium 1,2 mm Gips Aluminium 2 mm S3 S4 Eternit Træ V20 V21 V22 V23 D20 D21 Træ Eternit Beton Beton Let facade Vindue Beton/ terrazzo  maling maling Grå sort sort  1200 300 300 300 50 425 430 355 355 94,8 94,8 25 1200 233 94,8 355 46,5 46,6 148,8 95,7 148,8 83 28,2  180 2000 2000 8 75 9 152 152 152 152 252 252 100 8 180 232,5 225 152 252 234 152 152 132 132 132  mm mm mm mm mm mm cm cm cm cm cm cm mm mm mm cm cm cm cm cm cm cm cm cm cm  Se fane beton eleme nter 42 10 6 12 2 4 2 4 Se fane beton eleme nter 3 27 24 18 6 8 21 69 53 8  stk stk stk stk stk stk stk stk stk stk stk stk stk stk stk stk stk stk  Br kontrolleres for trænedbryd­ende svamp Br kontrolleres for trænedbryd­ende svamp Br undersge kvaliteten for at afgre om det kan genbruges til tilslag Br undersge kvaliteten for at afgre om det kan genbruges til tilslag Overholder ikke seneste x energikrav. Det skal tages i x betragtning at vinduerne til x dato er 26 år gamle x x x x x x x Br undersge kvaliteten for x at afgre om det kan genbruges til tilslag  x x x x x x x x x x x x x  x x x x x x x x x x x x x  Kan genbruges. Anbefaling: Ved udendrs anvendelse med eller uden afrensning. Indendrs genbrug kræver enten en afrensning af PCB eller en risikovurdering i forhold til indeklima. Der udover kræver det en opgradering i forhold til gældende energikrav. Kan muligvis genanvendes som tilslag. Puds skal være fjernet. Kan evt. knuses til opfyld  
+asbest  
+
+Balustre  Stål  x  
+Håndliste  x  
+Malede lofter  Renses for maling  
+Loftsplader  x  x  x  
+7. Lofter7,1   og etageadskiEtageadskille lser  Fliser llelser Betonelementer 180mm  Huldæk  1200  180  mm  Br undersges om det kan x anvendes som tilslag i til ny beton  x x  x x  Kan muligvis genanvendes som tilslag. Puds skal være fjernet. Kan evt. knuses til opfyld  
+Polystyren i kælder loft  Polystyren  
+7,2  Lofter  Malet beton  Skal renses for maling inden x  x  
+7,3  Gulve  strer 50*50  Træ  x Er ikke undersgt for råd og svamp.  x  x  Træet kan bruges i landskabet til skure ol. Der findes virksomheder, som Næste der aftager genbrugstmmer  
+Bad  Vinyl brun  Skal destrueres  
+Bad  Vinyl grå  
+Gulv  Bgeparket  Er ikke undersgt for råd og x svamp.  x  x  Ved direkte genbrug skal det undersges om det er muligt at optage uden skader.  Afsætning evt. til firmaer som Genbyg  
+
+
+Prøvning af bentonkonstruktioner 
+Der sker løbende ændringer i byggelovgivningen og de krav, som stilles til bærende konstruktioner og anvendte materialetyper/­sammensætning. Eksisterende betonkonstruktioner vil derfor ikke nødvendigvis leve op til de krav, som stilles til nybyggeri i dag og det kan påvirke mulighederne for genbrug. 
+
+
+Der findes på nuværende tidspunkt ingen paradigmer for 
+hvordan betonkonstruktioner, som skal genbruges i nyt 
+byggeri, skal dokumenteres. Dermed er der f.eks. hverken 
+fastlagt hvilke prvninger, som skal udfes eller hvor mange 
+stikprøver, der skal tages. Det er en udfordring for genbrug af betonkonstruktioner, da et sådant paradigme bl.a. er med 
+til at sikre, at de nvendige egenskaber dokumenteres efter egnede metoder samt at prvningsprogrammet sandsynligg, at de udfte prvninger er repræsentative 
+for konstruktionernes egenskaber.  
+Teknologisk Institut har udft en række prvninger på betonkonstruktionerne i Stengårdsvej 8 og Stengårdsvej 10 i 
+Esbjerg. Formålet med prøvningerne var at give en indikation 
+af genbrugspotentialet ved at underse betonens tekniske kvalitet og armeringsgraden af konstruktionerne og sammenholde resultaterne, med de gældende krav i 
+lovgivningen. Vurderingen ift. kravene til betonens tekniske 
+kvalitet er udft af Teknologisk Institut og vurderingen 
+ift. kravene til de konstruktive egenskaber er udført af Regnestuen. 
+Teknologisk Institut har ifm. prøvningerne haft adgang til én lejlighed i hver bygning. Det har således ikke været 
+muligt at vurdere, om resultaterne fra underselserne er repræsentative for konstruktionerne i den resterende del 
+af de to bygninger. Der er anvendt metoder, som typisk anvendes ifm. traditionelle tilstandsvurderinger. 
+Udførte undersøgelser 
+Der er udft en kombination af ikke-destruktive og destruktive underselser på betondæk og indvendige betonvægge i Stengårdsvej 8 og betondæk i Stengårdsvej 
+10. Følgende er undersøgt: 
+• 
+Armeringens placering 
+
+• 
+Armeringstype og tykkelse 
+
+• 
+Dæklaget tykkelse (afstand fra betonoverfladen til armeringens overflade) 
+
+• 
+Betonens sammensætning 
+
+• 
+Betonens trykstyrke (bemærk, trykstyrken er ikke målt på betonen fra dækket i Stengårdsvej 10, det skyldes, at det ikke var muligt at udtage en borekerne med 
+
+
+acceptable dimensioner) 
+• Tegn på nedbrydningsmekanismer som kan påvirke 
+holdbarheden og derfor genbrugspotentialet. Til 
+bestemmelse af betonens tekniske kvalitet, er der udtaget fem borekerne fra henholdsvis dæk og væg i Stengårdsvej 8 samt to borekerne fra dækket i Stengårdsvej 10 til bestemmelse af betonens tekniske 
+kvalitet. 
+Opsummering 
+Anbefalingerne er udelukkende for betonkonstruktionerne 
+i de to lejligheder, hvor der er foretaget prøvninger. 
+Der forventes dog at være en vis lighed til de vrige 
+betonkonstruktioner i de to bygninger. Resultaterne kan bruges til en indledende vurdering af genbrugspotentialet. 
+Hvis det besluttes at genbruge betonkonstruktionerne, b der foretages yderligere prvninger på de andre 
+
+
+
+konstruktioner. Prøvningsbehovet vil afhænge af, hvad betonkonstruktionerne genbruges til. 
+Betonsammensætning og holdbarhed 
+Alle betonkonstruktionerne har en teknisk betonkvalitet, 
+som kun egner sig til anvendelse i passiv miljøpåvirkning. 
+Det skyldes dels betonens sammensætning samt 
+at karbonatiseringsfronten i dækkene i både nr. 8 og nr. 10 har passeret armeringen, hvilket vil forårsage 
+armeringskorrosion, hvis konstruktionerne bliver udsat 
+for fugt. Den lave karbonatiseringsdybde af betonvæggen 
+kan skyldes, at der har været tapet på begge sider af 
+væggen, hvilket har bremset karbonatiseringen. Passiv miljøpåvirkning (svarende til klasse X0 og XC1)  omfatter 
+for armerede betonkonstruktioner, konstruktioner som er placeret i et miljmed lav luftfugtighed og ikke udsættes for 
+frost eller klorid. I de danske klimaforhold er det typisk beton anvendt indendørs. 
+Indholdet af klorid i betonen, vurderes ikke at være kritisk. 
+Skal betonkonstruktionerne genbruges til bærende konstruktioner eller andre konstruktioner med krav til brandmodstand, b der være opmærksomhed på dæklaget, 
+idet der kun er udført målinger i én lejlighed pr. bygning og 
+det målte dæklag for begge betondæk viste sig at ligge tæt 
+på kravgrænsen på 10 mm. 
+Egenskab  Stengårdsvej 8  Stengårdsvej 8  Stengårdsvej 10  
+Konstruktion  Væg  Dæk  Dæk  
+In-situ/element  In-situ  In-situ  Element (huldæk)  
+Dimensioner  Tykkelse: 150 mm Hde: 2,8 m  Tykkelse: 150 mm Spænd: mellem 3,15 m og 3,90 m  Tykkelse: 180 mm Spænd: mellem 2,00 m og 4,50 m  
+Armeringsafstand  Uarmeret bortset fra de nærmeste 500 mm fra facade/altan, hvor betonen lokalt er armeret med vandret armering i begge sider pr. 155-180 mm (gennemsnitsafstand er ca. 175 mm). Der er desuden tegn på to korrugerede r i samme område, som sandsynligvis bruges til optag af vandrette kræfter (f.eks. fra vind).  Enkelt armeringsnet placeret i under­siden af dækkene. Den langsgående armering (parallelt med facadeplan) er placeret pr. 140-200 mm (gennemsnits­afstand er ca. 150 mm) og den tværgående armering (vinkelret på facadeplan) er placeret pr. 220-280 mm (gennemsnitsaf­stand er ca. 250 mm).   Der er 8 langsgående armeringsspor med to armeringsjern i hver og tværgående armeringsspor med et armeringsjern i hver. Huldækkene er slapt armeret. Langsgående armerings­spor er placeret pr. 150 mm og den tværgående armering er placeret pr. 250 mm.  
+Armeringstype og -diameter  Ø8 mm rundjern  Ø8 mm tentorstål  Langsgående: 2 stk. Ø8 mm ribbet armeringsjern Tværgående: 1 stk. Ø6 mm ribbet armeringsjern  
+Dæklagstykkelse  Vandret armering: 18-22 mm  Langsgående armering: 12-16 mm Tværgående armering: 23-26 mm  Langsgående armering: 17-19 mm Tværgående armering: 12-14 mm  
+Kloridindhold  0,011-0,019 % ift. masse af betonen  0,016-0,024 % ift. masse af betonen  0,011-0,013 % ift. masse af betonen  
+Miljåvirkning  Passiv  Passiv  Passiv  
+Betontrykstyrke  26,8 MPa (gennemsnit)  33,0 MPa (gennemsnit)  - 
+Karbonatisering  1-2 mm  24-30 mm  6-12 mm  
+
+Tabel 1. Opsummering af resultater 
+Konstruktiv betydning 
+De målte trykstyrker indikerer, at betonen fra 
+Stengårdsvej 8 cirka svarer til en styrkeklasse C20/25. 
+Betonkonstruktionerne som er blevet analyseret, viser desuden at konstruktionerne på nogle punkter ikke overholder de krav, som man i dag stiller til bærende 
+konstruktioner. Eksempelvis er væggene i Stengårdsvej 8 helt uarmerede (bortset fra de nærmeste 500 mm fra facaden). Hvis man skal bygge et nyt etageboligbyggeri, 
+vil det derfor ikke være muligt at genbruge væggene til 
+bærende formål i et tilsvarende byggeri. De vil dog stadig 
+have en bæreevne, som vil kunne bruges i konstruktioner 
+hvor belastningerne er mindre. Dækkonstruktionerne kan 
+formentligt heller ikke anvendes til samme last med samme spænd som tidligere, idet sikkerhedskravene til bæreevnen 
+er blevet skærpet siden bygningen blev opført. Derfor kan 
+det være nvendigt at afkorte dækkene, således at det frie 
+spænd minimeres og bæreevnen dermed forøges. 
+Robusthed 
+Normerne er også ændret ift. de såkaldte robusthedskrav siden bygningerne blev opført. Robusthedskravet er indført 
+for at sikre, at bygninger ikke bliver udsat for en stre sammenstyrtning som fge af et enkelt element eller 
+samling svigter. Reglerne for robusthed er skrappest for høje 
+etageejendomme, men for boligbyggeri i hest 2 etager er 
+kravene mere lempelige.  
+Nedtagning og opbevaring 
+Den manglende armering i væggene, kan ge det svært at 
+transportere dem bort med kran ifm. nedrivning. Det skyldes, at beton i sig selv, har en lav trækstyrke uden armering. 
+Der kan derfor opstå skader, hvis man ikke er forsigtig 
+under håndteringen. Det vil formegenligt kræve midlertidig afstivning for at kunne flytte væggene. Efter nedtagning, 
+må konstruktionerne ikke opbevares ubeskyttet udenfor, 
+eftersom de ikke må udsættes for fugt og frost. 
+
+
+Cirkulært potentiale i 60-70’ernes almene byggeri 
+Byggematerialer står for en væsentlig andel af bygningers klimapåvirkning14. Livscyklusvurdering (LCA) bruges i stigende grad til at vurdere bygningers samlede potentielle miljøpåvirkninger og ressourceforbrug for at kortlægge det cirkulære potentiale i genbrug. 
+LCA på bygninger udføres bl.a. i forbindelse med den nye 
+frivillige bæredygtighedsklasse til bygningsreglementet 
+og den frivillige certificeringsordning, DGNB, for bæredigt byggeri. Metode anvendes til at vurdere bygningers samlede 
+potentielle miljåvirkninger og ressourceforbrug gennem hele bygningens levetid fra produktion af materialer, 
+opførelse, brugsfase, nedrivning til materialerne bortskaffes, genanvendes eller genbruges. 
+Der findes en række digitale LCA-værktøjer på markedet, 
+som kan bruges til at beregne bygningers milj- og 
+ressourceprofil. Det mest almindeligt kendte herhjemme er  
+LCAbyg15, som er udviklet af BUILD ved Aalborg Universitet Kenhavn for Energistyrelsen, og som er tilpasset den nye 
+frivillige bæredygtighedsklasse og DGNB-certificering. 
+LCA kan med fordel benyttes som et værkt i design 
+fasen, da det kan hjælpe med at identificere, hvilke 
+bygningsparametre, der bidrager mest til bygningers 
+miljøpåvirkning og ressourceforbrug. Det gør det muligt 
+at sammenligne forskellige alternativer med henblik på at 
+vælge de miljømæssigt mindst belastende løsninger. 
+LCA af bygninger kræver veldokumenteret data for materialernes miljelastning, forventede levetid og hyppighed af udskiftning i let af LCA-beregningens 
+betragtningsperiode. LCAbyg anvender miljødata på 
+materialers miljelastning fra den tyske Ökobau-database, 
+hvortil der kan suppleres med miljøvaredeklarationer (EPD) på specifikke byggeprodukter. De fleste miljødata er for konventionelle materialer. 
+Viden om hvor store de milj- og ressourcemæssige gevinster for genbrug og genanvendelse er, mangler for 
+enkelte materialefraktioner og bygninger som helhed. Der findes på nuværende tidspunkt kun i begrænset omfang 
+miljata og viden om levetider for forskellige cirkulære 
+løsninger. Denne viden er nødvendig for at kunne lave en 
+livcyklusvurdering for bygninger, der anvender cirkulære 
+løsninger. 
+Tabellen til hre viser en oversigt over det klimamæssige potentiale ved forskellige cirkulære lninger sammenlignet med en tilsvarende konventionel lning på baggrund af en 
+undersøgelse foretaget af BUILD14. De cirkulære løsninger 
+spænder mellem gennemprvede produkter med en genbrugsandel til ukonventionelle lninger på forssbasis 
+for de væsentligste materialer i et byggeri. Undersøgelsen medregner produktion, affaldsbehandling og bortskaffelse 
+samt potentialet ved genbrug eller genanvendelse ved endt levetid af byggematerialerne, men udelader holdbarheden og de tilhende udskiftninger i let af en bygnings 
+livscyklus. 
+Tabellen viser at direkte genbrug uden stre bearbejdning ofte resulterer i det stste besparelsespotentiale sammenlignet med det tilsvarende konventionelle materiale, mens lninger, som genanvender sekundære materialer, 
+typisk har en lavere besparelse. 
+Selvom besparelserne ved nogle cirkulære lninger er små sammenlignet med andre cirkulære lninger, kan den 
+absolutte effekt værre større der hvor disse løsninger indgår  ressourcebehov kan forventes, hvis sekundære ressourcer  
+i større mængder i byggeriet f.eks. genanvendt tagpap.  fra nedrivning udnyttes bedre.     
+Genanvendt beton giver ikke en stor besparelse, men kan  
+stadig være med til at reducere behovet for sand og grus.  
+Grafen peger på, at en reduktion af klimapåvirkning og  
+55  
+
+
+
+
+Del III 
+
+En bevidst satsning på industrialiseret 
+byggeri førte til en omstilling af byggesektoren på kun 15 år, [...] forandring af den teknologiske tradition skete ikke ved revolutionære teknologiske nybrud, men en stadig og gradvis forbedring og afprøvning af nye ide´er. 
+Jørgen Burchardt 
+
+Vejen til det industrielle byggeri: 15 års forceret 
+teknologiudvikling 1945-1960 
+
+
+
+Design 
+Ressource Blokken  ¦ EFFEKT 
+
+
+
+
+
+Ressource Blokken ¦ EFFEKT 
+
+‘Design for Disassembly’ Hybrid Trækonstruktion 
+Et træbaseret bygningssystem, der er ‘designed for disassembly’, giver nyt liv og ny værdi til gamle præfabrikerede byggekomponenter. Selve konstruktionen laves i limtræ og fungerer som et kulstoflager, mens risikoen ved genbrug og upcycling af mange forskellige elementer. Det modulære system er adaptivt og skalerbart, hvilket åbner op for at skabe stor variation af typologier. 
+
+BEVAR GENBRUG UPCYCLE 
+I stedet for at nedrive den samlede Takket være en ny Materialer, der ellers ville ende som bygningsbestand, foreslår vi at bevare rammekonstruktion af træ kan vi affald, tilføres ny værdi og nye dele af den for at skabe nye kvaliteter i minimere indgrebene på nedrevne funktioner. Beboere får en et felse 
+det eksisterende. Dette forbedrer bygningskomponenter gennem af ejerskab og identitet, når de levevilkårene for de nuværende direkte genbrug. Dette fer til inddrages i designprocessen. beboere. betydelige miljæssige og onomiske besparelser. 
+
+Mulighed for besparelser 
+H 
+
+Lav
+(materialer, arbejdskraft, emissioner, energi) 
+Visionen bag transformationen af Vollsmose er baseret med trækonstruktionen. Ved byggefasens afslutning på en trestrenget strategi: bevarelse prioriteres hvor end konverteres materialebanken til et nyt forsamlingshus muligt, genbrug af eksisterende materialer med minimal og genbrugsstation for beboerne, hvilket i sig selv indgriben og upcycling af resterende komponenter for at bygger videre på områdets transformationshistorie. Idet øge deres værdi. konceptet er designet med det formål at blive skilt ad 
+og genbrugt, når bygningens livscyklus ender, sikres De eksisterende, præfrabrikerede bygningselementer komponenternes værdi for fremtidige projekter. vil blive ne fjernet for at skabe nye kvaliteter i de Strategien bygger på de mange fordele ved at bygge i træ, originale bygninger, såsom tagterrasser og nye passager. såsom omkostningseffektivitet, alsidighed, kulstofbinding Elementerne transporteres til en materialebank på stedet, i træet og biophiliske kvaliteter, til gavn for både hvor de sættes i stand og genbruges i sammen med mennesker og planeten som helhed. Denne hybridstrategi 
+NYT 
+
+
+EKSISTERENDE 
++ 
+2x
+Bærende væggeaf beton indvendige væge 
+
+
+Afgives 
+
+
+Overblik over bygningsdele og deres miljøindvirkning. 
+bestående af en trækonstruktion og præfabrikerede betonelementer muligg genbrug af byggekomponenter i et langt videre omfang sammenlignet med upcycling, hvilket på lang sigt vil resultere i betydelige miljæssige 
+besparelser. 
+
+
+
+
+
+
+Det modulære byggesystem er designet ud fra de genbrugte byggeelementer, så det har den nvendige 
+bærekraft, stivhed og stabilitet. Dette sikrer samtidig en sammenhængende lastnedføring ned gennem bygningen. 
+Bladsamlinger mellem sler og bjælker giver en enkel men 
+stadig fleksibel konstruktion og en nemmere installation. 
+Dermed mindskes også risikoen for både entrepren og 
+bygherre. 
+For at sikre et optimalt og ubegrænset genbrug af alle byggekomponenter i fremtiden, renoveres de 
+præfabrikerede elementer individuelt. Et samlingssystem 
+med ikæmmede beslag sikrer, at systemet nemt og hurtigt 
+både kan samles og skilles ad igen. Dette minimerer 
+emissioner og omkostning i forbindelse med produktion, 
+opførelse og dekonstruktion ved livscyklussens ende. 
+Herved bliver adskillelsen af samlinger og komponenter en 
+integreret del af designet, som bidrager til et samlet ‘zero waste’-koncept, der kan sætte en ny standard for den danske byggesektor. 
+
+Livscyklus ender 
+C3+C4 
+
+Adaptivt genbrug 
+Produktion på stedet 
+A1-A3 
+Ved at genbruge hvert betonelement tre gange, svarer det 
+til en besparelse på mellem 33 og 60 procent i udledning 
+af drivhusgasser sammenlignet med engangsbrug af 
+komponenter og efterfølgende downcycling1. 
+
+
+1 ”Design for Disassembly - Building a circular future” 
+
+Opfelse A4-A5 
+Brug B4+B6 
+Genbrug 
+
+
+Hybridstrategien, der kombinerer trækonstruktion og præfabrikerede betonelementer g det muligt at genbruge byggekomponenter i langt here grad, end hvis de skulle upcycles, hvilket resulterer i betydelige miljæssige 
+besparelser. 10.000 m2 af ny bebyggelse sikrer omtrent 95% 
+genanvendelse af præfabrikerede elementer fra den originale 
+bygning. 
+1. Træsøjle 
+2.Ikæmmet beslag 
+3.
+ Betonplade 
+
+4.
+ Træbjælke 
+
+5.
+ Gulvstrø 
+
+
+6.Skruepælsfundament 
+WOODSTOCK SYSTEM 
+BLADET 
+SØJLE 
+
+IKÆMMET BLADET BESLAG BJÆLKE 
+
+PITZL CONNECTOR 
+
+
+
+
+Ressource Blokken  ¦ Panum & Kappel 
+
+Ressource Blokken  ¦ Panum & Kappel 
+
+
+Montagerækkerne 
+Montagerækkerne er et bud på en ny boligbebyggelse, skabt med udgangspunkt i direkte genbrugte elementer og materialer, fremkommet ved nedrivning af Blok 45 i Birkeparken, Vollsmose. Montagebyggeriets grundprincipper, der kendetegner området, anvendes som en gennemgående metodik til opførelse af den nye bebyggelse. 
+Råhus i beton 
+Bebyggelsen er tegnet med udgangspunkt i den stst mulige direkte anvendelse af bygningsdele udtaget af Blok 
+45 ved nedrivning.  
+Betonelementerne benyttes i de nye boligenheder til at danne råhuset, der vil udges af rumstore bokselementer, bærende betonvægge og betondæk - alle med så lidt 
+forarbejdning som muligt.  Bebyggelsen udføres på 
+punktfundamenter for at maksimere anvendelsen af eksisterende dækelementer, fremfor et traditionelt 
+terrændæk. 
+Montagerækkerne er tegnet som familieboliger i to etager, 
+med et gennemsnitligt areal på 120 m2. Dimensionerne på de nye boligenheder, er defineret ud fra størrelsen på de specifikt anvendte bygningsdele fra det eksisterende elementbyggeri.  
+Ressource Blokken  ¦ Panum & Kappel 
+
+
+Tværsnit i boligenhed 
+Præfabrikeret klimaskærm 
+Klimaskærmen opbygges af nye præfabrikerede 
+facadeelementer og tagkassetter. 
+Alle tillagte bygningselementer udfes i træ og males i en karaktergivende farvenuance, som bliver identitetsskabende 
+for den nye boligbebyggelse. 
+Upcycling 
+En ny gulvbelægning udfes gennem upcycling af teglsten og beskadigede betonelementer udtaget af Blok 45 ved 
+nedrivning. 
+Teglsten og beton nedknuses og genanvendes som tilslag i 
+en ny terrazzo gulvbelægning, der med fremtrædende gule 
+og grå skærver, bidrager til fortællingen om de genbrugte 
+materialer og samtidig giver boligen en helt særlig karakter. 
+Strategi 
+1.
+ Direkte anvendelse af bygningsdele udtaget af Blok 45 ved nedrivning. Genbrugte betonelementer anvendes til at opbygge råhuset i de nye boligenheder. 
+
+2.
+ Klimaskærmen opbygges af nye præfabrikerede 
+
+
+facadeelementer og tagkassetter i træ, for at beskytte 
+råhuset. 
+3. Den sekundære facade for kantzonen udføres i genbrugte 
+vinduesglas, der demonteres fra de udtagne vinduespartier, 
+og monteres i et nyt, let ophængningssystem. 
+Konceptmodel 1:50 
+Bebyggelsens kantzone 
+Overgangen mellem de private boliger og fællesarealerne 
+
+1. 2. 3. 
+udformes som en uopvarmet zone i tilknytning til boligerne. 
+
+Råhus i beton Præfabrikeret  Bebyggelsens 
+Den sekundære facade udfes i genbrugte vinduesglas, 
+
+
+Direkte genbrug klimaskærm kantzone 
+som udtages af deres eksisterende vinduesrammer og 
+
+Tilfede elementer Upcycling 
+monteres i et nyt ophængningssystem i træ. 
+Ikke-bærende facadepaneler i beton, udtaget af Blok 45, 
+tilskæres og anvendes som ny flisebelægning. Den nye kantzone danner ramme om de enkelte boligers 
+ankomst og skaber små private uderum i tilknytning til 
+boligerne. 
+Hensigten er at åbne op for bebyggelsen ved at flytte livet 
+
+
+
+ud i gaden og langs med bygningerne, for herved at skabe Betonelementer Træelementer Termoglas tryghed og give gode muligheder for spontane mer 
+mellem beboerne. 
+
+
+
+Placering  Aarhus  
+Web  revaerk.dk 
+ 
+Email  kontakt@revaerk.dk 
+ 
+
+1. 
+
+
+
+Stengårdshusene 
+2. 
+Med afsæt i Stengårdsvej 10-14 undersøger dette delprojekt hvordan genbrugte materialers kvaliteter og stoflighed kan iscenesættes i 12 nye familie-rækkehuse placeret langs Stengårdsvejen. 
+3. 
+A | Stengårdsvej 10-14 B | Læsning af linjer i C | Ny struktur skaber D | Tyngde og skiver 
+4.
+fra 1976 i tegl og beton. eksisterende struktur. rum imellem volumer. fremhæves i ny struktur. 
+7. 
+5. 
+6. 
+Ved ankomst til stengårds-husene opleves betonens tyngde ved den løftede facadeskive der skaber overgangszone imellem hus og gade. 
+
+
+
+Stueetage Visualisering - eksteri Visualisering - interi 
+Upcycling af huldæk 
+
+Eksisterende huldæk  i tykkelsen 180mm fra bygnings Huldæk tilskæres i format 100x1240mm og halveres med etage-skel danner udgangspunkt for boligernes diamantwire. Herved fremkommer de karakteristiske runde facadebeklædning. spor i overfladen. 
+Rækkehusene entreres via boligens afgrænsede og ankomstzonen i stueplan. Skiven der definerer ankomstzone. I stueplan er huset domineret af fællesrum ankomstzonen danner visuel membran imellem gade og og nedsænket stue - alle med visuel forbindelse til husets husets indre rum på 1.sal. Huset er konstruktivt opbygget indre gårdhave. Over trappen til 1.sal giver tagvinder lys omkring de eksisterende bærende massive teglstenmure ned igennem bygningen og styrker forbindelsen imellem og eksisterende huldæk som danner etageadskillelse og 
+
+etagerne. beklædning. 1.sal er domineret af værelser, men rummer også kontor og altan. Der er visuel forbindelse til gårdhaven Huldækfacadebeklædning med monteringbeslag som muligg fremtidig demontering 
+
+
+
+
+1.Sal 
+
+1. Ved brugen af cell-glass blokke muliggøres niveauer i bygningens fundament - uden fordyrende fundaments støbninger. Dette afhjælper manglende lofthøjde ved brug af eksisterende vægelementer.  
+2. Ved brug af eksis. 2-lagsruder og Horngroups teknologi, er vinduerne i projektet en vigtig del af husets ventilation og opvarmning. Solens opvarmning og den termiske opdrift leder frisk, forvarmet luft naturligt ind og genbruges via varmepumper. Vinduerne opbygges af to separate glaslag, nye dobbetlags ruder udvendigt og genbrugt glas indvendigt som forsatsrude.  
+3. Beklædningselementernes overflade behandles med Kein Concretal Silkat. Den laserende overfaldebehandling bibringer betonen varme og beskytter overfladen. Laseringen sikrer samtidig bibeholdelsen af de synlige tilslag i snitflader. Elementet monteres med rever-sible stålbeslag på hotwall.  1.  3.  1. 2.  
+Læmgdesnit gennem boligen, tallene referer til detaljerne til venstre.  
+2.  
+
+1:1 prve på facadeelement 
+3. 
+
+
+
+
+Nye boformer med højt til loftet 
+Moderne familieformer kræver moderne boliger. Forslaget udfordrer den traditionelle betragtning af et hjem og kommer med et bud på sociale bolig-enklaver med flydende og graduerede grænser mellem private og offentlige rum. 
+Længdesnit 1:200 
+Snittet viser bofællesskabet med fællesarealer i stueetagen og private ’units’ på 1.sal. Familielejligheden, som ses i baggrunden, bindes sammen med bofællesskabet via det grønne tag. 
+
+Alternative boformer Graduering af private og offentlige zoner 
+Forslaget arbejder med to bo-enheder:  En familie-enhed og Forslaget arbejder desuden på en oplning af ’hjemmets 
+et bofællesskab. fire vægge’ og byder i stedet på et mere ’sprængt’ hjem, hvor forskellige zoner og gradueringer finder sted. Der 
+Kernefamilien er i oplning og et stigende antal danskere arbejdes med private units/ værelser, semiprivate fællesrum, 
+bor alene. Bofællesskaber har i de seneste år fået et stort semioffentlige væksthuse og haverum samt offentlige come back, måske netop som et anderledes bud på et trygt grønne arealer og tagterrasser. og ’hjemligt’ fællesskab i en tid, hvor vores familieformer 
+er under forandring. Mange unge, fraskilte, sammenbragte Gradueringen fra privat til offentlig skaber en række familier og enlige ældre viser således stor interesse for mellemzoner, hvor nye sociale fællesskaber, indenfor og på alternative boformer og her er bofællesskaber et godt bud tværs af de enkelte familielejligheder og bofællesskaber 
+på et anderledes fællesskab i en anderledes bo-form. samt de eksisterende boligblokke i området, kan finde sted. 
+Bebyggelsesplan 
+Placering i landskabet 
+Bo-enhederne placeres som en klynge med fire familielejligheder og fire bofællesskaber. Tilsammen udgør de et ’landskab’, hvor inde og ude flyder sammen og en række semi-offentlige og helt offentlige grønne rum opstår imellem og ovenpå boenhederne. Således opstår en 
+interaktion med de eksisterende boligblokke på den ene side 
+og med parken på den anden side. 
+Boligenhederne nedbryder skalaen i området og g 
+området mere imødekommende og varieret. Grønne 
+tagterasser giver grne rum tilbage til helheden og er desuden attraktivt at kigge ned på fra de omkringliggende 
+boligblokke. 
+Tagetage 
+Tage begrnes med sedum,  nyttehaver og drivhuse 
+til dyrkning og til sociale fællesskaber. Via offentligt tilgængelige trappeanlæg er der adgang til tagene for alle. Drivhusene etableres med eksisterende vinduespartier. 
+1.sal På 1.sal placeres de eksisterende ’rumstore moduler’, som indrettes som de mest private rum. I famlielejlighederne udgør boksene værelser. I bofællesskaberne udgør de 
+Tagterrasse 
+Drivhus 
+Sedumtag 
+
+Tagetage 1:250  
+Balkon  Værelse 2  dobbelh Stue  Værelse 1  
+Terrasse  Værelse 1  Værelse 3  Balkon  Værelse 3  Terrasse  Værelse 4  Terrasse  
+Terrasse  Værelse 2  Terrasse  
+1.sal 1:250  
+Entré  Wc/ Bad Kken/ Alrum  Stue  
+rumstore moduler private studios. Der suppleres med enkelte vægelementer samt nye glaspartier.  Stue  Wc/ Bad Kken alrum  Entré  
+Stueplan Stueetagerne opdeles med de eksisterende væg-elementer og indrettes som lejlighedernes fællesarealer med køkkenalrum og badeværelser. Væggene optræder både inde og ude og skaber semiprivate opholdsrum også udends  Stueetage 1:250  
+
+
+
+2 
+5 
+3 
+4 
+1 
+Stueetage 
+Fra stueetagen ankommer man i boligens entre/bryggers hvorfra der er adgang til boligens fste og eneste værelse i 
+stueplan. En lille gang med et lille toilet/bad på venstre hånd 
+leder til boligens trapperum, med adgang til fstesalen, og videre ud i det åbne kkenalrum med direkte udgang til 
+haven. 
+Køkkenalrummet ligger i åben forbindelse med stuen på 1. sal via et dobbelthøjt rum. Grundet bygningens modulære 
+opbygning kan der i dette dobbelthe rum indfes et dæk, hvorved man enten kan udvide boligen med et ekstra 
+værelse eller en større stue. Denne fleksibilitet gør sig 
+6 
+7 
+8 
+9 
+1.Sal 
+gældende i det færdige byggeri, der dermed kan tilpasses 
+skiftende behov. På førstesalen findes, udover stuen, også et større badeværelse, samt boligens to sidste værelser. 
+Boligens råhus har en relativt åben planlning grundet 
+opbygningen i betonmoduler og bjælke-søjlesystemet. Boligens bærende vægge findes således i boligskellet og i trappekernen, hvilket betyder at planløsningen er fleksibel, og kan se ud på flere måder 
+
+7  
+5  
+4  
+6  
+2  
+3  
+1  
+
+8 
+Bygningens trapperum forbinder boligens to etager i et 
+dobbelthøjt rum. Trappekernen og selve trappen er genbrugt beton. Særligt i trapperummet ses de synlige samlinger mellem genbrugte og nye elementer. Disse møder mellem 
+afskårne dæk og vægge bringes frem som et arkitektonisk motiv, der fortæller historien om materialernes liv, og 
+samtidig føjer til boligens arkitektoniske særpræg. 
+
+
+
+Trækledning Træfiber isolering Birkefiner  
+Nyt  Garderobeskab af dblad  
+Genanvendt  
+Mezzanin  Mezzanin  
+Værelse  Værelse  
+Huldæk  facade  
+Genanvendt  
+Træramme  
+Nyt  
+Væg element Genanvendt x 8  Bad  Bad  
+Hulvæg fra huldæk Genanvendt  Rum-stort beton element  
+Genanvendt x 4  Nabobolig  Nabobolig  Nabobolig  Nabobolig  
+Udearealer    
+Bebyggelsen indrammer et centralt gårdrum, hvor vi  direkte som hele elementer og skaber en række  
+planlægger fællesfunktioner udft i genanvendte  karakteristiske elementer som cykelparkering, legeplads,  
+materialer. Affaldsskur, fælleshus, drivhuse,  træningsudstyr mm. Dette kan også udvides som en del  Værelse  Værelse  
+cykelparkering, legeplads og udends fitness udft i  af Vollsmoses design manual med nyt byrum inventar med  Værelse  Værelse  
+genanvendte materialer.  tydelig karakter og miljøprofil. Andre elementer upcycles  
+Nogle elementer som f.eks trappeelementer genbruges  såsom drivhus, skur og belægning.  
+Stueetage  1. Sal  
+Plan 1:100  
+Legeplads og fitness  Bænke og belægning  
+Fælleshus  
+Cykel parkering  
+Drivhus  
+
+Aksometri af gårdhaven og fællesfunktioner 
+
+
+Fællesskabende mellemrum 
+Projektet arbejder med en sekundær klimaskærm, som 
+et fællesskabende mellemrum. Det tager udgangspunkt 
+i at genbruge byggematerialer fra boliger i Birkeparken 
+i Vollsmose. Omorkestrering af materialerne skaber 
+genkendelighed i området, i en ny værdiskabende arkitektur 
+med byggematerialer, som står til at blive smidt ud. 
+Projektet adresserer tre hovedproblemstillinger: Der 
+arbejdes med at skabe nye sociale fællesrum. Der gøres op med de flade facader i området, Sidst undersøges, hvordan 
+demonterede byggematerialer kan genbruges med mindst 
+mulig bearbejdning samt at de i fremtiden kan skilles ad igen. 
+Ude bruges vejrbestandige materialer, og inde bruges 
+komfortskabende materialer. Plastvinduet klemmes udvendigt fast af en metalliste, indvendigt en træliste. 
+Udvendigt bruges HEB-bjælken i metal som sle, indvendigt 
+bruges træsøjler. Udvendigt står rustika-soklen rå, 
+indvendigt beklædes den med træ og skaber et siddested, 
+et sted til ophold. 
+
+
+Genbrug af tagpap 
+På baggrund af de registrerede materialer, der ved områdefornyelsen af Birkeparken i Vollsmose skes 
+gentænkt og genanvendt, identificeres et uforløst potentiale i genbrug af tagpap. Tagpap er en komposit, som primært består af bitumen (et restprodukt fra olieproduktion) og ny udvundet skiffer. 
+Det er metodisk underst, hvordan tagpap kan 
+genanvendes eller genbruges som nyt byggemateriale. I dag 
+ender det meste overskydende og nedrevet tagpap som 
+affald eller omdannes til bindemiddel i asfalt, Der fokuseredes offcuts af ny tagpap og nedrevet tagpap 
+og det underses, om monteringen og brugen af tagpap kunne gentænkes med alternative samlinger, som syning, 
+fletning og lukninger. 
+
+
+
+
+
+
+
+
+
+Forslaget er udarbejdet som en tilfelse til de eksisterende bygninger i Vollsmose og områdets uderum med fokus på det arkitektoniske potentiale i efterisolering 
+af bygningernes gavle. Det endelige gabionbyggesystem 
+er udover gavlene også oplagt til nye sekundære 
+strukturer som skure og landskabelige elementer. 
+
+
+
+Upcyclede Termoruder 
+Projektet tager udgangspunkt i nedrivningen af en stor blok 
+i Birkeparken. Der er arbejdet med genbrug af kasserede 
+termoruder, for at give dem nyt liv som bygningselementer 
+med et æstetisk særpræg. Termoruderne har en levetid på cirka 30 år hvoromkring de kan punktere og miste deres termiske kvaliteter. 
+
+
+Dog er glassets kvaliteter som klimaskærm stadig 
+gode. Ved at fylde rudernes luftlommer med uorganisk granuleret byggeaffald, er ruderne og byggeaffaldet tilført ny æstetisk værdi. Elementerne bliver ophængt i et enkelt ophængningssystem. I dette eksempel er ruden fyldt med knust glas. Glasset giver elementet en translucent overflade 
+med et rigt lysspil som kan bruges i uopvarmede rum med 
+behov for dagslys. 
+Genanvendt ukurant beton 
+Projektet underser potentialet i at bruge ukurante eller 
+beskadigede betonelementer i nybyggeriet i Vollsmose. 
+Projektet præsenter et katalog af muligheder for genbrug og 
+genanvendelse af beton i form af flere forskellige materialer 
+- alle sammen med stykker af ukurant beton som synligt 
+æstetisk tilslag. 
+Kataloget præsenterer materialers æstetiske værdier, estimeret brug af genbrugsbeton og bindemiddel i de 
+nye materialer samt en mulig brug af dem. Kataloget 
+præsenterer ikke ét svar, men en række muligheder som alt efter materialernes brug og placering i bygningen som kan 
+vurderes ud fra æstetiske og tekniske kvaliteter. 
+
+Nogle produkter præsenteret har ht CO2-aftryk også en høj æstetisk værdi og vil kunne bruges flere gange - andre 
+materialer som fx stampet jord med betonstykker kan ikke genbruges direkte, til gengæld vil CO2-aftrykket af sådanne løsninger være minimalt. 
+
+
+A.  
+Materialeprver  
+Det tektoniske alfabet.  
+B1.  
+Hooking 
+B2.  
+
+ tektoniske alfabet.  
+C1.  C2.  
+124  
+
+Ressource Blokken ¦ Design 
+Demonterbart facadeelement 
+Projektet tager udgangspunkt i en kortlægning af hvilke materialer som frembringes i forbindelse med nedrivning 
+i Vollsmose. Spildbeton fra nedtagning af hele elementer identificeres som en væsentlig problematik. Projektet 
+har således underst hvordan denne beton kan bruges til fremstilling af nye facadeelementer med historie fra det ’Gamle Vollsmose’ som kan introduceres i det ’Nye 
+Vollsmose’. Der udvikles en række facadeelementer og et 
+’design til adskillelse’-monteringsbslag så facadeelemnter nemt kan demonteres og genbruges i fremtiden 
+A. ’Tilt’ beslag B 1-2. Clamping beslag C 1-2. Hooking beslag 
+’Tilt’ beslag  detalje 
+
+
+Gruppe 6 
+Tim Viktorsson Tuva BLyng Nanna Dyrberg Larsen 
+
+
+
+Del III 
+
+For at kunne sikre direkte genbrug 
+af flest mulige materialer, skal der etableres registrerings- og klassificeringsprocesser i samspil mellem bygherrer, rådgivere, entreprenører og myndigheder. 
+
+
+
+Proces 
+
+Beboere Bygherre MyndighederMaterialekonsulent Rådgivere Entrepren NedtagerMaterialeproducenter 
+Strategi 
+
+Specifik udmøntning af en generel ghettolov 
+Hvert år i december offentliggør Trafik-, Bygge- og 
+Boligstyrelsen listen med almene boligområder, som 
+opfylder kriterierne for hhv. ’udsatte boligområder’, ’ghettoområder’ og ’hårde ghettoområder’. Kriterierne er beskrevet i den såkaldte ’ghettolov’, defineret under 
+’Bekendtgelse om afgrænsning af boligområder efter § 61 
+a, stk. 3, i lov om almene boliger m.v.’ 
+Kommuner og boligorganisationer med boligområder på listen ’hårde ghettoområder’, er omfattet af et krav om 
+udarbejdelse af en udviklingsplan. Med udviklingsplanen skal 
+boligorganisation og kommune i samarbejde redege for, hvordan andelen af almene familieboliger i det pågældende boligområde vil blive nedbragt til maksimalt 40% inden 
+2030. For at opnå de nedskrevne mål kan boligorganisation 
+og kommune tage en række fysiske tiltag og redskaber i anvendelse, herunder at sælge, ommærke eller nedrive boliger eller fortætte området med andre typer af boliger 
+eller erhverv. 
+Udviklingsplanen udlægger dermed sporet til en 10-årig radikal udviklingsproces med store sociale og miljæssige 
+konsekvenser. Det er derfor afgørende, at beslutningerne træffes på baggrund af en grundig social, økonomisk og miljømæssig analyse af det givne boligområde. For at sikre 
+en hurtig og gennemgribende ændring i beboerstrukturen, er der i dag kun ganske få krav til forudgående analyser for 
+udviklingsplanen. Udviklingsplanens konsekvenser er dog 
+så vidtrækkende, at der fremover b indfes krav om en indledende screening som skal sikre, at udviklingsplanen baseres på et godt belyst vidensgrundlag med fokus på 
+ressourcegenanvendelse fra begyndelsen. 
+Screening 
+En indledende screeningsproces skal belyse boligområdets bevaringsværdier og potentialer i fgende kategorier: 
+Screening af æstetiske og kulturhistoriske bevaringsværdier. Registrering + værdisætning af 
+eksisterende forhold, herunder arkitektoniske og landskabelige kvaliteter. 
+Screening af beboermæssige forandringspotentialer. Baseret på socioonomisk data vurderes potentialet for, at eksisterende beboergrupper kan forblive i området i nye boformer, 
+f.eks. ved at danne andelsboligforeninger eller udvikle nye almene boformer. 
+Screening af miljømæssige ressourcer. Et livscyklus-overslag kvantificerer CO2bundet i eksisterende bygningsmasse samt energi- og ressourceforbrug ved evt. nybyg. Tallene synliggør CO2-udledningen for de forskellige nedrivnings-, renoverings- og nybygscenarier og kan kvalificere beslutninger om renovering kontra nedtagning og nybyg. 
+
+Tværfagligt værksted 
+For at sikre en social, miljæssig og onomisk balanceret plan drtes resultaterne fra den indledende screening på et tværfagligt værksted hvor faglighederne, der skal udmte helhedsplanen, byder ind med deres specialviden og sikrer en balanceret strategi for 
+udviklingsplanen. En plan som tager hensyn til både sociale og miljømæssige forhold. 
+
+Udviklingsplan 
+Ministeriets eksisterende skabelon for udviklingsplanen b udvides med punkter om vurdering 
+af resultaterne i den indledende screening samt redegøre for, hvorledes flest mulige ressourcer genbruges. Målet med udviklingsplanen skal ikke alene være at nedbringe andelen af almene boliger i de pågældende boligområder, men også at reducere ressourcespild i denne proces. 
+
+Helhedsplan 
+Udviklingsplanen skal efter myndighedernes godkendelse omsættes til en helhedsplan med det mål at sikre en samlet, langsigtet lning af boligområdets problemer, herunder byggeteknisk, 
+boligsocialt og økonomisk. Screeningen og udviklingsplanen danner grundlag for udarbejdelse af helhedsplanen og den følgende detaljering af genanvendelsesstrategien. 
+
+
+Landsbyggefondens støtte 
+Med udgangspunkt i helhedsplanen kan der ses om stte til at realisere helhedsplanens 
+delprojekter – både renovering- og nedrivningssager. Ved ansøgning om støtte til nedrivning skal der foreligge en strategi for størst mulig genbrug. Forsøgsstøtteordninger bidrage til at sikre flere 
+renoveringssager og mere genbrug ved nedrivningssager ved at tilbyde incitamentsordninger, 
+hvor større støttebeløb frigives til projekter, som udfordrer gængs praksis. 
+
+
+
+Prøvetagning af skadelige stoffer 
+For at kunne fastlægge hvilke materialer der kan anvendes i den cirkulære proces med genbrug/genanvendelse af materialer skal der udtages prøver, som fortæller bygherre, arkitekt og rådgiver om hvilke skadelige stoffer der forekommer i materialerne. 
+Prvetagningen foregår ved destruktive metoder, hvor I disse tilfælde skal der foretages yderligere kortlægning af malinger, lakker og andre overfladebehandlinger skrabes af PCB’ens vandring i materialerne, hvor langt er PCB’en trængt og opsamles, hvorefter de sendes til analyse.  Der udtages ind i de øvrige materialer i bygningen. Her vil der typisk skulle 
+prver af linoleumsbelægninger, afretningslag, facadeplader, udtages borekerneprver eller boremelsprver af beton, 
+fuger, fliser, fliseklæb m.m. disse prøver udtages ved skæring teglsten eller andre relevante materialer. i materialer. 
+Ved bygningerne der indeholder meget PCB-holdigt 
+materialer, som f.eks. Brøndby Strand bebyggelsen er 
+det begrænset hvor meget materiale der kan indgå i den 
+cirkulære økonomi. 
+
+
+Genbrug af betonkonstruktioner 
+Beton består som minimum af vand, cement, sand og sten. Det er det mest anvendte byggemateriale i Danmark og i verden. Det vurderes, at cirka 8 % af den samlede globale CO2-udledning stammer fra cement- og betonindustrien17. Samtidig er beton et uundværligt byggemateriale bl.a. grundet dets formbarhed, gode mekaniske egenskaber og holdbarhed. 
+Beton i Danmark og globalt 
+Det estimeres at der i Danmark cirka produceres 4,6 mio. m3 beton årligt, hvoraf de 3,5 mio. m3 udgøres af elementer (præfabrikeret på fabrik og leveret til byggepladsen) og fabriksbeton (beton leveret med rotorvogn og støbt på byggepladsen, også kaldet in-situ støbt beton). 
+Produktionen af elementer og fabriksbeton står for en 
+samlet CO2-udlening på cirka 1.2 mio. ton pr. år18. Samtidig vurderes det, at der generes omkring 2 mio. m3 betonaffald om året. 
+Derfor er der behov for lninger, som kan reducere CO2­aftrykket for betonkonstruktioner uden at gå på kompromis 
+med kvaliteten. 
+I 2018 lancerede Dansk Beton ”Bæredygtig Betoninitiativet” 
+og i 2019 udkom et Roadmap, som beskriver i alt 35 
+initiativer, der skal bidrage til at nå målet om at reducere 
+CO2-udledningen fra betonbyggeri med 50% i 2030 sammenlignet med niveauet i 2019.  Det svarer til ca. 0,75 mio. ton CO2. Initiativerne er fordelt på 5 spor, herunder også et spor om cirkulær økonomi. 
+Beton i den cirkulære økonomi i dag 
+I Danmark anvendes over 90% af betonen fra nedrevne 
+bygninger og anlægskonstruktioner igen. Det har i mange år 
+primært været ved nedknusning og efterfgende erstatning for naturlige grusmaterialer til ubundne bærelag under veje 
+og pladser (nyttiggørelse). De seneste år er der desuden 
+kommet en et interesse for at anvende den knuste beton 
+som erstatning for sand og sten i ny beton (genanvendelse). 
+Fælles for de to metoder er dog, at der primært er tale om en 
+ressourcebesparelse og en begrænset CO2-besparelse. Det 
+skyldes, at betonens samlede CO2-aftryk særligt stammer 
+fra produktionen af cement. 
+Beton har en lang levetid, særligt når den anvendes 
+indendørs. Når bygninger med betonkonstruktioner nedrives, er det ofte pga. ændrede behov, byudvikling mv. Som alternativ til nedrivning, er der set flere eksempler på at eksisterende industribygninger (ubenyttede siloer, pakhuse, kraftværker mv.) i bynære områder, er renoveret og ombygget til nye anvendelsesformål (transformation). Dette er typisk muligt pga. netop betonkonstruktionerne, der 
+kan tilpasses de nye belastningsforhold og som stadig har 
+mange års levetid indbygget. Transformation af bygninger 
+kan dog være omkostningstungt og kræver samtidig, at byggeriet faktisk kan transformeres til den skede 
+anvendelse samt at beliggenheden er den rigtige. 
+Beton i den cirkulære økonomi i fremtiden 
+I stedet for at nedknuse betonen efter nedrivning og 
+som et mere fleksibel alternativ til transformation, 
+kan betonkonstruktionerne genbruges direkte som 
+konstruktioner i nyt byggeri. Det vil dels give en 
+ressourcebesparelse men også en CO2-besparelse, da 
+
+
+
+
+Rådata 
+
+Genbrugsstrategier skal indtænkes 
+fra udviklingsplanernes begyndelse, hvis ressourcespild skal mindskes i byfornyelsesprojekter i boligområder opført efter principperne i efterkrigstidens montagebyggeri. 
+
+
+
+Ghettolisten 
+2018 
+
+Ressource Blokken  ¦ Appendix 
+12 
+Motalavej Tingbjerg 
+1957 1958 Slagelse Kenhavn 
+m2 Nybyg i alt m2nedrivning Andet Tag Galv Facader bagside Facader indgang Byggesystem 
+Fuldmuret  Fuldmuret  Elementbyggeri  Elementbyggeri  
+Fuldmuret  Fuldmuret  Beton/tegl  Beton/tegl  
+Fuldmuret  Fuldmuret  Sandwichelement  Glas  
+Mursten  Mursten  Mursten  Mursten  
+Tagpap  Tagpap  Tagpap  Tagpap  
+Trælameller  Træskodder  Glasskal  Beton  
+
+18 % til 6 % til 
+66.707 m2 191.730 m2 
+0 % 103 % 198.359 m2 
+3 
+Ringparken 
+1963 
+Slagelse 
+17 % til 67.920 m2 
+45 % 
+30.335 m2 
+4 
+Finlandsparken 
+1963 
+Vejle 
+0 % til 
+50.463 m2 
+40 % 
+20.240 m2 
+5 
+Agervang 
+1966 Holbæk 
+Elementbyggeri 
+Sandwichelement 
+Glas 
+Gips 
+Valset zink 
+Trællameller 
+0 % til 
+48.240 m2 
+10 % 
+4.618 m2 
+6 
+Vollsmose 
+1967 
+Odense 
+Elementbyggeri 
+Sandwichelement 
+Glas 
+Mursten 
+Tagpap 
+Metallameller 
+35 % til 255.353 m2 
+56 % 
+143.759 m2 
+7 
+Stengårdsvej 
+1967 
+Esbjerg 
+Institustt beton / Fuldmuret 
+Sandwichelement 
+Glas 
+Mursten 
+Tagpap 
+Metalplader 
+20 % til 
+55.980 m2 
+33 % 18.369 m2 
+
+8 
+Bispehaven 
+1967 
+Aarhus 
+Elementbyggeri 
+Sandwichelement 
+Glas 
+Metalplader 
+Tagpap 
+Stålværn 
+36 % til 78.854 m2 
+88 % 
+69.616 m2 
+9 
+Gellerupparken 1968 Aarhus 
+Elementbyggeri 
+Glas 
+Glas 
+Metalplader 
+Tagpap 
+Betonsle 
+41 % til 
+203.275 m2 
+75 % 153.052 m2 
+10 
+Sundparken 1968 Horsens 
+Elementbyggeri 
+Beton/tegl 
+Beton/tegl 
+Mursten 
+Valset zink 
+Glasskal 
+0 % til 
+21.551 m2 
+0 % 
+11 
+Skovvejen 
+1971 
+Kolding 
+Elementbyggeri 
+Sandwichelement 
+Sandwichelement 
+Mursten 
+Tagpap 
+Trælameller 
+22 % til 
+77.021 m2 
+23 % 17.545 m2 
+12 
+Munkebo 
+1973 
+Kolding 
+Elementbyggeri 
+Beton/tegl 
+Beton/tegl 
+Metalplader 
+Tagpap 
+Shingles 
+6 % til 
+50.439 m2 
+25 % 
+12.519 m2 
+13 
+Taastrupgård 
+1973 
+He Taastrup 
+Elementbyggeri 
+Sandwichelement 
+Glas 
+Beton 
+Tagpap 
+Beton 
+28 % til 
+79.157 m2 
+49 % 
+38.800 m2 
+14 
+Gadehavegård 
+1977 
+He Taastrup 
+Elementbyggeri 
+Sandwichelement 
+Glas 
+Beton 
+Tegl 
+Beton 
+26 % til 
+73.240 m2 
+12 % 
+8.511 m2 
+
+Mjølnerparken 1984 Kenhavn 
+Elementbyggeri 
+Beton/tegl 
+Beton/tegl 
+Mursten 
+Tegl 
+Gelænder i stål of træ 
+4 % til 
+45.050 m2 
+20 % 
+9.020 m2 
+
+
+
+
+
+1. Motalavej 
+Byggeår  1957-59 og 1961-66  
+Renovering  1992 og 2013  
+Kommune  Slagelse  
+
+Boligselskab BoligKors 
+Motalavej ligger nord for den gamle bydel i Kors langs med 
+en motorvej på den nordlige side. 
+Området 
+Bebyggelsen består af tre afdelinger der fremstår som tre 
+individuelle bebyggelser. De tre afdelinger samles omkring 
+Motalavej i midten, hvor der også ligger et nyt kvartershus 
+og et mindre butikstorv. 
+Bygningerne 
+Afdeling 35 ligger i hævet terræn nord for Motalavej, langs med motorvejen. Afdelingen består af 16 blokke i fire 
+etager udlagt i en karrelignende struktur og t for hver 
+karré er der parkeringsarealer og garager. Blokkene har 
+indgang fra nord eller t og to af blokkene i den tligste 
+karré er bygget om til ældreboliger. Mellem blokkene er der grønne opholdsarealer og stisystemer. Blokkene i afdeling 35 er fuldmurede i gule mursten og gavlene er blevet efterisoleret med en skalmur i gule tegl. Tagene er lave, helvalmede og belagt med skifereternit. I karrégrupperne 
+er tre af blokkene bygget sammen i hjnerne og der er her 
+lavet en gennemgang. På facaderne mod vest og syd er 
+altanerne blevet lukket med inddækninger i glas og under 
+vinduerne er der brystningsplader. Stuelejlighederne har direkte udgang til privat have. På østfacaderne er der franske altaner og indgangene er markeret med et vindfang i beton. Butikstorvet og garagerne er også i gule mursten. 
+Antal boliger 804 (936) Bolig m2i alt 66.707 
+Afdeling 15 ligger syd for Motalavej og består af 13 
+blokke i to til tre etager som ligger i rækker vinkelret på 
+Motalavej. Alle blokkene har indgang fra nord eller øst. 
+Blokkene i afdeling 15 er fuldmuret og har facader i gule 
+tegl, indækkede altaner, fibercement plader på gavlene og betontagstens tag. 
+Afdeling 21 ligger syd for Motalavej og t for Egersundvej 
+og består af fire blokke i to til fire etager i forskellige længder. 
+Blokkene i afdeling 21 er opft senere og i betonelementer og har facader beklædt med gule skærmtegl, altaner med 
+buede inddækninger i glas, zink og trælægter. De lave helvalmede tage er beklædt med mørke bølgeplader. 
+Tilstand i dag 
+Afdeling 15 og afdeling 21 er renoveret for nyligt. Motalavej er fra 2010 til i dag reduceret fra 910 til 804 familieboliger.  
+
+Bygningssystem 
+Blokkene i afdeling 35 er 
+fuldmurede i gule mursten 
+Gavl Primært beklædt med gule tegl Facader Indgangssiderne er beklædt med gule mursten 
+Bagsiderne er beklædt med gule mursten 
+Tag Valmede sadeltag 
+med skifereternit. 
+Andre Vindfang i beton og træ 
+ved indgange. 
+
+0 m 200 m 
+Typologi 
+Bebyggelsen består af 16 blokke i fire etager (Afdeling 35), 13 blokke i to til tre etager (Afdeling 15) og fire blokke i to til fire etager i forskellige længder (Afdeling 21). 
+Udviklingsplanen  2030 
+BoligKors har fået dispensation til at nedbringe andelen af 
+almene familieboliger til 58% inden 2030.  
+Frem mod 2030 skal derpå Montalavej: 
+• 
+Nedrives 164 almene familieboliger i afdeling 35. 
+
+• 
+Ommærkes til ungdomsboliger. 
+
+
+Udviklingsplanen vil bl.a.: 
+• Skabe udgang til grne arealer fra indgangssiden i 
+stueetagen. 
+• Skabe variation og forbindelser gennem gårdrum. 
+N  
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+18 % nedrivning  
+Antal m2til nedrivning  
+11.688 m2  
+
+0 % nybyg Antal m2 til nybyg 0 m2 
+
+
+Bygningssystem 
+Blokkene er fuldmurede i gule 
+mursten. 
+Gavl 
+Gule mursten 
+Facader 
+Indgangssiderne er beklædt med gule mursten 
+Bagsiderne er beklædt med gule mursten 
+Tag 
+Sadeltag med tagpap 
+
+0 m 200 m 
+Typologi 
+Bebyggelsen er varieret med både hhus, åbne karré­
+bebyggelser i tre etager samt institutioner i én etage. 
+Udviklingsplanen  2030 
+Udviklingsplanen for Tingbjerg/Utterslev sker som en forlængelse af allerede planlagte ændringer og greb i 
+området. 
+Frem mod 2030 skal der i Tingbjerg/Utterslevhuse: 
+• 
+Ombygges til ungdomsboliger 
+
+• 
+Ombygges til ældreboliger 
+
+• 
+Sammenlægges 54 familieboliger 
+
+• 
+Opfes 1000 private boliger 
+
+• 
+Nedrives 42 boliger 
+
+• 
+Opføres erhverv, institutioner og almene boliger. 
+
+
+Andet 
+Hvidmalede skoder ved 
+franske altaner. 
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+
+6 % nedrivning 
+Antal m2til nedrivning 
+12.350 m2 
+103 % nybyg 
+Antal m2 til nybyg 198.359 m2 
+
+
+Byggesystem 
+Bygningssystemet er tidstypisk 
+elementbyggeri i beton. 
+Gavl 
+Rlige og brunlige mursten 
+Facader 
+Indgangssiderne er primært beklædt med brune tegl 
+Bagsiderne er primært beklædt med aluminiumsplader 
+Tag 
+Sadeltag med hvide eternitplader 
+
+0 m 200 m 
+Typologi 
+Bebyggelsen består af i alt 24 blokke i fire etager opdelt i to rækker. Ti af blokkene ligger parallelt med hinanden, 
+skråtstillede langs Nordre Ringgade og de vrige 14 blokke 
+er placeret parvist i en L-form. 
+Udviklingsplanen  2030 
+Frem mod 2030 skal der i Ringparken 
+• 
+Frasælges 136 familie boliger til privat køber. 
+
+• 
+Frasælge grunde til opførsel af 311 nye boliger. 
+
+• 
+Fortættes med almene ungdomsboliger. 
+
+• 
+Nedrives to blokke og nedrenoveres til 1-2 etager 
+
+
+svarende til 149 boliger. 
+Udviklingsplanen vil bl.a.: 
+• 
+Frasælge grundarealer til erhverv. 
+
+• 
+Føre nyt vejnet gennem Ringparken. 
+
+• 
+Skabe tre nye kvarter-identiteter. 
+
+
+Vindfang i glas og stål ved 
+indgange. 
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+
+17 % nedrivning 
+Antal m2til nedrivning 
+11.659 m2 
+45 % nybyg 
+Antal m2 til nybyg 30.335 m2 
+
+
+Byggesystem  Facader  
+Bygningssystemet er tidstypisk  Indgangssiderne er beklædt  
+elementbyggeri i beton.  med lyse tegl  
+Bagsiderne er primært rumstore  
+glaspartier  
+Tag  
+Fladt tag med tagpap.  
+Gavl  
+Lyse tegl  
+
+Andet 
+Altaner af fiberbeton 
+
+0 m 200 m 
+Typologi 
+Eksisterende bebyggelse Nedrivning 
+
+Finlandsparken består af 11 boligblokke i fem etager 
+Omkringliggende bebyggelse Delvis nedrivning 
+
+placeret i vinkelpar omkring et udendørsrum. 
+Vejnet Nybyg 
+
+Den nordligste blok er længere og den sydligste blok står 
+Grne områder Delvis nybyg 
+
+alene og afgrænser bebgyggelsen. 
+Udviklingsplanen 2030 
+Finlandsparken har fået dispensation til at nedbringe deres andel af almene familieboliger til maksimum 68% 0 % nedrivning Antal m2til Frem mod 2030 skal der i Finlandsparken nedrivning 
+• 
+Da der er givet dispensation skal antallet af almene 0 m2 familieboliger reduceres til 68%. 
+
+• 
+Omdannes fra fælleslokaler til erhverv. 
+
+• 
+Ombygges 17 boliger til almene ældreboliger. 
+
+• 
+Fortættes med  219 nye private ungdoms- og/eller ældreboliger 
+
+
+Udviklingsplanen vil bl.a.: 40 % nybyg 
+• 
+Åbne området op mod andre kvartere mod nordvest og syd. Antal m2 til nybyg 
+
+• 
+Samle områdets fælleslokaler i beboerhuset. 20.240,7 m2 
+
+• 
+Fortætte området med tæt-lav bebyggelse og blandede 
+
+
+boligtyper.   
+
+
+Byggesystem 
+Bygningssystemet er tidstypisk 
+elementbyggeri i beton. 
+Der er desuden en h kælder i 
+betonelementer og søjler. 
+Gavl 
+Hvidpudsede 
+Facader 
+Indgangssiderne er primært pudsede og hvidmalede 
+Bagsiderne består i here grad af rumstore vinduespartier 
+Tag 
+Sadeltag og tagetage beklædt med valsede 
+zinkplader 
+Andet 
+Trælameller på facade i stueplan 
+
+0 m 200 m 
+Typologi 
+Agervang er opft i to afdelinger og udges af i alt 11 
+blokke udlagt i fire paralelle rækker. Afdeling 123 (Engvang) mod nord består af 7 blokke i fire etager og afdeling 166 (Havevang) mod syd består af fire lange blokke i fem etager. 
+Udviklingsplanen  2030 
+Agervang har fået dispensation fra 40 % til 56 %. 
+Frem mod 2030 skal der i Agervang: 
+• 
+Ommærkes mere end 100 boliger til ungdomsboliger. 
+
+• 
+Ommærkes 24 boliger til ældreboliger. 
+
+• 
+Sælges 88 eksisterende familieboliger. 
+
+• 
+Fortættes ved salg af byggeret til 61 private boliger. 
+
+Udviklingsplanen vil bl.a.: 
+
+• 
+Etablere private og kommunale funktioner. 
+
+• 
+Skabe et stiforl så Agervang forbindes til de omkringliggende villakvarterer, Holbæk Have samt 
+
+
+Fælleden.  
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+
+0 % nedrivning 
+Antal m2til nedrivning 
+0 m2 
+10 % nybyg 
+Antal m2 til nybyg 4.618 m2 
+
+
+Byggesystem 
+Bygningssystemet er tidstypisk 
+elementbyggeri i beton. 
+Der er desuden en h kælder i 
+betonelementer og -søjler. 
+Ressource kortlægning 
+Se også den udvidede ressourcekortlægning i kapitlet om Vollsmose side XX 
+Gavl 
+Gule tegl 
+Facader 
+Indgangssiderne er beklædt med betonplader 
+Bagsiderne består primært af rumstore vinduespartier 
+Tag 
+Afrundede tage 
+med tagpap. 
+Andre 
+Metalpersienner på  vinduerne i opgangene 
+
+0 m 200 m 
+Typologi 
+Vollsmose består af en blanding af rækkehuse, boligblokke 
+og højhuse.  
+Udviklingsplanen  2030 
+Blokkene mod syd og t udg det område som 
+karakteriseres som ”hård ghetto” og rummer 2.872 almene familieboliger samt 54.000 m2 erhverv. Målet er at der inden 2030 nedrives 1000 familieboliger samt ca 30.000 m2 
+erhverv som erstattes af 1600 nye ikke-almene boliger samt 
+30.000m2 nybygget erhverv. 
+Frem mod 2030 skal der iVollsmose: 
+• 
+Nedrives 1000 almene boliger. 
+
+• 
+Bygges 1.600 private familieboliger. 
+
+Udviklingsplanen vil bl.a.: 
+
+• 
+Føre en vej gennem området. 
+
+• 
+Arbejde for en udvidelse af letbanen 
+
+• 
+Blande flere funktioner i den ekelte bygning. 
+
+
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+
+35 % nedrivning 
+Antal m2til nedrivning 
+89.849 m2 
+56 % nybyg 
+Antal m2 til nybyg 143.759 m2 
+
+
+Byggesystem 
+Bygningssystemet i det he punkthus 
+(nr 8) er insitustøbt beton. I længehuset (nr. 10) er systemet betonelementer 
+med fuldmuret beton facade og gavle 
+Ressource kortlægning 
+Se også den udvidede ressourcekortlægning i kapitlet om Stengårdsvej side XX 
+Gavl 
+Gule tegl 
+Facader 
+Indgangssiderne er beklædt med aluminiumsplader 
+Bagsiderne består primært af rumstore vinduespartier 
+Tag 
+Fladt tag med 
+tagpap. 
+Metalplader 
+
+0 m 200 m 
+Typologi 
+Langs Stengårdsvej ligger 21 tre etagers boligblokke på 
+række i en karréstruktur. Mod syd ligger et højhus på 8 
+etager 
+Udviklingsplanen  2030 
+Frem mod 2030 skal der på Stengårdsvej 
+• 
+Nedrives 116 boliger 
+
+• 
+Ommærkes 160 boliger til ældre- og ungdomsboliger. 
+
+• 
+Nybygges 190 ungdoms- og private boliger.. 
+
+• 
+Frasælges 100 boliger. 
+
+Udviklingsplanen vil bl.a.: 
+
+• 
+Etablering af nye gårdrum og udearealer. 
+
+• 
+Renovering af lejligheder og installering af elevatorer 
+
+• 
+Nyt bydelshus 
+
+• 
+Åbne området op gennem infrastruktur. 
+
+
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+
+20 % nedrivning 
+Antal m2til nedrivning 
+11.215 m2 
+33 % nybyg 
+Antal m2 til nybyg 18. 369 m2 
+
+
+Byggesystem  Facader  
+Bygningssystemet er tidstypisk  Indgangssiderne er beklædt  
+elementbyggeri i beton.  med gule skærmtegl.  
+Der er desuden en h kælder i  
+betonelementer og -søjler.  Bagsiderne har primært  
+rumstore vinduer  
+Tag  
+Fladt tag med tagpap  
+Gavl  
+Gule skærmtegl  
+
+Andet 
+Stålværn langs gangbro 
+
+0 m 200 m 
+Typologi 
+Eksisterende bebyggelse Nedrivning 
+
+I Bispehaven er der syv boligblokke med syv etager og tolv 
+Omkringliggende bebyggelse Delvis nedrivning 
+
+bolig blokke med fem etager. Der er desuden  fire to-etagers 
+Vejnet Nybyg 
+
+rækkehuse i området. 
+Grne områder Delvis nybyg 
+
+Udviklingsplanen 2030 
+(+ tryghedsrenovering 2017) Bispehaven består I dag af 871 boliger – alle familieboliger. 36 % nedrivning Inden 2030 skal der rives 3 store blokke og 3 lave blokke Antal m2til ned for at leve op til regeringens påbud om maks. 40% nedrivning familieboliger. 28.495 m2 
+Frem mod 2030 skal der i Bispeparken 
+• 
+Nedrives 318 familieboliger 
+
+• 
+Opføres 530 nye private boliger 
+
+• 
+Opføres 270 nye erhvervsenheder 
+
+• 
+Opfes nyt bydelshus - 25 enheder 
+
+• 
+Generel renovering af blokke både udvendigt og 88 % nybyg 
+
+
+indvendigt. Antal m2 til nybyg 69.616 m2 
+Udviklingsplanen vil bl.a.: 
+• 
+Åbne gavlene op på de blivende blokke 
+
+• 
+Udfører en såkaldt tryghedsrenovering hvor bl.a. infrastruktur, åbne pladser og belysning bearbejdes. 
+
+
+
+
+Byggesystem  Facader  
+Bygningssystemet er tidstypisk  Indgangssiderne har primært  
+elementbyggeri i beton.  rumstore vinduer  
+Der er desuden sler i  
+stueplan samt insitustt  Bagsiderne har primært  
+parkeringskælder.  rumstore vinduer  
+Tag  
+Fladt tag med tagpap  
+Gavl  
+Malede metalplader  
+
+Andet 
+Betonsler 
+
+0 m 200 m 
+Typologi 
+Eksisterende bebyggelse Nedrivning 
+
+Der er i Gellerupparken/Toveshøj 20 boligblokke med fire 
+Omkringliggende bebyggelse Delvis nedrivning 
+
+etager og 7 bolig blokke med otte etager. 
+Vejnet Nybyg 
+
+Alle blokkene er længebebyggelser og er placeret på langs 
+Grne områder Delvis nybyg 
+
+af hinanden. 
+Udviklingsplanen  2030 
+Der er i dag 2055 almene familieboliger i området. Siden 
+2010 er der allerede blevet revet 5 blokke ned, igangsat 41 % nedrivning renovering af 3 blokke og nyopført store bebyggelser Antal m2til omkring Karen Blixens Boulevard. nedrivning 
+83.884 m2 
+
+Frem mod 2030 skal der i Gellerupparken/Toveshøj 
+• 
+Nedrives yderligere 600 familieboliger 
+
+• 
+Opføres 903 nye private boliger 
+
+• 
+Opføres 231 nye erhvervsenheder. 
+
+• 
+Renoveres ca. 1166 af de resterende familieboliger. 
+
+
+Udviklingsplanen vil bl.a.: 75 % nybyg 
+• 
+Skabe kvartere med hver deres karakteristika 
+
+• 
+Omdanne en eller flere eksisterende blokke til Antal m2 til nybyg punkthuse. 153.052 m2 
+
+• 
+Fortætte med til tæt-lavt boligbyggeri langs byparken. 
+
+• 
+Skabe boliger til alle boformer 
+
+
+
+
+Byggesystem  Facader  
+Bygningssystemet er tidstypisk  Indgangssiderne er beklædt  
+elementbyggeri i beton.  med lyse tegl  
+Bagsiderne beklædt med lyse  
+tegl  
+Tag  
+Tag i valsede zinkplader  
+Gavl  
+Lyse tegl  
+
+Andet 
+Indgangspartier med vindfang 
+af galvaniseret stål og glas. 
+*Det er endnu ikke udpeget hvilke blokke udviklingsplanen berer 0 m 200 m 
+
+Typologi 
+Eksisterende bebyggelse Nedrivning 
+
+Sundparken består af fire parallelle blokke i to etager, 15 
+Omkringliggende bebyggelse Delvis nedrivning 
+
+blokke i fire etager samt tre boligblokke mod syd i fire etager. 
+Vejnet 
+Nybyg Grne områder 
+Delvis nybyg 
+
+Udviklingsplanen 2030 
+Sundparken har fået dispensation om kun at nedbringe 
+andelen af almene familieboliger til 60% 0 % nedrivning Antal m2til 
+Frem mod 2030 skal der i Sundparken nedrivning 
+• 
+Sælges eller nedrives 139 almene boliger 0 m2 
+
+• 
+Nybygges en mængde private boliger 
+
+• 
+Tilflyttes ca. 1000 nye kommunale arbejdspladser til 
+
+
+området 
+• Etableres en ny erhvervsudviklingspark 
+Udviklingsplanen vil bl.a.: 
+• Der arbejdes i Sundparken med to scenarier hvoraf den 0 % nybyg ene fokusere på nedrivning og nybyg og den anden kigger på mulighederne for at opdatere de eksisterende Antal m2 til nybyg boliger og gøre dem mere attraktive. 0 m2 
+
+
+
+
+11. Skovvejen/        Skovparken 
+Byggeår  1971-1974  
+Renovering  1995-1998 + 2006-2009  
+Kommune  Kolding  
+
+Boligselskab BOVIA, Boligselskabet Kolding 
+Boligkvarteret Skovparken/Skovvejen ligger nord for 
+centrum af Kolding og består af tre boligafdelinger. 
+Området 
+Skovvejen/Skovparken består af i alt 33 blokke på tre og fire etager med orientering mod nord-syd eller øst-vest placeret vinkelret omkring fem stikveje. Skovvejen deler 
+området Skovparken /Skovvejen i to og danner centrum med et lille butikstorv og institutioner samt en to etagers 
+bygning.  Der er parkering langs vejene og tre underjordiske parkeringskældre med garager i Skovparken. Der er både grønne områder inde mellem og omkring bebyggelserne. 
+Udearealerne mellem blokkene er indrettet på forskellig vis med stisystemer, legeområder, ophold og varierende 
+beplantning. 
+Bygningerne 
+Der er 18 blokke på tre etager og tre blokke på fire etager i Skovparken. De er opført i betonelementer og er efter en 
+renovering i 1998 beklædt med metalplader i grå nuancer, 
+farvede vinduesrammer og gulmalede plader på gavlene. 
+Blokkene har inddækkede altaner, hvor nogle går om hjnet, og lejlighederne i stueetagen har udgang til egen have, mens 
+taglejlighederne har tagterrasser. Tagene hælder til den ene 
+side, og på nogle af bygningerne giver tagboliger et stort 
+tagudhæng understøttet af søjler i metal ved gavlen. Skovvejen består af 8 blokke på 3 etager, 4 blokke på 4 
+Antal boliger 1085 Bolig m2i alt 77.021 Antal beboere 2.324 
+etage og en bygning på 2 etager. Blokkene er ligeledes 
+betonelementbyggeri som er beklædt med metalplader i grå 
+nuancer og gavle med gule og orange skærmtegl. Blokkene 
+har en h kælder og i nogle tilfælde tagboliger med 
+tagaltaner omkring. Den 2 etagers bygning er beklædt med gult murværk og har svalegang på ankomstsiden.  
+Tilstand i dag 
+Udviklingsplanen for Skovejen/Skovparken fokuserer på at 
+skabe en mere sammenhængende infrastruktur. 
+
+Byggesystem 
+Bygningssystemet er tidstypisk 
+elementbyggeri i beton. I 
+stueplan hviler betonbjælker på 
+betonskiver. 
+Gavl 
+Primært gule tegl 
+Facader 
+Indgangssiderne er beklædt med betonplader i grå nuancer 
+Bagsiderne er beklædt med betonplader i grå nuancer 
+Tag 
+Fladt tag med 
+tagpap. 
+Andre 
+Trælameller foran vinduer i kælder og opgang 
+
+1 
+0 m 200 m 
+Typologi 
+Skovvejen/Skovparken består af i alt 33 blokke på tre og fire etager. 
+Udviklingsplanen  2030 
+I de to bebyggelser er der i dag samlet 1028 boliger hvoraf 
+de 944 er almene familieboliger. 
+Frem mod 2030 skal der i Skovejen/Skovparken: 
+• reduceres fra 944 til 465 almene familieboliger ved 
+blandt andet at nedrive 243 boliger. 
+• 
+Sælges 35 boliger 
+
+• 
+Ommærkes 150 boliger til ældre- og ungdomsboliger. 
+
+• 
+Fortættes med 153 nye private boliger. 
+
+
+Udviklingsplanen vil bl.a.: 
+• Skabe et nyt netværk af veje, en hovedgade og 
+kvarterspladser. 
+• Lave et centralt fællesområde med boldbane og 
+bydelshus. 
+• Introducere nye boligtyper. 
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+
+22 % nedrivning 
+Antal m2til nedrivning 
+16.907 m2 
+23 % nybyg 
+Antal m2 til nybyg 17.545 m2 
+
+
+Byggesystem 
+Bygningssystemet er tidstypisk 
+elementbyggeri i beton. 
+Gavl 
+Aluplader 
+Facader 
+Indgangssiderne er beklædt med lyse tegl 
+Bagsiderne er beklædt med lyse tegl 
+Tag 
+Sadeltag med 
+tagpap. 
+Shingles 
+
+0 m 200 m 
+Typologi 
+Munkebo består af 23 længehuse i varierende etagehøjde som ligger i en karréstruktur omkring flere indre gårdrum og omgivet af et fælles grønt areal. 
+Udviklingsplanen 2030 
+Frem mod 2030 skal der i Munkebo 
+• Reduceres antallet af almene familieboliger til 60%, der 
+der er givet dispensation. 
+• 
+Nedrives 36 boliger svarende til en blok. 
+
+• 
+Omærkes boliger til ældre- og ungdomsboliger, tilgængelighedsboliger 
+
+• 
+Fortættes og frasælges 
+
+
+Udviklingsplanen vil bl.a.: 
+• Skabe stier og forbindelser til omkringliggende 
+områder og skoler. 
+• 
+Opgradere Cypresvej til en sikker skolevej. 
+
+• 
+Tilbyde nye boligtyper og ejerformer. 
+
+
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+
+6 % nedrivning 
+Antal m2til nedrivning 
+3.146,8 m2 
+25 % nybyg 
+Antal m2 til nybyg 
+12.519,5 m2 
+
+Byggesystem 
+Bygningssystemet er tidstypisk 
+elementbyggeri i beton. Nogle 
+af blokkene har insitustte 
+parkeringskældre. 
+Gavl 
+Gule betonplader 
+Facader 
+Indgangssiderne er beklædt med gule betonplader 
+Bagsiderne består primært af rumstore vinduespartier 
+Tag 
+Valmede tage beklædt med bgeeternit 
+
+0 m 200 m 
+Typologi 
+Taastrupgård udges af otte forskudte men 
+sammenbyggede blokke i tre etager og 30 korte blokke i tre etager fordelt på to rækker. 
+Udviklingsplanen  2030 
+Frem mod 2030 skal der i Taastrupgård 
+• 
+Nedrives 188 boliger inden 2024 og 50 inden 2027 
+
+• 
+Sælges grundstykke til ny institution. 
+
+• 
+Reduceres 17 boliger ved sammenlægning. 
+
+• 
+Ombygges 28 boliger til ældreboliger. 
+
+• 
+Omærkes 60 boliger til ungdoms- og ældreboliger. 
+
+Udviklingsplanen vil bl.a.: 
+
+• 
+Åbne boligområdet op trafikalt. 
+
+• 
+Skabe et nyt kommunalt aktivitetshus. 
+
+• 
+Opdele omårdet i tre bykvarterer. 
+
+
+Andet 
+Beton værn ved altaner. 
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+
+28 % nedrivning 
+Antal m2til nedrivning 
+22.047 m2 
+49 % nybyg 
+Antal m2 til nybyg 38.800 m2 
+
+Byggesystem 
+Bygningssystemet er tidstypisk 
+elementbyggeri i beton. 
+Gavl 
+Grå og hvide betonplader 
+Facader 
+Indgangssiderne er beklædt med grå og hvide betonplader 
+Bagsiderne består primært af rumstore vinduespartier 
+Tag 
+Rejste tage med rytterpartier beklædt med re 
+teglsten. 
+
+0 m 200 m 
+Typologi 
+Gadehavgård består af 19 blokke i fire etager i varierende 
+længder placeret vinkelret i forhold til hinanden omkring 
+åbne gårdrum. 
+Udviklingsplanen  2030 
+Frem mod 2030 skal der i Gadehavegård 
+• 
+Nedlægges og sammenlægges 100 et-værelsesboliger. 
+
+• 
+Sælges 75 boliger med henblik på anden ejerform. 
+
+• 
+Fortættes med 54 almene ældreboliger. 
+
+• 
+Frasælges byggegrunde til fortætning med 100 private familieboliger 
+
+
+Udviklingsplanen vil bl.a.: 
+• Etablere nyt kvartershus og campushus 
+Andet 
+Beton værn ved altaner. 
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+
+26 % nedrivning 
+Antal m2til nedrivning 
+19.312 m2 
+12 % nybyg 
+Antal m2 til nybyg 8.511 m2 
+
+Byggesystem 
+Bygningssystemet er tidstypisk 
+elementbyggeri i beton. 
+Tag 
+Helvalmet sadeltag re teglsten 
+Facader 
+Indgangssiderne er beklædt med re tegl 
+Bagsiderne er beklædt med re tegl 
+Facader 
+Beklædt med re tegl 
+
+0 m 200 m 
+Typologi 
+Bebyggelsen består af 16 boligblokke i 5 etager orienteret 
+omkring 4 gårdrum som delvist åbne karréer. 
+Udviklingsplanen  2030 
+Frem mod 2030 skal der i Mjølnerparken: 
+• 
+Bygges ungdomsboliger 
+
+• 
+Bygges tagboliger. 
+
+Udviklingsplanen vil bl.a.: 
+
+• 
+Etablere en butiksgade langs Mimersparken. 
+
+• 
+Skabe gennemgående veje gennem bebyggelse. 
+
+• 
+Etablere et ny Kvarterhus ud mod Mimersparken. 
+
+
+Andet 
+Metalaltaner med værn af 
+hvidmalet træ. 
+Eksisterende bebyggelse  Nedrivning  
+Omkringliggende bebyggelse  Delvis nedrivning  
+Vejnet  Nybyg  
+Grne områder  Delvis nybyg  
+
+4 % nedrivning 
+Antal m2til nedrivning 
+12.350 m2 
+20 % nybyg 
+Antal m2 til nybyg 198.359 m2 
+
+
+--
+-
+-
+
+-
+--
+--
+--
+Ressource Blokken 
+Upcycling af 60’erne og 70’ernes almene byggeri 
+
+
+

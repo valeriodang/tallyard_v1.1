@@ -1,0 +1,1435 @@
+﻿White Paper
+ 
+ 
+PRODUCT-AS-A-SERVICE AND CIRCULARITY
+ 
+DEVELOPING CONTRACT GUIDELINES FOR BUILDINGS IN EUROPE                                   
+
+Circular Buildings Coalition Blueprint Project
+
+
+
+Disclaimer
+This white paper is part of the Circular Buildings Coalition’s ‘Blueprint Projects’ initiative, which 
+aims to support organisations that transform the built environment by addressing a key leverage 
+point for change. The views, information, and opinions expressed in this publication are solely 
+those of the author(s) and do not necessarily represent those of the CBC and its co-initiators. 
+The author(s) is solely responsible for the content and accuracy of the information presented 
+herein.
+
+The Circular Buildings Coalition (CBC) is a collaboration that convenes industry leaders who aim 
+to accelerate the deployment of circular solutions as a way of securing a global built environment 
+operating within planetary boundaries while ensuring a just transition. The CBC is an initiative of 
+Metabolic, WorldGBC, WBCSD, EMF, Circle Economy and Arup. The CBC is funded by Laudes 
+Foundation.
+
+For more visit: circularbuildingscoalition.org 
+
+
+
+Authors
+Emma Wink, Project Lead of the SET Alliance, at BASE
+Dimitris Karamitsos, Senior Energy Efficiency Business Developer Specialist at BASE
+Livia Miethke, Senior Sustainable Energy Finance Specialist at BASE
+Carla Della Maggiora, Senior Climate and Environmental Finance Specialist at BASE
+
+About BASE
+The Basel Agency for Sustainable Energy (BASE) is a Swiss not-for-profit foundation and 
+Specialised Partner of the United Nations Environment. The expertise and mission of BASE is 
+in developing innovative, actionable financial strategies and market-driven solutions to unlock 
+investment in climate change solutions. BASE builds bridges between sectors and actors at the 
+nexus between climate solutions, finance and international development. The actionable solutions 
+that the foundation designs, develops and implements seek to be disruptive, self-sustaining and 
+replicable.
+
+About the global SET Alliance
+The SET Alliance serves as a multi-stakeholder community of experts dedicated to furthering 
+servitisation across sectors around the world. The focus of the Alliance is accelerating the use of 
+service-based models for clean and energy-efficient technologies. The SET Alliance builds on the 
+work completed by the Cooling-as-a-Service (CaaS) and the Efficiency-as-a-Service (EaaS) initiatives, 
+both led by BASE since 2018 and 2020, with the support of the Clean Cooling Collaborative 
+and the European Commission, respectively. The Alliance is made up of the secretariat (BASE), 
+an esteemed steering committee (Kaer, Energy Partners Refrigeration, Atmosphere, Advanced 
+Services Group, Aston Business School and Oxford University) comprising non-governmental 
+organisations, private sector entities and academic institutions, and the Alliance’s supporting 
+members and outreach partners.
+
+Acknowledgements: Circular Buildings Coalition 
+The circular buildings coalition is an initiative by Metabolic, Circle Economy, the World Business 
+Council for Sustainable Development, the World Green Building Council, the Ellen MacArthur 
+Foundation and Arup to accelerate the transition to a circular economy in the built environment. 
+The coalition is funding the creation of this Blueprint Project.
+
+DESCRIPTORS
+SECTOR Circular Economy and Product as a Service models
+
+REGION Europe; Global
+
+KEYWORDS Circular business models, circular economy, clean & energy efficient 
+solutions, servitisation, Product-as-a-Service (PaaS), Cooling as a 
+Service (CaaS), Efficiency as a Service (EaaS), pay-per-use, pay-per-
+outcome, advanced services, Product-Service Systems (PSS), service 
+layer of buildings, built environment, contract development.
+
+CONTACTS Emma Wink; emma.wink@energy-base.org
+Dimitris Karamitsos; dimitris.karamitsos@energy-base.org
+Livia Miethke; livia.miethke@energy-base.org
+
+3
+
+
+
+Table of Contents
+
+EXECUTIVE SUMMARY 										          5
+
+1. SOLUTION OVERVIEW 										          7
+1.1 Introduction											           7
+1.2 PaaS and Circularity 										          9
+1.3 Impact objectives 										          13
+1.4 Supporting PaaS development: The role of BASE 					     13
+
+2. FEASIBILITY ANALYSIS 										         15
+2.1 Methodology 											           15
+2.2 Findings: PaaS, a growing trend 								       16
+2.3 Findings: PaaS contract development 							       18
+2.4 Findings: Key aspects for PaaS Contract Guidelines					    19
+2.5 Findings: Unique stakeholder needs							       29
+2.6 Risk mitigation plan										          30
+
+3. DIFFUSION												            34
+3.1 Phase two objectives										          34
+3.2 Integration											           35
+3.3 Launching the guidelines									         35
+3.4 Monitoring and Feedback									         35
+3.5 Call to Action											           35
+
+REFERENCES												            36
+
+4
+
+
+
+EXECUTIVE SUMMARY
+The relevance of understanding and addressing environmental impacts, along with incorporating circu-
+larity, has significantly increased for businesses and financiers in the buildings and construction industry. 
+These entities are confronted with various factors, including a changing regulatory landscape, shifting 
+consumer demands, resource scarcity, rising costs, environmental concerns, supply-chain resilience and 
+the pursuit of efficiency and sustainability goals. 
+
+Accelerating the integration of circular principles in the built environment can not only hasten decar-
+bonisation but also enhance resource productivity, asset utilisation and overall value, providing social, 
+environmental and economic benefits.
+
+In the context of the built environment, Product-as-a-Service (PaaS) business models shift customer own-
+ership to value-based consumption of products and systems. PaaS is particularly suited to the ‘services 
+layer’ of buildings, covering mechanical, electrical and plumbing systems like lighting, cooling and heat-
+ing, and it is a growing trend globally. 
+
+While PaaS is often recognised as a ‘circular’ business model, because ownership remains with dedicat-
+ed providers, circularity and environmental impact reduction are not inherent; they require intentional 
+design and adoption of specific practices. However, it remains unclear how best to transition to more 
+circular PaaS models and there is still a lack of understanding of how circularity fits into PaaS contracts.
+
+ 
+
+5
+
+
+
+To tackle this challenge, the BASE foundation and the global Servitisation for Energy Transition (SET) 
+Alliance are proposing the development of guidelines and contractual clauses. These resources aim to 
+help stakeholders better understand and incorporate circular practices into PaaS contracts, focusing spe-
+cifically on the services layer of buildings. 
+
+Developing the necessary capabilities and ecosystem to enhance the circularity of PaaS models is un-
+derstood as an ongoing process requiring support. The main goal of this solution is to accelerate the 
+shift towards more circular PaaS models used in the services layer of European building projects. This 
+requires PaaS providers, customers and financiers – the key stakeholders involved in the model – to 
+have a comprehensive understanding of circularity in relation to PaaS models and contract development. 
+
+This white paper details the feasibility study undertaken to assess existing PaaS offerings and contractual 
+clauses, and reveals insights from engagement with key stakeholders. Through this analysis it was de-
+termined that the development of contract guidelines for PaaS can improve clarity among stakeholders, 
+contribute to consensus-building and serve as a foundational tool for training, awareness, and potential 
+benchmarking initiatives for PaaS offerings and their circular impacts.
+
+Furthermore, it is envisaged that collaborative development of the guidelines with industry can stimulate 
+further interest in the adoption of PaaS models for European building projects. The importance of cap-
+turing different stakeholder needs is also discussed, as are the risks and challenges associated with this 
+solution.
+
+Who should read this white paper? 
+
+This report is designed to support stakeholders interested in understanding and accelerating circular 
+economy practices in building projects, focusing on PaaS models for equipment used in the services 
+layer of buildings. The proposed solution of PaaS contract guidelines is especially relevant for:
+
+•	 Existing PaaS providers of equipment used in the services layer of buildings seeking to 
+enhance circular practices and the reduction of environmental impacts.
+
+•	 Established businesses or start-ups exploring the use of PaaS models for clean and 
+energy-efficient technologies in buildings.
+
+•	 Existing or potential customers of PaaS for equipment used in the services layer of buildings 
+(e.g. building owners or real-estate developers) interested in enhancing circularity. 
+
+•	 Investors and financial institutions looking for a deeper understanding of PaaS business 
+models and circularity and with an interest or experience in investing in PaaS projects.
+
+•	 Policy makers and regulatory bodies aiming to promote the reduction of environmental 
+impacts and accelerate circular business practices within the built environment.
+
+•	 The wider business and research community with an interest in the implementation and 
+development of PaaS as a circular business model.
+
+6
+
+
+
+1. SOLUTION OVERVIEW
+1.1 Introduction
+Product-as-a-Service (PaaS) business models are recognised as an important solution for accelerating 
+the circularity of buildings.1 The PaaS business model is particularly well suited to the ‘services’ layer of 
+buildings (see Figure 1), encompassing various mechanical, electrical and plumbing equipment, includ-
+ing smart energy systems, lighting, cooling and heating. 
+
+The use of PaaS for the services layer of buildings, for example ‘Cooling-as-a-Service’ or ‘Lighting-as-a-
+Service’, represents a growing trend globally. Under PaaS contracts, ownership and responsibility for 
+systems remains with dedicated PaaS providers rather than customers. The shift in ownership and re-
+sponsibility for products and systems is said to incentivise the capture of circular value, for example by 
+using long-lasting and more efficient equipment to reduce maintenance and replacement costs and thus 
+maximise value. 
+
+However, ensuring the reduction of environmental impacts and alignment with circular economy princi-
+ples requires PaaS models to be intentionally designed with these practices in mind.2 It remains unclear 
+to what extent such aspects are currently taken into consideration, as this analysis is largely missing from 
+prior work. 
+
+7
+
+
+
+Figure 1: The six material layers and seventh social layer of a building. Figure from WBCSD report: Scaling the circular built environment – 
+pathways for business and government.3
+
+Several useful resources discuss the actions needed to accelerate PaaS adoption more broadly,4 as well 
+as mapping critical challenges, risks and blind spots related to the use of the model and value chains.5 
+
+A wider body of literature also reflects on closely related concepts of ‘advanced services’ or ‘product-ser-
+vice-systems (PSS), and highlights the real-world challenges of delivering services, including best prac-
+tices for contract development.6 
+
+The potential of the model to reduce the environmental impacts of the cooling sector and to tackle access 
+to cooling and gaps in cold chains has also been extensively explored.7 For real-estate projects, the circu-
+lar buildings Toolkit translates circular economy principles into a set of strategies and actions including 
+the use of PaaS as an action aligned with maximising the value of a building and its components over 
+time, as well as optimising the potential for value retention and value recovery.8 
+
+What is yet to be developed, however, are guidelines to support PaaS contract development that facilitate 
+clarity and understanding around aspects of circularity. It is therefore an appropriate moment to reflect on 
+existing PaaS offerings and to begin to evaluate how effectively they contribute to circularity, in order to 
+identify steps that can be taken and potential opportunities to strengthen the circularity of these models.
+
+BASE and the SET Alliance are proposing the development of such guidelines to assist stakeholders in 
+better understanding and integrating circular practices into PaaS contracts. These guidelines focus on 
+contract development for PaaS relating to the services layer of buildings, which is well suited to this mod-
+el and capturing circular value (see Table 1).
+
+The proposed guidelines will focus on supporting contract development for PaaS models in the context 
+of European building projects, providing a tool for stakeholders to better understand how to enhance cir-
+cularity within PaaS contracts and identify opportunities for further value creation and retention. Through 
+identifying ways to embed circularity, these guidelines also seek to increase the interest and uptake of 
+the PaaS model.
+
+8
+
+
+
+Table 1: The suitability of PaaS for different building layers, where the services layer is assessed as highly suitable, according to the CBC 
+report Towards a circular economy in the built environment: overcoming market, finance and ownership challenges. Other initiatives have 
+focused on PaaS for layers such as ‘skin’ and ‘stuff’.9
+
+As an initial stage of developing this solution, BASE and the SET Alliance conducted an in-depth explora-
+tion of existing PaaS models and an analysis of which aspects of circularity are, or could be, embedded 
+into PaaS contracts. The objective was to assess the feasibility of creating guidelines. This was undertak-
+en through stakeholder discussions, the review of standardised contract clauses and the overall contract 
+development process. Detailed insights and outcomes of this exploration are presented in Section 2 of 
+this paper.
+
+ 1.2 PaaS and Circularity
+PaaS is often discussed as a circular business model, and this contributes to the increase in attention 
+and recognition it is receiving as an alternative business model for different products and systems. For 
+example, the EU has recognised PaaS for its potential significant contribution to circularity for selected 
+economic activities under the EU Taxonomy reporting requirements for the Circular Economy.10 
+
+But how can circularity be considered in the context of PaaS models? To better understand the opportu-
+nities for enhancing circular PaaS models for equipment used in the services layer of buildings, we refer 
+to the ‘value hill’ circular business strategy tool.11 
+
+The value hill is designed to provide companies with an understanding of their position as a business in 
+a circular economy context, and to support the development of future strategies to enhance circularity 
+(see Figure 2).
+
+9
+
+
+
+LINEAR BUSINESS MODELS CIRCULAR BUSINESS MODELS 
+
+Figure 2: The left-hand side represents the value hill of the linear economy, in which the use phase is shortened and potential value is lost 
+and destroyed; on the right, the value hill integrates circular economy principles and practices of optimising use and retaining value. Taken 
+from ‘Master Circular Business with the Value Hill’ developed by the Sustainable Finance Lab, Circle Economy, Nuovalente, TU Delft and 
+Het Groene Brein.
+
+Linear business models (left panel of Figure 2) for equipment used in the services layer of buildings 
+involve an uphill ‘pre-use’ phase of value creation, including material and resource extraction, manufac-
+turing, assembly and retail, followed by a ‘use’ phase, in which equipment is operated and maintained. 
+
+Finally, equipment enters a ‘post-use’ phase, in which value is destroyed as equipment is discarded at the 
+end of its determined useful life. Many building projects (and resulting equipment used in the services 
+layer) continue to adhere to linear contractual frameworks, placing a strong emphasis on project deliver-
+ables and timelines while prioritising cost over value. 
+
+This traditional approach often adopts a ‘take-make-dispose’ mentality, focusing on immediate project 
+completion rather than long-term value creation across the different building layers. This results in con-
+tracts designed around fixed terms and specifications, with limited attention to material sourcing, waste 
+management and environmental impacts.
+
+In contrast, in circular business models (right panel of Figure 2), the use phase is extended through main-
+tenance and repair practices, and activities in the post-use phase redistribute value (shown by the arrows) 
+back to the use or pre-use phase through activities such as the reuse or redistribution of equipment, 
+refurbishing, remanufacturing or recycling. The value hill helps to identify possible circular practices for 
+the services layer of buildings, and the activities involved in adding value (pre-use) and retaining value 
+(post-use) and the associated challenges and opportunities. It is also useful when considering partner-
+ships and collaborations involved in the value chains of different technologies. 
+
+Some of the main ways in which PaaS can enhance circularity across the pre-use, use and post-use 
+phases, relating to adding, optimising and retaining value, are summarised in Table 2. 
+Enhancing the circularity of PaaS models for the services layer of buildings is best understood as an 
+ongoing process, which requires PaaS providers to develop particular capabilities related to a wider 
+ecosystem of businesses and actors. These relate, for example, to expertise in circular product design, 
+reverse logistics, remanufacturing or the recovery of materials and components, which may require stra-
+tegic partnerships and collaboration.
+
+10
+
+
+
+How can PaaS enhance circularity?
+
+Add value Optimise use Retain value
+
+•	 Product design takes into con- •	 Data-driven optimisation of •	 Ability to reuse, repurpose or 
+sideration different aspects equipment can be used to redistribute assets, parts or 
+such as modularity, compo- reduce energy consumption, materials can avoid the oc-
+nent recovery, easier disas- and improve resource effi- currence of underutilised or 
+sembly, quality standards and ciency (e.g. water used for stranded assets.
+ease of maintenance. cooling).
+
+•	 Managing product end-of-life 
+•	 Data-driven repair and mainte- for value retention strategies 
+
+nance and real-time monitor- beyond disposal or recycling, 
+ing can minimise unplanned such as component and ma-
+downtime and prevent dam- terial recovery, refurbishing 
+age to equipment. and remanufacturing. This 
+
+can reduce resource con-
+sumption.
+
+Table 2: How can PaaS models enhance circularity? Each column relates to capabilities linked to phases of the value hill (add 
+value, optimise use, retain value).
+
+The use of PaaS models has been shown to enhance energy efficiency for both lighting12 and cooling 
+equipment,13 contributing to optimised use. 
+
+However, ownership retention by PaaS providers could also generate incentives for circular design strate-
+gies (uphill phase), where, for example, effective modular design could reduce material use, foster ease 
+of repair and maintenance, and facilitate improved recyclability of components. 
+
+It is unclear whether this is part of current PaaS models and embedded into contracts. Table 3 provides 
+an example comparison of linear and circular practices in the context of cooling equipment.
+
+11
+
+
+
+Cooling Equipment
+
+Linear business model Circular PaaS model
+
+Typically oversized based on peak demand Designed for optimal efficiency and scalability
+
+Disposal at end of life, limited recycling Emphasis on potential reuse, repurposing, refur-
+bishing, and remanufacturing of components or 
+parts
+
+Traditional disposal and destruction of refrigerants Emphasis on recycling or reclamation/use of natu-
+and components ral refrigerant systems and material recovery
+
+Limited user involvement Service-oriented and enhanced user experience 
+with continuous optimisation and support
+
+Fixed or declining energy efficiency levels over Fixed or increasing energy efficiency levels over 
+equipment lifecycle the contract duration
+
+Limited upgradability, need for complete replace- Modular design for easy upgrades and integration 
+ment of new technologies
+
+Limited customisation options, standardised de- Flexible and customisable to meet specific user re-
+signs quirements
+
+Limited data connectivity, may lack smart features Incorporates IoT capabilities for data monitoring, 
+analysis, and remote management
+
+Often operates as a standalone system Can be designed for integration and interoperabil-
+ity with other technologies that may also be offered 
+as-a-service (e.g., waste-heat recovery)
+
+Table 3: Linear business models for cooling compared to circular PaaS business models involving practices related to adding 
+value, optimising use and retaining value, based on market research conducted by BASE and the SET Alliance and a review of 
+the literature.
+
+12
+
+
+
+1.3 Impact objectives
+The impact of this solution is to contribute to the realisation of the potential of PaaS models to accelerate 
+the circularity of buildings, by embedding circular practices related to adding value, optimising use and 
+retaining value as outlined in Table 2: ‘How can PaaS enhance circularity?’. With the increasing adoption 
+of PaaS models within the services layer of buildings, it is crucial to evaluate how existing solutions con-
+tribute to fostering a more circular built environment and to identify opportunities to strengthen efforts. 
+This solution seeks to enable PaaS providers, financiers and customers to grasp the potential these mod-
+els hold in advancing circularity, and to identify opportunities and challenges.
+
+As circular economy principles and the reporting of environmental impacts become more embedded 
+into regulatory frameworks, businesses that proactively adopt and advocate circular practices within their 
+PaaS models are likely to be better equipped to comply with future regulations. Guidelines for contract 
+development should improve clarity and comprehension among diverse stakeholders. The development 
+process for the guidelines presents a significant opportunity to build consensus regarding the current 
+state and trajectory of PaaS models in relation to circularity, allowing for the exchange of best practices.
+
+Moreover, these guidelines can serve as a foundational tool for training and development, enhancing 
+awareness about the challenges and opportunities inherent in alternative business models to accelerate a 
+more circular built environment. In addition, such guidelines can potentially serve as the basis for further 
+initiatives centred on benchmarking and evaluating the circularity of PaaS offerings.
+
+1.4 Supporting PaaS development:  
+The role of BASE
+The BASE foundation is a non-profit organisation with over 22 years of experience in developing innova-
+tive business models and financing mechanisms to unlock investments in climate-driven solutions. Recog-
+nising the model’s potential to accelerate decarbonisation, several projects are dedicated to accelerating 
+PaaS models for clean and energy-efficient technologies by tackling market barriers slowing the uptake 
+of more efficient technologies. 
+
+13
+
+
+
+The Cooling-as-a-Service (CaaS) initiative sought to test the model for space cooling and refrigeration 
+systems at different scales, focusing primarily on emerging markets. The EU Horizon 2020 Efficien-
+cy-as-a-Service (EaaS) project focused on promoting the deployment and adoption of the model in Spain, 
+Belgium and the Netherlands, conducting capacity-building activities with local consortium partners.
+
+In 2023, the Servetia initiative was launched to develop the use of the model in the Swiss buildings sec-
+tor. In each case, the development of strategic resources and materials such as standardised contracts, 
+risk mitigation guidelines and price modelling tools are a central activity supporting the deployment and 
+adoption of PaaS.
+
+Given the growing number of PaaS offerings focused on the services layer of buildings, and the work of 
+BASE and other organisations to accelerate the deployment and adoption of the model, there is an estab-
+lished and engaged network of organisations and practitioners across research and practice. The process 
+of guideline creation for PaaS contracts presents an important opportunity to engage strategically with 
+industry stakeholders, associations and decision-makers to promote the wider adoption of PaaS within 
+building projects in order to accelerate circularity and reduce environmental impacts. 
+
+Collaboration with legal experts and industry practitioners will be key to ensuring that the guidelines 
+created are practical, legally sound, and applicable to selected contexts and building types. 
+
+Facilitating collaboration among a diverse group of stakeholders in the building, circularity and serviti-
+sation sectors has the potential to stimulate new thinking and ideas regarding PaaS models, and contrib-
+utes to the broader discourse on ownership and responsibility for products and systems in buildings to 
+enhance circularity.
+
+14
+
+
+
+2. FEASIBILITY ANALYSIS
+2.1 Methodology
+
+In the first stage of developing this solution, BASE and the SET Alliance identified the following key 
+questions:
+
+1.	 What are some of the key characteristics of current PaaS contracts and offerings for the services layer 
+of buildings relating to circularity?
+
+2.	 What are some of the challenges and opportunities associated with integrating circular practices into 
+PaaS?
+
+3.	 To what extent are aspects of circularity embedded into PaaS Contracts? 
+
+To answer these questions, in-depth discussions were conducted with three main stakeholder groups: 
+•	 Technology providers currently deploying or considering PaaS models for the services layer of 
+
+buildings. These included both manufacturing and non-manufacturing providers of different techno-
+logical systems.
+
+•	 Actors involved in the building project chain, including mechanical, electrical and plumbing 
+(MEP) consultants and architects, to better understand the opportunity space and decision-making 
+process for PaaS models with regards to the services layer of buildings, as well as current processes 
+and thinking surrounding circularity.
+
+•	 Members of the wider research community dedicated to advanced services and product-service 
+systems to gain feedback and assess resonance in other contexts.
+
+15
+
+
+
+All discussions were designed in a semi-structured format focused on decision-making regarding equip-
+ment and systems for the services layer of buildings, and on understanding capabilities related to PaaS 
+and the value hill (adding value, optimising the use of equipment and retaining value), as well as key 
+characteristics of PaaS contracts and the process of contract development.
+
+2.2 Findings: PaaS, a growing trend
+PaaS models have gained significant traction for energy-intensive systems such as cooling, heating, light-
+ing and compressed air, as well as energy storage technologies, given their potential to optimise energy 
+use, and to improve energy efficiency and system performance. Examples include Johnson Control’s ho-
+listic building solution of ‘net-zero as a service’,14 whilst manufacturers Danfoss15 and Carrier16 both have 
+Cooling-as-a-Service solutions. A growing number of PaaS models for the services layer of buildings are 
+being developed around the world, predominantly in commercial and industrial buildings. This reflects 
+a growing trend in outsourcing the management and optimisation of performance, energy and resource 
+efficiency of equipment used in buildings in order to meet sustainability targets, comply with new regula-
+tions and manage energy price risk. In some cases, it also reflects customers’ preferences to secure state-
+of-the-art systems without upfront capital investment, enabling them to focus on core business activities. 
+
+The adoption of PaaS models within the heating, ventilation and air conditioning (HVAC) industry, for 
+example, has been found to tackle some of the industry’s main challenges and offer customers increased 
+resilience.17 Businesses and wider society are gaining more awareness of the risks associated with con-
+tinuing ‘linear’ practices or the ‘take-make-waste’ approach,18 against the backdrop of climate change, 
+net-zero targets and sustainable development goals, as well as events such as the Covid-19 pandemic 
+and Russia-Ukraine war, which have disrupted supply chains. These factors, among others, are shaping 
+opportunities and benefits in recognising and preserving the value of resources. 
+
+Under PaaS contracts, customers typically pay a fee covering usage and performance, and a dedicated 
+provider is responsible for managing equipment and undertaking maintenance and repairs. For equip-
+ment used in the services layer of buildings, PaaS contracts typically last 7-15 years, thus requiring lon-
+ger-term partnerships between providers and customers. 
+
+16
+
+
+
+This is according to BASE market research involving systems with an investment greater than €150,000. 
+Because ownership and responsibility for product life cycles remains with dedicated PaaS providers, 
+this incentivises the use of long-lasting and efficient equipment to reduce maintenance and replacement 
+costs, and to optimise the use of such equipment. The wider use of circular PaaS models featuring the 
+aspects related to adding and retaining value listed in Table 2 would encourage, for example, the alter-
+ation of product design to take into consideration the feasibility and ease of recovering components and 
+materials for refurbishing or remanufacturing. 
+
+But how are PaaS models enhancing circularity? A useful distinction can be made between the barriers 
+to deploying or adopting PaaS models more generally, and the barriers to enhancing the circularity of 
+buildings and reducing environmental impacts through such models. 
+
+The reduction of certain environmental impacts during the use phase of equipment can be achieved 
+through the integration of performance targets into PaaS contracts (e.g. energy efficiency improve-
+ments). Providers are also incentivised to reduce their own costs, which in turn can reduce energy and 
+wider resource consumption. The integration of additional systems such as waste-heat recovery or solar 
+PV can also reduce and optimise resource consumption during the use phase of buildings. However, as 
+the value hill illustrates, circularity concerns a much broader set of behaviours and practices relating to 
+adding and retaining value. 
+
+Currently there are no standard assessment criteria to understand the circularity of PaaS models currently 
+used in the services layer of buildings, and a lack of supporting guidance to validate the circularity of 
+PaaS models. What is often discussed is a set of claims surrounding the model, which encourage and 
+incentivise a process of undertaking certain practices as outlined in Table 2. It is also clear that different 
+factors can be seen to affect the capability (in particular of the PaaS provider) to transition towards more 
+circular PaaS models. These include aspects such as infrastructure type, technology considerations and 
+expertise. In addition, the development or adoption of circular practices linked to value retention (e.g. 
+remanufacturing) must be carefully evaluated in relation to the environmental impacts of such practices.
+
+17
+
+
+
+2.3 Findings: PaaS contract development
+Delivering PaaS involves various stakeholders, including the provider, the customer, financiers, delivery 
+partners or sub-suppliers such as installers, and requires contracts between these parties (see Figure 4). 
+
+Figure 4:  Illustration of main stakeholders involved in PaaS provision and contracts and relationships relevant to service 
+delivery and embedding circularity.
+
+For providers to deliver PaaS to customers, several steps need to be considered, including the develop-
+ment of an offering and contract, the contracting stage, the execution of the contract, and longer-term 
+management (see Figure 5). The contracting stage can be further broken down into steps relating to 
+identifying and defining the project opportunity, developing a proposal and negotiating terms before 
+handing over to a delivery team. This stage can be thought of as the sales and purchase process, in 
+which different outcomes and expectations are aligned and agreed upon in a written contract. The PaaS 
+contract represents the value proposition in written form.
+
+1.	 The development of an offering and contract
+a) Financing structure
+b) Customer readiness
+c) Provider readiness
+d) Network readiness (delivery partners or sub-suppliers such as installers)
+e) Partnership readiness
+
+2.	 The contracting stage (between the PaaS provider and the customer)
+a) Identify and screen opportunities
+b) Proposal development
+c) Negotiate terms
+d) Hand-off to delivery team
+
+3.	 Execution and delivery of contracts
+4.	 Longer term management
+
+Figure 5: Stages of PaaS delivery including the contracting stage, adapted from Handbook for Advanced Services Contracts.
+
+18
+
+
+
+The contract between a PaaS provider and a customer acts as a legal agreement and provides the dif-
+ferent parties involved with an understanding of their respective preferences, responsibilities and risk 
+positions. When it comes to scaling and accelerating PaaS models for services in buildings, guidelines 
+can support providers, customers and financiers in understanding and considering circular aspects. 
+
+Under the CaaS and EaaS initiatives, standardised contracts have been developed, as well as accompa-
+nying material to support the development of solutions and implementation of projects. However, as yet 
+there is no overarching guidance on contract development for PaaS models regarding the services layer 
+of buildings that contextualises solutions in relation to circular-economy principles and practices. With 
+respect to circularity, an early distinction was drawn between PaaS providers that are also the system 
+manufacturers, and non-OEM (Original Equipment Manufacturer) providers, as these represent different 
+constellations of practices and value chains. 
+
+As manufacturers are responsible for the value creation process, it is assumed they are better positioned 
+to inform aspects such as product design using data collected from PaaS operations. In general, capabil-
+ities and services vary greatly by provider, technology type and overall strategy and thinking in relation 
+to circularity and the reduction of environmental impacts. Whilst in principle there are clear potential 
+circular elements of PaaS models, in practice it is not evident to what extent this potential is realised. For 
+example, it is unclear to what extent system performance data under PaaS contracts can inform product, 
+system and building design or the pre-use phase of different systems. 
+
+Similarly, given the emerging nature of the PaaS trend for the services layer of buildings, there are few 
+examples of contract renewals or end-of-contract decision-making to examine. It is therefore unclear what 
+the intended value retention measures in the post-use phase are, leaving uncertainty surrounding the end-
+of-contract options and overlap with the technical end of life of equipment. This is important in the context 
+of PaaS contract development, in which provider flexibility can be built in to keep different options open. 
+Manufacturers developing refurbishing and remanufacturing capabilities in parallel to PaaS offerings 
+could explore the integration of these services within PaaS. 
+
+Given that the average length of contracts ranges from 7 to 15 years (in some cases up to 20 years), 
+there is inherent uncertainty related to how capabilities or markets may change – for example, the current 
+versus future capabilities for refurbishing or remanufacturing. This is discussed in the Handbook for Con-
+tract Development, which states: “Contracts must now contain the ability to adapt to the emergence of 
+change. In addition to operational delivery of the value proposition, contracts thus coordinate the effort 
+of buyer and sellers to adapt together.”19 Considering the elements relating to enhancing value retention 
+capabilities is especially relevant should more PaaS models be developed, for example to deliver heating 
+services to the residential market, a key issue in the European building context.
+
+2.4 Findings: Key aspects for PaaS Contract Guidelines
+PaaS is an important emerging business model for the building sector and there is an opportunity to 
+develop further understanding and guidance for customers, providers and financiers to further align and 
+embed elements of circularity. Through engagement with different stakeholders across the PaaS ecosys-
+tem and the building sector more broadly, guidelines can support and unlock contract development and 
+thinking around circularity for existing and future PaaS models and solutions. 
+The guidelines can provide a framework to understand which contractual clauses within PaaS contracts 
+and practices relate to elements of circularity, as well as pointing out important considerations and op-
+portunities.
+
+19
+
+
+
+From the stakeholder discussions, it was noted that contracts and related clauses between different 
+entities beyond the PaaS provider and customer, and the partnerships such contracts represent, are of 
+relevance to the transition towards more circular PaaS models, because they set the boundary conditions 
+for service delivery. 
+
+As shown in Figure 4, contracts apply between (1) customers and PaaS providers, (2) PaaS providers 
+and financiers (when applicable), and often (3) PaaS providers and sub-suppliers (e.g. equipment man-
+ufacturers, component suppliers and installers). Therefore, considerations for circularity and the reduc-
+tion of environmental impacts were considered across these three contract types. Figure 4 also depicts 
+agreements between PaaS providers and recyclers or decommissioning entities. This was not included in 
+the analysis as it is likely that considerations will be similar to contracts applying between PaaS providers 
+and sub-suppliers. 
+
+For each of the three contract types, the analysis shown below in Tables 4, 5 and 6 provides a description 
+of key contract areas, related clauses, importance in relation to circularity and the reduction of environ-
+mental impacts, and provides insights. The information is derived from stakeholder discussions as well 
+as a review of the standardised PaaS contracts developed under BASE-led initiatives. The second phase 
+of this project aims to develop guidance surrounding these key areas, highlighting examples and best 
+practices, as well as identifying the need for new clauses and potential partnerships.
+
+Contract: PaaS Provider and Customer
+Area Description of clauses Importance Comments
+
+Targets / Key The KPIs in a contract may include High The attainment of predefined key 
+Performance the following elements: performance indicators (KPIs) 
+Indicators aligns with the strategic commer-
+
+•	 Energy efficiency targets cial objectives of the PaaS provid-
+er. 
+
+•	 Performance regarding faults, Furthermore, exceeding perfor-
+system downtime or reduced mance metrics including but not 
+performance limited to energy or resource ef-
+
+ficiency within the contractual 
+framework serves as a pivotal 
+
+•	 Optimised maintenance sched- means to enhance the provider’s 
+ules overall profitability. 
+
+Notably, the optimisation of in-
+spection and maintenance op-
+erations plays a crucial role in 
+extending the life cycle of equip-
+ment. This, in turn, contributes to 
+an improvement in the total cost 
+of ownership (TCO) of assets and 
+to their circularity.
+
+20
+
+
+
+Area Description of clauses Importance Comments
+
+Data Security Enabling the provider to access High Gaining access to critical data en-
+and Privacy critical data on usage and perfor- ables a PaaS provider not only to 
+
+mance allows for the optimisation optimise the usage of the system 
+of performance and life-cycle ex- but also to improve the design of 
+tension of the equipment. It is also systems and components for life 
+important to consider: cycle extension or value retention. 
+•	 Data security and use of data The potential for data-sharing by 
+
+(to inform product design and/ non-OEM providers, particularly 
+or optimise performance) with manufacturers, may further 
+
+•	 Access to the building and contribute to advancements in de-
+plant sign and hence circularity.
+
+•	 Compliance with privacy regu-
+lations (GDPR) and the respon-
+sible use of customer data
+
+Ownership •	 To qualify as a PaaS model, High In cases where compliance with 
+whereby the customer does IFRS16 lease accounting stan-
+not own equipment and is not dards is required, contracts un-
+responsible for performance dergo assessment to determine 
+risks, the contract must clearly if they are off-balance (and not 
+define ownership and respon- an embedded lease). It is crucial 
+sibility throughout the contract for the contract to be properly de-
+duration signed to ensure the asset remains 
+
+ contractually under the ownership 
+•	 Responsibility for the design of the solution provider, who is 
+
+of systems must be clearly de- then incentivised to maximise val-
+fined, enhancing traceability ue. This can be seen to indirectly 
+and accountability benefit circularity.
+
+Pricing •	 Under PaaS there are different Medium The pricing mechanism employed 
+pricing models such as: in a contract significantly contrib-
+
+utes to its attractiveness to the end 
+- Fixed pricing customer. This pricing strategy, 
+- Fixed + variable in turn, has an indirect influence 
+- Monthly or annual billing on circularity, as it establishes a 
+
+framework aligning incentives 
+•	 It is important that the pricing between the provider and the 
+
+structure complies with IFRS16 customer. Moreover, the pricing 
+regulations for the contract to structure and schedule must be 
+be considered off-balance defined to ensure that the asset 
+
+remains off-balance from the cus-
+tomer’s perspective (IFRS 16 pre-
+viously outlined) and ensuring the 
+PaaS provider is incentivised to 
+optimise life-cycle and resource 
+utilisation.
+
+21
+
+
+
+Area Description of clauses Importance Comments
+
+Contract length •	 Contract duration needs to be Medium Longer contracts suggest sus-
+defined in the contract; de- tained relationships between a 
+pending on the local context provider and customer and con-
+and sector there may be specif- sideration of upgradability, dura-
+ic conditions qualifying service bility and repairability as well as 
+contract duration end-of-life management. Longer 
+
+contract periods may also incen-
+tivise the design of products with 
+longer lifespans. However, the 
+contract length combined with 
+the pricing schedule to the end 
+customer need to ensure that the 
+offer is not considered an embed-
+ded lease, whereby the asset be-
+longs to the customer at the end 
+of the contract; this could limit the 
+incentives for the provider to max-
+imise the asset life cycle. Please 
+note that depending on the coun-
+try of implementation, and the 
+customer and technology in ques-
+tion, shorter contract lengths may 
+be required or requested. Shorter 
+contracts versus the asset value 
+can yield higher risks for the pro-
+vider and financier, which must 
+be properly hedged within the 
+contract.
+
+‘Take-Back’ and •	 End-of-contract responsibilities High This is highly relevant to value-re-
+end of contract/ include the process of remov- tention practices and capabilities. 
+end of life ing or returning products at the 
+
+end of their contract duration An underlying assumption is that 
+the PaaS provider is best posi-
+
+•	 The contract should incorpo- tioned (with its partners and wider 
+rate provisions for both ex- ecosystem) to know how to handle 
+tension and early termination, equipment at the end of a contract 
+thereby fostering adaptability and at the end of its technical life.
+and mitigating the risk of inap-
+propriate disposal. This strate-
+gic approach not only aligns 
+with environmental regulations 
+but also ensures a comprehen-
+sive and flexible framework that 
+accounts for potential changes 
+in circumstances
+
+22
+
+
+
+Area Description of clauses Importance Comments
+
+Standards on •	 Specifying adherence to ener- Medium Including these clauses in the 
+materials, energy gy efficiency standards or rele- contract ensures transparency for 
+efficiency and vant environmental regulations the customer on the quality of the 
+regulatory related to the use of different asset. To increase the likelihood 
+compliance materials supporting the reduc- of setting a benchmark that en-
+
+tion of environmental impacts courages cutting-edge deploy-
+(e.g. phase-out of refrigerant ment, it is crucial to have clauses 
+gases) that highlight the compliance of 
+
+deployed products with best-in-
+•	 Enabling PaaS providers to up- class standards (e.g. energy effi-
+
+date practices in response to ciency). This approach supports 
+changes in regulations the deployment of high-quality 
+
+products, ultimately contributing 
+to favourable life-cycle character-
+istics. However, this type of clause 
+is particularly significant for con-
+tracts between PaaS providers 
+and sub-suppliers.
+
+Continuous •	 Encouraging continuous in- High Innovation clauses can address 
+improvement and novation and performance the integration of emerging tech-
+innovation improvements, for example in nologies or improvements in en-
+
+energy or resource efficiency ergy efficiency. This adaptability 
+and service improvements ensures the continuing technolog-
+
+ical competitiveness of the PaaS 
+offering and minimises the risk of 
+premature obsolescence. The pro-
+vider is best positioned to deploy 
+innovations, upgrades and design 
+modifications on the deployed as-
+sets in order to maximise not only 
+their performance but also their 
+life cycle.
+
+Inflation •	 A specific clause should trans- Low Inflation-related clauses can pro-
+parently outline how inflation vide cost predictability for both 
+will affect the pricing of the the PaaS provider and the cus-
+PaaS offering to the end cus- tomer over the contract’s duration. 
+tomer This stability in pricing allows for 
+
+better long-term planning and 
+budgeting, which can indirectly 
+support strategies to enhance cir-
+cularity. It enables businesses to 
+allocate resources more effective-
+ly, potentially investing in circular 
+practices and the reduction of en-
+vironmental impacts.
+
+23
+
+
+
+Area Description of clauses Importance Comments
+
+Dispute •	 Establish mechanisms for re- Low The existence of a fair and ef-
+resolution solving disputes related to fective dispute resolution mech-
+mechanisms practices and performance anism can incentivise parties to 
+
+•	 Include provisions for efficient maintain long-term relationships, 
+mediation or arbitration to ad- and foster transparency and ac-
+dress issues countability. This may provide a 
+
+more conducive environment for 
+collaborative efforts in areas such 
+as in product optimisation. There 
+is therefore an indirect link to cir-
+cularity. The resolution of disputes 
+may involve ensuring compliance 
+with circular economy standards 
+and principles, or regulatory com-
+pliance. This includes resolving 
+disagreements related to prod-
+uct labelling, eco-certifications, 
+or claims about the recyclability 
+and sustainability of the service 
+or product.
+
+Table 4: Analysis of key areas for contract development between a provider and customer considering circularity 
+and the reduction of environmental impacts.
+
+24
+
+
+
+Contract type - PaaS Provider and Financier
+
+Area Description of clauses Importance Comments
+
+Financial •	 Financial incentives for the High Financial incentives could be tied 
+incentives provider to adopt circular to increased product durability, en-
+
+practices, such as reduced hanced recyclability, or reduced en-
+fees or reduced interest vironmental impact. This could take 
+rates on debt for extended the form of reduced interest rates on 
+service contracts, for prod- debt when targets are met. Financial 
+ucts reused, returned and/ incentives could also be linked to 
+or successfully recycled successful environmental impact au-
+
+dits or green certifications. Achieving 
+recognised circularity certifications 
+can result in financial bonuses, mo-
+tivating the PaaS provider to adhere 
+to and demonstrate compliance with 
+circular economy standards.
+
+Adherence •	 Reporting obligations tied High Under the EU Taxonomy, activities are 
+to green to frameworks such as the assessed in relation to their alignment 
+classification EU Taxonomy may prompt with environmental sustainability in 
+schemes and PaaS providers to identify the context of the European Green 
+regulations 
+such as EU circular business opportuni- Deal. 
+Taxonomy ties within their operations. 
+
+This could involve exploring Certain PaaS activities can be clas-
+innovations, partnerships or sified as making a significant contri-
+strategies that contribute to bution to the transition to a circular 
+a more circular and sustain- economy, whilst ensuring they ‘do 
+able approach in line with no significant harm’ to other envi-
+regulatory expectations ronmental objectives. Such a clause 
+
+places emphasis on accountability 
+and transparency.
+
+Asset •	 Within existing contracts, High It is important that the contractual 
+flexibility allowing for the provider fi- agreement between the financier 
+and nanced to innovate on the and the solution provider facilitates 
+innovation product contracted to en- the integration of modifications and 
+
+hance its life cycle and per- innovations within the deployed solu-
+formance. The latter should tion, without compromising the terms 
+apply and be adopted as of the contractual arrangement with 
+per the financial structure the financier. 
+and mechanisms agreed 
+upon between the financier The absence of this provision could 
+and the provider diminish the provider’s motivation to 
+
+implement beneficial modifications 
+essential for optimising the asset life 
+cycle of the deployed solution.
+
+25
+
+
+
+Area Description of clauses Importance Comments
+
+Dispute •	 Establishing mechanisms for Low Similar to the contract between the 
+Resolution resolving disputes related to provider and the customer, these 
+Mechanisms circularity practices and per- clauses ensure the existence of fair 
+
+formance between the pro- and effective dispute resolution 
+vider and the financier mechanisms that incentivise parties 
+
+•	 Including provisions for me- to maintain long-term relationships 
+diation or arbitration to ad- and foster transparency and account-
+dress issues efficiently ability.
+
+Table 5: Analysis of key areas for contract development between a financier and provider 
+considering circularity and the reduction of environmental impacts.
+
+26
+
+
+
+Contract type - PaaS Provider and (Sub-)Supplier
+
+Area Description of clauses Importance Comments
+
+Standards on •	 Product specifications clear- High Explicitly specifying standards 
+materials and ly outlining the standards of that align with the highest indus-
+regulatory the materials, composition try benchmarks is instrumental in 
+compliance of components (materials ensuring the delivery of a product 
+
+embedded), component effi- characterised by superior quality 
+ciencies and durations and an extended life cycle. This, 
+
+in effect, can substantially en-
+hance the circularity potential of 
+the products selected.
+
+Design •	 Component design ensur- High The modular design of compo-
+ing modularity and ease of nents or equipment can optimise 
+inspection, maintenance, re- maintenance and repair activities 
+pair or disassembly and reduce the need to replace 
+
+larger components. This in turn re-
+duces material dependence and 
+retains value.
+
+Reporting and •	 Supply-chain transparency to High This provides assurance to the 
+transparency outline environmental prac- PaaS provider on the manufac-
+
+tices, material sourcing and turing processes of the acquired 
+manufacturing processes components. Transparency is cru-
+
+cial for assessing and improving 
+circularity and reducing environ-
+mental impacts linked to the sup-
+ply chain.
+
+Performance •	 KPIs to ensure a component High This ensures relevant KPIs are met 
+and quality life cycle and performance. to enhance component or equip-
+assurance This could include metrics for ment life cycle and performance 
+
+material recyclability rates, of the overall PaaS solution de-
+product longevity or the per- ployed.
+centage of components that 
+can be remanufactured.
+
+27
+
+
+
+Area Description of clauses Importance Comments
+
+Continuous •	 Allowing for product im- High Terms allow for the provider to 
+improvement provements between the sup- share relevant information with its 
+and innovation plier and the buyer (PaaS pro- partners to continuously improve 
+
+vider) systems and component design 
+•	 Allowing for favourable com- towards extended life cycles and 
+
+mercial terms improved performance to opti-
+•	 Allowing for and encourag- mise use, and to explore further 
+
+ing data sharing to drive in- practices related to adding and 
+novation in product perfor- retaining value which may be mu-
+mance tually beneficial.
+
+•	 Addressing ownership of any 
+innovative practices or tech-
+nologies developed collab-
+oratively related to circular 
+practices and the reduction 
+of environmental impacts, 
+
+Table 5: Key areas for aconndtr aects dtaevbelloisphmienngt b efatwiere nin at ePlrloevcid-er and (sub-)supplier.
+tual-property-sharing agree-
+ments
+
+Dispute •	 Establishing mechanisms for Low The existence of fair and effective 
+resolution resolving disputes between dispute resolution mechanisms 
+mechanisms the PaaS provider and sup- incentivise parties to maintain 
+
+plier related to practices and long-term relationships and foster 
+performance transparency and accountability.
+
+•	 Including provisions for me-
+diation or arbitration to ad-
+dress issues efficiently
+
+Table 6: Analysis of key areas for contract development between provider and (sub-)supplier 
+considering circularity and the reduction of environmental impacts.
+
+28
+
+
+
+2.5 Findings: Unique stakeholder needs
+Multiple specialists within the relevant stakeholder companies (customer, PaaS provider, financier) are 
+involved in the development of PaaS offerings. The value proposition is often written by marketeers and 
+operations specialists, the contract is written by lawyers (with knowledge of local and international reg-
+ulations), service delivery is undertaken by engineers and technicians (or partners), and engagement 
+is typically governed by a firm’s risk-management processes. Financiers are involved in completing due 
+diligence on a firm and its business operations, while the customers are procuring a solution under an 
+innovative scope of supply. 
+
+All stakeholders apply existing operations and incentives to PaaS as a business approach, which often 
+does not meet their standard selection criteria. To design the most impactful PaaS contract guidelines, it 
+is important that the unique needs of the stakeholders outlined below are carefully considered. 
+
+Customer procurement departments
+Agents have targets to purchase systems at specific prices, often negotiating sales prices down to tight 
+margins for providers who then rely on service-level contracts (for maintenance and supply of spare 
+parts) to make up for their margins. When procurement teams are presented with PaaS contracts, they 
+are often unable to match these with their current guidelines, practices and KPIs, (even more so when it 
+comes to assessing circular aspects). This is in part due to financial considerations of the PaaS model, 
+which represents a switch from capital expenditure to operational costs. Customers should consider total 
+cost of ownership as well as other direct and indirect costs, such as the training and time required to up-
+skill workers on managing new systems and operations when making financial comparisons between the 
+traditional purchasing alternative and PaaS. This is a limited view of the overall potential benefits associ-
+ated with PaaS models, such as the reduction of environmental impacts and contribution to sustainability 
+goals through improved resource efficiency.
+
+Provider sales teams
+Incentives and key performance indicators of sales teams within provider organisations are traditionally 
+based on the quantity of equipment sold and its purchase price. PaaS requires a firm to invest internally 
+in a shift in incentives and bonus terms that promote service-level contracts.
+
+Financiers
+Financiers vary in terms of their profiles and risk appetites. The contracts, metrics and processes of large 
+financial institutions are not designed for investments in PaaS and circular practices. However, it is key for 
+PaaS providers to onboard financiers when looking to unlock commercial debt for project opportunities 
+and circular building projects. This is also the role of non-governmental organisations and consultancies 
+to raise awareness amongst financiers. There are ongoing initiatives engaging financiers to adopt taxon-
+omies for investing in climate and environmental objectives, including the transition to a circular econ-
+omy; this is essential given the classification of PaaS under the EU taxonomy as one of the approaches 
+to contributing to circularity. Nonetheless, challenges persist; there is a lack of clarity surrounding the 
+residual value of PaaS contracts and secondary markets of these systems (cooling, heating, compressed 
+air, batteries and storage systems), which is also linked to accounting rules (e.g. depreciation); therefore, 
+promoting circularity is key to developing secondary markets and improving the visibility of asset residual 
+values. Specific leasing financiers in Europe are focusing more attention on investing in PaaS contracts, 
+often stemming from experience in manufacturing or IT PaaS products, coupled with an increasing inter-
+est in investing in clean and energy-efficient solutions to grow their presence on the market in relation 
+to the energy transition or to tackling climate change more broadly. More importantly, with the rise of 
+energy prices and political pressure, financiers acknowledge investment in energy efficiency and smart 
+energy systems as a growing market in which their presence yields attractive economic returns.
+
+29
+
+
+
+The process of developing guidelines will therefore include discussions with entities that are involved in 
+active PaaS contracts, financiers that are involved in recapitalisation of assets and customers that have 
+signed such contracts to properly evaluate the terms and conditions that can be embedded for circularity 
+in a feasible stepwise approach, embedding the most important and acceptable ones first, and growing 
+circularity impact from there onwards.
+
+2.6 Risk mitigation plan
+A robust risk mitigation plan is indispensable to developing this solution and ensuring the guidelines 
+are adopted by the market. A well-structured risk mitigation plan ensures that potential obstacles to the 
+adoption of circularity guidelines by the market are proactively identified and effectively navigated. This 
+approach not only safeguards the success of the project but also strengthens the project’s ability to influ-
+ence and drive the adoption of circular practices in PaaS models for equipment used in the services layer 
+of buildings. By addressing uncertainties head-on, the risk mitigation plan contributes to the resilience 
+and long-term impact of the guidelines in the market.
+
+Two primary risk areas have been identified, the first relating to the creation and implementation of the 
+guidelines to accelerate the circularity of PaaS models (project-related risks), and the second to the wider 
+adoption of PaaS and the lack of market engagement by key stakeholders, including providers, custom-
+ers, financiers and policy makers (market risks). Tables 7 and 8 below outline these risks and proposed 
+mitigation measures.
+
+Project-Related Risks
+
+Description of risk Proposed risk-mitigation measures
+
+Inadequate trust Engagement with PaaS: Implementing and enhancing circular practices with-
+of key market in PaaS models requires involving several stakeholders from the supply chain 
+stakeholders in PaaS and understanding how to align incentives. Due to the complexities of PaaS 
+models (medium) models, a key part of the market engagement concerns fostering trust and 
+
+highlighting the value of implementing PaaS. BASE will therefore continuously 
+share know-how on the definition and implementation of PaaS models, plus 
+case studies, with its network. 
+
+The case studies will demonstrate the economic, social and environmental ben-
+efits of PaaS, and how the model is designed, highlighting success stories of 
+practices related to circularity. 
+
+This will involve engaging with PaaS providers regarding their circular econ-
+omy strategies and analysing their practices. Furthermore, BASE will link the 
+work of the blueprint project with parallel activities related to capacity building 
+to support companies in transitioning to PaaS models.
+
+30
+
+
+
+Description of risk Proposed risk-mitigation measures
+
+Inadequate trust Quality of clauses: Due to the real and perceived complexities of PaaS 
+of key market models, a key aspect of developing clauses is to design them in such a way 
+stakeholders in that the contract is robust yet not overly complex, and compliant with local 
+clauses and practices regulations and laws. To manage this challenge, financiers, providers, man-
+– questioning ufacturers, clients and legal professionals will be involved in the early stages 
+quality and depth of 
+outcomes (low) of creating the guidelines and embedding circular practices. 
+
+Certain clauses and related practices present various levels of difficulty in 
+implementation, as well as associated costs and risks. It will be important to 
+clarify the responsibilities of each stakeholder in successfully implementing 
+these clauses. For example, adapting product design processes will likely 
+involve additional investment.
+
+Limited diffusion Diffusion: Strategic and targeted outreach is key to ensuring uptake and 
+and outreach across knowledge sharing surrounding the developed guidelines, and interest in en-
+Europe (low) hancing circular practices and uptake of the clauses designed. Activities such 
+
+as targeted workshops and webinar events included in the second phase will 
+be designed to reach a broad audience of relevant stakeholders. 
+
+BASE and its partners have an established Europe-wide network, which in-
+cludes organisations such as the World Green Building Council (WGBC), the 
+United Nations Environment Programme Finance Initiative (UNEP FI), Cool 
+Coalition, Advanced Services Group, and relevant academic institutions. En-
+gaging with the wider network of the CBC will be crucial to gain insights 
+and connections from actors within the building project landscape, such as 
+MEP consultants, project developers and architects. It will also be important 
+to engage with additional accounting and legal experts, financiers, potential 
+customers and providers as well as public-sector actors.
+
+The marketing and communications strategy will include key messages across 
+several channels and websites (for example, those of the global SET alliance, 
+CaaS, EaaS, Servetia and BASE).
+
+31
+
+
+
+Description of risk Proposed risk-mitigation measures
+
+Continuous Scaling: The stakeholders engaged in the development of the guidelines 
+improvement and will be requested to sign a collaboration agreement confirming their interest 
+implementation of the and commitment to improving the guidelines and exploring implementation.
+guidelines (medium)
+
+Within the European context, countries or cities lacking a policy landscape 
+conducive to enhancing circularity will present more challenging transition 
+pathways towards more circular PaaS models. Whilst a deeper understand-
+ing of selected country- and technology-specific challenges will be part of 
+the guideline creation process, proposed or anticipated changes in policy 
+and regulations in areas such as resource use and material flows may affect 
+stakeholder dynamics. The guidelines must be adaptable to these changing 
+dynamics.
+
+Table 7: Overview of risks and mitigation plan for creating guidelines for PaaS contracts (level of risk indicated in brackets).
+
+32
+
+
+
+Market Risks
+
+Description of risk Proposed risk-mitigation measures
+
+Inadequate access Market engagement: Thorough analysis relies on access to information on 
+to information on markets and critical operations. This is not always available and depends both 
+markets (medium) on the study of relevant literature and on interactions with market stakeholders. 
+
+In this initial stage, a thorough literature analysis has already been undertak-
+en, and a network of PaaS providers, financiers and customers have been in-
+formed of the project and have been requested to engage in the development 
+of the guidelines. 
+
+The project team will expand the number and types of stakeholders involved 
+to include associations and other networks of experts, to gather market intelli-
+gence on current activities and challenges, as well as to explore possibilities 
+for implementation. 
+
+In addition, the team will connect with architects, lawyers, policy makers and 
+public-sector actors linked to building projects. It is crucial to continuously find 
+companies that are implementing (or are interested in implementing) PaaS 
+models to raise awareness of circularity considerations.
+
+Economic crisis would Market engagement: Previous experience has shown that during financial 
+reduce engagement crises, enterprises focus their attention on projects that reduce costs. This can 
+(low) make PaaS more attractive to potential customers given that the model avoids 
+
+the need for capital expenditure and offers the potential to reduce operational 
+expenses. This is important when capital is restrained or facing uncertainty 
+relating to aspects such as future energy prices or inflation. 
+BASE’s current activities in Cooling-as-a-Service and Efficiency-as-a-Service ini-
+tiatives have yielded an accelerated demand in PaaS models across industries 
+and geographies (for small and medium-sized enterprises as well as large man-
+ufacturers), and a growing interest from financiers to invest in these projects, 
+as they represent a well-managed risk investment opportunity while driving 
+decarbonisation.
+
+Table 8: Overview of market risks linked to engagement with PaaS models (level of risk indicated in brackets).
+
+33
+
+
+
+3. DIFFUSION
+3.1 Phase two objectives
+In the initial phase of this project, key insights have been derived from engagement with selected stake-
+holders, including PaaS providers, actors relating to the decision-making process for building projects 
+and the services layer of buildings, and the wider research community and industry experts focused on 
+servitisation. 
+
+These learnings will be used to inform the process design for phase two of this solution: the proposed 
+creation of the guidelines, and related activities for strategic diffusion and effective dissemination prac-
+tices. 
+
+Strategic diffusion and dissemination efforts will play a pivotal role in the collaborative development of 
+contract guidelines for PaaS. Co-created with industry experts, these guidelines will be shared to raise 
+awareness, foster collaboration and facilitate the adoption of circular practices in the services layer of 
+buildings.
+
+The overarching objectives of diffusion in this context are threefold: firstly, to increase awareness among 
+diverse stakeholders, including businesses, financiers, consumers and the research community, regard-
+ing the challenges, opportunities and best practices associated with transitioning to circular PaaS mod-
+els; secondly, to stimulate collaborative thinking around circular practices for PaaS models, involving in-
+
+34
+
+
+
+dustry experts in the co-creation of the guidelines to ensure buy-in and relevance; and thirdly, to support 
+the adoption of more circular practices within PaaS by providing practical assistance to businesses, for 
+example in complying with existing and emerging regulations pertaining to the circular economy (e.g. 
+EU Taxonomy).
+
+3.2 Integration
+By leveraging the networks of the SET Alliance and BASE as well as established communication channels, 
+information can be shared across newsletters, social media and direct communication methods to keep 
+stakeholders informed about progress, events and opportunities for participation. Actively participating 
+in industry conferences, seminars and events connected to the network can showcase the guidelines and 
+maximise visibility and engagement. 
+
+The identification of the most important events will be agreed on with the stakeholders involved as events 
+evolve over time. The presentation of the guidelines at key events will provide a platform for feedback 
+and discussion. Calls to action will be incorporated in all communications, encouraging stakeholders to 
+actively engage in the co-creation process and explore the circularity of PaaS practices for the services 
+layer of buildings.
+
+3.3 Launching the guidelines
+The guidelines will be released as a report, accompanied by an interactive webinar event. The report will 
+be supported by additional content such as articles to ensure accessibility for a diverse audience. Both 
+technical and non-technical language will be employed to cater to different stakeholders.
+
+3.4 Monitoring and Feedback
+To ensure ongoing refinement and improvement of the guidelines, clear feedback mechanisms, such 
+as surveys and dedicated contact points, will be established to gather input from stakeholders. Regular 
+reviews of feedback will inform adjustments to the guidelines and communication strategies. 
+
+Key performance indicators will be implemented to measure the reach and impact of dissemination ef-
+forts, tracking engagement levels and participation in events to assess effectiveness.
+
+3.5 Call to Action
+As we conclude this white paper on enhancing the circularity of PaaS models used in the services layer 
+of buildings we would like to extend a formal invitation for your participation and active contribution.
+
+The second phase of developing this solution proposes incorporating critical industry know-how within 
+the design of the PaaS contractual guidelines for equipment used in the services layer of buildings for 
+projects in Europe. For those interested in engaging with this transformative effort or looking for further 
+insights, please connect with the BASE and SET Alliance team. 
+
+Your participation will play a pivotal role in shaping the trajectory of circularity and environmental impacts 
+of PaaS business models.
+
+35
+
+
+
+References
+1. Circular Building Coalition (2022) Towards a Circular Economy in the Built Environment, overcoming 
+market, finance and ownership challenges. https://www.circularbuildingscoalition.org/resources
+2. Henriques, Figueriedo, and Nunes (2023) Product-Services for a Resource-Efficient and Circular 
+Economy: An Updated Review. https://doi.org/10.3390/su151512077
+3. WBCSD. (2018). Scaling the circular built environment – pathways for business and government. 
+https://docs.wbcsd.org/2018/12/Scaling_the_Circular_Built_Environment-pathways_for_business_and_
+government.pdf
+4. Stena Recycling (2022) Product-as-a-Service in the Circular Economy: the nine critical challenges and 
+how to fix them. https://www.stenarecycling.com/what-we-offer/stena-circular-consulting/success-stories-
+tools/reports-toolkit/product-as-a-service/
+5. Circle Economy (2020) Avoiding Blind Spots: Promoting Circular & Fair Business models. https://www.
+circle-economy.com/resources/avoiding-blindspots-promoting-circular-and-fair-business-models
+6. West, Stoll, Alves, and van der Valk. (2023) A Handbook for Advanced Service Contracts: From the 
+offer development to the governance of Advanced Services in dynamic emerging business. Institut für 
+Innovation und Technologiemanagement, Hochschule Luzern Technik & Architektur. 
+7. BASE (2022). Servitisation of the Cooling Industry: Cooling-as-a-Service. https://energy-base.org/app/
+uploads/2022/05/Cooling-as-a-Service-White-Paper.pdf
+8. Arup & Ellen MacArthur Foundation. (n.d.). Circular Buildings Toolkit. https://ce-toolkit.dhub.arup.com/
+9. Different initiatives are dedicated to the use of PaaS for other building layers such as the skin, with 
+Facade-as-a-Service (see, https://www.circle-economy.com/resources/facade-as-a-service ) or ‘stuff’ with 
+Furniture-as-a-Service (see, https://www.ellenmacarthurfoundation.org/circular-examples/bringing-office-
+furniture-full-circle).
+10. Annex II EU Taxonomy regulation delegated act (2023) https://finance.ec.europa.eu/system/
+files/2023-06/taxonomy-regulation-delegated-act-2022-environmental-annex-2_en_0.pdf
+11. Circle Economy (2016). Master Circular Business with the Value Hill. https://www.circle-economy.com/
+resources/master-circular-business-with-the-value-hill
+12. SET Alliance (2023). Brighter Future: Light-as-a-Service for Retail. https://set-alliance.org/a-brighter-
+future-how-light-as-a-service-is-revolutionising-retail/
+13. CaaS (2021) Singapore Data Centre and Manufacturing Facility Saves with Cooling as a Service. 
+https://www.caas-initiative.org/casestudies/caas-in-singapore-kaer/
+14. Johnson Controls (2021). https://www.johnsoncontrols.com/smart-buildings/net-zero-buildings
+15. Danfoss (2022) Danfoss & Ohmia Retail launch joint venture for “Refrigeration as a Service”. https://
+www.danfoss.com/en/about-danfoss/news/cf/danfoss-and-ohmia-retail-joint-venture/#:~:text=With%20
+%22Refrigeration%20as%20a%20Service,maintenance%20to%20ensure%20ongoing%20reliability.
+16. Cooling Post (2023) Carrier adds refrigeration-as-a-service offer. https://www.coolingpost.com/world-
+news/carrier-adds-refrigeration-as-a-service-offer/
+17. Advanced Services Group (2023) Solving Industry-specific challenges by providing advanced services: 
+a HVAC Industry perspective.
+https://www.advancedservicesgroup.co.uk/hvac_servitization_whitepaper/
+18. Circle Economy (2018) ‘Linear Risks’: How Business as usual is a threat to companies and investors.
+https://www.circle-economy.com/resources/linear-risks-how-business-as-usual-is-a-threat-to-companies-and-
+investors
+19. West et al., (2023) P.17, A Handbook for Advanced Service Contracts: From the offer development 
+to the governance of Advanced Services in dynamic emerging business. Institut für Innovation und 
+Technologiemanagement, Hochschule Luzern Technik & Architektur.
+
+36
+
+
+
+To contact the Servitisation for Energy Transition 
+(SET) Alliance secretariat:
+
+info@set-alliance.org
+www.set-alliance.org
+
+Follow SET on Linkedin and Twitter
+Subscribe to our newsletter
+
+An initiative led by BASE Foundation:
+
+Elisabethenstrasse 22
+4051 Basel, Switzerland
+P. +41 61 274 04 80
+F. +41 61 271 10 10
+
+www.energy-base.org
+Follow us on Linkedin and Twitter
+Subscribe to our newsletter

@@ -1,0 +1,130 @@
+﻿CACSAES ES STTUDYY  |   KIER CONSTRUCTION - MANSION HOUSE REFURBISHMENT
+
+Kier Construction - 
+Mansion House
+Refurbishment
+
+
+
+CASE STUDY  |  KIER CONSTRUCTION - MANSION HOUSE REFURBISHMENT
+
+Kier Construction  
+Mansion House Refurbishment
+Project background 
+This refurbishment of an existing stone and brick built Alex Marshall, Kier Construction Site Manager 
+hotel, the Mansion House, is located within university was delighted that the tool helped to focus the client 
+halls of residence and other mixed use land in the South of and designer’s attention on reducing waste, stating,
+Edinburgh. The project cost is just over £400,000, covering 
+776m2 floor space, and is due to complete in 2022. “ this is going to reduce 
+This site was chosen to trial the use of the new Construction 
+Waste Indicative Cost (CWIC) Calculator. The CWIC Calculator waste and save money”.
+analyses individual skips on construction sites, to estimate 
+the full cost of materials purchased, labour costs, and Skip layout 
+indirect costs.
+
+A 12-cubic yard (equating to ~16m3) mixed-waste skip was 
+The main contractor was tier one framework contractor placed at the front entrance of the building. Waste materials 
+Kier Construction. All construction work was delivered by were all carried by hand from the ground and two upper floors. 
+subcontractors who were financially responsible for all of the The distance from the mid-point of the main working area was 
+materials that they used. This arrangement motivated sub- estimated to be 116m, accounting for travel along corridors 
+contractors to be as efficient as possible regarding materials and staircases. 
+wastage. The main contractor used the BRE SmartWaste 
+tool to manage waste information and create a Site Waste 
+Management Plan. The contractor’s site manager also 
+completed an additional document used internally to 
+estimate approximate volumes of waste types.
+
+Lisa McDade, Kier Construction Environmental Advisor 
+was impressed by the level of detail from the CWIC 
+Calculator, stating that it,
+
+“ makes a really useful addition Figure 1: Skip location
+
+to the other waste data we 
+have to collect for compliance.” 
+
+She’d like to see it rolled out across all of their sites in 
+the future. 
+
+Figure 2: Checking travel distances on a site drawing
+
+
+
+CASE STUDY  |  KIER CONSTRUCTION - MANSION HOUSE REFURBISHMENT
+
+Figure 3: Sketched out distances to skip Figure 4: mixed waste arriving at the skip in a bin
+
+Individual materials were logged as timber off-cuts, plastic packaging, and demolition rubble. 
+Screws and their packaging were logged separately, demolition and stripping out waste was logged as bulk volumes.
+
+Figure 5: CWIC Calculator Set up page
+
+Figure 6: CWIC Calculator ‘Data input’ tab
+
+Figure 6 shows a screenshot of the completed Data input sheet. The rows, from left to right, show the categories 
+of waste that were logged. The volume column automatically calculates how much waste has been logged. 
+The right side of the volume column shows categories for ‘Condition’ of the waste (as judged by the user), 
+and two final columns to check ‘yes’ or ‘no’, depending on whether the waste materials had been installed 
+then removed, or replaced by new materials. If these are checked with a ‘yes’, then extra costs are added. 
+
+
+
+CASE STUDY  |  KIER CONSTRUCTION - MANSION HOUSE REFURBISHMENT
+
+Table 1: Overview of waste costs
+
+Overview of costs Sample: Per 1m3 For skip on site: 8 Yard skip 
+1.055* (m3) (12 Yards) equivalent
+
+Total Materials*  £331.30  £314.18  £2,356.33  £1,570.89 
+Total Labour *  £27.24  £25.84  £129.18  £86.12 
+Skip Hire (mixed)  £261.56  £34.87  £261.56  £178.33 
+Total (excl. VAT)  £722.04  £471.55  £2,747.07  £1,835.34 
+VAT  £144.41  £94.31  £549.41  £367.07 
+
+Grand Total  £866.45  £565.86  £3,296.48  £2,202.41 
+
+Table 1 shows an overview of the waste costs, automatically 
+analysed by the CWIC Calculator. The CWIC Calculator also 
+produces charts showing various aspects of the waste sample. 
+Figure 8 shows a breakdown of the material costs. Table 1 also 
+shows how much this cost is per cubic meter and extrapolates 
+the figures for the size of skip.
+
+Figure 9: Volume of waste
+
+Figure 7: Boxes of screws, packaging & mixed demolition waste
+
+Figure 10: Weight of waste
+
+Figures 9 and 10 show the amount of waste (including demolition 
+and packaging) in the sample, by volume and weight respectively. 
+These show that 57% by volume, and 62% by weight, of waste 
+material in the sample is demolition waste.
+
+Figure 8: Material cost pie chart
+
+
+
+CASE STUDY  |  KIER CONSTRUCTION - MANSION HOUSE REFURBISHMENT
+
+Figure 11: Source of waste
+
+Figure 11 shows the waste sources by volume. Demolition and packaging sources usually mirror the materials’ breakdown 
+percentages, as demonstrated here with 57% and 16% respectively. Besides the expected ‘cutting waste’ (off-cuts) and canteen 
+waste, the analysis shows some waste materials are due to ‘conversion waste’, which means the materials had to be ordered 
+in boxes or packages of more quantities than was required. In this case, perfectly useful screws and metal fixings had to be 
+skipped as they were surplus to requirements.
+
+This indicates a potential opportunity for better supply chain engagement as offering smaller pack quantities or running a  
+‘take-back’ scheme, could reduce waste.
+
+Figure 12: Condition of waste
+
+Figure 12 shows that 51% of the sampled waste would need to go to landfill. Whilst this is a subjective estimate, the analysis also 
+shows that just under 1% of the waste was ‘as good as new’, consisting of screws and fixings.
+
+EXPLORE THE CWIC CALCULATOR &  
+SITE WASTE REDUCTION PROTOCOL NOW
+
+Explore now

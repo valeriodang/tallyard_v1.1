@@ -1,0 +1,1035 @@
+﻿Site Waste 
+Reduction 
+Protocol
+
+
+
+Site Waste 
+Reduction 
+Protocol
+
+This protocol has been developed for use with the 
+Construction Waste Indicative Cost (CWIC) Calculator, 
+developed by Glasgow Caledonian University for  
+Zero Waste Scotland, and should be read in conjunction 
+with the CWIC User Guide which explains how to  
+input data for the tool in more detail.  
+
+The Protocol and CWIC Calculator were estimating methods, what materials are in 
+created to analyse individual skips on individual skips, how much it has cost to put 
+construction sites, to estimate the full them there, and why they have become waste. 
+cost of materials purchased, labour costs, This information will inform contractor Site 
+including indirect costs associated with Waste Management Plans, help reduce future 
+any rework and replacement of wasted waste arisings (and costs), as well as feed 
+materials, in addition to the more obvious into other tools used by contractors, such as 
+skip-hire costs. The Protocol is not intended SmartWaste (BRE 2022).  
+to provide a means of discharging the 
+wider Statutory obligations of contractors The protocol is labour-intensive, therefore 
+managing construction sites. There are contractors may decide to use it in a targeted 
+already tools available to help manage this, way, for sites generating higher than expected 
+such as the BRE SmartWaste tool  waste, or to sample similar sites’ waste for 
+(BRE 2022).  benchmarking purposes. Site management 
+
+teams may prefer to appoint others to 
+This protocol and the CWIC Calculator has undertake sampling on their behalf. Either 
+been developed on a simple Microsoft Excel way, the information generated can both 
+spreadsheet, aimed at contractors who inform management strategies and help 
+manage construction sites, focusing on site motivate employees to reduce materials 
+activities to categorise, quantify and analyse wastage on site.
+waste materials entering individual skips.  
+
+The information generated from individual 
+skips in this way will allow contractors to 
+see, more accurately than generic waste 
+
+
+
+Site Waste Reduction Protocol
+
+Scope
+
+1.2	 The protocol is not intended for skips with 
+This protocol sets out the principles only demolition, excavation or canteen 
+and methods to categorise and measure waste as these do not have a purchase 
+construction materials waste, and covers: cost for the project. The recommended 
+
+cut-off point for including this type of 
+—	 Scope waste is 90% of volume, after which usable 
+—	 Units of measurement waste data becomes negligible.  
+—	 Method
+—	 Analysis 1.3	 A ‘project’ cost does not necessarily 
+
+need to be borne by the main contractor 
+managing the site. Some costs associated 
+with skip-hire and materials purchasing 
+
+1.0 Scope may have been borne by others e.g. sub-
+contractors. However, the CWIC Calculator 
+
+The following points outline the scope 
+does not make any distinction between 
+
+of this protocol for categorising and 
+which parties have paid the costs and 
+
+measuring construction waste materials 
+merely uses indicative cost figures based 
+
+using the CWIC Calculator. 
+on industry databases (as at March 2022). 
+
+1.1	 This protocol is aimed primarily at Note however, that contractors can replace 
+‘construction’ waste materials that the indicative costs in the CWIC Calculator 
+have been purchased, then placed in with their own purchase costs for greater 
+a skip that will leave the site. Whilst accuracy (this process is explained later 
+demolition and excavation categories of under ‘Method’). 
+waste can be accommodated within the 
+
+1.4	 Whilst the protocol and CWIC Calculator 
+CWIC Calculator, this is purely so they 
+
+are intended for use by main contractors 
+can be identified separately from the 
+
+with overall site control of waste and skips, 
+waste materials that have a ‘project’ 
+
+they can also be used by sub-contractors, 
+cost. Likewise, canteen and office 
+
+if they purchase their own materials, have 
+wastes are considered as ‘Other’ waste 
+
+control over individual skips and what goes 
+and treated separately, with no cost 
+
+in them. 
+figures. 
+
+
+
+Site Waste Reduction Protocol
+
+Scope
+
+1.5	 What happens to waste once it has allow the CWIC Calculator to estimate 
+left the site, for example off-site the full skip contents (the running total 
+segregation to divert from disposal will change to amber after the sample 
+and/or landfill, is not considered amounts to over 1m3), but the closer the 
+separately in the CWIC Calculator. sample accumulates to 5m3 the more 
+Waste arising from construction work accurate the estimate will be. It is strongly 
+is the focus of the protocol, as the recommended that at least 5m3 of waste 
+generation of waste in the first place is is used in any one sample. 
+what is in scope. 
+
+1.8	 The more information that is logged 
+1.6	 The CWIC Calculator has been about the waste, the more analysis can 
+
+developed to analyse the contents be undertaken by the CWIC Calculator. 
+of a typical 8-yard mixed skip by The minimum information required is: 
+volume (m3). This is the main unit of type of waste (automatically aligned with 
+measurement for baseline calculations European Waste Catalogue (EWC) Codes 
+(although the protocol can be applied for typical construction materials), its 
+to any type of skip containing previously volume, whether the waste was installed 
+purchased materials, e.g. timber, then removed, if replacement materials 
+plasterboard, metal). The CWIC were needed, and average travel distance 
+Calculator also uses conversion factors from the work area to the skip. Additional 
+to show weight of each material type, in information, which allows further analysis, 
+metric tonnes. includes: ‘source of waste’ (why it is in the 
+
+skip) and the condition of the waste. 
+1.7	 A typical 8 yard skip has been assumed 
+
+to hold 5m3 of waste (allowing for void 
+space), although fully compacted skips 
+can hold up to 6m3. Therefore, for 
+meaningful comparisons, regardless 
+of actual skip size used on site, the 
+volume of waste collected for each 
+piece of analysis should be between 
+5m3 and 6m3. A running total in the 
+CWIC Calculator changes from red to 
+green once 5m3 of waste has been 
+logged, this returns to red again if 
+the volume logged exceeds 5.9m3. A 
+minimum of 1m3 of waste sample will 
+
+
+
+Site Waste Reduction Protocol
+
+Units of measurement
+
+2.1	 The CWIC Calculator uses the type and similar dimensions can be logged 
+volume (m3) of an 8 yard mixed skip together using the ‘number of similar 
+as its baseline. This is based on objects’ option (explained further under 
+historical calculations and allows ‘Method’).  
+for comparisons with previous data. 
+This means that the most desired 2.5	 The CWIC Calculator automatically 
+volume of waste required per skip to converts volumes of the same waste 
+run an accurate analysis is 5m3 (1m3 type to its corresponding weight using 
+minimum, 5.9m3 maximum).  conversion factors (SEPA 2014). This allows 
+
+for wider comparison with other tools and 
+2.2	 If the skip being analysed is an 8 yard methods of waste management. However, 
+
+skip, then log details of its entire the majority of analysis is in the volume 
+contents. If it is less than 8 yards, (m3) unit of measurement. 
+continue to log details from additional 
+skip(s) until at least 5m3 of materials 2.6	 Costs are in Pounds Sterling (£), excluding 
+is achieved. If the skip is more than 8 VAT which is shown as an optional 
+yards, stop after 5m3 of materials is additional cost (based on 20% as at March 
+achieved (the volume is automatically 2022) in the ‘Dashboard Costs’ analysis tab 
+scaled up from 5m3 to the expected of the CWIC Calculator. 
+volume of any larger skip sampled).  
+
+2.7	 Cost calculations are automated in the 
+2.3	 If the skip being analysed is not a CWIC Calculator. This means units of 
+
+mixed skip, then this affects the skip- measurement for costing purposes are 
+hire cost. For such skips, the CWIC embedded in the background calculations, 
+Calculator allows the skip hire cost to i.e. ‘Each’; ‘Linear meter’; ‘Square meter’; 
+be altered (exclude VAT as this is added ‘Cubic meter’; and ‘Litre’. However, when 
+later). This process is explained further there is more than one option e.g. ‘Timber: 
+under ‘Method’. Linear’ and ‘Timber: Sheet’, a second 
+
+tier of material descriptions allow these 
+2.4	 Volume (m3) is the unit of separate cost units of measurement to be 
+
+measurement for data input. This is used. Therefore, it is important to choose 
+measured via material dimensions e.g. ‘Timber: Linear’ if logging lengths of 
+(mm). The dimensions are estimates, timber framing, and not ‘Timber: Sheet’.
+based on observation of waste in the 
+skip (or as it is going into the skip) 
+and is recorded as length, width, and 
+thickness. Waste material of the same 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+3.1	 The person logging waste data from of falling from height or being struck by 
+the skip is referred to as ‘the user’. objects. If waste materials are collected in 
+
+the skip via a waste chute, then site safety 
+3.2	 Preparation: ensure the user is trained precautions need to be implemented to 
+
+in construction site health and safety, take the skip out of commission every time 
+has received a site induction, been risk access is needed for data collection. It is 
+assessed, and is wearing appropriate an express requirement of this protocol 
+PPE for the site they are on. that the user NEVER enters a skip to 
+
+collect data. Likewise, if materials are 
+3.3	 Tools: the CWIC Calculator has been transported and delivered into the skip 
+
+created in Microsoft Excel, therefore via a vehicle, typically a telescopic forklift, 
+a hand-held device which can run then the user should stand in an area 
+Excel is the preferred option for data where they can see vehicles approaching 
+collection. A hard-copy version of the the skip area. Users should also stand 
+sheet can be printed but this would back when a vehicle approaches the skip. 
+need to be manually input to a PC 
+or laptop after data is collected and 3.5	 The CWIC Calculator was created on 
+introduces the potential for input Microsoft Excel 2016 (32-bit), and should 
+errors. It is also advised to have a steel be saved as a new file (with a new file 
+measuring tape to give the user an name), each time data for a skip (usually 
+idea of approximate waste material 5m3 of material) has been input. 
+dimensions; and a digital camera 
+(most phones or hand-held devices 
+will do). Photos become extremely 
+useful if waste arrives at the skip in 
+loads (e.g. bins or by forklift) which 
+can be overwhelming when trying to 
+log information. Photos allow quick 
+placeholders to be noted in the ‘Data 
+input’ rows (see Section 3.11), which 
+can then be completed during quieter 
+times. 
+
+3.4	 Access to the skip: the location and 
+methods of filling the skip will dictate 
+access to it. Always identify a safe place 
+to stand, where there is no danger Figure 1: telescopic forklift at skip 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+3.6	 CWIC Calculator – Set up page: Note 3.8	 Set up page – Distances to skip: the 
+that all cells that require/allow data average distances to the skip should be 
+entry are green. Figure 2 shows the input here. There are three modes of travel 
+‘Set up’ page, pre-populated with allowed for and the user should use all 
+example data. This requires the that apply, note that the ‘Total average 
+user to insert the date(s) when data (auto)’ field is automatically calculated on 
+collection took place; Company name; the spreadsheet. However, there is also an 
+User name; and Site/location. The option for the ‘Total average (manual)’ to 
+Site/location field can also be used to be used.
+include any site-specific reference.  
+
+3.9	 Estimating average distances to skip: It 
+3.7	 Figure 2 also shows fields with drop- is advised that a site (or building) layout 
+
+down lists for: ‘Construction type’; drawing be used (see Figure 3) to help 
+‘Project type’; ‘Project phase’; ‘Season’ estimate average distances to the skip.  
+and ‘Weather’.  
+
+Figure 2: Drop Down
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+Table 1: Project types
+
+Mode of transport (if used to transport waste) Estimation method(s) in meters (m) 
+Walking Estimated from the centre of the work area (or 
+
+floor-slab) to either the skip or where another 
+mode of transport is used. 
+
+Hoist/lift (vertical) Either the full height to a single work area or half 
+the total height for work areas on multiple floors. 
+
+Vehicle Either the distance from a single work area to 
+the skip by vehicle, or the average distance from 
+multiple work areas to the skip. 
+
+Cumulative total Total distance calculated automatically 
+Or: Total (manual) Estimate travel distance from the mid-point of the 
+
+site to the skip. 
+
+3.9.1	 Average distance on foot the skip, or the average distance 
+should be estimated from the from multiple work areas. 
+centre of the work area (or Different speeds and plant costs 
+floor-slab) to either the skip are included in the automatic 
+or to where another mode of calculations depending on which 
+transport begins.  combination of travel modes are 
+
+used.  
+3.9.2	 There is an option to include 
+
+further travel via hoist or lift, 3.9.4	 Alternatively, use the ‘Total 
+the average distance should average (manual)’ option to 
+either be the full height to a estimate travel from the mid-
+single work area or half the point of the site to the skip. This 
+total height if work areas are is less accurate but can be used 
+on multiple floors.  if the more detailed breakdown 
+
+cannot be easily obtained. Table 1 
+3.9.3	 There is also an option to summarises these options.
+
+include travel to the skip 
+via vehicle. Average vehicle 
+distance is either the distance 
+from a single work area to 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+Figure 3: Example site layout 
+
+3.10	 Set up page – Size of skip sampled:  	 is input. This sheet takes the form of  
+	 The default skip size is an 8 yard  	 a table with headings describing what  
+	 skip. But the user has the option to  	 information is needed, and rows for  
+	 increase the size (there is no smaller 	 inputting information relating to each  
+	 option because ‘8 yard’ is the  	 waste item (or collection of similar  
+	 minimum for calculating the  	 items) in the skip. Data is input from left  
+	 figures). Alternative sizes go up to 40 	 to right along each row, as shown  
+	 yards and are used to alter the cost  	 in Table 2. There are some useful tips  
+	 and volume parameters for analysis.  	 regarding data input as follows: 
+	 Note that the skip options appear as  
+	 a drop-down list and, like every  3.11.1	 Try to be specific; there are some 
+	 drop-down list in the CWIC  waste categories that include 
+	 Calculator, it has a darker shade of  multiple materials in their 
+	 green than the others. description. But there is a two-tier 
+
+system for specific categorising 
+3.11	 CWIC Calculator – Data input page  of waste in the second tier. Using 
+
+	 (left side): The ‘Data input’ tab  the second tier will help avoid 
+	 (which appears along the bottom  combining multiple wastes in one 
+	 of the spreadsheet – see Figure 2) is  data entry. Doing this will lead to 
+	 where most of the waste information more accurate cost analysis. 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+3.11.2	 Take time to learn the drop- 3.11.3	 Some options on the Data input 
+down lists; the two-tier system tab have been developed to be 
+means some materials are not complementary, for example, 
+obvious until the Tier 1 option there are several types of 
+is chosen. For example, ‘mixed packaging waste in the Tier 1 
+construction and demolition drop-down list. The most common 
+wastes’ is a Tier 1 option that reason packaging ends up in 
+allows materials such as the skip is because it cannot be 
+bricks, plasterboard, timber returned to the supplier, therefore 
+etc. to be logged in Tier 2. But ‘not recovered by supplier’ is an 
+if demolished bricks, timber, option for the waste ‘Source’ (see 
+plasterboard etc. are logged in Section 3.13). 
+Tier 1, the CWIC Calculator will 
+assume this is material that 3.11.4	 Under the ‘Other Each’ Tier 
+was purchased for the project 1 categories, there is a Tier 2 
+and add purchase costs, which option for ‘Other [Zero Cost]. This 
+is incorrect. As a general rule, category has been included to 
+only use ‘mixed construction identify other waste (not identified 
+and demolition wastes’ for elsewhere) with zero cost to the 
+existing in-situ material project e.g. office and canteen 
+that has been demolished, waste (explained further in the 
+deconstructed or stripped out.  CWIC User Guide). 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+Table 2: Data input headings (left side) 
+
+3.12	 Table 2 shows the following  3.12.4	  Description of waste – secondary 
+	 information: lists of materials for greater cost 
+
+accuracy. Most include a ‘general’ 
+3.12.1	 Sequence number – option if specific materials are not 
+
+automatically generated, from on the list. 
+1 to 200. 
+
+3.12.5	  Notes on waste – user defined 
+3.12.2	 Type of waste – choose from notes (these can only be seen 
+
+the drop-down list, there are in the ‘Data input’ screen), 
+‘Other’ options for anything and can be used to record e.g. 
+not on the list (Each; Linear corresponding photos of the waste 
+metre; Metre squared; Metre taken on site. 
+cubed, depending on the unit 
+of measurement that the 3.12.6	  Source of waste – reason why the 
+material is usually purchased). waste is in the skip. This is a pre-
+
+populated drop-down list.
+3.12.3	 Waste code – automatically 
+
+filled with EWC code, 3.13	 The options in Table 2 should be self- 
+depending on type of 	 explanatory, with the exception of the  
+waste chosen. Note: only 	 final column. The ‘Source’ of  
+‘construction and demolition’ 	 the waste is included as a way of  
+waste codes are explicitly used 	 understanding why the waste is in  
+(those beginning with a ‘17’) 	 the skip. In many cases this may be  
+any other waste (e.g. tools, 	 due to e.g. off-cuts. However, there  
+equipment, furniture, carpets) 	 may be other reasons why the waste  
+are treated as ‘Other’. 	 is in the skip, which are explained  
+
+	 further in Table 3. 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+Table 3: Source of waste 
+
+Source Description 
+Application and residue waste (spillage) Site error, liquids or liquid at the time that have 
+
+spilled (should not be in a mixed waste skip if 
+hazardous). 
+
+Canteen and office waste Welfare waste, paper waste etc.  
+Client/designer change of mind Result of third party (not contractor) change e.g. 
+
+design/specification change after materials have 
+been purchased/installed. 
+
+Conversion waste (dimensions) When materials can only be ordered in a pack or 
+dimensions which results in more than is needed 
+(uncut materials). 
+
+Criminal waste (vandalism) Intentional criminal damage or vandalism. 
+Cutting waste Common cause of waste, cutting materials to size 
+
+(cut materials).  
+Damaged: Site storage and internal site transit Site error, damaged whilst stored or being moved 
+waste around the site. 
+Damaged: Transport and delivery Already damaged on arrival at site (assuming 
+
+quality control procedures must have failed). 
+Damaged: Weather Damaged on site, specifically due to weather 
+
+conditions. 
+Demolition and stripping out Not previously purchased materials that are 
+
+removed from existing, in-situ. 
+Design error Potentially multiple reasons such as inappropriate 
+
+specification, dimensional error, planning breach 
+or anything else under a designer’s control. 
+
+Excavated waste Not previously purchased materials but removed 
+from existing in-situ. 
+
+Excess materials (too much in a batch) Site error, when too much material (e.g. 
+cementitious) is batched on site (not over-
+ordering) 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+Table 3: Source of waste 
+
+Fixing waste: built in wrong place Only if a ‘site’ error i.e. contractor or sub-
+contractor error. Material installed then removed. 
+‘Design error’ if built to the design, which turns 
+out to be wrong. 
+
+Fixing waste: poor workmanship/quality Site error, contractor/sub-contractor 
+workmanship.  
+
+Learning waste Site error, new operative or new material being 
+wasted until optimum working method is reached. 
+
+Manufacturing defect Defects prior to arriving on site, not always 
+obvious, could appear after installation. 
+
+Not recovered by supplier (packaging) All types of packaging, including wooden pallets, 
+are not recovered by supplier. 
+
+Over ordering Ordering more than is needed. If unopened full 
+packs/bags. 
+
+Temporary Works Required to create the permanent works e.g. 
+single-use formwork/falsework, installed then 
+removed. 
+
+Waste caused by other trades (if unprotected) Site error, due to lack of protection after material 
+is installed. 
+
+Wrongly specified (by contractor) If the contractor has responsibility for specifying 
+materials (and not designer). 
+
+3.14	 Source of waste: Small off-cuts can  	 to over ordering); and ‘Conversion  
+	 be considered as ‘off-cuts’ but 	  	 waste’ should only be used when  
+	 anything more than 50% left uncut  	 materials can only be ordered in a pack  
+	 may point to another source e.g.  	 or dimensions which results in more  
+	 ‘Learning waste’ or ‘Design error’.  	 than is needed for the job, i.e. the  
+	 There is scope to confuse different  	 pack or bag has been opened but not all  
+	 sources e.g. ‘Over ordering’ should  	 contents have been used. 
+	 only be chosen if full packs/bags are  
+	 in the skip; whereas ‘Excess  3.15	 CWIC Calculator – Data input page (right  
+	 materials’ means there was too  	 side): Table 4 shows the right side of the  
+	 much from a site batch (as opposed  	 Data input sheet. The headings on this  
+
+	 side of the sheet continue from left to  
+	 right, following on from those shown in  
+	 Table 2. 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+Table 4: Data input headings (right side) 
+
+Missing image
+
+3.16	 The first heading in Table 4 shows the next 
+option for data entry, following on from 
+entering the ‘Source’ of the material. This 
+option is for entering how many objects of 
+the same material and of similar size there 
+are e.g. the number of single bricks. This is 
+particularly useful when a load of e.g. cut 
+plasterboard sheets are placed in the skip at 
+the same time. Even if they are of differing 
+sizes, observing the smallest and largest 
+sheet will allow an estimate to be made of the 
+average dimensions per sheet (for sheeted 
+materials the thickness can be assumed to 
+be the same) to input the load on one row. It 
+is essential to input a number ‘1’ for single 
+objects so the ‘volume’ calculator works 
+properly. 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+waste volume as it is being logged. In 
+the example in Table 4, there is currently 
+only 1.193m3 of waste logged, therefore 
+the figure is amber (as it is over the 
+minimum 1m3) and will remain amber 
+until 5m3 is logged.
+
+Figure 4: multiple similar objects can be 
+entered in one row 
+
+3.17	 The dimension columns should be 
+self-explanatory. However, note 
+that the ‘Total volume’ column is 
+auto-filled (this column is not green, Figure 5: estimating dimensions with a 
+indicating it is not for data input) measuring tape
+and should not be used to estimate 
+the volume of objects – the three 3.18	 When volumes of waste material are 
+dimensional planes need to be used being estimated there are some tips 
+for this data input. This is where a to follow. Discarded containers, such 
+measuring tape is useful to help as buckets are usually filled with air 
+record dimensions. There should rather than the material they are 
+be no need to retrieve materials out made of. Therefore, simply estimating 
+of the skip or go into the skip. But the dimensions of the bucket’s base 
+rather, use the tape on a sample of multiplied by its height will calculate 
+materials as they are going into the more material than there actually is 
+skip (which then makes for a useful (which will inflate cost calculations). 
+dimensional reference point), or hold To avoid this error, estimate the 
+the measuring tape up to the skip dimensions of the sides (height and 
+to note typical distances in relation circumference) and add the approximate 
+to the side of the skip. Note that radius of the base to the height. This 
+the ‘Total volume’ heading in Table provides an approximate ‘length’ 
+4 incorporates a running total of (circumference) and ‘width’ (height + 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+is little or no void space then use the 
+volume of the container as the measure 
+(a visual estimation of any void space 
+can be used to subtract form the total 
+volume).
+
+Figure 6: estimating volume of containers 
+
+radius) dimension for data input, 
+which leaves ‘thickness’, measured 
+as the thickness of the material the 
+container is made of.
+
+3.19	 Bulk materials are regularly brought Figure 7: container for transporting waste to 
+to the skip in various containers, e.g. the skip 
+wheel barrows, wheeled bins, boxes 
+etc. When containers of this type 3.20	 Bulk materials in bags present a 
+are presented at the skip, a quick challenge for estimating their contents 
+estimate needs to be made of its and dimensions. A conversation with 
+contents before they are emptied into the operative(s) using the skip helps 
+the skip. It may be easier to note the to establish if there are several bags 
+contents after this point (i.e. when of similar material and what the waste 
+they are visible in the skip). However, material is likely to be. If possible, open 
+they can be estimated together if a single bag, or samples from multiple 
+the contents of each container are of bags, to inspect the contents. Use 
+the same material. In this scenario, the same method recommended for 
+there are a few options: (1) if there containers, when estimating either the 
+is more void space than materials bulk volume of bags or the individual 
+it will be easier to estimate the contents. 
+approximate number and dimensions 
+of the materials (a photo with the 
+measuring tape beside the container 
+helps if time is a factor); if there 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+of the waste materials regarding the 
+potential for reuse or recycling (i.e. 
+circular economy). The options come 
+from a drop-down list as follows: 
+
+3.21.1	 As good as new 
+
+3.21.2	 Potentially reusable 
+
+3.21.3	 Slight damage/Repairable 
+Figure 8: bags of waste 
+
+3.21.4	 Suitable for recycling 
+
+3.21	 The next column, after ‘Volume’, is 3.21.5	 Mostly recyclable (applicable to 
+the ‘Condition’ of the waste. This field multiple or bulk materials) 
+allows an estimation of the suitability 
+
+3.21.6	 Disposal/Landfill
+
+Table 5: Condition of waste 
+
+Category Description and comments 
+
+As good as new Undamaged; in original packaging, or protected against 
+damage. 
+
+Potentially reusable* Undamaged; can be used for its original purpose*. 
+
+Slight damage/Repairable Damaged; superficial surface damage; scuffs, 
+scratches, chips under 10mm. 
+
+Suitable for recycling Damaged, cut, missing parts; can be recycled without 
+cleaning/preparation; free from contamination.  
+
+Mostly recyclable Bulk materials in various conditions and levels of 
+contamination; requiring preparation (e.g. cleaning, 
+repair, etc.). 
+
+Disposal/Landfill Damaged/contaminated, as described in Appendix 1, 
+or not on the list of materials suitable for recycling in 
+Appendix 1. Disposal in the majority of cases will be 
+landfill or low value reuse of material. 
+
+* Additional SEPA rules apply; if waste material leaves site or there is a change of ownership it cannot be legally 
+classified as ‘Reusable’. Definition in the CWIC Calculator means it ‘could’ be reused (Potentially reusable), rather 
+than legally classified as ‘Reusable’ (ZWS 2020). 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+3.22	 The final two columns of data input 3.24	 There are a few more additional options 
+allow further cost calculations to available to the user which allows for 
+be made, depending on whether a more tailored analysis when using 
+materials were installed then the CWIC Calculator. There are five 
+removed, and/or replaced with new ‘Dashboard’ tabs and a ‘Report’ tab 
+materials. These options are closely (blue in colour) to the right of the two 
+linked to the ‘Source’ options for the green ‘Set up’ and ‘Data input’ tabs in 
+materials, however, their application the spreadsheet (see Figure 2). These 
+is left to the discretion of the user are prepopulated with tables and pie 
+as they need to be considered on charts which will automatically generate 
+a case by case basis. For example, analysis of the data inputted for any 
+the first of these columns should be given skip. Interpretation of these tabs 
+checked if, e.g. a wall was built in the is covered later, but for the purposes 
+wrong place, then pulled back down. of additional data input, click on the 
+Further, if a new wall had to be built ‘Dashboard Costs’ tab, and note there 
+in the correct location as a result is a green field to allow the ‘skip hire 
+of this, then the second column cost’ to be changed. This is useful for 
+should also be checked. However, two reasons: (1) if the skip that was 
+another scenario applicable to these sampled is NOT a mixed skip (e.g. a skip 
+columns may be materials with a for specifically segregated waste which 
+manufacturing defect, which may is usually less expensive), then the user 
+be discovered before (don’t check can input the skip hire cost (excluding 
+the columns) or after (do check the VAT); (2) if the default cost estimate for 
+columns) being installed on site. Note the skip hire is different from what was 
+that if these last two columns are left actually paid, this field can be used to 
+blank the CWIC Calculator assumes record a more accurate figure. Table 6 
+them to be ‘No’ (see Table 4). illustrates this feature, simply input the 
+
+cost (excluding VAT) for the skip in the 
+3.23	 This concludes the main data input green box.
+
+options. Further descriptions and 
+examples to aid data input are 
+provided in the CWIC Calculator User 
+Guide [link].   
+
+Table 6: Alternative skip hire cost 
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+3.25	 To the right of the blue ‘Dashboard’ which is not a standard default option 
+tabs, there are further (grey) tabs from the CWIC lists. Likewise, Table 
+which contain all of the lists and 7 shows a barrow and carpet tiles 
+formulas for the various calculations (per square metre) as textiles are not 
+the CWIC Calculator performs. On specifically labelled construction and 
+the ‘Costs’ tab, there are green fields demolition waste (17-XX-XX) under 
+beside the ‘materials’ ‘labour’ and the EWC (textiles are coded 20-01-11). 
+‘plant’ columns for various ‘Other’ Up to 9 different one-off items can be 
+material options. These are default added to the ‘Others’ lists for each 
+to zero. However, if there are unusual unit of measurement (i.e. Each; Linear 
+materials, not found in the default metre; Square metre; Cubic metre). 
+list, then costs can be manually The user has the option to include the 
+inserted here for any of the ‘Other’ materials (‘Materials Rate’), labour, 
+cost options: i.e. Each; Linear metre; and associated plant costs (per unit of 
+Square metre; Cubic metre.  measure) if they have this information 
+
+and wish to include it as a project cost, 
+3.26	 Table 7 illustrates how ‘Other’ names which will automatically be added to the 
+
+and costs can be input, note in the cost calculations. However, these can 
+example £10 per item has been also be left blank if, for example, the 
+inserted to demonstrate the cost wheelbarrow was owned by a third party 
+of a ‘Broom’ (in the ‘Other_Each’ or was already on the site and therefore 
+option under the ‘Material’ column) not a project cost.
+
+
+
+Site Waste Reduction Protocol
+
+Method
+
+Table 7: ‘Other’ cost options 
+
+3.27	 The ‘Costs’ tab allows for any of the 3.28	 Advanced tailoring is possible, to 
+material, labour and plant costs add new options of construction and 
+to be manually altered from the demolition waste in the ‘Costs’ and 
+default ‘indicative’ cost, to a specific ‘Lists’ tabs. However, it is recommended 
+purchase price decided by the user. to use the existing pre-populated lists 
+This allows for a more accurate cost which have two tiers of categories: Tier 
+calculation, based on the actual costs 1 aligned with EWC Codes, and Tier 2 
+incurred, if the user has these to with specific descriptions (see Table 
+hand. Simply scroll down the sheet to 2 ‘Type of waste’ and ‘Description of 
+find the other green columns where waste’). Most Tier 2 categories include a 
+the default costs are located to make ‘general’ option for any materials that do 
+any desired changes. But be careful not match the existing categories, which 
+to note the unit of measurement that is preferred to creating new options. The 
+the cost figure is based on so like- CWIC User Guide [link] describes how to 
+with-like replacements can be made insert new Tier 2 options if users require 
+e.g. do not replace a ‘square metre’ this (there is no facility to add new Tier 1 
+rate with a ‘cubic metre’ rate. options to maintain continuity of data).  
+
+
+
+Site Waste Reduction Protocol
+
+Analysis
+
+4.1	 There are five ‘Dashboard’ tabs, located 
+at the bottom of the spreadsheet (in 
+blue), which show analysis for the 
+data input via tables and pie charts. 
+There is also a sixth blue ‘Report’ tab, 
+which summarises the contents of the 
+previous five Dashboards in one sheet 
+for ease of extraction to company-
+specific databases.  
+
+Figure 9: Refresh Dashboard tables, 
+4.2	 Each tab contains a blue-headed table 
+
+remove zeros 
+which can be updated every time new 
+data is added. To refresh the table, 
+
+4.3	 The Dashboard data for each skip can be 
+click on the filter icon at the top of the 
+
+saved individually. All data shown can also 
+last column (see Figure 9), which will 
+
+be copied and saved to an organisation-
+show a list of values that can be seen 
+
+specific database, which can be used to 
+in the table. First, check ‘Select all’, 
+
+help input detailed data to other tools, 
+then uncheck any ‘zero’ options (e.g. 
+
+such as BRE SmartWaste. The easiest way 
+£0; £-; 0). This will result in the table 
+
+to copy and paste output data is to use 
+and the linked pie chart automatically 
+
+the ‘Report’ tab, which presents all the 
+updating to include all new materials 
+
+data from the individual Dashboard tabs in 
+from the ‘Data input’ tab, whilst hiding 
+
+one spreadsheet. The cost data will allow 
+all zero values to create a clean and 
+
+construction organisations to monitor the 
+uncluttered table and pie chart. The 
+
+full cost of their waste on a skip by skip 
+same method should be applied to 
+
+basis, and with the additional analysis, 
+all the other Dashboard tabs: ‘Dash 
+
+help to pinpoint where waste is originating 
+Volume’; ‘Dash Weight’; ‘Dash Source’; 
+
+from on their construction sites. 
+‘Dash Condition’ to see the updated 
+results. More detailed information on 
+the Dashboard tabs is provided in the 
+CWIC User Guide [link]. 
+
+
+
+Site Waste Reduction Protocol
+
+References
+
+BRE (2022) SmartWaste: Sustainability Appendix 1: Construction materials suitable 
+and environmental monitoring and for recycling* 
+reporting software for construction, 
+property development, offsite and product *Dependent on the condition and level of 
+manufacturing, Building Research contamination. Assume the following are not 
+Establishment (BRE): https://www. suitable: 
+bresmartsite.com/products/smartwaste/
+
+1.	 Contaminated materials; 
+SEPA (2014) Density conversion factors for 
+waste, Scottish Environment Protection 2.	 Whole objects (e.g. statutes, fireplaces, 
+Agency (SEPA), https://www.sepa.org.uk/ bathroom fittings) that have been damaged; 
+media/163323/uk-conversion-factors-for-
+waste.xlsx 3.	 Materials in damaged containers (e.g. 
+
+paint).   
+ZWS (2020) Maximising re-use of materials 
+on-site; Zero Waste Scotland https://www.
+zerowastescotland.org.uk/sites/default/
+files/Maximising%20Re-use%20of%20
+materials%20on-site_0.pdf
+
+
+
+Site Waste Reduction Protocol
+
+References
+
+Material Examples 
+Excavated material Top soil, concrete, rubble, clay. 
+Iron and steel Rolled steel joint (RSJ), structural steel, water 
+
+tanks, steel buildings, stainless steel sinks 
+and kitchens, modern pressed steel baths, fire 
+escapes. 
+
+Wood off-cuts Softwood studding, modern staircases, modern 
+mouldings, scrap timber, cheap wood and panel 
+furniture. 
+
+Beams Beams, joists, trusses, rough sawn planks, railway 
+sleepers, baulks, good pine or oak ceiling joists. 
+
+Brick, concrete and masonry Common / building bricks, fire or refractory 
+bricks, ceramic glazed, engineering bricks, paving. 
+Masonry: Marble, granite travertine, limestone, 
+cast stone, concrete block, glass block and cob. 
+
+Carpet tiles Various fibres and yarns: Wool and wool blends 
+nylon, polypropylene, polyester, acrylic. 
+
+Ironwork Wrought iron, cast iron and early steel columns, 
+conservatories, windows, doors trusses, frames, 
+features and staircases. 
+
+Ironwork and brassware Cast iron radiators, fire surrounds, kitchenware, 
+door fittings, window fittings, church fittings, 
+statues, urns, stoves, fire grates, grilles, gates, 
+railings, cast and wrought iron furniture and 
+fountains, made from iron, lead, brass, bronze, 
+copper, spelter and aluminium. 
+
+Paving Concrete products, flagstones, clay floor tiles and 
+brick pavers. 
+
+Roofing Reclaimed clay plain tiles, clay pantiles, clay 
+interlockers, Bridgwater double triple and single 
+romans and others, concrete tiles, stone tiles and 
+slates, reclaimed natural roof slates, ridge and 
+hips. 
+
+Scrap wood Chipboard, plywood, MDF offcuts. 
+
+
+
+Site Waste Reduction Protocol
+
+References
+
+Trees and shrubs Evergreen or deciduous trees / shrubs varying in 
+size. 
+
+Wood flooring Wood floorboards, roof boards, woodblock, wood 
+strip, parquet, re-sawn beams. 
+
+Woodwork Doors, door surrounds, window frames, window 
+surrounds, shutters, staircases, facades, 
+mouldings, skirting, dado, cornice, porches and 
+cladding. 
+
+Decorative woodwork Carved work, fire surrounds, church or pub 
+interiors, shop fittings, institutional woodwork, 
+carved relief panels, statues, bygones, carved 
+ships figureheads, fire surrounds, panelling and 
+panelled rooms. 
+
+Bricks Handmade bricks, wire cut bricks, machine made 
+bricks and pressed bricks. 
+
+Electrical equipment Cables, light fittings, consumer unit, alarm 
+systems. Free standing equipment: kitchen 
+appliances, visual and audio equipment. 
+
+Excess insulation from exterior cavities Foam board or rigid foam (polystyrene, poly-
+isocyanurate, polyurethane), loose-fill and 
+blown-in (cellulose, fibreglass, mineral wool), 
+reflective system (foil-faced kraft paper, plastic 
+film, polythene bubbles or cardboard), structural 
+insulated panels, rigid fibrous or fibre insulation, 
+sprayed foam, blanket insulation (fibreglass, 
+mineral wool, plastic fibres, natural fibres). 
+
+Pallets Timber pallets from transportation of materials 
+(blockwork, bricks, cement, grout, tiles, etc.). 
+
+Stone Walling stone, random, pitch-faced, dressed, 
+ashlar, copings, dressings, calls, lintels and 
+quoins. Door surrounds, window surrounds, 
+steps and stairs, facades, stone features, cornice, 
+mouldings, string course, portico, porches and 
+cladding in natural stone, composition stone and 
+concrete. 
+
+
+
+Site Waste Reduction Protocol
+
+References
+
+Bathroom sanitary ware Baths, basins, toilets, cisterns, towel rails, 
+bathroom cabinets, brass taps, shower heads, 
+flush pipe, stoneware, earthenware, porcelain, 
+vitrolite, brass, lead and copper bathroom fittings. 
+
+Ceramic structures Heavily moulded or bas-relief bricks, columns, 
+cladding and balustrade. 
+
+Ceramic objects Statues, vases, reliefs, moulded detail, fireplaces, 
+garden ware, garden edging, flowerpots in fired 
+clay, earthenware, stoneware, composition stone 
+etc. 
+
+Paint Unused quantities of paint. 
+Plasterboard Used for walls, ceilings, partitions and 
+
+encasements etc. 
+Stonework Carved stonework, statues, urns, troughs, pillars, 
+
+cider presses, cider mills, fire surrounds and 
+capitals. 
+
+Source: ZWS (2020) 
+
+EXPLORE THE CWIC CALCULATOR &  
+SITE WASTE REDUCTION PROTOCOL NOW
+
+Explore now

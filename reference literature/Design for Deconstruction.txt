@@ -1,0 +1,126 @@
+﻿DESIGN FOR DECONSTRUCTION
+P R A C T I C A L  G U I D E
+
+This Practical Guide covers 
+key principles of designing for Principles of Design for Deconstruction in the 
+deconstruction in the built environment. built environment
+
+Here are some of the key elements that are necessary when 
+designing for deconstruction.
+
+1 | Reversible connections
+I N  A  S N A P S H OT
+
+When considering construction methods, use connections such 
+as screws and bolts that can be easily reversed over permanent or 
+
+Design for deconstruction (or Design for Disassembly) non-reversible ones. This allows for faster and easier disassembly at 
+os where buildings, products and components are the end of life while also better maintaining the integrity of a given 
+designed in a way that can be taken apart, recovered, and material.
+re-used at the end of their lives. It is key to considering 
+the complete lifecycle of a product or building and can 2 | Lack of glues, chemical bonding, and other 
+be done by planning disassembly at the end of life stage processes which cannot be reversed 
+using techniques like reversible connections such as screws Any connection that is permanent, difficult to reverse, or causes 
+and bolts over non-reversible ones such as glue or other significant damage to a component or material during disassembly 
+chemical fixings. By considering the end of life of a building should be avoided. This will help to maximise recoverable material 
+during desing, a greater percentage of materials can be in any given project. 
+reclaimed and reused.
+
+3 | Ease, speed and cost of disassembly
+Why is it important? Building, components, and materials should be able to be 
+
+disassembled quickly, easily, and at little extra cost. By designing for 
+In order to create a more sustainable built environment, we need disassembly before construction, more material can be recovered 
+to move towards a circular economy. Two core circular economy faster and with little to no additional cost. 
+pronciples are ‘maximising reuse’ and ‘minimising impact and 
+waste’. Designing for deconstruction can play a key part in 4 | Simplify and separate building systems
+enabling this in the built environment. By designing buildings Separating building systems into non-structural elements of 
+that can be deconstructed or disassembled, building structures, a building allows for easier repairs, upgrades, and removal of 
+materials, products, and components are kept in the loop instead components.
+of wasted. 5 | Storing data and deconstruction information
+Some important benefits that come form designing for 
+deconstruction include a reduction in demolition waste that Data and information on deconstruction must be stored properly 
+goes to landfill, a reduction in carbon emissions that come from to be used many years in the future at the end of a buildings life. A 
+remanufacturing and reprocessing materials, as well as greater deconstruction plan should be created and stored with other data. 
+flexibility in the way spaces are used. 6 | Consideration for worker safety
+Deconstruction must be designed for in the early stages of a 
+building project in order for disassembly to effectively occur Materials, products, and components should have low risk of 
+decades in the future. Without considering deconstruction at the hazards to those who interact with a project. Use of hazardous 
+design stage, material recovery becomes more costly and time materials should be kept to a minimum.
+consuming leading to less reuse and more waste. At present, 
+the majority of buildings are not built for deconstruction or 7 | Quality of recovered materials
+disassembly, due to the perceived additional cost and time. In order to be reused, materials must be compliant with 
+
+any regulations and standards for a given component after 
+deconstruction. Planning for disassembly will allow for the least 
+amount of damage to recovered elements.
+
+8 | Aesthetic condition of recovered materials
+While reuse is important, clients who fund building projects will still 
+have requirements for aesthetic conditions of the design. Materials 
+should be disassembled carefully to maintain a quality aesthetic 
+condition to meet customer expectations. 
+
+UK Green Building Council  ukgbc.org
+
+
+
+P R A C T I C A L  G U I D E
+
+How can it be done?
+A plan for deconstruction and circularity should be thought of for every 
+stage in the design and building life. The RIBA stages are a set of steps 
+designed to demonstrate each stage of a building project. The below 
+shows some considerations on disassembly and circularity at each of 
+these stages. - You can find more information on this in the UKGBC 
+Circular Economy Report
+
+Stage 0/1: Strategic definition, preparation and 
+briefing
+These stages are about determining the best means of achieving 
+the client’s requirements and developing the detail of the brief. 
+To support designing for deconstruction broad objectives for 
+circular economy and deconstruction aspirations should be set 
+and objectives developed with specific metrics. Identify any 
+deconstruction methods that could be implemented in the project 
+and any further information that may be needed. Case Study: The Forge, Bankside...
+Stage 2/3: Concept design and spatial coordination Having received funding from Innovate UK, Landsec is delivering 
+These stages are about getting the design concept right, the world’s first office building designed and constructed using 
+deciding the look, feel, and spatial dynamics of the building in the ‘kit of parts’ solution built on a ‘Design for Manufacture and 
+line with the budget. At this point agreements on opportunities, Assembly’ structural frame. This is reducing the amount of natural 
+commitments and metrics/targets that measure successful design resources used and onsite waste. The use of standard parts with 
+for deconstruction should be set. Consider holding workshops to reversible joints means the building can be dismantled in pieces, 
+investigate circular economy alternative approach and methods of extending the life of components for potential reuse. 
+disassembly. Source: UKGBC
+Stage 4: Technical design
+This stage is about developing the information required to 
+manufacture and construct the building. Engage with suppliers to 
+source products that can be deconstructed and reused at the end 
+of life. Determine realistic lifetime of each building component and I N  S U M M A R Y
+plan for disassembly for components. 
+
+Stage 5: Manufacturing and construction Design for deconstruction is an important part of moving towards 
+This stage is when the building is manufactured and constructed. a circular economy. Planning for disassembly in the design stage 
+Reversable connections and processes should be used to support maximises potential material reuse and recovery as well as reduces 
+future disassembly. Continue to investigate alternative materials, construction waste.
+products, and disassembly methods. 
+
+Stage 6/7: Handover and Use
+By stage 6 and 7 the building will be handed over to the occupiers. 
+During its life, many updates and repairs will be made to a building. F U R T H E R  R E S O U R C E S
+By separating and simplifying building systems, individual 
+components can be removed and replaced without the need for 
+major demolition. ■	 UKGBC:  
+
+Guidance on circular economy principles
+Stage 7: End of Life
+After many years of use, the building will come to the end of its ■	 ArchDaily: 
+life and deconstruction will begin. This is where the building Design for Disassembly
+will be broken down into its various components and materials ■	 UKGBC: 
+and the disassembly plans will come into use. Proper design and System Enablers for a Circular Economy
+documentation for deconstruction allows for the building to be 
+taken apart and materials to be recovered for reuse. ■	 Lifecyclebuilding:  
+
+Design for Deconstruction guide
+
+UK Green Building Council  ukgbc.org

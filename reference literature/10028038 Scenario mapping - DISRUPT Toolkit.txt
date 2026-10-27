@@ -1,0 +1,110 @@
+﻿DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+STEEL REUSE SCENARIO MAPPING
+Four scenarios have been developed for structural steel reuse. These scenarios include one current 
+scenario for 2023, and three future scenarios for 2030, 2040, and 2050. Each scenario includes the 
+annual availability of structural steel for reuse, as well as the carbon and socioeconomic impact 
+of steel reuse. Please note that scenarios focus specifically on *columns and beams as the main 
+structural elements currently reused.
+
+Scenario 2023 (current) 2030 2040 2050
+Description This current In this scenario, In this scenario, In this scenario, 
+
+scenario includes 15% of beams and 30% of beams and structural 
+beams and columns columns are reused columns are reused steel reuse is a 
+reused at a 5% rate. widespread practice 
+
+and 45% of beams 
+and columns are 
+reused
+
+Annual availability 313,0381 338,0812 338,0813 331,3194
+
+of structural steel 
+for reuse, tonnes
+Reused structural 15,652 50,712 101,424 149,094
+steel, tonnes
+Embodied carbon 26,499 85,856 171,711 252,416
+savings due to steel 
+reuse, tonnes per 
+year5
+
+Annual costs £4,226,013 £13,692,282 £27,384,564 £40,255,309
+savings from 
+steel reuse to 
+construction 
+projects6
+
+By 2050...
+
+45%
+
+45% of all Steel reuse could Construction 
+structural steel* save 250,000+ projects could save 
+in construction is tonnes of embodied £40m annually by 
+
+being reused carbon per year using reused steel 
+
+
+
+DISRUPT - Delivering Innovative Steel ReUse ProjecT
+
+Scenario 2023 (current) 2030 2040 2050
+Forecasted 40 131 262 385
+employment, 
+employees per year 
+(based on blast 
+cleaning, cutting, 
+and removing welds 
+and shear studs)7
+
+Land usage 16 51 101 149
+required for storing 
+reclaimed steel, 
+acres (assuming 
+1 acre per 1000 
+tonnes of steel 
+required)8
+
+Notes to the table:
+1. The annual availability of steel for reuse was estimated based on the following: 
+According to the research by Warwick and DEFRA (Hall et al., 2021), the annual steel scrap arising from demolition 
+is 1,054,000 tonnes. This includes both buildings and infrastructure. Around 75% of scrap steel is used in buildings 
+(Moynihan and Allwood, 2012), which is 790,500 tonnes. Within buildings, around 60% of the steel is in the 
+superstructure of which around 34% of steel is in slabs (which tend to be encased in concrete and therefore less 
+susceptible to reuse), and the remaining 66% is in beams and columns that most commonly reused (Alwood, 2002). 
+Therefore, the annual availability of beams and columns suitable for reuse is estimated at 790,500 *60%*66% = 313,038 
+tonnes.
+
+2. Assuming an 8% increase in structural steel from the previous period. Based on the historic demand for structural 
+steel in the UK (https://www.theconstructionindex.co.uk/news/view/big-sheds-drive-demand-for-structural-steel) 
+and assuming a 30 years life span of buildings (https://www.ribaj.com/culture/lifespan#:~:text=But%20in%20the%20
+commercial%20sector,not%20just%20the%20commercial%20secto)
+
+3. Assuming a 0% increase/decrease in the availability of structural steel from the previous period. 
+
+4. Assuming a 2% decrease in the availability of structural steel from the previous period. 
+
+5. Carbon savings were estimated based on the EPD for reusable steel by EMR of 46.6 kg/CO2e/t (https://uk.emrgroup.
+com/what-we-do/our-specialist-areas/emr-reusable-steel-edp-2023) and the EPD on structural sections EPD for virgin 
+steel of 1,740 kgCO2e/t (https://www.newsteelconstruction.com/wp/uk-average-embodied-carbon-of-structural-steel/).  
+The difference is: 1,693.4 kg/CO2e/t = 1.693 tonnes of CO2e per tonne reused. 
+
+The current scenario for 2023 includes a 5% reuse rate for beams and columns each year, resulting in 15,652 tonnes 
+of structural steel being reused and 26,499 tonnes of carbon savings. However, as we move forward, the reuse rate 
+for structural steel is expected to increase gradually to 15% in 2030, 30% in 2040, and finally, to 45% in 2050 when it 
+becomes a mainstream practice. As a result of this increase, the carbon savings from reuse will rise to 85,856 tonnes in 
+2030 and up to 252,416 tonnes in 2050.
+
+6. Significant cost savings from steel reuse to construction projects are expected, as reclaimed steel can be purchased 
+at a 20% lower rate than new steel. In 2023, the estimated annual cost savings from steel reuse are around £4 million. 
+This figure will increase to c.£14 million in 2030 and over £40 million in 2050.
+
+7. The industry will require more employees. In 2023, it is estimated that 40 employees are required for the initial 
+processing of steel, including blast cleaning, cutting, and removing welds and shear studs. This number will rise to 131 
+employees in 2030 and 385 employees in 2050.
+
+8. Finally, as the uptake of steel reuse increases, more land will be needed for storing the reclaimed steel. Assuming 1 
+acre per 1000 tonnes of steel is required, 16 acres of land is needed in 2023, rising to 149 acres in 2050.
+
+Download a free steel reuse toolkit and view case studies at asbp.org.uk/toolkit/disrupt-steel-reuse

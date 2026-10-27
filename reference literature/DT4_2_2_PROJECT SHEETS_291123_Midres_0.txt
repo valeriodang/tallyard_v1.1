@@ -1,0 +1,3447 @@
+﻿32 detailed project sheets, case study analysis
+
+FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+
+
+
+32 detailed project sheets, case study analysis
+
+FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+
+
+
+32 detailed project sheets, case study analysis
+
+Authors and contributors : 
+Célia Chaussebel (Rotor)
+Mathilde Doutreleau (CSTB)
+Gaspard Geerts (Rotor)
+Michaël Ghyoot (Rotor)
+Emilie Gobbo (Bruxelles Environnement)
+Elodie Macé (CSTB)
+Elham Maghsoudi Nia (TU Delft)
+Victor Meesters (Rotor)
+Martine Mouchet (Bruxelles Environnement)
+Mona Nasseredine (CSTB)
+Marie-Annick Rabefiraisana (Rotor)
+Charline Richard (Bruxelles Environnement)
+Ad Straub (Tu Delft)
+
+With the support of :
+Bruno Domange (LIST)
+Duan Hua (LIST)
+Merel Limbeek (Utrecht)
+Sara Rademaker (Utrecht)
+Hugo Topalov (Bellastock)
+
+Thank you to all the architects and engineering consultants who contributed 
+to this work by sharing their experiences and data.
+
+Context
+
+This document has been produced as part of the Interreg NWE 739 FCRBE 
+project (Facilitating the Circulation of Reclaimed Building Elements), 
+implemented between October 2018 and December 2023.
+
+The FCRBE project aims to increase by 50% the amount of reclaimed building 
+elements being circulated in North West Europe by 2032. This report has been 
+prepared in the context of the project capitalisation (2022-23). It corresponds 
+to the deliverable WP T4.2.3.
+
+FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+32 detailed project sheets, case study analysis
+
+The authors and the funding bodies of the FCRBE project cannot be held 
+liable for the use that can be done with the content of this document.
+This document benefited from the support of the European Regional 
+Development Fund through the Interreg NWE programme.
+
+The FCRBE project is a partnership between Bellastock, Buildwise, Brussels 
+Environment, le Centre Scientifique et Technique du Bâtiment (CSTB), 
+Embuild, LIST, Rotor, Salvo, TU Delft, University of Brighton and the City of 
+Utrecht.
+
+Online publication: September 2023.
+https://vb.nweurope.eu/fcrbe
+
+FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+32 detailed project sheets, case study analysis
+
+This document presents the 32 projects selected as part of the analysis in the 
+form of individual project sheets. Each sheet details the results achieved in 
+the project with regards to their specificities and provides a detailed overview 
+of the quantity and the nature of the reused elements.
+
+It is one of the four documents produced within the FCRBE project and 
+addressing this topic of reuse and reclamation rates. These four documents 
+are as follows:
+
+1. Set, monitor and report on reclamation and reuse rates in construction 
+projects. A common approach. This document sets out the necessary 
+definitions and presents the main methodological aspects for dealing 
+with the issue of reuse and reclamation rates.
+
+2. Ex-post analysis of 32 construction and renovation works. Results and 
+discussions. This document sets out how we calculated and analysed 
+the reuse rates achieved in a sample of 32 recently completed 
+projects.
+
+3. 32 detailed project sheets. Projects info, reused rates and reused elements. 
+This is the present document. It is a complement to the analysis of the 
+32 projects that gives as much details as possible on the reused 
+elements used in each project. 
+
+4. Live tests. Report on 4 operations using reuse targets. This last document 
+reports on live tests which have enabled the methodological principles  
+established in the study to be put to the test in projects currently 
+underway.
+
+FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#01 32 detailed project sheets, case study analysis
+
+Maison des Canaux
+Reuse everywhere and down to the smallest detail in this reference place for the 
+circular, social and solidarity economy in Paris.
+
+Program: Social/cultural renovation
+Project type: Transformation of an 
+existing building
+Surface area: 1.010 m2
+
+Contracting authority: Ville de Paris 
+Architect: Grand Huit
+Contractors: A Travers Fil - Les 
+Résilientes - APIJ Bat - Travail et Vie - 
+La tête dans les nuages - Duarte 
+construction - SME, Bosio -  
+Europamiante - Générale Métal - 
+Elips-  Juniors/les bâtisseurs - 
+Bégo-Réemploi - atelier R-ARE - 
+Stu-Dio - Réavie - LauClem
+Reuse assistance: Bellastock
+Engineering assistance: Switch 
+(HVAC) - Tisco (Structure) - Tribu 
+Energie
+Contract: Public
+Public support: Région ile de France 
+- France Relance - City of Paris 
+participatory budget
+Project duration: 2018-2022
+
+Image source: Mathieu Delmestre
+
+The "Canals" building was built in 1882 for the administration of the canals 
+services in the 19th arrondissement of Paris. In 2010, following the departure 
+of the administration, the desire to transform this place into a "house of 
+solidarity and innovative economies" emerged. 
+
+In this sense, the City of Paris decided to make the space available to actors in 
+these sectors. As these premises required major refurbishment, it was agreed 
+that the operation would be exemplary in terms of circular economy, 
+professional integration and education, to be aligned with the image of the 
+project and its occupants. This translates into very ambitious targets in terms 
+of materials, energy and water sobriety, modularity of spaces, use of low-tech, 
+reinterpretation of vernacular techniques, etc. In particular, the project aimed 
+at reusing as many reuse elements as possible.
+
+1/4 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#01 32 detailed project sheets, case study analysis
+
+Image source: Mathieu Delmestre 
+
+Grand Huit, the architects, coordinates a multidisciplinary team composed of 
+enterprises specialised in social integration, artisans, engineering assistants 
+and designers whose mission was to make this living site a demonstrator of 
+reuse, and an inclusive space. 
+
+The result is a building in which each element catches the eye, intrigues and 
+makes you wonder how it was made and with what materials. The project 
+gives pride of place to the skills of artisans, as in the beautiful reused dry 
+stone wall of the terrace, for instance.
+
+The high reuse rate in the Structure layer (43%) can be explained by the fact 
+that the main structural intervention in this renovation project was the 
+construction of an external terrace, which made use of reclaimed steel 
+beams. For the rest of the building, it is the original structure that has been 
+retained (hence, not included in the inflows measured here). That outdoor 
+surface elements are so predominant (100%) can be explained by the 
+consequent weight of the stone that has been abundantly reused and laid 
+without mortar. The project also achieves a very high reuse rate in the Space 
+Plan layer (51%), which was the main layer targeted by this renovation.
+
+2/4 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#01 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+Structure 43,08%
+Skin 19,94%
+Space Plan 51,29%
+Serv. - HVAC 0,76%
+Serv. - Electric 18,90%
+Serv. - Sanitary 53,25%
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces 100%
+
+Legend: Outdr. - Furn. 84,39%
+
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+     = not visible at this scale Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Structural steel Solid bricks Stone tiles and slabs Exterior windows Window security bars
+7.187 kg 1.487 kg 3.206 kg 219 kg 30 kg
+
+- 17.448 kgCO2eq - 121 kgCO2eq - 224 kgCO2eq - 336,4 kgCO2eq - 27,5 kgCO2eq
+
+Polycarbonate panels Shading fabric Sand screed Glass wool insulation Wood finishes
+20,5 kg 30,6 kg 4.800 kg 3.462 kg 1.363 kg
+
+-236 kgCO2eq - 4.980,9 kgCO2eq - 85,7 kgCO2eq - 346,2 kgCO2eq - 26,2 kgCO2eq
+
+Fabric wall coverving Ceramic tiles Concrete tiles Interior doors Wood flooring
+270 kg 461 kg 286 kg 254 kg 173 kg
+
+- 530 kgCO2eq - 333,7 kgCO2eq - 24,5 kgCO2eq - 1.133,1 kgCO2eq
+
+Work benches Cement tiles Solid-surface countertop Casework Suspended ceiling 
+106 kg 81 kg 66 kg 58 kg 56 kg
+
+- 20,2 kgCO2eq - 29,4 kgCO2eq
+
+Wood plinths Wood based sills Door handles Paper ceiling Radiator accessories 
+51 kg 24 kg 8 kg 6,8 kg 7 kg
+
+- 2,3 kgCO2eq - 9,9 kgCO2eq
+
+3/4 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#01 32 detailed project sheets, case study analysis
+
+Ventilation grill Cable trays Electrical components Emergency exit lights LED tube lights
+0,2 kg 93 kg 29,4 kg 6,8 kg 3,2 kg
+
+- 9,1 kgCO2eq - 272,6 kgCO2eq - 243,6 kgCO2eq - 101,5 kgCO2eq - 611,6 kgCO2eq
+
+Spot lights, lamps, sconces Alarms and detectors Ceramic sinks Toilet bowls Faucets 
+2 kg 1,3 kg 90 kg 30 kg 12 kg
+
+- 209,4 kgCO2eq - 3,1 kgCO2eq - 103,3 kgCO2eq - 167,9 kgCO2eq - 102,7 kgCO2eq
+
+Stone kerbs Stone pavers Wood decking Wood treillis Rope treillis 
+101.050 kg 28.000 kg 1.895 kg 1.705 kg 250 kg
+
+- 389,9 kgCO2eq - 129,3 kgCO2eq
+
+4/4 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#02 32 detailed project sheets, case study analysis
+
+Grande Halle de Colombelles
+Giving a new life to industrial heritage with maximal preservation and minimal material 
+flows.
+
+Program: Social/Cultural renovation
+Project type: transformation of an 
+existing building
+Surface area: 3.650 m2
+
+Contracting authority: SEM 
+Normandie Aménagement
+Architect: Encore Heureux - 
+Construire
+Contractors: Gagneraud - 
+Cenomane 
+Reuse assistance: Albert et 
+compagnie
+Engineering assistance: Ligne BE - 
+T&E Ingénierie 
+Contract: Public
+Public support:  local authorities 
+(the urban community of Caen la 
+mer, the Normandy region, the town 
+of Colombelles), Etablissement Public 
+Foncier de Normandie, Ademe, ERDF.
+Project duration: 2017-2019
+
+Image source: Cyrus Cornut 
+
+The blast furnaces of the Société Métallurgique de Normandie were built on the 
+Colombelles plateau to the north-east of the Caen urban area in 1917. They 
+ceased their activity in 1993, marking the year of the last casting on site. The 
+electrical workshop, one of the last vestiges of this industrial site, together 
+with the impressive cooler, was restored and completed in 2019. This large 
+concrete hall has been transformed into a workspace and cultural area.
+
+The project preserves as much of the existing building as possible: the skin 
+has been kept in place with punctual fixes where needed. Three wooden 
+levels have been built in the small indoor nave. A café-restaurant and 
+workshops are located on the ground floor, and co-working spaces and 
+rehearsal spaces find their place on the upper floors. These workspaces are 
+extended onto wooden balconies overlooking the great nave, which has been 
+left almost entirely untouched. The great nave is a meeting place for cultural 
+and professional events. 
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#02 32 detailed project sheets, case study analysis
+
+Image source : Cyrus Cornut 
+
+The contracting authority wanted to significantly reduce the carbon impact of 
+the project. With a process involving all the stakeholders—from the project 
+owner to the contractors—the project emphasises the reuse of materials, 
+bio-sourced materials, energy efficiency, retaining efforts, biomass heating 
+system, etc.
+
+By creating a specific lot for reuse in the tender, the project succeeded in 
+reusing interesting elements. Many of the project's components, such as 
+radiators, sanitary fittings, tiles, windows and fire doors, were salvaged from 
+demolition sites in the region.
+
+The high reuse rate in the HVAC layer (52%) was achieved thanks to the reuse 
+of more than 50 steel and cast-iron radiators, the latter being particularly 
+heavy. In the Sanitary layer, it was mainly ceramic sinks and toilet bowls that 
+contributed to the reuse rate.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#02 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+
+Structure 0% *
+Skin 0%
+Space Plan 1,04%
+Serv. - HVAC 51,92%
+Serv. - Electric 0% *
+Serv. - Sanitary 40,49%
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Mineral wool ins. Fire doors Interior doors Wood structure
+2.811 kg 574 kg 304 kg 55 kg
+
+- 1.407 kgCO2eq - 226,6 kgCO2eq - 2.039 kgCO2eq - 57,9 kgCO2eq
+
+Cast iron and sheet Toilet bowls/urinals Ceramic sinks Grab bars
+metal radiators 1.074 kg 423 kg 2 kg
+
+6.952 kg - 1.762 kgCO2eq - 722,9 kgCO2eq
+- 3.593 kgCO2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#03 32 detailed project sheets, case study analysis
+
+Zinneke
+The renovation site as a laboratory for experiments on reuse.
+
+Program: Office and workshops
+Project type: Transformation of an 
+existing building
+Surface area: 4.000 m2
+
+Contracting authority:
+Zinneke asbl
+Architect: Ouest
+Contractor: De Coninck
+Reuse assistance: Rotor
+Engineering assistance: Matriciel
+Contract: Public
+Public support : ERDF
+Project duration: 2016-2020
+
+Image source: Delphine Mathy
+
+Zinneke is a Brussels socio-artistic non-profit organisation whose activities 
+range from the organisation of a twice-yearly parade to running woodwork 
+and metalwork workshops. In 2015, Zinneke obtained public funds to 
+renovate their facilities to accommodate their various activities. 
+
+Completed in 2020, the project involves the renovation of a complex of 
+different buildings, including three 19th century classical Brussels houses, a 
+long industrial hall and a former printing facility. The renovation seeked to 
+draw on what the existing buildings already offered. Architectural 
+interventions were minimal and mostly aimed at improving or revealing latent 
+qualities.
+
+This pilot project aimed at combining four distinct objectives : 1) preserve as 
+much of the original building as possible, 2) reclaim and reuse as much of the 
+elements that could not be retained as possible, 3) design a future-proof 
+building that can be adapted over the years to multiple uses, and 4) embed 
+training programmes into the undertaking of the building works. 
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#03 32 detailed project sheets, case study analysis
+
+Image source: Delphine Mathy
+
+For what concerns the reuse objective, one of the challenges was to tweak 
+tendering procedures to maximise reuse opportunities while still complying 
+with the regulation on public tenders. Different pathways have been tested 
+throughout the project, such as organising the supply of reclaimed building 
+elements by the contracting authority themselves or requiring the contractors 
+to supply reclaimed materials from the professional market. Overall, a key 
+success factor was teamwork and the co-design process through which the 
+contracting authority and their assistants, the architects and the engineers 
+(Matriciel) closely collaborated. 
+The reuse rate graph illustrates the ambition to incorporate as many reuse 
+elements as possible, at every level of the project, even in highly technical 
+elements such as an entire ventilation unit!
+
+Reuse rate per layer (in mass)
+Structure 6,51%
+Skin 19,43%
+Space Plan 20,98%
+Serv. - HVAC 8,86%
+Serv. - Electric 1,28%
+Serv. - Sanitary 18,63%
+Outdr. - Infrastr. 0%
+Outdr. - Surfaces 17,23%
+
+Legend:
+Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+N/A = the project does not include this 
+layer.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#03 32 detailed project sheets, case study analysis
+
+Building elements reused in the project (per layer)
+
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). Solid bricks Structural steel Rigid insulation Wall coping Exterior windows
+
+6.354 kg 4.494 kg 3.465 kg 504 kg 423 kg
+- 364,4 kgCO2eq - 10.910 kgCO2eq - 2.232 kgCO2eq - 41,4 kgCO2eq - 1.453 kgCO2eq
+
+Glass guardrail Wood flooring Steel staircase HPL sills Fire doors
+50 kg 4.830 kg 1.475 kg 1.296 kg 1.048 kg
+
+- 31,6 kgCO2eq - 2292 kgCO2eq - 445,9 kgCO2eq - 2.719 kgCO2eq
+
+Ceramic tiles Glulam staircase Interior doors Wood finishes HPL plinths
+735 kg 486 kg 450 kg 165 kg 33 kg
+
+- 782,1 kgCO2eq - 642,8 kgCO2eq - 1.926 kgCO2eq - 475 kgCO2eq
+
+Sheet metal radiators Ventilation unit Cable trays Electrical components Water softener
+1.232 kg 532 kg 228 kg 127 kg 417 kg
+
+- 1382 kgCO2eq - 568 kgCO2eq - 1.414 kgCO2eq - 1.060 kgCO2eq
+
+Toilet bowls Ceramic sinks Stainless steel sinks Urinals Wood decking
+198 kg 156 kg 30 kg 22 kg 5.400 kg
+
+- 1.007 kgCO2eq - 568 kgCO2eq - 15,5 kgCO2eq - 167,9 kgCO2eq
+
+Stone kerbs
+971 kg
+
+- 16.9 kgCO2eq
+
+FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+3/3
+
+
+
+#04 32 detailed project sheets, case study analysis
+
+Takeda school
+Converting an office building into a school without touching the envelope and 
+modifying only the interior layouts? Mission accomplished!
+
+Program: School
+Project type: Transformation of an 
+existing building
+Surface area: 4.000 m2
+
+Contracting authority:
+School organising authority
+Architect: Agwa
+Contractor: Thiran
+Engineering assistance: JZH
+Contract: Public
+Project duration: 2018 - 2019
+
+Image source : Arvi Anderson
+
+This is a two-phase project. The first phase involved converting an office 
+building into a school. In the second phase, a new construction was added to 
+extend the surface areas. The present analysis only looks at the first phase of 
+the project, as information on the second phase was not available.
+
+During the first phase, the emphasis was on reusing the elements present in 
+the offices and constructing temporary elements designed in such a way as to 
+make their future reuse possible. However, these temporary elements 
+became permanent during the second phase.
+
+The office building had a simple, modular system of partitions. During the 
+works, the partitions were dismantled and reassembled to create the 
+classrooms. To make up for the missing elements, partitions made of plywood 
+panels were added. They help to give the building a new identity. Suspended 
+ceilings have been retained since they contribute to classroom acoustics.
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#04 32 detailed project sheets, case study analysis
+
+Image source : S. Malaud
+
+The architects transformed diverse constraints into opportunities to highlight 
+the building’s new identity: a remarkable emergency staircase, made up of 
+wood and galvanised steel, and a large canopy marking the entrance to the 
+school.
+
+All the materials reused in this project originate from the site itself. They 
+never left the building: they were simply rearranged to meet the needs of the 
+new function. In this case, same-site reuse was an excellent way to drastically 
+reduce transport.
+
+One of the strengths of this project lies in its basic premise: right from the 
+design stage, architects opted for a radical sobriety in their use of material 
+resources - without compromising architectural quality. Retaining most of the 
+original building and reusing partition walls (among other elements) were key 
+strategies to achieve this.
+
+This achievement is reflected in the results of the analysis of the reuse rate. 
+They show that most of the efforts are into the Space plan layer, with a reuse 
+rate of 26 %. Overall, this layer uses less than 60 tonnes of materials, a pretty 
+low figure for a building of this scale (4.000 m²). This, of course, is the result of 
+retaining most of the original building. Unfortunately, we did not proceed to 
+the calculation of the preservation rate but there is no doubt that this result 
+would be equally impressive.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#04 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+Structure 0% *
+Skin 0% *
+Space Plan 26,3%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Plywood panels Interior windows Mineral wool insulation Suspended ceilings Metal studs
+12.062 kg 1.380 kg 1.074 kg 1.015 kg 863 kg
+
+- 17.655 kgCO2eq - 2.846 kgCO2eq - 1.862 kgCO2eq - 735,6 kgCO2eq
+
+Interior doors
+161 kg
+
+- 3.138 kgCO2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#05 32 detailed project sheets, case study analysis
+
+Warland
+A renovation of a private house with finesse, reusing materials and with an eye to 
+future reuse thanks to reversible laying. 
+
+Program: Individual housing
+Project type: Transformation of an 
+existing building
+Surface area: 160 m2
+
+Contracting authority:
+Private owner
+Architect: DE CLERCQ + DECLERCQ 
+Contractor: Global Art Concept
+Reuse assistance: Rotor
+Contract: Private
+Public support: Be.Circular
+Year of completion: 2016
+
+Image source : Bernard Boccara
+
+For the renovation of this single-family house in Jette (Brussels), the clients 
+wanted to give pride of place to circular approaches. Their starting point? 
+Retaining most of the original building!
+
+It is sometimes said that building techniques from the past are not suited 
+anymore to meet contemporary standards—hence their demolition and 
+replacement by new solutions. In this project, however, the clients and their 
+contractors demonstrated that this assertion needs to be seriously nuanced. 
+With witty constructive solutions, a good eye for details and skilled 
+crafts·wo·men, it is possible to achieve high standards while preserving most 
+of what is already there.
+
+How they improved the acoustic insulation of the floors is a good illustration. 
+After having carefully dismantled the solid wood floors and parquet, the 
+original beams were reinforced and the floor has been filled with cellulose. 
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#05 32 detailed project sheets, case study analysis
+
+Image source : Be Circular 
+
+This system made it possible to level of the floor without modifying its 
+thickness (and by consequence preserving the interior doors, and so forth). 
+
+Reclaimed floor and parquets were laid on a cork and rubber membrane 
+without glue, to facilitate any future dismantling. Similarly, the original 
+windows have been carefully dismantled to be restored and improved with a 
+more energy-efficient glazing.
+
+Energy-wise, the project achieves a good balance between strategic 
+interventions to improve the thermal performances and a sobriety in material 
+use. 
+
+Wherever additional materials were needed, the clients and their contractors 
+opted for reclaimed and salvaged elements. The wall cladding of the 
+bathroom is made of locally salvaged marble. Most of the sanitary equipment 
+is reused. Reclaimed cast-iron radiators have been installed. The kitchen is 
+entirely made of salvaged elements.
+
+When looking at the reuse rates in the different layers, one can see these 
+ambitions being  translated into figures. Without surprise, the main layers 
+concerned by reuse are Structure (with a 8 % reuse rate), Space plan (with a 
+17 % reuse rate), HVAC (with a 30 % reuse rate) and Sanitary (with a 85 % 
+reuse rate). 
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#05 32 detailed project sheets, case study analysis
+
+Overall, the inflows for these layers represents 38,5 tonnes of materials. The 
+relatively high reuse rates and the relatively low absolute quantity are a direct 
+consequence of the multiple efforts to preserve the original building. 
+
+Reuse rate per layer (in mass)
+Structure 8,18%
+Skin 0% *
+Space Plan 17,04%
+Serv. - HVAC 29,46%
+Serv. - Electric 0% *
+Serv. - Sanitary 84,38%
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Solid bricks Stone finishes Wood flooring Casework Interior doors
+1.388 kg 1.829 kg 547 kg 410 kg 290 kg
+
+- 112,1 kgCO2eq - 244,7 kgCO2eq - 131,9 kgCO2eq - 938,9 kgCO2eq
+
+Ceramic tiles Wood plinths Cast iron radiators Toilet bowls Cast iron bathtub
+150 kg 20 kg 825 kg 255 kg 100 kg
+
+- 30 kgCO2eq - 380 kgCO2eq  - 535,1 kgCO2eq - 117,9 kgCO2eq
+
+Water softener
+50 kg
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#06 32 detailed project sheets, case study analysis
+
+Clos Dupont
+A comprehensive circular approach for the extension of a Brussels house.
+
+Program: Individual housing
+Project type: Transformation of an 
+existing construction
+Surface area: 200 m2
+
+Contracting authority:
+Private owner
+Architect: Vla architecture
+Contractor: Eco Construct Group
+Reuse assistance: Eco-Homes
+Contract: Private
+Public support: Be.Circular
+Year of completion: 2017
+
+Image source : Bernard Boccara
+
+The project concerns the extension on three levels of a single-family house in 
+Evere (Brussels). The extension replaces an old one-floor volume that had 
+become obsolete.
+
+In this project, circularity is tackled from a comprehensive perspective: not 
+only does the project aim at reducing its impact on the environment through 
+reusing building materials but it also anticipates how the new extension can 
+be adapted through time and its components reused in the future. For 
+instance, the connections between the new and the old structures are 
+designed to be easily dismantled.
+
+Bricks from the original extension have been reclaimed and reused for the 
+construction of the new volume. The quantity available, however, did not 
+match with the needs therefore the client sourced additional bricks from a 
+local reclamation dealer. 
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#06 32 detailed project sheets, case study analysis
+
+Image source : Bernard Boccara
+
+The client went for a combination of two types of Klampsteen—a relatively 
+common brick type in Belgium, dating from the 1960s and 1970s. They chose 
+two variants, with different colours and dimensions. The architect designed a 
+special bond to deal with the vertical joints. They also used slightly thicker 
+horizontal joints to make up for the height difference. These mortar joints are 
+racked, contributing to give to the façade a look and feel that wouldn’t have 
+been achieved with new materials.
+
+Other elements have been salvaged from the original extension and reused in 
+the new one: windows, a steel staircase and Belgian blue limestone window 
+sills. Additional elements have been supplied by local reclamation dealers.
+
+As with all renovation projects that retain most of the existing building, it is 
+important to bear in mind that the reuse rates only correspond to the 
+incoming flow—i.e. the materials necessary to execute the works. They do not 
+take into account the elements that have been retained in their original 
+location.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#06 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+
+Structure 0% *
+Skin 67,06%
+Space Plan 8,34%
+Serv. - HVAC 3,64%
+Serv. - Electric 0% *
+Serv. - Sanitary 67,77%
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces 88,67%
+
+Legend: Outdr. - Furn. 0% *
+
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+     = not visible at this scale
+
+Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Solid bricks Exterior windows Stone sills Steel staircase Laminate flooring
+6.950 kg 447 kg 120 kg 81 kg 356 kg
+
+- 1.027 kgCO2eq - 519,1 kgCO2eq - 18,7 kgCO2eq - 495,5 kgCO2eq - 227,2  kgCO2eq
+
+Interior doors Sheet metal radiators Toilet bowls Ceramic sinks Concrete pavers and slabs
+50 kg 82 kg 15 kg 15 kg 773 kg
+
+- 226 kgCO2eq - 138,2 kgCO2eq - 83,9 kgCO2eq - 51,6 kgCO2eq - 16,2 kgCO2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#07 32 detailed project sheets, case study analysis
+
+Maison Vignette
+A new construction using a mix of bio-based, minimally processed and reused 
+materials.
+
+Program: Individual housing
+Project type: New construction
+Surface area: 255 m2
+
+Contracting authority:
+Private owner
+Architect: Karbon’ architecture et 
+urbanisme
+Contractor: Gauthier Nagant, 3ALJ 
+Construct
+Engineering assistance: BESP 
+Stoffel & Partners, Sofiane Boudahri
+Contract: Private
+Project duration: 2018-2020
+
+Image source : Giulia Frigerio
+
+The house Vignette was built on an empty plot in Auderghem (Brussels). It is 
+structured around a central patio and with the idea of connecting the living 
+room with the back garden.
+
+Together, the clients and their architect wanted to lower the environmental 
+impact of their project. The structure is in timber, sourced from local and 
+sustainably managed forests. The insulation uses straw bales. The cladding of 
+the back façade also uses local wood. The interior walls are made of hemp 
+and lime concrete blocks, and are plastered with natural gypsum, lime and 
+sand.
+
+Beside these minimally processed and largely bio-based building materials, 
+the architects also opted for reuse. The most striking example is the unusual 
+claustra of the front façade, made of large Boomse Steen bricks—a longer and 
+wider variant of a common Belgian brick type. These were supplied by a local 
+reclamation dealer who delivered 3.000 bricks on site. 
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#07 32 detailed project sheets, case study analysis
+
+Image source : Karbon’architecture
+
+Leftovers from the façade have been reused to build a staircase in the garden. 
+The project also reuses tiles, Belgian blue limestone floor slabs and sanitary 
+fittings.
+
+In this project, the layers concerned by reuse are Skin (with a reuse rate of 
+15 %), Space plan (with a reuse rate of 8 %) and Sanitary (with a reuse rate of 
+4%). For these 3 layers, the overall inflow weighs 75 tonnes—a figure slightly 
+higher than what can be found in the same layers in renovations of a similar 
+same scale. This is, of course, because new construction entails much larger 
+flows of materials than renovation. This project shows, however, that their 
+impact on the environment can be kept minimal thanks to strategic choices.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#07 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+
+Structure 0% *
+Skin 14,67%
+Space Plan 8,4%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 3,92%
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces 0% *
+
+Legend: Outdr. - Furn. 0% *
+
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+     = not visible at this scale Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Solid bricks Stone finishes Ceramic tiles Ceramic sinks 
+5.412 kg 2.927 kg 280 kg 30 kg
+
+- 552,1 kgCO2eq - 256,3 kgCO2eq - 175,8 kgCO2eq - 154,9 kgCO2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#08 32 detailed project sheets, case study analysis
+
+Dethy
+An exemplary renovation carried out by an architect-client that combines energy 
+efficiency, bio-based materials and circular economy principles.
+
+Program: Individual housing
+Project type: Transformation of an 
+existing building
+Surface area: 255 m2
+
+Contracting authority:
+Private owner
+Architect: BXLMRS - Lionel Bousquet
+Contractor: Bois&Structure
+Reuse assistance: Enesta
+Engineering assistance: Enesta
+Contract: Private
+Public support: Be Circular 2017
+Year of completion: 2017
+
+Image source : Stéphanie Roland
+
+This project concerns the renovation and the extension of a typical Brussels 
+house. The architect, who is also the client, wanted to deliver an exemplary 
+circular and sustainable project: energy performant (reaching the passive 
+standard), using bio-based materials, reusing building materials and 
+implementing adaptive design strategies.
+
+The implementation lived up to these expectations. 
+
+Energy-wise, the building reaches the very-low energy standard. It mostly uses 
+natural wood-fibres for the thermal insulation, with an additional batch of 
+rigid polystyrene panels originating from a Brussels construction company’s 
+overstock.
+
+Some elements were reused on site. It is notably the case of a batch of 
+reclaimed bricks but also of sheet metal radiators. During the works, timber 
+joists could be salvaged but were of no use in the project and have therefore 
+been donated to a local association. 
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#08 32 detailed project sheets, case study analysis
+
+The bricks of the façade are production missfits that the manufacturer could 
+not sell because of colour or surface defects.
+
+The entire structure of the extension is made of wood, prefabricated in a 
+workshop and assembled on site. The project provides for the possibility of 
+changing its uses. Openings between two floors have been shut but could be 
+easily reopened in the future if necessary, for instance. 
+
+These various challenges come together to form the ingredients of a beautiful 
+and comprehensive renovation project, modest in its form and appearance 
+but rich in the complexity of its materiality and design.
+
+Source : 
+https://www.circulareconomy.brussels/
+
+In this project, the layers concerned by reuse are Structure (15 %), Skin (2 %), 
+Space plan (6 %) and HVAC (10 %). Together, they represent a total inflow of 
+84,5 tonnes. Compared to similar projects, this figure is relatively high. This 
+results from the materials necessary to achieve a high level of energy 
+performance.
+
+Reuse rate per layer (in mass) Image source : Bxlmrs
+
+Structure 14,59%
+Skin 2,24%
+Space Plan 6,42%
+Serv. - HVAC 10,15%
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Solid bricks Rigid insulation Wood finishes Sheet metal radiators
+2.784 kg 585 kg 2.183 kg 336 kg
+
+- 101,9 kgCO2eq - 276,8 kgCO2eq - 619,4 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#09 32 detailed project sheets, case study analysis
+
+Rue de l’Est
+The project pays particular attention to preserving and reusing building elements, 
+enhancing heritage features and improving the acoustics of the building.
+
+Program: Individual housing
+Project type: Transformation of an 
+existing building
+Surface area: 290 m2
+
+Contracting authority:
+Private investor
+Architect: VLA architecture
+Contractor: Deco Sege Rom sprl
+Reuse assistance: Eco-Homes
+Engineering assistance: MC-carré, 
+Earth ‘n’ Bee 
+Contract: Private
+Public support: BeCircular 2018
+Year of completion: 2018
+
+Image source : Bernard Boccara
+
+This project concerns the respectful transformation of a 1900s Brussels house 
+into three flats. Its name comes from its location: 15 Rue de l'Est. 
+
+The building’s front façade was in pretty good condition and had a high 
+heritage value. Therefore, most of the interventions were geared towards the 
+back façade (which has been entirely rebuilt) and the interior design.
+
+A reclamation audit was carried out in order to have a precise view on what 
+could be retained or reused. 
+
+During the demolition phase, the owners realised that a large quantity of 
+materials would be discarded as waste despite their excellent condition and 
+their high quality (floor tiles, wood flooring, marble and Belgian blue 
+limestone…). They decided to retain them on site. Their reuse, however, 
+proved to be more complicated because it entailed additional costs.
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#09 32 detailed project sheets, case study analysis
+
+The project benefited from a Be.Circular award—a regional public scheme 
+aiming at accompanying ambitious circular projects, notably through financial 
+support. It made it possible to investigate how to reuse these elements, on 
+site or somewhere else. It also allowed the project to dive deeper into circular 
+principles, such as organising exchange of materials between concomitant 
+sites and sourcing natural and local building materials.
+
+In this project, the layers concerned by reuse are Skin (32 %) and Space plan 
+Sources : (2 %). The total inflows of these layers represent 141 tonnes of material.
+https://www.circulareconomy.brussels/ 
+https://ecobuild.brussels/etude-de-cas-le-
+projet-rue-de-lest/
+
+Reuse rate per layer (in mass)
+                 
+
+Structure 0% *
+Skin 31,66%
+Space Plan 1,88%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces 0% *
+
+Legend: Outdr. - Furn. 0% *
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+
+Data source for avoided GHG emissions: Building elements reused in the project (per layer)
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Solid bricks Stone cladding Exterior doors Ceramic tiles Interior doors
+4.958 kg 65 kg 32 kg 1.024 kg 950 kg
+
+- 766,8 kgCO2eq - 16,9 kgCO2eq - 113,3 kgCO2eq - 651,23 kgCO2eq - 3.075 kgCO2eq
+
+Stone finishes
+380 kg
+
+- 34,3 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#10 32 detailed project sheets, case study analysis
+
+Co-housing De Schilders
+A facade made of reused bricks that seems to have always been there to 
+envelop an unusual housing project. 
+
+Program: Housing
+Project type: New construction
+Surface area: 1.200 m2
+
+Contracting authority:
+Private investors
+Architect: Havana
+Engineering assistance: Lime
+Contract: Private
+Project duration: 2013-2016
+
+Image source : Filip Dujardin
+
+De Schilders is an innovative collective housing located in Sint-Amandsberg 
+(Belgium). Delivered in 2016, it is the result of the desire of eight families to 
+live together in a compact, single building. The building mixes individual 
+spaces with shared areas, such as a garden, a community kitchen and a 
+laundry room. 
+
+The designers paid a lot of attention to blur the lines between individual and 
+communal areas. The design makes use of different strategies to give the 
+impression that the building is not just a pile of flats, but one big house. The 
+entrance doors to the flats are simple wood interior doors, for instance.
+
+The reuse efforts are concentrated on a single large batch of material: the 
+facing bricks, which are reclaimed ‘Nieuwpoortse moef’ bricks supplied by a 
+local dealer. With this design decision alone, the project achieves a 56 % reuse 
+rate for the Skin layer (in mass). This brick confers to the building a raw but 
+elegant character. It testifies on the passage of time, as if these walls had 
+been there for centuries.
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#10 32 detailed project sheets, case study analysis
+
+Image source : Filip Dujardin
+
+Reuse rate per layer (in mass)
+Structure 0% *
+Skin 55,63%
+Space Plan 0% *
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces 0% *
+
+Legend: Outdr. - Furn. 0% *
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+
+Data source for avoided GHG emissions: Building elements reused in the project (per layer)
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Solid bricks
+89.238 kg
+
+- 10.189 kgCO2eq
+
+Sources : 
+https://havana.be/projects/1303_CHS ,  
+https://www.vai.be/gebouwen/groepsw
+oningen/cohousing-de-schilders
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#11 32 detailed project sheets, case study analysis
+
+BedZed
+Still considered a successful and ambitious project today, BedZed has stood the 
+test of time, proving the long-term viability of reusing materials.
+
+Program: Housing
+Project type: New construction
+Surface area: 2.500 m2
+
+Contracting authority:
+Peabody Trust
+Architect: Bill Dunster 
+Contractor: Gardiner & Theobald
+Reuse assistance: Bio Regional
+Engineering assistance: Ellis & 
+Moore - Ove Arup
+Contract: Private
+Project duration: 2000-2002
+
+Image source: Tom Chance
+
+Beddington Zero Energy Development (BedZED) is a mixed-use housing and 
+workspace project that integrates many facets of sustainable design and 
+construction. Located in Hackbridge, South London, BedZED has gone down 
+in history as the UK’s first large-scale, mixed-use sustainable community. It 
+has been an inspiration for low-carbon and eco-friendly housing 
+developments around the world. 
+
+The design team adopted a range of strategies to lower the environmental 
+impact of the buildings. The overall plan makes sure to use the land sparsely. 
+Energy use is reduced through passive design strategies such as bioclimatic 
+orientation, triple-glazing, thermal mass and high levels of insulation. 
+Whenever possible, BedZED made use of biobased, recycled and reclaimed 
+building materials. An estimated 52% of BedZED's construction materials (in 
+mass) were sourced within a radius of 56 km around the site. 
+In terms of circular strategy, the most striking result is probably the reuse of 
+98 tonnes of structural steel profiles  (corresponding to 95 % of all the steel 
+needed).
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#11 32 detailed project sheets, case study analysis
+
+Image source: Bioregional
+
+These are mainly used in the workspace areas. 
+
+At the time of its construction, the result represented a major feat—and still 
+today, very few buildings have outstripped it. It required designing the project 
+to adapt to the available profiles, developing protocols to check the quality of 
+the steel, convincing the many people involved in the project about the 
+feasibility of such an operation, finding a company that could salvage and 
+reuse the profiles, etc. In the end, BedZed proved that it is possible to reuse 
+steel for structural purposes and that this strategy is incredibly efficient in 
+drastically reducing the environmental impact. 
+
+The very low reuse rate (less than 1%) for the Structure layer seems 
+surprisingly low considering the relatively high quantity of reused steel. It 
+comes from the fact that most of the structure is built from load-bearing 
+masonry and concrete slabs. Compared to these ponderous materials, steel is 
+much lighter. This result also illustrates a major difference between the 
+renovation and new projects in our sample. In most renovation projects, the 
+inflows of materials for the  Structure layer concern small additions to a main 
+structure that is already there; whereas with a new construction, the structure 
+needs to be built from scratch and entails much bigger flows of materials. In 
+this case, the reuse rates inevitably drop down.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#11 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+
+Structure 0,77%
+Skin 0%
+Space Plan 9,83%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. 0%
+Outdr. - Surfaces 0,29%
+
+Legend: Outdr. - Furn. 0% *
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+
+The data used to produce this analysis Building elements reused in the project (per layer)
+all come from the publication: 
+Bioregional, BedZed: Toolkit Part 1 - A 
+guide to construction materials for 
+carbon neutral developments, 2002.
+
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact Structural steel Wood studs Wood flooring Stone kerbs
+product) and the GHG savings 98.000 kg 175.000 kg 7.400 kg 3.000 kg
+(corresponding to a more generic family). - 237.920 kgCO2eq - 184.392 kgCO2eq - 58,2 kgCO2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#12 32 detailed project sheets, case study analysis
+
+Housing Reuilly - Lot Ae
+This renovation of a listed building demonstrates how low-tech conservation and 
+reuse can be incorporated into a large-scale project.
+
+Program: Housing
+Project type: Transformation of an 
+existing building
+Surface area: 6.330 m2
+
+Contracting authority:
+Paris Habitat
+Architect: Camille Salomon
+Reuse assistance: Rotor
+Engineering assistance: id+ 
+Contract: Public
+Year of completion: 2019
+
+Image source: David Boureau
+
+The redevelopment of the Caserne de Reuilly is a large urban project in the 
+12th arrondissement of Paris. It concerns the conversion of a former military 
+site into housing, student residences, a nursery, commercial facilities and a 
+public garden. The overall project was contracted through six distinct lots. The 
+lot Ae, completed in 2019, targeted the deep renovation of a listed building 
+into social housing (the renovation includes the construction of new volumes).
+
+Paris Habitat, the contracting authority, intended to foster reuse at Reuilly. It 
+was naturally the case in the Lot Ae, where this challenge was combined with 
+that of preserving as much of the existing building as possible. 
+
+The project management team was assisted in this approach by Rotor. 
+Together, they carried out many actions to meet the objectives, such as 
+conducting an inventory of all the components that could be salvaged for 
+reuse from the existing buildings, the curation of a small exhibition 
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#12 32 detailed project sheets, case study analysis
+
+Image source: Rotor
+
+showcasing the most promising batches of reusable materials (including the 
+results of the research on the possible surface treatments and conditioning). 
+Among these candidates to reuse, one could find closet doors in massive 
+wood, natural stone from interior walls and cast iron radiators. All of these 
+were reused for the new development.
+
+Lot Ae represents only part of this major renovation and new-build project. 
+Over the entire operation, 11 materials batches and 640 tonnes of building 
+materials were reclaimed and reused throughout the different operations. 
+This project shows that maintaining what already exists and same site reuse 
+are complementary strategies for renovating the existing built environment.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#12 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+
+Structure 0% *
+Skin 0% *
+Space Plan 1,91%
+Serv. - HVAC 26,21%
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Stone infill Casework Cast iron radiators
+24.000 kg 1.686 kg 8.500 kg
+
+- 330,3 kgCO2eq - 5.873 kgCO2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#13 32 detailed project sheets, case study analysis
+
+Jeugdkliniek 
+Reusing the elements from an office building to build a youth’s clinic - a 
+successful example of site-to-site reuse.
+
+Program: Clinic
+Project type: New Construction
+Surface area: 3.334 m2
+
+Contracting authority: Emergis 
+Architect: Rothuizen Architecten 
+Adviseurs Team: Taco Tuinhof, Dick 
+Schuit, Evert Jan Akershoek, Petula de 
+Smit, Daco van Houte, Igor Vreezen, 
+Sjoerd de Nooijer
+Contractor: BouwMeesterPro
+Reuse assistance: New Horizon 
+Urban Mining 
+Contract: Public (UAV-GC)
+Public support: Provincie Zeeland
+Project duration: 2018 - 2019
+
+Image source: Rothuizen architecten
+
+Jeugdekliniek is a newly constructed child and youth clinic located in Kloetinge  
+(Netherlands). Designed by the Rothuizen Architecten team, and completed in 
+2019, this project applied a well-structured approach to circular construction. 
+
+At the start of the inception phase, it so happened that an office building 
+(called the Rijkswaterstaat or RWS) in a nearby town was empty and scheduled 
+for demolition. The architects, in agreement with the clients, therefore 
+decided to reuse the elements made available from this building for the 
+design of the clinic.
+
+To execute the reuse plan, the company New Horizon Urban Mining was 
+contracted as reuse assistant. They carefully dismantled all the reusable 
+materials from the RWS building. As a result, a wide range of materials found 
+their way into the new construction, including the main beams in wood, 
+columns, window frames, wood shingles, partition walls and doors. 
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#13 32 detailed project sheets, case study analysis
+
+Image source: Rothuizen architecten
+
+Additionally, certain elements were sourced from another building on site, 
+called Ithaka, such as electrical components, timber beams and windows.
+Interestingly, the wood-framed walls and wood shingles are here reused for 
+the second time. Their previous installation was already the reuse of mooring 
+posts salvaged from the Breskens harbour.
+
+The project received financial support from the province of Zeeland for the 
+dismantling of the RWS office. It was financed by Rabobank.
+
+Site-to-site reuse is quite unusual as it requires a good synchronisation 
+between the schedules of two different sites (demolition on one hand and 
+construction/renovation on the other). Such a coincidence does not happen 
+often. But when it does, it usually leads to very effective reuse operations. 
+
+The Jeugkliniek achieves a high reuse rate in the Structure layer (9 %), mostly 
+thanks to reusing timber and steel structures, and in the Skin layer (7 %), 
+notably thanks to reusing wood shingles and wood-framed walls.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#13 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+
+Structure 9,58%
+Skin 7,92%
+Space Plan 1,34%
+Serv. - HVAC 0% *
+Serv. - Electric 2,34%
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Structural timber Structural steel Exterior windows Wood-framed wall Wood shingles
+28.809 kg 105 kg 12.675 kg 3.900 kg 2.826 kg
+
+- 30.355 kgCO2eq - 254,9 kgCO2eq - 5.745 kgCO2eq - 754,4 kgCO2eq
+
+Glass partition wall Wood finishes Interior doors Cable trays Emergency exit lights
+500 kg 229 kg 102 kg 214 kg 57,6 kg
+
+- 1.779 kgCO2eq - 347,3 kgCO2eq - 226,6 kgCO2eq - 93,7 kgCO2eq 487,5 kgCO2eq
+
+Alarms and detectors Electrical components Spot lights, lamps, sconces 
+18,5 kg 17,3 kg 3 kg
+
+- 7,5 kgCO2eq - 144,7 kgCO2eq - 418,9 kgCO2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#14 32 detailed project sheets, case study analysis
+
+Circl Pavilion
+Circular project at every step: from the origins of some building components to 
+their future reuse. 
+
+Program: Offices
+Building type: New Construction
+Surface area: 3.350 m²
+Contracting authority: ABN AMRO
+Architect: Architects Cie / Hans 
+Hammink
+Reuse assistance: TU Delft and the 
+BAM
+Contract: Private
+Year of completion: 2017
+
+Image source: Cie.nl
+
+The Circl Pavilion, completed in 2019 in the heart of Amsterdam's business 
+district, stands as a practical example of circular design. The pavilion hosts 
+meetings and conferences related to the circular economy. It also aims at 
+becoming a hotspot in the Zuidas business district, offering a restaurant and a 
+rooftop bar.
+
+Architects Cie, together with their clients ABN AMRO, and in collaboration 
+with the TU Delft and BAM as circular assistants, have designed a 
+demonstration project, showcasing the bank’s commitment to sustainable 
+development.
+
+Different circular strategies are encompassed by the project: 
+- The thorough management of the information about the materials, via 
+
+material passports and a ‘digital twin’ of the building.
+- The adoption of design for dismantling principles, ensuring that most 
+
+components can be easily removed and reused afterwards.
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#14 32 detailed project sheets, case study analysis
+
+- The use of recycled building materials, including recycled concrete for 
+the roofing, recycled aluminium for the façade, recycled hardwood as 
+flooring and recycled denim for the insulation. 
+
+The project also reused three batches of materials: interior wooden window 
+frames, sand for the screed, and natural stone for paving surfaces. As in other 
+projects analysed, reusing concrete pavers is an effective way to achieve high 
+reuse rates in the Outdoor Surfaces layer (when these are calculated by 
+mass).
+
+Reuse rate per layer (in mass)
+Structure 0% *
+Skin 0% *
+Space Plan 4,30%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces 86,47%
+
+Legend: Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Sand screed Window frame Concrete pavers and slabs 
+63.122 kg 3.290 kg 97.410 kg
+
+- 142,5 kgCO2eq - 6.748 kgCO2eq - 4.897 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#15 32 detailed project sheets, case study analysis
+
+Mundo - Madou
+Long-term vision, sobriety and innovation were the keys for this renovation project 
+in Brussels.
+
+Program: Offices
+Project type: Transformation of an 
+existing building
+Surface area: 6.500 m2
+
+Contracting authority:
+Mundo Lab
+Architect: Stekke + Fraas
+Contractor: Mundo-Lab
+Contract: Private
+Public support: BeCircular 2020
+Year of complement: 2020
+
+Image source: Laurent Vivier
+
+The Mundo LAB centres are an ensemble of offices and meeting spaces 
+hosting non-profit organisations and social enterprises. Eco-design, circular, 
+ecological and social aspects are central in all Mundo LAB's premises. Mundo 
+Madou was no exception. Completed in 2020, this renovation emphasised 
+low-impact materials and local crafts·wo·manship.
+
+Applying the principle according to which the best construction is the one that 
+is already there, the project developers seeked to preserve as much of the 
+existing building as possible. The envelope and structure have hardly been 
+touched. The main interventions concerned the technical services and the 
+interior fittings. 
+
+Sources : 
+https://www.circulareconomy.brus
+sels/
+                 The HVAC and sanitary facilities from the existing infrastructure have been 
+https://environnement.brussels/sit
+es/default/files/user_files/sem16-2 retained and adapted to the new standards. The project developers managed 
+20429-08-jw-fr_.pdf to reuse a wide range of interior fittings: plasterboards, glass partitions, stone 
+
+claddings, insulation panels, interior doors, caseworks, wood finishes, ceramic 
+tiles, carpet tiles…
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#15 32 detailed project sheets, case study analysis
+
+To increase the design’s adaptability, modular partitions have been designed 
+to be easily dismantled and reused. They are made of reused metal 
+structures, insultation, plasterboards and plywood boards. The partitions are 
+screwed in such a way that they can be easily dismantled.
+
+In this project, only the Space Plan layer is concerned by reuse. It reaches a 
+reuse rate of 24 % (in mass). Overall, the inflows in this layer weigh 130 
+tonnes, a pretty low figure which is in line with the principle of material 
+sobriety applied in this project.
+
+Reuse rate per layer (in mass)
+Structure 0% *
+Skin 0% *
+Space Plan 24,34%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Plasterboard Glass partition walls Stones finishes Mineral wool insulation Interior doors
+13.920 kg 5.900 kg 3.920 kg 3.820 kg 1.365 kg
+
+-12.961 kgCO2eq - 12.098 kgCO2eq - 128,4 kgCO2eq - 3.869 kgCO2eq - 8.272 kgCO2eq
+
+Metal studs Casework Wood finishes Ceramic tiles Built-in wood bench
+1.335 kg 372 kg 264 kg 180 kg 32 kg
+
+- 130,2 kgCO2eq
+
+Carpets
+21 kg
+
+- 1.069 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#16 32 detailed project sheets, case study analysis
+
+Biopartner 5 Laboratory 
+A scientific laboratory that was also a laboratory of circular building strategies.
+
+Program: Laboratories + offices
+Project type: New construction
+Surface area: 6.827 m²
+Contracting authority: Biopartner 
+Center Leiden
+Architect: Team PTSA
+Dave Oorschot, Thinh Pham, Cas 
+Bollen, Andrei Voaides, Josse Popma, 
+Jan Willem ter Steege
+Contractor: De Vries en Verburg 
+(main contractor)
+Engineering assistance: IMd 
+Consulting Engineers (construction), 
+Deerns Nederland (installations and 
+building physics), NIBE B.V.
+Contract: Private
+Year of completion: 2021
+
+Image source : René de Wit
+
+Biopartner 5 is the fifth building of BioPartner, an organisation in charge of 
+developing a science park to host startups and spin-offs from Leiden 
+University. It has been designed by Popma Ter Steege Architects with a strong 
+emphasis on circular approaches, including reusing building materials. They 
+were assisted by NIBE b.v., who accompanied the impact calculations of the 
+project. 
+
+As a result, the project managed to incorporate a significant quantity of 
+reused elements. A noticeable batch is the reused steel structure reclaimed 
+from the demolition of the Gorlaeus laboratory, a nearby building. In total, 
+159 tonnes of steel could be reused for structural purposes in Biopartner 5.
+
+Another striking batch is the 54 tonnes of reclaimed tiles, stone slabs, and clay 
+pavers, lay-outed in a sophisticated flooring pattern—reminiscent of Dimitris 
+Pikonis’ 1954 design of the path to the Acropolis, in Athen. 
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#16 32 detailed project sheets, case study analysis
+
+In addition, the project also reuses a huge quantity of masonry rubble (411 
+tonnes stacked into gabions for the façade wall), glass partition walls, carpet 
+tiles (re-coloured on site), oak panels, and sanitary equipment. 
+
+Overall, the project managed to include reused elements in most of the 
+construction layers, reaching reuse rates (in mass) that are far from being 
+negligible for a building of this size: 3 % in the Structure layer, 29 % in the Skin 
+layer, 3% in the Space Plan layer and 7 % in the Sanitary layer. 
+
+ 
+Reuse rate per layer (in mass)
+
+Structure 3,46%
+Skin 28,08%
+Space Plan 2,97%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 7,54%
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+     = not visible at this scale
+N/A = the project does not include this Building elements reused in the project (per layer)
+layer
+
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family).
+
+Structural steel Masonry rubble Ceramic tiles Glass partition walls Carpets 
+159.000 kg 411.170 kg 54.900 kg 17.972 kg 9.379 kg
+
+- 386.012 kgCO2eq - 16.716 kgCO2eq - 7.398 kgCO2eq - 28.111 kgCO2eq - 79.670 kgCO2eq
+
+Toilet bowls
+285 kg
+
+- 1.595 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#17 32 detailed project sheets, case study analysis
+
+Kaysersberg waste collection 
+centre
+Reuse in different layers of this waste collection centre.
+
+Program: Waste disposal/sorting
+Building type: New construction
+Surface area: 7.830 m2
+
+Contracting authority:
+Communauté de communes de la 
+Vallée de Kaysersberg
+Architect: ER Architectes
+Contractor: Lingenheld
+Reuse assistance: Bellastock
+Engineering assistance: SETUI - 
+INOTEC - DEKRA
+Contract: Public
+Public support: ADEME région 
+Grand Est
+Year of completion: 2022
+
+Image source : Bellastock
+
+As part of the implementation of their circular economy strategy, 
+municipalities from the Kaysersberg valley (France) seeked to redevelop an 
+existing waste collection centre. It had to become a central place to collect 
+and sort different types of waste, but also to foster the salvage of reusable 
+items.
+
+The redevelopment entailed the expansion of the original centre and the 
+building of new infrastructure and equipment. These drew on two main 
+principles: first, using local timber for the structure and the cladding; second, 
+reusing elements salvaged either from the original facilities (like the T-shaped 
+precast retaining walls) or sourced from local salvage dealers (such as 
+structural steel, wood finishes, sinks, asphalt slabs, gates and lifting barriers, 
+etc.).
+
+The architects were accompanied by a reuse assistant, Bellastock, to 
+maximise the reuse of building elements. 
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#17 32 detailed project sheets, case study analysis
+
+Together, they explored how to implement reuse strategies in many different 
+constructive layers, reaching interesting results in the Structure, Space Plan, 
+Sanitary, Outdoor Surfaces and Outdoor furniture layers.
+
+Reuse rate per layer (in mass)
+Structure 1,75%
+Skin 0% *
+Space Plan 1,35%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 25,35%
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces 0,71%
+
+Legend: Outdr. - Furn. 9,30%
+
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+     = not visible at this scale Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Concrete retaining wall Structural steel Wood finishes Concrete sink Asphalt slabs
+28.798 kg 785 kg 873 kg 143 kg 10.340 kg
+
+- 966,5 kgCO2eq - 1.905 kgCO2eq - 15,5 kgCO2eq - 9.031 kgCO2eq
+
+Gates Wire fence
+354 kg 352 kg
+
+- 1569 kgCO2eq - 2763 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#18 32 detailed project sheets, case study analysis
+
+Botany institute ULg
+Sustainable and respectful renovation of a 1970s university building.  
+
+Program: Offices / University
+Project type: Transformation of an 
+existing building
+Surface area: 8.600 m2
+
+Contracting authority:
+Liège University
+Architect: ULIEGE-ARI
+Reuse assistance: Rotor
+Contract: Public
+Public support: EEEF (Europeen 
+energy efficiency fund)
+Year of completion: 2018
+
+Image source : Samuel Defourny
+
+The University of Liège (ULg) owns several buildings built in the late 1960s and 
+early 1970s by Belgian modern architects. Most of them have a high heritage 
+value but a poor energy efficiency. In the 2010s, the University launched an 
+ambitious renovation programme supported by the European Energy 
+Efficiency Fund (EEEF), with the aim to lower the buildings’ energy 
+consumption by at least 20 %. It is in this context that the renovation of the 
+Botany Institute took place. 
+
+An energy audit concluded that the skin was a major source of energy losses 
+in this building. The simple-glaze aluminium windows had to be replaced and 
+the concrete façade had to be insulated. Because the building needed to 
+remain in use, the architects had no choice but to insulate from the outside. 
+Yet, the façade, with the concrete retaining the imprints of the veins of the 
+wood of the formwork, was also a major architectural feature, worth 
+preserving. 
+
+Source : https://opalis.eu/en
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#18 32 detailed project sheets, case study analysis
+
+Image source : Samuel Defourny
+
+The architects and the contracting authority solved this conundrum by opting 
+for a cladding made out of reclaimed barnwood. This solution was compatible 
+with the insulation system. It also alludes to the original façade, with the same 
+kind of unpredictable texture.
+
+This is not the only element to be reused in this project. The architects also 
+reused azobe planks from former docks to create an outdoor terrace, metal 
+roofing and 60 × 60 flooring concrete slabs (same site reuse). On top of that, 
+the project retains most of the original building and puts some effort into 
+restoring HVAC equipment.
+
+Overall, the project limited its inflows to 578 tonnes of materials, with reuse 
+rates of 7 % in the Skin layer, 22 % in the Outdoor Surfaces layer and 22 % in 
+the Outdoor Furniture layer.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#18 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+Structure 0% *
+Skin 6,59%
+Space Plan 0% *
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces 22%
+
+Legend: Outdr. - Furn. 22,20%
+
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+     = not visible at this scale Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Wood cladding Concrete tiles Metal sheet Wood decking Concrete pavers and slabs
+22.667 kg 7.440 kg 2.800 kg 396 kg 14.431 kg
+
+- 6.722 kgCO2eq - 291,6 kgCO2eq - 14.788 kgCO2eq - 6.672 kgCO2eq - 1.917 kgCO2eq
+
+Bicycle racks
+12 kg
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#19 32 detailed project sheets, case study analysis
+
+Pulse Offices
+Scale matters: 543 tonnes of reused raised floors system.
+
+Program: Offices
+Building type: New construction
+Surface area: 33.588 m2
+
+Contracting authority:
+Icade
+Architect: BFV
+General contractor: Artelia
+Reuse assistance: Bellastock
+Contract: Private
+Project duration: 2017-2019
+
+Image source: Frederic Delangle, Léa Deniele
+
+Pulse is a new office building completed in 2019 in Saint-Denis.  This new 
+large construction (seven floors and almost 30.000 m²) is at the heart of a 
+former industrial area north of Paris. The floors are set around a large atrium. 
+The ground floor hosts a co-working space, restaurants and cafés. The upper 
+floors are for offices and terrasses. The rooftop houses a vegetable garden.
+
+The project’s developers strove to lower their carbon impact. For that, they 
+considered a wide range of solutions, such as using bio-based materials (the 
+timber structure, for instance), recycled materials (the textile-based insulation 
+and the carpet tiles with a high recycled content, for instance), and reused 
+building elements.
+
+Reducing carbon emissions in a project of that scale is a big challenge. Project 
+developers inevitably had to make compromises, like using a bit of concrete in 
+the timber structure. Reuse-wise, together with their reuse assistant 
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#19 32 detailed project sheets, case study analysis
+
+Image source: Rotor
+
+Bellastock, they narrowed down the possibilities to only two batches: 
+handrails and raised floors system, both salvaged locally. The raised floors 
+system alone, however, represents a very significant quantity of reused 
+materials (543 tonnes exactly). It contributes to reaching a 20 % reuse rate in 
+the Space Plan layer—demonstrating that a few strategic decisions can pay 
+off!
+
+Reuse rate per layer (in mass)
+Structure 0% *
+Skin 0% *
+Space Plan 20,17%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Raised floor tiles Metal handrails
+93.448 kg 690 kg
+
+- 60.972 kgCO2eq - 6.330 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#20 32 detailed project sheets, case study analysis
+
+Multi
+An XXL renovation with circular strategies.
+
+Program: Offices / Restaurant / 
+Work / Café
+Building type: Transformation of an 
+existing building
+Surface area: 45.120 m2
+
+Contracting authority:
+Whitewood / immobel
+Architect: Conix RDBM Architects
+Contractor: Cordeel Zetel Temse NV
+Reuse assistance: Rotor
+Contract: Private
+Public support: Be Exemplary 2017
+Year of completion: 2022
+
+Image source : Marc Detiffe
+
+Modern office buildings from the 1960’s in Brussels are often considered by 
+the public as an eyesore, an unfortunate heritage from a time that saw the 
+old city being demolished to give place to high-rise buildings. As a result—and 
+this is not without paradox—their reconversion today often involves heavy 
+demolition and reconstructing new buildings. The Multi project wanted to 
+explore a more circular pathway.
+
+A key objective was to maintain most of the original building and design 
+bespoke interventions to improve its urban character, notably through better 
+connecting the ground floor with the public space and allowing public access 
+to the terrasse on top of the base.
+
+Multi’s developers set for themselves ambitious circular targets: retaining as 
+much of the original building as possible, and integrating 2 % of reused 
+materials in the in-flows (both in mass and economic volume).
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#20 32 detailed project sheets, case study analysis
+
+Images source : Jasper Van der Linden
+
+They carried out many actions to reach these goals: study technical solutions 
+to install HVAC equipment despite the low ceiling height (so as to retain most 
+of the Structure layer), conduct a reclamation audit to identify reusable 
+elements, instigate same-site reuse strategies, and use materials reclaimed 
+from diverse locations through professional reclamation dealers.
+
+Having a clear target in view facilitated bundling the different involved parties’ 
+efforts. It also allowed the project’s architects and developers to support 
+circular decisions that entailed slight divergences from usual workflows. 
+
+Overall, the project incorporates more than 12.000 tonnes of reused 
+materials—the biggest quantity of reused materials in our sample of tertiary 
+buildings. These materials are all located in the Skin layer (stone cladding and 
+flooring) and in the Space Plan layer (stone flooring, aluminium profiles 
+salvaged from the original façade).
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#20 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+
+Structure 0% *
+Skin 3,26%
+Space Plan 1,28%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 0% *
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Stone slabs Stone cladding Stone finishes Aluminium profiles
+49.442 kg 44.013 kg 93.141 kg 3.646 kg
+
+- 9.647 kgCO2eq - 4.822 kgCO2eq - 3.609 kgCO2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#21 32 detailed project sheets, case study analysis
+
+Green House
+Every single component of this project has already had another life, making this 
+pavilion a demonstration of reuse.
+
+Program: Green house
+Project type: New construction
+Surface area: 7,7 m²
+Contracting authority: Lmnl 
+Architect and landscape
+Architect: Studio ACTE, Team: Estelle 
+Barriol, Hannah Sherin, Lotte 
+Wigman, Toma Murtic, Alessandra 
+Esposito, Fanny Bordes
+Contract: Private
+Year of completion: 2023
+
+Image source : Stijn Bollaert
+
+The Green House—as its name suggests—is a small plant nursery (7,7 m²). It 
+is located in Brabant (NL) for a period of 5 years. This micro building is made 
+out of wood, polycarbonate and ropes that are put in tension to provide 
+stability against strong winds. 
+
+Almost all the building components are salvaged from nearby projects. It 
+includes other temporary cabins built by the same architecture practice, 
+among which the Circular Pavilion, from where the Green House’s timber 
+structure, aluminium corrugated roofing sheets and plywood boards 
+originate, for instance. The floor infill is made out of 228 solid bricks, 
+reclaimed from the LNML garden. Local salvage dealers also provided some 
+elements, such as the indoor planter shelves or the gravel (1 tonne).
+
+As a result, the project reaches pretty high reuse rates in the three only layers 
+concerned (Structure, Skin and Space Plan). 
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#21 32 detailed project sheets, case study analysis
+
+This is no surprise given the scale and the nature of this project. Interestingly, 
+the designers blueprinted this project directly from reusable elements they 
+knew where available, making it a bespoke reuse demonstrator.
+
+Reuse rate per layer (in mass)
+
+Structure 99,54%
+Skin 100%
+Space Plan 100%
+Serv. - HVAC N/A
+Serv. - Electric N/A
+Serv. - Sanitary N/A
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+Reused mat. Other mat.
+
+N/A = the project does not include this 
+layer
+
+Data source for avoided GHG emissions: Building elements reused in the project (per layer)
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Structural timber Gravel Solid bricks Concrete blocks Acrylate panels 
+2.277 kg 1.000 kg 450 kg 310 kg 609 kg
+
+- 2.399 kgCO2eq - 24,1 kgCO2eq - 400 kgCO2eq - 47,9 kgCO2eq - 877,1 kgCO2eq
+
+Corrugated metal sheet Plywood panels Plywood panels
+369 kg 27,6 kg 52,3 kg
+
+- 138,2 kgCO2eq - 32,8 kgCO2eq - 73,1 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#22 32 detailed project sheets, case study analysis
+
+Circular Pavilion
+With elegance and simplicity, this temporary, small-scale structure achieves a very 
+high reuse rate.
+
+Program: Sleeping cabin
+Project type: New construction
+Surface area: 7,7 m²
+Contracting authority: Culture 
+Campsite / De kroon / Studio ACTE
+Architect: Studio ACTE, Team: Estelle 
+Barriol, Filipe Borges, Enzo 
+Contract: Private
+Year of completion: 2021
+
+Image source : Rubén Dario Kleimeer
+
+The Circular Pavilion was a temporary 7.7 m² cabin commissioned by an art 
+foundation in Rotterdam. It was designed and built by Studio ACTE as a 
+demonstration that sustainable and circular construction can convey a new 
+aesthetic.
+
+With a relatively simple programme (sleeping cabin/retreat space/winter 
+garden…) and a short expected lifespan (1 year), it mostly focussed on 
+sourcing low-impact materials and installing them with skills and elegance.
+
+Almost all of its components have been salvaged from nearby sources, 
+reaching an overall reuse rate of almost 100 % for the in-flow (in mass). They 
+are mostly modern and—one may say—banal building materials, such as 
+hollow concrete blocks, OSB panels, acrylic panels, formwork panels, plywood 
+boards, and so forth. 
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#22 32 detailed project sheets, case study analysis
+
+However, their assemblage manages to transcend their mundane origin to 
+convey a certain poetry and allure to this small pavilion. Temporary by 
+essence, it was designed to be easily dismantled after its use. Most of the 
+materials then found their way to other, similar projects.
+
+Reuse rate per layer (in mass)
+
+Structure 92,67%
+Skin 89,40%
+Space Plan 100%
+Serv. - HVAC N/A
+Serv. - Electric N/A
+Serv. - Sanitary N/A
+
+Legend:
+Outdr. - Infrastr. N/A
+
+Reused mat. Other mat. Outdr. - Surfaces N/A
+N/A = the project does not include this Outdr. - Furn. N/A
+layer
+
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some Building elements reused in the project (per layer)
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Rammed earth Concrete blocks Gravel OSB panels Acrylate panels 
+4.500 kg 1.680 kg 1.000 kg 185 kg 931 kg
+
+0.00 kgCO2eq - 99,4 kgCO2eq - 24,1 kgCO2eq - 270,4 kgCO - 1.338 kgCO
+2eq 2eq
+
+Plywood panels Wood flooring
+106 kg 192 kg
+
+- 145,8 kgCO2eq - 170,2 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#23 32 detailed project sheets, case study analysis
+
+Sanitary block
+Pushing for reuse in a small-scale but demanding building.
+
+Program: Restroom
+Project type: New construction
+Surface area: 18 m2
+
+Contracting authority:
+Municipality of Dilbeek
+Architect: Rotor
+Contractor: Coopérative 
+construction Autrement
+Contract: Public
+Year of completion: 2019
+
+Image source: Rotor
+
+This small building is designed as an extension to an ancient farm now 
+hosting a youth organisation’s facilities (the Chiro from Itterbeek). This 
+extension houses a mundane but important programme, namely public 
+bathrooms. The client wanted a project with as much reuse as possible—a 
+challenge taken up by the designers and the contractor all along the way.
+ 
+A local dealer in reclaimed bricks supplied all the material used for the façade. 
+The designers chose three types of bricks and blueprinted different bonds, to 
+come up with a façade that blends well into its context (the adjacent farm and 
+a nearby chapel) while retaining its individuality.
+
+The interior fittings also give pride of place to reused elements. The floor and 
+the walls are protected with ceramic tiles that were reclaimed during the 
+demolition works of a 1930s primary school located a few kilometres away. 
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#23 32 detailed project sheets, case study analysis
+
+Image source: Rotor
+
+The sanitary appliances (urinals, toilet bowls and sinks), lighting and mirrors 
+were all salvaged from diverse buildings and supplied by professional dealers.
+
+More modern materials, used for the load-bearing structure (concrete blocks) 
+and the roof (including thermal insulation), come from site surplus or 
+production overstocks. While slightly different from new materials, they are 
+not reclaimed either since they have never been installed. Therefore, such 
+materials are not counted as ‘reuse’ in our analysis of the in-flow. 
+
+In the end, the project achieved relatively high reuse rates in the Skin, Space 
+Plan and Sanitary layers. Although modest in scope, this project nonetheless 
+followed each phase of a traditional construction project and involved every 
+type of work usually found in larger construction sites (foundations, sewers, 
+structural work up to the roof, plumbing, electricity and interior fittings). It 
+also operated with a relatively tight budget. Therefore, the reuse rates 
+achieved there give a fair image of what can be done in this kind of context, 
+with a mix of goodwill and motivation, but also economic and practical 
+constraints.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#23 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+
+Structure 1,25%
+Skin 55,67%
+Space Plan 39,90%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 94.42%
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces N/A
+
+Legend:
+Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Solid bricks Concrete lintels Steel lintels Exterior door Exterior windows
+5.114 kg 160 kg 101 kg 90 kg 30 kg
+
+- 460 kgCO2eq - 98,2 kgCO2eq - 244,9 kgCO2eq - 226,6 kgCO2eq - 76,1 kgCO2eq
+
+Rigid insulation Ceramic tiles Mirrors Ceramic plinths Toilet bowls
+29,4 kg 322 kg 30 kg 22,5 kg 60 kg
+
+- 72,6 kgCO2eq - 325,6 kgCO2eq - 42 kgCO2eq - 93,1 kgCO2eq - 335,7 kgCO2eq
+
+Ceramic sinks Urinals Stainless steel sinks Urinal dividers Changing tables 
+45 kg 24 kg 12 kg 12 kg 9,7 kg
+
+- 103,2 kgCO2eq - 167,8 kgCO2eq - 15,4 kgCO2eq
+
+Toilet paper holders Flush plates Grab bars
+2,8 kg 1,5 kg 0,4 kg
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#24 32 detailed project sheets, case study analysis
+
+Tree House
+A tiny building with huge reuse rates.
+
+Program: Garden office
+Project type: New construction
+Surface area: 24 m²
+Contracting authority: Iona 
+Foundation
+Architect: Studio ACTE, 
+Team: Estelle Barriol, Ruth Gonzalez 
+Garcia, Hannah Sheerin, Tania 
+Sediame, Lotte Wigman, Georges 
+Taminiau 
+Contract: Private
+Year of completion: 2022
+
+Image source : Stijn Bollaert
+
+The Tree House is a 24 m² cabin located in the garden of the Iona Foundation 
+in Amsterdam, at the feet of a majestic tree. It has been designed and built by 
+Studio ACTE, an architecture practice aiming at promoting low-tech, resilient 
+and hands-on architecture.
+
+Although modest in size, the cabin has a sleek design evoking a small shrine 
+in a dense forest. The ‘Tree House’ manages to look very coherent despite 
+using materials salvaged from very different—and sometimes 
+unexpected—sources (but all within a short distance from the project).
+
+The timber structure and wood floors are made of reclaimed Basralocus, a 
+tropical hardwood that grows in French Guiana and Suriname (a former 
+Dutch colony). This wood is often used for maritime construction. This very 
+batch arrived in Rotterdam 150 years ago and was used in the harbour before 
+being salvaged and reused in the Tree House.
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#24 32 detailed project sheets, case study analysis
+
+The foundation only uses 100 kg of rammed earth, salvaged from another 
+temporary pavilion designed and built by Studio ACTE. The beams of the floor 
+are laying on 14 blocks of natural stone, coming from the same pavilion. 
+Additional gravel and concrete blocks are salvaged from a local source.
+
+The walls are made of eight leftover plywood boards and ten acrylic panels 
+salvaged from the demolition of a chicken farm. The roof is made of salvaged 
+corrugated metal sheets sourced locally. It is reinforced with formwork 
+elements salvaged from the transformation of a nearby nightclub.
+
+A reclaimed wine barrel serves as a water tank, adding a final touch to this 
+almost 100 % reuse project. Overall, the project reaches very high reuse rates, 
+which is not too surprising given its scale and its nature.
+
+Reuse rate per layer (in mass)
+Structure 100%
+Skin 80,41%
+Space Plan 100%
+Serv. - HVAC 0% *
+Serv. - Electric 0% *
+Serv. - Sanitary 77,17%
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend:
+Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Structural timber River stone Concrete blocks Gravel Rammed earth
+2.400 kg 688 kg 393 kg 200 kg 100 kg
+
+- 2.879 kgCO2eq - 3,2 kgCO2eq - 60,7 kgCO2eq - 4,8 kgCO2eq
+
+Plywood panels Acrylate panels Wood finishes  Water tank
+190 kg 83 kg 576 kg 39 kg
+
+- 298,7 kgCO2eq - 119,4 kgCO2eq - 448,3 kgCO2eq - 28,9 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#25 32 detailed project sheets, case study analysis
+
+VLA office
+Designers’ offices as a visit card to promote reuse.
+
+Program: Offices 
+Project type: Adaptive reuse
+Surface area: 100 m2
+
+Contracting authority:
+Vla architecture
+Architect: VLA architecture
+Contract: Private
+Public support: Be Exemplary 2017
+Year of completion: 2018
+
+Image source : Rotor
+
+When the Brussels architects of VLA-architecture moved into their new 
+offices, they wanted to showcase their interest in reusing building elements 
+through the design of the interior fittings. These have been thought as a 
+demonstration to their clients that reusing building materials was not only 
+feasible but could also be attractive.
+
+Beside reuse, the project endorses other facets of circular construction. The 
+offices have been designed in a reversible way, for instance. Should VLA leave 
+this place, the space could easily be converted into housing. Also, the 
+architects systematically opted for materials with a low embodied energy 
+when they could not find them from salvage sources. All these aspects 
+enabled the project to be selected for a Be.Circular award in 2017—a regional 
+public scheme aiming at accompanying ambitious circular projects, notably 
+through financial support. 
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#25 32 detailed project sheets, case study analysis
+
+Thanks to their professional activities, the architects are regularly in contact 
+with reusable materials on their different sites, or that of the contractors they 
+work with. This was an important source for the materials reused in their own 
+offices. Some elements were also bought from local salvage dealers. If 
+opportunities for reuse were not missing, storage space was much scarcer. All 
+the materials needed to be brought and stored on this relatively small site 
+until their reinstallation, entailing complex site management. This was 
+possibly the main challenge of this project.  
+
+An important feature of the project is the long partition wall slash bookshelf 
+slash closet separating the hall from the different rooms. It is a clever 
+assemblage built from a collection of diverse casework elements. This kind of 
+bespoke built-in furniture is usually rather expensive and timely to design. 
+Working with salvaged material made the process slightly easier (and much 
+cheaper): since the elements were already there, the design became a matter 
+of wittily assembling things together. Somehow, the elements themselves 
+determined their future destination.
+
+Another remarkable feature is the partition wall between the kitchen and the 
+offices. It is mostly made of single-glazed windows reclaimed from the back 
+façade, providing natural light and a view over the garden to the offices while 
+enclosing the kitchen area.
+
+If the project concerns many layers (incl. Structure, Skin, Space Plan and all 
+three Services), most interventions were pretty minimal—which is fully in line 
+with another crucial circular strategy, that of retaining what is already there. 
+Overall, only 11 tonnes of materials were needed for this project. They are 
+mostly concentrated in the Space Plan layer, which also features an 
+impressive reuse rate of 85 % (in mass).
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#25 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+
+Structure 100%
+Skin 28,17%
+Space Plan 85,45%
+Serv. - HVAC 28,88%
+Serv. - Electric 10%
+Serv. - Sanitary 1,67%
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+
+     = not visible at this scale
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Concrete lintels Rigid insulation Casework Wood flooring Wood structure
+93 kg 497 kg 1.735 kg 1.568 kg 1.527 kg
+
+- 55,8 kgCO2eq - 123,2 kgCO2eq - 440,8 kgCO2eq - 1.608 kgCO2eq 
+
+Glass partition walls Wood finishes Interior doors Mineral wool insulation Metal studs
+357 kg 148 kg 140 kg 126 kg 23 kg
+
+- 825,5 kgCO2eq - 226,6 kgCO2eq - 60,9 kgCO2eq
+
+Cast iron radiators Electrical components Stainless steel sinks
+528 kg 40 kg 5 kg
+
+- 243,2 kgCO - 331,3 kgCO2eq - 15,4 kgCO2eq
+2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#26 32 detailed project sheets, case study analysis
+
+Droits et Habitats premises
+Lustrous reuse that blends perfectly into an elegant white space.
+
+Program: Offices and place of 
+welcome
+Project type: Interior renovation
+Surface area: 135 m2
+
+Contracting authority:
+Association Droits et Habitats
+Architect: Faire Avec Architecture
+Contractor: Odéon SARL  / Palam / 
+Coup d'Main 
+Engineering assistance: 
+Concepteurs Lumière Sans Frontières
+Contract: Private
+Public support: City of Paris
+Project duration: 2019-2020
+
+Image source: Eléonore Lubna Secondi
+
+It is in 2020 that the association Droits et habitats, which provides support for 
+people in precarious housing situations, moved into new premises leased by 
+the Paris city council. An empty high-ceiling space was to be arranged to host 
+desk-based activities, large meetings but also small gatherings with 
+inhabitants. 
+
+The project focused on interior design. It aimed at making the space comfy 
+and inviting for the association’s members and their visitors.
+
+Taking advantage of the high ceiling, the designers planned an extra floor for 
+the offices, which occupies about half of the total volume. This solution leaves 
+open a large space that can accommodate other purposes. The new partitions 
+have been approached as if they were interior façades. They are designed 
+with a lot of windows and white surfaces as to diffuse natural light throughout 
+the rooms. 
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#26 32 detailed project sheets, case study analysis
+
+Image source: Eléonore Lubna Secondi
+
+The designers also seeked to experiment with reuse in this project. A wide 
+range of salvaged elements are elegantly installed in the different spaces. 
+Sometimes, they are so well integrated that it is hard to distinguish them from 
+new materials. It is notably the case of interior windows, doors, tiles and 
+some glass partition walls. 
+
+The very nature of this project entails an exclusive focus on the interior layers: 
+Space Plan, HVAC, Electricity, and Sanitary. It is in the latter that the project 
+reaches the most impressive reuse rate (69 % in mass), thanks to reusing 
+equipment such as a hot water tank, sinks and toilet bowls together with 
+smaller accessories (faucets, flush plates…).
+
+Reuse rate per layer (in mass)
+
+Structure 0%
+Skin 0%
+Space Plan 9,70%
+Serv. - HVAC 4,50%
+Serv. - Electric 6,74%
+Serv. - Sanitary 69,19%
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+Reused mat. Other mat.
+
+N/A = the project does not include this 
+layer
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#26 32 detailed project sheets, case study analysis
+
+Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides data 
+on GHG emissions at the level of material 
+families, hence some discrepancies between 
+the mass of the elements (corresponding to 
+the exact product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Interior windows Ceramic tiles Interior doors Glass partition wall Carpet 
+242 kg 180 kg 150 kg 139 kg 130 kg
+
+- 1.114 kgCO2eq 130,2 kgCO2eq - 679,8 kgCO2eq - 654,7 kgCO2eq - 1.162 kgCO2eq
+
+Built in metal cabinet Mirrors Spot lights, lamps, sconces LED tube lights Sheet steel radiators
+50 kg 15 kg 180 kg 130 kg 80 kg
+
+- 21 kgCO2eq - 25.134 kgCO2eq - 7.682 kgCO2eq - 621,9 kgCO2eq
+
+Stainless steel sink Hot water tank Ceramic toilet bowls Faucets Sinks 
+61 kg 47 kg 30 kg 20 kg 30 kg
+
+- 15,4 kgCO2eq - 24,7 kgCO2eq - 167,8 kgCO2eq - 171,1 kgCO2eq - 103,2 kgCO2eq
+
+Grab bars Flush plates
+6 kg 1,5 kg
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#27 32 detailed project sheets, case study analysis
+
+Reuse centre La Fabrique
+When reuse resonates with both the form and content…
+
+Program: Reuse shop
+Project type: Interior renovation
+Surface area: 240 m2
+
+Contracting authority:
+Fondation de l’Armée du Salut
+Architect: Faire Avec Architecture
+Designer : Nivine Chaikhoun
+Contractor: BRB - Hydrotherm - 
+Palam
+Engineering assistance: Inoveha - 
+BETEX ingenierie - Concepteurs 
+Lumière Sans Frontières (CLSF)
+Contract: Private
+Public support: Participatory budget 
+of the City of Paris and the 
+Ile-de-France region.
+Year of completion: 2021
+
+Image source : Jonathan Llense
+
+La Fabrique 230 is an organisation that seeks to foster the reuse of everyday 
+goods. They carry out a large range of activities for this purpose: collecting 
+reusable items, cleaning them, selling them at fair price and raising 
+awareness of the public on this issue. When it came to design their new 
+premises, it seemed self-evident to go for reuse. 
+
+La Fabrique’s new installations are located on the ground floor of a housing 
+block in Paris. They host a public shop, a workshop and a storage area for a 
+total surface area of 240 m².
+
+Reuse is at the heart of the design project. 22 % (in mass) of the interior 
+finishings have been sourced from salvage channels : demolitions and 
+contractors’ stocks. Wood finishes, glass partitions and kitchen casework 
+could be collected that way. The project also contains salvaged sinks, lighting 
+rails and many other small accessories.
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#27 32 detailed project sheets, case study analysis
+
+In this project, the content and the form are very much aligned. The interior 
+fittings demonstrate the reuse can rhyme with sleek and elegant design, 
+hence suggesting a much richer range of possibilities than the ‘pallet design’ 
+to which it is sometimes limited.
+
+Reuse rate per layer (in mass)
+
+Structure 0%
+Skin N/A
+Space Plan 22,03%
+Serv. - HVAC 0%
+Serv. - Electric 0%
+Serv. - Sanitary 32,15%
+Outdr. - Infrastr. N/A
+Outdr. - Surfaces N/A
+
+Legend: Outdr. - Furn. N/A
+N/A = the project does not include this 
+laRyeeursed mat. Other mat.
+
+N/A = the project does not include this 
+layer
+
+Data source for avoided GHG emissions: Building elements reused in the project (per layer)
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Casework Wood finishes Glass partition walls Door closers Door handles
+1.035 kg 980 kg 242 kg 3,4 kg 3 kg
+
+- 161,7 kgCO2eq - 327,3 kgCO2eq
+
+Ceramic sinks Toilet paper holders Faucets Grab bars Paper towel holders
+41 kg 4,8 kg 4,5 kg 1,4 kg 1,3 kg
+
+- 154,9 kgCO2eq - 77 kgCO2eq
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#28 32 detailed project sheets, case study analysis
+
+Garden of Reuilly
+When the unexpected finding of antique cobblestones triggers a large reuse 
+operation.
+
+Program: Public garden
+Project type: Outdoor facility
+Surface area: 4.820 m2
+
+Contracting authority:
+Paris Habitat 
+Architect: h2o - d&h paysagistes
+Reuse assistance: Rotor
+Engineering assistance: id+ 
+engineering 
+Contract: Public
+Project duration: 2019-2021
+
+Image source : Stephane Chalmeau 
+
+The redevelopment of the Caserne de Reuilly is a major urban project in the 
+12th arrondissement of Paris. The overall project involves the reconversion of 
+a former military site into housing, student residences, nursery, commercial 
+facilities and a public garden. The latter is at the centre of the project at stake 
+here. The brief was to transform a very mineral military courtyard into a green 
+space open to the public. 
+
+During the earthworks, the workers dug out unexpected materials from the 
+ground: while drilling pits and trenches, they found a batch of big-sized 
+sandstone cobblestones originating from Fontainebleau—a model commonly 
+called ‘Napoleon cobblestones’ in the region. Because of their value, the 
+project developer decided to reuse them on site in the courtyard. 1.440 m² of 
+ancient cobblestones thus found a new use in the garden of Reuilly. To reach 
+the total surface area needed, the project also drew on two dealers in 
+reclaimed materials who supplied an additional 1.650 m² of pavers.
+
+1/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#28 32 detailed project sheets, case study analysis
+
+Image source: Myr Muratet
+
+ In total, the Outdoor Surface layer counts 543 tonnes of reused pavers, which 
+corresponds to 36 % of the mass of all the materials used in this layer.
+
+The cobblestones from the Garden of Reuilly were stored and reconditioned 
+off-site, at the Bonneuil-sur-Marne platform. There, the cobblestones were 
+sawn or cleaved to a height of at least 8 cm, depending on the finishes 
+required for the project. For the quite large antique cobblestones, this 
+process generates 2 to 3 times more paving surface area. It also results in 
+pavers with a smoother surface, which can be reused for walkaways 
+accessible to people with reduced mobility. In some parts of the project, there 
+is grass between the pavers, providing a gentle transition to the planted 
+areas.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#28 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+
+Structure N/A
+Skin N/A
+Space Plan N/A
+Serv. - HVAC N/A
+Serv. - Electric N/A
+Serv. - Sanitary N/A
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces 36,92%
+
+Legend:
+Outdr. - Furn. 0,39%
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Stone pavers Gates
+543.840 kg 1.000 kg
+
+- 2.250 kgCO2eq - 784,4 kgCO2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#29 32 detailed project sheets, case study analysis
+
+Molenbeek town square
+Classical porphyry setts for a new town square.
+
+Program: Public square
+Project type: Outdoor facilty
+Surface area: 6.300 m2
+
+Contracting authority: Beliris
+Architect: Anorak sprl
+Contractor: Verbruggen sprl 
+Contract: Public
+Year of completion: 2014
+
+Image source : Marie-Françoise Plissart
+
+Historically, Belgium was one of the largest producers of porphyry setts. They 
+were known worldwide for their "hard, even [...] and traffic-friendly" surface. It 
+is for the same reasons that they have been chosen for the redevelopment of 
+the Molenbeek-Saint-Jean town square and the adjacent streets in 2013.
+
+Yet, the production of porphyry pavers stopped in Belgium in the 1950s. 
+Nowadays, the only way to procure them is through the reclamation trade. 
+Fortunately, this segment of the trade is pretty well organised in Belgium. 
+Well-established stockholders can supply it in large quantities.
+
+The architects of the new town square knew from the inception phase of the 
+project that they would use reclaimed porphyry pavers. They wrote their 
+specifications accordingly in the call for tenders for the works. When the 
+surfacing works began, the contractor bought pavers from a local dealer 
+located 40 km away. This specialised dealer had previously sawn the pavers in 
+two parts. 
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#29 32 detailed project sheets, case study analysis
+
+This is quite common with reclaimed pavers: it ensures greater uniformity of 
+surfaces and improves the comfort for bikers and other users (notably those 
+with reduced mobility).
+
+This approach allowed the project to reach a reuse rate of 96 % in the 
+Outdoor Surfaces layer, corresponding to a total of 2.400 tonnes of porphyry 
+(which, obviously, counts amongst the most ponderous building materials). 
+The remaining 4 % corresponds to the new mortar used between the setts, 
+which we counted separately in the in-flow analysis.
+
+Reuse rate per layer (in mass)
+Structure N/A
+Skin N/A
+Space Plan N/A
+Serv. - HVAC N/A
+Serv. - Electric N/A
+Serv. - Sanitary N/A
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces 95,5%
+
+Legend:
+Outdr. - Furn. 0% *
+
+Image source : Marie-Françoise Plissart
+Reused mat. Other mat.
+
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Porphyry paving stone Concretes pavers and slabs
+2.237.376 kg 17.039 kg
+
+- 367,2 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#30 32 detailed project sheets, case study analysis
+
+Croeselaan
+A sustainable street in a busy city centre.
+
+Program: Cycling and walking area
+Project type: Outdoor facility
+Surface area: 13.599 m²
+Contracting authority: The 
+Municipality of Utrecht
+Reuse assistance: Dura Vermeer/ 
+Sweco / NIBE
+Contract: Public
+Year of completion: 2021
+
+Image source: Dura Vermeer
+
+Croeselaan (avenue Croese) serves as a cycling and walking route to the 
+Central Station of Utrecht. This avenue underwent a major renovation to 
+become again one of Utrecht’s most iconic green avenues. The City of Utrecht 
+collaborated with Dura Vermeer to implement circular construction practices 
+in this project. 
+
+The City of Utrecht wanted to make this renovation a circular pilot project, 
+and turn Croeselaan into one of most circular roads in the Netherlands. The 
+project received a quality score of 100% and had a fixed budget of 1,5 million 
+euros.
+
+The project and the tender process were designed to prioritise circular 
+practices. The municipality awarded the contract for the "Realisation of a 
+Sustainable Croeselaan" to the tenderer who presented the most 
+economically advantageous bid based on the best value-for-money..
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#30 32 detailed project sheets, case study analysis
+
+To ensure transparency and traceability, all materials and elements used in 
+the project are documented in a material passport. The project includes a 
+rare case of reuse in the Outdoor Infrastructure layer. It indeed managed to 
+salvage 1.505 tonnes of mixed aggregate from the original installation and 
+reuse this material for the new roadworks. The project also reused 115 
+tonnes of clay pavers, further contributing to the project's sustainability goals.
+
+Reuse rate per layer (in mass)
+Structure N/A
+Skin N/A
+Space Plan N/A
+Serv. - HVAC N/A
+Serv. - Electric N/A
+Serv. - Sanitary N/A
+Outdr. - Infrastr. 21,83%
+Outdr. - Surfaces 4,82%
+
+Legend:
+Outdr. - Furn. N/A
+
+Reused mat. Other mat.
+
+N/A = the project does not include this 
+layer
+
+Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Mixed aggregate Brick pavers
+1.505.000 kg 115.000 kg
+
+- 36.471 kgCO2eq - 3.938 kgCO2eq
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#31 32 detailed project sheets, case study analysis
+
+Cremerstraat
+Same-site reuse of roadworks material and equipment for a new bicycle route.
+
+Program: Cycling infrastructure
+Project type: Outdoor facility
+Surface area: 12.000 m²
+Contracting authority: The 
+Municipality of Utrecht
+Reuse assistance: Echochain
+Contract: Public
+Year of completion: 2018
+
+Image source : Gemeente Utrecht
+
+The City of Utrecht has committed to prioritising cycling infrastructure. In 
+recent years, the City made significant efforts to develop new bicycle routes. 
+In February 2014, the City planned the renovation of the Cremer street to 
+become an initial step to enhance the city cycling routes network. Not only 
+was this project about soft mobility but it also aimed at reducing the 
+environmental impact of asphalt in roadworks. It is in this context that the 
+reuse of the pavers was investigated. 
+
+The City awarded the works based on the most economically advantageous 
+tender. It means that the price was only a part of the assessment, together 
+with other criteria. In this case, the call for tenders included criteria for 
+reduced environmental impacts, such as the sustainability of the asphalt, the 
+reduction of environmental damages, and the project’s score on a CO2 
+ladder. 
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#31 32 detailed project sheets, case study analysis
+
+The contractor who was awarded the contract submitted an offer for a budget 
+of about 1 million euros. It included strategies for sustainable construction, 
+including reusing pavers from the original street. 
+
+In the end, the project managed to reuse different roadworks materials: 
+- Clay pavers (Dutch clinkers), chosen for their solidity and their aesthetic 
+
+appeal. Some were reclaimed from the eastern part of the Cremer 
+street while others were obtained from the reclamation trade.
+
+- Concrete pavers, reclaimed from the parking lots and reused for 
+marking the new parking places.
+
+- Concrete curbs, reused on site.
+Together, these materials reach a 25 % reuse rate for the Outdoor Surfaces 
+layer.
+The project also reused outdoor equipment, including 13 bicycle racks, 43 
+light posts and 3 parking metres (for a reuse rate of 11 % in the Outdoor 
+Furniture layer).
+
+Reuse rate per layer (in mass)
+Structure N/A
+Skin N/A
+Space Plan N/A
+Serv. - HVAC N/A
+Serv. - Electric N/A
+Serv. - Sanitary N/A
+Outdr. - Infrastr. 0% *
+
+Legend: Outdr. - Surfaces 25,43%
+Reused mat. Other mat. Outdr. - Furn. 11,17%
+
+* = not calculated because the layer does 
+not contain reused element
+     = not visible at this scale
+
+Data source for avoided GHG emissions: 
+LBC database. This database provides Building elements reused in the project (per layer)
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Concrete curbs Brick pavers Concrete pavers and slabs Light post Parking meter
+2.628.282 kg 630.720 kg 501.975 kg 898 kg 270 kg
+
+- 1.609 kgCO2eq - 44.235 kgCO2eq - 23.571 kgCO2eq
+
+Bicycle racks
+91 kg
+
+2/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#32 32 detailed project sheets, case study analysis
+
+Garden of Mellinet
+A wide range of applications for reclaimed stone in this landscape project.
+
+Program: Public garden
+Project type: Outdoor facility
+Surface area: 130.000 m2
+
+Contracting authority:
+Nantes Metropole Aménagement
+Architect: TGTFP - Atelier Georges 
+Contractor: ID Verde 
+(furnitures/landscape), Eurovia 
+(roadworks)
+Reuse assistance: Bellastock
+Engineering assistance: BURGEAP, 
+TUGEC, Nocitluca
+Contract: Public
+Project duration: 2018-2021
+
+Image source : Atelier Georges
+
+The garden of Mellinet is part of a large-scale urban project aiming at 
+converting former military barracks into a residential area in the centre of 
+Nantes. Partly completed in 2021, this phase of the project was about opening 
+up the site to local residents by transforming the outdoor spaces into public 
+family gardens. 
+
+The project required the demolition of most of the former barracks. Prior to 
+these demolitions, Bellastock carried out an inventory of the reusable 
+elements. In it, they identified over 1.200 m³ of natural stone and timber that 
+were then dismantled and stored on site. Bellastock investigated original ways 
+to store these materials. Their stacking became a piece of temporary 
+architecture, in a way to highlight their history and their potential to be 
+reused.
+
+1/2 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#32 32 detailed project sheets, case study analysis
+
+Image source : Atelier Georges
+
+Landscape designers Atelier Georges have shown great creativity in 
+multiplying the possibilities for exterior landscaping, using the whole palette  
+of reclaimed materials from the former buildings, mainly granite blocks. 
+These were reused to build stair steps, Japanese steps, benches, road kerbs... 
+The history of these old military barracks can be found in every detail of the 
+garden.
+
+The project we analysed only concerns roadworks and landscaping. It does 
+not include the construction of new housing, which is part of another project. 
+Unsurprisingly, it is in the Outdoor surfaces and Outdoor furniture layers that 
+the project is achieving impressive reuse rates. That stone is such a heavy 
+material obviously explains these results. In total, the project reused more 
+than 2.700 tonnes of materials.
+
+2/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT
+
+
+
+#32 32 detailed project sheets, case study analysis
+
+Reuse rate per layer (in mass)
+Structure N/A
+Skin N/A
+Space Plan N/A
+Serv. - HVAC N/A
+Serv. - Electric N/A
+Serv. - Sanitary N/A
+Outdr. - Infrastr. 0% *
+Outdr. - Surfaces 17,67%
+
+Legend:
+Outdr. - Furn. 77,44%
+
+Reused mat. Other mat.
+* = not calculated because the layer does 
+not contain reused element
+N/A = the project does not include this 
+layer Building elements reused in the project (per layer)
+Data source for avoided GHG emissions: 
+LBC database. This database provides 
+data on GHG emissions at the level of 
+material families, hence some 
+discrepancies between the mass of the 
+elements (corresponding to the exact 
+product) and the GHG savings 
+(corresponding to a more generic family). 
+
+Stone pavers Stone kerbs Stone furnishings
+1.916.546 kg 223,310 kg 112.361 kg
+
+- 6.260 kgCO2eq - 238,6 kgCO2eq - 36.901 kgCO2eq
+
+3/3 FACILITATING THE CIRCULATION OF RECLAIMED BUILDING ELEMENTS, AN INTERREG NWE PROJECT

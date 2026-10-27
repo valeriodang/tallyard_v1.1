@@ -1,0 +1,3689 @@
+﻿The Mayor has set ambitious targets This report was published by 
+NLA in July 2023 and is part of 
+
+for London to be a zero-carbon the year-round NLA Net Zero 
+
+city by 2030. If we are to achieve Programme. 
+
+carbon neutrality our priorities This NLA publication has been 
+written in collaboration with a 
+
+must include retaining buildings and researcher, and guided by the 
+
+infrastructure while making them NLA Expert Panel on Net Zero. 
+It draws together interviews 
+
+more environmentally sustainable and and call for actions from 
+key stakeholders in the built 
+
+replacing the end-of-life concept with environment community.
+
+re-use, re-purpose and recycle. nla.london  |  #NLACircular
+
+© NLA
+This NLA report looks at strategies, 
+initiatives and projects that are pushing 
+the boundaries to build a circular city.
+
+2 
+
+
+
+CONTENTS
+
+5	 Foreword 
+
+7	 Executive summary 
+
+9	 Building a renewable London 
+
+38	 Viewpoints 
+
+48	 Project showcase 
+
+98	 Endnotes and further reading 
+
+101	 Acknowledgements 
+
+3 
+
+
+
+‘‘With around 40% of carbon ‘‘Embracing circularity in the built 
+emissions in the UK linked to the environment will change how we 
+built environment, our cities are at measure success in architecture. It 
+the frontline of the transition to a means celebrating refurbishments 
+circular economy. We must look to over new builds. Until relatively 
+cities like London to pioneer and recently new structures were seen 
+mainstream circular approaches as the pinnacle of creativity, and 
+through design strategies, material dominated how we saw beauty 
+choices and upskilling. By asking in architecture and engineering. 
+how circular London is today, this Reducing upfront carbon means 
+report showcases the encouraging embracing the repurposing and 
+progress already underway. retrofit of buildings, and excelling in 
+Crucially, it also builds a pathway for working with fewer new materials.” 
+the further action needed if London Ashley Bateson, Director, Hoare Lea and Chair,  
+is to continue being a circular NLA Expert Panel on Net Zero
+economy pioneer.” 
+Sarah O'Carroll, Cities Lead, Ellen MacArthur Foundation
+
+QUOTES CONTENTS  4 
+
+
+
+FOREWORD
+Peter Murray OBE, Co-Founder, NLA
+
+The London Plan, with its focus on good growth, is committed windows and waste wood on rooftop community garden huts. 
+to addressing the city's need to reduce its carbon footprint with 
+sections on active travel targets, urban greening, sustainable To deliver his circular projects, Lendager has set up several 
+drainage and the circular economy. The last is probably the most building materials companies re-making plastic, bricks, wood, 
+complex to deliver in an industry that has traditionally been heavily and windows. Resource Rows did not cost more to build than 
+reliant on extracted resources. Now designers and contractors must traditional construction and is one of the most popular rental 
+ponder how demolition materials can be reused or recycled and how projects in Ørestad. In fact people rather like it: Lendager talks of 
+components and products can be disassembled and reused at the a new aesthetic that celebrates upcycling and how the narratives 
+end of their useful life. They need to look at managing waste on site of rescued materials connect with the occupiers. He believes that 
+and consider storage space to support recycling and reuse. architects should be master builders, not color pickers.
+
+But as yet, London has no functioning second-hand materials In the UK, the Alliance for Sustainable Building Products has 
+market that is easy to procure from. It requires a radical change produced a toolkit for steel reuse and a number of featured 
+in the way we think about constructing, equipping, using, projects are using second hand steel and raised flooring. Seratech, 
+maintaining, altering, and renewing our built environment. It needs established by staff and researchers at Imperial College, is working 
+a new economic model that moves away from our current linear on cement substitutes that capture industrial CO2 emissions 
+economy, where materials are mined, manufactured, used, and directly from flues and produce a carbon-negative cement 
+thrown away, to an economy where resources are kept in use, and replacement material. But it is not yet in commercial production. 
+their value is retained. The idea that buildings and infrastructure should be designed to 
+
+have long lifespans and be easily adaptable for future needs has 
+But who takes the lead? Can existing suppliers and merchants adapt been around for a long time. The concept of long life, loose fit was 
+and change their business model? Will design teams respond? first promoted by RIBA President Alex Gordon back in 1974. It was 
+
+popularised by Stewart Brand in his book 'How buildings learn.' If 
+This report features Danish architect Anders Lendager's Resource you google architects who use flexibility and adaptability in their 
+Rows housing scheme in Ørestad, Copenhagen, described as the lexicon, you get BIG, Renzo Piano, Foster + Partners, Diller Scofidio 
+world's first circular economy building. It uses upcycled bricks + Renfro, AHMM, Make, and Lifschutz Davidson Sandilands (Alex 
+and waste wood, a recycled concrete beam as a bridge, and old Lifschutz edited an excellent issue of Architectural Design on the 
+
+FOREWORD CONTENTS  5 
+
+
+
+subject). However, it is still challenging to deliver unless developers, 
+too, have bought into the concept.
+
+Will the existing materials industry adapt, or will they feel it 
+threatens their business? The circular economy could offer 
+significant economic benefits to the construction industry. 
+By embracing circular practices, companies can tap into new 
+business models, such as leasing and sharing, to provide ongoing 
+revenue streams. Moreover, it's a growth market, presenting 
+opportunities for innovative companies to develop and offer 
+sustainable solutions.
+
+The circular economy should encourage collaboration among 
+stakeholders — architects, contractors, developers, and material 
+suppliers. Cities are the mines from which building resources can 
+be gathered with materials from existing buildings deconstructed 
+and recovered for reuse, materials that cannot be directly 
+reused, recycled, or upcycled and converted into new products 
+or materials. Procurement processes should prioritize selecting 
+durable and recyclable materials, while BIM can enable better 
+tracking, documentation, and information sharing about materials, 
+components, and systems.
+
+Resource Rows reuses brick facades from abandoned structures FOREWORD CONTENTS  6 
+
+
+
+EXECUTIVE SUMMARY
+If we are to live in equilibrium with 
+our planet, we will need a circular 
+economy — one that re-uses the resources 
+
+London has made a great 
+that are already in our system, rather than The London Plan 2021 S17 
+
+deal of progress. It is hugely 
+plundering new ones. Construction has defines the circular economy 
+
+encouraging to see more and 
+as ‘one where materials are 
+
+a vital role to play in this since it is using more initiatives and flagship 
+retained in use at their highest 
+
+projects. However, it leaves 
+40 per cent of raw materials globally. value for as long as possible 
+
+a huge swathe of buildings, 
+and are then re-used or 
+
+from more modest offices to 
+recycled, leaving a minimum 
+
+There have been important steps forward other building types, such as 
+of residual waste.’
+
+housing.
+in London, including in the London Plan and 
+there are individual projects and initiatives 
+using circular economy principles, some 
+included in this report. But this approach  
+needs to become more widespread if we 
+are to make a real change. This requires 
+extra commitment from developers and 
+design teams; changes in regulation such A circular city will work on a 
+
+To become a truly circular 
+as the adoption of Part Z of the Building number of scales. At the finest 
+
+‘In 2050, most of our existing city, London needs collective 
+Regulations and the removal of VAT on level will be the materials in 
+
+building stock will be there’. actions and regulations. 
+buildings, and the way that 
+
+refurbishment; and changes in the way that The first decision to be made Stakeholders should 
+they are re-used, minimised 
+
+with existing buildings, is to collaborate sharing best 
+materials are used and supplied, as well or sourced. And on a city-wide 
+
+look at whether to keep or practices, using skills and 
+as how buildings are demolished. Perhaps scale there are important 
+
+replace them, and if keeping expertise from all sectors to 
+decisions to be made about 
+
+most importantly of all, we should think of it, how much can be retained. build an efficient collaboration 
+coordination of all sectors, 
+
+at all stages.
+demolition as a last resort. transport and energy. 
+
+EXECUTIVE SUMMARY CONTENTS  7 
+
+
+
+CALL TO ACTION
+We need to take collective responsibility. 
+Working in collaboration with industry 
+leaders and the NLA Expert Panel on Net 
+Zero, here we propose a series of actions 
+that we should implement now to make 
+London truly circular:
+
+Reduce the VAT for retrofit Implement a London-wide Include a pre-demolition Implement a Demolition Change Building 
+to the same level as for Carbon Review Panel audit in planning Impact Assessment (DIA) Regulations to ensure 
+
+new buildings. (CRP) and Demolition documents for existing to compare the carbon mandatory assessments 
+Impact Assessment (DIA) buildings, to identify what impact of a retrofit option and reporting of whole life 
+
+can be re-used on site and with a new build, and carbon, and set limits on 
+elsewhere. ensure that the lowest embodied carbon.
+
+carbon solution is adopted.
+
+Use more flexible and Design a London-wide Make publicly funded Share risk differently Promote a cultural and 
+consistent approaches of strategy for material projects commit to using between developers, industry change in circular 
+
+certifying elements and storage and logistics. circular principles and designers, contractors and design education, re-
+materials for a second life. Set up hubs for re-use of become exemplars in building owners. skilling, manufacturing and 
+
+materials. Standardise circularity. deconstruction.
+components and 
+
+encourage material leasing. 
+
+CALL TO ACTION CONTENTS  8 
+
+
+
+BUILDING A 
+RENEWABLE 
+LONDON
+
+CONTENTS  9 
+
+
+
+INTRODUCTION
+
+What is the circular economy? as much of the original fabric as possible. Where new fabric 
+is needed, materials should be chosen carefully and used as 
+
+The circular economy is a crucial — probably the most sparingly as possible. New buildings should also be designed so 
+important — concept in the move towards sustainable living. that they can be deconstructed and elements re-used as easily 38%
+
+as possible at the end of their lifespan. This has implications 
+The principle behind the circular economy is that we should use not only for development, design and construction but also for reduction of CO2 emissions 
+resources again and again rather than continually exploiting maintenance and, eventually, for demolition — or deconstruction could be achieved by 2050 with 
+new resources which, at the end of their useful period are either as one should consider it in the circular economy. On the material a circular economy 2
+discarded or re-used in a less valuable form. Therefore, we move level, this means re-using, recycling or creating new materials, and 
+from linear behaviour, where we need more and more, to circularity questioning how they can be re-used, minimised or sourced.
+where waste is considered as a resource that can be used 
+again and again. Since energy is used at all stages of producing, Circularity, therefore, encompasses all aspects of life. 
+transporting and assembling goods, circularity will reduce the Construction, by its nature uses so many resources (40 per cent 
+amount of carbon dioxide that we generate. Achieving zero carbon of raw materials globally), has a vital part to play if we are going to 17%
+and achieving a circular economy are not the same thing, but it is achieve a circular economy. In terms of design, it means a crucial 
+hard to see how one could happen without the other. move from considering mainly operational carbon to thinking of the total carbon emissions in 
+
+seriously about embodied carbon as well. And it demands frugality: the UK come from buildings, the 
+If we want to create a circular economy within our cities, then questioning whether a new building is necessary; whether an second highest emitting sector 3
+the built environment needs to address this on every scale. existing building needs to be replaced; and whether each element 
+On the largest scale, this means policies, infrastructure and in a building is necessary. 
+management that promote and coordinate the re-use of energy 
+and materials across the city. Urban planning should also ensure The Ellen MacArthur Foundation sets out the argument succinctly: 
+that not only people but also goods can reach key places by green ‘In our current economy, we take materials from the Earth, 
+transport — walking, cycling or public transport. make products from them, and eventually throw them away as 
+
+waste — the process is linear. In a circular economy, by contrast, 
+On a building level, it means retaining and repurposing as many we stop waste being produced in the first place.’ 1
+buildings as possible, and within those retained buildings keeping 
+
+CIRCULAR LONDON CONTENTS  10 
+
+
+
+Ellen MacArthur Foundation 
+principles of a circular economy 4
+
+It sets out three key principles of a circular 
+economy:
+
+1 	 Eliminate waste and pollution 
+Currently, our economy works in a take-make-
+waste system. We take raw materials from 
+the Earth, we make products from them, and 
+eventually we throw them away as waste. 
+Much of this waste ends up in landfills or 
+incinerators and is lost. This system can not 
+work in the long term because the resources 
+on our planet are finite. In a circular economy, 
+a specification for any design is that the 
+materials re-enter the economy at the end 
+of their use. By doing this, we take the linear 
+take-make-waste system and make it circular.
+
+2 	 Circulate products and materials at 
+their highest value
+
+This means keeping materials in use, either 
+as a product or, when that can no longer be 
+used, as components or raw materials. This 
+way, nothing becomes waste and the intrinsic 
+value of products and materials are retained.
+
+3 	 Regenerate nature 
+By moving from a take-make-waste linear 
+economy to a circular economy, we support 
+natural processes and leave more room for 
+nature to thrive.
+
+CIRCULAR LONDON CONTENTS  11 
+
+
+
+As we have realised the severity of the climate crisis over the 
+last few years, so our aspirations have increased. Looking more 
+specifically at construction, sustainability, net zero carbon and 
+wellbeing, are some of the key drivers for the building industry. 
+Then, how does the circular economy fit with all these? The circular 
+economy looks for sustainability in all areas, it is the encompassing 
+philosophy.
+
+The London Plan 2021 S17 5 defines the circular economy as ‘one 
+where materials are retained in use at their highest value for as long 
+as possible and are then re-used or recycled, leaving a minimum of 
+residual waste.’
+
+To achieve circular economy in buildings, we need to address 
+a range of issues: technical; organisational and cultural; and 
+regulatory and legal. The technical are the most beguiling ones 
+but in some senses the simplest to solve. After all, we have been 
+re-using materials forever. The biggest challenge is to achieve a 
+cultural change and ensure that there are incentives to preserve 
+buildings wherever possible, in order for preservation to become 
+the norm.
+
+‘Doughnut Economics’ was developed in 2012 by University 
+of Oxford economist Kate Raworth as a visual framework for 
+sustainable development. The inner ring is the level below which 
+individuals’ lives should not fall — the outer ring is the level of 
+resources that the world can offer sustainably. Below the inner ring 
+will be individual suffering; beyond the outer ring we will continue 
+to hurtle towards an unsustainable future. The ring of the doughnut 
+includes the ‘social foundation’ for a safe space and a regenerative 
+economy including circularity. Staying within that ring is vital. 
+
+The ‘Doughnut Economics’ concept developed by Kate Haworth © DoughnutEconomics
+CIRCULAR LONDON CONTENTS  12 
+
+
+
+How circular is London today?
+London has made a great deal of progress. The Greater London The key principles supporting this 
+Authority now requires Circular Economy Statements for all major hierarchy, presented in the London 
+projects as set out in London Plan Guidance — Circular Economy Plan's Circular Economy Statements 
+Statements issued in March 2022 6. In their submissions, which Guidance, and used for the project 
+consist of a table and a written statement, applicants are asked showcase of this NLA report are: 
+to outline the targets that they are committing to. The London 
+
+�	 Building in layers – ensuring that 
+Plan Policy SI 7(A) targets should be set as a minimum level of 
+
+different parts of the building 
+compliance with that part of the policy. Applicants should provide 
+
+are accessible and can be 
+an explanation for the target that they are committing to and 
+
+maintained and replaced.
+how they intend to meet these targets and monitor performance, 
+including the metrics to be used. 
+
+�	 Designing out waste.
+
+ReLondon, a partnership of the Mayor of London and London’s 
+�	 Designing for adaptability.
+
+borough's has a route map for creating a circular economy 7. This 
+addresses five key areas: food, textiles, plastics, electricals, and 
+
+�	 Designing for disassembly.
+built environment.
+
+�	 Selecting materials – for 
+On the built environment, it echoes a hierarchy developed by David 
+Cheshire, director at AECOM, in his book Building Revolutions 8
+
+example, those that can be re-
+. 
+
+used and recycled.
+This aims to maximise the retention of existing materials, moving 
+from the retention of existing buildings (most desirable) through 
+refurbishment and re-use down to the least preferable option of 
+recycling materials produced by the building or demolition process.
+
+318 Oxford Street, by PDP London for Publica Properties, retrofit of the old House of Fraser store as offices. 40 tonnes of 1930s steel beams CIRCULAR LONDON
+from the old store are re-used on-site and on the TBC.London building, by Stiff + Trevillion for FORE Partnership. CONTENTS  13 
+
+
+
+In terms of the UK, London is leading, says Becci Taylor, director at 
+Arup in charge of building re-use: ‘London has a policy and it’s driving 
+change’. At a policy level, the City of London's ‘Whole Lifecycle 
+Carbon Optioneering’ was recently adopted in their planning advice 
+policy 9. And there are some excellent initiatives and projects, largely 
+led by pioneering developers, many are office buildings. In a first 
+for a UK developer, Fabrix purchased 139 tonnes of steel, from a 
+building being demolished in the City of London, for structural re-
+use across a number of projects, including 30 tonnes for the main 
+structure at Roots in the Sky, designed by Sheppard Robson. Other 
+developments involve the creation of a material passport, such 
+as 55 Old Broad Street, where Landsec has created an extensive 
+passport for all existing materials, allowing for their re-use.
+
+In Canada Water, British Land is repurposing the former 
+Harmsworth Printworks to create a mixed-use scheme that 
+salvages as much existing material as possible. Schemes like these 
+are developers’ showcases, and will appeal to potential tenants 
+who are concerned about their ESG (environmental, social and 
+governance) standards. Having buildings that are progressive in 
+these terms may help to attract staff.
+
+The Printworks in Canada Water by Hawkins\Brown for British Land, will retain the existing structure and fabric. CIRCULAR LONDON CONTENTS  14 
+
+
+
+Challenges and barriers City collaboration
+‘Without regulatory 
+
+It is hugely encouraging to see these initiatives and flagship Looking abroad, the city of Brussels in Belgium is one of the requirements to 
+projects. However, it leaves a huge swathe of buildings — more leaders, with its ‘Good Living’ regulatory framework 10, which 
+modest offices by less enlightened developers, but also other echoes the City of London ‘Whole Lifecycle Carbon Optioneering’ design and build with 
+building types. Publicly funded buildings, in particular, are unlikely policies. This aims to address the future with a series of planning circular processes 
+to follow these principles without legislative and regulatory rules that will make the city more liveable and environmentally 
+change. While we are seeing a maturing market driving changes sustainable. Among these rules is one that states that renovation only the most 
+for commercial buildings, in the housing sector the incentive for will be the starting point for every existing building. Demolition will ambitious and ethical 
+circularity is not yet there. The commercial sector is going much only be allowed in exceptional circumstances, following an analysis 
+further than the housing sector in meeting ESG requirements, of the carbon footprint of retention rather than re-use. Evidently, developers will 
+including retrofit, and this is a major challenge: to retrofit all this will take into account issues such as structural stability or engage with circular 
+London’s housing stock by 2050, it will require a workforce in suitability for function, but the presumption will be strongly in 
+the tens of thousands. It will need clear indicators and industry favour of retention. principles’ 
+standards in order to have well-informed tenants, as we can see 
+today in the commercial sector. ReLondon is also a participant in the Circular Construction in Rachael Owens,  
+
+Regenerative Cities (CIRCuIT) project 11. This is a collaborative Head of Sustainability at  
+According to several stakeholders of the built environment, the project funded by the EU’s Horizon 2020 programme, bringing Buckley Gray Yeoman
+main barriers and challenges for London to become a truly circular together 31 partners across the built environment chain in 
+city are policy and regulations which are not fit for purpose, and Copenhagen, Hamburg, Helsinki Region and Greater London. Each 
+an immature/inefficient supply chain. There is also a lack of of the cities involved is carrying out nine demonstration projects, 
+incentives for retrofit, encouraging reused materials, and design exploring three key areas: urban mining; extending building life; 
+for deconstruction. This needs to be addressed at a national, city, and designing for disassembly and flexible construction. CIRCuiT’s 
+and local scales. ‘Without regulatory requirements to design and stated aim is to move ideas about the circular economy in buildings 
+build low embodied carbon projects, incorporating material reuse, beyond niche projects and to become part of the mainstream.
+there is a risk that only the most ambitious and ethical developers 
+will engage with circular principles, others will be left behind.’ said 
+Rachael Owens, Head of Sustainability at Buckley Gray Yeoman
+
+CIRCULAR LONDON CONTENTS  15 
+
+
+
+SCALE OF CIRCULARITY
+
+A circular city will work on a number of scales. At the finest level Some floor to ceiling heights may be too low, or spans too small for 
+will be the materials in buildings, and the way that they are re- used, practical use. 
+minimised or sourced. On a larger scale, the fate of individual 
+buildings is important. And on a city-wide scale there are important Arguments of this nature played a key part in Marks and Spencer’s 
+decisions to be made about positioning of buildings, travel proposal to demolish its Oxford Street flagship. Architect Fred 
+distances and biodiversity. Pilbrow argued that the low ceilings and multiple columns would 
+
+not allow the sort of space that the retailer wanted, and that the 
+Rebuild or retrofit? new building would improve the ground floor and public realm. In 
+
+contrast, at the planning inquiry held in late 2022, SAVE, which was 
+‘In 2050, most of our existing building stock will be there’, said Lord leading the opposition, argued that replacement would lead to the 
+Deben at the Ecocity world Summit in June 2023. In the report unnecessary release of 40,000 tonnes of embodied carbon. With 
+‘London’s dead spaces: bringing them back to life’ 12, Sian Berry AM the Inspector’s decision expected in mid-July 2023, we are still 
+identifies ‘800 council-owned buildings, green spaces and facilities to see the impact the decision on the Mark and Spencer Oxford 
+that are empty, neglected or not in their normal use across the Street case study will have on the built environment sector.
+city.’ So the first decision to be made with existing buildings and 
+neglected spaces, is to look at whether to keep or replace them, Time is also an important factor: speed and certainty may be more 
+and if keeping them, how much can be retained. These decisions desirable to a developer. Retaining a building or using re-used 
+will be made on both technical and financial grounds. Technical elements may be a slower option than demolishing and starting 
+reasons to demolish are likely to be where the building is not again. But some developers, like Grosvenor, are calling for planning 
+structurally sound. Extreme neglect will result in long-term water policies to prioritise climate change, and for financial incentives to 
+ingress that eventually will allow the reinforcing steel in concrete be introduced.
+to rust, or even damage a structural steel frame. Fire, if it is severe 
+enough to damage the structure, will be another technical reason In addition, argues Gerry O’Brien, Design Director at AKTII, there 
+for demolition. Financial reasons will be largely down to a lack of may still be occasions in which demolition and replacement is the 
+viability because of design. There may be a number of buildings most environmentally sound solution. He cited the theoretical 
+and additions that have been lashed together in an unusable way, example of a small, inefficient building in a position where it could 
+meaning that they will be expensive and unappealing to refurbish. be reached easily by zero-carbon transport. Replacing this with a 
+
+CIRCULAR LONDON CONTENTS  16 
+
+
+
+larger building would be more sustainable than siting a new building 
+in a place that was only accessible by car.
+
+However, Laura Batty, associate, research and innovation lead at 
+Heyne Tillett Steel believes that often people create difficulties 
+that are not there. ‘If you put a lot of designers in a room,’ she says, 
+‘they all will sound positive but will list barriers that are not their 
+own. They will pass the buck. If you keep pushing the barrier it 
+sometimes disappears.’
+
+In order to make decisions it is important to have knowledge. 
+Engineers Elliott Wood offer a pre-development survey to assess 
+the viability of keeping a building. Gary Elliott, Chief Executive at 
+Elliott Wood questions some of our fixed beliefs: ‘Do we need a 
+2.8m floor to ceiling height? Do we need a grid that is 9m by 9m? 
+We need to ask these questions. We all want to live in buildings with 
+character and refurbished buildings often provide this. 
+
+If we are talking about true sustainability, we must embrace a 
+future that is not perfect.
+
+Panorama St Paul’s, by KPF for Orion Capital Managers, retrofit of a 1980s office building in the City of London CIRCULAR LONDON CONTENTS  17 
+
+
+
+Re-using materials 
+Re-using elements of a building, ideally in as near to the original The most important materials to re-use are those in the building 
+form as possible, is the best thing to do if a building is to be frame, which typically make up between 50 and 60 per cent of 
+demolished. Elements that can’t be re-used should, wherever the embodied carbon in any building. Very different approaches 
+possible, be downgraded to another use, or recycled. Whatever are possible and are needed for the three principal structural 
+the approach, it is important to remember that both supplies of materials — steel, concrete and timber.
+materials and of energy, even green energy, are finite. So, it is still 
+important to be as frugal as possible. And where new materials are 
+needed, regenerative materials are key to support biodiversity at 
+a building and city-wide scale. Regenerative materials include bio-
+based materials such as bamboo, straw or wood, but also applies 
+to recycled and upcycled buildings components. 
+
+At the moment, a lot of the re-use that is happening involves 
+identifying materials on one building that can be used directly on 
+another. In the longer term, if we are to make use of materials on 
+a wider scale, there will have to be mechanisms for identifying the 
+materials that are available, and for upgrading and exchanging 
+them. Louisa Bowles, Partner and Sustainability Lead, at Hawkins\
+Brown recognises that for now ‘it is hard when working at scale to 
+find materials that are re-used or recycled that are available in the 
+right quantities, can be priced competitively and are certified for 
+safe use against regulations or warranties.’
+
+This knowledge will come from increasingly sophisticated information 
+and also, it is to be hoped, from manufacturers changing their 
+approaches. Just as the steel industry is moving towards becoming 
+an important supplier of re-used steel so other manufacturers could 
+develop similar specialisms. Some initiatives are already addressing 
+this, and are described in the following section.
+
+CIRCULAR LONDON CONTENTS  18 
+
+
+
+  Steel
+Steel is in some ways the simplest element to re-use. In an ideal re-made into new steel. While the embodied carbon is greater 
+world, it should be possible to take structural elements out of in reprocessing, it is still a great deal less than making virgin 
+a building, give them some minimal treatment and testing, and steel — especially if the repurposing is done in an electric arc 
+put them into a new building. And this, in some cases, is actually furnace. If long steel members are cut down to create shorter 
+happening today. There are two companies that are currently set elements, there will be some redundancy of material because 
+up to do this, Cleveland Steel and Tubes and EMR, both in the north the element will be unnecessarily thick. Heyne Tillett Steel is 
+of England. working on a tool to allocate salvaged steel to projects, known 
+
+as the HTS Stockmatcher ‘If the excess material is more than 
+Great Portland Estates (GPE) appointed Elliott Wood as their 30 per cent’, says the practice’s Laura Batty, ‘then it will be better 
+structural engineers to review the potential re-use of the steel to use the element elsewhere.’
+frame from the deconstruction of City Place House, to another 
+of GPE’s London office developments within central London. The Gerry O’Brian believes that the greatest barrier to the use of 
+spans on the new building are slightly less than on the old one repurposed steel is not technical but organisational. Contractors, 
+which allows, once end fixings have been removed, almost all of the he says, are risk averse. ‘For me that is the biggest hurdle, we need 
+steel to be re-used. Gary Elliott explained that whereas the average new ways of working, innovative processes. If we are working with 
+carbon dioxide production for each tonne of steel in the UK is old metrics, passing the project to the main contractor as a lump 
+1740kg, the re-used steel works out at less than 50kg per tonne. sum, we will be much less able to embrace opportunities.’
+‘We will be saving 700 tonnes of CO2 on our new building,’ he said. 
+
+The idea of creating a market for re-used steel is appealing but 
+The Roots in the Sky project for developer Fabrix will re-use steel Gary Elliott foresees one potential problem: ‘You have to be really 
+from the disassembled Broadgate 1 and 2 buildings. Engineer careful that people aren’t taking down buildings in low-value areas 
+
+Stock of steel to be re-used for the Holbein Gardens 
+AKTII is involved in both projects and identified steel that would be such as in Eastern Europe and transporting the materials for re-use.’ project, designed by Barr Gazetas for Grosvenor 
+suitable to use on the new smaller grid. The steel was taken apart Property UK © Philip Vile
+carefully, and taken to Cleveland Steel and Tubes, where additional 
+fixings were removed and it was tested. It will then be stored until 
+the contract is let for construction.
+
+Where steel can’t be re-used directly, it can be scrapped and 
+
+CIRCULAR LONDON CONTENTS  19 
+
+
+
+The DISRUPT Driven by low-carbon targets, leading The toolkit features 11 case studies ASBP continues its research in this area 
+project – construction companies have begun that highlight the implementation or through two newly funded Innovate UK 
+
+exploring the viability of steel re-use. To consideration of steel re-use across a wide projects: DISRUPT II and E-TRACS. 
+Delivering promote the mainstream adoption of range of project types and sizes. The case DISRUPT II focuses on the recovery of 
+
+Innovative Steel this practice, the Alliance for Sustainable studies provide insights into the re-use steel from buildings during the demolition 
+Building Products (ASBP) has developed a process, drivers for adoption, achieved phase, while E-TRACS explores the 
+
+ReUse Project comprehensive and freely available steel carbon savings, and lessons learned. Some implementation of material tracking 
+re-use “toolkit” as part of the Innovate UK- notable case studies in London include: systems for structural steel to enable 
+
+By Dr Asselia Katenbayeva, funded DISRUPT project, in collaboration future re-use.
+Research Associate,  with Cleveland Steel and Tubes, ISG, �	 55 Great Suffolk Street and Holbein 
+The Association for the National Federation of Demolition Gardens projects, which were the �	 45% of all structural steel 
+Sustainable Building Contractors (NFDC), and with support from earliest projects to integrate steel re- in construction is being  
+Products the Grosvenor Group. use on such a scale. 
+
+re-used
+A key component of the toolkit is a set of �	 Elephant and Castle town centre 
+business considerations and stakeholder redevelopment, a current large-scale �	 Steel re-use could save 
+checklists to facilitate steel re-use. These project.  250 000+ tonnes of 
+resources cater to various industry 
+professionals, including demolition �	 Sloane Square House – a project where embodied carbon per year 
+contractors, fabricators, stockholders, 100 per cent of the designed steel is re-
+designers, and clients, covering technical, used steel.  �	 Construction projects 
+supply chain, and economic aspects. could save £40m annually 
+
+�	 Brent Cross Town Primary Substation 
+– a project that incorporated reclaimed by using re-used steel
+steel as part of the public artwork.
+
+CIRCULAR LONDON CONTENTS  20 
+
+
+
+  Concrete
+The issues with concrete, the other main structural material, are ideas that made it feasible for them.’ Concrete is unavoidable in 
+very different. On buildings that are being retained, it may well be new construction, although the quantities should be reduced as 
+possible not only to re-use the existing concrete frame, but also far as possible. There are existing and proposed technologies that 
+to support additional floors. This is thanks to a number of factors: would reduce the embodied carbon, around 90 per cent of which is 
+concrete continues to increase in strength throughout its life and contained in the cement.
+many buildings are over-engineered.
+
+Existing cement replacement materials include pulverised fuel ash 
+In terms of re-use, elements such as precast concrete floor planks (PFA) and ground granulated blast furnace slag (GGBS). Both can 
+could be used again, and there has been work looking at re-using replace considerable amounts of cement in concrete. But they 
+concrete cladding. For example, an article in the Journal of Cleaner are by-products of processes that we hope to eliminate or reduce 
+Production 13 argues that examples have existed for some time drastically (coal-fired power stations and production of virgin steel) 
+and should be used more widely. It found examples going back to and are already in limited supply. There is also concern about 
+the 1980s. The only thing to do with structural concrete, if it can’t where GGBS comes from today. Most of it is produced in Asia 
+be retained in place, is to crush it and use it for fill. Enfield Council and it would be most sensible, to minimise transport-generated 
+is making the best of this at its Meridian Water development. carbon, if it were used close to production. GGBS is most beneficial 
+On a former industrial building that forms part of the massive in deep pours, where its low heat of hydration minimises cracking. 
+redevelopment, the team is crushing the concrete from demolition Gary Elliott warned however that it is being used indiscriminately. 
+on site, and certifying it to a Type-1 and 6F2 standard. This allows it Contractors who are impatient with its relatively slow curing are 
+to be used on an access road just a few metres away. With a massive tempted to add more cement — and then, because this no longer 
+material like concrete, minimising travel distance is a clear win. meets the specified proportions, more GGBS as well, negating the 
+
+carbon savings.
+Heyne Tillett Steel carried out a research product, to see what 
+could be re-used from a specific defunct concrete building. In There are other technologies developing that could produce very 
+particular, it looked at ways of repurposing the concrete cladding, low carbon or even carbon neutral cement. These include Seratech 
+which consisted of 100mm thick precast panels. Possibilities which uses the mineral olivine with carbon dioxide. However none of 
+included cutting the cladding up to use as stair treads, or cutting it these are in industrial production yet. The aim therefore must be to 
+further to replace stone or brick in walling. Laura Batty said, ‘When only use new concrete where it is absolutely necessary, and to use it 
+we pitched this to demolition contractors, they started seeing as sparingly as possible — for example by making voided slabs.
+
+CIRCULAR LONDON CONTENTS  21 
+
+
+
+  Timber   Masonry   Facades
+Timber is a more challenging material Bricks are the materials that we are most On a retained building, the facade is usually 
+to re- use but there are projects, such as used to re-using. Before the advent of the component that will be replaced. The 
+one that looks at re-using timber from cement-based mortars, it was easy to first reason is that many of the buildings 
+demolition to make ‘cross-laminated disassemble walls, and there is a long- now considered for remodelling are from 
+secondary timber’ (CLST). A pilot project, established market for reclaimed bricks. the 1970s and 1980s and replacing the 
+carried out by UCL in collaboration with The common wisdom is that bricks bound facade may be the easiest way to refresh 
+housing association Poplar HARCA, with cement mortar cannot be re-used the image of the building. In addition, 
+architecture practice Seán & Stephen Ltd but on the Meridian Water project, the older facades are typically less efficient, 
+and the Remakery in Brixton, tested the team has managed to separate and clean and replacing the facade may improve 
+cross-lamination process using secondary 18,000 bricks of this type. They are now the building’s thermal performance so 
+floorboards to create table tops. Dr Colin awaiting re-use. significantly that it justifies the additional 
+Rose, Strategic Advisor and Partnership embodied carbon investment.
+Lead for the Built Environment at ReLondon, Companies are currently thinking about 
+and a Senior Research Fellow at UCL, leads using old concrete instead of masonry, Often, however, facades are replaced 
+UCL’s research investigating the structural or even cutting up blockwork panels. In before they have reached the end of life 
+potential of CLST. Similarly, in CIRCuIT, Copenhagen, Lendager Group has created because of elements, typically seals, that 
+ReLondon along with partners Simple facades at Resources Rows from 3 sqm no longer work. This is a design issue, with 
+Works and Grimshaw ran a demonstrator brick panels, cut out from old buildings. many facades designed so that the seals 
+project testing glulam made from These panels include the mortar as well cannot be removed without removing the 
+secondary timber. While there are technical as the brick. The Netherlands company entire unit. 
+and cost challenges, Dr Colin Rose believes StoneCycling 14 makes bricks that 
+this kind of circular innovation will become incorporate at least 60 per cent waste 
+increasingly important in construction, material. In London, architect Buckley Gray 
+and has created a company, UK CLT, to Yeoman used these bricks on Technique, 
+produce the material commercially, backed a former gin distillery in Clerkenwell 
+by organisations including Ramboll, Waugh that it converted into workspace for the 
+Thistleton, and the National Interdisciplinary developer General Projects. 
+Circular Economy Research Hub. 
+
+CIRCULAR LONDON CONTENTS  22 
+
+
+
+Left: The Resource Rows by Lendager Group in Copenhagen, using upcycled wood and bricks and recycled concrete © Lendager, photography: Rasmus Hjortshøj |  
+Right: Technique by Buckley Gray Yeoman for General projects, is an adaptative re-used and retrofit of a former gin distillery and printwork, the external walls are constructed CIRCULAR LONDON CONTENTS  23 
+from StoneCycling waste-based bricks.
+
+
+
+  Fit-out
+The embodied carbon in the fit-out of a building is significantly less For The London Centre, NLA worked with innovative product 
+than in the structure, but many feel that having a circular approach manufacturers to retrofit our galleries in the Guildhall complex. 
+to fit-out is vital. This is because the time to fit-out is so much The former carpet tiles have been recycled, and the new floor is 
+shorter. The amount that can be saved throughout the building’s Tarkett’s linoleum which is made from 94 per cent natural raw 
+life is considerable. On a project at Air Street for The Crown Estate, materials (linseed oil, wood and cork flour, resins) and is the world’s 
+ORMS was able to keep the existing raised floor and refurbished first to be certified Cradle to Cradle for its sustainable approach.
+the ceiling panels. It also recovered a lot of the glass from the 
+partitions for use on another project. The practice is offering it for We also worked with FUTURE Designs to refurbish the existing 
+re-use, helped by the fact that every panel has its ID marked on it. large lanterns with the latest LED technology, in line with their 
+
+carbon careful™ initiative, providing a cost saving and carbon 
+Part of the change that is needed will come from a change in reduction of 59 per cent. 
+aesthetic. Reconditioned ceiling tiles for example are unlikely 
+to look brand new, but office workers may come to love a more 
+distressed look, especially if it comes with green credentials.
+
+Equally important is designing for flexibility. This can include, 
+for example, having moveable pods in a building that can be 
+reconfigured when needs change. And in new fit-outs, elements 
+such as ceiling tiles can be eliminated.
+
+Recycled furniture can offer a saving. For example, JLL, when 
+JLL 20 Water Street, by Tetris Design x Build for 
+
+refitting its own office in Manchester, bought second-hand JLL, acoustic soffit spray from recycled natural 
+furniture that had previously been in the offices of Goldman Sachs materials and recycled worktops support circularity. 
+as part of an effort to reduce the embodied carbon. This was © Jonathan Banks
+
+quite a complex operation since, in a commitment to creating a 
+healthy environment, JLL decided to eliminate the volatile organic 
+compounds in the upholstery. This meant that it all had to be 
+removed and hand-stitched.
+
+CIRCULAR LONDON CONTENTS  24 
+
+
+
+  Windows and glass   Mechanical and   Materials leasing 
+Electrical engineering
+
+It is possible to re-use windows or to use Re-using lighting is probably the most Kate Jackson, who leads Arup’s circular 
+those that are in excess stock. This has advanced area of circularity. Multi- economy team in the UKIMEA, argues that 
+been done at the Paper Garden Education disciplinary practice BDP has produced a we need a fundamental change in the way 
+Shed at Canada Water by Allies & Morrison report ‘The Lighting Circular Economy’ 15 that we see materials. This is not just a 
+and Waterman Group for British Land, which looks not only at re-use but at the matter of changing what we use, including 
+where a mosaic of windows that happened entire hierarchy of the circular economy. a move to bio-regenerative materials — but 
+to be available have been incorporated This starts with daylight design, which also how we use it. We need, she says, ‘to 
+in a charmingly haphazard fashion. This can avoid the need for much lighting at see materials as a service. There needs 
+is an indication both of the potential and all. Following this, is the idea of reducing to be less ownership and more service.’ 
+the limitations of re-use. Paper Garden the amount of light that is needed, both This would then mean that members of 
+has some of the ad hoc nature seen in the by excellent daylighting and by delivering the supply chain would expect to take 
+projects that Rural Studio produces in high levels of light only where they are things back — and design their businesses 
+poverty-stricken Alabama. These projects needed, rather than uniformly. Controls accordingly. Allied with the imposition of 
+are outliers — if we are to re-use these play a part in the energy usage, and carbon targets, this would incentivise them 
+materials in more conventional ways then some designers are innovating by to refurbish and repurpose elements at the 
+there have to be stockists and suppliers. using recycled or unusual materials to end of their rental period.
+
+reduce the embodied carbon in their 
+fittings. Demountable lighting elements 
+
+Glass can be a problem for re-use. It 
+can be moved around when needed.
+
+is almost impossible to cut toughened 
+glass. For the moment, melting down 
+
+‘Many pieces of plant can be 
+and repurposing is likely to be the most 
+
+reconditioned and reused, as well as major 
+practical solution.
+
+elements that we have often replaced in 
+the past like facades’, says Becci Taylor, 
+Director at Arup with special responsibility 
+for re-using buildings.
+
+CIRCULAR LONDON CONTENTS  25 
+
+
+
+Retrofit of the UNESCO building in Paris, by Patriarche, recycling glass panels and creating a facade kit to support the re-use process. CIRCULAR LONDON CONTENTS  26 
+
+
+
+Design for deconstruction
+The industry is great at demolishing buildings efficiently and of headings: identity; dimensions, location; quantity; structural, 
+sending materials into waste management, but there is very little architectural and MEP properties; circularity and operation. The 
+knowledge, experience and infrastructure for deconstructing passport interacts with a BIM model, and every element of the 
+and reselling components. We need to look at ‘grave to cradle’ building can be tagged and scanned.
+infrastructure, as Dr Colin Rose describes it.
+
+The need to create a material passport has also been addressed 
+In new or refurbished buildings it is essential to make the right by other leading companies. Waterman Group aims to create the 
+decisions about the components and to provide adequate city’s first materials bank. The practice has taken this further by 
+information for the future, both for maintenance and, eventually, developing the Materials Passports Protocol Proof of Concept 
+deconstruction. In contrast to the quirkiness of refurbished document, following research and collaboration with CIRCuIT and 
+buildings, new build needs to be as standardised as possible in BRE. This document presents a standardised approach to creating 
+terms of grids, angles and dimensions of components. This will materials passports which can be applied to any type or scale of 
+make deconstruction and re-use as simple as possible in the future. construction, refurbishment or infrastructure scheme.
+
+Knowledge is key to the circular economy, and digital techniques In London, a growing number of projects include a material 
+are vital to gathering and storing information. The more material passport such as 1 Broadgate, where British Land received an 
+can be stored in usable form in a BIM model, the better. innovation credit from BRE, or Holbein Place where Grosvenor are 
+
+using a material passport for the first time. 
+
+Material passport
+Arup, working with the Ellen MacArthur Foundation, has developed 
+the Circular Building Toolkit 16, which consists of a set of practical 
+
+One way to do this is through the use of a materials passport. This 
+strategies and measures, supported by a growing library of real-
+
+is an issue that architects ORMS have addressed, launching its 
+world examples. It identifies the changes that are needed, sets 
+
+own materials passport at the start of 2021 because it felt that 
+out a series of strategies and shows ways to use lower emissions 
+
+the tools that already existed were better suited to entirely new 
+materials. The toolkit also includes a number of case studies.
+
+buildings. It worked with Elliott Wood, Arup and Heta Architects to 
+produce the passport, which grew out of a project that ORMS was 
+doing for Grosvenor and now, with the help of several tranches of 
+research funding, has expanded into an open-source system that 
+anybody can use. It gives information on materials under a number 
+
+CIRCULAR LONDON CONTENTS  27 
+
+
+
+A new approach to design or even months, than after decades. It is also more important 
+because of the profligacy of throwing something away after a 
+
+Kate Jackson, associate at Arup, believes that we need a short period. BDP gave serious thought to this when designing 
+fundamental change in the way that we organise projects. We the Nightingale Hospital established at the ExCel Centre in east 
+have to engage the supply chain much earlier. ‘Everything can be London to accommodate patients during the Covid Pandemic. 
+challenged against the time scale,’ she said. ‘What is the legacy Many elements from this have now been used to fit out the NHS 
+that we are leaving?’, as Debbie Whitfield, director of impact at Diagnosis Centre at Dorset Health Village, occupying the top level 
+developer at Fabrix said, ‘Why have low carbon when you can have of a former department store in Poole. ‘More than 70 per cent of 
+no carbon?’ This means, for instance, leaving soffits exposed. ‘Why the site reused equipment from the Nightingales, including desks, 
+put plasterboard, or even paint, on a concrete core.’ chairs, ducting, cabling and lighting’, said Golnaz Ighany director, 
+
+sustainability at BDP.
+For the future, design for disassembly is key. So, for example, 
+connections should ideally be bolted rather than welded.  The more 
+standardised building elements can be (not buildings themselves) 
+the easier they should be to adapt, or it should be to substitute 
+elements. And disassembly and re-use of elements should also be 
+simplified. Oriel building, designed by Perkins&Will and AECOM will 
+include ‘Deconstruction’ and ‘Disassembly’ manuals with an end-
+of-life strategy, and advices on materials. 
+
+Enfield Council worked at Meridian Water with Assael Architecture 
+and AECOM to develop the RightSizer system. This is based on 
+John Habraken’s Open Building movement from the 1960s which 
+has an external ‘support’ system that can be disassembled and 
+reassembled. The ‘stuff ’ inside is non-structural and can be moved 
+around and changed as needed. RightSizer has been conceived to 
+extend a building’s life beyond 100 years, a longevity underpinned 
+by the inherent system flexibility that can accommodate various 
+use scenarios over the years.
+
+Buildings that have been designed for meanwhile uses are the low-
+hanging fruit. It is easier to imagine a new use after a few years, 
+
+CIRCULAR LONDON CONTENTS  28 
+
+
+
+Oasis Nature Garden project, by Marks Barfield Architects for Oasis Play, a circular economy between two buildings: a new building re-using CIRCULAR LONDON
+materials and a retrofitted building used as a material donor CONTENTS  29 
+
+
+
+City-wide strategies
+Infrastructure and biodiversity
+
+The circular economy on a city scale is not just about buildings, 
+but includes biodiversity, transport and energy. The transport of 
+materials and a renewable energy strategy, re-using the energy 
+from a building to another one for example, are key to support a 
+regenerative city and reduce the pressure on natural resources 
+and land. We need to maintain and ideally increase biodiversity, 
+and look beyond the curtilage of buildings. It requires a city-wide 
+infrastructure and collaboration between all sectors. ‘We need 
+better city-wide infrastructure to enable the procurement of re-
+used, re-processed and recycled materials for consideration at 
+design stage’, said Louisa Bowles, Partner and Sustainability Lead, 
+Hawkins\Brown.        
+
+Biodiversity is the third of the principles set out by the Ellen 
+MacArthur Foundation. Many older buildings provide habitats for 
+species. Design should consider retaining some of these habitats, 
+and also creating new ones within the new building elements. The 
+GLA is also addressing this issue through the Biodiversity Net Gain 
+(BNG) strategy for developers, land managers and local planning 
+authorities to develop land and help regenerate nature.
+
+The Better Buildings Partnership, a collaboration of property 
+owners, has produced a checklist for biodiversity. It says, 
+‘managing biodiversity is a central part of responsible property 
+management.  Legal obligations may exist in relation to 
+preservation orders, protected specifies or valuable habitats. 
+Well-managed biodiversity can also contribute towards positive 
+community engagement and employee wellbeing.’
+
+RightSizer at Meridian Water, Enfield, by Assael Architecture and AECOM, sets up CIRCULAR LONDON
+a roadmap to circular economy. CONTENTS  30 
+
+
+
+Databases sustainability advisor at the UK Green Building Council, believes 
+that there is more available than we imagine at first sight. ‘The local 
+
+Kate Jackson of Arup believes that 'we need to see our cities as authorities own a lot of land,’ he says. Obvious choices are landfill 
+manufacturing and re-manufacturing centres', taking elements sites and waste processing sites.
+that have been mined from buildings and repurposing them for use 
+elsewhere. If we are to move beyond hero projects, we are going to Overseas, in Brussels, design practice Rotor, has set up Rotor 
+need exchange mechanisms. Specialists in certain materials will DC 20 as a place to buy salvaged building components. In Germany, 
+need to acquire, recondition, catalogue and store components. Austria and Switzerland, the Restado database 21 collects materials 
+
+that come from deconstruction or oversupply, or are left over from 
+The first steps have been taken. ReLondon has produced, with projects. Typical materials include bricks, wood, tiles, windows, 
+Grosvenor, a document on sourcing materials as part of the doors and façade elements. There are currently one million items 
+CIRCuiT project. It looks at what is available, and whether an worth more than €40 million in stock. One change that can help 
+exchange platform exists. In addition to Cleveland Steel and is adoption of the EU taxonomy. This is a classification framework 
+Tubes for steel, it lists Globechain 17, and Community Wood to determine whether an economic activity is environmentally 
+Recycling 18, which is a nationwide network of wood recycling sustainable that requires reporting on eligibility and alignment 
+centres. ReLondon itself has set up a recycling portal which is against six environmental objectives. Done well, said Becci Taylor 
+currently in the Beta testing version. Looking at a different set of of Arup, ‘this governance of investment level is powerful. It allows 
+materials, Circular Economy Hub has a centre for mineral-based you to take a long-term view.’ Funders are increasingly moving in 
+construction materials. the UK to adopt this approach.
+
+Another initiative, the Excess Materials Exchange 19, grew out of Information on a city-wide scale is vital. A database of buildings 
+Enfield Council’s Meridian Water project. A collaboration with Net that are due to be demolished and the materials that they contain 
+Positive Solutions, it uses deconstruction and construction in Enfield would be a start. There are techniques just beginning that could 
+as a pilot, offering donor materials to recipient projects. The ambition make this feasible in future. For example, in France, APUR (the 
+is to extend this to other councils, developers and eventually across Paris Urbanism Agency) has created Demolition Database 22 
+the UK. At the moment, this is an information exchange with a small which allows it to identify almost 16 million tonnes of waste from 
+depot for physical materials as part of the Meridian Water site but construction and public works waste produced by development 
+‘crucially’, explained Rafe Bertram, Sustainability Lead at Enfield operations, by 2030. This has allowed it to identify eight types of 
+Council, ‘development audits and circular economy statements allow waste among this future source which represent over 11 million 
+us to list materials in buildings that are still standing’. tonnes of material. It seems that this is mostly concerned with 
+
+waste disposal but it is easy to see the concept extending to re-use 
+One of the concerns is the cost of land, but Kai Liebetanz, senior of materials. 
+
+CIRCULAR LONDON CONTENTS  31 
+
+
+
+NEXT STEPS AND ‘We need to embrace 
+ACTIONS a system change. I feel 
+
+empowered by the 
+challenge.’
+
+If we are to move from our current situation, where there are a few 
+exemplary projects to one where every building is designed to Kate Jackson, Associate, Arup
+circular economy principles, then ‘we need to invoke deep, systemic 
+change. To make this change, we need better policy, legislation, 
+funding and incentives to drive practical action’ said Tim Danson, 
+Circular Economy Lead, Sustainability and Climate Change, WSP. 
+One can look at these changes in terms of those that could happen 
+in the short, medium and long term. London has already made ‘This is the biggest 
+considerable progress but there is much more that could be done at opportunity in the built 
+both city and national level to benefit the circular economy. 
+
+environment since the 
+This needs collective action. The following recommendations industrial revolution.’
+have been guided by the NLA Expert Panel on Net Zero, working 
+in collaboration, and drawing together calls from other key Gareth Atkinson, Director,  
+stakeholders of the built environment industry: the Architects Civic Engineers
+Climate Action Network (ACAN), The UK Green Building Council 
+(UKGBC), the Low Energy Transformation initiative (LETI), Ellen 
+MacArthur Foundation, and the Architects Journal.
+
+CIRCULAR LONDON CONTENTS  32 
+
+
+
+Regulations
+
+Short �	 Changing the VAT regime �	 Implementing a pre- �	 Publicly funded projects 
+Term demolition audit should use circular 
+
+We are calling for a reduction in principles
+VAT for retrofit. At present, 20 Planning deliverables should include 
+per cent VAT is charged on most the mandatory requirement for a pre- Publicly funded projects should 
+refurbishment and maintenance demolition audit when an application commit to using circular principles. 
+work, whereas new construction is site involves an existing building. They are well placed to push for 
+exempt from VAT, which penalises This will identify what can be re- circular economy principles and act 
+refurbishment. This call follows used on site and what will be re-used as exemplars for the building industry. 
+the suggestion from UKGBC 23, elsewhere and diverted from landfill. The Ellen MacArthur Foundation 
+ACAN 24 and the AJ’s RetroFirst It echoes the amendment introduced considers that they should be more 
+campaign 25 which proposes to by Baroness Andrews to Levelling ambitious without the need for further 
+cut VAT rate on refurbishment, Up and Regeneration Bill on this regulations.
+repair and maintenance from regulation at Committee stage in the 
+20 per cent to 5 per cent or below. Lords in April 2023. Citing the longstanding example of 
+If the government cannot afford to Venlo city hall, local governments 
+abolish VAT on refurbishment, then it can lead by example and stimulate 
+needs to change the regime so that it innovation to achieve better outcomes 
+charges the same level of VAT on all for all.
+construction.
+
+CIRCULAR LONDON CONTENTS  33 
+
+
+
+Regulations
+
+Mid-Term �	 Implementing a London- �	 Bringing the proposed �	 Consistent approach of 
+wide Carbon Review Panel part Z into the building material certification
+(CRP) and Demolition regulations
+Impact Assessment (DIA) We need a more flexible and 
+
+A number of industry stakeholders consistent approach to certifying 
+We should implement a London-wide put together the proposal for creating elements and materials for a second 
+CRP and DIA to create a third party a Part Z of the Building Regulations life. There are currently multiple 
+verification and to support the current and its accompanying Proposed metrics and indicators. The built 
+Whole Life Carbon (WLC) and circular Document Z. environment must work together 
+economy guidance in prioritising to facilitate better and consistent 
+retrofit approaches. Part Z would cover embodied carbon, metrics and build a database, 
+
+in the same way that Part L of the according to UKGBC. LETI 26 propose 
+This involves a Presumption for 
+
+regulations covers occupational using an easier indicator for the 
+Refurbishment and Retrofit policy and 
+
+energy. If enacted Part Z would percentage of materials reused 
+a method of assessing and comparing 
+
+ensure that embodied carbon is and another one for the carbon 
+the carbon impact of a retrofit option 
+
+assessed on all projects, as part of incorporated into renovations and 
+with a new build on the same site, to 
+
+a comprehensive whole life carbon new developments.
+ensure that the lowest carbon solution 
+
+assessment. No new regulation is 
+is implemented. This policy should 
+
+simple, but the proponents of Part Z 
+be applied to all existing buildings 
+
+have already done a lot of the work 
+unless it is proven to be a carbon 
+
+that would be needed.
+intensive solution or it is not possible 
+to transform the existing building into 
+a sustainable development project.
+
+CIRCULAR LONDON CONTENTS  34 
+
+
+
+Industry restructure
+
+Short- �	 Collaboration between all Mid-Term �	 Implementing a new Long- �	 A London-wide strategy 
+sectors design stage for storage and logistics
+
+Term Term
+All stakeholders should collaborate Architects need to have a stage We need a city-scale strategy to 
+sharing best practice, using skills before initial design that considers coordinate the storage of materials, 
+and expertise from all sectors to the condition of a building and the and logistics issues.
+build an efficient collaboration at all potential for using all or part of it.
+stages. In the report 'System enablers �	 Changing the demolition 
+for a Circular Economy', UKGBC �	 Sharing risks industry
+recommend a collaboration at early 
+
+Risk needs to be shared differently. The demolition industry needs to 
+engagement.
+
+Developers and owners of buildings change, to be helped to see demolition 
+
+�	 A new way to approach need to take more of the risk. At present, as an opportunity and not just a 
+
+design contractors are responsible for most  cost. This may change the nature 
+of it and so are worried about the of demolition contracts. Instead 
+
+Architects and other members of the uncertainty, particularly that to do with of developers paying demolition 
+design team must think differently uncertain supply of refurbished materials. contractors to take things away, the 
+about materials. They must start by contractors may take the materials 
+designing with buildings and materials �	 Standardising components for nothing or even buy them with the 
+that are available, rather than prospect of re-selling.
+
+Designers, working with 
+designing from scratch.
+
+manufacturers, need to adopt and �	 Leasing materials
+�	 More local hubs for accept more standardisation of 
+
+materials elements of new buildings, both for Building owners should move to 
+flexibility and for disassembly. Building leasing materials in buildings rather 
+
+More local authorities should set up longevity depends not only on the than purchasing them. This is already 
+hubs for re-use of materials. durability of building elements but happening with lighting, but may 
+
+on their ability to remain useful in be appropriate for longer-lasting 
+changing circumstances. elements as well.
+
+CIRCULAR LONDON CONTENTS  35 
+
+
+
+Cultural change
+
+Short- We all need to learn to love the less Mid-Term Manufacturers need to think Long- There could be new jobs and new 
+than perfect in our offices and public differently, and see themselves as ways of working associated with the 
+
+Term buildings. Not everything needs to be specialised refurbishers with a side Term move to circular principles.
+new and shiny. The quirky may not line in new materials.
+only be more sustainable but also Education skills and training all 
+more attractive. need to reflect a new approach, new 
+
+thinking and new work opportunities.
+In addition to specialist hubs, 
+community groups could set up local 
+hubs, collecting and re-supplying 
+materials for use on a smaller scale. 
+And we should build on what already 
+exists, such as freecycle and sharing 
+sheds. 
+
+CIRCULAR LONDON CONTENTS  36 
+
+
+
+“The built environment as an industry is multidisciplinary, with 
+each discipline anchored to its own professional body. These 
+bodies must be overhauled to enable a circular economy and 
+a sustainable future. For example, the RIBA work stages run 
+from stage 0 to 7, with no stage addressing end of life. And 
+module D in the RICS WLCA could be redefined to incentivise 
+re-use across existing assets when carbon accounting. 
+
+There's currently no centralised methodology that's 
+unilaterally agreed upon by all to measure circularity. We 
+need to fast-track this standard into legislation. 
+It's not necessary to reinvent the wheel. However, we need 
+multiple, simultaneous interventions to existing mechanisms 
+to realise a circular built environment for all. The proposed 
+Part Z Building regulations and the London Plan Guidance 
+Circular Economy Statements are significant precedents 
+in demonstrating what can be done by overhauling existing, 
+outdated legislation and guidance. It shouldn't be hard!”
+Matthew Morris, Architectural Technologist at Hawkins\Brown, and Coordinator at  
+Architects Climate Action Network (ACAN)
+
+CIRCULAR LONDON CONTENTS  37 
+
+
+
+VIEWPOINTS
+
+CONTENTS  38 
+
+
+
+VIEWPOINTS
+
+Futures trading – A way Knocking nothing down How to design a circular Policy and legislation: 
+to scale-up the re-use of built environment fostering the circular 
+building materials Clive Nichol,  economy
+
+CEO, Fabrix Peter Swallow,  
+Tina Paillet,  Sustainability Lead, Grimshaw Kai Liebetanz (he/him),  
+Co-founder Circotrade and Senior Sustainability Advisor, UK 
+President Elect, RICS Green Building Council
+
+VIEWPOINTS CONTENTS  39 
+
+
+
+FUTURES TRADING The materials in existing buildings are full of untapped latent developed to tackle the barriers to re-use in the construction and 
+
+– A WAY TO SCALE- potential which is mostly overlooked and unrecognised. Standard property industry and to attain critical mass for this new asset 
+industry practice puts a disproportionate value on new resources class. 
+
+UP THE RE-USE OF while disregarding the existing resources in buildings, seeing them 
+
+BUILDING MATERIALS as eventual waste and therefore a problem and a future expense. We encourage the uptake of re-used materials in 3 steps :
+
+Tina Paillet, Less than 1 per cent of a buildings materials are reused at the end �	 C ircoscan – Creation of a digital model listing an existing 
+of their useful life and the built environment has a profound impact building’s materials. We deploy market leading inventory 
+
+Co-founder Circotrade and on the planet: technology and re-use inventory specialist teams; 
+President Elect, RICS
+
+�	 The worldwide construction and building industry has an �	 C ircopass – Valuing the building’s circular & carbon footprint 
+outsized impact on climate change (40 per cent of CO² according to internationally recognized methodology. We 
+emissions), our dwindling stock of finite resources (using 50 per provide third party certification to support extra financial 
+cent of primary resources), and waste production (over a third reporting; 
+of all waste streams).
+
+�	 C ircotrade - A technologically enabled marketplace to 
+�	 Globally, we continue to build a city the size of Paris each  facilitate futures trading of a building’s materials and embodied 
+
+week and will do so until 2040. Building anything costs carbon via an innovative futures contract and matching service 
+embodied carbon. - long before any of these materials and products are actually 
+
+slated for deconstruction.
+�	 Embodied carbon represents between 50–70 per cent of 
+
+the Whole Life Cycle Carbon of a building. This portion of the Why a Futures Market? The benefits for both buyers and sellers are 
+carbon budget is used upfront and the climate clock is ticking. four-fold:
+
+Reusing the materials contained within existing buildings is key to 1 	 F orward planning: buyers and sellers can plan ahead and lock 
+decarbonization, but first building owners need the tools to unlock in quantities and prices for future transactions. Development 
+the potential in their portfolios to get them onto the path of the teams have access to an online “supermarket” of future reused 
+circular economy. materials allowing teams to design to specification and to scale 
+
+with certainty.
+Circotrade is a B2B digital trading platform which is specifically 
+
+VIEWPOINTS CONTENTS  40 
+
+
+
+2 	 Visibility: provides transparency and visibility into market 
+trends, volumes and provenance of materials to be released in 
+the future and price movements. 
+
+3 	 Supporting the financial burden: making it easier for companies 
+to invest in the recovery, reconditioning, recertification of 
+materials, as they can accurately predict their costs and 
+revenues.
+
+4 	 Market efficiency: By providing a platform for buyers and 
+sellers to come together and trade in a standardized way, 
+futures trading can help increase liquidity and reduce price 
+disparities.
+
+With Circotrade, the power of finance unlocks the hidden value 
+laying dormant in existing buildings’ materials and products.
+
+Circotrade: Helping the built environment help the planet by 
+extracting environmental, social and financial value from previously 
+disregarded building materials by planning for their future re-use. 
+
+Circotrade is part of the Ellen MacArthur Foundation community.
+
+VIEWPOINTS CONTENTS  41 
+
+
+
+KNOCKING NOTHING As a developer and investor with the modest ambition to help frames, insulation, doors and flooring are being reused on site or 
+shape a more sustainable and equitable world, we have a number donated, rather than being discarded.
+
+DOWN of pillars guiding the way we work. Chief amongst these is reducing 
+our environmental impact — a big part of which is being mindful And the no-waste commitment extends to the regreening strategy 
+
+Clive Nichol, of opportunities to reuse and not wasting stuff. As an industry, our too — we’re reintroducing nature on a mammoth scale. It would 
+
+CEO, Fabrix carbon emissions are a terrifying three times that of the aviation have been tempting to rip out all the concrete and contaminated 
+sector. We have an obligation to reduce our consumption and fast. soil and start again. But we’re taking a regenerative, longer-term 
+
+approach — carefully specifying plants with the ability to not only 
+More often than not, for us that means reusing buildings rather thrive in harsh environments but gradually decontaminate the soil 
+than starting from scratch. But regardless of whether it’s a retrofit over time, whilst reusing crushed concrete on site to create hard 
+project or ground-up development, we’re always guided by the landscaping, planting mediums and insect habitats, enhancing the 
+circular economy (or zero waste) design principles of ‘rethink/ biodiversity of the site.
+redesign; reduce; reuse; recycle/recover ’ and the Circular 
+Buildings Toolkit. Reusing materials as much as possible but We’re also working hard to make the most of ‘waste’ closer to 
+almost more importantly, challenging the need for additional home. Our move at the back-end of 2021 to salvage 139 tonnes 
+material at all unless it really is justified. Why specify a decorative of steel from a building being demolished in Broadgate was a UK 
+material to apply over an already functional concrete core, even if first for a developer at the time. And thankfully appears to have 
+it’s low-carbon, for example? helped kickstart the wider adoption of a practice which had always 
+
+appeared a total ‘no-brainer’ to us.
+Our Atelier Gardens project in Berlin is a good example of our 
+approach to the circular economy. We’re transforming the six acre- Currently almost no steel is disassembled, recertified and reused. 
+film studio site — one of the oldest in Europe — into a creative The vast majority is sent abroad to be smelted and recycled, 
+campus for global impact-led organisations, to sit alongside film despite the fact it will still need to be tested and certified on its 
+and media pioneers. It’s underpinned by a zero waste to landfill return to the UK. We figured why not just remove that massively 
+ethos and has become a test-bed for a lot of our thinking. carbon intensive travelling and smelting stage — a move that we 
+
+understand reduces the carbon impact by up to 80% compared to 
+We’re knocking nothing down — instead, sensitively repurposing using recycled steel. 
+listed studios and outdated office buildings, finding new uses for 
+redundant structures, improving energy efficiency and adding new In our experience, the barrier to this way of working hasn’t been a 
+rooftop gardens, pavilions, cafes and sun-shading. What would lack of knowledge, creativity or innovation across the industry. The 
+commonly be treated as ‘waste’ materials, such as old window consultants we work with have jumped at the chance to put these 
+
+VIEWPOINTS CONTENTS  42 
+
+
+
+long-understood principles into practice. 
+
+The chief obstacles are of course inevitably interrelated. First, a 
+lack of appetite for ‘risk’ from clients to try anything new that could 
+disrupt project programmes. Second, the lack of a tech-enabled 
+open marketplace to make the trading of used construction 
+materials scalable (so we welcome the emergence of innovative 
+platforms such as CircoTrade). And third, the distinct lack of 
+regulation from government. 
+
+Europe certainly seems to be leading the way on regulating 
+embodied carbon reduction currently. The UK urgently needs 
+to do more so as not to fall behind. Cracking the adoption of the 
+industry-initiated Part Z amendment to building regs would go a 
+long way in giving the industry the confidence it needs to properly 
+mobilise and innovate. 
+
+VIEWPOINTS CONTENTS  43 
+
+
+
+HOW TO DESIGN A Embracing circular design principles is key to transitioning the timber. The timber was collected from a demolition site in South 
+built environment towards a regenerative future, one that balances London, assessed for damage, removal of fixings and testing. The 
+
+CIRCULAR BUILT human needs without transgressing our planet’s environmental useable timber was fabricated into six glue laminated beams and 
+
+ENVIRONMENT boundaries. There are broadly three circular design principles; mechanically tested at Napier University to confirm that their 
+firstly, extending building lifecycles through transformation and strength was equivalent to that of beams made from virgin timber. 
+
+Peter Swallow, refurbishment; secondly, reuse and recycling of material; and 
+thirdly, flexible disassembly and adaptable construction. Building on the lessons learnt from the practices experience 
+
+Sustainability Lead, Grimshaw delivering flexible and adaptable building, the Civil Engineering 
+Since Grimshaw’s inception, the practice has been at the forefront Building for the University of Cambridge, completed in 2019, 
+of implementing these principles as part of its philosophy that incorporates a flexible spatial framework to maximise internal layout 
+buildings should be flexible and adaptable for the long term. The flexibility. Employing a regular planning module, zoning of heavy 
+following case studies demonstrate the successful application of and light engineering activities to avoid operational disruption. 
+these principles across three of our recent projects. The primary structure and facade systems were designed for 
+
+deconstruction and reuse in mind to allow for future expansion 
+Finding opportunities for the creative adaptation of existing and adaptation of the building as the masterplan for the wider 
+buildings is key to avoiding emissions associated with demolition engineering campus developed, with an estimated 80 per cent of the 
+and rebuilding. One notable example is the adaptive reuse of the structural steel and façade components are recoverable. 
+Herman Miller Factory in Bath. Originally designed with loose-fit 
+principles in 1976, the building was transformed to accommodate Despite the existence of technologies, materials and strategies 
+the Schools of Art and Design for Bath Spa University in 2019. The that support a circular built environment, there are still perceived 
+project focused on adaptability and disassembly. By reusing 90 per barriers related to cost and programme holding back their wider 
+cent of the original facade and improving its thermal performance, adoption. Early consideration at project inception is key to their 
+emissions associated with demolition and rebuilding were avoided. successful adoption as part of an integrated design solution that 
+The reuse of the existing building had a positive economic and many cases can improve construction costs and delivery timelines.
+environmental impact when compared to a new build equivalent.
+
+In conclusion, the case studies highlighted exemplify the successful 
+As part of the EU grant-funded Circular Construction in implementation of circular design principles. By extending building 
+Regenerative Cities (CIRCuIT) project, Grimshaw collaborated lifecycles, reusing materials, and embracing flexibility, we can 
+with Simple Works and Buckland Timber to run a demonstrator create a sustainable and adaptable built environment. Overcoming 
+project focused on evidencing the viability of reclaiming timber barriers and promoting early adoption are essential steps in 
+from demolition sites for reuse in the fabrication of glue laminated accelerating the transition to a circular built environment.
+
+VIEWPOINTS CONTENTS  44 
+
+
+
+Adaptive reuse of Grimshaw's original Herman Miller Factory in Bath to accommodate the Schools of Art and Design for Bath Spa University VIEWPOINTS CONTENTS  45 
+
+
+
+POLICY AND Our planet is at tipping point. Our current economic model and Moving towards a circular economy will also require new business 
+focus on growth is maintaining levels of carbon emissions and models which capture value differently. This requires being open 
+
+LEGISLATION: resource use that are exceeding our planetary boundaries, and  to innovation and taking risks. Policy can create a climate for 
+
+FOSTERING THE the built environment has played a significant part in perpetuating investment into new business models which are essential to deliver 
+that problem. this transition at scale.
+
+CIRCULAR ECONOMY
+As we look ahead in the built environment industry and begin to The transition to a circular economy requires us to address 
+
+Kai Liebetanz (he/him), define the future we want to see for our homes, towns and cities, systemic issues and deliver concerted efforts. Policy and 
+
+Senior Sustainability Advisor, UK and all those who inhabit them, it is clear that we must move away legislation are crucial for creating an environment that enables the 
+
+Green Building Council from a model of infinite extraction and a circular economy is a transition towards a circular economy in the built environment, for 
+logical part of the equation. All levels of government, industry, and example via taxation that favours refurbishment and reuse over 
+civil society will need to rally behind the common goal to shift from new build. Currently, the opposite is the case with new buildings 
+our current extractive and wasteful linear economy towards a being exempt from tax, while refurbishments are taxed at the 
+regenerative, circular one. standard rate of 20 percent. 
+
+Some leading businesses are already waking up to this. We At UKGBC, our latest report System Enablers for a Circular 
+are seeing an increasing amount of flagship circular projects, Economy has identified eight enablers that can help make 
+incorporating key concepts such as design for disassembly, circularity the default way of operating in the built environment, 
+carefully deconstructing and reusing existing buildings. However, and are supported by an extensive list of industry and policy action 
+the majority of industry has yet to embrace this concept as the that are needed to deliver these. 
+default position.
+
+In a world of finite resources, environmental destruction and 
+This is where policies and legislation come into play. Government pollution, shifting to a circular economy rapidly is a fundamental 
+has the power to raise the bar for the entire industry, setting necessity. This is true especially for the built environment, the most 
+minimum requirements and a strategic direction of travel towards resource intense sector of our economy. Policy and legislation 
+a circular economy. Tools at their disposal include rolling out play a critical role in realising the transition by setting minimum 
+circular economy statements nationally and introducing extended requirements, creating a climate for investment, and setting the 
+producer responsibility, putting enhanced onus on manufacturers direction of travel.
+to take back their products and materials at the end of their life 
+cycle and explore opportunities to recycle and reuse.
+
+VIEWPOINTS CONTENTS  46 
+
+
+
+VIEWPOINTS CONTENTS  47 
+
+
+
+PROJECT The following showcase provides a snapshot 
+of recently completed and planned projects 
+in London that embrace circular economy 
+principles. The showcase also includes a 
+
+SHOWCASE selection of international exemplars as well as a 
+section including concepts, tools and research.
+
+All projects featured in this showcase were 
+submitted via a call for entries conducted by NLA 
+in spring 2023. It included any scheme designed, 
+planned or built following the Circular Economy 
+Principles as defined in the London Plan’s 
+Circular Economy Statements Guidance.
+
+�	 Building in layers 
+
+�	 Designing out waste 
+
+�	 Designing for longevity
+
+�	 Designing for adaptability or flexibility
+
+�	 Designing for disassembly
+
+�	 U sing systems, elements or materials that 
+can be reused and recycled
+
+CONTENTS  48 
+
+
+
+SHOWCASE CONTENTS
+
+BADGES PROJECT LIST
+
+BUILDINGS & PUBLIC REALM GUIDANCE & TOOLS RESEARCH & CONCEPT
+1 Broadgate 55 Old Broad Street Park View Circular Buildings Toolkit Afterlife
+
+Material re-use
+16 Chart Street A Circular Lifestyle Retrofit of two buildings on framework Babassu Fibre- Reinforced 
+1 Golden Lane All Saints (EPR Architects) BRE’s Garston Campus Early Stage Whole Life Natural Rubber Bio-
+
+55 Great Suffolk Street Brent Cross Town Salutation Works Carbon Appraisal Tool composite
+
+Retrofit 7 Holbein Place Broadwick Street Shrewsbury Flaxmill HTS Reused Steel Crinkle-Crankle Concrete
+Maltings Stockmatcher RightSizer at Meridian Water
+
+318 Oxford Street Canada Water Modular Waterman Materials 
+Campus Soho Square
+
+6–10 St Andrew Street Passports Framework
+
+ANZ London Dorset Health Village TBC.London
+Circular Economy and Reuse: 
+
+Recycled material Atelier Gardens HYLO The Forest Garden Guidance for Designers
+
+Gjuteriet JLL 20 Water Street The Hithe Hierarchy of Responsible 
+Retrofit
+
+Mayfield in Manchester King’s Mall The Loop
+
+London South Bank The Old Vic Annex The ‘Full Circle to Reuse’ 
+Designed for Millennium Mills
+
+University – LSBU Hub The Printworks Guide
+
+disassembly Panorama St Paul’s
+Meridian Centre Havant The Technical Servicese The Mayors’ London Plan 
+
+Roots in the Sky
+Meridian Water Room Guidance: Circular Economy 
+
+Statements
+SEGRO Park, Courier Road
+
+Museum of London, Timber Square
+The Structural Carbon Tool
+
+Technique West Smithfield Triangle House
+Material Passport
+
+150 Aldersgate Oasis Nature Garden UNESCO – Building V
+155 Bishopsgate Building and Project Jubilee Warwick Court
+100–108 Fetter Lane One Exchange Square Waterloo Hub
+215 Mare Street Oriel Zodiac pavilion
+
+PROJECT SHOWCASE CONTENTS  49 
+
+
+
+BUILDINGS & 
+PUBLIC REALM
+
+CONTENTS  50 
+
+
+
+1 Broadgate
+
+Broadgate, London 1 Broadgate comprises 546,000 sq ft of some of 
+EC2M 2QS the highest quality, most sustainable mixed-use 
+Status:  space in London, and includes the largest and 
+Under Construction most complex Material Passport in the UK, the first 
+
+NABERS UK Design for Performance registered 
+Completion:  building, a BREEAM Outstanding and WELL 
+2025 Platinum target ratings. 
+
+Client: British Land “1 Broadgate is a stellar example of how a project 
+Architect: Allford Hall team built on trust, honesty and collaboration can 
+Monaghan Morris achieve best-in-class outcomes, be an industry 
+
+Structural Engineer: leader on many fronts and overcome the challenge 
+of staying relevant in a very fast-changing and 
+
+AKT II demanding market.”
+Contractor:  
+Sir Robert McAlpine Marie-Louise Schembri, Sustainability Director, 
+MEP/ Sustainability Hilson Moran
+
+Consultant:  
+Hilson Moran
+Cost Consultant: 
+exigere
+Project Manager: 
+Gardiner & Theobald LLP
+
+PROJECT SHOWCASE INDEX  CONTENTS  51 
+
+
+
+16 Chart Street
+
+Chart House, 16 Chart 16 Chart Street is a carefully considered retrofit of “The key decisions to reuse and extend the building 
+Street, London N1 6D an existing 1930s furniture warehouse in Hoxton. rather than demolishing saved a significant 
+Status:  After two years of construction and refurbishment amount of embodied carbon over a new-build 
+Under Construction the building has been transformed from an unused option and provided the 90-year-old warehouse, 
+
+building into a modern, interconnected studio now office with 60 more years of life. There is a 
+Completion:  space for structural engineers Heyne Tillett Steel. practical and “analogue” approach to circularity 
+2021 to the building. The repairs to fabric were done 
+
+The redevelopment takes design inspiration from only for structural repairs, imperfections were 
+Client: CSI Investments what already exists, responding to the raw material celebrated, and new finishes were used sparingly. 
+Architect:  palette of exposed steel, concrete and brickwork This minimises material use and maximises future 
+Ian Chalk Architects found throughout. Alterations to the existing fabric adaptability. Keeping the structure and services 
+Structural and Civil were limited to essential structural repairs with exposed also allows for repairs, upgrades and 
+
+new finishes used sparingly, an approach that 
+Engineer:  alterations to be made with minimal waste. 
+
+reduces carbon whilst celebrating the character of 
+Heyne Tillett Steel The new structure is mainly mass timber, in a 
+
+the existing building.
+MEP Engineer:  panellised construction with exposed structure 
+
+and reversible connections.”
+Peter Deer & Sustainable structural timber has been used to 
+Associates form the building’s new elements such as the north Laura Batty, Associate, Technical Research & 
+
+lit studio space on top and the vertical extension 
+Cost Consultant: Sustainability, Heyne Tillett Steel
+
+to the side; built using a combination of cross-
+Exigere laminated, glue-laminated and high-strength 
+Project Manager: LVL timber, the new extensions avoids wet trades 
+Stature and composite materials and has reversible 
+Interior Workplace connections, showcasing the unique design 
+Design: Spacelab potential of an all-timber solution and extending 
+Contractor: Conamar the life of the existing structure.
+
+Timber Contractor:  The project has received a number of awards 
+B&K Structures including NLA Retrofit Award 2022, AJ Retrofit of 
+
+Year 2022, Structural Timber Awards 2022 and 
+has been shortlisted for the Wood Awards 2021, 
+and the AJ Architecture Awards 2022.
+
+PROJECT SHOWCASE INDEX  CONTENTS  52 
+
+© EdmundSumner © EdmundSumner
+
+
+
+1 Golden Lane
+
+Golden Lane,  1 Golden Lane, an 8-storey steel framed office in reusing steelwork. McGee used its carbon 
+London EC1Y 0RR building constructed in the 1990s with its original, engineering expertise to develop an approach 
+Status:  grade II listed facade from the 1890s is about to to deliver certainty in removing the existing 
+Planning Granted undergo a transformation. The work will see 96 structural steelwork from the 1980s building, 
+
+per cent of the existing structure retained in its allowing it to be recertified, refabricated and 
+Completion:  current form with the deconstruction allowing for reused in the new proposed structure. McGee 
+2025 extensions both vertically and laterally. removed the perceived risk points to create a 
+
+procurement route to unlocking this opportunity. 
+Client:  Castleforge’s ambition is to create a cutting-edge This pioneering approach enables the proposed 
+Castleforge Partners office space, where the new floor areas will have extension of the building to emit less carbon than 
+Architect:  20 per cent lower embodied carbon relative to the other structural solutions.
+Hawkins\Brown London office benchmark. Steel reuse was found 
+
+to be a viable approach. London Structures Lab “This is the first time that any project in the 
+Structural Engineer: developed a world-first concept to take existing UK is targeting exact steelwork sections to be 
+London Structures Lab steelwork from the building, ribbon cut it to increase deconstructed, de-fabricated, recertified and 
+Specialist Engineering the depth of the sections and give uniformity, then refabricated for use in the redevelopment of the 
+Contractor:  place it back in the new vertical extension. same site.  It is our hope that by successfully 
+McGee delivering this scheme it will demonstrate that 
+
+Ribbon cutting enables a 40 per cent increase technical solutions around steelwork reuse are 
+in the reusable tonnage over standard reuse commercially viable for future schemes in The 
+techniques. The process also means that the Capital. I’m delighted that our client has put their 
+structural zone across the floorplate could be trust in the experience of our team to deliver 
+regularised, giving a consistent service zone and this UK first. We are committed to enabling 
+ceiling line, producing the high-quality office lower carbon solutions through our high value 
+space expected. Working with the client team, engineering solutions.”
+Castleforge, Hawkins Brown and G&T, London 
+Structures Lab established the refabrication Seb Fossey, Group Managing Director, McGee
+process, performance requirements and 
+certifications needed for steel reuse.
+
+McGee collaborated with the Client team and 
+industry bodies, to demonstrate the viability 
+of steelwork reuse in this scheme. Deriving 
+a methodology to deconstruct the existing 
+sections and demonstrate how testing and 
+recertification could remove perceived blockers 
+
+PROJECT SHOWCASE INDEX  CONTENTS  53 
+
+© Image credit © Image credit
+
+
+
+55 Great Suffolk Street
+
+55 Great Suffolk St, This sensitive restoration and extension of 600kgCO2e/m2. The project is on track to achieve 
+London SE1 0BB a derelict, Grade II Listed warehouse into a BREEAM ‘Excellent’ accreditation and Net Zero 
+Status: Planning 15,000 sq ft of creative workspace in Bankside will whole-life carbon. 
+permission granted breathe life back into a much-loved but neglected 
+
+Southwark building. Trap doors, which allowed goods to be moved 
+Completion: 2024 between floors, will be left exposed with infill 
+
+One of the last surviving Victorian warehouses glazing, retaining visual connectivity. And 
+Client: Fabrix in the borough, 55 Great Suffolk Street has lain corrugated cladding on the new external core 
+Architect:  vacant and untouched for the last 50 years and is references the building’s use in the 19th century by 
+Hawkins Brown on Historic England’s Heritage at Risk register. The Spicer Bros paper merchants. 
+Structural Engineer: remarkable utilitarian-style building is now being 
+
+“Guided by a bespoke project specific sustainability 
+Symmetrys conserved, upgraded and extended; bringing it 
+
+back into use for the first time in half a century. framework, ambitious sustainability intentions for 
+Cost Consultant: A new, distinctly-contemporary, external core the retrofit of this listed warehouse were set from 
+Exigere structure will be almost entirely constructed using the outset, ensuring that they remained at the fore 
+Sustainability reclaimed steel. Connected by bridge-links, it will throughout. The impact of early and ambitious 
+Consultant: CBRE house essential modern services and amenities, client intentions should not be underestimated, 
+
+as the advance procurement of structural steel 
+Project Manager: Opera such as WCs, a lift, bike store and showers, 
+
+allowing the building’s original uninterrupted from a donor site allowed known elements to be 
+M&E Engineer:  floorplates to be uncompromised and retained. incorporated into the design; maximising the use of 
+Max Fordham this circular material within the project. With 97% of 
+Planning Consultant: In a first for a UK developer, Fabrix purchased 139 the building's structural steel sourced though reuse 
+Gerald Eve tonnes of steel, from a building being demolished, pathways, 55 Great Suffolk Street is an excellent 
+
+for structural reuse across a number of its example of the possibilities that a well-planned 
+Heritage Consultant: projects. A total of 20.35 tonnes of reclaimed approach to the circular economy can achieve, 
+City Designer steel will be used for the new external core, saving whilst demonstrating to the market a practical 
+
+approximately 50 tonnes of embodied carbon implementation of these important principles.”
+(based on a comparison to a generic A1-A3 carbon 
+factor of 2.5kgCO2e/kg steel for 20 per cent Matthew Ingham, Associate Director, CBRE
+recycled content steel sections). The upfront 
+embodied carbon of the building (modules A1-
+A5) is estimated to be 386kgCO2e/m2 owing to 
+both the steel reuse and the retention of the listed 
+warehouse, representing a 36 pr cent reduction 
+compared to the LETI 2020 design target of 
+
+PROJECT SHOWCASE INDEX  CONTENTS  54 
+
+
+
+7 Holbein Place 
+
+1 Whittaker St, London Holbein Gardens is a retained and extended as more de-fabrication and processing would be 
+SW1W 8JQ 1980s commercial building, refurbished to create required for the steels to be reused, increasing 
+Status: Built a modern workplace with increased floor area. energy consumption and embodied carbon. The 
+
+Sustainability and circularity are at the heart of steel frame was completed in Summer 2022 and 
+Completion: 2023 the development, reusing much of the existing practical completion is expected in April 2023.
+
+Client:  building fabric paired with low carbon engineered 
+timber extensions. The project is a pioneer for the Furthering our study into the reuse of structural 
+
+Grosvenor Property UK direct reuse of structural steel in London, a first of steel, working with Grosvenor and with funding 
+Architect: Barr Gazetas many currently being developed and implemented from Innovate UK, we are undertaking research 
+Structural Engineer: across the Grosvenor portfolio. Grosvenor are into the re-use of pre-1970 steel and how concrete 
+Heyne Tillett Steel committed to circularity and prioritising retention encasement removal may affect how steelwork 
+
+can be reused. Results of this will be used to inform 
+M&E / Sustainability over demolition, re-use, recycling, trialling 
+
+further work and is expected to be concluded in 
+Engineer:  innovations such as material passports, and 
+
+Summer 2023. 
+Hurley Palmer Flatt procurement and waste management. Holbein 
+
+Gardens is the first project that champions this 
+Project Manager: “Holbein Gardens is set to have just over 35 
+
+level of circularity.
+Capital & Provincial per cent of the new steel from reused sources 
+
+and demonstrates how the challenges of using 
+Quantity Surveyor: 93 per cent of the existing structure was retained, 
+
+reclaimed steelwork can be overcome. With 
+Leslie Clark and a new vertical extension added to provide 
+
+additional workspace and terrace area. The increased interest in reusing steel and incentives 
+Planning Consultant: new structure is formed from a partially reused to get building owners to extract steel, this will help 
+Gerald Eve steel frame with cross-laminated timber (CLT) reuse of steel become a more economic, efficient 
+Landscape Architect: floor slabs. The steel being used is nine tonnes and mainstream way to reduce carbon in the 
+Todd Longstaffe- of reused steel from other Grosvenor projects construction industry.” 
+Gowan Landscape and 16 tonnes reclaimed steelwork from other Rob Mills, Senior Associate, Heyne Tillett Steel
+Design sites, with the remaining sourced from traditional 
+
+(new) steel. This reused steel, alongside the use 
+of CLT gives an overall embodied carbon for the 
+structure of 65 kgCO2e/m2. The steels reused 
+on Holbein Gardens were taken from low load 
+applications, roofs or temporary works and so only 
+steel primer needed to be removed. If steels are 
+encased in concrete encasement or covered in 
+intumescent/vermiculite fire protection, have shear 
+studs etc. this would require further consideration 
+
+PROJECT SHOWCASE INDEX  CONTENTS  55 
+
+© BarrGazettas © Heyne Tillett Steel
+
+
+
+318 Oxford Street
+
+318 Oxford Street, W1C Reuse of existing materials in the construction appointed to TBC.London, ensured there was a 
+1HF London sector is an essential step in the industry’s smooth transition for using the recycled materials 
+Status:  transition to a net zero future. However, the reuse in the Thames-side design, and will work with TBC.
+Under Construction of steel is in its infancy. While a protocol exists for London contractor Wilmott Dixon to incorporate 
+
+the reuse of steel manufactured in 1970 to current the beams. 
+Completion: 2024 days, as yet this does not cover steel produced in 
+
+earlier eras. “Re-use of early 20th century steel from 318 Oxford 
+Client:  Street is breaking new ground in the field of Urban 
+Publica Properties In a novel move, pre-war steel is being reused in a Mining and delivering significant reductions in 
+Architect: PDP London UK construction project, in the latest breakthrough carbon emissions.”
+Engineers:  in ‘urban mining’. 40 tonnes of 1930s steel beams 
+
+Andrew Davidson, Partner PDP London Architects
+Civic Engineers saved from the old House of Fraser store at 318 
+
+Oxford Street (now to be known as ‘The Elephant’) 
+is being salvaged for reuse in a new London office 
+scheme. A number of steel columns from the 5th 
+floor are also being re-used on the new 8th floor 
+extension, reducing the tonnage of new steel and 
+embodied carbon of the scheme. The former 
+department store is being designed and delivered 
+as offices by PDP London and Civic Engineers. The 
+steel beams will be used on FORE Partnership’s 
+
+Tower Bridge Court (TBC.London) scheme on 
+the Thames. The columns being extracted will be 
+used in the top floor signature restaurant of The 
+Elephant. PDP and Civic Engineers worked closely 
+together to ensure that the columns would fit into 
+their allocated spaces and function structurally. 
+
+Together these moves will save an estimated 43 
+tonnes of carbon dioxide when compared with 
+using new steelwork, equivalent to 11 family cars 
+driving for a year or about 40 flights from London 
+to New York. Civic Engineers liaised with McLaren, 
+contractor on The Elephant refurbishment, to 
+support the proposal. Webb Yates, the engineer 
+
+PROJECT SHOWCASE INDEX  CONTENTS  56 
+
+
+
+6–10 St Andrew Street
+
+St Andrew St, London 6–10 St Andrew Street is the substantial “The HTS Stockmatcher gives a quick and 
+EC4A refurbishment of an existing office building to create considered solution to the current problem of 
+Status:  a sustainable, high quality and beautifully designed how to best use reclaimed steel in buildings, 
+Planning Granted workspace, in line with Great Portland Estate’s net maximising the efficient use of this low carbon 
+
+zero carbon commitment. Located within the City of material. The interface is simple, the inputs are 
+Completion: 2024 London, the existing building, constructed in 1999, flexible, and the results can be easily interrogated. 
+
+consists of an eight-storey reinforced concrete HTS is looking forward to launching an open 
+Client:  frame over a single storey basement. source version in June 2023.”
+Great Portland Estates 
+Architect: Barr Gazetas The proposed design utilises the full potential of the Laura Batty, Associate, Technical Research & 
+Building Services:  existing building, limiting the amount of demolition Sustainability, Heyne Tillett Steel
+
+GDM Group required by maximising the floorplate efficiency. A 
+new single storey extension will be added to the top 
+
+Project Manager: floor, alongside a new pavilion structure at Level 09, 
+Cogent Building and the creation of additional external terrace space 
+Consultancy	 at Level 08. The design proposals maximise the 
+
+reuse of the existing building, with 97 per cent of the 
+structure being retained, including the foundations. 
+However, this required a lightweight solution to 
+be found for all new structures. The proposed 
+extensions have been designed in steelwork and 
+composite metal slabs, which will be exposed to the 
+underside, as these materials are lightweight whilst 
+giving the aesthetic the architect wanted.
+
+Alongside the embodied carbon stored within 
+the retained structure, the design minimises 
+embodied carbon by sourcing the steelwork 
+elements from re-used stock instead of virgin 
+steel elements. Using HTS’s internal Stockmatcher 
+tool, 82 per cent of the new steelwork required 
+has been matched with suitable re-used elements, 
+avoiding 24 tonnes of new virgin steelwork needing 
+to be procured.
+
+PROJECT SHOWCASE INDEX  CONTENTS  57 
+
+
+
+ANZ London
+
+25 North Colonnade, ANZ London is a new sustainable workspace responsible sourcing, using its in-house database 
+London E14 5HZ that articulates the organisation’s values, of sustainable materials and collaborating with 
+Status: Built culture and identity. Located on the 12th floor suppliers to further reduce embodied carbon, 
+
+of Canary Wharf ’s Cargo Building, tp bennett’s increase circularity and achieve greater social 
+Completion:  approach centred around circular economy value outcomes.  
+March 2022 principles, reflecting ANZ’s position as a leading 
+
+environmentally sustainable bank. Altogether, the project avoided 19.3 tonnes of 
+Client: Australia & New carbon emissions and prevented the creation 
+Zealand Banking Group With sustainability being a key priority, tp bennett of seven tonnes of furniture waste. The 
+Limited tailored a bespoke and robust sustainability remanufacture of existing ANZ furniture supported 
+Interior Designer, Brief strategy with the client that focused on reducing 225 hours of London Real Living Wage employment 
+Consultant: tp bennett embodied and operational carbon through all for vulnerable workers. 
+
+aspects of the design. Put into practice, this 
+Main Contractor: meant that 66 per cent of furnishings were directly “By employing biocentric design principles we 
+Overbury refurbished or remanufactured and 55 different have created a new UK & Europe head office that 
+Project Manager, types of furniture were fully remanufactured. In puts both people and the planet at its centre. We 
+Quantity Surveyor: JLL addition, 7.5 tonnes of carbon dioxide equivalent recognised that the materials our offices are 
+
+M&E: Taylor Project (CO2e), was avoided through remanufacturing 79 constructed from can represent both our greatest 
+socio-environmental impacts and opportunities, 
+
+Services per cent of the task chairs used in their new office, 
+which is the approximate annual footprint of one and we are proud of this project’s recognition as 
+UK citizen. The worktops used for remanufactured one of the UK’s most circular fitouts.”
+desks were made locally in the UK from 85 per cent Tim Phillips, Head of Business Execution,  
+post-consumer recycled glass and aggregates. Europe, ANZ
+A careful materiality strategy was implemented 
+from the outset, focusing on ‘design out’, reuse, and 
+maximising use of natural products. Similarly, most 
+fixtures, fittings and services are demountable, 
+enabling ongoing flexibility and maximising 
+opportunity for future reuse. A biophilic design 
+approach helps achieve excellent levels of 
+indoor air quality through avoiding use of high-
+emitting, synthetic products, and prioritising 
+mechanical fixings instead of adhesives. The fitout 
+utilised tp bennett’s award-winning approach to 
+
+PROJECT SHOWCASE INDEX  CONTENTS  58 
+
+© Hufton+Crow © Hufton+Crow
+
+
+
+Atelier Gardens
+
+Oberlandstr. Mitte, Atelier Gardens is a 110 year-old, six-acre film A pioneering onsite water strategy will enable 
+12099 Berlin, Germany studio site in Berlin being transformed into the site to become one of Berlin’s first ‘drainless’ 
+Status: Under a global campus for social and regenerative properties, with all rainwater being retained on site. 
+Construction activism and entrepreneurship, alongside film Underground cisterns harvest rainwater for toilets 
+
+and media. The project is underpinned by a ‘zero- and outdoor areas, and urine will be separated 
+Completion:  waste-to-landfill’ ethos and a holistic approach from solid human waste – the nutrients and faeces 
+2022 – 2024 to sustainability encapsulated by the motto ‘Soil, recovered and reused for fertiliser and as part of 
+
+Soul, Society & Celebration’. the campus’ ‘Terra Preta’ composting system. 
+Client: Fabrix
+Masterplanner: MVRDV The perception of film studios is often one “Atelier Gardens for us is an opportunity to turn an 
+Architects: MVRDV, of glamour and the site certainly has a rich established campus with more than 100 years of 
+
+Studio Fabrix and history as the home of German cinema. The film history into a global home for sustainability 
+studio buildings once sat within a handsomely and storytelling. And to do so in a way that goes 
+
+Hirschmüller Schindele landscaped parkland, with water and green spaces beyond the limited aim of becoming carbon 
+Architekten between them. The more recent reality was very neutral by a certain date. We are, of course, taking 
+Landscape Designers: different — a mix of film studios and large sheds, important steps in reaching net zero, however, 
+Harris Bugg Studio built pragmatically over time with no thought for sustainability needs to also consider more holistic 
+Project Manager: Drees public realm, surrounded by tarmac and just seven issues such as water use, the natural environment, 
+& Sommer trees. waste and circularity.
+M&E Engineer: Buro The campus is being reconfigured as an inspiring Berlin is well-known for its rich and radical activist 
+Happold and flexible home to a creative community of scene working to solve the most pressing issues of 
+Water and Material Flow tenants devoted to social and environmental our time, from climate change to human rights and 
+Management: Hati change. All existing buildings no longer used for food production. We’re harnessing a radical range 
+Contractor: KPM3 film or post-production are being repurposed and of approaches to circularity on site, in partnership 
+
+brought back into use as a flexible mix of work and with our growing tenant community and incredible 
+Circular Construction event space. Nature is being reintroduced via a consultant team. All examples of pioneering 
+Consultant: Concular radical biodiversity and regreening strategy, with solutions that London has a lot to learn from.” 
+Partner: Dyce green plazas, rooftop gardens and over 170 trees. 
+
+Plants are being specified to decontaminate the Clive Nichol, CEO, Fabrix
+Café Operating Partner: 
+Roots Radicals soil and planted directly into broken hard paving, 
+
+avoiding sending soil or concrete to landfill. Over 
+50 per cent of the site’s paving is being dug up and 
+reused on site, eliminating waste and vehicles, and 
+adding water permeability. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  59 
+
+
+
+Gjuteriet
+
+Västra hamnen, 211 19 Focused on the intensive re-use of repurposed The overarching project ethos placed an acute 
+Malmö, Sweden materials, the transformation of Gjuteriet in Malmö emphasis on resource preservation and a minimal 
+Status: Built designed by Kjellander Sjöberg for Varvsstaden, carbon footprint; what can be built within planetary 
+
+demonstrates how existing buildings can be boundaries, what materials were already available 
+Completion: 2023 reimagined based on circular principles. Formerly to achieve the most sustainable outcomes.
+
+Client: Varvsstaden a ruin, the distinctive building has been given a 
+vibrant new life as an active and social new urban Kjellander Sjöberg began with what was already 
+
+Contractor: PEAB place telling a multifaceted story about the port’s there: the imposing steel structure, the brick walls, 
+Tenant: Oatly rich maritime heritage. the frail and broken collage-like character of the 
+
+building we found — all these preserved stories 
+Architect: Kjellander Varvsstaden is a major regeneration project in and narratives that have accumulated over time. 
+Sjöberg Malmö transforming the old shipyards into a 
+Landscape: Sted sustainable new district. The historic Gjuteriet 
+landskap foundry building is a key landmark in the area 
+Engineer: BK Konsult representing Malmö’s emergence as an industrial 
+
+Advisor: Matter by Brix city. The project is both about the reinvention of 
+the building and its wider environment. Kjellander 
+
+Contractor: Martinsons Sjöberg have developed a program with maximum 
+social, local and environmental benefits which 
+bring to life an active new public realm along the 
+adjacent quay, dry dock and inner basin. This new 
+focal point in Malmö will kick start the regeneration 
+of the Varvsstaden district which is fast evolving 
+into an exciting new mixed-use neighbourhood 
+with homes, workplaces and a new fine arts 
+campus for the University of Lund.
+
+Gjuteriet is a new inspiring and experiential 
+company headquarters for Oatly. It’s an informal, 
+open, authentic workplace built around social 
+meeting and communal spaces — it is also creative, 
+collaborative and activity based — a reflection of 
+the shared values of its users. The ground floor is a 
+generous shared realm that will invite the public to a 
+cafe, restaurant, foyer and exhibition space.
+
+PROJECT SHOWCASE INDEX  CONTENTS  60 
+
+© R Hjortshoj
+
+
+
+Mayfield in Manchester
+
+The Tavern, 75 Mayfield Park, a 6.5-acre brownfield site, is long existing brick-and-stone masonry river wall. 
+Piccadilly, Manchester Manchester’s first city centre park in over 100 
+M1 2BU years. Packed with heritage, and with the River “Mayfield has always been an industrious part of 
+
+this great city. In Victorian times it was a city within 
+Status: Built Medlock flowing through its core, it has an industrial 
+
+history of innovation spanning back to the 1700s. a city, powering Manchester’s role in the Industrial 
+Completion: 2022 In its former life, the site functioned as a parcel Revolution. As we look to the future it feels 
+
+depot and relief railway station and textile mill. Left entirely appropriate that Mayfield will set a new 
+Client: U+I derelict for over 30 years, the existing industrial site blueprint for the creation of beautiful, progressive, 
+Architect:  has been repurposed into a public green space that sustainable neighbourhoods. Making the most of 
+Studio Egret West celebrates the heritage of the area and exemplifies the heritage here at Mayfield just makes sense - 
+Landscape architect: sustainable construction practices. there’s a treasure trove of material from this rich 
+
+Layer Studio past which we’re celebrating across the site, which 
+Alongside Studio Egret West, Layer Studio and is so important from both a conservation and 
+
+Engineer:  with developers U+I, Civic Engineers worked on an carbon point of view.”
+Civic Engineers approach that saw the site infrastructure reused 
+
+to create moments of functional and aesthetic Martyn Evans, Creative Director, U+I
+joy for the community. The recycling and reusing 
+of materials during the entire construction saved 
+around 553 tonnes of CO2 — the equivalent 
+emissions of 651 London to New York flights. 
+Salvaging and repurposing historic cast iron beams 
+from the culvert which had covered the river, three 
+new bridges were created on site. Additionally, two 
+entrance ways and multiple ornamental beams 
+were scattered throughout the site to create a 
+visual effect. This not only saved cost and carbon 
+but made sure the site heritage was not lost.
+
+Creative thinking was also employed to retain the 
+existing riverbank structure. Through detailed 
+load balance analysis, Civic Engineers managed 
+to remove one thousand cubic metres of concrete 
+buttressing proposed by the previous park 
+engineer. A delicate, targeted repair approach was 
+employed instead, to breathe new life into the 1 km-
+
+PROJECT SHOWCASE INDEX  CONTENTS  61 
+
+
+
+Millennium Mills
+
+6 Barrier Point Rd, Millennium Mills is an iconic industrial former flour Embodied carbon is an essential part of the 
+London E16 2SB mill that sits proud and civic as the centrepiece regeneration of The Mills, and the circular 
+Status: Proposed to the Royal Docks. The Mill is now due to be fully approach works to reduce carbon through the 
+
+restored as part of The Silvertown Development whole lifecycle of the building. The Silvertown 
+Completion: 2030 brought forward by The Silvertown Partnership, development, including Millennium Mills, has a 
+
+Client:  which will create over 6,000 new homes, 1.8 million zero-carbon district heating system. Extensive 
+sq ft of next generation workplace, and a new studies have been undertaken to investigate the 
+
+The Silvertown space for cultural and community events. best solutions for facade retention, floor infills, and 
+Partnership construction of the extension.
+Architect: AHMM Millennium Mills was originally built in 1905 but 
+Structural Engineer: suffered extensive damage during World War One. “With a shared passion and a wealth of expertise, 
+
+AKT II It was rebuilt in 1933 and 1954 by Spillers and AHMM, Lendlease, and Buro Happold are 
+served London until 1981 where it fell derelict due reimagining Millennium Mills into a dynamic 
+
+Sustainability to the decline of shipping trade. and inspiring hub of innovation and creativity. 
+Consultant: Buro The team’s collaborative spirit is fuelling this 
+Happold The Millennium Mills refurbishment presents a transformation.” 
+MEP: HDR full circular economy story that conserves the 
+
+life of existing built fabric by ensuring longevity, James Santer, Director, AHMM
+Waste consultant: Arup adaptability, and reusability as part of a new 
+Fire engineer: OFR chapter. The proposal plans to retain and refurbish 
+Facade consultant: the original mill building, adapting the industrial 
+Meinhardt space to create 225,000 sq ft of flexible workspace. 
+
+The  façade will be sensitively preserved and 
+celebrated by retaining the iconic Millennium Mills 
+and Spillers signage. The internal load-bearing 
+structure and foundations will be retained, as 
+well as the original mill equipment, which will be 
+repurposed and put back into the building as a key 
+feature to highlight its industrial past.
+
+New interior additions are minimised, promoting 
+material efficiency and economy. The focus 
+has been on specifying high-quality materials 
+that support longer-life and adaptability 
+of the building, as well as the wellbeing 
+and modern lifestyle of occupants. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  62 
+
+© AHMM © AHMM
+
+
+
+Panorama St Paul’s
+
+81 Newgate St, London 81 Newgate Street is a high-profile redevelopment project has been designed to be climate  
+EC1A 7AJ at the heart of the City of London. The outdated change resilient, with rainwater attenuation, 
+Status: Under 1980s office is being transformed into a material resilience and thermally comfortable 
+Construction sustainable, mixed-use building that supports adaptive environments. 
+
+the City’s goal for 24/7 activity. The project will 
+Completion: 2025 include flexible workplaces, retail units, public art, “Creating a sustainable building is a relay race, with 
+
+a rooftop restaurant and a new pedestrian route each team member passing the baton on to the 
+Client:  through the site. next consultant. The end result is the cumulative 
+Orion Capital Managers effect of many decisions, not one grand gesture. 
+Architects:  Environmental performance and wellbeing are 
+
+improved, with measures including mixed-mode At Panorama St Paul’s we wanted to use the 
+Kohn Pedersen Fox existing building as a ‘quarry’, removing original 
+Associates (KPF) ventilation and better daylight access. Additionally, 
+
+renewable energy is provided through rooftop Portland stone and granite and reusing it in a new, 
+Structural Engineer:  photovoltaics and there are more than 1,320 high-performance façade. The stone consultant, 
+AKT II cycle spaces, with associated facilities. Extensive Grants, were very engaged collaborators — their 
+Development Manager: planting and a large public roof terrace, with a expertise and craftmanship were key to removing 
+Pella Real Estate wildflower meadow, will improve biodiversity and the original façade with minimum wastage.
+Managers make a significant contribution to the greening of The reclaimed masonry has been set into pre-
+MEP: Chapman BDSP this corner of the city. Through extensive retention fabricated panels, which can be demounted and 
+Planning Consultant: of the existing structure, the project offers the refurbished — although the stone can’t be taken 
+Montagu Evans lowest impact redevelopment for the site, saving off as a single element again. There was a complex 
+
+up to three years of demolition/new construction 
+Environmental Advisor: set of factors to consider to balance circularity, 
+
+and reducing the whole life carbon. The building’s 
+Trium Environmental cost, and construction processes.” 
+
+original ashlar facades are used as a ‘quarry’, 
+Consulting Portland stone and granite have been carefully John Bushell, Design Principal, Kohn Pedersen Fox 
+Ecology:  removed and are being reused in a new high- Associates
+Aspect Ecology performance facade. 
+Landscape Designer: With a target BREEAM rating of ‘outstanding’, 
+Tom Stuart Smith 81 Newgate Street aspires to be part of a new 
+Stone Contractor: Grants generation of sustainable office developments 
+Contractor: Mace in London. This includes minimising waste using 
+
+modular construction, low carbon materials and a 
+zero to landfill plan. The project will be air quality 
+neutral, with a high urban greening factor. The 
+
+PROJECT SHOWCASE INDEX  CONTENTS  63 
+
+Before © Miller Hare After © Miller Hare 
+
+
+
+Roots in the Sky
+
+1-15 Pocock Street, SE1 Roots in the Sky is a net zero 430,000sq ft office as decorative panels in the changing rooms. And 
+0BT building in Bankside which will be topped with the reception desk will be formed from a section 
+Status:  the UK’s first rooftop Urban Forest. 1.4 acres, 125 of the existing concrete slab. Bolted structural 
+Under Construction trees, 10,000 plants, 1,000 tonnes of soil and connections that enable disassembly have been 
+
+unprecedented community space, from potting prioritised throughout the design. And waste 
+Developer: Fabrix sheds, community growing and seedbanks to a energy will be captured from tenant server rooms 
+
+community barn. It will be the first of a new breed to heat the rooftop swimming pool once the 
+Architect:  of next-gen HQ office buildings responding to building is operational. 
+Sheppard Robson the flight-to-quality across the post-pandemic 
+Structural Engineer: office market, and the growing recognition that “When we started on Roots in the Sky, Fabrix 
+AKT II a company’s headquarters should be a physical made clear their mission to do things differently, 
+
+Landscape Design: embodiment of its values. pushing for the project to be truly sustainable and 
+embed the reuse of existing building componentry 
+
+Harris Bugg Studio Circular economy principles have been through “urban mining”. Serendipity perhaps 
+Concept Design and incorporated from the ground up. In a first for a UK but at the same time, AKT II were also engaged 
+Vision: Studio Fabrix developer, Fabrix purchased 139 tonnes of steel, in deconstructing 1 Broadgate in the City of 
+and Studio RHE from a building being demolished in the City of London — a perfect donor building for Roots in the 
+Project Manager: London, for structural reuse across a number of Sky given the similarity of their structural grids.
+Gardiner & Theobald its projects. 30 tonnes will be used within the main 
+
+structure at Roots the Sky, saving approximately Intensive partnership working was required to 
+MEP & Sustainability: make this a reality — not least to circumvent the 
+Atelier Ten 74 tonnes of carbon, compared to standard new 
+
+steel members. previously immovable barrier of CE marking. This 
+Cost Consultant: was a huge step forward that effectively allowed 
+Quantem A pre-demolition audit was also undertaken to the rest of the industry to gain the confidence 
+Planning Consultant: assess all materials that can be reclaimed and that the idea of urban mining of structural steel is 
+Gerald Eve repurposed from the existing building, with a something that could be successfully implemented 
+
+commitment established to reuse or recover at and in time scaled to make a real contribution 
+Leasing Agent:  least 95 per cent of all construction waste. A steel towards tackling the climate emergency.”
+Knight Frank portal frame housing the existing plant room, for 
+Environmental example, will be carefully unbolted to form the Gerry O’Brien, Director, AKT II
+Consultant: structure of the 3,000 sq ft rooftop community 
+Watermangroup barn, saving approximately 53 tonnes of carbon. 
+
+Working with Granby Workshop, aggregates from 
+the demolition process will be remodelled with 
+a sustainable resin to be used for finishes, such 
+
+PROJECT SHOWCASE INDEX  CONTENTS  64 
+
+
+
+SEGRO Park, Courier Road
+
+Courier Rd, Rainham The development at Courier Road covers over The development is targeting the BREEAM 
+RM13, UK eight hectares of contaminated brownfield land benchmark of 3.2 tonnes per 100m2 gross floor 
+Status: Proposed of a former landfill in the Borough of Havering. area for construction waste, and it is anticipated 
+
+Developer SEGRO and their Development Partner, that 95 per cent of waste generated during 
+Completion: 2025 the Greater London Authority set a brief for construction will be reused or recycled offsite. 
+
+Developer: SEGRO the project based on the Responsible SEGRO Targets for operational waste arising from the units 
+framework that focusses on long-term priorities for in use include an aim for 65 per cent of material to 
+
+Architect:  low carbon growth, investment in local communities be recycled or composted on/off site.  
+Michael Sparks and environments, and nurturing talent. 
+Associates “Embodied carbon from our developments made 
+Planning Consultant: SEGRO recognise that a Circular Economy is up 40 per cent of SEGRO’s scopes one to three 
+
+Barton Willmore now underpinned by a transition to renewable energy carbon emissions in 2022. This is therefore a very 
+and materials. A holistic approach has been taken material issue for us and why we set an embodied 
+
+Stantec in order to support the creation of a Circular carbon intensity reduction target in 2021 as part 
+Sustainability and Economy which decouples economic activity from of our Responsible SEGRO framework. So far, our 
+Circular Economy the consumption of finite resources. A Sustainability design teams and contractors have achieved a 
+Consultant:  Lead was appointed at the start of the design 12 per cent reduction against our 2020 baseline, 
+Barton Willmore now process to embed sustainability principles into the which we intend to build on in coming years. 
+Stantec scheme wherever possible exceeding minimum There is significant scope for inaccuracies in LCA 
+Whole Life Carbon regulatory and policy compliance to achieve calculations, so structural engineering consultancy 
+Assessment:  exemplary sustainability performance. Elliott Wood verify all of our embodied carbon 
+LCD Consulting data across Europe. SEGRO are leading the way in 
+
+To embed Circular Economy into the development: setting corporate-level embodied carbon intensity 
+Carbon Consultant: non-structural internal walls will provide options targets, and we are pleased to be part of evolving 
+TargetingZero in future for adaptability; reclaimed materials will this agenda.” 
+Energy Strategy & MEP: be used, and will be specified to include a ‘take 
+MBA Consultants back’ recycling scheme to be reused again; office Jack Shepherd, Group Sustainability Manager at 
+
+spaces and the building superstructures have been SEGRO
+Joint Venture Partner: designed for disassembly and reuse at the end of 
+Greater London Authority their lives.
+
+These measures improve the circularity of the 
+development, and reduce waste generated from the 
+construction, operation, and end of life phases of the 
+buildings by encouraging the circulation of products 
+and materials beyond the development’s lifetime.
+
+PROJECT SHOWCASE INDEX  CONTENTS  65 
+
+
+
+Technique
+
+140 Goswell Rd., London Technique is the adaptive reuse and retrofit and columns to the existing floors have been 
+EC1V 7DY of a former gin distillery and printworks to left exposed across the office floors, celebrating 
+Status: Built create 74,000 sq ft of best-in-class workspace the character of the structures, and avoiding 
+
+over six storeys, with 5,000 sq ft dedicated to unnecessary material use, by eliminating the 
+Completion: 2022 SMEs. Demolition of the existing structures was suspended ceiling system. Track lights that can be 
+
+Client: General Projects considered as part of the design process, however easily adapted by future tenants are installed. 
+carbon analysis identified that 1,709 tonnes of 
+
+Architects:  CO2 could be saved by adapting the building The embodied carbon emissions of the project 
+Buckley Gray Yeoman fabric. The decision to retain the existing structure were calculated by BGY after Stage 5 and are 
+Structural Engineers: also prevented 2,560 tonnes of waste ending up estimated as: 374 kg CO2e/m2 (Modules A1-A4, 
+Heyne Tillett Steel in a landfill, with further waste avoided through B4-B5, C1-C4). 
+
+MEPH Engineers: the retention of the existing brickwork facades at “The essence of Technique has always been about 
+Chapman BDSP ground, and first floor level. making a statement - creating a new benchmark 
+Interior Designers: A retrofit of the existing fabric, including internal for our industry and showcasing a new way 
+Formafantasma wall insulation and new, high-performance glazing, of sustainable building. We had three guiding 
+
+helps reduce the operational energy use. The principles we committed to at the outset:
+project team made a commitment to re-use as +	 R E-SET - to re-set the expectations and the 
+much of the existing building fabric as possible norms of how buildings can be repurposed and 
+and where new materials were required, specified how sustainability can be approached. 
+natural and/or low-carbon products: the external 
+walls of the extension are constructed from +	 R E-USE - a commitment to reusing and 
+StoneCycling waste-based bricks, manufactured recycling as much of the existing building as 
+from at least 60 per cent construction waste. At possible. 
+Technique, 21 tonnes of waste were diverted from 
+landfill by using waste-based bricks alone. +	 R E-INVENT - finding ways of taking basic, 
+
+ordinary building materials and reinventing 
+At roof level we added a three-storey extension, these materials into the new building blocks of 
+with a structure of cross-laminated timber slabs the building.”
+and glulam beams and columns, sourced from 
+sustainably managed forests. The structural Jacob Loftus, Founder & Ceo, General Projects
+elements of the mass-timber extensions were pre-
+fabricated off site and assembled on site, cutting 
+site traffic by 70 per cent. The timber surfaces 
+to the new floors, and pre-cast concrete soffits 
+
+PROJECT SHOWCASE INDEX  CONTENTS  66 
+
+© Jack Hobhouse © Jack Hobhouse
+
+
+
+150 Aldersgate 155 Bishopsgate
+
+150 Aldersgate St, Client: Topland 155 Bishopsgate,  Client: British Land 
+Barbican, London  Architect:  London EC2M 3TQ Architect:  
+EC1A 4AB Fletcher Priest Architects Status:  Fletcher Priest Architects 
+Status:  Quantity Surveyor:  Under Construction Structural Engineers: 
+Under Construction Leslie Clarke Completion:  Meinhardt
+Completion:  Structural Consultant: 2020 Landscape Consultant: 
+2024 AKT II Vogt 
+
+Services and Sustainability 
+Consultant: Hoare Lea 
+Quantity Surveyor: Alinea
+Contractor: Overbury
+
+This 140,000 sq ft workplace project reuses 80 A refurbishment of a 400,000 sq ft, 30-year-old 
+per cent of the existing frame and substructure, building next to the UK’s third busiest train station, 
+saving time and a substantial amount of embodied occupied by multiple tenants. Refurbishment of 
+carbon. The plan ensures flexibility and has high impact areas, including public realm, reception, 
+24 gardens and terraces spread over 5,650 sq ft. and vacant office floors, was carried out with 
+The replacement of existing services with modern approximately 30 per cent of the workplace areas 
+and low-energy plant will reduce energy use by being occupied. 90 per cent of the structure was 
+43.5 per cent. A new facade featuring passive retained, leading to significantly reduced embodied 
+shading will substantially reduce the energy carbon emissions. Light-touch interventions aimed 
+consumption of the existing building and provide to maximise impact through the re-use of high-
+occupants with enhanced daylight and openings quality existing materials including stone floor 
+for mixed ventilation. finishes, cladding and timber panelling. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  67 
+
+© Jack Hobhouse
+
+© Socrates © Fletcher Priest
+
+
+
+Edenica –  215 Mare Street
+100 Fetter Lane
+
+100 Fetter Ln, London Client: BauMont Real Roman Apartments, 215 Client and Architect: 
+EC4A Estate Capital Mare St, London E8 3QE Morris+Company
+Status:  Developer: YardNine Status: Built Services Engineer: 
+Under Construction Architect:  Completion: 2022 Skelly&Couch 
+Completion:  Fletcher Priest Architects Structural Engineer:  
+2024 Project Manager:  Heyne Tillett Steel
+
+Third London Wall Contractor: EGG
+Multidisciplinary: 
+Waterman Group
+Planning Consultant: DP9 
+Quantity Surveyor: Arcadis 
+Contractor: Mace 
+
+The 94,000 sq ft Edenica is a healthy, low- 215 Mare Street was designed with sustainable 
+carbon, future-proof, net zero in operation strategies at its core, promoting re-use, recycling, 
+workplace in the City of London. Embodied and community interaction. To minimise carbon 
+carbon will be 30 per cent lower than current GLA emissions a circular approach has been employed, 
+benchmark, achieved using recycled materials re-using the building fabric and up-cycling existing 
+and implementing Waterman’s new ‘Materials partitions. Furniture and storage was reclaimed 
+Passports’ process. Edenica will be a pilot project within a 10-mile radius, while low-carbon softwood 
+for passporting in the UK, giving materials a digital was chosen for wall systems — demountable 
+signature for present use, recovery, and future and reconfigurable for future use. Co-occupiers 
+reuse. The project will be the City’s first ‘material ‘EDIT’ are a plant-based / zero waste / seasonal 
+bank’, where used materials will become valuable restaurant / bar catering for Morris+Company, 
+resources instead of waste.  alongside the wider community. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  68 
+
+© Jack Hobhouse © Jack Hobhouse
+
+© Fletcher Priest Architects © Fletcher Priest Architects
+
+
+
+55 Old Broad Street A Circular Lifestyle 
+
+55 Old Broad Street, Client: Landsec Status: Proposed Architect:  
+London EC2M 1RX Architect:  Completion: 2027 Chetwoods Architects
+Status: Proposed Fletcher Priest Architects
+Completion: 2028 PM: Turner & Townsend
+
+Structural Consultant: 
+Heyne Tillet Steel
+Services Consultant:  
+Long & Partners
+Planning Consultant: DP9
+MEP and Sustainability 
+Consultant: Atelier Ten
+Landscape Consultant: 
+Vogt Landscape
+
+The redevelopment of 55 Old Broad Street is a The ground-breaking scheme’s philosophy seeks to 
+radical reimagining of City workspace for Landsec. look beyond the circularity of building materials and 
+The materials, components and furnishings in develop an understanding of what the real circular 
+the existing building have been painstakingly economy methodology looks like in day-to-day life. 
+catalogued, creating an extensive material passport The site has a history of experimentation — the 
+database that will allow their reuse. Alongside original 1930s house was a timber kit building that 
+retained and refurbished buildings, a new energy evolved into Chetwoods Architects experimental 
+efficient workplace will rise from the retained Butterfly House in the early 2000s. We apply the 
+basement featuring natural ventilation, passive solar six R principles: Rethink, Reduce, Reuse, Retain, 
+shading and green amenity throughout. Repair, Recycle, with associated key performance 
+
+indicators and metrics building upon industry best 
+practice guidance. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  69 
+
+
+
+All Saints Brent Cross Town
+
+13 Austral St, London SE11 Client: EPR Studio Ltd Pennine Drive (Stop E), Client: Related Argent and 
+4SJ, UK Architect: EPR Architects London NW2 1BW, UK Barnet Council
+
+Status: Built Status: Planning Granted Architecture/art:  
+Main Contractor:  IF_DO and Lakwena
+
+Completion: 2022 McCue Crafted Fit Completion: 2035 Engineer and lead design 
+advisor: Arup
+Infrastructure contractor: 
+Galldris
+Wrap contractor:  
+Bourne Group
+Landscape architect: 
+Gillespies 
+Off-Site Re-Enforcement, PSS 
+Fit-Out and Power Supplier: 
+Power On
+
+All Saints is a sustainable refurbishment. The use Located at Brent Cross Town, one of the largest 
+of embodied carbon was monitored and kept to a net-zero regeneration projects in Europe, a new 
+minimum through informed design choices, with primary electrical substation has been wrapped 
+new materials introduced to the building selected with a 21-metre-high permanent public artwork. It 
+for their low carbon content. Existing features embraces circular economy principles, using lower 
+were sensitively reused wherever possible and carbon products such as cement-free concrete 
+poor-performing existing building elements were for the foundations, and re-using steelwork for the 
+upgraded with new thermally efficient alternatives. construction of the wrap. Early engagement with 
+This, combined with mixed-mode ventilation that steel suppliers was essential in the procurement 
+allows passive cooling and an all-electric heating/ of the project; with around 50 per cent of the 
+cooling system, enables the building to be Net Zero structural steel salvaged from unused oil pipelines, 
+Carbon in operation. reducing embodied carbon emissions of the 
+
+steelwork by over 40 per cent. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  70 
+
+© John Sturrock
+
+© Simon Kennedy © Simon Kennedy
+
+
+
+Broadwick Street Canada Water Modular 
+Campus
+
+30 Broadwick Street, Client: EQT Canada Water, London Client: British Land
+London W1F 8JB Global Architect:  SE16 Architect: Hawkins Brown
+Status: Under Studio Stockholm Status: Under Contractor: Galldris
+Construction Local Architect & Lead Construction
+
+Designer: Barr Gazetas Modular construction: 
+Completion: 2023 Structural Engineer: Completion: 2023 Premier Modular
+
+Parmarbrook
+Project Manager:  
+Storey Project ltd
+MEP: Cundall
+Cost Manager: Quantem
+Sustainability Consultant:  
+Max Fordham
+Principal Designer: Sweco
+Landlord Team: Savills
+
+Barr Gazetas and Studio Stockholm collaborated Two new buildings are provided on the Canada 
+to bring the designs for EQT’s UK offices into the Water Masterplan for TEDI-London’s University 
+local London context. The designs offer flexible campus, and  life sciences purposes. The off-
+office space that fosters community, collaboration site manufactured, volumetric modular structure 
+and impact within each business line, with allowed rapid on-site assembly, lower vehicle 
+sustainability as a key driver, an embodied carbon movements, zero waste-to-landfill with decreased 
+target of <262kgCO2/m2 and WELL certification noise, dust and disruption to neighbours. The 
+with material reuse, cradle-to-cradle certified second phase utilised pre-loved modules, wall and 
+natural materials made of recycled components window components. The buildings are built for 
+and the support of Max Fordham as Sustainability intermediary use before disassembly to continue 
+advisor from the early stages of the project. their life elsewhere. The entire front gate is made 
+
+from 100 per cent recycled steel — salvaged from 
+the Printworks site adjacent.
+
+PROJECT SHOWCASE INDEX  CONTENTS  71 
+
+© John Sturrock © Francesco Montaguti
+
+© Studio Stockholm © Studio Stockholm
+
+
+
+Dorset Health Village HYLO
+
+64-68 Dolphin Centre, Client: University Hospital 105 Bunhill Row, London Client: CIT Group
+Poole, BH15 1SQ Dorset Trust EC1Y 8LZ, UK Architect: Horden Cherry 
+Status: Built Architect: BDP Status: Built Lee Architects
+Completion: December, Building Services: BDP Completion: 2021 Structural Engineer: AKT II
+2021 Construction and facilities M&E Engineer:  
+
+management: CFES RHB Partnership
+Material and healthcare Contractor:  
+equipment:  J Coffey Group & Mace
+Innova Care Concepts
+
+University Hospital Dorset Trust appointed BDP HYL — winner of the IStructE 2022 Supreme 
+to design an outpatient clinic within a vacant Award — absorbs London’s formerly mid-rise 
+department store of the Dolphin Shopping Centre Finsbury Tower within the delivery of a modern 
+in Poole, Dorset. The built design focused on a high-rise development. The existing 16-storey 
+circular economy approach: over 70 per cent of structure is now extended upwards, with 13 
+the site was kitted out re-using equipment and additional storeys, while re-using the existing frame 
+materials from the Nightingale projects including and foundations in conjunction with just a minimum 
+plasterboard, doors, ironmongery, light fittings,  of targeted strengthening. Altogether, this design 
+and much more was salvaged and stored by Innova solution now doubles the site’s leasable area (from 
+Design in a warehouse, reducing the project’s cost 12,000 to 25,800 sqm) while saving 35 per cent in 
+and delivery time to a minimum.    ‘up-front’ embodied carbon when compared with 
+
+an equivalent new construction. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  72 
+
+© AKT II © AKT II
+
+
+
+JLL 20 Water Street King’s Mall
+
+20 Water St, London E14 Occupier, Project Manager, King St, London W6 9HW Client: Schroders REIM 
+9QG, UK Quantity Surveyor, Status: Built and Ingka (IKEA)
+
+Sustainability Consultant, 
+Status: Built Agent: JLL Completion: 2021 Architect for Lyric Square: 
+Completion: 2022 Stiff & Trevillion 
+
+Interior Designer: Tetris 
+Design x Build Architect for retail areas: 
+Contractor: Tetris Design x Woods Hardwick and Bell 
+Build Associates
+M&E Consultant: Hilson Structural Engineer: 
+Moran AV/IT Expedition Engineering
+Consultant: Mix Project Manager for LIDL/
+Building Owner: Canary Wharf IKEA works: Mace 
+Group Project Manager for office: 
+
+MHBC (now Cumming 
+Group) 
+
+The 100 per cent circular fit-out stipulated zero King’s Mall in Hammersmith is a 1970s, concrete 
+waste to landfill, an end-of-life plan for all assets frame shopping centre which was transformed 
+and modular design. Circular design avoided new between 2016 and 2021 by Schroders REIM and 
+materials where possible and used innovative Ingka (IKEA). The project demonstrates the power 
+low carbon materials (e.g. post-industrial plastic of circular design to revitalise ageing buildings 
+waste worktops), while 1,244 refurbished/reused and make them fit for modern-day purposes. 
+furniture items make up 79 per cent of the Expedition Engineering carefully tested and 
+furniture installation. The project is on track to repaired the structural frame to extend the building 
+simultaneously achieve WELL Platinum, BREEAM lifespan. In the fit-out, finishes were stripped back 
+Excellent and SKA Gold, the first London project and the structure exposed. New interventions 
+and second in the UK to achieve this, following focus on improving circulation, accessibility and 
+JLL’s Manchester office fit-out. flexibility within the mall. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  73 
+
+© Stiff + Trevillion © Expedition
+
+© Jonathan Banks © Jonathan Banks
+
+
+
+London South Bank Meridian Centre Havant
+University – LSBU Hub
+
+London South Bank Client:  Elm Ln, Havant PO9, UK Client: Havant Borough 
+Students’ Union, 103 London South Bank University Status: Proposed Council
+Borough Rd, London  Architect:  
+
+Wilkinson Eyre Architects Completion: 2028 Architect: RM_A
+SE1 0AA
+
+Structural + Facade Engineer: Public Realm & 
+Status: Built Eckersley O’Callaghan Landscape: Fabrik
+Completion: 2022 Principal Contractor: Wilmott 
+
+Dixon Interiors
+Fire Safety Consultant: Tenos
+Landscape Architect: 
+Churchman Landscape 
+Architects
+Building Control Consultant: 
+JHAI Limited
+Carbon Fibre Sub-Contractor: 
+CCUK Composites Construction
+
+This retrofit-first approach to sustainable building Innovative ideas to address challenges faced by a 
+design, has transformed an outdated concrete local shopping centre by harnessing the benefits 
+building into a vibrant new student hub for London of re-use and re-purposing over demolition. 
+South Bank University — demonstrating how an Severing the existing frame recreates a historic 
+existing building can be upgraded to achieve a throughfare, revealing a structure where new uses 
+contemporary look and extend its design life, while could flourish. Social value underpins a sustainable 
+minimising its carbon footprint. By refurbishing design for the whole community, inspiring 
+and saving as much of the existing materials as ‘ownership’. A day in the life shows its potential 
+possible, the A1-A3 (cradle-to-gate) embodied for inclusivity and accessibility to encourage this, 
+carbon component related to substructure and a lifeline for social connections and a catalyst to 
+superstructure for the project is just 49 kgCO2e/ reinvigorate wider regeneration and local economy. 
+m2 — under half of the LETI target for education 
+buildings. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  74 
+
+© Simon Yeung © Simon Yeung
+
+
+
+Meridian Water Museum of London,  
+West Smithfield
+
+Meridian Water, London Client: Enfield Council’s 222 London Central Client: Museum of London
+N18 3AH, UK Meridian Water and Markets, Farringdon, Architect: Stanton Williams and 
+
+Asif Khan
+Status: Proposed Highways Team London EC1A 9LH, UK
+
+Structural and Civil Engineer: 
+Completion: 2040 Circular Economy Status: Planning Granted AKT II
+
+Specialists: Net Positive Completion: 2024 Conservation Architect:  
+
+Solutions (NPS), Excess Julian Harrap Architects
+Landscape Architect:  
+
+Materials Exchange (EME), J&L Gibbons
+ReLondon, Grimshaw Design Manager: Plan A
+
+Project Manager: Stace MEP, Sustainability& BREEAM, 
+Security, Façade, Utility, VT: Arup
+
+Deconstruction Quantity Surveyors: Gardiner & 
+Specialists: Clifford Devlin Theobald
+
+Project Manager: Buro Four
+Civil Engineering Principal Designer:  
+Contractor:  Bureau Veritas London
+Marlborough Highways Planning Consultant: Gerald Eve 
+
+Environmental Consultant: 
+Waterman Group
+
+Making way for a new access road, a former One of the largest and most significant cultural 
+industrial building’s reinforced concrete frame was schemes currently underway across Europe, the 
+crushed on site and certified to a Type-1 and 6F2 new Museum of London at Smithfield transforms 
+standard, stored and used on the new access road a group of historic market buildings into a world-
+a few meters away. 18,000 bricks, thought to be class cultural destination and a democratic 
+unsalvageable due to their cement mortar, were arena for public life. The project is a showcase 
+separated, cleaned and awaiting reuse. Materials for the adaptive reuse of heritage buildings 
+are uploaded on the Excess Materials Exchange, and the application of the ‘circular economy’ 
+and this project achieves a Material Value principles — aiming to reuse and repair over 
+Retention (CE-MVR) of 50 per cent, a new metric 70 per cent of the existing fabric, recycle materials 
+developed with NPS, ReLondon and ACAN. wherever possible and divert 95 per cent of 
+
+construction waste from landfill. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  75 
+
+© Secchi Smith © Secchi Smith
+
+
+
+Oasis Nature Garden One Exchange Square
+Building and Project Jubilee
+
+Oasis Nature Garden, Client: OasisPlay 175 Bishopsgate, London Client: La Salle 
+Larkhall Ln, London SW4 Project Jubilee Client: EC2M 3WA, UK Architect:  
+6SP, UK Lazari Investments Status: Planning Granted Fletcher Priest Architects
+Status: Proposed Architect: Marks Barfield Completion: 2025 Sustainability and 
+Completion: 2025 Architects (MBA) Engineering Consultant: 
+
+Structural Engineer:  Sweco 
+TERM Engineering Landscape Consultant: 
+Quantity Surveyor: Gillespies
+Gardiner & Theobald Project Manager:  
+
+M3 Consulting
+Planning Consultant: DP9
+
+MBA has created a circular economy between two Major refurbishment of 1980s post-modern 
+projects: Oasis Nature Garden and Project Jubilee. City workplace. Transformation of public realm, 
+A forest nursery school, with a separate classroom envelope and massing deliver a building with the 
+for the nature garden, in Stockwell, is designed to public and occupier experience at its heart and 
+be built entirely from waste or reused materials a focus on wellbeing with terraces at every level. 
+sourced from developments. Implementing Retaining over 90 per cent of the primary structure 
+Circular Economy principles, the Jubilee office and significant elements of the façade leads to 
+retrofit acts as one material donor. ‘Mining targets of BREEAM Outstanding, NABERS 5* and 
+the Anthropocene’ — materials are identified, net zero operational carbon. Circularity approach 
+deconstructed, protected, and stored for reuse. includes repurposing materials for new flooring 
+A further aim is to create a “circularity network”, and reusing steelwork for a children’s community 
+encouraging others to re-use in construction. centre in Lambeth. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  76 
+
+© Secchi Smith/Fletcher Priest Architects © Secchi Smith/Fletcher Priest Architects
+
+© OasisPlay © OasisPlay
+
+
+
+Oriel Park View
+
+4 St Pancras Way, London Client: Moorfields Eye 29 Rush Green Rd, Client:  
+NW1 0PE, UK Hospital NHS Foundation Dagenham, Romford RM7 Thames Gateway Group
+
+Status: Planning Granted Trust, UCL Institute of 0PH, UK Architect: RSHP
+Ophthalmology, Moorfields 
+
+Completion: 2025 Status: Built Structural Engineer, 
+Eye Charity Services Engineer, Planning 
+
+Completion: 2021
+Architect: Perkins&Will Consultant, Project Manager, 
+
+Environmental Consultant, 
+(formerly Penoyre & Contractor: AECOM
+Prasad)
+
+Landscape Architect: 
+Landscape Architect, Landform
+Interior Designer:  Light Consultant: NRG
+White Arkitekter
+
+Manufacturer: @Home
+Project Lead: AECOM
+
+Oriel was designed with circularity at its heart. Park View provides move-on accommodation for 
+Adaptable floorplates provide flexibility for the YMCA residents, offering an affordable, stable 
+organisation and location of its many current transition to full independence. The 39 high-
+clinical functions, staff facilities, administrative quality units with exceptional insulation, daylight 
+and education spaces — adaptable for future and acoustics were achieved using rapid and 
+commercial or residential uses. A unitised cost-effective volumetric technology. The off-
+façade system enables reconfiguration without site manufacturing process benefits the Circular 
+affecting structural integrity. ‘Deconstruction’ and Economy due to its adaptability and flexibility. 
+‘Disassembly’ manuals will include techniques to Modules are based on standard panel sizes with 
+prolong the building’s life, reducing operational, high tolerances minimising waste and components 
+construction and demolition waste, ‘end-of-life’ are widely accessible. Fixing methods are designed 
+strategies, advice on disassembly, and which to allow to disassemble the building on the end-of-
+materials or components can be reused, recycled life phase of its lifecycle. 
+or composted. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  77 
+
+©JoasSouza © JoasSouza
+
+© Perkins&Will © Perkins&Will
+
+
+
+BRE’s Garston Campus Salutation Works
+
+Bucknalls Ln, Watford Client: Building Research Status: Proposed Architect:  
+WD25, UK Establishment (BRE)
+
+Completion: 2026 Chetwoods Architects
+Architect: Feilden Clegg 
+
+Status: Built Bradley Studios
+Completion: 2022 Structural Engineer: Alan Baxter
+
+MEP Engineer: Cundall
+Quantity Surveyor:  
+Gardner & Theobald
+Project Manager: Steam
+CDM Advisor: CDRM
+Approved Building Inspector: 
+Harwood
+Acoustic Consultant: Cundall 
+Fire Consultant:  
+The Fire Surgery
+Main Contractor:  
+Logan Construction
+
+A repeatable and cost-effective approach to A multi-storey mixed workspace and industrial 
+providing adaptable, healthy and low-carbon concept. The existing building will be retrofitted 
+workspaces. The refurbishment prioritised low and extended by introducing a new modular 
+embodied carbon materials, local supply and reuse building. The scheme retains as much as possible 
+of existing materials where possible — carpets, of the current building. It repairs what can be 
+ceiling tiles, lighting fixtures and timber partition reused, designs out unnecessary components, 
+studs — and the refurbishment of existing reuses most of the materials currently on-site as 
+furniture. Taking a ‘long-life, loose-fit’ approach well as materials from site deconstruction and 
+to fit-out allows the buildings to adapt to market- salvage yards nearby, and recycles the smaller 
+demand and alternative future uses.  We calculated portion that cannot be reused on-site or elsewhere. 
+a saving of 31,768kgCO2e — a 34 per cent The construction will be used to educate about and 
+reduction in lifecycle embodied carbon for the showcase circular economy principles.
+refurbished items. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  78 
+
+© Luke Hayes © Luke Hayes
+
+
+
+Shrewsbury Flaxmill Soho Square
+Maltings
+
+Shrewsbury Flaxmill Client: Historic England Soho Square, London, W1D Client: Private
+Maltings, Spring Gardens, Architect:  3PX Architect:  
+Shrewsbury SY1 2SZ Feilden Clegg Bradley Status: Built Child Graddon Lewis
+Status: Built Studios Completion: 2022 Structural Engineer: 
+Completion: 2023 Structural Engineer: AKT II Corbett + Tasker
+
+M&E Engineer: E3 MEP: Silver EMS
+Consulting Engineers Heritage: Geoff Noble
+Contractor: Croft Building 
+& Conservation
+Cost Consultant: Gleeds
+
+At the Georgian-era Shrewsbury Flaxmill Soho Square is the refurbishment and extension 
+Maltings site in western England, the existing of a listed Georgian townhouse, located in 
+Main Mill (Grade I) — the world’s first iron- the Soho Conservation Area. The scheme 
+framed structure, and the genesis of all modern provides contemporary Grade A workspaces 
+steel-framed buildings — and it’s adjoined Kiln whilst restoring many of the building’s original 
+(Grade II) are now restored and returned into features. Whilst utilising sustainable materials, 
+functional use. These are notably set amidst predominantly timber, the design protects the 
+six further heritage-listed buildings. The Main ‘special architectural and historic interest of the 
+Mill now rises out of the UK’s ‘Heritage at Risk Listed Building’: fabric alterations, both internally 
+Register’ and, together with the Kiln, provides and externally, were carried out in an authentic 
+a mix of cultural and commercial spaces. manner, to retain the existing built elements in 
+
+their original form. The upgrade of the building was 
+undertaken in order to maintain this heritage asset 
+and make it efficient and usable into the future. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  79 
+
+© Jim Stephenson © Jim Stephenson
+
+© Historic England © Historic England
+
+
+
+TBC.London The Forest Garden
+
+224 Tower Bridge Rd, Client: FORE Partnership 625A High Rd Client: London Borough of 
+London SE1 2UP, UK Architect: Stiff + Trevillion Leytonstone, London E11 Waltham Forest 
+Status: Planning Granted 4PA, UK
+
+Engineer: Webb Yates Architect: HUT
+Completion: 2022 Status: Built
+
+Contractor: Willmott Dixon Landscape Designer, 
+Completion: 2020 Contractors: HOS 
+
+Community Engagement: 
+Moira Lascelles
+
+TBC.London reuses 60 per cent of the existing HUT and HOS have transformed a traffic island 
+building’s structure, with a low 265 kg CO2e / sqm into a vibrant community garden. HUT applied a 
+GIA, below the LETI guidelines. We are saving circular approach to construction using innovative 
+6,365 tonnes of embodied carbon, equivalent to methods of utilising construction waste to revalue 
+32 years of operational energy. 1930s steel beams the connection with our lost natural habitats. 
+salvaged from House of Fraser make up 10 per cent The idea of the garden is to be low-maintenance, 
+of the framing at TBC.London — the first time steel visually appealing and to enhance biodiversity. 
+of this age has been reused in a UK construction Large areas of impermeable tarmac have been 
+project. The remaining ‘new’ steel contains more replaced with recycled building aggregate, sand, 
+than 56 per cent of recycled content. 99 per cent gravel and timber — allowing natural rainwater 
+of waste from construction has so far been runoff to percolate the ground rather than running 
+recycled or reused, installing re-claimed floor tiles, off into mains drains. 
+and floor tiles made from waste materials.
+
+PROJECT SHOWCASE INDEX  CONTENTS  80 
+
+© Samir Patel © Samir Patel
+
+
+
+The Hithe The Loop
+
+Albion St, London SE16, UK Client: Southwark Council Pool St, London E20, UK Client: Hackney Wick 
+Status: Built and Meanwhile Space Status: Proposed Community Development 
+
+Completion: 2021 Architect: IF_DO Trust and University 
+Completion: 2024
+
+College London 
+Structural Engineer:  
+Elliott Wood Architect: Turner Works
+
+Fabricator:  Structural Engineer: 
+Weber Industries Structure Workshop
+
+Circular Economy Partner: M&E Engineer: SGA 
+ReLondon Cost Consultant: 
+
+Stockdale
+Project Manager: Workwild
+
+The Hithe is low-cost business incubator space The Loop is a new circular economy community, 
+in Rotherhithe, South London, and is a prototype commercial and research cluster for innovative 
+for a new generation of affordable, demountable local businesses on the 2012 Olympic site. 
+and reusable meanwhile buildings that can utilise Designed to embody circular economy principles 
+vacant sites for social good. It has been designed both in building design and site operation the 
+for disassembly and will be located on its current project is designed as a kit of parts that will be 
+site for 11 years before being moved elsewhere. It easy to disassemble and relocate in the future. The 
+sits on pre-existing foundations which eliminated site will incorporate full scale samples and excess 
+the need for new concrete, and was built with part materials from nearby UCL construction sites. 
+volumetric and part panelised construction. The rain screen facade to the site perimeter will 
+
+repurpose used materials to create an innovative 
+building skin. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  81 
+
+© Mike Massaro © Mike Massaro
+
+
+
+The Old Vic Annex The Printworks
+
+103 The Cut, London SE1 Client: The Old Vic Canada Water, London Client: British Land
+8NB, UK Architect: Haworth Tompkins SE16, UK Architect: Hawkins\Brown
+Status: Planning Granted Theatre Consultant: Status: Planning Granted
+
+Charcoalblue Development 
+Completion: 2024 Facade Consultant:  Completion: 2027 management: AECOM
+
+EOC Engineers Multidisciplinary engineers: 
+Services Engineer:  Arup 
+Skelly & Couch 
+Structural Engineer: Structural Engineers: 
+Momentum Waterman Group
+Cost Consultant: AECOM Cost management: 
+Project Management:  
+Bristow Consulting Gardiner & Theobald
+BREEAM Consultant:  Acoustic engineering: 
+Twin and Earth Sandy Brown
+Fire Consultant:  
+The Fire Surgery Fire consultants: QFR
+
+Planning consultant: DP9
+
+The Annex will be a new addition to the Grade II* Part of British Land’s Canada Water Masterplan, 
+listed Old Vic Theatre, containing a triple height the project will re-purpose the Harmsworth 
+street café, script library, Clore Learning Centre, Quay Printworks to provide an innovative mixed-
+green room and a rooftop event space. Circularity use destination. Embodied carbon and waste 
+approach includes: a timber construction, is minimised by retaining existing structure and 
+demountable and re-usable at end of building life fabric. A salvage list identifies building elements 
+with an effective use of materials; re-purposing for reuse. For example, some trusses are to be 
+locally sourced theatre barndoor lights to create a upcycled into a play structure while key fittings 
+colourful brise-soleil; and recycled internal finishes are to be stored and re-purposed around the new 
+& furniture (100 per cent PET packaging waste, 100 proposal. Design will be long life, loose fit and for 
+per cent recyclable). future disassembly. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  82 
+
+
+
+The Technical Services Timber Square
+Room
+
+4 Church Rd, London Client: The All England Lawn 2a Southwark Bridge Rd, Client: Landsec
+SW19 5AL, UK Tennis Club London SE1 9HA, UK Architect:  
+Status: Built Architect:  Status: Under Bennetts Associates 
+
+Langstaff Day Architects
+Completion: 2022 Construction Structural Engineer:  
+
+Structural/Civil Engineer: 
+Thornton Tomasetti Completion: 2023 Heyne Tillett Steel
+
+Landscape Architect: ALD Building Services:  
+
+Mechanical Engineer:  Hoare Lea
+ME Engineers
+BREAAM: Cundall
+Cost: Turner & Townsend
+Contractor: Knight Harwood
+Photography: Courtesy of The 
+All England Lawn Tennis Club/ 
+Ian Roman/ Joe Toth
+
+The Technology Services Room is a flexible, Timber Square is a hybrid steel/timber office 
+sustainable hi-tech workspace, home to IT development which has focussed on circularity 
+Services for The Championships during the from the early stages of the project, with the 
+Wimbledon Fortnight. Embodied carbon is reduced retention of over 75 per cent of the existing 
+by using a lightweight, exposed engineered structure. Beyond retention of the structure, an 
+timber superstructure on reused foundations. early audit was undertaken to target re-purposing 
+Prefabricated panels are designed for disassembly, on or off-site. New materials target higher than 
+enabling future building extension or relocation. average recycled content (steel, aluminium etc.), 
+Long-life, loose-fit principles pervade. Exposed with reversable structural connections where 
+services provide future flexibility. Passive measures possible. Traditionally high carbon internal 
+such as light-tubes and natural ventilation, minimise elements have either been designed out (ceilings) 
+operational energy use. A green roof houses PVs, or use as remanufactured products (raised access 
+and log piles for creepy-crawlies. floors).
+
+PROJECT SHOWCASE INDEX  CONTENTS  83 
+
+
+
+Triangle House UNESCO – Building V
+
+Brook Lapping Client: Private 7 Pl. de Fontenoy, 75007 Client: UNESCO
+Productions Ltd, 6 Anglers Architect:  Paris, France Architect: Patriarche
+Ln, London NW5 3DG, UK Child Graddon Lewis Status: Under Structural + Facade 
+Status: Built Structural Engineer: Construction Engineer:  
+Completion: 2020 Conisbee Completion: 2025 Eckersley O’Callaghan
+
+CDM Co-ordinator:  
+Child Graddon Lewis
+Approved building 
+inspector: Salus
+Main contractor:  
+PG Building Services Ltd
+CAD software used: Revit
+Energy Assessor:  
+ERS Consultants Ltd
+
+Triangle House is the refurbishment and extension After 55 years of operation, UNESCO’s Building 
+of a small infill site in a historic part of Kentish V is being transformed — maintaining the 
+Town, transforming a disused small office into building’s architectural heritage and reusing its 
+a 3-storey and 3-bedroom house. The design existing facade. Piloting a pioneering approach to 
+has been composed to embrace and utilise the recycling flat glass, the existing glass panels will 
+triangular footprint and existing character of the be removed, transported to a recycling factory, 
+site. The triangular site plot provided both the and remanufactured into internal glass partitions. 
+challenge and the opportunity to create a new Prefabrication in the workshop, an innovative 
+modern home by reusing existing and neighbouring block curtain wall system, and a facade kit of parts 
+building fabric to enclose and create part of the approach supports the reuse process — resulting 
+proposed 3 storeys house; harnessing where in a reduction of 500 tCO2eq and saving 113 tonnes 
+possible the existing embodied carbon from the of existing glazing (equivalent to 34 tCO2eq). 
+site context. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  84 
+
+
+
+Warwick Court Waterloo Hub
+
+Paternoster Sq, London Clients:  Kennington Rd, London, Client: Palm Holdings
+
+EC4M, UK Mitsubishi Estates London UK Architect: Studio Moren
+
+Status: Built and Stanhope Landscape Architect:  
+Status: Planning Granted Phil Allen Design
+
+Completion: 2023 Architect:  Completion: 2025 Structural Engineer:  
+
+Fletcher Priest Architects Heyne Tillet Steel
+Transport Engineer:  
+
+Sustainability and TTP Consulting
+Engineering:  Planning Consultant:  
+
+Waterman Group ROK Planning / DP9
+Services, Fire, Acoustics, 
+
+Contractor: Mace Air Quality & Sustainability 
+Consultants: Elementa Consulting
+
+Quantity Surveyor: Alinea Heritage, Townscape and 
+Planning Consultant: DP9 Archaeology Consultants:  
+
+Iceni Projects
+Verified Views: AVR London
+Community Engagement:  
+Local Dialogue
+
+Retrofit of a building on Paternoster Square, with This proposal extends a building’s life and 
+a focus on interventions that seek to revitalise revitalises a prominent intersection in London. A 
+the building include two new terraces, new six-storey hotel will be refurbished and extended 
+reconfigured reception and entrance and a while introducing a fourteen-storey tower over 
+comprehensive office floor refurbishment. By an existing car park. The retention of the existing 
+retaining 90 per cent of the structure, including the hotel on the site breathes new life into it and 
+façade, the project saved over 20,000 tonnes of reduces carbon emissions from total demolition 
+embodied carbon (71 per cent reduction). 25 tennis and rebuild. The old and new are linked through 
+courts worth of carpet tiles were reused elsewhere form, materiality and a glazed podium building 
+in the client’s portfolio. Together with enhanced creating a new place within the community to eat, 
+plant, Warwick Court achieved EPC A rating and drink and work. 
+received BREEAM Excellent certification. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  85 
+
+© Studio Moren
+
+© Selin Oktem © Stale Eriksen
+
+
+
+Zodiac Pavilion
+
+165 London Rd, Croydon, Client: Common Projects 
+London CR0 2RJ Architect: shedkm
+Status: Proposed Structural Engineer: 
+Completion: 2024 Whitby Wood
+
+Original CLT Manufacturer: 
+Egoin
+Contractor: ConstructCLT 
+Previous client:  
+Urban Splash
+
+Broad Green Common at the Zodiac development 
+in Croydon will see a timber marketing suite 
+repurposed into a new community café and 
+pavilion. The bold architecture of the pavilion will 
+enliven the high street by creating a new, visible 
+centre. The pavilion is constructed from cross 
+laminated timber and is designed and engineered 
+to produce zero fabrication waste. Structural 
+components were prefabricated offsite and 
+assembled in two days, and it can be disassembled 
+and repurposed, making it fully recyclable. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  86 
+
+© Image credit
+
+
+
+GUIDANCE & 
+TOOLS
+
+PROJECT SHOWCASE INDEX  CONTENTS  87 
+
+
+
+Circular Buildings Toolkit framework
+
+Developed by Arup and The Circular Buildings Toolkit framework, 
+the Ellen MacArthur developed by Arup and the Ellen MacArthur 
+Foundation Foundation enables you to futureproof your project. 
+
+The principles of the circular economy have been 
+translated into a prioritised set of strategies and 
+actions relevant for real estate projects. 
+
+This framework is based on relevant inter
+national best practices and policies such as the 
+EU Taxonomy. The strategies are also aligned 
+with circular economy recommendations from the 
+World Green Building Council as well as National 
+Green Building Councils.
+
+For more resources on circular economy 
+in the built environment and cities, 
+visit: ellenmacarthurfoundation.org
+
+PROJECT SHOWCASE INDEX  CONTENTS  88 
+
+
+
+Early Stage Whole Life Carbon Appraisal Tool
+
+Author: Hoare Lea At the business case appraisal stage, early 
+decisions on the extent to which a refurbishment 
+is a satisfactory alternative to new construction 
+is a strong influence in whole life carbon (WLC). In 
+refurbishment projects considering  opportunities 
+to retain building elements and maximise the use 
+of reclaimed materials will help to avoid upfront 
+carbon. To assist clients and project teams in 
+early stage decisions Hoare Lea has developed a 
+simple tool to evaluate whole life carbon outcomes 
+of different retrofit and construction scenarios. 
+
+The tool can be used to provide early estimates of 
+WLC and allow clients and consultants to compare 
+different design options.
+
+PROJECT SHOWCASE INDEX  CONTENTS  89 
+
+
+
+HTS Reused Steel Stockmatcher 
+
+Heyne Tillett Steel Heyne Tillett Steel Structural & Civil Engineers The HTS Stockmatcher is based in Excel, it runs 
+has built a tool to facilitate using reclaimed in seconds and provides outputs that are easy 
+steel in new building projects. The HTS to interrogate. This means no design software is 
+Reused Steel Stockmatcher is an innovative required to run it, making it accessible to all in the 
+tool for fast and accurate stock matching industry. We hope it encourages the exploration and 
+of reused steel in new structures. uptake of reused steel in buildings across London.”
+
+The system is based in Excel with Python-based Laura Batty, Associate, Technical Research & 
+functions to carry out the evaluation. It compares Sustainability, Heyne Tillett Steel
+steel stock lists from reused stockholders with 
+a design list to automatically find ideal pairings, 
+where the section properties and the lengths are 
+close matches. It has extra features to maximise 
+efficiency: as stock beams are assigned, their 
+offcuts are fed back into the stockpile and to 
+be matched with other beams. It also optimises 
+the process by repeating the exercise through 
+automatically shuffled design lists and selects 
+the cycle with the best overall material efficiency. 
+The HTS Stockmatcher requires only Excel to run. 
+It quickly solves the current problem of how to 
+best use reclaimed steel in buildings, maximising 
+the efficient use of this low carbon material. The 
+interface is simple, the inputs are flexible, and the 
+results can be easily interrogated. 
+
+The HTS Stockmatcher will be released for free to 
+the industry in June 2023. 
+
+“At its core the HTS Stockmatcher is a solution to 
+a simple question: how can we best use reclaimed 
+steel in new buildings? The key challenge is that 
+the exact steel beams and columns you need are 
+not likely to be in the pile. This forced us to make 
+our own system. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  90 
+
+©Philip Vile © Liam Ross
+
+
+
+Waterman Materials Passports Framework Used Element 
+Re-use Warranties
+
+Documentation Lifecycle
+Standardisation Documentation
+
+Lead Author:  The re-use of materials has been identified as which can result in automating the process of Materials
+
+Waterman Group  a crucial strategy for addressing the climate producing MPs for whole buildings. In addition, the 
+Contributor: BRE emergency and is central to our industry’s plans for Framework provides clarity on how BIM models 
+
+delivering a Net Zero built environment. can support the production of MPs, and offers 
+Contributor: CIRCuIT recommendations for their implementation, 
+
+Waterman’s innovative Materials Passports detailing the required steps and outlining key UK Materials Building Level
+
+(MPs) initiative is helping maximise the circularity Stock Database Passport
+
+roles and responsibilities. Finally, the document 
+of construction materials by documenting summaries the ‘next steps’ needed to establish the 
+their identity, specifications and performance production of MPs as industry standard practice. Urban Mining & Assessments
+
+Materials Exchange Automation
+
+throughout their lifecycle. MPs are currently City & Buildings
+Country
+
+being piloted at BauMont Real Estate Capital and “The Materials Passports Framework is a new 
+Materials End Facility Management
+
+YardNine’s Edenica commercial development in the initiative for our industry. We started from a blank of Life Documentation Documentation
+
+City of London, where they are helping to increase canvas, so this document acts as a baseline to 
+the material lifespan and whole life value of key set out the key attributes, levels and processes Net Zero Buildings as
+
+Performance Banks of Materials
+structural elements. which underpin the production of Materials 
+
+Passports. This initiative has the potential to re-
+Representing the next step in bringing MPs to the shape our sector’s approach to design, seeing 
+wider industry, the Material Passport Framework circularity designed-in from the outset. We believe Embodied
+
+document was developed by Waterman following Carbon Assessment
+
+this document will provide the foundation to help 
+detailed research and collaboration with CIRCuIT maximise the impact of Materials Passports, 
+and BRE. This document presents a standardised establishing a new benchmark for recording and 
+approach to creating Materials Passports which formalising circularity within our industry with the 
+can be applied to any type or scale of construction, End of Circularity
+
+ultimate aim of driving a thriving circular economy.” Life Report Performance Report
+
+refurbishment or infrastructure scheme, with the 
+aim of kick-starting a thriving circular economy. Mark Terndrup, Waterman’s Managing Director of 
+
+The document will be presented to industry bodies Building Services – South
+and policy makers, with the aim of seeing Materials 
+Passports adopted as part of their wider circular 
+
+Facility Management Disassembly
+economy strategies. Performance Manual
+
+The document defines what MPs are, outlines their 
+scope and explains the benefits of the different 
+levels. It also details the content and structure 
+
+Maintenance Re-use and 
+for each level, providing clarity on the data Schedule Re-cyclcing Catalogue
+
+structure of MPs and identifying links between 
+the building level and product level passports, 
+
+PROJECT SHOWCASE INDEX  CONTENTS  91 
+
+
+
+Circular Economy and Hierarchy of Responsible 
+Reuse: Guidance for Retrofit 
+Designers  
+
+Authors: Elliott Wood Author: Laura Baron,  
+Contributors: GBG, Orms, Head of Sustainability, 
+LWARB (Now ReLondon), Purcell
+Rotor, HETA, Arup, 
+Ramboll, Beale & Co, Civic 
+Engineers, Reusefully Ltd, 
+Urban Flows Observatory, 
+The University of Sheffield, 
+Imagine Engineering, MHA 
+Structural Design, Griffiths 
+& Armour, McGee.
+
+The Circular economy and reuse: guidance for Purcell developed a Hierarchy of Responsible 
+designers provides actionable guidance for Retrofit which is based on a ‘whole building’ 
+incorporating circular principles on engineering approach, which considers a building as a system 
+projects, enabling structural engineers to lead of interconnected materials, functions and users, 
+clients and project teams through the process. and founded on the principle that the greenest 
+
+(and cheapest) energy, is the energy you don’t use. 
+Much can be achieved by changing behaviour, 
+avoiding waste, using efficient controls, equipment 
+and materials. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  92 
+
+
+
+The ‘Full Circle to Reuse’ The Mayors’ London 
+Guide Plan Guidance: Circular 
+
+Economy Statements 
+
+Authors:  Greater London Authority
+Elliott Wood, Grosvenor Contributors:  
+Britain and Ireland Built environment 
+
+stakeholders including 
+developers, architects, 
+contractors, technical 
+consultants, the public 
+sector and academia.
+
+Working with Grosvenor, Elliott Wood’s 12-step London consumes 400 million tonnes of material 
+‘Full Circle to Reuse’ guide sets out an actionable each year and accounts for 48 per cent of waste. 
+framework to help architects, developers, The first of its kind, the Mayors’ London Plan 
+construction, contractor and demolition firms take Guidance on Circular Economy Statements will 
+steps to implement reuse on their schemes. It is help reduce construction waste and associated 
+mapped against the RIBA Plan of Work 2020 and emissions through incorporation of circular 
+available to download on Elliott Wood’s website. principles into the design, construction and 
+
+operation of a development — supporting London’s 
+transition to circular economy.
+
+PROJECT SHOWCASE INDEX  CONTENTS  93 
+
+
+
+The Structural Carbon 
+Tool
+
+Author: Elliott Wood, 
+Institution of Structural 
+Engineers
+
+Developed by Elliott Wood in conjunction with 
+IStructE, this carbon estimator was donated 
+to the industry to empower all engineering 
+firms to reduce the embodied carbon in their 
+designs — regardless of the firm’s size or 
+resources. Downloaded over 7,000 times 
+worldwide, the tool won Best Sustainability 
+Initiative at the Memcom Excellence Awards 2022.
+
+PROJECT SHOWCASE INDEX  CONTENTS  94 
+
+
+
+RESEARCH & 
+CONCEPTS
+
+PROJECT SHOWCASE INDEX  CONTENTS  95 
+
+
+
+Afterlife Babassu Fibre-
+Reinforced Natural 
+Rubber Bio-composite
+
+Architect:  Author: Tropisms / 
+NAME Architecture German Nieva
+Structural Consultant: Research Development: 
+Engineeria Bio-ID (University College 
+Environmental Consultant: London)
+XCO2 Material Test:  
+Fire Consultant: AURA Fire Bangor Biocomposite 
+
+Centre (Bangor University)
+QS: CAST consultancy
+
+Material Provider: 
+Associação de 
+Emprendedores Rurais de 
+
+Afterlife is a design concept that works with existing The research concentrates on how the largely 
+structures and retrofits them for new, greener uses disposed by-products from the babassu palm 
+with pre-fabricated dwelling units and communal tree industry and the liquid natural rubber latex 
+amenities. Sustainable materials or those that extracted from rubber trees can help produce local 
+sequester carbon are used for the new insertions. construction material on-demand to substitute 
+Designed with pre-fabricated dwelling units made the use of plastic sheets in rural projects in Brazil. 
+using natural and innovative biomaterials, this Rubber and babassu occurrence overlap in several 
+project aims to achieve enhanced environmental regions, hence the relevance of the study to local 
+sustainability. The proposal aspires to be net zero economies. 
+or carbon positive over its lifetime. The proposal 
+was developed as a generic concept to be tested on 
+several sites — this is currently being undertaken 
+both in the UK and France, confronting the idea to the 
+various regulations and site conditions.
+
+PROJECT SHOWCASE INDEX  CONTENTS  96 
+
+
+
+Crinkle-Crankle RightSizer at Meridian 
+Concrete Water
+
+AKT II, White Collar Client:  Pickett’s Lock Ln, London Client:  
+Factory, 1 Old Street Yard, Seratech & London Design N9 0BA, UK London Borough of Enfield
+London EC1Y 2AS Festival Status: Proposed Architect:  
+Status: Built Designer: AKT II Completion: 2025 Assael Architecture
+
+Completion: 2022 Contractor: Byrne Bros Structural Engineer, M&E / 
+Sustainability Engineer, Cost 
+Consultant: AECOM
+Landscape Architect: 
+Exterior Architecture
+Collaborating Architect: 
+ArchitectureDoingPlace
+Social Value:  
+Hatch Regeneris
+
+This architectural installation — for the 2022 A collaborative project with the UKGBC, CIRCuIT 
+London Design Festival (LDF) — leverages an and Futureground, RightSizer sets a roadmap 
+Ancient Egyptian wall-building technique for to circular MMC on large-scale developments 
+the first public showcase of Seratech’s novel and targets whole lifecycle embodied carbon 
+carbon-neutral concrete. The blocks together tell emissions of 300kgCO2e/m2, closely aligning with 
+Seratech’s story; each one shows a unique step LETI 2030 guidance. This is achieved through 
+in the material’s development from traditional a structure designed entirely for disassembly 
+Portland cement through to Seratech’s novel and reuse, with standardised components, 
+cement-replacement. interoperable connections and digital passports to 
+
+enable buildings to be reconfigured for many uses 
+long into the future, and is maximised by locally 
+manufactured components and new recycling 
+technologies such as low-carbon cement. 
+
+PROJECT SHOWCASE INDEX  CONTENTS  97 
+
+© Mark Harrington / AKT II © Mark Harrington / AKT II
+
+
+
+ENDNOTES 
+AND FURTHER 
+READING
+
+CONTENTS  98 
+
+
+
+ENDNOTES
+
+1	 https://ellenmacarthurfoundation.org/ 9	 https://democracy.cityoflondon.gov.uk/ 21	 https://restado.de
+topics/circular-economy-introduction/ documents/s170400/220525_WLCA%20
+
+22	 https://www.apur.org/en/our-works/new-
+overview#principles optioneering_Final_06.pdf
+
+demolition-database-building-and-public-works-
+2	 h ttps://ellenmacarthurfoundation.org/topics/built- 10	 https://urban.brussels/en/news/good-living-2 btp-waste
+
+environment/overview
+11	 h ttps://globechain.com/, Enviromate https://www. 23	 https://ukgbc.org/wp-content/uploads/2023/01/
+
+enviromate.co.uk/ Circular-Economy-System-Enablers-Report.pdf
+3	 ( Climate Change Committee: Report ‘Progress in 
+
+reducing emissions – 2023 report to Parliament’) 12	 https://www.london.gov.uk/sites/default/ 24	 https://www.architectscan.org/planning-for-a-
+files/2022_06_dead_spaces_sian_berry_am_final.pdf greener-future
+
+4	 h ttps://ellenmacarthurfoundation.org/
+13	 https://www.sciencedirect.com/science/article/pii/ 25	 https://www.architectsjournal.co.uk/news/
+
+topics/circular-economy-introduction/
+S0959652622048090 introducing-retrofirst-a-new-aj-campaign-
+
+overview#principles
+championing-reuse-in-the-built-environment
+
+14	 https://www.stonecycling.com
+5	 https://relondon.gov.uk/wp-content/
+
+26	 https://www.leti.uk/_files/ugd/252d09_
+uploads/2021/06/ReLondon-Sourcing-reclaimed- 15	 https://relondon.gov.uk/wp-content/
+
+ecec993000bf4cf 
+construction-materials-May-2021.pdf uploads/2021/06/ReLondon-Sourcing-reclaimed-
+
+9acba953b845eb9af.pdf
+construction-materials-May-2021.pdf
+
+6	 https://globechain.com/, Enviromate https://www.
+enviromate.co.uk/ 16	 https://ce-toolkit.dhub.arup.com
+
+7	 https://relondon.gov.uk/wp-content/ 17	 https://globechain.com/, Enviromate https://www.
+uploads/2021/03/LWARB-Londons-CE-route- enviromate.co.uk/
+map_16.6.17a_singlepages_sml.pdf
+
+18	 https://communitywoodrecycling.org.uk
+8	 https://www.routledge.com/Building-Revolutions-
+
+19	 https://excessmaterialsexchange.com/en_us/
+Applying-the-Circular-Economy-to-the-Built-
+Environment/Cheshire/p/book/9781859466452 20	 https://rotordc.com
+
+ENDNOTES CONTENTS  99 
+
+
+
+FURTHER READING
+
+�	 Sourcing reclaimed construction �	 Retrofit First, Not Retrofit Only: A focus 
+materials – ReLondon  on the retrofit and redevelopment 
+
+of 20th century buildings – London 
+�	 Circular Economy playbook – the Property Alliance 
+
+Danish Design Centre 
+�	 FCRBE: Facilitating the circulation 
+
+�	 The Full Circle to Reuse Guide – Elliott of reclaimed building elements in 
+Wood and Grosvenor Britain & Ireland  Northwestern Europe 
+
+�	 London Plan Guidance: Circular �	 Reuse toolkit – Rotor 
+Economy Statements – The Mayor of 
+London 
+
+�	 The Handbook to building a circular 
+economy – David Cheshire 
+
+�	 Circular Buildings toolkit – Arup 
+
+FURTHER READING CONTENTS  100 
+
+
+
+ACKNOWLEDGEMENTS
+
+CONTENTS  101 
+
+
+
+ACKNOWLEDGEMENTS
+
+Special thanks to the following people for Laura Batty,  Penny Gowler,  Sunand Prasad,  Marion Baeli,  Eleni Makri,  
+Associate, Technical  Director, Elliott Wood Chair, UKGBC / Principal, Partner, PDP London Associate Director,  
+
+sharing their time, expertise and insights, Research and Sustainability,  Perkins&Will Stanton Willams
+and their own research through interviews, Heyne Tillett Steel Rachel Hoolahan,  Ashley Bateson,  
+
+Associate, Orms Colin Rose,  Partner, Hoare Lea (Chair) Juliette Morgan,  
+discussion and/or participation in NLA Ruth Beddow,  Strategic Advisor and ESG Consultancy Director, 
+workshops and events: Principal Policy Officer, Bobbie Lambert,  Partnership Lead –  Louisa Bowles,  Gensler
+
+Innovation and Change,  Sustainability Consultant, Built Environment, ReLondon Partner –Sustainability Lead, 
+City of Westminster Hoare Lea Hawkins\Brown Rachael Owens,  
+
+Charlie Scott,  Head of Sustainability,  
+With thanks to Ruth Slavid, researcher of the NLA Rafe Bertram,  Kai Liebetanz, (he/him)  Director, Waterman Group Jenny Colville,  Buckley Gray Yeoman
+report: Circular London: building a renewable city Sustainability Lead, Meridian Senior Sustainability Advisor, Head of Sustainability, 
+
+Water Joint Interim Head UK Green, Building Council Peter Swallow,  LandSec Charlie Scott,  
+Editor: Federico Ortiz, Laura Bernard of Climate Action and Sustainability Lead, Grimshaw Board director,  
+
+Sustainability, London Matthew Morris,  Kristen Guida,  Waterman Group
+Design: Ruby Bergin
+
+Borough of Enfield Architectural Technologist at Becci Taylor,  Manager – London Climate 
+Hawkins\Brown Director, Arup Change Partnership, GLA
+
+Marketing and communications: Sophie Goff
+David Cheshire,  
+Director, AECOM Joshua Newton,  Gabriele Tomassini,  Simon Hatherley,  
+
+Cities Programme Manager, Design Manager, Regal Architect and Researcher, 
+Rosie Day,  Ellen MacArthur Foundation London UCL Institute for 
+Director,  Environmental Design and 
+London Property Alliance Clive Nichol,  Hannah White,  Engineering, AHMM
+
+CEO, Fabrix Senior Associate, Fabrix
+Tessa Devreese,  Golnaz Ighany,  
+Project Manager, ReLondon Gerry O’Brien,  Debbie Whitefield,  Director, Architect-
+
+Design Director, AKTII Director – Impact, Fabrix Sustainability, BDP
+Kirsty Draper,  
+Head of Sustainability for  Rachael Owens,  
+UK Agency, JLL Head of Sustainability,  NLA EXPERT PANEL Dorte Rich Joergensen, 
+
+Buckley Gray Yeoman ON NET ZERO Associated Principal in 
+Sustainability Consultancy, 
+
+Russell Eggar,  Elementa Consulting
+Senior Manager, Public Relations Tina Paillet,  Gareth Atkinson,  
+and External Affairs, BDP Co-founder Circotrade and Director – London,  Kerstin Kane,  
+
+President Elect RICS Civic Engineers Principal Planning Officer – 
+Steve Gilchrist,  Sustainability, City of London
+Property Director,  Anastasiya Popova, Lucy Atlee,  
+Grosvenor Property UK Sustainability Lead, Staticus Quality & Design Manager, TfL Georgia Laganakou,  
+
+Head of Sustainability, Hopkins
+
+ACKNOWLEDGEMENTS CONTENTS  102 
+
+
+
+NLA Principal Partners
+
+NLA Champions
+
+CONTENTS  103 
+
+
+
+NLA is London’s built environment NLA 
+community; a membership organisation for  
+everyone with an interest in London’s built nla.london 
+environment. Its purpose is to help make 
+London a better place to live, work and visit. info@nla.london 
+Its mission is to engage with professionals, 
+politicians and the public to deliver positive +44 (0)207 636 4044
+change in the city.
+
+  @nlalondon
+
+NLA's activities include events, exhibitions,   @nlalondon
+tours, research, publications, learning,   NLA
+websites and social media, awards and 
+competitions, as well as the London Festival 
+
+The London Centre 
+of Architecture. NLA's public gallery and 
+
+3 Aldermanbury 
+event space, the London Centre, is based 
+
+London EC2V 7HH 
+in the City of London and hosts its London 
+
+ 
+Models.
+
+thelondoncentre.org 
+
+Join our community today 
+
+Principal Partners
+
+CONTENTS  104

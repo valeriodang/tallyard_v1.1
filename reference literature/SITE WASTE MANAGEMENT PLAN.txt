@@ -1,0 +1,979 @@
+﻿Site W  aste Management Plan 
+ Museu m Street  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Contents 
+1. Responsibilities ................................................................................................................................................................. 4 
+
+2. Materials resource efficiency ......................................................................................................................................... 4 
+
+3. Procedures for minimising hazardous waste................................................................................................................. 4 
+
+4. Procedures for monitoring, measuring and reporting hazardous and non-hazardous site waste ........................... 5 
+
+5. Waste – minimisation target and waste minimisation actions .................................................................................... 6 
+
+6. Waste Management ...................................................................................................................................................... 7 
+
+6.1 Sorting, reusing and recycling construction waste into defined waste groups, either on site or through a 
+licensed external contractor. .................................................................................................................................................. 7 
+
+6.1.1  Onsite waste management .......................................................................................................................................... 7 
+
+6.1.2  Segregation.................................................................................................................................................................... 8 
+
+6.2 Off-site Waste Management ............................................................................................................................................. 8 
+
+6.3 Waste Controls and Handling.......................................................................................................................................... 11 
+
+6.4 Responsibility for waste management ............................................................................................................................ 11 
+
+6.5 Site Security ....................................................................................................................................................................... 11 
+
+7. Sustainability ....................................................................................................................................................................... 12 
+
+7.1 Sustainable procurement ................................................................................................................................................ 12 
+
+7.2 The Proximate Principle .................................................................................................................................................... 12 
+
+8. Implementation of the Site Waste Management Plan .............................................................................................. 13 
+
+8.1  Register of Waste Carrier Licences and Permits ........................................................................................................ 13 
+
+9. Training & Communication .......................................................................................................................................... 14 
+
+10. Monitoring ..................................................................................................................................................................... 14 
+
+11. Summary of generated quantities of waste by groupings according to European Waste Catalogue ................ 15 
+
+11.1  The total amount and proportion of generated waste arising that was either reused, recycled and diverted 
+from landfill as per target of: 80% by tonnage ..................................................................................................................... 15 
+
+12. Total generated amount of wastes quantities ........................................................................................................... 15 
+
+13. Estimated versus actual waste quantities ................................................................................................................... 16 
+
+14. Post completion ............................................................................................................................................................ 18 
+
+14.1 Deviations ...................................................................................................................................................................... 18 
+
+14.2 Estimate of cost savings ................................................................................................................................................. 18 
+
+ 
+
+ 
+
+ 
+
+2 
+       
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Client Lab Selkirk House Ltd. 
+
+Principal Contractor John F Hunt 
+
+Name of person in charge of 
+Irfan Quraishi 
+
+project 
+
+Author of SWMP Tom Seath 
+
+Waste Champion name Irfan Quraishi 
+
+Project title / reference Museum Street  
+
+Project location Museum St, London WC1A 1EP 
+Project cost (estimated) TBC 
+
+Building footprint (m2) 3419m2 
+
+Start date February 25 
+Completion date TBC 
+Description of project scope Soft strip and Demolition 
+Person responsible for SWMP Irfan Quraishi 
+
+ 
+
+Revision Prepared by Checked Issue date Issued to 
+No 
+01 Tom Seath Irfan Quraishi 13/11/24 G&T / GXN 
+02 Daniel Sweeney Irfan Quraishi 15/11/24 G&T / GXN 
+03 Daniel Sweeney Irfan Quraishi 05/12/24 G&T / GXN 
+
+ 
+This document is required and aims at providing the information required for planning 
+condition 44 Reuse and Recycling of Material. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3 
+
+       
+
+ 
+
+
+
+ 
+
+1. Responsibilities 
+The Senior Project Manager is the environmental co-ordinator for the project and as such is 
+responsible for instructing workers, overseeing and documenting results of the SWMP. The 
+Environmental Department will monitor the effectiveness and accuracy of the documentation 
+during the routine site visits.  The principal contractor shall distribute copies of this plan to the 
+Principal Designer, Client, Site Manager and each Subcontractor. This will be undertaken every 
+time the plan is updated. 
+
+2. Materials resource efficiency 
+ 
+We have looked at how we can minimise the waste produced, thereby reducing the amount 
+of waste to be removed from the project.  Trade Contractors, Design Team and Suppliers are 
+all being encouraged to look at ways to minimise the amount of waste produced at the work 
+face. The aim is to maximise the use of reclaimed or recycled material throughout the design 
+where feasible, to reuse material on site in line with the waste hierarchy and reuse and 
+recycling of material offsite where re-use is not practical. Furthermore, the logistics plan for the 
+project will go hand in hand with this document to ensure that due thought is given to material 
+requirements. This will enable efficient management of the delivery and storage of material 
+and will ensure that the most effective logistic methods are adopted.  
+ 
+
+Waste minimisation statement 
+The use of the waste hierarchy shall be adopted wherever possible to re-use, recycle 
+waste generated on site other than final disposal. A ground level processing area will 
+be created where we separate all waste streams. Further segregation of the waste 
+streams on site will reduce lorry movements and allow potential for further re-cycling. 
+
+ 
+
+3. Procedures for minimising hazardous waste 
+ 
+The waste hierarchy will be used on all projects where possible. The identification of hazardous 
+waste on a project will result in the segregation of the hazardous waste. Hazardous waste 
+(England and Wales) Regulations 2005 (as amended) set out the requirements for controlling 
+and tracking the movement of hazardous waste and bans the mixing of different types of 
+waste. Waste duty of care will also apply to all hazardousness waste before it is collected, 
+disposed of or recovered, including all Hazardous Waste Consignment Notes. All hazardous 
+waste will be stored separately in a designated COSHH area. The use of Technical Guidance 
+WM3: Waste Classification - Guidance on the classification and assessment of waste will be 
+
+4 
+       
+
+ 
+
+
+
+ 
+
+used to assess hazardous waste. Inert, non-hazardous and hazardous wastes destined to 
+landfilled will be pre-treated prior to disposal in accordance with the EU Landfill Directive 
+(1999/31/EC). Treatment can comprise physical, thermal, chemical or biological processes 
+providing that they change the characteristics of the waste in order to reduce its volume or 
+hazardous nature or to facilitate its handling or recovery. 
+ 
+Actions taken to reduce the amount of waste arising are recorded in the table below: 
+ 
+
+Planning Resource 
+waste Waste minimisation  Saving Date action 
+
+Responsibility 
+minimisation decisions taken (quantify if commenced 
+during possible) 
+
+The segregation of different waste  Project  
+streams for recycling. Where possible Manager 
+
+Demolition circular economy principles will be used 
+throughout the job to either reduce, 
+reuse and recycle. John F Hunt will aim 
+for 95% waste diverted from landfill. 
+
+ 
+All the above act to reduce the amount of waste and surplus materials, which traditionally 
+would be skipped and sent to landfill. We are continually identifying waste minimisation 
+actions and these will be updated in the above table. 
+ 
+
+4. Procedures for monitoring, measuring and reporting 
+hazardous and non-hazardous site waste  
+
+ 
+All waste that leaves the site will be recorded by the relevantly trained personal in the Good 
+out Report (GoR). This will include:  
+  
+
+• Date 
+• Hazardous Waste Consignment Notes (HWCN) and Waste Transfer Number (WTN) 
+
+numbers  
+• Weight 
+• Hauliers name and destination  
+• Vehicle registration  
+• If it is a hazardous or non-hazardous waste 
+• EWC code 
+
+ 
+
+5 
+       
+
+ 
+
+
+
+ 
+
+The site will confirm that all WTN and HWCN are applying to the waste hierarchy when 
+transferring waste. All Transfer notes must also have the Standard Industrial Classification (SIC) 
+code of the person transferring the waste. All WTN and HWCN will be kept during the duration 
+of the project. After which, all WTN will be kept for two years and HWCN will be kept for three 
+years.  
+ 
+Weight Information from the WTN or HWCN will be entered onto the John F Hunt Site Waste 
+Quantities spreadsheet which includes types of waste and quantities generated onsite. All 
+estimates of waste production will be compared to actuals on completion of the project. The 
+site will produce and communicate regular Monthly Environmental Reports which records the 
+types and quantities of waste produced (Waste Data Sheet) on-site and the CO2 emissions 
+arising from site operations such as fuel, electricity, vehicle movements and water 
+consumption. If applicable, the project will also report how much water has been 
+discharged/used on site. A copy of the discharge license plus the schedule of conditions will 
+be kept in the site filing system. On completion of the project, the SWMP and all associated 
+documentation will be forwarded to the Client and the newly appointed Principal Contractor. 
+A copy of the documents will be archived electronically. The site will obtain full environmental 
+permits, exemptions or other evidence will be obtained and checked to ensure that disposal 
+locations can accept the waste type to be sent there, and in the quantity required.  
+ 
+
+5. Waste – minimisation target and waste minimisation actions 
+ 
+A target has been set to reuse, recycle or recover 98% of overall non-hazardous demolition 
+waste generated by Museum Street (St Giles Quarter) Project. John F Hunt will fully comply to 
+the Environmental protection Act 1990 and Hazardous Waste (England & Wales) Regulations 
+2005, furthermore, John F Hunt will look at waste reduction through re-recycling and reuse on 
+waste onsite or off-site. All associated works will be carried out in such a way that will, so far as 
+is reasonably practicable, reduce the amount of waste leaving site and amount of waste 
+being disposed of. John F Hunt will adopt certain waste minimisation practices that would 
+ensure that the overall quantities of materials not beneficially used onsite is kept to a minimum. 
+This includes:  
+ 
+
+• Decrease the need for temporary work 
+• Crushing inert waste onsite and using for backfill 
+• Just in time delivery of materials to prevent spoilage  
+• Ordering the correct materials and in bulk if appropriate 
+• Recording material delivered onsite and dispatched 
+
+6 
+       
+
+ 
+
+
+
+ 
+
+• Not over-ordering materials  
+• Where possible packaging would be kept on until the last moment, material suppliers 
+
+will be asked to collect packaging for reuses 
+
+6. Waste Management 
+Surplus or waste materials arise from either the materials imported to site or from those 
+generated onsite. Imported materials are those, which are brought to the project for inclusion 
+into the permanent works. Generated materials are those, which exist on the project such as 
+topsoil, sub-soil, trees and materials from demolition works etc. However, there are other 
+considerations to waste management such as waste reduction, segregation of waste, disposal 
+of waste, financial impacts of waste disposal and recording, monitoring, education and 
+reviewing. This plan outlines the procedures that have been put into place and demonstrate 
+how they benefit the environment, how we can measure the effects and how these 
+procedures and practices are sustainable. 
+ 
+6.1 Sorting, reusing and recycling construction waste into defined waste groups, 
+
+either on site or through a licensed external contractor.  
+
+6.1.1  Onsite waste management   
+ 
+John F Hunt will manage the onsite waste by: 
+ 
+
+• John F Hunt will segregate waste at the source were reasonably practical.  
+• All waste will be segregated into different waste streams using skips or containers for 
+
+both hazardous and non-hazardous use.  
+• Where reasonably practical all waste will be clearly labelled, colour coded and 
+
+signposted to reduce risk of cross-contamination, this will promote effective 
+segregation of waste onsite.  
+
+• Ideally, labels should contain images or material icons to assist staff and sub-
+contractors who maybe not have English as their first language.  
+
+• There will be training of staff though Toot Box Talk (TBT) of practical ways to manage 
+and handle materials to maximise their re-use, recycling, and recovery potential.  
+
+• Waste containers will be covered where reasonably practical to present littler and 
+dust from escaping and rain waste from accumulating.  
+
+• Regular inspection of waste containers will happen onsite, and replacement of 
+containers when full.  
+
+• There will be no burning of waste or unwanted material onsite.  
+• All waste generated will be stored in designated areas isolated from surface 
+
+7 
+       
+
+ 
+
+
+
+ 
+
+drainage  
+• All liquids and soils of a potentially hazardous nature are to be stored in designated 
+
+location within specific measure content include. 
+• Appropriate handling and disposal of pile arising, concert, pastes and / or grouts 
+
+during the laying of foundations will be undertaken.  
+• Ensure imported soil in soft landscaped area meet appropriate physical and 
+
+chemical criteria as set out within the remediation strategy 
+
+6.1.2  Segregation  
+ 
+Management of separate waste streams onsite will require consideration of storage space of 
+waste which is usually in skip form. Specific areas will be used as the demolition and 
+construction progresses these will be within the demolition and construction working area 
+within these specific areas 40/20/10 yard skips will be placed. Recycling and waste bins are to 
+be kept clean and clearly marked to avoid contamination of materials. If the skips are clearly 
+identified the bulk of the workforce will deposit the correct materials into the correct skip. This 
+process will be constantly monitored by the site management team. Skips for segregation of 
+waste identified currently are: 
+
+• Wood 
+• Ferrous Metal 
+• Non-ferrous metal 
+• Canteen waste 
+• Asbestos (notifiable) 
+• Asbestos (non-notifiable) 
+• Demolition waste (soft strip) 
+• Plasterboard. 
+• Concrete 
+• Brick Rubble  
+• Plant/Machinery 
+
+ 
+All Inert waste arising from the demolition phase of the project will be stored in a designated 
+stockpile area. This will be reused and recovered through the process of crushing on site.  
+
+6.2 Off-site Waste Management 
+ 
+All off-site waste recycling, treatment and disposal would be undertaken by a suitable waste 
+management contractor who has the necessary permits, licences and facility to facilitate the 
+recovery, recycling, reuse and disposal of the waste. The transportation of the material 
+resources and waste arising would take place by road from material suppliers and waste 
+
+8 
+       
+
+ 
+
+
+
+ 
+
+management facilities. John F Hunt will be responsible for identifying and procuring one or 
+more waste management companies to provide the container (skips), collect, transportation 
+and management of the waste.  
+ 
+The following BREEAM targets have been set out in document SQQ-GXN-WSC-XX-SP-Y-10902 
+and summarised below. 
+ 
+John F Hunt will meet or exceed the following benchmarks for non-hazardous construction 
+waste (excluding demolition and excavation waste): 
+
+• ≤ 7.5 m3 waste generated per 100m2 GIA, and 
+• ≤ 6.5 tonnes waste generated per 100m2 GIA. 
+
+ 
+John F hunt will meet or exceed the following diversion from landfill benchmarks for 
+non0hazardous construction waste and demolition and excavation waste generated: 
+
+• Non-demolition   at least 70% (by volume) and 80% (by mass) 
+• Demolition    at least 80% (by volume) and 90% (by mass) 
+• Excavation    n/a 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The below targets have also been set by the Client team and will be adhered to on the 
+project:  
+ 
+
+Circular Economy Targets Policy Requirement Project Target  
+Demolition waste materials (non- 95% diversion from landfill 98% diversion from landfill 
+hazardous) 
+Excavation waste materials 95% diversion to beneficial use 95% diversion to beneficial 
+
+use 
+Construction waste materials 95% diversion from landfill 95% diversion from landfill 
+Recycled content  20% (by value) 23.7% 
+
+9 
+       
+
+ 
+
+
+
+ 
+
+ 
+
+Example Waste Description: Example Potential Reuse / Recycling Route 
+
+Timber/ Wood Aim to recycle 100% using Community Wood Recycling. 
+
+Hardcore Aim to recycle via Waste Collection services 
+
+Non-ferrous metals 100% recycled.   
+Ferrous Steel not reused will be recycled.  
+
+Concrete Aim to recycle/reuse via Waste Collection services 
+
+Glass  Aim to recycle 100% using UMR Recycling. Globechain can be used for intact windows. 
+
+Brick Masonry Brick unused will be recycled. Potential for Brick Reuse study to go ahead. 
+
+Plasterboard 95% recycled into new plasterboard. 
+
+Aim for 95% suitable material to be reused using Globechain. Other material will be 
+Mixed Waste 
+
+recycled. 
+Aim for 50% to be reused using Globechain. Carpet will be recycled using Carpet Recycling 
+
+Carpet tiles, ceiling tiles and raised flooring  
+UK.  
+
+Florescent lights  50% recycled. 
+
+ 
+
+10 
+       
+
+ 
+
+
+
+ 
+
+6.3 Waste Controls and Handling 
+ 
+Declaration 
+ 
+The client and principal contractor will take all reasonable steps to ensure that: 
+
+All waste from the site is dealt with in accordance with the waste duty of care in section 34 of the 
+Environmental Protection Act 1990 and the Environmental Protection (Duty of Care) regulations 1991; 
+and Materials will be handled efficiently and waste managed appropriately. 
+
+Signatures 
+ 
+
+(Client & Principal Contractor) 
+ 
+ 
+
+6.4 Responsibility for waste management 
+ 
+
+Site Activity / Sub-
+Who is responsible for  
+
+contractor Work Primary Waste Streams 
+waste management 
+
+Package 
+Hard-core, Concrete, Timber, Plastics, Glass, 
+
+Demolition & Site 
+Plasterboard, Asbestos, Ferrous and Non-Ferrous Site Project Manager 
+
+Clearance  
+Metals   
+
+ 
+
+6.5 Site Security 
+ 
+Both client and principal contractor must take reasonable steps to ensure site security 
+measures are in place to prevent the illegal disposal of waste at the site. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+11 
+       
+
+ 
+
+
+
+ 
+
+7. Sustainability  
+
+7.1 Sustainable procurement  
+ 
+
+Where possible, the use of packaging should be minimised when delivering materials to John 
+F Hunt sites and preferably made from reused, recycled or recovered materials. It is 
+encouraged that suppliers and sub-contractors offer a take-back and collection services for 
+material and packaging. Suppliers and sub-contractors will make sure all packaging is in 
+accordance with Packaging Waste Regulations, with all associated information given to John 
+F Hunt, if required. If any non-compliancy is found or there is an unnecessary amount of 
+packaging, supplier and sub-contractors will take back the packaging at their own expense.  
+ 
+A “just-in-time” material delivery system will be in place to avoid material being stockpiled and 
+spoiling during bad weather. All material ordered will be meet the needs and quality for the 
+job that it is intended for; this will help over-ordering and generating extra waste. All new 
+material order will be segregated and stored in a designated storage area.  
+
+7.2 The Proximate Principle  
+
+ 
+The Proximity Principle states that most waste should be treated and managed within the 
+region in which it is generated provided. There should be no unacceptable adverse effects on 
+people, the environment or transportation system. The principle of regional self-sufficiency 
+cannot always be strictly applied as commercial consideration may override boundary issues.  
+Treating certain waste like special or hazardous waste might mean it will not be feasible or 
+practical to treat close to its source of arising or with the region which it is generated. The figure 
+below shows the waste recycling and recovery facility that the project will use during the 
+demolition. Other will be used for example disposal of hazardous waste, however due to the 
+nature of the waste it is not feasible or practical to treat/dispose of close to its source of arising. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 
+       
+
+ 
+
+
+
+ 
+
+8. Implementation of the Site Waste Management Plan 
+
+8.1  Register of Waste Carrier Licences and Permits 
+ 
+With respect to the waste management companies that will be removing waste from the project, the table below outlines the waste management contractors, 
+their waste management licenses, waste carrier licenses and exempt site licenses that have been checked and verified for use on this project: 
+
+e Carrier Disposal Site 
+Waste Descri   Origin (Who Wast
+ption:   produces   Licence Expiry   Licence Number / Exe
+
+EWC the waste?) Name Number  Date Name/Address mption Ref. Distance from site (miles) 
+  
+
+Timber/ Wood   05/ Wandsworth Transfer Station, 
+17.02.01 John F Hunt   
+
+5ES CBDU2397 28/ itish Rail Goods Yard, Pensbury   .8 
+69 2027 Br
+
+Place, SW8 4TR AB3700GY/V006 3
+
+    dsworth Transfer Station, 
+Mixed waste 17.09.04 John F Hunt     
+
+ CBDU2397 28/05/ Wan
+5ES British Rail Goods Yard, Pensbury   
+
+69 2027 Place, SW8 4TR AB3700GY/V006 3.8 
+
+Asbestos (non-   G. J     airview, Magpie Lane, Brentwood,   
+notifiable) 17.06.05 John F Hunt Bowm CBDU9803 01/04/ F
+
+er 1 2025 Essex, CM13 3DT   28.5 
+SP3294NT/A001 
+
+Non-     
+ferrous metals 17.04.07 John F Hunt   
+
+5ES CBDU2397 28/05/ Bidder Street, Canning Town, E16 4SZ   
+69 2027 QP3796NY/V002 7.0 
+
+Ferrous 17.04.05 John F     Bidder Street, Canning Town,   
+Hunt 5ES CBDU2397 28/05/
+
+69 2027 E16 4SZ QP3796NY/V002 7.0 
+
+  
+          Recycled Material Supplies 
+Hard-core 17.01.07 John F Hunt RMS CBDU1493 09/01/ Sunshine Wharf Bradfield Road Silvert   
+
+96 2026 own LondonE16 2AX EPR/KB3136AM 7.5 
+
+        Barking Riverside Main 
+Concrete 17.01.01 John F Hunt   
+
+SRC CBDU2027 24/10/ Entrance, Infrastructure Way, Off Cho   
+85 2026 ats Road, Barking, IG11 EPR/HB3109CX/A001 17.9 
+
+13 
+       
+
+ 
+
+
+
+ 
+
+9. Training & Communication 
+ 
+
+The contractor will provide on-site instruction of appropriate separation, handling, recycling, 
+reuse and return methods to be used by all parties at all appropriate stages of the Project. The 
+SWMP will also be mentioned in the site induction process. This will ensure that everyone feels 
+they are included and that their participation is meaningful. 
+ 
+
+10. Monitoring 
+ 
+
+The skips need to be monitored to ensure that contamination of segregated skips does not 
+occur. Therefore, we will hold regular tool box talks on how the waste management system is 
+working and point out the extra costs associated with contamination.  
+ 
+We will continually review the type of surplus materials being produced and change the site 
+set up to maximise on reuse or recycling and the use of landfill will be the last option.  
+ 
+This plan will be included as an agenda item at the weekly construction meetings. In addition, 
+the plan will be communicated to the whole project team (including the client) at the monthly 
+meetings. This will include any updates from the last version. 
+ 
+The plan will be reviewed at quarterly intervals by the Environmental Department during their 
+audits and they will be responsible for transferring any best practice and solutions throughout 
+the company.  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14 
+       
+
+ 
+
+
+
+ 
+
+ 
+
+11. Summary of generated quantities of waste by groupings 
+according to European Waste Catalogue 
+
+ 
+
+11.1  The total amount and proportion of generated waste arising that was either reused, 
+recycled and diverted from landfill as per targets set out in section 6.2 
+ 
+
+Waste Management Routes Tonnes (%) of Total Waste 
+
+Recycled   
+
+Reused on-site   
+
+Energy From Waste   
+
+Landfill   
+
+Total diverted from landfill    
+
+ 
+
+12. Total generated amount of wastes quantities 
+ 
+
+Categories The total generated amount (Tonnes) 
+
+Non-Hazardous construction waste  
+
+Hazardous construction waste  
+
+Demolition waste  
+
+Excavation waste  
+
+15 
+       
+
+ 
+
+
+
+ 
+
+13. Estimated versus actual waste quantities 
+13.1 Demolition Waste 
+
+Waste type Waste Materials Re-use on-site Re-use off-site Recycling on-site Recycling off-site Recovery off-site Sent to landfill Other disposal 
+
+ 4823.67  13667    
+Concrete 
+
+ 433.441      
+Brick 
+
+ 8.091  1.238    
+Glass  
+
+ 213.092  162.431    
+Mixed Metal 
+
+Gypsum    303.8  6.2  
+
+Plasterboard 
+   28.245    
+
+Carpet Tiles 
+
+ 117.08    5.335  
+Timber 
+
+ 9.62  31.091    
+Ceramic 
+
+ 1.598  4.28  0.653  
+Plastics 
+
+   0.16    
+Marble 
+
+ 1.813  0.341  4.224  
+Bitumen 
+
+ 
+
+16 
+       
+
+ 
+
+Non-hazardous 
+Inert 
+
+ 
+
+
+
+ 
+
+ 
+13.2 Estimated versus actual waste management routes 
+
+ 
+
+Waste type Waste Materials Re-use on-site Re-use off-site Recycling on-site Recycling off-site Recovery off-site Sent to landfill Other disposal 
+
+       
+Concrete 
+
+       
+Brick 
+
+       
+Glass  
+
+       
+Mixed Metal 
+
+Gypsum        
+Plasterboard 
+
+       
+Carpet Tiles 
+
+       
+Timber 
+
+       
+Ceramic 
+
+       
+Plastics 
+
+       
+Marble 
+
+       
+Bitumen 
+
+17 
+       
+
+ 
+
+Non-hazardous 
+Inert 
+
+ 
+
+
+
+ 
+
+14. Post completion  
+ 
+
+This section is to be completed by the JFH person responsible for waste on site within one month of the works 
+being completed. This plan has been monitored on a regular basis to ensure that work is progressing according 
+to the plan and has been updated to record details of the actual waste management actions and waste 
+transfers that have taken place. 
+The following person(s) had the responsibility 
+
+ 
+for implementing this plan: 
+
+Name  Signed  Date  
+
+14.1 Deviations 
+ 
+
+Issue Details 
+Waste forecasts – exceeded  
+
+ 
+ 
+
+Waste forecasts – not met  
+ 
+ 
+
+Other  
+
+ 
+
+14.2 Estimate of cost savings 
+ 
+
+Relevant signatures 
+ 
+
+Principal Contractor: John F Hunt Ltd Date:  
+
+Client:  Date: 
+
+ 
+Date:  
+
+SWMP Author: Tom Seath 
+ 
+
+ 
+ 
+ 
+
+18

@@ -1,0 +1,1835 @@
+﻿General
+
+FULL CIRCLE,
+FULL POTENTIAL
+
+British Land’s Approach to the Circular Economy
+
+
+
+General
+
+CONTENTS
+
+01. The Circular Economy 03
+
+02. Key Definitions 10
+
+03. British Land’s Approach & Tools 16
+
+04. Material Passports – A Deep Dive 28
+
+Full Circle, Full Potential 05. Using Material Passports 38
+British Land's Approach to the Circular Economy 
+A British Land guide, produced in collaboration with GXN
+
+06. Additional Resources 41
+Project team:
+Matt Webster (British Land)
+Sandra Sezgin (British Land)
+Emily Samoluk (British Land)
+Kåre Stokholm Poulsgaard
+Karolina Bäckman
+Mya Martin
+Sara Cozzolino
+Béla Steiner
+Kate Moss
+Adam Ozinsky
+
+© GXN 2024
+
+P R E S E N T A T I O N  T I T L E  |  0 0  M O N T H  2 0 2 2 P G . 2
+
+
+
+General
+
+01
+
+T H E  C I R C U L A R   
+E C O N O M Y
+
+P G . 3
+
+
+
+General
+
+THE CIRCULAR ECONOMY
+
+WHAT IS IT?
+
+In our current economy we extract materials from the earth, make 
+things out of them, and eventually discard them as waste. This is a 
+process which has a significant injurious impact on the planet,  
+drives climate change, biodiversity loss, waste and pollution. This 
+take-make-dispose model is known as a Linear Economy.
+
+L I N E A R  C O N S T R U C T I O N
+The Circular Economy, in contrast, aims to stop waste being 
+produced by keeping materials in use for as long as possible. This 
+results in a decoupling of economic activity from the consumption 
+of finite resources and tackles multiple global challenges at once.
+
+Circular construction is an approach to design and manufacturing 
+which targets the minimisation of waste and raw material demand 
+through material reuse, repair, refurbishment, remanufacturing, 
+and recycling. In construction, a circular approach can include: 
+
+(i) reuse of an existing asset through redevelopment
+(ii) designing a new building for prolonged lifespan through adaptability 
+
+and/or its eventual disassembly and the recoverability of its materials, 
+and 
+
+(iii) designing out waste from the construction process.
+
+Each of these approaches are crucial to minimise the need for new 
+materials in construction, and reduce waste now and in the future.
+
+C I R C U L A R  C O N S T R U C T I O N
+P G . 4
+
+
+
+General
+
+THE CIRCULAR ECONOMY
+
+WHY IS IT IMPORTANT?
+Construction and demolition waste currently makes up approximately 
+62% of the total waste produced in the UK. This equates to almost 138 
+million tonnes of material.
+
+Buildings are incredibly material intensive. Average London buildings  
+consist of ca. 1.5 tonnes/m2 of material, according to data collected by 
+the GLA, but the reality is likely to be higher. 
+
+Commercial buildings are renewed on increasingly short timeframes, 
+even though many of the materials in such buildings have a much 
+longer functional lifespan. Fit outs may be even worse, with recent 
+lease lengths for central London offices approaching five years. As a 
+result, the construction industry produces a large amount of waste 62%
+which contributes to climate change when the waste is being 
+disposed, and when new resources are extracted for the materials 
+
+OF TOTAL UK WASTE
+used as replacements.
+
+We have made significant progress in diverting waste from landfill. But, 
+except for metals which are generally recycled, most construction and 
+demolition waste is downcycled resulting in a loss of value. 138m
+British Land will deliver 4.5 million square feet by the end of the 
+decade – requiring ca. 638,000 tonnes of construction materials. 
+Adapting circular economy principles in our projects is crucial to TONNES OF 
+ensuring these materials won’t deplete the world’s resources, or go to CONSTRUCTION AND 
+waste in the future. DEMOLITION WASTE
+
+DEFRA, UK statistics on waste for the year 2018 (updated 28 June 2023)
+GLA Circular Economy Statement Guidance
+
+Devono Q1 2024 Snapshot
+
+P G . 5
+
+
+
+General
+
+THE CIRCULAR ECONOMY
+
+WHY IS IT IMPORTANT?
+
+In addition to playing a significant role in achieving British Land’s 
+sustainability goals, Circular Economy Statements are now required by 
+the Greater London Authority (GLA) for all major developments since 
+March 2022.  
+The Circular Economy Statement comes hand in hand with the Whole 
+Life-Cycle Carbon Assessment requirements which set aspirational 
+targets for different building typologies. To achieve these aspirational 
+targets, we need to be applying circular economy strategies.
+
+These requirements ask project teams, from an early stage, to 
+prioritise reducing material use in projects through reuse and 
+recycling. It asks teams to outline a circular economy strategy for the 
+project, considering both materials going into the building, and the 
+potential for them to come out from the building while maintaining 
+their value in the future.
+
+Part of the requirements is a Bill of Materials to be produced for both 
+demolition projects and new design proposals. This is an overview of 
+the materials that go into the project, their quantities, expected life 
+spans, and intended “end of life” scenarios.
+
+This information is crucial to enable reuse and recycling of materials as 
+part of the circular economy. We see a great potential to build on 
+these requirements, and produce useful Material Passports of 
+buildings which contain the necessary information to enable our 
+materials / products to participate as part of the circular economy.
+
+GLA Circular Economy Statement Guidance
+GLA Whole Life-Cycle Carbon Assessments Guidance
+
+P G . 6
+
+
+
+General
+
+THE CIRCULAR ECONOMY
+
+HOW DOES IT FIT INTO OUR LOW CARBON FUTURE?
+
+In our pathway to net zero, we commit to the following:
+
+• Reducing embodied carbon emissions in our office developments by 50% by 
+2030 (to below 500 kgCO2e/m2 for upfront embodied carbon and below 275 385tCO2 saved 
+kgCO2e/m2 for in-use embodied carbon)
+
+• Reducing operational carbon emissions across the portfolio by 75% and 
+increasing energy efficiency by 25% by 2030 Reused raised 
+
+• Offsetting residual carbon emissions using our internal transition vehicle. access floor
+2 Finsbury 
+
+To achieve these goals, we apply a systematic approach. This includes Avenue
+our approach to circular economy and materials which is: 
+
+• Prioritising re-use of existing structures / materials
+• Designing for longevity, flexibility, disassembly, deconstruction, and end of life 
+
+recoverability
+• Increasing the use of reused or recycled materials 2,400tCO2 saved 
+• Using low carbon materials wherever practical.
+
+Alongside are examples of embodied carbon savings we have 
+1 Triton Reused facade 
+
+achieved on recent projects by applying circular economy approaches. 
+Square panels
+
+The examples are based on office typologies, but the principles are 
+applicable across all our asset types.
+
+238tCO2 saved 
+
+[1] Approx. 9,500m2 RAF recovered, EDP used S-P-02797
+[2] Savings taken from UKGBC Insights on how circular economy principles can impact carbon and value 1 Broadgate  Reused structural 
+[3] 140 tonnes repurposed, ECF taken from recommended value in IStructE HTCEC v2 steel
+
+P G . 7
+
+
+
+General
+
+THE CIRCULAR ECONOMY
+
+HIERARCHY OF LOW CARBON DESIGN
+
+Reusing Lower CO2
+We recognise that, almost no matter the project, there will be 
+waste arisings from the strip out, refurbishment, deconstruction, 
+or demolition.
+
+These arisings form part of our bigger picture thinking with 
+regards to carbon and the circular economy. It is clear that these         
+are inextricably linked, and that there is no low carbon future Upcycling
+
+without a circular economy.
+USE LESS STUFF
+
+Whatever these arisings, consideration should be given to finding 
+the best routes for these products or materials. That is aiming to 
+keep elements as high up the hierarchy as possible, with 
+downcycling (and disposal to landfill) as a last resort. In the best Recycling
+cases, this results in both a carbon and resource saving.
+
+REUSE
+But sometimes this process will be at odds with low carbon 
+
+SOME STUFF
+performance. E.g. it may cost more carbon to transform a material 
+into a wall cladding than purchasing a new cladding material 
+(though the question of what happens to this discarded material SPECIFY Downcycling
+remains). This should be considered within the context of the LOW CARBON
+
+project’s specific circular economy and carbon ambitions.
+OFFSET
+
+Higher CO2
+
+Disposal
+Exclusively hazardous materials
+
+Hierarchy adapted from IStructE’s The hierarchy of net zero design
+
+P G . 8
+
+
+
+General
+
+THE CIRCULAR ECONOMY
+
+CIRCULAR CONSTRUCTION
+
+Circular construction is about maximising the lifespan of buildings, 
+their components and materials through:
+
+Deconstruction
+• Transformation of existing building Key reusable 
+
+products
+Information about future reu
+
+• Optimised reuse, upcycling and recycling of existing materials by  sability
+considering buildings as “material banks”
+
+• Designing new buildings and refurbishment in a way that makes future 
+transformation and reuse of materials easier.
+
+A key component to circular construction is Material Passports and 
+building passports which contain information about what materials 
+
+Materials 
+are in buildings, and their potential for reuse, upcycling and Mapping 
+recycling at the end of life of the material / building. Audit A new building
+
+Material from 
+
+For existing buildings, they assist in material mapping of key existing building
+
+reusable materials which can be harvested in the deconstruction 
+Design for 
+
+and the information for the project team to design with these Material and 
+adaptability & 
+
+reused or upcycled materials. It also assists determining the building passports
+disassembly
+
+potential for recycling and downcycling routes.
+
+Material passports should always be produced for new projects. By 
+doing so, and using circular strategies such as design for 
+adaptability and design for disassembly (and crucially reusability), 
+the Material Passports produced become even more valuable as An existing building
+
+the materials in the new building are intentionally designed to be New off the 
+Re-manufacturing shelf materials
+
+reused in the future, with the information required to do so 
+recorded at the time of design. This creates a closed loop of 
+
+Material to be 
+circular construction where new buildings are designed to be 
+
+reused/recycled elsewhere Materials from 
+transformed and reused in the future to maximise the lifespan of 
+
+other buildings
+the buildings themselves, and their materials.
+
+P G . 9
+
+
+
+General
+
+02
+
+K E Y  
+D E F I N I T I O N S
+
+P G . 1 0
+
+
+
+General
+
+KEY DEFINITIONS
+
+CIRCULAR ECONOMY
+
+Materials 
+Pre-
+
+Circular Mapping Audit Design for Design for 
+Redevelopment  
+
+Construction (Pre-Demolition Disassembly Adaptability
+Audit
+
+Audit)
+
+Circular construction aims A Pre-Redevelopment A Materials Mapping Audit Approach to the design of A design’s ability to be 
+to close building material Audit is a tool for (also known as a Pre- a product or constructed changed or modified to 
+loops by reusing, sharing, understanding whether Demolition Audit) is a asset that facilitates make suitable for a 
+
+leasing, repairing, existing buildings, detailed inventory of the disassembly at the end of particular purpose. 
+refurbishing, upcycling or structures and materials can materials in the building its useful life, in such a way Adaptability might refer to 
+
+recycling. It is about be retained, refurbished, or that will need to be that enables materials a quality of building 
+considering how to incorporated into the new managed upon demolition. and/or components to be systems, structure, 
+
+maximise the lifespan and development. reused, recycled, recovered solutions, products, 
+reusability of entire It should include the key for energy (ideally put to components. Adaptability 
+
+buildings or materials at the  The analysis should be components and materials other beneficial use) or, in in buildings can be 
+very start of the carried out early on (at pre- present in the existing some other way, diverted achieved through 
+design process. application stage) and buildings, with an estimate from the waste stream. application of certain 
+
+should inform the design. of the quantities, associated design strategies such as 
+embodied carbon and their Adapted from ISO ‘versatility’, ‘convertibility’ 
+
+Required for GLA referrable potential end of life 20887:2020 and ‘expandability’.
+projects with existing scenario in the waste 
+
+buildings on site. hierarchy (see next page). Adapted from ISO 
+20887:2020
+
+Required for BREEAM and 
+GLA referrable projects with 
+
+existing buildings on site.
+P G . 1 1
+
+
+
+General
+
+KEY DEFINITIONS
+
+WASTE HIERARCHY
+
+Direct Reuse Upcycling Recycling Downcycling Disposal
+
+Direct reuse of materials The transformation or Conversion of a material or Often considered within the Disposal includes both 
+and products with little or remanufacturing of product into something of “Recycling”  pathway, but in landfill and incineration. It 
+no loss of value and minor (otherwise) waste products equal or similar value or practical terms, entails the should be the destination 
+
+interventions to the and materials into products quality to the original opposite of “Upcycling”: only for true waste: 
+material. This entails and materials of higher material. the transformation of materials or products which 
+checking, cleaning, quality and/or value. products and materials into cannot technically or 
+
+repairing, and refurbishing It gives a material another products and materials of practically be reused, 
+whole items or parts. The aim is to reduce life within the same supply lower quality and/or value. upcycled, recycled or 
+
+demand for extracting raw chain, which can repeat downcycled.
+When considering reuse, materials from the earth, by indefinitely. For example,  This is the least preferable 
+we examine options for converting what would building glass being option in the waste In the UK hazardous waste 
+
+reuse within a new scheme become waste into useful recycled into new hierarchy, but can still be is governed by strict 
+as well as reuse, resale or and valuable products building glass. better than standard regulations, and will often 
+donation for off-site reuse. and materials. practice for be sent to landfill by law.
+
+certain products.
+
+P G . 1 2
+
+
+
+General
+
+KEY DEFINITIONS
+
+WASTE HIERARCHY –  EXAMPLES AND TYPICAL END OF LIFE
+
+Direct Reuse Upcycling Recycling Downcycling Disposal
+
+C-grade cullet A-grade cullet A-grade cullet
+
+Window Window Window Upcycling Partition glass Window Recycling New window Window Downcycling Glass Window Landfill
+Process wall Process Process bottle
+
+Recommended end of life for materials:
+
+• Steel • Contaminated cullet • Steel • Concrete • Contaminated materials
+
+• RAF • Timber studwork • Aluminium • Coloured glass • Chipboard
+
+• Furniture • Ductwork • Glass • Timber • Bonded insulation
+
+• Carpet tiles • Broken brick or stone • Bricks • Concrete
+
+P G . 1 3
+
+
+
+General
+
+KEY DEFINITIONS
+
+MATERIAL PASSPORTS
+
+W H A T  W E  M E A N  
+
+A Material Passport collects and organises data describing 
+pre-defined characteristics of the materials that are 
+included in products or buildings, thereby enabling 
+
+efficient re-use, recycling and recovery.
+
+P G . 1 4
+
+
+
+General
+
+KEY DEFINITIONS
+
+MATERIAL PASSPORTS
+
+An Environmental Product Declaration (EPD) is a document 
+Indicative Material Passport Information
+
+Environmental which transparently communicates the environmental 
+• Type of material(s) • Assembly/disassembly notes performance or impact of any product or material over its 
+• Quantity • EPD information Product lifetime. It can be used to provide necessary information as 
+• Dimensions • Certifications  Declaration part of a Material Passport.
+• Manufacturer • Location
+• End of life • etc.
+
+A Material Passport collects and organises data, describing 
+Material pre-defined characteristics of the materials that are included 
+
+Material Passport Passport in products or buildings, thereby enabling more efficient 
+Plywood board reuse, recycling and recovery. It can be produced for existing 
+- 120m2
+
+- PW-ABCD or new buildings.
+
+Material Passport
+A building passport is a collection of Material Passports that 
+
+Metal sheet
+- 90m2 make up an entire building. The building passport can 
+- MT_ABCD Building indicate collated data for the building, or allow for individual 
+
+Passport materials and components to be identified.
+Material Passport
+
+Metal purlins
+- 50m
+- MT_ABCF
+
+A digital twin is a digital representation of an intended or 
+Material Passport existing building, that serves as an effectively 
+
+Digital indistinguishable digital counterpart. Digital twins may 
+Timber beams
+- 110m Twin contain the building’s Material Passports, but it will also 
+- TM_ABCD
+
+contain a lot more information necessary for operations 
+and maintenance. 
+
+P G . 1 5
+
+Building Passport
+
+
+
+General
+
+03
+
+B R I T I S H  L A N D ’ S  
+A P P R O A C H  &  
+T O O L S
+
+P G . 1 6
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+OUR TARGETS AND COMMITMENTS
+
+A circular economy moves away from take-make-waste and 
+towards a model where resources retain value and use is 
+extended. The Circular Economy challenges supply chains to 
+explore creative reuse of materials in second lives and beyond 
+via reprocessing and remanufacturing with zero waste. We  
+support innovation to discover uses for ‘unwanted resources’ on 
+
+C I R C U L A R  E C O N O M Y  S T R A T E G Y
+and off site, both within and outside of our sectors.
+
+British Land encourages all projects to develop a Circular Economy Strategy from the outset. If the project is 
+Our projects should all develop a Circular Economy Strategy, GLA referrable, the strategy should align to the latest GLA Circular Economy Statement Guidance.
+including: 
+
+• All projects with existing buildings on site to undertake a Pre- E X I S T I N G  B U I L D I N G  O N  S I T E A L L  P R O J E C T S
+Redevelopment Audit to determine feasibility of reuse and adaptability.
+
+• All projects proposing demolition to produce a Materials Mapping 
+Audit (Pre-Demolition Audit) of existing materials following our British 
+Land Demolition Material Tracker.
+
+• All projects to produce a Reuse Strategy outlining the opportunities to 
+reuse or upcycle elements from existing buildings or other donor 
+buildings
+
+• All projects should optimise design for circularity including longevity, 
+flexibility, adaptability, disassembly, deconstruction and end of life P R E - M A T E R I A L S R E U S E  C I R C U L A R  M A T E R I A L  
+recoverability R E D E V E L O P M E N T  M A P P I N G S T R A T E G Y D E S I G N P A S S P O R T S
+
+• All projects should develop materials passports for materials with A U D I T A U D I T
+
+potential for future reuse, based on our British Land Material Passport 
+Protocol capturing basic data useful for future reuse or recycling of all In new projects with an If whole or partial A Reuse Strategy should From the project outset Post-construction a 
+
+materials, and detailed data for the largest packages with high reuse existing building, a Pre- demolition is to take be developed from the circular design Material Passport shall 
+
+potential. Redevelopment Audit place, a Materials outset to determine principles such as be produced to capture 
+should be conducted at Mapping Audit should how the new building building in layers, the materials used in the 
+
+Stage 1 to determine be conducted in Stage can incorporate reused design for disassembly building and detailed 
+the potential to reuse 1 to determine the and upcycled materials and design for information about the 
+
+and adapt what is optimal end of life from the existing adaptability should be key reusable materials 
+already there. routes for the building or other incorporated in for the future.
+
+existing materials. donor buildings. the design.
+
+P G . 1 7
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+KEY ACTIONS & RESPONSIBILITIES
+Strategic Definition, Concept Design Developed Design & Construction, In Use
+
+0-1 2 3-4 5-6 7
+Preparation & Brief Technical Design Handover & Close Out (typically beyond shell & core scope)
+
+Identify key circular design strategies 
+suitable for the project, and develop Work with Contractor to implement Circular Economy 
+
+Engage tenants to opt in on a 
+catalogue of reuse and upcycling Early engagement with Contractors and supply chain on strategy selected reuse and upcycling opportunities
+opportunities (from existing building or Circular Economy strategy and material reuse and Sustainability Consultant with input from wider design circular fit out strategy including 
+
+elsewhere) 2 upcycling opportunities team Material Passports
+British Land Sustainability and 
+
+Sustainability Consultant with input from Sustainability Consultant with input from wider design Circular Economy Strategy to feed into updated Site Leasing Teams
+Analyse existing building and review wider design team team Waste Management Plan and Resource Management 
+opportunities for reusing materials Seek opportunities for material 
+
+Identify key reusable materials for Continue exploring design-driven circular opportunities Plan
+from  buildings on site and/or from Material Passports Sustainability Consultant Contractor reuse, upcycling, recycling, and the 
+British Land portfolio like associated with fit out turnover 
+
+Sustainability Consultant and Architect 
+Sustainability Consultant Test Material Passport requirements and data protocols Implement Material Passports data collection for key and ongoing maintenance
+
+with input from wider design team
+and Architect with Contractor reusable materials Fit out Sustainability Consultant
+
+Identify and define a metric and target Sustainability Consultant and Contractor Contractor to prepare and quality assure submissions for 
+for future circularity review by Sustainability Consultant Update British Land Sustainability 
+
+Embed circular economy performance targets within Manager when replacing materials
+Sustainability Consultant tender documentation Work with Contractor to develop deconstruction plans Fit out Contractor with input from fit 
+Review alignment cost plan with car bon Sustainability Consultant and drawings as necessary out Sustainability Consultant
+and circular economy strategies Contractor with input from wider design team
+Sustainability and Cost Consultant 
+
+Pre-Redevelopment Audit Updated Circular Economy Strategy and targets (revisited Outline strategy for circular fit outs 
+Sustainability Consultant with Contractors) Completed, interim British Land Material Passport and retrofits
+and Architect 6 Sustainability Consultant, Architect, and Contractor 6
+
+Circular Economy Strategy Report incl. Protocol following completion of key packages (e.g. Fit out Sustainability Consultant with 
+
+Materials Mapping Audit (incl. overview of reuse and upcycling Circular Economy and Deconstruction Employer's concrete, cladding, etc.) input from British Land and PM
+Requirements 4 Contractor to prepare and quality assure submissions for 
+
+Demolition Material Tracker) opportunities and potential risks/costs Completed British Land Material 
+British Land to appoint based on Sustainability Consultant, Architect, PM with input from Sustainability Consultant and Cost review by Sustainability Consultant
+
+Passport Protocol
+project needs 1 Cost Consultant, with input from wider Consultant As-built Building Material Passport 5 at practical Fit out Contractor to prepare and 
+
+design team 6
+Brief requirements for key reusable Deconstruction Tender Template 3 completion quality assure submissions for review 
+
+GLA Circular Economy Statement 3
+materials and Material Passports Prepared by Sustainability Consultant with input from Contractor to prepare and quality assure submissions for by fit out Sustainability Consultant 
+
+Sustainability Consultant with input Sustainability Consultant Cost Consultant, and completed by Demolition review by Sustainability Consultant and British Land
+
+from wider design team Contractor
+Circular Economy targets to be Circular Economy lessons learnt report and post- Updates to existing Material 
+
+Project specific CE vision for waste, included in British Land sustainability Material Passport Employer's Requirements completion report Passports (changes from shell & core 
+Sustainability Consultant and Contractor 6
+
+reuse and Material Passport targets tracker PM with input from Sustainability Consultant and Cost and/or material replacement)
+
+to be included in British Land Sustainability Consultant with input Consultant GLA Circular Economy Statement post completion Fit out Contractor to prepare and 
+
+sustainability tracker from wider design team updates 3 quality assure submissions for review 
+GLA Circular Economy Statement updates prior to 
+
+Sustainability Consultant with input construction submission 3 Contractor by fit out Sustainability Consultant 
+
+from wider design team 6 and British Land
+Sustainability Consultant
+
+Notes: 1 Material Mapping Audits can be undertaken by several parties (Contractors, Sustainability Consultants, Engineers, or specialist 
+third parties). British Land should appoint based on the specific needs of the project.
+
+ 2 At a minimum, outline approach to reuse/upcycling, design for adaptability and design for disassembly (reusability)
+ 3 If applicable P G . 1 8
+ 4 Demolition Contractor and Main Contractor as applicable
+ 5 Collated Material Passports, see pg. 31
+ 6 All strategic documents to be reviewed by British Land
+
+Deliverables and Reporting Process 
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+RESPONSIBILITIES MATRIX
+Strategic Definition, Concept Design Developed Design & Construction, In Use
+
+0-1 2 3-4 5-6 7
+Preparation & Brief Technical Design Handover & Close Out (typically beyond shell & core scope)
+
+Role
+
+British Land 1
+
+Project Manager
+
+Architect
+
+Sustainability 
+Consultant
+
+Cost Consultant
+
+Wider Design Team
+
+Contractor
+
+Fit Out Sustainability 
+Consultant
+
+Fit Out Contractor
+
+Notes: 1 Material Mapping Audits can be undertaken by several parties (Contractors, Sustainability Consultants, 
+Engineers, or specialist third parties). British Land should appoint based on the specific needs of the project.
+
+Primary responsibility Secondary responsibility Review P G . 1 9
+
+Deliverable 
+
+Pre-Redevelopment 
+Audit
+
+Materials Mapping 
+Audit
+
+Material Passport 
+Brief Requirements
+
+Project CE Vision
+
+CE Strategy
+
+GLA CE Statement
+
+CE Targets in BL 
+Tracker
+
+Updated CE Strategy
+
+CE & Deconstruction 
+ERs
+
+Deconstruction 
+Tender Template
+
+Material Passport ERs
+
+GLA CE Statement 
+Updates
+
+Material Passport 
+Protocols (interim)
+
+Building Passport 
+(as-built)
+
+CE Lessons Learnt
+
+GLA CE Statement 
+Updates
+
+Outline Fit Out 
+Strategy
+
+Material Passport 
+Protocols
+
+Updates to Existing 
+Material Passports
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+OVERVIEW OF TOOLS
+To assist our project teams to deliver on our ambitions, we have developed a set of tools for analysis and reporting. 
+Project teams are strongly encouraged to use these tools and adapt them as according to their specific project requirements.
+
+The tools are under constant development and will be updated as required based on project feedback.
+ 
+
+A L L  P R O J E C T S E X I S T I N G  B U I L D I N G  O N  S I T E A L L  P R O J E C T S
+
+C I R C U L A R  E C O N O M Y P R E - M A T E R I A L S  R E U S E  C I R C U L A R  M A T E R I A L  
+ S T R A T E G Y R E D E V E L O P M E N T  M A P P I N G S T R A T E G Y D E S I G N P A S S P O R T S
+
+A U D I T A U D I T
+
+C I R C U L A R  E C O N O M Y  D E M O L I T I O N  M A T E R I A L  D E C O N S T R U C T I O N  C E  &  D E C O N S T R U C T I O N  M A T E R I A L  P A S S P O R T  
+S T A T E M E N T  T E M P L A T E M A T E R I A L  P A S S P O R T
+
+T R A C K E R T E N D E R  T E M P L A T E R E Q U I R E M E N T S  X 2 P R O T O C O L R E Q U I R E M E N T S
+Template that may be used to 
+
+produce circular economy reports / Produced as part of Materials Produced as part of Demolition Sample clauses for Demolition and Spreadsheet to be used for Sample clauses for Main 
+
+statements. Mapping Audit, and updated Contractor tender return to provide Main Contractors tenders, setting tracking base data of all materials, Contractor tender setting out 
+throughout to track existing feedback on end of life scenarios out deconstruction and circular and circular and product data for Material Passport requirements.
+
+materials and end of life routes. for deconstruction materials. economy reporting requirements. key reusable materials.
+
+P G . 2 0
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+CIRCULAR ECONOMY STATEMENT TEMPLATE
+
+ 
+
+What is it Who is it for When should it be used
+Our template for Circular Economy Statements is a The template can be used by Sustainability Throughout the entire design process with key 
+tool which can be used to complete a Circular Consultants to establish and report the circular milestones in:
+Economy Strategy for projects, covering the economy strategy for the project. 
+necessary aspects of our sustainability brief, as well • Stage 1
+
+as ensuring compliance with the GLA Circular If the project is GLA referable, the template can also • Planning Application
+
+be used as the Circular Economy Statement Report • Stage 4( prior to construction) 
+Economy Statement requirements (applicable to 
+
+• Stage 6 (within 2 months post-completion).
+referrable schemes only). for planning submission.
+
+The template is voluntary to use and should be 
+adapted to project specifics. The approach should 
+be agreed with the BL Sustainably Manager. It 
+encourages project teams to address key circular 
+economy topics and outline strategies for each of 
+them to be tracked throughout the project. 
+
+P G . 2 1
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+DEMOLITION MATERIAL TRACKER
+
+ 
+
+What is it Who is it for When should it be used
+This template is used as part of the Materials The Demolition Material Tracker should be filled in The template should be part of the initial Materials 
+Mapping Audit (previously Pre-Demolition Audit) to by the consultant appointed to conduct the initial Mapping Audit in RIBA Stage 1, and updated 
+record the available materials in an existing building Materials Mapping Audit, and later updated by the throughout the stages. A final version should be 
+and determine and track their best end of life Demolition Contractor. produced shortly prior to demolition, and an “as-
+scenarios. demolished” update following deconstruction 
+
+It can be used by the design team to identify including the final destinations of the respective 
+It assists in creating an overview of potential potential reuse and upcycling opportunities, and by waste streams.
+materials for reuse and upcycling within our the project team to keep track of waste streams.
+portfolio. It also forms part of mandatory reporting 
+for GLA referrable projects, and offers an 
+opportunity to track potential waste streams 
+throughout the project lifecycle.
+
+P G . 2 2
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+DECONSTRUCTION TENDER TEMPLATE
+
+What is it Who is it for When should it be used
+The Deconstruction Tender Template is used as The base content of the Deconstruction Tender As part of demolition Contractor tender.
+part of the demolition tender process. It details Template should be established by the 
+potential end of life scenarios for material arisings Sustainability Consultant early in RIBA Stage 3 (or at 
+from the Materials Mapping Audit, and collates an appropriate time ahead of the demolition 
+feedback, in a structured way, from Demolition tender).
+Contractors with regards to feasibility, cost, 
+programme, risk, practicality, etc. The Deconstruction Tender Template should form 
+
+part of the Demolition Contractor tender 
+The Deconstruction Tender Template should documents where they will be expected to input 
+outline potential end of life scenarios of available their feedback and commentary for consideration 
+materials discussed by the project team. Items by the design team. It can then be used by the 
+which are expected to form part of a base tender project team to make informed decisions of suitable 
+offer should be highlighted in green for tendering end of life scenarios.
+Contractors, with the other optional routes 
+indicated to garner Contractor feedback.
+
+P G . 2 3
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+EMPLOYER’S REQUIREMENTS:
+CIRCULAR ECONOMY & DECONSTRUCTION (DEMOLITION)
+
+ 
+
+What is it Who is it for When should it be used
+Our proforma Employer’s Requirements for Circular The template is to be used by project teams in As part of Demolition Contractor tender.
+Economy and Deconstruction is intended to ensure developing the tender and contract documentation 
+that the relevant scope and clauses are included in for Demolition Contractors.
+the contract documents for Demolition Contractors.
+
+This is key to securing our ambitions in contract, and 
+it should be used as a starting point and adapted to 
+suit project specific requirements.
+
+The requirements include Demolition Contractor 
+responsibilities for completing the Materials 
+Mapping Audit and inputting into the Demolition 
+Material Tracker, the Deconstruction Tender 
+Template, as well as fulfilling any circular economy 
+related scope in accordance with our sustainability 
+brief requirement, and specific GLA referrable 
+planning-related items.
+
+P G . 2 4
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+EMPLOYER’S REQUIREMENTS:
+CIRCULAR ECONOMY & DECONSTRUCTION (MAIN CONTRACTOR)
+
+ 
+
+What is it Who is it for When should it be used
+Our proforma Employer’s Requirements for Circular The template is to be used by the project team in As part of the Main Contractor tender.
+Economy and Deconstruction is intended to ensure developing the contract documentation for the 
+that the relevant scope and clauses are included in Main Contractor.
+the contract documents for Main Contractors.
+
+This is key to securing our ambitions in contract, and 
+it should be used as a starting point and adapted to 
+suit project specific requirements.
+
+The requirements include Main Contractor 
+responsibilities for fulfilling any circular economy 
+related scope in accordance with our sustainability 
+brief requirement, and specific GLA referrable 
+planning-related items.
+
+P G . 2 5
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+MATERIAL PASSPORT PROTOCOL
+
+ 
+
+What is it Who is it for When should it be used
+Our template to collect and organise data as part of The template should be completed by the Main In RIBA Stages 5 & 6 during construction and a final 
+the Material Passport for projects. This is a Contractor (and Sub-contractors). Once completed version post-completion.
+mandatory template to allow us to collate Material it should be returned to the project team for review 
+Passports and aggregate them across the portfolio. and upload to suitable platform / storage, to be It is strongly encouraged that interim Passports are 
+
+agreed with the British Land Sustainability Manager. prepared by the Main Contractor early in RIBA 
+The template is spreadsheet based. It includes both Stage 5 to optimise the data collection process.
+base data and product specific data to be collected 
+depending on key reusable materials of the project. 
+Its content should be adapted for project specific 
+purposes.
+
+The template can be filled in manually or extracted 
+from Building Information Models (BIM), and is 
+intended to be source and platform agnostic.
+
+P G . 2 6
+
+
+
+General
+
+BRITISH LAND’S APPROACH & TOOLS
+
+EMPLOYER’S REQUIREMENTS: MATERIAL PASSPORTS
+
+What is it Who is it for When should it be used
+Our proforma Employer’s Requirements for Material The template is to be used by the project team in As part of the Main Contractor tender.
+Passports is intended to ensure that the relevant developing the contract documentation for the 
+scope and clauses are included in the contract Main Contractor.
+documents for Main Contractors.
+
+This is key to securing our ambitions in contract, and 
+it should be used as a starting point and adapted to 
+suit project specific requirements.
+
+The requirements detail the Contractor 
+responsibilities for collecting and completing the 
+Material Passport protocol.
+
+P G . 2 7
+
+
+
+General
+
+04
+
+M AT E R I A L
+PA S S P O R T S  –  
+A  D E E P  D I V E
+
+P G . 2 8
+
+
+
+General
+
+MATERIAL PASSPORTS
+
+WHAT IS A MATERIAL PASSPORT?
+
+ Indicative Material Passport Material Passport
+
+• Type of material Plywood board
+• Quantity - 120m2
+
+• Dimensions - PW-ABCD
+• Manufacturer
+• Assembly/disassembly notes
+• EPD Information
+
+Material Passport
+• Certifications
+• … Metal sheet
+
+- 90m2
+
+- MT_ABCD
+
+Material Passport
+
+As identified in Key Definitions, British Land's definition for a Metal purlins
+Material Passport is a collection of organised data describing - 50m
+pre-defined characteristics of the materials that are included in - MT_ABCF
+products or buildings, to facilitate more efficient reuse, 
+upcycling, recycling and recovery. Key for us is that collection of 
+this data improves future reuse and /or recycling potential.
+
+Material Passport
+A building will consist of multiple materials and products, hence 
+have multiple Material Passports related to it. A collection of Timber beams
+
+Material Passports for all materials and products of a buildings - 110m
+
+can be described as a building passport. - TM_ABCD
+
+P G . 2 9
+
+Building Passport
+
+
+
+General
+
+MATERIAL PASSPORTS
+
+WHY IS IT USEFUL?
+
+Collecting and consolidating information about materials in a TOTAL RAF: 10,500m2
+
+project is useful to get an overview of the possible end of life +15 yrs: 2,500m2
+
+scenarios. The value to us is in how these data may facilitate Overview of materials in a portfolio, and 
+
+carbon, cost, and/or material savings in future projects. possibly future demands
+
+Very few materials in buildings are used until their technical end 
+of life. Often, they are replaced due to changing tenants, 
+performance requirements, market drivers, or fashion. Cleary 
+different elements will have different technical lifespans, and this 
+impacts the lifespans of the materials associated with each 
+
+1BG
+element. We use a “building in layers” approach to ensure that 40 tonne glass
+temporal changes in one layer don’t impact another.
+
+2FA CW A
+100 tonne steel 50 tonne aluminium
+
+Generating Material Passports makes it easier to access Easier to locate suitable materials for reuse 
+
+information about the materials in a building, without having to and speedier processes to do so
+
+first deconstruct it or conduct complex and costly investigations.
+
+Structure 50-150+ yrs
+
+Skin 35-50 yrs £
+Services 15-25 yrs Cost
+
+CO2 Carbon, cost, and waste savings in future projects
+Space Plan 5-15 yrs
+
+Carbon
+Stuff 1-8 yrs
+
+Waste
+
+P G . 3 0
+
+
+
+General
+
+MATERIAL PASSPORTS
+
+CREATING A NEW MATERIAL PASSPORT
+
+ 
+The journey to creating new Material Passports PROCESS FOR GENERATING BASE BUILD MATERIAL PASSPORTS
+starts in RIBA Stage 3. 
+
+1. The project team should determine what 1 2 3 4
+are the project’s “key reusable materials”
+
+        
+
+BASE 
+2. The Sustainability Consultant and Architect BUILD
+
+should outline the data scope for baseline 
+data and key reusable materials
+
+Identify key Determine Develop Employer’s Collect data for 
+reusable materials data scope Requirements Material Passports
+
+3. Employer’s Requirements for Material 5
+Passports should be included as part of a Led by Sustainability Led by Sustainability Project Manager with input Led by Contractor with 
+
+        
+
+Consultant and Architect Consultant and Architect from Sustainability review by Sustainability 
+Contractor tender with input from wider with input from wider Consultant and Cost Consultant 
+
+design team design team Consultant
+
+4. During construction, Material Passport data 
+should start being collected in British Land’s 
+
+Upload to British 
+Material Passport protocol. Post- Land portfolio 
+construction, all relevant Material Passports overview
+should be collated as a Building Passport 1 2 3 4
+(in British Land’s Material Passport Protocol)         
+
+TENANT 
+
+5. The Building Passport (collated Material FITOUT
+
+Passports) should be uploaded to a 
+platform to be agreed with the British 
+
+Identify key Include in Deliver tenant Collect data for 
+Land’s Sustainability Manager. reusable materials leasing agreement fit out Material Passports
+
+Led by fit out Sustainability British Land Leasing Team Fit out contractor Led by fit out Contractor 
+Consultant with input from with review by fit out 
+
+fit out design team Sustainability Consultant 
+
+P G . 3 1
+
+
+
+General
+
+MATERIAL PASSPORTS
+
+1
+
+IDENTIFY KEY REUSABLE MATERIALS
+MATERIAL/PRODUCT BUILDING LAYER LIFESPAN
+
+Each project team shou ld determine which materials or 
+products should be considered “key reusable materials” at the Raised access floor Space
+end of life of the building. These materials should have a more 
+extensive data scope (see following step) to increase the 
+potential for them to be reused, recycled or recovered in the  Ceiling tiles Space
+future. Project teams should collect baseline data for all other 
+materials. The full list of materials should align with the Bill of Glazing (partition) Space
+Materials for the Life Cycle Analysis.
+
+Partition wall systems Space 5-15 years 
+We have conducted a scan of typical materials which have 
+immediate reuse potential and value for the company, these are 
+listed alongside. Amongst these are highlighted materials for Fan coil units Services
+which British Land Material Passport Protocols are available. 
+Project teams are encouraged to explore other key reusable 
+
+Terminal units
+materials, and develop protocols to suit. Baseline data should Services
+be collected for all materials.
+
+Light fittings Services
+Who
+The key reusable materials should be identified by the 
+Sustainability Consultant in collaboration with the wider design Glazing (facade) Skin
+
+20+ years 
+team and British Land.
+
+Aluminium (facade) 
+When Skin
+
+Identification of key reusable materials should be undertaken in 
+RIBA Stage 3. Earlier discussions should consider the approach Steel sections Structure
+to design for disassembly and adaptability to enable efficient 40+ years 
+reuse and recovery in the future. CLT slabs Structure
+
+P G . 3 2
+
+
+
+General
+
+MATERIAL PASSPORTS
+
+2
+DETERMINE DATA SCOPE
+
+Product Specific Data 
+
+Each project team shou ld determine the scope of data to be Data which assists in verifying 
+performance of materials or products for 
+
+collected for different types of materials in British Land’s Material future reuse or recycling. This is 
+Passport Protocol. British Land has developed minimum particular to specific materials and 
+
+baseline data, and more extensive product specific data for key products and includes information such 
+as manufacturer, performance, and 
+
+reusable materials (Additional Resources). specifications for key reusable materials.
+
+If the project team decides on a key reusable material which Circularity Data 
+Data recorded for GLA-referable projects 
+
+does not yet have a British Land Protocol – this should be quantifying the reused / recycled content 
+created as part of this step. of materials, and its potential for the 
+
+same at end of life. This should be 
+
+Who recorded for all materials.
+
+The data scope should be outlined by the Sustainability 
+Consultant in collaboration with British Land. If a new protocol 
+needs to be created this should also be prepared by the 
+Sustainability Consultant with input from the wider design team.
+
+When
+- Type of material
+
+Identification of data scope for different materials should be 
+concluded prior to issuing Contractor tender documentation. - Quantity
+
+Base Data 
+The full scope will be included in the Employer’s Requirements - Dimensions Data which is common across most materials 
+for Material Passports. - Location in a project, and assists future reuse or 
+
+recycling by providing information related to 
+type of material, quantity, and dimensions. 
+This type of data should be collected for all 
+materials in buildings. and aligned to the Bill 
+of Materials used for LCAs.
+
+P G . 3 3
+Increasing Specificity
+
+
+
+General
+
+MATERIAL PASSPORTS
+
+3
+
+DEVELOP EMPLOYER’S REQUIREMENTS
+
+To successfully capture the necessary data for different materials 
+it is crucial that the scope to create Material Passports is secured 
+in contract.
+
+British Land has created a template for these Employer’s 
+Requirements to cover the minimum content for an effective 
+Material Passport scope. The requirements should clearly 
+outline: 
+
+• What data should be collected for which materials / products
+• Delivery format (currently the British Land Material Passport Protocol 
+
+spreadsheet tool).
+
+The process should be aligned with the request for information 
+through 'Asset Information Requirements' that feeds into the 
+O&M / FM data platform.
+
+Who
+The Material Passport Employer’s Requirements should be 
+produced by the Sustainability Consultant in liaison with British 
+Land including the Facilitates Management team.
+
+When
+The Material Passport Employer’s Requirements should form 
+part of the Main Contractor tender package. 
+
+P G . 3 4
+
+
+
+General
+
+MATERIAL PASSPORTS
+
+4
+        EXTRACTING DATA
+
+We recognise that ther e are multiple ways to extract data from 
+project documentation, and store it for future use. Each project 
+will need to determine its preferred approach which is likely to 
+differ by construction package.
+
+Data is generally collected from:
+
+• Drawings
+• Excel schedules
+• As-built models (IFC, Revit, or other formats)
+
+        
+
+• Specifications, EPDs, certifications and other documents.
+
+To ensure there is consistency between the data collected for 
+our projects, a Material Passport Protocol has been created for 
+use by all projects. The protocol is platform agnostic, and the EXCEL SCHEDULES BIM MODELS DRAWINGS EPDs, 
+data can (later) be uploaded to a preferred platform, should we, CERTIFICATES, etc.
+or induvial project teams, decide to utilise one.
+
+British Land Material Passport Protocol Spreadsheet
+
+Who
+Data should be sourced and input into to the British Land 
+Material Passport Protocol spreadsheet tool by the Main 
+Contractor. The Main Contractor may choose to designate 
+certain packages to Sub-contractors, however they are 
+responsible for the data being collected, collated, reviewed, 
+and returned to the Sustainability Consultant for review.
+
+When
+Data should be extracted during construction* with the final, 
+collated spreadsheet (Building Passport) submitted at 
+practical completion. *It is strongly encouraged that interim Passports are prepared by the 
+
+Contractor early in construction to optimise the data collection process.
+
+P G . 3 5
+
+
+
+General
+
+MATERIAL PASSPORTS
+
+5
+        SUBMIT MP PROTOCOL TO BRITISH LAND
+
+Once the British Land Material Passport Protocol has been 
+completed and reviewed post construction, it should be 
+submitted to the British Land for storage.
+
+The Protocol has been developed to be platform agnostic at this 
+time. This means it should work with the existing platforms to 
+ensure a smooth transition if one of these becomes a pre-
+eminent option for future Material Passport storage.
+
+Some projects might want to choose a proprietary Material 
+Passport platform to assist in the collation, organisation and DRAWINGS A O&M MANUAL
+storing data. This is encouraged to test these platforms, but until 
+Material Passports are more established in the UK market, the PLATFORM A
+completed British Land Material Passport Protocol shall be 
+submitted as an Excel file regardless of whether a proprietary 
+platform is used. B
+
+PLATFORM B
+EXCEL THE CLOUD
+
+Who SCHEDULES
+The Main Contractor is responsible for submitting a collated 
+
+        
+
+Material Passport Protocol to the Sustainability Consultant and C
+British Land for storage. PLATFORM C
+
+When
+AS BUILT SOMEONE’S C-
+
+The final protocol should be submitted no later than two months 
+MODELS DRIVE
+
+post practical completion.
+
+
+
+General
+
+MATERIAL PASSPORTS
+
+WHERE DO FIT OUTS FIT IN?
+
+ 
+With recent tenant leases for central London PROCESS FOR GENERATING FIT OUT MATERIAL PASSPORTS
+offices approaching five years, materials from fit 
+outs are quickly becoming a significant 
+proportion of the waste produced over a 1 2 3 4
+building’s lifespan.
+
+        
+
+BASE 
+We believe there is a great opportunity to BUILD
+
+collaborate with tenants to avoid this wasteful 
+behaviour by introducing Material Passports for 
+
+Identify key Determine Develop Employer’s Collect data for 
+tenant fit outs, in addition to the base build. reusable materials data scope Requirements Material Passports
+
+5
+These agreements must be developed on a         
+
+case-by-case basis in collaboration with tenants 
+and the British Land Leasing Team. It could 
+enable materials from one tenant to be reused 
+by another within the British Land portfolio, 
+
+Upload to British 
+saving carbon, money, materials, and time. Land portfolio 
+
+overview
+Key reusable materials from fit outs are typically 1 2 3 4
+partition walls (glass and plasterboard), light         
+
+fittings, MEP, furniture, and others. TENANT 
+FIT OUT
+
+Identify key Include in Deliver tenant Collect data for 
+reusable materials leasing agreement fit out Material Passports
+
+Led by fit out British Land British Land Leasing Team Fit out Contractor Led by fit out Contractor 
+Devono Q1 2024 Snapshot and Sustainability with review by fit out 
+
+Consultant with input from Sustainability Consultant 
+fit out design team and British Land 
+
+P G . 3 7
+
+
+
+General
+
+05
+
+U S I N G  M AT E R I A L
+PA S S P O R T S
+
+P G . 3 8
+
+
+
+General
+
+USING MATERIAL PASSPORTS
+
+USING AN EXISTING MATERIAL PASSPORT
+
+The use of existing Material Passports starts PROCESS FOR USING EXISTING MATERIAL PASSPORTS
+earlier in the design process, in RIBA Stage 1. 
+The process sketched alongside will need to be 
+adapted depending on the specific demands 1 2 3 4
+necessitated by the reused or repurposed 
+
+        
+
+materials. BASE 
+BUILD
+
+6. Project teams should review British Land’s 
+portfolio of available Material Passports 
+
+Identify key Determine Develop Employer’s Collect data for 
+prior to starting design reusable materials data scope Requirements Material Passports
+
+5
+7. The design team should investigate reuse         
+
+and upcycling opportunities based on these 
+existing Material Passports, this may involve 
+
+Update British Land portfolio Material Passports
+creative and pioneering design solutions
+
+Led by Sustainability Consultant
+Upload to British 
+
+8. Chosen designs are integrated in drawing Land portfolio 
+sets for tender and construction overview
+
+10 9 8 7 6
+9. The Contractor should collect materials         
+
+        
+
+from the identified projects, or from British 
+Land’s storage locations
+
+10. The Contractor should lead on repurposing 
+Reinstall in project Harvest materials Secure chosen designs in Identify reuse and Review exiting 
+
+and recertifying the identified materials for from portfolio contract specifications upcycling opportunities Material Passports
+reuse, and later reinstall in the project.
+
+Contractor Led by Contractor with Led by Architect with Led by Sustainability Led by Architect with 
+logistics support from support from wider Consultant with input from support from wider 
+
+wider design team design team wider design team design team
+
+P G . 3 9
+
+
+
+General
+
+USING MATERIAL PASSPORTS
+
+CASE STUDY: MATERIAL HARVEST AT 2FA
+
+ 
+1 2 3
+
+Our experience with 3XN GXN at 2 Finsbury Material Search Material Harvest Transportation
+Avenue is an example of creating a basic Analysing materials Removal of materials Pickup and transport 
+Material Passport for an existing building, and with the highest from demolition site to remanufacturer or 
+
+harvesting materials for reuse in a new project. potential for reuse storage location
+
+This was our first project where the project team 
+mapped the materials of the existing building in 
+a Pre-Demolition Audit, investigated the 
+potential for reuse and upcycling, and 
+integrated the upcycling opportunities in the 
+interior design of the development.
+
+By rolling out Material Passports at scale across 
+the portfolio, the aim is to make this process 
+more efficient and effective. Eventually having a 6 5 4
+wider overview of the available materials across Final Installation Design and Material Storage
+the portfolio will help improve the probability of Installation of Manufacturing Material delivered to 
+
+implementing such opportunities on other repurposed material Transformation of manufacturers’ 
+on site materials into new consolidation centre, 
+
+schemes and more often.
+design proposal or other storage 
+
+location
+
+P G . 4 0
+
+
+
+General
+
+06
+
+A D D I T I O N A L  
+R E S O U R C E S
+
+P G . 4 1
+
+
+
+General
+
+ADDITIONAL RESOURCES
+
+BRITISH LAND DATA PROTOCOL
+For all materials – can 
+build on r equirements 
+from GLA for CE 
+Statement and WLCA
+
+BASE DATA
+
+IDENTIFIER Project name 2 Finsbury Avenue An example of our protocol for base data is shown on this page. This data is the 
+Guid (Global Unique Identifier) 5b3def77-38dd-49ad-97fd minimum data required to be collected for all materials. It relates to:
+UniClass Code Ss_20_20_75_35
+RICS Category 2.1 Superstructure - Frame
+Level 04 • Being able to identify the material in the building or portfolio
+Material Description Metals Steel • Understanding the dimensions of the available materials
+Practical Completion Year 2029 • Understanding the quantity available.
+
+DIMENSION Height (mm) 417.2mm
+Width (mm) 181.9mm All of these are key data to analyse the scope and potential for future reuse.
+Depth/Thickness (mm) 10.9mm
+
+In addition, there is base data related to carbon and circularity which may be useful 
+QUANTITY Number of components 1 for future reporting, and to make a future business case for reuse. These data are 
+
+Length (m) 6m
+Area (m2) n/a also required by the GLA as part of planning and are highlighted in yellow. These 
+Net Mass (kg) 511.8kg shall be collected by GLA referrable projects at a minimum.
+Volume (m3) 0.07m3
+
+CARBON Embodied Carbon [A1-A3] (kgCO2/kg) 2.5kgCO2e/kg
+Total GWP (kgCO2e) 1,280kgCO2e
+Source of Carbon factor ICE v2
+
+CIRCULARITY Design Life 60 years
+% Reused Content (by mass) 0
+% Recycled Content (by mass) 30%
+% Reusable Content (by mass) 100%
+% Recyclable Content (by mass) 100% Baseline Data – can generally be extracted from BIM
+
+GLA CE Statement Required Data – can be populated from carbon analysis or EPDs
+
+P G . 4 2
+
+
+
+General
+
+ADDITIONAL RESOURCES
+
+BRITISH LAND DATA PROTOCOL
+For specific products 
+w ith high reusability / 
+recycling potential
+
+PRODUCT SPECIFIC – STRUCTURAL STEEL NOTES
+
+PRODUCT Supplier/Sub-contractor WHL Where the material originates from – to enable follow up on performance
+INFORMATION Manufacturer British Steel Original manufacturer
+
+Profile UB 406 x 178 x 85 To find key data in the future
+Grade S355J0 Steel grade is the most important information to determine future potential for reuse
+Finish I101B-TU-M Type of finish is important as certain types (such as galvanised) cannot be reused or recycled
+Fire coating FX2003 -
+
+An example of our product specific protocol for steel sections is shown on this 
+page. Steel is a highly reusable and recyclable material. However, it can be 
+complex and costly to deconstruct which adds risk to a project (though this is 
+quickly changing), unless certainty can be provided on the likelihood of the steel 
+being reused after extraction.
+
+Certain product specific information regarding steel can assist in providing greater 
+confidence of its future reusability. It is beneficial to understand the manufacturer, 
+the grade, any coatings and its accessibility.
+
+Other product specific data may be added in future. Product Specific Data – generally requires enrichment from Sub-contractor
+
+P G . 4 3
+
+
+
+General
+
+ADDITIONAL RESOURCES
+
+BRITISH LAND DATA PROTOCOL
+For specific products 
+w ith high reusability / 
+recycling potential
+
+ 
+PRODUCT SPECIFIC - GLASS NOTES
+
+PRODUCT Supplier/Sub-contractor FCH Where the material originates from – to enable follow up on performance
+INFORMATION Manufacturer Saint Gobain Original manufacturer
+
+Glass Type Reference from Specification GL06 To find data sheets and certifications in the future
+Glazing Unit Double Single, Double or Triple glazing unit
+Treatments Ceramic frit / filmed / back Type of treatment is of importance as certain types (such as ceramic frit) makes recycling difficult
+
+painted / body tinted
+Glazing Unit Performance (U-Value) 1 Will inform potential for direct reuse
+Glazing Unit Performance (g-Value) 0.374 Will inform potential for direct reuse
+Glazing Unit Performance (VLT) 72.3% Will inform potential for direct reuse
+
+An example of our product specific protocol for facade glazing is shown on this 
+page. Facade glazing is currently not commonly reused or recycled in the UK 
+market. However, there is a growing interest in enabling recycling of facade glazing 
+to new flat glass, as it results in significant raw material and carbon reductions.
+
+Product specific data is helpful to facilitate this, and to accelerate the future 
+assessment of potential reuse or recycling.
+
+Other product specific data may be added in future. Product Specific Data – generally requires enrichment from Sub-contractor
+
+P G . 4 4
+
+
+
+General
+
+ADDITIONAL RESOURCES
+
+BRITISH LAND DATA PROTOCOL
+For specific products 
+w ith high reusability / 
+recycling potential
+
+ 
+PRODUCT SPECIFIC – ALUMINIUM NOTES
+
+PRODUCT Supplier/Sub-contractor FCH Where the material originates from – to enable follow up on performance
+INFORMATION Manufacturer Hydro Original manufacturer
+
+Facade Type Reference from EWS04 To find data sheets and certifications in the future
+Specification
+Alloy EN AW-6063 T6 Alloy type will determine high-value recycling routes
+Finish PPC Type of finish may impact reusability / recyclability
+Colour RAL9001 -
+
+An example of our product specific protocol for facade aluminium profiles is shown 
+on this page. Aluminium profiles are highly recyclable, but need high-value 
+recycling needs to ensured by keeping high quality alloys separated.
+
+Product specific data is helpful to facilitate this, and to accelerate the future 
+assessment of potential reuse or recycling.
+
+Other product specific data may be added in future. Product Specific Data – generally requires enrichment from Sub-contractor
+
+P G . 4 5
+
+
+
+General
+
+ADDITIONAL RESOURCES
+
+BRITISH LAND DATA PROTOCOL
+For specific products 
+w ith high reusability / 
+recycling potential
+
+ 
+PRODUCT SPECIFIC – RAISED ACCESS FLOOR NOTES
+
+PRODUCT Supplier/Sub-contractor ABC Where the material originates from – to enable follow up on performance
+INFORMATION Manufacturer Kingspan Original manufacturer
+
+Product Code/Model RMG600 To find data sheets and certifications in the future
+Grade PSA medium Panel grade are important to determine suitability for future use
+Type of Cover Carpet Type of cover will indicate if there is a likelihood of the panels being damaged (e.g. nailed timber floor)
+
+An example of our product specific protocol for raised access (RAF) floors is shown 
+on this page. RAF has become a commonly reused product in the UK market over 
+the last number of years. They are often collected and sent to specialist resellers to 
+get recertified with a new warranty. 
+
+To accelerate the process of recertification, and estimating how much of RAF which 
+can be reused, the product specific information as listed is beneficial. The type of 
+cover can be difficult to collect as it is often specified by the tenant. Because of the 
+big impact this might have on future reuse, it should be collected once a tenant has 
+completed their fit out.
+
+Other product specific data may be added in future. Product Specific Data – generally requires enrichment from Sub-contractor
+
+P G . 4 6
+
+
+
+General
+
+ADDITIONAL RESOURCES
+
+FURTHER READING
+
+CIRCULAR ECONOM Y GUIDANCE
+
+GLA – DESIGN FOR A CIRCULAR ECONOMY PRIMER
+https://www.london.gov.uk/sites/default/files/design_for_a_circular_economy_web.pdf
+
+GLA – CIRCULAR ECONOMY STATEMENT GUIDANCE
+https://www.london.gov.uk/sites/default/files/circular_economy_statements_lpg_0.pdf
+
+UKGBC – CIRCULAR ECONOMY
+https://ukgbc.org/our-work/topics/circular-economy/
+
+REUSE TOOLKIT – MATERIAL SHEETS
+https://vb.nweurope.eu/projects/project-search/fcrbe-facilitating-the-circulation-of-reclaimed-
+building-elements-in-northwestern-europe/news/reuse-toolkit-material-sheets/
+
+ISTRUCTE – CIRCULAR PARTNERSHIPS DATABASE 
+https://www.istructe.org/resources/climate-emergency/circular-partnerships-database/
+
+P G . 4 7
+
+
+
+General

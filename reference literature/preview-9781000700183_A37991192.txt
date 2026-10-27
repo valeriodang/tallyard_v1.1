@@ -1,0 +1,799 @@
+﻿THIS BOOK IS A HIGHLY ILLUSTRATED ‘ATLAS’, taking the reader on a journey via four distinct ‘steps’ 
+(recycle, reuse, reduce, closed loop), from a linear economy towards a system emulating the natural 
+world – a circular economy. Featuring over 20 detailed case studies describing design exemplars 
+from the worlds of textile and fashion design, product design, interior architecture, architecture and 
+urban design, this book’s purpose is to show designers how they can successfully navigate and 
+exploit the emerging field of resource management and the circular economy. 
+
+Each step is supplemented with an in-depth interview with an expert who is successfully tackling one 
+or more of these challenges that face all designers today and also includes contributory essays from, 
+among others, Professor Walter Stahel of the Product-Life Institute, and Professor Jonathan 
+Chapman, author of Emotionally Durable Design. THE
+
+  Anticipating how   This rich compendium is for   Duncan Baker Brown’s 
+something could be re-used anyone interested in the notion that we are beginning 
+at the point when it is first responsibility that comes with an era where we will be 
+designed is now everyone’s the power of design to shape ‘mining the Anthropocene’ 
+responsibility. Readers of this our world. Combining theory nicely captures the concept 
+book will be reminded of that. and practice it moves the that humans are impacting 
+Professor Dr. Michael debate beyond the why not only earth’s surface and 
+Braungart  towards an applied circular its atmosphere, but its crust RE-USE
+Co-Author Cradle to Cradle economy we should all be too. This concept is well 
+
+practicing. observed and game-
+  This book is full of  Daniel Charny  changing. If we think as 
+
+positive stories, with tangible Director, From Now On and Baker-Brown does, cease our 
+examples of projects that  Professor of Design, Kingston despoiling plunder of finite 
+will inspire designers young University resources and turn to 
+and old to ‘mine the ingenuity in the re-use of that 
+Anthropocene’. Politicians   This is an inspirational  which we have already 
+respond to ideas that have book on an important topic –  extracted, it may yet not be 
+real, demonstrable examples I hope it triggers a revolution too late. He is a leading ATLAS
+backing them up. The Re-Use in design. thinker who also 
+Atlas is full of those. I hope Mark Miodownik  demonstrates the way 
+people get inspired, take Professor of Materials & forward in practice. That’s 
+note and take action. Society, Director, Institute of what the best architects do. A DESIGNER’S GUIDE TOWARDS A CIRCULAR ECONOMY
+Dr. Caroline Lucas MP Making, UCL Benjamin Derbyshire  
+
+Chair, HTA Design,  
+RIBA President Elect
+
+FSC Recycled paper 
+accreditation to go 
+here. DUNCAN BAKER-BROWN
+
+THE	 RE-USE	 ATLAS DUNCAN BAKER-BROWN
+
+
+
+THE 
+RE-USE
+ATLAS
+
+A Designer’s Guide Towards A Circular Economy
+
+Duncan Baker-Brown
+
+
+
+To Kate and Molly who help keep me sane and informed.
+
+To Professor Anne Boddington who has supported me ABOUT THE AUTHOR
+and most of my hare-brained ideas for over 15 years.
+
+To Nick Gant, Tony Roberts and Ian McKay for the 
+ongoing conversations.
+
+© RIBA Enterprises Ltd, 2017
+
+Published by RIBA Publishing, 66 Portland Place, London W1B 1AD
+
+ISBN: 978 1 85946 644 5
+
+The right of Duncan Baker-Brown to be identified as the Author of this 
+Work has been asserted in accordance with the Copyright, Design and 
+Patents Act 1988.
+
+All rights reserved. No part of this publication may be reproduced, 
+stored in a retrieval system, or transmitted, in any form or by any means, 
+electronic, mechanical, photocopying, recording or otherwise, without 
+prior permission of the copyright owner.
+
+British Library Cataloguing-in-Publications Data
+A catalogue record for this book is available from the British Library.
+
+Commissioning Editor: Elizabeth Webster
+Copy Editor: Kathryn Glendenning
+Production: Phil Handley
+Designed and typeset by Mercer Design, London
+Printed and bound by W&G Baird Ltd, Great Britain
+
+While every effort has been made to check the accuracy and quality of the 
+information given in this publication, neither the Author nor the Publisher 
+accept any responsibility for the subsequent use of this information, for 
+any errors or omissions that it may contain, or for any misunderstandings 
+arising from it.
+
+www.ribaenterprises.com
+
+This book is printed on Cocoon Silk, FSC certified, 100% recycled 
+paper. Cocoon papers meet the same performance standards as non-
+recycled papers with excellent printability and whiteness (CIE 124), and 
+a high quality surface which helps bring out the best in printed images.
+
+
+
+ABOUT THE AUTHOR
+Duncan Baker-Brown RIBA FRSA
+
+duncan baker-brown is an architect, writer, More recently Duncan has become well 
+academic and environmental activist, based known as the architect behind a series of 
+in Lewes, near Brighton, on the south coast experimental off-grid ‘sustainable house’ 
+of England, where he lives with his wife and projects, such as Channel 4’s ‘The House that 
+daughter. Born next to a farm near Epping Kevin Built’ with Kevin McCloud. This was 
+Forest in Essex, Duncan soon became aware the first house in the UK with an A+ energy 
+of the fragility of the natural environment as certificate, as well as the first one made from 
+he witnessed first the M11 and then the M25 90% organic material. It was followed by ‘The 
+motorways cut through countryside he had Brighton Waste House’, which was designed 
+grown very fond of. and constructed in collaboration with more 
+
+For nearly 25 years Duncan has been than 360 students at the University of Brighton. 
+at the forefront of teaching, researching It was Europe’s first permanent building made 
+and practising sustainable design, working from waste.
+on projects as varied as exhibitions and Duncan is a passionate and informed public 
+symposiums, new houses and schools, speaker on many issues pertaining to sustainable 
+as well as whole urban districts such as development and the circular economy.
+London’s Greenwich Millennium Village 
+with Ralph Erskine. While working for Rick 
+Mather Architects he set up BBM Sustainable For further information: 
+Design with his business partner Ian McKay http://arts.brighton.ac.uk/staff/duncan-baker-brown
+
+after they had won the RIBA ‘House of the http://bbm-architects.co.uk
+Future’ competition. In 1994 Duncan started 
+
+Search for ‘Can Architecture Matter?’ on the TEDx 
+his teaching career at the University of Talks channel on YouTube
+Brighton’s School of Architecture, where he 
+and Ian had met as postgraduate students. 
+They quickly began to work on research 
+projects, such as ‘CityVision’ in 1997, which 
+considered ways people could live in 
+beautiful, sustainable cities.
+
+  iii
+
+
+
+ACKNOWLEDGEMENTS
+
+over the last five years I have had hundreds, of years (and longer): Dr Ben Croxford, 
+if not thousands, of conversations with many Professor Martin Charter, Oliver Heath, 
+people who have helped me formulate Sophie Thomas, Michael Moradiellos del 
+questions and opinions that have coloured Molino, Jeremy Sumeray, Munish Datta, 
+the direction and content of this publication. Lydia Dutton, Gereon Uerz, Fran Ford, 
+I would like to start by thanking everybody Annabelle Cox, Stephen Bayley, Mike Pitts, 
+who contributed to the content and design of Steven Cross, Professor David Robson, Hattie 
+this book, including my commissioning editor, Hartman, Professor Joan Farrer, Jon Khoo, 
+Liz Webster, and design and production Professor Jo-Anne Bichard, Daniel Pan, Nick 
+manager, Phil Handley, Professor Anne Hayhurst, Caroline O’Donnell, Professor 
+Boddington, Professor Graeme Brooker, Alan Tomlinson, Jonathan Essex, Bruce 
+Professor Jonathan Chapman, Nick Gant, McClelland, Catherine Joce, Kate Cheyne, 
+Dr David Greenfield, Cat Fletcher, Nitesh Glenn Longden-Thurgood, Professor Andre 
+Magdani, Stuart Smith, Professor Dr Walter Viljoen, Kirsty Sutherland, Dr Ryan Southall, 
+Stahel and Dr Ryan Woodard. In addition I Keir Black, Ian Bailey, Jeff Turko, Michelle 
+have been having informal conversations with Wright, Ben Sweeting, Gareth Lawrence, 
+my good friend of more than 20 years, Tony Luiz Dias, Gemma Barton, Professor Peter 
+(Anthony) Roberts. Thank you Tony for your Lloyd, Professor Andrew Lloyd, Michele Field, 
+many suggestions for case studies that could Professor Dr Michael Braungart, Bryn Thomas, 
+be included in this Atlas. Alistair Boyd, Tom Hammick and Professor 
+
+I completed more than 60 interviews with Jonathan Woodham.
+inspiring people from nearly every continent I would like to thank the following 
+around the world, many of which are ongoing people who helped enable and deliver the 
+conversations today. Of course a number Brighton Waste House (named unless already 
+of these are captured in the interviews and acknowledged above): Professor Catherine 
+case studies that are included within Part 2 of Harper, Dianne Lock, Francesca Iliffe, Martin 
+my book, so I won’t list them here. However, Randall, John Ritson, Isobel Creed, Jacob 
+I would like to take the opportunity to thank Browne, Mike Sansom, Gary Lester, David 
+the following people who have offered me Pendegrass, James Cryer, Tom Dowds, Dr 
+advice and knowledge over the past couple Caroline Lucas MP, Kevin McCloud, plus 
+
+iv
+
+
+
+Mears apprentices, as well as more than also helped me work on numerous fascinating 
+360 design and construction students from projects over the years. So I would like to 
+the University of Brighton and City College thank Daniel Harding, James Rae, Tom 
+Brighton and Hove. Cuthbert, Stuart Paine, Rebecca Kinneavy 
+
+I couldn’t have entertained the idea of and Magali McKay, and of course my amazing 
+writing this book without the support of the partner Ian McKay, who for many years has 
+University of Brighton, which granted me been my primary collaborator.
+a four-month sabbatical from teaching in Finally, I would like to thank my mother 
+the School of Architecture and Design. For and two brothers, Stuart and Byron, for their 
+that I am very thankful. My colleagues from constant encouragement, and, of course, my 
+BBM Sustainable Design also supported gorgeous wife Kate and my lovely daughter 
+me enormously during the year I have been Molly-Rose, who have been a constant 
+working on this book. They have, of course, inspiration and support.
+
+v
+
+
+
+   	
+
+CONTENTS
+
+PART 1
+iii 	 About the Author  5	 Setting the Waste Scene 
+iv 	 ACKNOWLEDGEMENTS  
+
+7 	 Chapter 1 
+ix 	 Foreword 	R esource Matters 
+	 Graeme Brooker  	 Duncan Baker-Brown 
+
+xiii 	 Preface  
+16	 Chapter 2 
+
+	 Professor Walter Stahel
+	W hat a Waste! 
+
+1 	 Introduction  	 Cat Fletcher 	
+	 Duncan Baker-Brown 
+
+21 	 Chapter 3  
+	 The Political Narrative 
+	 Dr David Greenfield 
+
+ 
+
+	
+
+
+
+   	
+
+PART 2 PART 4
+29	 Circular Inspirations 159	 Looking Forward 
+	 Duncan Baker-Brown
+
+161 	 Chapter 1 
+31 	 Introduction 	 Product Moments, Material Eternities 
+
+	 Professor Jonathan Chapman 
+33 	 STEP 1
+	R ecycling Waste	 166	 Chapter 2 
+
+	E ducating the Circular Economy 
+55 	 STEP 2 	 (or Learning in Circles)  
+
+	 Reusing Waste 	 Professor Anne Boddington
+
+81 	 STEP 3 173 	 Chapter 3  
+
+	 Reducing the Amount  	 How are Closed-Loop Systems Relevant? 
+	 of Material Used 	 Duncan Baker-Brown
+
+109 	 STEP 4
+	 The Circular Economy 183 	endnotes   
+
+188 	 INDEX
+
+190 	picture  credits
+
+PART 3
+143	 The Waste House Story 
+	 Duncan Baker-Brown
+	
+
+
+
+FOREWORD
+
+
+
+FOREWORD
+Tabula Plena
+Professor Graeme Brooker 
+Head of Interior Design, Royal College of Art
+
+it is a privilege to be invited to contribute approaches that are based on the provisional 
+the foreword to this book and be given understanding of not just working with what 
+the opportunity to contextualise its unique is already there, but which are methods that 
+contents. The Re-Use Atlas is a timely book, explore what might be exposed during the 
+overflowing with projects and ideas, work that transformational processes of their reuse. The 
+is suffused with the compelling enthusiasm of approaches to extant matter made me think 
+its author and contributors. Atlas is the ideal of how this Re-Use Atlas demonstrates the 
+term to use in the depiction of reuse, a process requirement of a very specific sensibility: one 
+that describes the durability of things and that is prepared to rely on what was either 
+the tenacity of the people undertaking their already in situ, or what was about to be found or 
+extended existence. The Greek myth of Atlas exposed during the processes of change. This 
+symbolised a feat of endurance: as the son of sensibility denotes the inclination to understand 
+Zeus, the Titan god was condemned to hold and accept the qualities of extant materials, 
+up the sky in perpetuity. Obstinacy, persistence in order to transform them. It is an approach 
+and the enduring qualities of something or that is significantly distinguished from the idea 
+someone are entirely apt to be implied in the of design as unfettered origination, or, of the 
+title of a book about the intensified durability conjuring up of ideas out of the ether.
+of things and places. Instead, The Re-Use Atlas brings this 
+
+Upon the first reading of this Atlas, my sensibility into sharp focus, through the numerous 
+initial reaction was how reliant all aspects of ideas and people that it contains, and the 
+the book were on the abundance and also the exemplary projects that it meticulously depicts. 
+scarcity of existing matter. It is this variability in In the Oxford English Dictionary, 
+the sources of the raw material for reuse that contingency is described as ‘an event 
+has led to the development and description conceived as of a possible occurrence in the 
+of numerous, clever, engaged strategies of future’1. Its etymology is rooted in the Latin 
+contingency. These strategies are conditional for touching or coming into contact with. The 
+
+active, or hands-on dimension of the word is 
+exemplified in the very root of its meaning. 
+
+fig. 0.1 (OPPOSITE)  Some of the waste material 
+investigations undertaken by students on the On this basis, I would suggest that this Atlas 
+Sustainable Design MA at the University of Brighton is an advocate for a hands-on attitude, or, at 
+
+ix
+
+
+
+the very least, it examines ways of actively I have summarised these observations 
+rethinking and remodelling what surrounds under the heading Tabula Plena. Tabula 
+us.  In other words, in this book, matter, such rasa is often understood as starting with a 
+as materials, objects and spaces, are found, blank slate. Its etymology is derived from 
+repurposed, transformed, and adapted in the rubbing smooth of wax tablets, literally a 
+an applied manner. Each idea in this Atlas, scraping away of existing writing in order to 
+each case study, each agent engaged in the start again from an erased or empty surface. 
+processes of ‘closed-looping’, are turning the Conversely, tabula plena refers to working 
+linear circular in a hands-on manner. By doing with what is already in situ, and refers to an 
+this, their work epitomises the activation of abundance of existing material and buildings, 
+significant behavioural change. The Atlas stuff that is already there and which is ready for 
+charts the processes of how they are turning reconfiguration.2  One of the key aspects of a 
+a linear economy, based on the scarcity and tabula plena approach is how the processes of 
+abundance of matter, circular, and effectively reuse foreground trans-disciplinary activities: a 
+reusing and making products, services, energy, process that promotes a future way of thinking 
+materials, buildings, cities, behave in a more regarding all creative disciplines. It is one 
+resilient and enduring manner. It is an applied where no form of creative endeavour is exempt 
+approach; one that values existing entities, from circular thinking. In this Atlas, I was struck 
+extant matter, objects that are already in by how artists, architects, designers, educators, 
+circulation and which have become the site for writers and policymakers transcended 
+mediation and transformation into something normative boundaries of creative work through 
+they were often never intended to be. collapsing distinctions between objects, 
+
+Therefore, this Re-Use Atlas is a vital environments and processes, particularly as 
+component in the understanding of how to stuff gets reconfigured into new spheres of 
+reprocess matter and obsolete material into production and use. Arguably, the processes of 
+something that is put back into the cycles of reuse collapses agendas, redistributes values, 
+use. It is focussed on the consideration that and can render traditional built environment 
+in all of the exemplars and ideas that are processes and languages as obsolescent. This 
+mentioned in this book, the redundant or is an enduring part of the activities of reuse: as 
+adapted materials that were examined were use and value is changed, matter is diminished 
+not only a site of depredation, but also provide or enhanced. As stuff is made redundant, 
+a condition for mediation. In other words, revalued and subsequently reconfigured, 
+reusing materials foregrounds the enactment disciplinary-specific approaches can become 
+of research and design processes that will inconsequential and superseded. 
+ensure that not only meaningful change will My discipline of interior design is usually 
+take place but that they originate new and named as a serial offender in the production 
+unique processes of research, thinking and of waste. This is usually because it is regarded 
+knowledge that is just not the same as the as primarily driven by fashion and rapid 
+usual design processes that often focus on change. This is partly true, but I consider 
+starting from scratch. that all aspects of interior space, whether 
+
+x
+
+
+
+regarded as architectured, designed or front to back, in sections, or dip into it when 
+decorated environments, are originated it’s needed. Try reading it in different locations 
+through working with the existing. What and spaces, or when not on the move and 
+I mean by this is that I always consider at home. As you do, look around you. View 
+that one of the defining characteristics of your context and environment and consider 
+making interior space to be the processes it and its legacy. The objects, elements and 
+of designing, constructing, educating and environments that we use and inhabit, are 
+thinking – all processes based on working all just stockpiles of matter, stuff that will 
+with the extant. Regardless of whether a line eventually need to be reconfigured. This is 
+on a page of a space yet to be built, or the the legacy of this book, to make you aware of 
+enclosure of an existing building, the design how one day we will no longer start making 
+of interior space requires the development our world from scratch anymore, but instead 
+of strategies and tactics for working with will only be able to repurpose what is already 
+the found and the already there. This is as here and with us already. It is the tabula plena 
+opposed to a tabula rasa approach. Instead approach. The legacy of The Re-use Atlas is to 
+interior space origination also begins with ensure that its reader will view their surrounds 
+the tabula plena: the analysis of the existing as a supply of matter, stuff to be reused and 
+entities of a place or set of ideas. I find it reconfigured, things to be remade again 
+fascinating that many of the projects and work and again. This is the challenge of the 21st 
+in this book are innovative interior spaces, century. It is the challenge of the tabula plena, 
+created from existing environments, and to understand it, and develop sensibilities 
+originated primarily around forms of human around it, making the linear circular through 
+occupation and substantive thinking about the reconfiguring of the existing to make new 
+spacial identities, all of which are fundamental places and environments. The Re-use Atlas is 
+principles of the design of the interior. one of the first books to explicitly document 
+
+I thoroughly recommend this book to you.  and chart these processes. I hope you enjoy 
+I would suggest you read it in a variety of ways; reading it as much as I have. 
+
+       
+
+xi
+
+
+
+PREFACE
+
+
+
+PREFACE
+Professor Walter R Stahel,  
+Architect and Founder-Director of the Product-Life Institute, Geneva
+
+Reuse and the Circular Economy 
+
+i am fortunate to live in a house that was built inflatable structures are common today for such 
+in 1756 – at least that is the age of the purlins, temporary applications as funfairs, sports events 
+small trees that were cut and immediately put on and temporary bridges on remote construction 
+the roof in those days. So the reuse and repair sites, but also as seasonal structures such as 
+of building stock, with periodic remanufacturing tennis halls or to store cars during the winter.
+and technological upgrading of key components, Reuse associated with fixed permanent 
+is something I have been familiar with for 40 structures offers multiple opportunities: 
+years. As with any old building, the house has the structure itself, its components or its 
+a ‘soul’, a unique character, which first had materials. It involves the ‘factor time’ and 
+to be discovered and then protected in any defines a new type of sustainable quality, 
+refurbishment – a continued challenge as the combining technology, risk and sustainability 
+legal environment changes. management (see Figure 0.3 overleaf). 
+
+The term ‘use’, and the optimisation of the use For designers, the factor time implies 
+or utilisation of manufactured objects, is at the adaptability, flexibility, even humbleness – we 
+core of the circular economy, not the term ‘cycle’ do not know the future, but we can prepare 
+as one might have expected. This distinguishes for it. Durability as quality of an object is not 
+the circular economy from the linear industrial created by its solidity (witness the German 
+economy, which optimises the production of bunkers on the French Atlantic coast) but by its 
+the same objects up to the point of sale. desirability (witness Europe’s Gothic cathedrals). 
+
+The term ‘reuse’ implies a change in The circular economy has been part of 
+utilisation, ownership or location; armed human development since the beginning as a 
+forces are among the reuse champions as strategy to overcome poverty and scarcity: ‘use 
+they heavily depend on mobility in using it up, wear it out, make it do or do without’. 
+most of their equipment. The Bailey bridges1 The building waste of the past included 
+and inflatable pontoon bridges are typical timber beams, dimension stone and bricks, 
+examples of military reuse inventions. Reusable components which could be reused to build 
+
+new structures: castles were destroyed and 
+their material reused; German Trümmerfrauen 
+
+fig. 0.2 (OPPOSITE)  The Hy-Fi Tower by The Living, 
+New York, constructed of organic bricks grown  (debris women) cleaned the bricks on World 
+from mycelium War II bombsites for reuse to build new houses. 
+
+xiii
+
+
+
+intensity of utilisation utilisation
+optimisation
+
+technical resource efficiency
+
+technical efficiency
+
+QUALITY
+(system) product-life
+optimisation optimisation
+
+loss prevention sustainability  
+waste prevention management time
+
+risk management
+
+selling results
+
+selling goods
+
+engineering
+liability
+optimisation
+
+But the modern PciErcuRlaFr OecRonMomAyN isC E  ECONfOig.M 0.3Y  P:erformance Economy: introducing time  
+based on overcominingt rsoadtuurcaitnegd  mtimarek eints  tahned  economin ythe economy.
+abundance, not scarcity. The linear industrial 
+revolution, focused on increasingly efficient With regards to resource consumption, 
+manufacturing processes, has enabled the building and construction industry is the 
+mankind to overcome scarcities of food, industrial economy’s biggest consumer of 
+goods and shelter, but its success increasingly material resources, and the biggest producer 
+creates situations of saturated markets, of waste. As most of this waste comes in the 
+unmanageable waste (such as space waste and form of inert materials, the problem is one of 
+plastic objects accumulating in the oceans) and mass and volume rather than toxicology. 
+overconsumption of natural resources, which The actors of the linear industrial economy 
+are incompatible with the limited carrying manage the resource consumption up to the 
+capacity of Planet Earth. Paris authorities have point of sale, where ownership and liability are 
+started to study the refurbishment of buildings passed on to the buyer. The use and operation 
+as a new policy mainly because it has run out of buildings, another major consumer of 
+of landfill sites for building waste. resources, principally energy for heating and 
+
+Shelter and clothing are among the most cooling, are managed by the owner-occupier, 
+basic requirements for survival of humans, not the builder. Solving the problem of waste is 
+according to Abraham Maslow, followed by left to local authorities. 
+safety, belongingness and love, esteem and The actors of the circular economy are 
+self-fulfilment.2 To put it crudely, architecture managing manufactured capital (stock) in 
+has followed Maslow’s evolution from time, by (re)using goods, components and 
+adopting caves for shelter to building ego – materials with the objective of preserving 
+monuments of cultural identity. the stock’s economic value, based on a 
+
+xiv
+
+technology
+management efficiency
+
+
+
+philosophy of caring and stewardship and Yet the reuse of materials to prevent 
+considering the whole life cycle of goods, with waste is also a management option in 
+a focus on the (re)use phase. new infrastructure projects. In Switzerland, 
+
+A recent example of component reuse construction of the new Gotthard rail tunnel – 
+is the deep retrofit of New York’s Empire the world’s longest – produced the equivalent 
+State Building in 2010. It included the onsite of five Giza pyramids of mining waste,4 which 
+remanufacturing of its 6,514 windows into was used as raw material to build the new 
+triple-glazed super-windows. (infra)structure of the project, including spray-
+
+concrete for the tunnel itself. Of the 28 million 
+
+‘        Cutting winter heat loss by two-thirds tonnes of rock excavated, 15kg was delivered 
+and summer heat gain by half, the to the Swiss post office, ground into fine 
+
+advanced glazing, along with improved powder and, using a special paint, integrated 
+lighting and office equipment, will cut the into a special issue of postage stamps named 
+building’s peak cooling load by one-third. ‘Gottardo 2016’. 
+This load reduction allowed the renovation of For society, the circular challenge of the 
+the old chiller plant, slated for replacement existing built environment is two-fold: how 
+and expansion, saving more than US$17 to finance the operation, maintenance and 
+million in budgeted capital expenditure.3 replacement of our ageing infrastructure, and 
+
+how to best adapt building stocks to changes 
+When Nestlé renovated its headquarter in demand and technological progress. 
+building in Vevey, Switzerland, in the late Changes in demand come both from markets 
+1990s, it developed a reuse strategy for the – churches are transformed into residential 
+same problem. The existing windows were or commercial property, for instance – and 
+donated to Bosnia, where many school society – energy needs have to be decoupled 
+buildings had been heavily affected during from CO
+
+2 emissions, through energy savings 
+the Bosnian War, and where the windows from or substitution; and urban planning may set 
+Vevey – in perfect working condition – could priorities for the future that differ from the 
+be directly reused. past. And some buildings become part of the 
+
+Reusing materials for the same application is national heritage, our cultural capital, and 
+becoming the norm in some European countries need to be preserved accordingly. 
+in road resurfacing and demolition–rebuilding Why is the circular economy more 
+projects. ‘Ceramic waste’ can be reused as sustainable than the industrial one? The 
+aggregate in new concrete structures, but needs activities of the circular economy are ecological 
+the establishment of new material standards because they are regional and low-carbon, 
+and testing methods. The stock of buildings is use few resources and preserve the water, 
+a strategic resource base for future use, if we energy and material embodied in the goods. 
+learn to sustainably deconstruct buildings at the And these activities are labour intensive, on 
+highest level of value preservation. Urban mining a micro- and a macro-economic level. A 2015 
+is one of the new terms for the recovery of waste Club of Rome study of seven EU countries 
+materials for reuse. found that a shift to a circular economy would 
+
+xv
+
+
+
+reduce a nation’s greenhouse gas emissions multistorey structures for office and residential 
+by up to 70% and grow its workforce by about space using purpose-fitted ISO shipping 
+4% – the ultimate low-carbon economy.5 The containers now exist in a number of countries. 
+solutions with the highest preservation of Examples of modular construction systems 
+monetary value are normally also the most using standardised steel beams and panels 
+environmentally friendly and most labour- of corrugated steel sheet have been around 
+intensive ones: reuse, repair, remanufacture. for a long time, especially for industrial and 
+Despite the higher labour input, these agricultural halls in the USA. Prefabricated 
+activities are economically viable because elements made of timber panels have started 
+material resource inputs are greatly reduced, to be developed for multistorey hotels and 
+compared to the industrial economy. schools since fire legislations have been 
+
+A circular economy manages and reuses changed in countries such as Switzerland. 
+manufactured capital – infrastructure, Designing buildings for minimum resource 
+equipment, goods, components and materials consumption during use is becoming 
+– in loops, taking into account that time mandatory in a number of European countries 
+is a key factor: doubling the service life of with regard to energy use. However, their 
+goods halves the resource consumption in efficiency may be reduced in residential 
+manufacturing and halves end-of-life waste buildings because they impose restrictions 
+volumes. But while building waste in the past on inhabitants’ behaviour (sleeping with 
+consisted of components such as dimension closed windows; preference for warmer room 
+stone and bricks that could be reused as temperatures than planned). Plus-energy 
+such, modern constructions use composite buildings – which produce more energy than 
+materials such as steel-reinforced concrete, they use and thus are autonomous – were  a 
+welded structures and plastics which cannot favourite with former New York City mayor 
+be ‘undone’. Michael Bloomberg because of their social 
+
+Today’s building industry thus faces a triple contributions: they provide lighting to their 
+challenge of: surroundings and prevent people getting 
+
+trapped in lifts during power cuts (blackouts), 
+• 	 developing efficient and waste-free 
+
+construction methods, enabling a later reuse which have become more common in recent 
+of components and materials years for a number of reasons. Buildings thus 
+
+• 	 designing buildings for minimum resource will increasingly have to be designed as urban 
+consumption during operation and systems solutions. 
+maintenance, which includes flexibility and The development of methods to 
+adaptability to changes in use
+
+deconstruct high-rise buildings has recently 
+• 	 developing methods enabling the 
+
+deconstruction of buildings and infrastructure started in Japan. The ANA Intercontinental 
+
+while preserving the highest value. Hotel was probably the first attempt to 
+deconstruct a high-rise structure using an 
+
+Emergent nearly-waste-free reusable eco-friendly and resource-saving process. 
+construction methods include modular The building was demolished top down in 
+system buildings: for instance, temporary 2014 beneath a turban that was lowered 
+
+xvi
+
+
+
+hydraulically floor by floor to minimise noise Many products of modern technology – IT, 
+and dust emissions; a vertical shaft with photovoltaic panels, windmills – violate 
+a goods lift in the middle of the building the fifth and sixth of these principles: their 
+allowed the deconstructors to recover production cannot use recycled materials, and 
+components and sorted materials, while some of the materials, such as components 
+generating energy from the downward using nanotechnology or carbon fibre 
+lift transports. A future task could be the laminates, cannot be recycled. The Internet of 
+deconstruction of nuclear power stations in Things (IoT) will probably increase the number 
+Germany, which will be shut down as part of of components of modern technology in future 
+the Energiewende, the political decision to buildings, multiplying the problems posed by 
+rely entirely on wind and photovoltaic energy construction waste. 
+for the future electricity supply. But a more concrete danger is that the 
+
+Can appropriate design, such as eco- construction industry will be regarded as an 
+design, at least partly solve this problem? elegant way to ‘eliminate’ the bulk of this 
+Let us look at the 12 Principles of Design for waste, namely components made of fibre 
+Environment (Eco-Design), defined by IDSA, laminates, the volume of which is rapidly 
+the Industrial Designer Society of America, increasing. Carbon laminates today are 
+in 1992. extensively used in mass-produced goods such 
+
+as aircraft, cars and windmills. Some French 
+The 12 IDSA Principles of Design  researchers study ways to cut carbon laminates 
+for Environment 6 into small cubes and use them as ‘eco-friendly’ 
+
+•	 Make it durable. aggregate in reinforced concrete – ‘eco-
+
+• 	 Make it easy to repair. friendly’ because they replace natural sand 
+
+• 	 Design it so it can be remanufactured. and gravel and thus reduce the environmental 
+impairment of concrete production. 
+
+• 	 Design it so it can be reused.
+But – and this is a huge but – what goes 
+
+• 	 Use recycled materials.
+in will come out when the buildings are 
+
+• 	 Use commonly recyclable materials.
+demolished, many decades later. We would 
+
+• 	 Make it simple to separate the recyclable 
+components of a product from the non- simply displace the waste problem in time, 
+recyclable components. leaving an undesired heritage to our children – 
+
+• 	 Eliminate the toxic/problematic components certainly not a sustainable solution. 
+of a product or make them easy to replace or Reuse poses new challenges, both risks 
+remove before disposal. and opportunities, to designers, architects and 
+
+• 	 Make products more energy/resource engineers. Architecture is thinking in systems 
+efficient.
+
+to create systems solutions. And architecture 
+• 	 Use product design to educate on the 
+
+environment. is about time. A lighthouse on such a forlorn 
+rock as Fastnet Rock is timeless functionality: 
+
+• 	 Work towards designing source reduction-
+inducing products (ie products that eliminate form follows function. But it is not only about 
+the need for subsequent waste). architecture, it is primarily about shipping 
+
+• 	 Adjust product design to reduce packaging. safety, improving our quality of life. 
+
+xvii
+
+
+
+Built structures are moments of history a Concrete Award distinction. When British 
+frozen in stone, the durability of which Rail later abandoned its lorry fleet, the building 
+depends on their desirability over time more became redundant and was only saved from 
+than the materials chosen. So architecture demolition after having been awarded a Grade 
+is about culture. Besides reuse, there are II* listing. After a long period of neglect, this 
+other strategies to achieve higher resource landmark has finally been reused, with some 
+efficiency, such as dematerialisation through interior transformation, as the headquarters 
+technological progress – witness pneumatic of the Monsoon fashion label. It is now, a 
+structures in construction and transport – which long time after the death of Messrs Bicknell 
+can offer solutions, as well as sufficiency. and Hamilton, a jewel in the new fashionable 
+
+In the late 1960s, I worked as a young pedestrian zone between Paddington and 
+architect for John R Bicknell and Paul A Little Venice, along the Grand Union Canal.  
+Hamilton, two chartered architects in London, Reuse is nature’s principle: waste is food 
+on the Paddington Maintenance Depot (PMD), in a cascading chain to bacteria. All waste is 
+near Little Venice. Built to maintain the lorries therefore made by ‘industrial man’, be it in 
+of British Rail, it fits into a triangle between space, water or on land. Extending the use 
+the Grand Union Canal, Harrow Road and phase of built structures through reuse is not 
+West Way, and consists of a low-level oval only a strategy to achieve higher resource 
+building and an office block, separated by efficiency, it is a conscious decision by people 
+a road, making optimal use of a then urban – planners, owners, politicians and architects – 
+wasteland – a singular building, which received on how we shape our future. 
+
+xviii
+
+
+
+INTRODUCTION
+Duncan Baker-Brown
+
+How to read this book …  and neighbourhoods, etc. Therefore, I have 
+
+and why you should included upcyclers and hackers (they take 
+artefacts, products, buildings even, and 
+
+How can designers and architects respond adapt them instead of throwing them away), 
+to the huge challenges that the circular retrofitters and super-users, as well as the 
+economy presents? There are many books emergent closed-loopers.
+that have been published over the last ten While I want this book to be read at length, 
+years that have attempted to define the I suspect that more often it will be dipped into 
+concepts of a circular economy and speculate as a reference. In addition to the ‘prequel’ and 
+upon the benefits, whether they be financial, ‘sequel’ essays, I have focused on the series of 
+environmental or social. There are also a few short case studies. All are based on interviews 
+books that look at the challenges facing the with the main protagonists, and all have ‘key 
+people who design the stuff that will need to words’ below the titles so that readers can see 
+become a material resource for the future. the main issues addressed by each project. I 
+
+This book considers many of the issues that have also written a short opinion piece at the 
+present themselves when considering what end of each case study, by way of a summary 
+steps we need to take to turn our ‘throwaway, but also to encourage further debate.
+linear culture’ into a ‘circular system’ similar The case studies are divided into four 
+to the ecosystems found in the natural world. chapters, or ‘steps’, each one taking you nearer 
+We demonstrate, via exemplar projects the concept of the circular economy. Each step 
+from around the world, various strategies is supplemented by an in-depth interview with 
+that, crucially, take one on a transformative someone whose work exemplifies the concept 
+route towards a circular economy: a route discussed, giving an idea of the challenges and 
+that acknowledges there are other issues to opportunities that present themselves as one 
+consider, not least that of clearing up the mess navigates a route towards circularity. 
+humankind has created over the last 1,000 It was important to have the word ‘atlas’ 
+years. So we will also look at projects that in the title, as the book is intended to act 
+encourage the first phase of this process and as a guide for designers, architects, clients 
+will include the cleaning up of our oceans and and students, to help them negotiate the 
+landfill sites, working with existing buildings often-confusing language and rhetoric that 
+
+1
+
+
+
+surrounds this latest response to the challenge 
+fig. 0.4  Rusting drum on a beach in Sicily
+
+of protecting our planet. All interviewees were 
+asked why they were pursuing their particular 
+interests, and most particularly how they were 
+going about their ‘circular’ work within the 
+linear economy that prevails today. 
+
+This book also offers an overview of what 
+is actually happening in the second decade of 
+the 21st century in the worlds of sustainable 
+design and architecture. Originally I 
+considered writing a book that just focused on 
+emerging attempts to design in a completely 
+closed-loop, circular way. Professor Dr Michael 
+Braungart, co-author of the seminal text 
+Cradle to Cradle,1 is often quoted as saying 
+that sustainable development promotes 
+the idea of being ‘less bad’. ‘Recycling and 
+reusing stuff is not worth the effort. It is 
+merely slowing down the inevitable.’2 Cradle 
+to Cradle promotes the wholesale behaviour 
+change required to live in a circular economy, 
+in harmony with Planet Earth. This is, in 
+my opinion, correct. However, we are not 
+starting with a clean, fresh and vibrant planet. 
+Humankind has literally wrapped the surface 
+of Planet Earth with the detritus associated 
+with our day-to-day lives. This has occurred to 
+such an extent that many scientists consider 
+that we have entered a new human-made 
+geological era, the ‘Anthropocene’. This has 
+been occurring at an ever-increasing rate 
+since we abandoned the idea of being hunter-
+gatherers and started cutting down forests to 
+plant crops for food.
+
+Although I sympathise with Braungart’s 
+position, I cannot ignore the need to deal 
+with what could be called ‘the great clean-
+up’ – that is the clearing up of ocean plastic, 
+the mining of landfill sites, and the reuse of 
+existing materials and structures residing 
+
+2

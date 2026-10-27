@@ -1,0 +1,903 @@
+﻿Construction Waste 
+Indicative Cost (CWIC) 
+Calculator - User Guide
+
+
+
+User Guide
+
+Contents
+1.	 Set up
+2.	 Data input
+3.	 Dashboard costs
+4.	 Dash Volume
+5.	 Dash Weight
+6.	 Dash Source
+7.	 Dash Condition
+8.	 Report tab
+9.	 Lists tab
+10.	 Costs tab
+11.	 Calcs tab
+
+
+
+User Guide
+
+1. Set up
+
+All cells that require/allow data entry are green. - The date(s) when data collection took place 
+Figure 1 shows the ‘Set up’ page, pre-populated - Company name 
+with example data. This requires the user to insert - User name 
+the following information: - Site/location and any site-specific reference. 
+
+Figure 1: CWIC Calculator Set up Page
+
+1.1.	 Figure 1 also shows fields with drop-down 1.2.	 ‘Construction type’ has four options as 
+lists for: ‘Construction type’; ‘Project type’; follows:
+‘Project phase’; ‘Season’ and ‘Weather’. 1.2.1.	 All construction work
+
+1.2.2.	 Maintenance
+
+1.2.3.	 New build
+
+1.2.4.	 Refurbishment/renovation
+
+
+
+User Guide
+
+1. Set up
+
+1.3.	 ‘All construction work’ is the default and 1.4.	 ‘Project type’ is split between the two 
+should be used for project types that include broad categories of ‘Building’ and ‘Civil 
+a mix of the others, however if the project Engineering’. Choose the option from the 
+type is specifically one of the remaining drop-down list that best describes the 
+options then chose this from the drop-down type of work involved in the project. Only 
+list. Only one option is allowed. one option is allowed therefore choose the 
+
+one that covers the majority of the project 
+scope by value or volume. Table 1 shows the 
+options available. 
+
+Table 1: Project types
+
+Building Civil Engineering
+Building: Commercial Offices Civil Engineering: Airports
+Building: Commercial Other Civil Engineering: Bridges & Structures
+Building: Commercial Retail Civil Engineering: Coastal protection
+Building: Education Civil Engineering: Development site infrastructure
+Building: Healthcare Civil Engineering: Flood defence
+Building: Industrial Buildings Civil Engineering: Highways
+Building: Leisure Civil Engineering: Landfill & Quarries
+Building: Mixed Use Civil Engineering: Other
+Building: Other Civil Engineering: Ports & harbours
+Building: Public Buildings Civil Engineering: Railways
+Building: Residential Civil Engineering: Tunnels
+Building: Transport Civil Engineering: Utilities - infrastructure
+
+Civil Engineering: Utilities - streetworks
+
+
+
+User Guide
+
+1. Set up
+
+1.5.	 ‘Project phase’ relates to the construction 1.7.1.	 Spring
+phase works being undertaken at the time 1.7.2.	 Summer
+of data collection. These have been aligned 
+to three broad time-frames of ‘Early’; 1.7.3.	 Autumn
+‘Mid’; and ‘End’ to allow a wide collection 1.7.4.	 Winter
+of construction work to be accommodated. 
+
+1.8.	 ‘Weather’ options are based on Met office 
+Within these broad descriptions the 
+
+classifications. One option should be 
+following options are available in the drop-
+
+chosen based on the most common weather 
+down list:
+
+conditions that prevailed during data 
+1.5.1.	 Early: Demolition/removal of collection (which could happen over several 
+
+existing days).  The weather options are as follows:
+1.5.2.	 Early: Foundations/earthworks/ 1.8.1.	 Clear
+
+preparation
+1.8.2.	 Cloudy
+
+1.5.3.	 Early: Mixed use/general
+1.8.3.	 Drizzle
+
+1.5.4.	 Mid: Structure/superstructure/
+1.8.4.	 Fog
+
+installation
+1.8.5.	 Hail
+
+1.5.5.	 Mid: Building envelope/
+waterproofing 1.8.6.	 Hail shower
+
+1.5.6.	 Mid: Mechanical, electrical 1.8.7.	 Heavy rain
+plumbing (MEP) 1.8.8.	 Heavy rain showers
+
+1.5.7.	 Mid: Mixed use/general 1.8.9.	 Heavy snow
+1.5.8.	 End: Finishes/surface finishes 1.8.10.	 Heavy snow showers
+1.5.9.	 End: Post-handover works 1.8.11.	 Light rain
+1.5.10.	 End: Mixed use/general 1.8.12.	 Light rain showers
+
+1.6.	 The options in 1.6 allow both building and 1.8.13.	 Light snow
+civil engineering works to be accommodated 
+in the project phases. The ‘Mixed use/ 1.8.14.	 Light snow showers
+
+general’ options also allow for projects 1.8.15.	 Mist
+where multiple works may be ongoing 1.8.16.	 Overcast
+throughout the duration of construction 
+works e.g. in housebuilding or large mixed- 1.8.17.	 Partly cloudy
+use developments, where foundations, 1.8.18.	 Sleet
+superstructure and finishing works may be 
+
+1.8.19.	 Sleet shower
+taking place simultaneously. 
+
+1.8.20.	 Sunny
+1.7.	 ‘Season’ allows one option from the drop-
+
+down list, for each of the four seasons of the 1.8.21.	 Thunder
+year: 1.8.22.	 Thunder shower
+
+1.8.23.	 Not available
+
+
+
+User Guide
+
+1. Set up
+
+1.9.	 The final ‘Not available’ option should be 1.11.	 The method of estimating travel distances is 
+chosen if it was not possible to obtain the described in the CWIC Protocol document. 
+weather information. However, every effort Once these have been decided, input them 
+should be made to record if adverse weather either under their individual modes of travel 
+occurred as this may have caused damage (walking, hoist/lift, vehicle) or estimate an 
+to fragile or perishable materials. overall average for the site.
+
+1.10.	 Set up page – Distances to skip: the average 1.12.	 Set up page – Size of skip sampled: The 
+distances to the skip should be input here. default skip size is an 8 yard skip. But the 
+There are three modes of travel allowed for user has the option to increase the size 
+and the user should use all that apply (see (there is no smaller option because ‘8 
+Figure 1), note that the ‘Total average (auto)’ yard’ is the minimum for calculating the 
+field is automatically calculated on the figures). Alternative sizes go up to 40 yards 
+spreadsheet using the cumulative figures and are used to alter the cost and volume 
+for walking, hoist/lift, and vehicle. However, parameters for analysis. Note that the skip 
+there is also an option for the ‘Total average options appear as a drop-down list and, like 
+(manual)’ to be used. every drop-down list in the CWIC Calculator, 
+
+it has a darker shade of green than the 
+others.
+
+
+
+User Guide
+
+1. Set up
+
+2.1	 CWIC Calculator – Data input page (left side): 2.2	 The fist column in the Data input table is 
+The ‘Data input’ tab (which appears along a sequence number for reference. This is 
+the bottom of the spreadsheet – see Figure automatically generated, from 1 to 200.
+1) is where most of the waste information is 
+
+2.3	 The second column is ‘Type of waste’; choose 
+input. This sheet takes the form of a table 
+
+from the drop-down list, as shown in Figure 
+with headings describing what information is 
+
+2. Column three is automatically filled with 
+needed, and rows for inputting information 
+
+the European Waste Catalogue (EWC) code, 
+relating to each waste item (or collection of 
+
+depending on type of waste chosen. Note: only 
+similar items) in the skip. Data is input from 
+
+‘construction and demolition’ waste codes are 
+left to right along each row, as shown in  
+
+explicitly used (those beginning with a ‘17’) any 
+Table 2.
+
+other waste (e.g. tools, equipment, furniture, 
+carpets) are treated as ‘Other’. There are some 
+useful tips regarding data input as follows:
+
+Table 2: Data input headings (left side)
+
+2.3.1.	 Try to be specific; there are some and demolition wastes’ is a Tier 
+waste categories that include 1 option that allows materials 
+multiple materials in their such as bricks, plasterboard, 
+description. But there is a two-tier timber etc. to be logged in Tier 2. 
+system for specific categorising But if demolished bricks, timber, 
+of waste in the second tier. Using plasterboard etc. are logged in 
+the second tier will help avoid Tier 1, the CWIC Calculator will 
+combining multiple wastes in one assume this is material that was 
+data entry. Doing this will lead to purchased for the project and add 
+more accurate cost analysis. purchase costs, which is incorrect. 
+
+2.3.2.	 Take time to learn the drop-down As a general rule, only use ‘mixed 
+
+lists; the two-tier system means construction and demolition wastes’ 
+
+some materials are not obvious for existing in-situ material that has 
+
+until the Tier 1 option is chosen. been demolished, deconstructed or 
+
+For example, ‘mixed construction stripped out. 
+
+
+
+User Guide
+
+2. Data input
+
+2.3.3.	 Some options on the Data input 2.3.4.	 Under the ‘Other Each’ Tier 1 
+tab have been developed to be categories, there is a Tier 2 option 
+complementary, for example, there for ‘Other [Zero Cost]’. This category 
+are several types of packaging has been included to identify other 
+waste in the Tier 1 drop-down waste (not identified elsewhere) 
+list. The most common reason with zero cost to the project e.g. 
+packaging ends up in the skip is office and canteen waste (explained 
+because it cannot be returned to the further in 3.6).
+supplier, therefore ‘not recovered by 
+supplier’ is an option for the waste 
+‘Source’ (see Section 3.13).
+
+Figure 2: Type of waste example drop-down list
+
+2.4.	 There are ‘Other’ options for anything not on 2.5.	 Column four is ‘Description of waste’. This 
+the list, which are based on their respective is a secondary (Tier 2) list of materials for 
+units of measure: Each; Linear meter; Meter each Tier 1 option and does not become 
+squared; Meter cubed, depending on the active until a Tier 1 option is chosen. This 
+usual unit of measurement for purchasing second tier provides options for greater 
+the material. cost accuracy. Most Tier 2 lists include a 
+
+‘general’ option if specific materials are not 
+on the example list as shown in Figure 3.
+
+Figure 3: Description of waste example drop-down list
+
+
+
+User Guide
+
+2. Data input
+
+2.6.	 Column five is ‘Notes on waste’. This is a 2.7.19.	 Over ordering
+user defined field and can be used to provide 2.7.20.	 Temporary Works
+more detail information, and/or record e.g. a 
+cross-reference of corresponding photos of 2.7.21.	 Waste caused by other trades (if 
+the waste. This field is purely for information unprotected)
+only and is not specifically analysed. 2.7.22.	 Wrongly specified (by contractor)
+
+2.7.	 Column six is ‘Source of waste’, which is 2.8.	 CWIC Calculator – Data input page (right 
+used to record the reason why the waste side): Table 3 shows the right side of the 
+materials are in the skip. This is a pre- Data input sheet. The headings on this side 
+populated drop-down list. The CWIC Protocol of the sheet continue from left to right, 
+document explains how to decide which following on from those shown in Table 2.
+option should be chosen. Once decided, 
+chose one of the following options:
+
+2.7.1.	 Application and residue waste Table 3: Data input headings (right side)
+(spillage)
+
+2.7.2.	 Canteen and office waste
+
+2.7.3.	 Client/designer change of mind
+
+2.7.4.	 Conversion waste (dimensions)
+
+2.7.5.	 Criminal waste (vandalism)
+
+2.7.6.	 Cutting waste
+
+2.7.7.	 Damaged: Site storage and internal 
+site transit waste
+
+2.7.8.	 Damaged: Transport and delivery
+
+2.7.9.	 Damaged: weather
+
+2.7.10.	 Demolition and stripping out
+
+2.7.11.	 Design error
+
+2.7.12.	 Excavated waste
+
+2.7.13.	 Excess materials (too much in a 
+batch)
+
+2.7.14.	 Fixing waste: built in wrong place
+
+2.7.15.	 Fixing waste: poor workmanship/
+quality
+
+2.7.16.	 Learning waste
+
+2.7.17.	 Manufacturing defect
+
+2.7.18.	 Not recovered by supplier 
+(packaging)
+
+
+
+User Guide
+
+2. Data input
+
+2.9.	 The first column in Table 3 shows the next 2.11.1.	 As good as new
+option for data entry, following on from 2.11.2.	 Potentially reusable
+entering the ‘Source’ of the material (see 
+Table 2). This option is for entering how many 2.11.3.	 Slight damage/Reparable
+objects of the same material and of similar 2.11.4.	 Suitable for recycling
+size there are e.g. the number of single 
+
+2.11.5.	 Mostly recyclable (applicable to 
+bricks. This is particularly useful when a load 
+
+multiple or bulk materials)
+of e.g. cut plasterboard sheets are placed in 
+the skip at the same time. Even if they are of 2.11.6.	 Disposal/Landfill
+differing sizes, observing the smallest and 2.11.	 Estimating the condition of the waste is 
+largest sheet will allow an estimate to be subjective, however the CWIC Protocol 
+made of the average dimensions per sheet document provides guidance and examples to 
+to input the load on one row. It is essential to help decide which option to choose.
+input a number ‘1’ for single objects so the 
+‘volume’ calculator works properly. 2.12.	 The final two columns of data input allow 
+
+further cost calculations to be made, 
+2.10.	 The dimension (second, third and fourth) depending on whether materials were 
+
+columns should be self-explanatory and installed then removed, and/or replaced 
+are input in millimetres. However, note with new materials. These options are 
+that the ‘Total volume’ column is auto-filled closely linked to the ‘Source’ options for the 
+(this column is not green, indicating it is not materials, however, their application is left 
+for data input) and should not be used to to the discretion of the user as they need to 
+estimate the volume of objects; the three be considered on a case by case basis. For 
+dimensional planes need to be used for this example, the first of these columns should 
+data input and a measuring tape is useful to be checked if, e.g. a wall was built in the 
+help record dimensions. The CWIC Protocol wrong place, then pulled back down. Further, 
+document describes how to estimate if a new wall had to be built in the correct 
+these dimensions. Note that the ‘Total location as a result of this, then the second 
+volume’ heading of column five in Table 3 column should also be checked. However, 
+incorporates a running total of waste volume another scenario applicable to these columns 
+as it is being logged. This shows that there may be materials with a manufacturing 
+is currently only 1.193m3 of waste logged, defect, which may be discovered before (don’t 
+therefore the figure is amber (as it is over the check the columns) or after (do check the 
+minimum 1m3) and will remain amber until columns) being installed on site. Note that 
+5m3 is logged, when it will turn green, after if these last two columns are left blank the 
+which it will turn red above 5.9m3 which is CWIC Calculator assumes them to be ‘No’ 
+the maximum amount. (see Table 3). Both columns are ‘yes’ in Table 
+
+2.11.	 The next column, after ‘Volume’, is the 3 for one row due to ‘Poor workmanship’, and 
+‘Condition’ of the waste. This field allows the ‘New material needed…’ is ‘yes’ because 
+an estimation of the suitability of the waste this row is for a broken broom that has been 
+materials regarding the potential for reuse or replaced. 
+recycling (i.e. circular economy). The options 
+come from a drop-down list as follows:
+
+
+
+User Guide
+
+3. Dashboard costs
+
+3.1.	 There are four main groups of information 3.4.	 The materials breakdown table shows costs 
+displayed in the Dashboard costs tab: for each Tier 1 category chosen during 
+
+3.1.1.	 Overview of costs (top table) data input. This is a dynamic table and the 
+following steps need to be taken to refresh 
+
+3.1.2.	 Materials Breakdown: sample from it:
+skip
+
+3.4.1.	 Click the drop-down filter in the top 
+3.1.3.	 Cost of materials pie chart right corner of the table (see Figure 
+3.1.4.	 Project information (copied from 4);
+
+‘Set up’ tab) 3.4.2.	 Click ‘select all’ to ensure the table 
+3.2.	 The cost overview table has five columns as includes all newly input categories;
+
+follows: 3.4.3.	 Uncheck any box(s) with zeros (e.g. 
+3.2.1.	 1st column describes the cost £0, £-, 0) to declutter the table.
+
+elements: materials, labour, skip 3.4.4.	 Click the ‘OK’ box.
+hire, and VAT;
+
+3.2.2.	 2nd column shows the combined Figure 4: Refresh Dashboard tables, 
+direct (purchase cost) and indirect remove zeros
+cost (for reasons given in Section 
+2.13) calculations for the waste 
+materials sampled, including 
+confirmation of the volume of 
+sample waste in the header (m3);
+
+3.2.3.	 3rd column shows costs calculated 
+per cubic meter;
+
+3.2.4.	 4th column shows costs extrapolated 
+from the sample (in column 1), 
+presented for the size of skip 
+chosen in the ‘Set up’ tab (the skip 
+size is indicated in the header);
+
+3.2.5.	 5th column shows the same cost 
+data as column 4, but with the 
+option to change the skip hire cost.
+
+3.3.	 The reason for the 5th column described in 
+3.2.5 is to allow the user to alter the skip 
+cost for either a different type of skip from 
+the default e.g. segregated skips tend to 
+have a lower skip hire cost than mixed 
+skips, or to insert a more accurate skip hire 
+cost based on what the user actually paid 
+(excluding VAT).
+
+
+
+User Guide
+
+3. Dashboard costs
+
+3.5.	 The resulting table shows combined costs this user guide. Office and canteen waste is 
+for all materials within each Tier 1 category, assumed to have zero purchase price to the 
+excluding materials with no costs. Note project. This should be dealt with as either 
+that some Tier 1 categories are designed to packaging waste (if the contents are all e.g. 
+have zero cost e.g. demolition waste. The food packaging) or ‘Other Each’ (Tier 1), then 
+following categories have zero costs pre- ‘Other [Zero Cost]’ (Tier 2).
+selected: 3.7.	  The materials breakdown table only 
+3.5.1.	 Inert soil and stones includes costs for materials physically 
+
+3.5.2.	 Dredging spoil in the skip. However, the cost figure for 
+materials in the overview table (as described 
+
+3.5.3.	 Mixed construction and demolition in Sections 2.13 and 3.2.2) includes indirect 
+wastes costs for any waste materials that had to be 
+
+3.5.4.	 Packaging: Paper/Card replaced (i.e. purchased twice because the 
+original material was wasted). The examples 
+
+3.5.5.	 Packaging: Plastic
+described in Section 2.13 result in the 
+
+3.5.6.	 Packaging: Metal following scenario:
+3.5.7.	 Packaging: Glass 3.7.1.	 Total Material Costs, shown in 
+3.5.8.	 Packaging: Textiles Table 4, include the replacement 
+
+cost of new materials due to 
+3.5.9.	 Packaging: Paint cans (Metal / poor workmanship and buying a 
+
+Plastic) replacement broom = £336.34;
+3.5.10.	 Other Each 3.7.2.	 Materials Breakdown (of waste 
+3.5.11.	 Other Linear meter sampled in the skip) shown in Table 
+
+3.5.12.	 Other Square meter 5, adds up to £300.29;
+
+3.5.13.	 Other Volume cubic meter 3.7.3.	 The difference (£36.05) is the 
+additional cost of materials bought 
+
+3.6.	 Items 3.5.1 – 3.5.9 are expected to be zero to replace those in the skip. This 
+as they represent waste materials with difference is not explicitly shown in 
+no purchase price. However, the ‘Other’ the Dashboard Costs tab for brevity, 
+categories allow the user to insert one-off but is shown in full within the 
+costs depending on what the waste material Report tab (explained in Section 8.0 
+is i.e. having either project costs or not. of this user guide). 
+This is explained further in Section 10 of 
+
+Table 4: ‘Overview of costs’ example
+
+
+
+User Guide
+
+3. Dashboard costs
+
+Table 5: ‘Materials breakdown: sample from skip’ example
+
+3.8.	 	The pie chart in the ‘Dashboard Costs’ tab 3.9.	 	Note: ‘Other each’ in Table 5 and Figure 
+presents data from the materials breakdown 5 relates to costs for a broom and wheel 
+table, with costs and percentage labels barrow, whilst ‘Other Square Meter’ 
+(as a percentage of costs in the materials is for carpet tiles (EWC is ‘textiles’ not 
+breakdown table). The corresponding pie ‘construction and demolition’) as shown in 
+chart for the material costs in Table 5 is the example data from Table 2.
+shown in Figure 5. 3.10.	 The final group of information in the 
+
+‘Dashboard Costs’ tab is project-specific 
+information, namely:
+
+3.10.1.	 Company name;
+
+3.10.2.	 User name;
+
+3.10.3.	 Site/location;
+
+Figure 5: ‘Cost’ pie chart example 3.10.4.	 Dates (of data collection).
+
+
+
+User Guide
+
+4. Dash Volume 
+
+4.1.	 There are three groups of information 4.3.	 The Materials breakdown table in the 
+displayed: ‘Dash Volume’ tab is a dynamic table and 
+
+4.1.1.	 Project-specific information (see is refreshed following the same procedure 
+
+Section 3.10); described in Section 3.4 of this guide. An 
+example of waste volumes (m3), using the 
+
+4.1.2.	 Materials Breakdown table (with data shown in Tables 2 and 3 of this guide, is 
+similar functionality to the one shown in Table 6. Note that Table 6 includes 
+described in Section 3.4); a new waste category not shown in Table 5: 
+
+4.1.3.	 Volume (m3) pie chart. ‘Mixed construction and demolition wastes’. 
+This is because it is demolition waste, 
+
+4.2.	 The project-specific information is copied 
+therefore is not included in Table 5 as it does 
+
+from the ‘Set up’ tab, in line with all other 
+not have a purchase cost to the project.
+
+Dashboard tabs.
+
+Table 6: ‘Materials breakdown – Volume (m3)’ example
+
+
+
+User Guide
+
+4. Dash Volume 
+
+4.4.	 The ‘Dash Volume’ pie chart shows waste by 
+percentage of waste materials (by volume 
+m3) sampled in the skip. An example is 
+shown in Figure 6, which is based on the 
+data in Table 6.
+
+Figure 6: ‘Volume’ pie chart example
+
+
+
+User Guide
+
+5. Dash Weight
+
+5.1.	 There are three groups of information 5.3.	 The Materials breakdown table in the 
+displayed: ‘Dash Weight’ tab is a dynamic table and 
+
+5.1.1.	 Project-specific information (see is refreshed following the same procedure 
+
+Section 3.10); described in Section 3.4 of this guide. An 
+example of waste weights (t), using the data 
+
+5.1.2.	 Materials Breakdown table (with shown in Tables 2 and 3 of this guide, is 
+similar functionality to the one shown in Table 7. Note that Table 7 merely 
+described in Section 3.4); copies the data from Table 6, but substitutes 
+
+5.1.3.	 Weight (metric tonne) pie chart. volume for weight (t) using prescribed 
+density conversion factors for each Tier 1 
+
+5.2.	 The project-specific information is copied 
+category of waste.
+
+from the ‘Set up’ tab, in line with all other 
+Dashboard tabs.
+
+Table 7: ‘Materials breakdown – Weight (t)’ example
+
+
+
+User Guide
+
+5. Dash Weight
+
+5.4.	 The ‘Dash Weight’ pie chart shows waste by 
+percentage of waste materials (in tonnes) 
+sampled in the skip. An example is shown in 
+Figure 7, based on the data from Table 7.
+
+Figure 7: ‘Weight’ pie chart example
+
+
+
+User Guide
+
+6. Dash Source
+
+6.1.	 There are three groups of information 6.3.	 The Source table in the ‘Dash Source’ tab is 
+displayed: a dynamic table and is refreshed following 
+
+6.1.1.	 Project-specific information (see the same procedure described in Section 3.4 
+
+Section 3.10); of this guide. An example of waste sources, 
+using the data shown in Tables 2 and 3 of 
+
+6.1.2.	 Source (by volume) table (with this guide, is shown in Table 8. This uses 
+similar functionality to the one the Source categories described in Section 
+described in Section 3.4); 2.7 of this guide, and applying the data input 
+
+6.1.3.	 Source (by volume) pie chart. examples from Tables 2 and 3.
+
+6.2.	 The project-specific information is copied 
+from the ‘Set up’ tab, in line with all other 
+Dashboard tabs.
+
+Table 8: ‘Source’ by volume of waste example
+
+
+
+User Guide
+
+6. Dash Source
+
+6.4.	 The ‘Dash Source’ pie chart (Figure 8) shows 
+the data from Table 8. 
+
+Figure 8: ‘Source’ by volume of waste pie chart example
+
+
+
+User Guide
+
+7. Dash Condition
+
+7.1.	 There are three groups of information 7.3.	 The Condition table in the ‘Dash Condition’ 
+displayed: tab is a dynamic table and is refreshed 
+
+7.1.1.	 Project-specific information (see following the same procedure described 
+
+Section 3.10); in Section 3.4 of this guide. An example 
+of waste sources, using the data shown in 
+
+7.1.2.	 Condition (by volume) table (with Tables 2 and 3 of this guide, is shown in 
+similar functionality to the one Table 9. This uses the Condition categories 
+described in Section 3.4); described in Section 2.11 of this guide, and 
+
+7.1.3.	 Condition (by volume) pie chart. applying the data input examples from 
+Tables 2 and 3.
+
+7.2.	 The project-specific information is copied 
+from the ‘Set up’ tab, in line with all other 
+Dashboard tabs.
+
+Table 9: ‘Condition’ by volume of waste example
+
+
+
+User Guide
+
+7. Dash Condition
+
+7.4.	 The ‘Dash Condition’ pie chart (Figure 9) 
+shows the data from Table 9.
+
+Figure 9: ‘Condition’ by volume of waste pie chart example
+
+
+
+User Guide
+
+8. Report tab
+
+8.1.	 The ‘Report’ tab presents all the data from 8.2.	 A feature of the Report tables is that they 
+the individual Dashboard tabs in tabular provide fuller information, as shown in Table 
+form, together in one spreadsheet. This is 10. This extract identifies the additional cost 
+provided for ease of copying data out of the of £36.05, arising out of replacing wasted 
+CWIC Calculator. materials (as described in Section 3.7 of this 
+
+guide) for completeness.
+
+Table 10: extract from ‘Report’ tables
+
+
+
+User Guide
+
+9. Lists tab
+
+9.1.	 The ‘Lists’ tab is the first of three that 9.2.	 In keeping with the rules of the other tabs, 
+contain the information needed to produce the areas that allow user input are green 
+all the ‘Dashboard’ outputs from the ‘Data in colour. The only fields that are green in 
+input’ tabs. For the most part, the tables the Lists tab start at cell A50, as shown in 
+in this tab are locked. However, advanced the screen shot (Figure 10). From here, Tier 
+users can access certain parts of the Lists 2 categories of waste can be added to the 
+tab to alter options for Data input and existing lists. Figure 10 shows how each Tier 
+Dashboard settings. 1 Heading has sub-categories (the Tier 2 
+
+categories) under them. 
+
+Figure 10: Screenshot of Lists tab
+
+9.3.	 If users need to add new Tier 2 categories, version is not retyped or even copied and 
+there are five extra cells under each Tier pasted, but rather uses the equal sign (=) 
+1 heading for this, adding any more will followed by the location of the cell where 
+require advanced knowledge of Excel. the new category is in the ‘Costs’ tab. For 
+However, it must be stressed that the text example: =Costs!B38 is the location of the 
+used for each new Tier 2 category must first spare Tier 2 category in the ‘Costs’ 
+match the corresponding ones listed in the tab, as shown in Figure 11. Simply type: 
+‘Costs’ tab exactly (i.e. exact match of every =Costs!B38 into cell A50 of the ‘Lists’ 
+character) to prevent errors. Therefore, tab. Which means when the new Tier 2 
+it is recommended that once a new Tier category is created in the Costs tab, it 
+2 category is inserted into the ‘Costs’ tab will automatically update the ‘List’ tab 
+(see Section 10 of this guide for further with no errors. A fictitious Tier 2 category 
+information), the corresponding ‘List’ ‘Insulation: new insulation’ is shown in 
+
+Figure 11 to illustrate this point.
+
+
+
+User Guide
+
+9. Lists tab
+
+9.4.	 This process can be repeated for any other 9.5.	 Note that for reasons of consistency, it is not 
+new Tier 2 categories that need to be possible to allow new Tier 1 categories.
+inserted into the Lists tab, starting at the 
+‘Insulation’ list, and working to the right of 
+it.
+
+Figure 11: Screenshot showing a new Tier 2 link to ‘Costs’ tab
+
+
+
+User Guide
+
+10. Costs tab
+
+10.1.	 The ‘Costs’ tab is the second of three that 10.3.	 On the ‘Costs’ tab, there are green columns 
+contain the information needed to produce under the ‘materials’ ‘labour’ and ‘plant’ 
+all the ‘Dashboard’ outputs from the ‘Data headings for various ‘Other’ material 
+input’ tabs. For the most part, the tables options. These are default to zero. However, 
+in this tab are locked. However, advanced if there are unusual materials, not found in 
+users can access certain parts of the Costs the default list, then costs can be manually 
+tab to alter options for Data input and inserted here for any of the ‘Other’ cost 
+Dashboard settings. options: i.e. Each; Linear meter; Square 
+
+10.2.	 In keeping with the rules of the other tabs, meter; Cubic meter (depending on unit of 
+
+the areas that allow user input are green measurement for purchasing the material).
+
+in colour. There are a number of options 
+available to change in the Costs tab as 
+follows:
+
+10.2.1.	 Insert a name for ‘Other’ Tier 2 
+categories (these have no EWC 
+Codes);
+
+10.2.2.	 Insert materials, labour, and plant 
+costs for ‘Other’ Tier 2 categories;
+
+10.2.3.	 Change the default costs for all Tier 
+2 materials, labour and plant;
+
+10.2.4.	 Create new Tier 2 categories.
+
+Table 11: ‘Other’ cost options
+
+
+
+User Guide
+
+10. Costs tab
+
+10.4.	 Table 11 illustrates how ‘Other’ names and of measure) if they have this information and 
+costs can be input, note in the example £10 wish to include it as a project cost, which 
+per item has been inserted to demonstrate will automatically be added to the cost 
+the cost of a ‘Broom’ (in the ‘Other Each’ calculations. However, these can also be left 
+option under the ‘Material’ column) which is blank if, for example, the wheelbarrow was 
+not a standard default option from the CWIC owned by a third party or was already on the 
+lists. Likewise, Table 11 shows a barrow and site and therefore not a project cost.
+carpet tiles (per square meter) as textiles 10.5.	 The default list of all materials, labour 
+are not specifically labelled construction and plant costs is shown in the Figure 12 
+and demolition waste (17-XX-XX) under the screenshot, starting at cell E62. Users can 
+EWC (textiles are coded 20-01-11). Up to 9 replace these costs with their own purchase 
+different one-off items can be added to the costs for a more accurate estimate, which 
+‘Others’ lists for each unit of measurement is useful for internal benchmarking. 
+(i.e. Each; Linear meter; Square meter; However, this will mean like with like 
+Cubic meter). The user has the option to cost comparisons with other contractors 
+include the materials (‘Materials Rate’), (externally) will not be possible on costs.
+labour, and associated plant costs (per unit 
+
+Figure 12: Screenshot of default costs
+
+
+
+User Guide
+
+10. Costs tab
+
+10.6.	 Finally, for more advanced users, new Tier 
+2 categories can be inserted starting at cell 
+A38, as shown in the Figure 13 screenshot. 
+There are 20 spare rows for this purpose.
+
+Figure 13: Cost tab – spare Tier 2 rows
+
+10.7.	 The procedure to insert new Tier 2 10.7.3.	 Type the name of the new Tier 2 
+
+categories is as follows: category in cell B38, starting with 
+the name of the Tier 1 category, the 
+
+10.7.1.	 Decide the Tier 1 category that the fictitious example in Figure 13 is: 
+new Tier 2 category will sit under ‘Insulation: new insulation (where 
+(these are in the ‘Lists’ tab (see ’Insulation’ is the Tier 1 category, 
+Section 9.0 of this guide for how to and ‘new insulation’ is the new 
+access the list). Note: if the waste Tier 2 category). If the procedure in 
+material is a one-off or unusual, it Section 9.3 of this guide is followed, 
+is easier and quicker to include it then the List tab will automatically 
+under ‘Other’ (see Sections 10.3 – update with the new Tier 2 category;
+10.4);
+
+10.7.4.	 Decide the unit of measurement 
+10.7.2.	 Replace the first [SPARE01] text in for the new Tier 2 category, other 
+
+cell A38 with an equals (=) followed similar Tier 2 categories will 
+by the desired Tier 1 name (although provide a clue as to which one to 
+it is recommended that the cell use, but knowledge of the unit 
+location in the Lists tab of the Tier of measurement for purchasing 
+1 name is used to prevent typo the material is the key factor, e.g. 
+errors, e.g. ‘Insulation’ would be: insulation is usually priced per 
+=Lists!A41); square meter (m2);
+
+
+
+User Guide
+
+10. Costs tab
+
+10.7.5.	 Insert the desired unit of 10.7.7.	 Replicate this process for any other 
+measurement in column C (i.e. cell new Tier 2 categories between rows 
+C38): m2; 39 and 57 using the desired unit of 
+
+10.7.6.	 Then, row 38 needs to replicate the measurement. Note: replace the 
+
+necessary data and formulas in number 38 in the formulas shown 
+
+columns E to N, as shown in  on Table 12 with the corresponding 
+
+Table 12. row number, from 39 to 57, for any 
+further categories inserted.
+
+Table 12: Formula and data for Costs tab; row 38 
+
+Cell number Formula/data
+E38 materials cost (£) per square meter
+F38 =SUMIF(‘Data input’!D$3:D$202,B38,$R$3:$R$202)
+G38 =E38*F38
+H38 labour cost (£) per square meter
+I38 plant cost (£) per square meter
+J38 =H38+I38
+K38 =F38*J38
+L38 =SUMIF(‘Data input’!$D$3:$D$202,B38,$X$3:$X$202)
+M38 =SUMIF(‘Data input’!$D$3:$D$202,B38,$AC$3:$AC$202)
+N38 =SUMIF(‘Data input’!$D$3:$D$202,B38,$AD$3:$AD$202)
+
+11. Calcs tab
+
+11.1.	 There are no green areas in the Calcs tab, meaning no cells in this tab can be altered by the user.
+
+References
+
+BRE (2022) SmartWaste: Sustainability and environmental monitoring and reporting software 
+for construction, property development, offsite and product manufacturing, Building Research 
+Establishment (BRE): https://www.bresmartsite.com/products/smartwaste/
+
+EXPLORE THE CWIC CALCULATOR &  
+SITE WASTE REDUCTION PROTOCOL NOW
+
+Explore now

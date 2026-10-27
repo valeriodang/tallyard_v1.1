@@ -1,0 +1,1690 @@
+﻿THE REUSE DIVIDEND: 
+UNLOCKING ECONOMIC 
+GROWTH FROM BRITAIN’S 
+EXISTING BUILDINGS
+
+ AN INTERNATIONAL STUDY ON HOW
+ FINANCIAL INCENTIVES CAN FUEL
+ GROWTH AND REGENERATION
+
+
+
+CONTENTS ABOUT THE AUTHORS
+Don’t Waste Buildings is a UK-founded voluntary group campaigning to make housing and regeneration  
+quicker, simpler and easier through the reuse of existing buildings. We are climate-focused YIMBYs. While  
+
+About the Authors 1 other organisations campaign for existing homes to be made energy-efficient or for the building of new build 
+homes, we are making the case for large-scale empty and underperforming buildings to be brought up to  
+
+Executive Summary 2 standard and adapted for different uses, an approach known as “adaptive reuse”. This would tap into a different 
+1.  Introduction 4 source of ‘new’ homes and infrastructure and dramatically lower waste, pollution, and carbon emissions.
+
+2.  International Examples of Government Incentives  8 These buildings are neglected economic and social assets which could help regenerate high streets  
+
+ for Building Retrofit & Reuse and neighbourhoods, restore pride in place, and boost communities and SME businesses starved  
+of social and economic opportunity. 
+
+3. UK Performance to Date 28 Our group is non-party political and, driven by a core leadership of property developers, financiers,  
+4.  Impact Of The New UK Sustainability Reporting Standards 32 architects, engineers, heritage experts, and others, has grown rapidly to more than 2,300 members. 
+
+5. Recommendations for the UK Government 35 You can learn more at
+
+ Annex 1: Citations and Sources 36 www.dontwastebuildings.com
+
+ Annex 2: Bibliography 39
+The paper has been written and edited 
+by the Don’t Waste Buildings team: 
+
+PROJECT LEADERS:
+Richard Nelson Matt Bullivant
+
+Project Co-Lead — Co-Founder,  Project Co-Lead — Financial & Tax 
+Don't Waste Buildings Incentives Workstream Lead,  
+
+Supported by Founder & MD, Abyss Global Ltd;  Don't Waste Buildings 
+Ambassador/Past Chair,  Senior Director,  
+Institute of Directors  Head of Sustainability
+Property & Built Environment Group
+
+CONTRIBUTORS AND REVIEWERS:
+Will Hurst, Hon FRIBA Leanne Tritton, Hon FRIBA Chris Brown
+
+Co-Founder,  Co-Founder,  Financial & Tax Incentives  
+Don't Waste Buildings Don't Waste Buildings Work Stream Member,  
+Managing Editor, The Architects’ Journal Chair, The London Society;  Don't Waste Buildings 
+
+Founder & Trustee, ING Media Managing Director, Climatise
+
+AI INNOVATION
+David Green Adala Leeson
+
+The research and analysis behind 
+Financial & Tax Incentives  Financial & Tax Incentives  this report was conducted with the 
+Work Stream Member,  Work Stream Member,  assistance of ChatDWB, a private AI 
+Don't Waste Buildings Don't Waste Buildings platform powered by OmniChat.uk, 
+
+which provides secure access to  
+Director, Belsize Architects , and former Economist the most advanced AI language 
+senior economist at the Bank of England models available. 
+
+DON'T WASTE BUILDINGS Cover photo: Copyright Shutterstock AN INTERNATIONAL STUDY ON HOW 1
+FINANCIAL INCENTIVES CAN FUEL
+GROWTH AND REGENERATION
+
+
+
+EXECUTIVE SUMMARY From a climate perspective, the upfront — or embodied The Solution: A recipe based on international  
+— carbon associated with construction accounts best practice 
+for around 10% of UK carbon emissions, and retrofit We conclude in chapter 5 that the UK should examine 
+projects typically save 50-75% of this upfront carbon the merits of four key policy changes based on proven 
+compared to new construction because of the reuse  international models:
+of the existing structure this involves8. 
+
+First, harmonizing VAT in line with France’s approach 
+The UK is missing a major opportunity  Germany’s state bank-led model demonstrates The current UK approach is fragmented and failing  would level the playing field between retrofit and new 
+for economic growth and regeneration the power of using public finance to unlock private The UK’s current piecemeal approach to promoting build, creating immediate market stimulus of SME 
+In many areas, the UK has been a world leader in investment at scale. Through subsidised loans and retrofit consists of small-scale, short-term schemes contractors, sub contractors and consultants while 
+tackling climate change. However, it is falling behind repayment grants, every €1 of public funding leverages that have demonstrably failed to generate economic generating net positive tax receipts by encouraging 
+its international competitors when it comes to driving €6-7 of private investment. In Germany, this investment returns. The Green Homes Grant exemplifies this more developers to undertake projects, as well as 
+the circular economy in the construction sector stimulates €40-50 billion annually while supporting failure — launched in 2020 with a £1.5 billion budget, more formal declaration of retrofit work within the 
+through reuse, renovation and retrofit. This means we 300,000-400,000 jobs. it was cancelled the following year after spending only construction economy.
+are missing a significant economic opportunity and £300 million, eroding industry confidence and leaving 
+threatening our legally-binding climate commitments. Ireland’s targeted grants for vacant properties show businesses with stranded investments in training  Second, tax credits for reuse following the US model 
+For long forgotten historic reasons, the current tax how to turn non-taxpaying derelict buildings into and equipment. could include capital gains (‘CGT’) relief for renovation 
+system creates a perverse incentive for demolition over taxpaying family homes, delivering both housing  projects, stamp duty (‘SDLT’, or Land Tax in Scotland) 
+renovation. New build housing schemes pay 0% VAT and regeneration by reactivating declining town  Other schemes like the Boiler Upgrade Scheme, while discounts for purchase and retrofit of vacant buildings, 
+while retrofit work is taxed at the full 20% rate, creating centres and High Streets. worthy in intent, are too small to create macroeconomic and tax credits for using reclaimed materials. 
+a multi-billion-pound market distortion that encourages impact. The Energy Company Obligations schemes 
+waste and undermines the government’s own policy However, Italy’s 110% “Superbonus” serves as a have been funded through regressive levies rather than Third, targeted grants based on Ireland’s model could 
+objectives. cautionary tale. While economically successful in being designed as economic investments, while their provide direct support for vacant property renovation, 
+
+stimulating construction activity and GDP growth, the impending replacement via the Warm Homes Plan and with potential income-dependent provisions for social 
+This report analyses the measures taken and results scheme was fiscally unsustainable due to its over- Future Homes Standard are yet to be defined in scope  equity, as seen in the Flanders Region of Belgium.
+experienced in eight developed economies that have generous design. This demonstrates that policy design or effectiveness (at the time of writing) despite now 
+deployed financial incentives to drive their retrofit matters but does not invalidate the wider evidence being part of a larger fund sourced from general Finally, subsidised finance through an institution like 
+markets (covering both the upgrading of existing homes suggesting that retrofit incentives can drive economic taxation. Germany’s state-owned KfW Bank could be delivered 
+and other buildings and adaptive reuse). The evidence growth. via the UK’s National Wealth Fund, or other institutions, 
+is compelling and suggests that well-designed retrofit The fundamental problem remains the 20% VAT on offering low-interest loans and repayment grants tied  
+incentives don’t just pay for themselves; they generate The scale of opportunity is too big to ignore retrofit work, which actively suppresses the retrofit to achieving high performance standards in retrofit.
+significant economic growth and create a larger  A UK retrofit revolution could deliver transformational market by incentivising new build, and cancels out  
+tax base. results in the housing sector. There are approximately  any benefits from small grant schemes. This is investment, not expenditure 
+
+1 million empty homes in the UK1, while, according  The critical point for HM Treasury is that this likely 
+International best practice and lessons learned  to Historic England, 670,000 homes could be delivered Sustainability is now financially material represents strategic investment that pays for itself, not 
+France’s approach offers perhaps the clearest example by converting empty historic properties2 (buildings  The new UK Sustainability Reporting Standards, government spending per se. Successful international 
+for the UK. By reducing VAT from 20% to 10% for more than 100 years’ old). Even if only half prove viable which have just been released, fundamentally shift the models consistently show net positive fiscal returns 
+general renovation and to 5.5% for energy efficiency within the current Parliament, that would still make  business case in favour of retrofitting existing buildings through increased economic activity, job creation,  
+improvements, France underpins a renovation market a substantial contribution toward the Government  by mandating a comprehensive, forward-looking, and and a larger, more formalised tax base. 
+worth €45 billion annually. A key, often overlooked, target of 1.5 million homes. financially-oriented approach to sustainability reporting. 
+benefit of reducing VAT on repair and renovation is that They compel companies to look beyond immediate The choice for the UK is clear: we can continue with  
+it significantly discourages “black market” or cash-in- Then there are the likely economic benefits. The circular operational carbon (energy use) and account for ‘whole- the current failing approach while other countries 
+hand labour. When the VAT rate is 20%, the temptation economy is already growing three times faster than the life carbon’, which includes the significant ‘embodied capture this growth market in their own economies,  
+for a homeowner to pay cash to avoid the tax is high. overall UK economy and employs almost one million carbon’–or ‘upfront carbon’–released during demolition or implement proven international best practices  
+By lowering the rate to 10% or 5.5%, the formal route people3. At current growth rates, it could add another and new construction. to kickstart a UK retrofit revolution that delivers homes, 
+becomes far more attractive. This simple policy change 100,000 jobs per year.4 However, the UK currently has jobs, and economic growth while helping to meet  
+pays for itself by formalising retrofit and renovation only half the trained tradespeople required for retrofit Previously, this embodied carbon was an environmental our demanding climate commitments.
+within the construction economy and capturing  at scale5, underlining the need for re-skilling and job externality; under UK SRS, it becomes a material 
+tax revenue that would otherwise be lost to the  creation. Studies in the US have shown that existing financial risk and a key performance metric that must 
+informal sector. building rehabilitation creates 50% more jobs than new be disclosed to investors. This creates a powerful ' EVEN IF ONLY HALF PROVE VIABLE, 
+
+construction6. reporting-driven incentive to preserve existing 
+The United States provides further compelling evidence structures and upgrade them, as this option almost THAT WOULD STILL MAKE A 
+of how retrofit work generates fiscal returns. The The potential health benefits are substantial too. always has a significantly lower upfront carbon 
+country’s 20% historic preservation tax credit has The NHS spends approximately £1.4 billion annually footprint. We look more closely at these new reporting SUBSTANTIAL CONTRIBUTION 
+operated successfully for over 40 years, generating treating health issues directly caused by poor housing requirements in chapter 4.
+$1.20 to $1.25 in federal tax revenue for every dollar conditions, including extreme heat and cold, damp, TOWARD THE GOVERNMENT  
+spent on historic structures. This tax credit doesn’t mould and poor air quality, much of which could be 
+just regenerate historic buildings. It is a proven fiscal alleviated through retrofitting7. TARGET OF 1.5 MILLION HOMES.’
+stimulus that has leveraged over $109 billion in private 
+
+1  
+investment while creating 75,000 jobs annually. Action on Empty Homes, www.actiononemptyhomes.org/facts-and-figures  
+
+2 Historic England, ‘New Homes from Vacant Historic Buildings’, 5 March 2025. 3 CBI Economics, 
+‘The Future is Green: The economic opportunities brought by the UK’s net zero economy’, 24 Feb. 
+2025. 4 Ibid. 5 Don’t Waste Buildings, ‘Retrofit Policy Roundtable Report’, 27 November 2024.
+
+2 DON'T WASTE BUILDINGS 6 US National Park Service, Technical Preservation Services, ‘Federal Tax Incentives for AN INTERNATIONAL STUDY ON HOW 3
+Rehabilitating Historic Buildings’, March 2022. 7 Building Research Establishment (BRE), The Cost of FINANCIAL INCENTIVES CAN FUEL
+Poor Housing in England’, 9 November 2021. 8 American Institute of Architects (AIA), ‘Building Reuse: 
+A Proven Climate and Economic Strategy’, October 2024 and Brockman, Clark, ‘Combating Climate Photo credit Thomas Willmott/unsplash.com GROWTH AND REGENERATION
+Change: A Study of Embodied Carbon’, Trellis, 8 November 2021 (Updated 24 July 2024).
+
+
+
+1. INTRODUCTION
+WLCA REGULATION STATUS
+
+Limit values in force
+Many countries have already recognised the economic, social and environmental  
+benefits of prioritising building retrofit and reuse over demolition and rebuilding. Legislation proposed
+
+Disclosure requirements in force
+The UK, however, has been slow to move on this issue, despite being home to some  
+of the world’s leading architectural, engineering, construction, financial, legal,  Other non-legislative requirements
+and insurance firms who are pioneers in green building development and delivery. No policy in place
+The lack of UK central government policy clarity, financial incentives and sensible 
+regulation supportive of a ‘Retrofit First’ approach leaves the UK vulnerable to not  
+only missing its legal Paris Agreement commitments,9 but also to missing the  
+enormous growth opportunity of retrofit and the circular economy, and to losing  
+its position and reputation as a world leader in this space. 
+
+Due to the lack of existing UK policy, regulation, and incentives for reuse, we decided 
+to examine examples of best practice on a global scale, and we are confident we have 
+sourced several excellent benchmarks for the UK to draw upon.
+
+At Don’t Waste Buildings, we advocate for the delivery of UK housing and development 
+through the reuse of existing buildings, and we expand on our thoughts in this paper. 
+
+We are calling on the UK government to:
+
+a) clarify planning policy on refurbishment/retrofit/reuse by implementing  
+ ‘Retrofit First’ at a national level,
+b)  implement sensible regulations, such as requiring whole-life carbon assessments 
+
+(WLCA’s) for all demolition and rebuild schemes, to provide a level playing field  
+for the property development industry, and
+
+c)  introduce financial incentives to help make retrofit simpler and more profitable  
+so that it, as opposed to wasteful demolition and new build, becomes the default 
+approach for developers.
+
+This paper focuses on the last of these three measures, financial incentives,  
+as we believe it is the most meaningful area of reform. 
+
+European countries with whole-life carbon assessment 
+9 U K Climate Change Act 2008, www.legislation.gov.uk/ukpga/2008/27/contents regulations in place for the construction industry.   
+
+Source: BPIE (Buildings Performance Institute Europe) 2024
+
+4 DON'T WASTE BUILDINGS AN INTERNATIONAL STUDY ON HOW 5
+FINANCIAL INCENTIVES CAN FUEL
+GROWTH AND REGENERATION
+
+  
+
+ 
+
+
+
+Building Research Establishment, the NHS 
+THE MULTIPLE BENEFITS OF THIS APPROACH spends approximately £1.4 billion per year 
+
+treating health issues directly caused by poor 
+housing conditions in England.17
+
+8. Improving biodiversity: Compared with  
+A few smart and simple financial incentives would kickstart a UK ‘retrofit revolution’, boosting new build, retrofitting is less carbon-intensive 
+SMEs in the property and construction sector in particular, the evidence suggests. Such and less disruptive to local and international 
+measures would also give investors, banks and insurers much more certainty and ability to ecosystems, which means less of an impact 
+support the sector with appropriate products and services.  on land, water, animal life and plant life, thus 
+
+positively impacting healthy environments  
+Examples of such interventions might include: for humans, too. 
+•  Harmonising VAT between retrofit and new build to remove a major disincentive to refurbish
+•  Creating ‘VAT-free zones’ to target regeneration in areas of particular need 9. Positively impacting society: Compared 
+•  Incentivising both buyers and sellers by discounting Stamp Duty (Land Tax in Scotland) for with highly disruptive demolition and rebuild, 
+
+the purchase and retrofit of vacant buildings (buyers), or the purchase of recently retrofitted retrofits of larger buildings are often more 
+vacant buildings (sellers), especially heritage buildings; and acceptable to local communities, thus facing 
+
+•  Introducing tax credits – such as capital gains relief, or reused materials credits  less opposition in planning, and they can deliver 
+— for the renovation/reuse/retrofitting of existing materials and buildings,  community cohesion, ownership, pride and other 
+as well as related capital expenditures. important social benefits such as reduced loss 
+
+of ‘cultural memory.’ This is firmly in line with the 
+Any, or all, of these would reduce the risk of lumbering the UK economy with ‘stranded property Government’s new Pride in Place Programme 
+assets’, or continuing to allow the decline of derelict and unproductive High Streets and objectives. 
+neighbourhoods.  
+
+10. Meeting our climate targets: Reducing carbon 
+These measures would also encourage the development of a Circular Economy (a manifesto emissions is the only way for the UK to meet 
+commitment for this Government) and provide additional significant wider economic, social  its statutory 2050 Paris Agreement target. The 
+and environmental benefits, such as: embodied carbon emissions resulting from 
+
+construction account for 40-50m tonnes of 
+1 Growing the economy: According to a recent 4. Creating job opportunities: The previous point CO2 annually (more than aviation and shipping 
+
+CBI study (The Future is Green, Feb. 2025), the helps to illustrate the opportunities for job combined, according to the House of Commons 
+UK net zero sector is growing three times faster creation. The CBI study (The Future is Green, Environmental Audit Committee)18, and 20% of 
+than the overall UK economy. Also, according to Feb 2025), found that the net zero economy this comes from upfront, or ‘embodied’, carbon 
+RICS, retrofitting can help grow the UK economy grew by 10% in 2024 (following 9% growth in (UK Green Building Council)19.  This upfront 
+by creating a significant job market, stimulating 2023), and 22,000 net zero businesses, from carbon, emitted from raw materials production, 
+local economies through increased demand, renewable energy to green finance, employ transportation, and construction, is released 
+fostering innovation in sustainable construction almost a million people in full-time jobs. The into the atmosphere right now, a time of 
+technologies, and boosting the value of existing sector could add another 100,000 jobs per year climate crisis, not gradually over the next 50-
+properties that are not in productive use, leading at the same growth rate, according to the CBI.14 plus years like the emissions from day-to-day 
+to increased investment and economic activity.10 energy use. At current rates the UK will use up 
+
+5. Stimulating innovation/R&D: The Retrofit it’s carbon budget by 2027.20 IT’S TOO LATE 
+2. Meeting housing targets: There are over 1m First approach will require modernisation in THEN! According to the American Institute 
+
+empty homes (according to Action on Empty the construction and renovation industry, thus of Architects, retrofit projects typically save 
+Homes 11) while about 670,000 dwellings could encouraging advancements and innovations in between 50-75% of upfront carbon compared 
+be created within empty historic properties methodologies, materials and manufacturing, with new build.21 This industry therefore can 
+(according to Historic England 12). Even if half according to RICS.15 have a significant impact on reducing the effects 
+of those do not pass the viability test, that of climate change right now. 
+would still be a massive contribution to the 6. Reducing waste: Almost 2/3 of all waste  
+Government’s 1.5m housing target. And all produced in the UK is construction and The following pages unpack our research into 
+could more than likely be provided within this demolition waste, according to DEFRA, and international examples of best practice—and also 
+Government’s term in office. at least five million tonnes of construction unfavourable solutions—to shed light on potential 
+
+waste still end up in landfill sites across the UK Government measures to support refurbishment.
+3. Re-skilling the workforce: We heard at our UK annually.16 A Retrofit First approach would 
+
+Don’t Waste Buildings Retrofit Policy Roundtable sharply reduce such waste.
+(Nov. 2024) at the Institute of Directors (IoD) that 
+we only have about half the trained tradespeople 7. Improving public health: Retrofitting existing 
+required to undertake building retrofits at scale.13 homes for energy efficiency can help alleviate 
+More skills are needed in this area, thus driving health problems. According to a report by the 10 R ICS, ‘Time to Retrofit: Decarbonising UK buildings and economic recovery’, 18 Nov.
+
+2020. 11 Action on Empty Homes, op. cit. 12 Homes England, op. cit. 13 Don’t Waste 
+demand for education and re-skilling right Buildings, op. cit. 14 CBI Economics, op. cit. 15RICS, op. cit. 16 DEFRA, ‘UK statistics on 
+
+across the country. waste’, Updated 23 July 2025. 17 BRE, op. cit. 18 House of Commons Environmental Audit 
+Committee, ‘Building to net zero: costing carbon in construction’, 26 May 2022. 19 UK 
+Green Building Council (UKGBC), ‘Embodied Carbon’ 20 Campbell, Dr Ian, Scientists 
+for Global Responsibility, ‘The UK’s fair carbon budget will run out in 2027: here’s the 
+
+6 DON'T WASTE BUILDINGS evidence’, Responsible Science Journal, May 2025. 21 AIA, op. cit. AN INTERNATIONAL STUDY ON HOW 7
+FINANCIAL INCENTIVES CAN FUEL
+
+Photo credit Lucas Oliveira/unsplash.com GROWTH AND REGENERATION
+
+
+
+2. INTERNATIONAL EXAMPLES  Various financial and tax incentives have been implemented by national and regional 
+governments around the world to encourage the retrofitting of existing buildings over 
+demolition and rebuild. These models provide a strong evidence base for similar  
+policies in the UK. 
+
+OF GOVERNMENT INCENTIVES  The table below provides a summary to the incentives we have studied, and each  
+is repeated in more visual detail on the following case study pages. 
+
+FOR BUILDING RETROFIT & REUSE In order to examine the financial case, we analysed the economic impact of these incentive 
+programmes, and their return to their respective treasuries and wider economies. 
+
+The table below is populated with the best available data, estimates, and case  
+studies, illustrating the scale of investment and the economic principles at play.
+
+On the following case study pages, we also examine each country’s results  
+in detail to look at the impacts and what lessons might apply for the UK.
+
+COUNTRY TYPE OF INCENTIVE DESCRIPTION OF THE INCENTIVE COST TO THE GOVERNMENT ECONOMIC ACTIVITY GENERATED  INDICATIVE GROWTH (OR REDUCTION)  
+(GDP, GVA AND EMPLOYMENT) IN TAX RECEIPTS AFTER INCENTIVES
+
+France Reduced Value Added Tax France applies a reduced VAT rate for renovation and repair work on residential properties over two Estimated €4-5 billion The incentive underpins a significant portion of Net Positive. While a direct calculation is complex, the French Building 
+(VAT) years old. The standard rate of 20% is reduced to 10% for general renovation work and to 5.5% for per year in foregone tax France’s €45 billion annual renovation market. It Federation (FFB) argues strongly that the scheme pays for itself. Without 
+
+energy efficiency improvements (e.g., insulation, heating systems, renewable energy installation). This revenue. is a foundational policy supporting hundreds of it, much of the work would be done informally (“black market”) or not at all, 
+directly makes retrofitting more financially attractive than new builds, which are subject to the full 20% thousands of jobs in the construction sector. leading to a net loss of tax revenue and jobs.
+VAT.
+
+USA Federal Historic Preservation A long-standing and highly successful program providing a 20% federal tax credit on the qualified c.$1.2 billion per year (in Leveraged >$109 billion in private investment Net Positive. A comprehensive 2019 study found the program generates  
+Tax Credits rehabilitation expenses of certified historic structures. This has been instrumental in revitalizing tax credits claimed). since inception (1976). On average, creates $1.20 - $1.25 in federal tax revenue for every $1.00 of credit provided, due  
+
+historic city centres and saving countless buildings from demolition. Many states also offer their own c.75,000 jobs annually. to increased economic activity.
+“stackable” historic tax credits, further increasing the financial viability of reuse projects.
+
+Ireland Direct Grants for Vacant & The Croí Cónaithe (Towns) Fund provides direct grants to individuals who refurbish vacant and Budgetary allocation. As The total investment is a multiple of the grant Data not yet available. However, the logic is to turn a non-tax-paying derelict 
+Derelict Properties derelict properties to use as their principal private residence. A grant of up to €50,000 is available for of late 2023, €100 million amount (as grants cover only part of the cost). property into a tax-paying home (property tax, resident spending), making a 
+
+vacant properties, with a top-up of up to €20,000 available if the property is derelict. This is a powerful had been paid out or It directly stimulates local construction/trade long-term positive return likely.
+incentive to bring empty buildings back into use. approved across 5,000 activity. A full macroeconomic impact study is not 
+
+applications. yet available for this relatively new scheme.
+
+Germany Subsidised Loans & Through the state-owned KfW (Kreditanstalt für Wiederaufbau) bank, Germany offers highly attractive €10-15 billion annually in Stimulated €40-50 billion in annual private Net Positive. Studies consistently show a strong “leverage effect.” The 
+Repayment Grants low-interest loans and “repayment grants” for energy-efficient retrofitting. The more ambitious the recent years for federal investment. A 2021 study estimated that for every increased VAT receipts from construction work, income tax from jobs, and 
+
+energy efficiency standard achieved (Effizienzhaus standard), the larger the loan and the higher the funding for energy- €1 in public funding, €6-€7 of private investment corporation tax from businesses, combined with reduced energy import costs, 
+percentage of the loan that is forgiven. This effectively functions as a large grant, rewarding deep efficient buildings was triggered. Supported an estimated 300,000- are widely considered to create a net positive fiscal and economic return.
+retrofits. (both new build and 400,000 jobs annually.
+
+renovation).
+Germany Fuel Emissions Trading Law Germany’s Fuel Emissions Trading Law (BEHG) introduces a steadily rising carbon price on fossil- Administrative only, The KTF underpins a significant share of Net Neutral / Positive. BEHG generated €15.4bn in 2025 of which €14.4bn  
+
+(BEHG) and associated based heating fuels, the proceeds of which flow into the Climate and Transformation Fund (KTF), which with BEHG serving as Germany’s building retrofit sector, which studies was deployed to building energy efficiency and renewables via KTF
+Climate and Transformation finances green initiatives, including subsidies for building retrofits, while internalising retrofit costs for a revenue generating have estimated contributes approx. 2.5% of 
+Fund (KTF) investors to reduce the impact of the levy on returns. instrument Germany’s GDP and supports 600,000 jobs
+
+Italy “Superbonus” Tax Credit A significant incentive that offered a 110% tax credit (a “super-deduction”) for expenses related to Extremely high. Generated an estimated €200+ billion in Significant Net Reduction. The sheer generosity of the 110% credit meant the 
+energy efficiency upgrades and seismic retrofits. Homeowners could offset the cost against their taxes Estimated cost to the investment in the building sector. Contributed an cost far outweighed the immediate tax returns from the economic activity.  
+over several years or trade the credit to a bank or the contractor for an immediate discount. This drove state is over €110 billion estimated 1-2 percentage points to GDP growth It is widely seen as fiscally unsustainable, despite its effectiveness in 
+a massive wave of retrofitting activity across the country. (as of early 2024), during its peak. Created/supported an estimated stimulating the construction sector.
+
+far exceeding initial 400,000 direct jobs plus 230,000 in related 
+projections. industries.
+
+Netherlands Environmental Investment These schemes encourage environmentally friendly and circular investments. Businesses can benefit c.€245 million per year in Supports c.€5.3 billion in annual green Net Positive. The scheme is designed to accelerate the transition to a 
+Allowance (MIA/Vamil) from an investment allowance (MIA) of up to 45% of the investment costs, on top of usual depreciation. tax benefits provided to investments by businesses. Every €1 of tax relief sustainable economy. The fiscal return comes from increased corporate 
+
+The Vamil scheme allows businesses to depreciate 75% of the investment costs at a moment of their businesses (budget for supports c.€22 of private investment. Underpins profits (and tax), job creation, and positioning Dutch industry as a leader  
+choosing. Retrofit projects using secondary/reused materials or high-sustainability bio-based materials 2024). jobs in cleantech, circular economy, and in green technology, rather than a direct short-term tax payback.
+can qualify, directly incentivising circular economy principles in construction. sustainable construction sectors.
+
+Canada Grants & Interest-Free Loans The Canada Greener Homes Initiative provides grants of up to C$5,000 to help homeowners make Net cost is c.$0.47 for Generates C$1.45 in GDP for every $1 spent. The Partial Recoupment. An analysis by Canada’s Parliamentary Budget Officer 
+(Federal) energy-efficient retrofits. It also offers an interest-free loan of up to C$40,000 to help undertake major every $1 spent. The total program is estimated to support 14,500 full-time (PBO) found that the federal government recoups 53 cents of every dollar 
+
+retrofits. This federal program makes the upfront cost of retrofitting more manageable for individuals. budget is C$2.6 billion over equivalent jobs over its lifespan. spent through increased tax revenue from the economic activity generated. 
+7 years.
+
+Belgium  Premium for Renovation of The Flemish government provides the “Mijn VerbouwPremie,” a unified premium for renovations Budget of c.€460 million The scheme directly supports thousands of Implied Positive in the Long Term. While a direct net fiscal return study is not 
+(Flanders Region) Owner-Occupied Dwellings and energy-saving investments. The grant amount is income-dependent, ensuring lower-income for 2023. This consolidates individual renovation projects, underpinning the available, the logic is compelling: it formalises labour (capturing VAT/income 
+
+households receive more support. It covers various works, including roof, wall, and floor renovations, several previous schemes €15-€20 billion Flemish renovation market. Total tax), prevents dereliction, improves property values (future tax base), and 
+and incentivises a holistic approach to improving existing housing stock. into a single, larger fund. investment is a significant multiple of the premium reduces energy poverty (less need for social support).
+
+amount paid out. Supports a large portion of the 
+region’s 200,000+ construction jobs.
+
+8 DON'T WASTE BUILDINGS AN INTERNATIONAL STUDY ON HOW 9
+FINANCIAL INCENTIVES CAN FUEL
+GROWTH AND REGENERATION
+
+
+
+INTERNATIONAL EXAMPLES OF GOVERNMENT INCENTIVES  France’s Reduced VAT::  Combating the “Hidden Economy”: 
+FOR BUILDING RETROFIT & REUSE A MASTERCLASS IN SIMPLICITY  A key, often overlooked, benefit of reducing 
+
+AND MARKET SHAPING VAT on repair and renovation is that it 
+significantly discourages “black market” 
+or cash-in-hand labour. According to UK 
+
+France provides a relevant case study Government figures, this hidden economy 
+for the UK’s situation, as its primary 
+
+FRANCE accounted for 5% of the £46.8 billion tax 
+mechanism is a structural change to the gap (the difference between the amount 
+VAT system. of tax owed and the amount paid) in the 
+
+2023-24 tax year (The Times, November 17 
+Simplicity and Ubiquity: 2025). When the official VAT rate is 20%, 
+The power of the French model is in its the temptation for a homeowner to pay 
+simplicity. There are no complex grant cash to avoid the tax is high. By lowering 
+applications. The reduced VAT rate (10% the rate to 10% or 5.5%, the formal route 
+for general renovation, 5.5% for energy becomes far more attractive. This means 
+efficiency) is applied directly on the invoice the Government, rather than losing 100% 
+by the contractor for any residential of the potential tax revenue, captures the 
+property over two years old. This makes reduced VAT, plus income tax and social 
+it an automatic, universally understood security contributions from the officially 
+
+INCENTIVE TYPE:  incentive that shapes the entire market, employed workers, leading to a net positive 
+Reduced Value Added Tax (VAT) making retrofitting inherently more price- fiscal outcome.
+France applies a reduced VAT rate for renovation and competitive than it would be otherwise.
+repair work on residential properties over two years old. A Foundational Economic Policy: 
+The standard rate of 20% is reduced to 10% for general France’s reduced VAT isn’t a temporary 
+renovation work and to 5.5% for energy efficiency stimulus; it is a long-term, structural policy 
+improvements (e.g., insulation, heating systems, that underpins the country’s massive 
+renewable energy installation). This directly makes renovation market. The French Building 
+retrofitting more financially attractive than new builds, Federation (FFB) considers it the single 
+which are subject to the full 20% VAT. most important policy supporting its 
+
+members, particularly the small and 
+COST TO GOVERNMENT:  medium-sized enterprises (SMEs) that 
+Estimated €4-5 billion per year in foregone tax revenue  carry out the majority of this work and form 
+(tax expenditure). the backbone of the construction sector..
+
+ECONOMIC ACTIVITY GENERATED  
+(GDP, GVA AND EMPLOYMENT)
+The incentive underpins a significant portion of France’s Key takeaway for the UK: France demonstrates that  
+€45 billion annual renovation market. It is a foundational 
+policy supporting hundreds of thousands of jobs in the a reduced VAT rate for renovation is a viable, effective,  
+construction sector. and fiscally sound policy. It directly addresses the  
+INDICATIVE GROWTH (OR REDUCTION)  current UK market distortion where new build homes  
+IN TAX RECEIPTS AFTER INCENTIVES are zero-rated while the retrofitting needed to meet 
+Net Positive. While a direct calculation is complex, the climate targets is taxed at 20%. Adopting a similar  
+French Building Federation (FFB) argues strongly that 
+the scheme pays for itself. Without it, much of the work model would level the playing field, unleash SMEs,  
+would be done informally (“black market”) or not at all, and reduce the incentive to evade paying tax on retrofit.
+leading to a net loss of tax revenue and jobs.
+
+10 DON'T WASTE BUILDINGS Bercy Village, Paris (Copyright frantic00/Shutterstock) AN INTERNATIONAL STUDY ON HOW 11
+FINANCIAL INCENTIVES CAN FUEL
+GROWTH AND REGENERATION
+
+
+
+INTERNATIONAL EXAMPLES OF GOVERNMENT INCENTIVES  The US Historic Tax Credit:  
+FOR BUILDING RETROFIT & REUSE THE GOLD STANDARD FOR A NET  
+
+POSITIVE RETURN 
+This is another compelling case study for 
+the UK. It is a long-running, well-studied 
+
+USA program that demonstrates how a tax 
+incentive can more than pay for itself.
+
+Cost vs. Benefit: 
+A landmark study by Rutgers University, 
+commissioned by the National Park Service, 
+found that from 1978 to 2019, the $28.9 
+billion in federal credits issued generated 
+$35 billion in federal tax receipts.
+
+Economic Engine: 
+The program doesn’t just preserve 
+buildings; it creates high-quality local 
+jobs. Refurbishment is more skilled-labour 
+intensive than new construction, meaning 
+more of the investment goes to local wages, 
+
+INCENTIVE TYPE:  rather than off-site prefabrication. The 
+Federal Historic Preservation Tax Credits cumulative effect over 40+ years is over  
+A long-standing and highly successful program providing 3 million jobs created and the rehabilitation 
+a 20% federal tax credit on the qualified rehabilitation of over 47,000 historic buildings.
+expenses of certified historic structures. This has been 
+instrumental in revitalizing historic city centres and saving 
+countless buildings from demolition. Many states also offer 
+their own “stackable” historic tax credits, further increasing 
+the financial viability of reuse projects.
+
+COST TO GOVERNMENT:  
+c.$1.2 billion per year (in tax credits claimed).
+
+ECONOMIC ACTIVITY GENERATED  
+(GDP, GVA AND EMPLOYMENT)
+Leveraged >$109 billion in private investment since 
+inception (1976). On average, creates c.75,000 jobs 
+annually. Key takeaway for the UK: A well-structured, 
+INDICATIVE GROWTH (OR REDUCTION)  targeted tax credit for reuse can be a powerful 
+IN TAX RECEIPTS AFTER INCENTIVES economic multiplier, generating more in tax revenue 
+Net Positive. A comprehensive 2019 study found the 
+program generates $1.20 - $1.25 in federal tax revenue  than it costs, while delivering significant social  
+for every $1.00 of credit provided, due to increased and heritage benefits.
+economic activity.
+
+12 DON'T WASTE BUILDINGS Moynihan Train Hall/Former Farley Post Office, New York AN INTERNATIONAL STUDY ON HOW 13
+(Copyright EQRoy/Shutterstock) FINANCIAL INCENTIVES CAN FUEL
+
+GROWTH AND REGENERATION
+
+
+
+INTERNATIONAL EXAMPLES OF GOVERNMENT INCENTIVES  Germany’s KfW Model:  The Leverage Effect: 
+FOR BUILDING RETROFIT & REUSE USING PUBLIC FINANCE TO DRIVE The German model is built on the principle 
+
+PRIVATE INVESTMENT AND QUALITY of leverage. Studies consistently show that 
+for every €1 of public subsidy provided 
+through KfW, between €6 and €7 of private 
+
+Germany’s approach is a good example investment is unlocked – an incredibly 
+for how to use state-backed finance to 
+
+GERMANY efficient use of public money.  The 
+overcome the primary barrier to deep government isn’t paying for the retrofits 
+retrofitting: high upfront capital costs. in full; it is providing the seed capital and 
+
+financial security needed for the private 
+Overcoming the Capital Barrier: market (homeowners, banks)  
+The state-owned KfW (Kreditanstalt to invest at a massive scale.
+fürWiederaufbau) bank offers low-
+interest, long-term loans and significant Driving Quality Standards: 
+“repayment grants” (which function as loan KfW funding is not a blank cheque. 
+forgiveness) for energy-efficient retrofits. The financial incentives are tiered and 
+This makes ambitious, whole-house retrofit directly linked to achieving specific, high-
+projects financially viable for ordinary quality energy performance standards 
+
+INCENTIVE TYPE:  homeowners and landlords, who would (the “Effizienzhaus” or Efficiency House 
+KfW Subsidised Loans & Repayment Grants otherwise be unable to fund them. standards). The better the standard 
+Through the state-owned KfW (Kreditanstalt achieved, the more generous the loan and 
+fürWiederaufbau) bank, Germany offers highly attractive grant. This is a brilliant mechanism for 
+low-interest loans and “repayment grants” for energy- pushing the entire construction industry 
+efficient retrofitting. The more ambitious the energy towards excellence and preventing shallow, 
+efficiency standard achieved (Effizienzhausstandard),  ineffective measures, ensuring that public 
+the larger the loan and the higher the percentage  money delivers genuine, long-term carbon 
+of the loan that is forgiven. This effectively functions  savings and energy bill reductions.
+as a large grant, rewarding deep retrofits.
+
+COST TO GOVERNMENT:  
+€10-15 billion annually in recent years for federal funding  
+for energy-efficient buildings (both new build and renovation).
+
+ECONOMIC ACTIVITY GENERATED  
+(GDP, GVA AND EMPLOYMENT) Key takeaway for the UK: A series of short-term, 
+Stimulated €40-50 billion in annual private investment.  stop-start grant schemes in the UK has failed to 
+A 2021 study estimated that for every €1 in public funding, 
+€6-€7 of private investment was triggered. Supported an build market confidence. Germany’s KfW provides 
+estimated 300,000-400,000 jobs annually. the blueprint for a long-term, stable, and well funded 
+INDICATIVE GROWTH (OR REDUCTION)  institution (like a dedicated arm of the UK National 
+IN TAX RECEIPTS AFTER INCENTIVES Wealth Fund) that can provide the consistent 
+Net Positive. Studies consistently show a strong “leverage 
+effect.” The increased VAT receipts from construction work, financial products needed to tackle the retrofit 
+income tax from jobs, and corporation tax from businesses, 
+combined with reduced energy import costs, are widely challenge at an industrial scale and drive up quality 
+considered to create a net positive fiscal and economic return. standards across the board.
+
+14 DON'T WASTE BUILDINGS Townhouses, Hamburg AN INTERNATIONAL STUDY ON HOW 15
+(Copyright schusterbauer.com/Shutterstock) FINANCIAL INCENTIVES CAN FUEL
+
+GROWTH AND REGENERATION
+
+
+
+INTERNATIONAL EXAMPLES OF GOVERNMENT INCENTIVES  Germany’s Fuel Emissions Trading Law Combating the “Hidden Economy”: 
+FOR BUILDING RETROFIT & REUSE (Brennstoffemissionshandelsgesetz  The proceeds from BEHG flow into 
+
+or BEHG): Germany’s Climate and Transformation 
+USING CARBON PRICING TO  Fund (KTF), which finances green 
+
+FUND STATE CLIMATE INITIATIVES  initiatives including subsidies for building 
+retrofits, creating a positive feedback loop 
+
+GERMANY AND INTERNALISE INVESTOR  where carbon pricing not only penalises 
+RETROFIT COSTS emissions but also funds the improvements 
+
+#2 needed to reduce them.
+Germany also uses carbon pricing to 
+generate funds for investment in green Internalising Retrofit Costs: 
+initiatives such as building retrofits, while Investor valuation models internalise 
+making carbon costs a key factor for retrofit costs because improving energy 
+investor returns. efficiency reduces exposure to escalating 
+
+carbon liabilities. By steadily increasing 
+Linking Energy Performance  the cost of emissions, BEHG turns retrofits 
+to Operating Costs: from a “nice-to-have” into a strategic  
+Introducing a steadily rising carbon price cost-avoidance measure and a driver 
+on heating fuels such as oil and gas makes of long-term value, reshaping retrofit 
+
+INCENTIVE TYPE:  fossil-based heating increasingly expensive economics to align financial incentives  
+Fuel Emissions Trading Law (BEHG) and associated over time, and creates a direct financial link with climate goals.
+Climate and Transformation Fund (KTF) between a building’s energy performance 
+Germany’s Fuel Emissions Trading Law and its operating costs.
+(Brennstoffemissionshandelsgesetz–BEHG) introduces 
+a steadily rising carbon price on fossil-based heating 
+fuels, the proceeds of which flow into the Climate and 
+Transformation Fund (Klima-und Transformationsfonds–
+KTF), which finances green initiatives, including 
+subsidies for building retrofits, while internalising 
+retrofit costs for investors to reduce the impact of the 
+levy on returns.
+
+COST TO GOVERNMENT:  
+Administrative only, with BEHG serving as a revenue 
+generating instrument.
+
+ECONOMIC ACTIVITY GENERATED  
+(GDP, GVA AND EMPLOYMENT)
+The KTF underpins a significant share of Germany’s 
+building retrofit sector, which studies have estimated 
+contributes approx. 2.5% of Germany’s GDP and supports Key takeaway for the UK: This case demonstrates 
+600,000 jobs. that government cost-neutral or marginally revenue-
+INDICATIVE GROWTH (OR REDUCTION)  positive schemes can facilitate large-scale retrofit, 
+IN TAX RECEIPTS AFTER INCENTIVES
+Net Neutral / Positive. BEHG generated €15.4bn in 2025  and achieve material contributions to economic 
+of which €14.4bn was deployed to building energy stimulus, job creation, and climate action.
+efficiency and renewables via KTF.
+
+16 DON'T WASTE BUILDINGS Ernst Busch Academy of Dramatic Arts, Berlin AN INTERNATIONAL STUDY ON HOW 17
+(Copyright Mo Photography Berlin/Shutterstock) FINANCIAL INCENTIVES CAN FUEL
+
+GROWTH AND REGENERATION
+
+
+
+INTERNATIONAL EXAMPLES OF GOVERNMENT INCENTIVES  The Netherlands’ MIA/Vamil: 
+FOR BUILDING RETROFIT & REUSE INCENTIVISING THE SUPPLY CHAIN
+
+The Dutch model is different and provides  
+a valuable lesson in stimulating the 
+business side of the construction  
+
+NETHERLANDS and materials sector.
+
+Targeting Businesses, Not Just 
+Homeowners: 
+By offering tax relief on investments  
+in environmentally friendly equipment  
+and materials (including those from 
+the circular economy), the government 
+
+INCENTIVE TYPE:  incentivises innovation and lowers the 
+Environmental Investment Allowance (MIA & Vamil) cost of sustainable building practices 
+These schemes encourage environmentally friendly for everyone. This helps build a robust 
+and circular investments. Businesses can benefit domestic supply chain for retrofit projects.
+from an Environmental Investment Allowance (Milieu-
+investeringsaftrek–MIA) of up to 45% of the investment Incredible Leverage: 
+costs, on top of usual depreciation. The Random The data point that every €1 of government 
+Depreciation of Environmental Investments scheme  tax relief supports €22 of private investment 
+(Willekeurigeafschrijvingvoormilieu-investeringen– or is exceptionally powerful. It shows how  
+Vamil) allows businesses to depreciate 75% of the a relatively small and targeted tax incentive 
+investment costs at a moment of their choosing. Retrofit can steer billions of pounds worth of capital 
+projects using secondary/reused materials or high towards national strategic goals.
+sustainability bio-based materials can qualify, directly 
+incentivising circular economy principles in construction.
+
+COST TO GOVERNMENT:  
+c.€245 million per year in tax benefits provided  
+to businesses (budget for 2024).
+
+ECONOMIC ACTIVITY GENERATED  
+(GDP, GVA AND EMPLOYMENT)
+Supports c.€5.3 billion in annual green investments by 
+businesses. Every €1 of tax relief supports c.€22 of private Key takeaway for the UK: A comprehensive strategy 
+investment. Underpins jobs in cleantech, circular economy, must not only focus on demand (homeowner grants) 
+and sustainable construction sectors.
+
+but also on supply. A UK equivalent of the MIA/Vamil 
+INDICATIVE GROWTH (OR REDUCTION)  scheme would encourage British companies  
+IN TAX RECEIPTS AFTER INCENTIVES
+Net Positive. The scheme is designed to accelerate the to invest in manufacturing high-quality insulation, 
+transition to a sustainable economy. The fiscal return comes 
+from increased corporate profits (and tax), job creation, and heat pumps, and recycled building materials, 
+positioning Dutch industry as a leader in green technology, creating green industrial jobs.
+rather than a direct short-term tax payback.
+
+18 DON'T WASTE BUILDINGS Postcode Lottery HQ, Amsterdam AN INTERNATIONAL STUDY ON HOW 19
+(Copyright Yasemin Ozdemiry/Shutterstock) FINANCIAL INCENTIVES CAN FUEL
+
+GROWTH AND REGENERATION
+
+
+
+INTERNATIONAL EXAMPLES OF GOVERNMENT INCENTIVES  Ireland’s Croí Cónaithe Fund: Revitalising Town Centres: 
+FOR BUILDING RETROFIT & REUSE A TARGETED STRIKE AGAINST The benefits extend far beyond simply 
+
+DERELICTION AND VACANCY creating homes. Every derelict building 
+brought back to life transforms a 
+streetscape, increases community pride, 
+
+Ireland’s model is an excellent example of and brings residents back into town 
+a highly targeted policy designed to solve 
+
+IRELAND centres. This, in turn, supports local shops, 
+a specific and visible national problem: pubs, and services, creating a virtuous 
+the hollowing out of town centres and the cycle of regeneration. It is a direct and 
+prevalence of vacant properties amidst a effective tool for renewing and revitalising 
+housing crisis. communities.
+
+Directly Targeting a National Problem: Creating Long-Term Taxpayers: 
+The Croí Cónaithe Fund isn’t a general The economic case is built on turning  
+renovation grant; it is specifically a negative-value asset into a positive one. 
+intended for bringing vacant and derelict A derelict property costs the local authority 
+properties back into use as principal money in monitoring and enforcement  
+private residences. By offering a substantial and generates zero tax revenue. This  
+grant of up to €70,000 in the most severe grant helps transform the property into  
+
+INCENTIVE TYPE:  cases of dereliction, it provides the critical a family home where residents pay 
+Croí Cónaithe (Towns) Fund: Vacant Property injection of capital needed to make these property tax, spend money in the local 
+Refurbishment Grant Scheme challenging projects financially viable. economy (generating VAT and business 
+The Croí Cónaithe (Towns) Fund provides direct rates), and contribute to the tax base for 
+grants to individuals who refurbish vacant and derelict decades to come, providing a clear long-
+properties to use as their principal private residence.  term return on the initial investment.
+A grant of up to €50,000 is available for vacant 
+properties, with a top-up of up to €20,000 available  
+if the property is derelict. This is a powerful incentive  
+to bring empty buildings back into use.
+
+COST TO GOVERNMENT:  
+Budgetary allocation. As of late 2023, €100 million had  
+been paid out or approved across c.5,000 applications.
+
+ECONOMIC ACTIVITY GENERATED  
+(GDP, GVA AND EMPLOYMENT) Key takeaway for the UK: The UK shares Ireland’s 
+The total investment is a multiple of the grant amount  
+(as grants cover only part of the cost). It directly stimulates challenge of decaying High Streets, town centres 
+local construction/trade activity. A full macroeconomic and vacant properties. The Irish model demonstrates 
+impact study is not yet available for this relatively new 
+scheme. how a targeted grant programme can be a 
+INDICATIVE GROWTH (OR REDUCTION)  powerful and popular tool for both urban and rural 
+IN TAX RECEIPTS AFTER INCENTIVES regeneration. It provides a clear, actionable policy 
+Data not yet available. However, the logic is to turn  
+a non-tax-paying derelict property into a tax-paying  that aligns perfectly with the UK’s “Pride in Place” 
+home (property tax, resident spending), making  and “brownfield first” development agendas.
+a long-term positive return likely.
+
+20 DON'T WASTE BUILDINGS Renewed Home, Dublin AN INTERNATIONAL STUDY ON HOW 21
+(Copyright frank333/Shutterstock) FINANCIAL INCENTIVES CAN FUEL
+
+GROWTH AND REGENERATION
+
+
+
+INTERNATIONAL EXAMPLES OF GOVERNMENT INCENTIVES  Italy’s Superbonus: 
+FOR BUILDING RETROFIT & REUSE A LESSON IN GENEROSITY  
+
+AND FISCAL CONTROL
+The Superbonusis a fascinating example 
+of a policy that was wildly successful in its 
+
+ITALY primary aim (stimulating retrofits) but was 
+fiscally unsustainable due to its design.
+
+Uncapped Generosity: 
+Offering a 110% tax credit that could be 
+sold to banks for cash meant homeowners 
+had little incentive to control costs, leading 
+to price inflation for materials and labour. 
+The cost to the state ballooned from a 
+projected €35 billion to over €110 billion.
+
+Powerful Economic Stimulus: 
+INCENTIVE TYPE:  There is no doubt the policy worked as 
+‘Superbonus’ Tax Credit a stimulus. It was a major factor in Italy’s 
+A significant incentive that offered a 110% tax credit post-COVID economic recovery, boosting 
+(a “super-deduction”) for expenses related to energy GDP and creating hundreds of thousands 
+efficiency upgrades and seismic retrofits. Homeowners of jobs. It dramatically accelerated the pace 
+could offset the cost against their taxes over several of energy-efficient retrofitting.
+years or trade the credit to a bank or the contractor  
+for an immediate discount. This drove a massive  
+wave of retrofitting activity across the country.
+
+COST TO GOVERNMENT:  
+Extremely high. Estimated cost to the state is over €110 
+billion (as of early 2024), far exceeding initial projections.
+
+ECONOMIC ACTIVITY GENERATED  
+(GDP, GVA AND EMPLOYMENT)
+Generated an estimated €200+ billion in investment  
+in the building sector. Contributed an estimated 1-2 
+percentage points to GDP growth during its peak.  Key takeaway for the UK: This case highlights the 
+Created/supported an estimated 400,000 direct jobs  critical importance of policy design. While the idea 
+plus 230,000 in related industries. of a major tax incentive is sound, it must include 
+INDICATIVE GROWTH (OR REDUCTION)  cost-control mechanisms. A 110% uncapped credit 
+IN TAX RECEIPTS AFTER INCENTIVES
+Significant Net Reduction. The sheer generosity of the is too generous. A model closer to the US (e.g. a 20-
+110% credit meant the cost far outweighed the immediate 
+tax returns from the economic activity. It is widely seen  30% credit) or France (reduced VAT) is more fiscally 
+as fiscally unsustainable, despite its effectiveness  responsible while still being a powerful incentive.
+in stimulating the construction sector.
+
+22 DON'T WASTE BUILDINGS Torre Valasca, Milan AN INTERNATIONAL STUDY ON HOW 23
+(Copyright Federica Ravettino/Shutterstock) FINANCIAL INCENTIVES CAN FUEL
+
+GROWTH AND REGENERATION
+
+
+
+INTERNATIONAL EXAMPLES OF GOVERNMENT INCENTIVES  Canada’s Greener Homes Initiative: 
+FOR BUILDING RETROFIT & REUSE A MODEL FOR ECONOMIC STIMULUS
+
+The Canadian example is particularly 
+interesting because of the robust 
+independent analysis conducted by the 
+
+CANADA Parliamentary Budget Officer (PBO).
+
+A Clear Return on Investment: 
+The PBO’s analysis is clear: the program is 
+a powerful economic stimulus. While there 
+is a net cost to the treasury, it is relatively 
+small compared to the economic activity 
+it unlocks. Generating C$1.45 in GDP for 
+every dollar spent is a strong multiplier 
+effect.
+
+Job Creation: 
+The Greener Homes Initiative supported 
+14,500 jobs, demonstrating the 
+employment benefits of prioritising 
+retrofitting, which tends to employ more 
+
+INCENTIVE TYPE:  local labour than new builds.
+
+Grants & Interest-Free Loans (Federal)
+The Canada Greener Homes Initiative provides grants 
+of up to C$5,000 to help homeowners make energy-
+efficient retrofits. It also offers an interest-free loan of 
+up to C$40,000 to help undertake major retrofits. This 
+federal program makes the upfront cost of retrofitting 
+more manageable for individuals.
+
+COST TO GOVERNMENT:  
+Net cost is –C$0.47 for every C$1 spent. The total budget  
+is C$2.6 billion over 7 years.
+
+Key takeaway for the UK: This case shows that 
+ECONOMIC ACTIVITY GENERATED  
+(GDP, GVA AND EMPLOYMENT) even if an incentive isn’t entirely “free” (like the 
+Generates C$1.45 in GDP for every C$1 spent. The program US example), it can be an extremely efficient 
+is estimated to support 14,500 full-time equivalent jobs over 
+its lifespan. use of public funds to achieve multiple goals 
+INDICATIVE GROWTH (OR REDUCTION)  simultaneously: economic stimulus, job creation,  
+IN TAX RECEIPTS AFTER INCENTIVES and climate action. The argument can be framed  
+Partial Recoupment. An analysis by Canada’s Parliamentary 
+Budget Officer (PBO) found that the federal government as “a modest public investment to unlock a much 
+recoups 53 cents of every dollar spent through increased larger private economic benefit.”
+tax revenue from the economic activity generated.
+
+24 DON'T WASTE BUILDINGS Solar panel installations, Canadian residential suburb AN INTERNATIONAL STUDY ON HOW 25
+(Copyright SkyFireEnergy) FINANCIAL INCENTIVES CAN FUEL
+
+GROWTH AND REGENERATION
+
+
+
+INTERNATIONAL EXAMPLES OF GOVERNMENT INCENTIVES  Belgium’s (Flanders)  
+FOR BUILDING RETROFIT & REUSE Mijn VerbouwPremie :
+
+A FOCUS ON SOCIAL EQUITY
+The Flemish model demonstrates  
+how to integrate social policy into 
+
+BELGIUM renovation incentives.
+
+Income-Dependent Support: 
+The grant amounts are scaled based on 
+household income, with the lowest income 
+brackets receiving support for up to 50% 
+of the renovation cost. This ensures the 
+energy transition is socially just and helps 
+tackle fuel poverty among those who  
+need it most.
+
+INCENTIVE TYPE:  Foundational Economic Support: 
+The scheme’s large budget acts as  
+
+Premium for Renovation of Owner-Occupied  a bedrock for the regional construction  
+Dwellings (MijnVerbouwPremie) and renovation market. Its existence 
+The Flemish government provides the provides stability and a predictable pipeline 
+‘MijnVerbouwPremie,’ a unified premium for renovations of work for thousands of SMEs which form 
+and energy-saving investments. The grant amount is the backbone of the construction industry.
+income-dependent, ensuring lower-income households 
+receive more support. It covers various works, including 
+roof, wall, and floor renovations, and incentivises  
+a holistic approach to improving existing housing stock.
+
+COST TO GOVERNMENT:  
+Budget of c.€460 million for 2023. This consolidates  
+several previous schemes into a single, larger fund.
+
+ECONOMIC ACTIVITY GENERATED  
+(GDP, GVA AND EMPLOYMENT)
+The scheme directly supports thousands of individual 
+renovation projects, underpinning the €15-€20 billion 
+Flemish renovation market. Total investment is a significant Key takeaway for the UK: Incentives can be 
+multiple of the premium amount paid out. Supports a large designed to achieve social as well as economic and 
+portion of the region’s 200,000+ construction jobs. environmental goals. A UK scheme could be tiered 
+INDICATIVE GROWTH (OR REDUCTION)  to provide more significant support to lower-income 
+IN TAX RECEIPTS AFTER INCENTIVES
+Implied Positive in the Long Term. While a direct net fiscal households and landlords in the social rented sector, 
+return study is not available, the logic is compelling:  
+it formalises labour (capturing VAT/income tax), prevents addressing key policy challenges like fuel poverty 
+dereliction, improves property values (future tax base),  and the quality of affordable housing.
+and reduces energy poverty (less need for social support).
+
+26 DON'T WASTE BUILDINGS The Cosmopolitan, Brussels AN INTERNATIONAL STUDY ON HOW 27
+(Copyright Courtesy of &bogdan, Laurian Ghinitoiu) FINANCIAL INCENTIVES CAN FUEL
+
+GROWTH AND REGENERATION
+
+
+
+3. UK PERFORMANCE  
+TO DATE
+So what about the financial incentives for the refurbishment, reuse, and retrofit of buildings  
+in the UK? The picture is one of a fragmented landscape with some targeted support. Overall,  
+it lacks the broad, structural incentives seen in many of the countries we’ve analysed.
+
+Compared to the comprehensive, long-term, and structural incentives seen in countries like 
+France, Germany, and the USA, the UK’s current approach is best described as a piecemeal 
+collection of targeted, short-term schemes.
+
+There is no headline structural incentive (like a universal VAT harmonisation) to make retrofit 
+and reuse as financially attractive as new build. Instead, the system consists of a patchwork  
+of grants and obligations, each with specific criteria and limited scope. Here is a breakdown  
+of the UK incentives currently available:
+
+INCENTIVE TYPE SPECIFIC SCHEME(S) DESCRIPTION & SCOPE KEY LIMITATION / CRITIQUE
+Value Added The 20% vs 0% Disparity The single biggest factor holding us This is a powerful disincentive for retrofit. It creates  
+Tax (VAT) back. Most repair, maintenance, and a significant market distortion that financially penalises 
+
+improvement work on existing buildings refurbishment and reuse, directly contradicting the  
+is subject to the standard 20% VAT rate. UK's environmental and "brownfield first" policy goals.
+In stark contrast, the construction of most 
+new-build residential properties  
+is zero-rated.
+
+VAT Relief Energy Saving Materials A zero rate of VAT applies to the The ESM relief is narrow, applying only to the materials 
+(Limited) (ESMs) & Listed installation of specific ESMs  and installation, not to enabling works. It does not 
+
+Buildings (e.g. insulation, heat pumps) in residential incentivise a "whole house" approach. Relief for listed 
+properties. Certain approved alterations buildings is complex and applies only to a fraction  
+to protected (listed) buildings are also of the UK's building stock.
+zero-rated.
+
+Direct Grants Boiler Upgrade Scheme Provides grants of £7,500 towards the cost The grant only covers a portion of the high upfront cost, 
+(Homeowners) (BUS) of an air source or ground source heat and it does not support the crucial fabric improvements 
+
+pump, or £5,000 for a biomass boiler.  (insulation, draught-proofing) needed for a heat pump  
+It is a technology-specific grant. to work efficiently.
+
+Supplier Energy Company These are not direct government grants. Highly targeted at specific demographics, leaving the 
+Obligations Obligation (ECO4) & They are obligations placed on large majority of households ineligible. The schemes are 
+(Low Income) Great British Insulation energy suppliers to fund the installation of complex to navigate for both homeowners and installers, 
+
+Scheme (GBIS) energy efficiency measures in low-income and the "stop-start" nature of funding cycles creates 
+and vulnerable households. market instability.
+
+Public Sector Social Housing Competitive funding pots available to These schemes are effective for their specific sectors  
+Funding Decarbonisation Fund social housing providers and public sector but do nothing to stimulate the vast owner-occupier  
+
+(SHDF) & Public Sector bodies (e.g., schools, hospitals) to carry or private commercial markets. Their competitive nature 
+Decarbonisation Scheme out large-scale energy efficiency and also means not all applicants are successful.
+(PSDS) heating upgrades.
+
+Business Tax Capital Allowances Businesses can deduct the cost of "plant This is a standard business tax mechanism, not  
+Relief and machinery" from their pre-tax profits. a specific incentive for retrofit or reuse. It does not  
+
+This can include items installed during a cover the structural or fabric elements of a building 
+retrofit, such as new heating systems, air and offers no advantage over installing the same 
+conditioning, and sanitary ware. equipment in a new build.
+
+28 DON'T WASTE BUILDINGS Photo credit: Neptune Manchester, Courtesy of Capital&Centric AN INTERNATIONAL STUDY ON HOW 29
+FINANCIAL INCENTIVES CAN FUEL
+GROWTH AND REGENERATION
+
+
+
+ANALYSIS OF THE ECONOMIC AND  WHY UK SCHEMES FAIL TO Fragmentation and Complexity: The current  
+system is a confusing patchwork of different 
+
+FISCAL RETURNS OF UK RETROFIT SCHEMES GENERATE RETURNS schemes with different rules, funding pots,  
+and eligibility criteria. This complexity is  
+a significant barrier for homeowners,  
+businesses, and even installers.
+
+Based on reports from the National Audit Office (NAO), Parliamentary committees, and industry analyses,  No Leverage of Private Finance: Unlike Germany’s 
+it is evident that the UK’s retrofit measures have failed to provide any significant, measurable net return  KfW model, which uses €1 of public funds to unlock Insufficient Scale:  The available funding  
+to HM Treasury or to boost the wider UK economy. €6-€7 of private investment, UK grant schemes is a fraction of what is required to retrofit the  
+
+are simple subsidies. The Boiler Upgrade Scheme UK’s 29 million homes. The grants available  
+In fact, some schemes have been so poorly implemented that their net economic impact could  pays a portion of the cost, but does not help the cover a small part of the cost for a small number  
+be considered negative due to the damage done to industry confidence and supply chains. homeowner finance the much larger remaining sum. of people, whereas the German model leverages 
+
+This severely limits the scale of activity. tens of billions in private investment annually.
+The primary reason for the lack of return is that UK schemes have been consistently designed with  
+one or more of the following flaws: they are too small in scale, too short-term in nature, and often  Lack of Scale and Consistency: The Green Homes No Explicit Incentive for Reuse: Crucially, none  
+poorly administered. This prevents them from generating the self-sustaining market activity  Grant is a sobering case study due to its limited of the UK schemes specifically reward the reuse  
+and positive feedback loops seen in the successful international examples. £1.5bn budget and limited time-scale. When it was of existing structures or the use of reclaimed 
+
+abruptly cancelled, it sent a clear signal to the materials to reduce upfront carbon. They are  
+Below is a breakdown of why this is the case, looking at the schemes in question: market that the UK is not a stable place to invest almost entirely focused on operational energy 
+
+in retrofit skills or capacity. This “policy whiplash” efficiency, not on construction emissions.
+SCHEME / POLICY PRIMARY GOAL SCALE & COST ECONOMIC & FISCAL IMPACT ANALYSIS is one of the factors preventing a self-sustaining 
+
+industry from forming. In conclusion: While the UK has several small-scale, 
+Green Homes Grant Economic Stimulus Budget: £1.5 billion. Actual An Unmitigated Failure with a Net Negative Impact. targeted initiatives aimed at energy efficiency,  
+(GHG) (2020-2021) ("Green Recovery") Spend: -£300 million before The National Audit Office (NAO) found the scheme was 
+
+being scrapped. rushed, poorly implemented, and failed on all objectives. The Overwhelming Effect of the VAT Disparity:  it lacks any significant, broad-based financial 
+It only upgraded 47,500 homes (a fraction of the 600,000 The single largest financial policy in this area— incentive to promote the holistic retrofitting and 
+target). The short timeline and chaotic administration the 20% VAT on refurbishment vs 0% on new  reuse of buildings. The current VAT structure actively 
+caused businesses to invest in training and equipment, 
+only for the scheme to be cancelled, leading to job build—actively suppresses the retrofit market.  works against this goal, placing the UK at odds with 
+losses, financial losses, and a catastrophic collapse in Any economic benefit from the small grant  the best-practice examples seen across the world.
+industry confidence. It did not generate a return for the schemes is effectively cancelled out by this  
+Treasury; it was a net cost and damaged the very market 
+it was meant to stimulate. powerful structural disincentive. You cannot 
+
+stimulate a market with one hand while heavily 
+Boiler Upgrade Scheme Technology Deployment Budget: £450 million over 3 Too small for a macroeconomic impact. While it 
+(BUS) (Heat Pumps) years. supports jobs in the heat pump supply chain, its scale taxing it with the other and expect a net positive  CONCLUSION FOR HM 
+
+is insufficient to drive significant GDP growth. It is a economic outcome.
+subsidy, not an investment designed for a fiscal return. GOVERNMENT AND HM TREASURY 
+The Government pays out £7,500, but the resulting 
+economic activity fper installation (and the associated 
+tax receipts) is not large enough to repay that grant. 
+Its success is measured in heat pump numbers, not KEY TAKEAWAYS FROM  The UK’s current approach to retrofit and 
+economic growth.
+
+adaptive reuse has been a net cost to the 
+Energy Company Social Policy (Fuel Funded via a levy on energy Does not generate a net return to the Treasury. Its 
+Obligation (ECO) / Great Poverty Alleviation) bills (£1 billion per year), not primary economic benefit is avoided costs: warmer THE UK TRACK RECORD Exchequer. The schemes which have been 
+British Insulation Scheme direct taxation. homes can lead to better health outcomes (reducing implemented are designed as expenditure (to 
+(GBIS) NHS costs) and reduced welfare needs. It supports achieve social or environmental goals) rather 
+
+a dedicated industry of installers, but the "stop-start" 
+nature of different phases (ECO1, 2, 3, 4) creates market than as economic investments designed to 
+uncertainty. Because it's funded by a regressive levy When compared to the international examples,  generate a positive fiscal return.
+on all bill payers, it can also slightly suppress wider the weaknesses of the UK system become clear: 
+consumer spending. The evidence strongly suggests that a shift in 
+
+Social Housing & Public Public Asset Multi-billion-pound funds, but A good use of public capital, but not a net fiscal return A Perverse Structural Disincentive: The VAT strategy is required. Moving away from complex, 
+Sector Decarbonisation Improvement delivered over many years in generator. This is Government spending on upgrading 
+Schemes (SHDF/PSDS) competitive bidding rounds. public assets (social housing, schools, hospitals). It disparity is the fundamental problem. The tax system short-term grants towards broad, structural 
+Decarbonisation Schemes generates significant construction activity and jobs, actively encourages demolition and rebuild over  incentives—like the VAT equalisation seen in 
+(SHDF/PSDS) and the tax receipts from this will offset some of the the far more sustainable option of retrofitting.  France or the tax credits for reuse seen in the 
+
+cost. However, like most capital projects, the initial 
+outlay is far greater than the immediate tax return. The This is the opposite of the French model. US—would likely create a policy that pays for 
+"return" is in the form of improved public services, lower itself through increased economic activity,  
+running costs for the public estate, and reduced carbon Lack of a Long-Term, Stable Framework:  long-term investment, job creation, and  
+emissions.
+
+The UK is plagued by a history of “stop-start” a larger, more formalised tax base.
+VAT on Energy Saving Targeted Incentive The cost to the Treasury is the The economic impact is positive but highly limited. Zero-
+Materials (ESMs) foregone VAT revenue on these rating ESMs helps on the margins but is not enough policies (e.g., the Green Homes Grant, which was 
+
+specific installations. to drive a mass market. It does not address the cost of launched and scrapped within a year). This has 
+enabling works or the need for a holistic approach. It is a eroded industry confidence and damaged supply 
+small, positive measure within a much larger, structurally 
+negative VAT system. chains, in stark contrast to the stable, 40-year old  
+
+US Historic Tax Credit or the institutional 
+permanence of Germany’s KfW bank.
+
+30 DON'T WASTE BUILDINGS AN INTERNATIONAL STUDY ON HOW 31
+FINANCIAL INCENTIVES CAN FUEL
+GROWTH AND REGENERATION
+
+
+
+4. IMPACT OF THE NEW UK Conclusion: The mandatory reporting of Scope • Capital Deployment: UK SRS S2 (para 29(e)) 
+3 emissions makes the high embodied carbon requires disclosure of “the amount of capital 
+of new builds a tangible liability on a company’s expenditure, financing or investment deployed 
+sustainability ledger, directly incentivising the  towards climate-related risks and opportunities.”
+
+SUSTAINABILITY REPORTING lower-carbon retrofit option.
+ — Demolition & Rebuild: The large capital outlay 
+
+2.  Climate-Related Risks & Opportunities  is deployed towards a high-emissions activity. 
+
+STANDARDS (UK SRS S2, paras 3, 10, 29)): UK SRS S2 It becomes difficult to frame this as a “climate-
+requires entities to identify and disclose their related opportunity.” The company must also 
+climate-related risks (both transition and physical) disclose the anticipated financial risks (e.g., 
+and opportunities. potential future carbon costs impacting ROI).
+
+The UK Sustainability Reporting Standards (UK performance metric that must be disclosed  • Transition Risks for Demolition & Rebuild: — Retrofit: Capital expenditure can be clearly 
+SRS) are a new framework, based on the global to investors. This creates a powerful reporting- categorised as deployment towards a climate 
+International Financial Reporting Standards (IFRS) driven incentive to preserve existing structures and  — Policy & Legal Risk: A new building with high opportunity (improving energy efficiency, 
+Sustainability Disclosure Standards, mandating how upgrade them, as this option almost always has a embodied carbon could be subject to future enhancing resilience). The company can 
+UK companies must report on sustainability. significantly lower upfront carbon footprint. carbon taxes, stricter building regulations, or disclose anticipated positive financial effects, 
+
+whole-life carbon limits, potentially devaluing such as lower operational energy costs and 
+The initial documents are UK SRS S1 (General Analysis of Key Drivers Influencing the Retrofit the asset. higher asset values due to green credentials.
+Requirements), which sets the foundational rules for Decision: The influence of UK SRS can be broken 
+all sustainability disclosures, and UK SRS S2 (Climate- down into five key thematic areas:  — Market Risk: There is growing investor and Conclusion: The standards require a clear narrative 
+related Disclosures), focusing specifically on climate tenant demand for genuinely low-carbon connecting capital allocation to climate strategy. 
+impacts. 1.  Greenhouse Gas (GHG) Emissions & Embodied buildings. A new build with a large carbon It is far easier and more credible to justify retrofit 
+
+Carbon (UK SRS S2, para 29(a)): This is the most “debt” from its construction may be less expenditure as a positive, opportunity-focused 
+Their goal is to provide investors and lenders with direct and impactful driver. UK SRS S2 requires attractive than a highly efficient retrofitted investment than it is for a high-carbon new build.
+consistent, comparable, and reliable information, linking the mandatory disclosure of absolute gross Scope building, risking lower occupancy, lower rents, 
+sustainability factors directly to a company’s financial 1, 2, and Scope 3 GHG emissions. or becoming a “stranded asset.” 4.  Strategy, Resilience & Targets (UK SRS S1, para 
+performance and risk profile, thereby enabling better- 28; UK SRS S2, paras 14, 22, 33: An entity’s 
+informed capital allocation and decision-making. • Demolition & Rebuild: This process generates  — Reputational Risk: Demolishing a structurally disclosures must present a coherent story  
+
+a massive, immediate spike in Scope 3 emissions. sound building is increasingly viewed as of how its strategy addresses climate change  
+The UK government and the Financial Conduct This is due to: wasteful and environmentally irresponsible, and enables it to meet its targets.
+Authority (FCA) will make a formal decision on which posing a risk to brand image.
+companies will be required to report and the exact  — Embodied Carbon: The carbon emissions • Alignment with Targets: A strategy involving 
+effective date. However, finalised standards are now associated with manufacturing and • Opportunities for Retrofitd: demolition and rebuild is fundamentally 
+available for reporting on a voluntary basis by UK listed transporting new materials (concrete, steel, misaligned with near- and medium-term GHG 
+companies and the largest private companies, with the glass). This falls under Scope 3, Category  — Resource Efficiency: A retrofit strategy can reduction targets due to the embodied carbon 
+first mandatory reports likely required from 2027. The 1 (“Purchased goods and services”) and be explicitly reported as a climate-related spike. Disclosing this would reveal a significant 
+intent is then for these companies on a phased rollout Category 2 (“Capital goods”). opportunity, demonstrating a commitment to contradiction between stated goals and actions
+to report on all emissions (Scope 1, 2 and 3). Such the circular economy.
+reporting will require disclosures by large company  — Demolition: Emissions from machinery  • Climate Resilience: UK SRS S2 (para 22) requires 
+supply chains, many of which will be SMEs, across the and transporting waste.  — Market Leadership: Companies can report a climate resilience assessment using scenario 
+built environment and other sectors. the “amount and percentage of assets or analysis. In a scenario with high carbon prices 
+
+ —  Impact: A company choosing to demolish and business activities aligned with climate-related or stricter regulations, a portfolio of efficient, 
+Sustainability is Now Financially Material: The rebuild will have to report a significant increase opportunities” (UK SRS S2, para 29(d)). A retrofitted buildings with low whole-life carbon 
+UK SRS S1 and S2 fundamentally shift the business in its carbon footprint for that year. This makes portfolio-wide retrofit program is a prime is far more resilient than one composed of new 
+case in favour of retrofitting existing buildings by it extremely difficult to show progress towards example of such an opportunity. builds carrying a heavy embodied carbon legacy.
+mandating a comprehensive, forward-looking, any stated climate targets (as required by UK 
+and financially oriented approach to sustainability SRS S2, para 33). Conclusion: The standards force companies to • Transition Plan: If a company has a climate 
+reporting. They compel companies to look beyond formally assess and disclose the long-term risks transition plan (UK SRS S2, para 14), a “retrofit-
+immediate operational carbon (energy use) and • Retrofit: This approach has a dramatically lower associated with high-carbon construction, while first” policy is a clear, actionable component. A 
+account for carbon emissions throughout their upfront carbon footprint. highlighting the tangible opportunities presented by “demolish and rebuild” approach would require 
+entire value chain. For those operating in the built retrofitting. complex and often unconvincing justifications.
+environment, this would mean recognising whole-  — Embodied Carbon: Emissions are limited to 
+life carbon, which includes the significant ‘embodied the new materials required for the upgrade 3.  Financial Implications & Capital Deployment Conclusion: A “retrofit-first” policy is a highly 
+carbon’–or ‘upfront carbon’–released during (e.g., insulation, windows, heat pumps), which (UK SRS S1, para 34; UK SRS S2, para 15 defensible and consistent strategic choice that 
+demolition and new construction. is a fraction of that for a new build. & 29(e)): Both standards require entities to is easy to report and aligns directly with climate 
+
+disclose the current and anticipated financial targets and long-term resilience. Demolition and 
+Previously, this embodied carbon was an  — Impact: Retrofitting preserves the embodied effects of sustainability/climate-related risks and rebuild creates strategic inconsistencies that are 
+environmental externality; under UK SRS, it carbon of the existing structure. It represents opportunities. difficult to explain to investors.
+becomes a material financial risk and a key a clear, measurable action to avoid emissions, 
+
+which aligns perfectly with a decarbonisation 
+32 DON'T WASTE BUILDINGS strategy and looks favourable in disclosures. Photo credit: Morris Moor, Courtesy of Up Property Pty Ltd AN INTERNATIONAL STUDY ON HOW 33
+
+FINANCIAL INCENTIVES CAN FUEL
+GROWTH AND REGENERATION
+
+
+
+5.  Broader Value Chain Considerations (UK SRS 
+S1, para 20 & Appendix A): UK SRS S1 defines 
+the value chain broadly, from conception and 5. RECOMMENDATIONS  
+sourcing to end-of-life.
+
+• Demolition & Rebuild: This activates a vast  
+and complex upstream value chain (mining,  FOR THE UK GOVERNMENT
+raw material processing, manufacturing) and  
+a significant downstream one (waste disposal). 
+Each stage carries sustainability risks (e.g., The implications of UK SRS The evidence gathered from our analysis of eight other developed economies, as well as the UK’s own 
+biodiversity loss, water use) and Scope 3 
+emissions that the entity must consider  could not be clearer: Retrofit Sustainability Reporting Standards, demonstrates a range of effective measures that can be used to support  
+
+the UK refurbishment and retrofit market. These have the potential to kickstart home creation and development, 
+and potentially report on if material. is the lower-risk strategy. create jobs and new skills, and grow the economy, among other wider, social and environmental benefits,  
+
+as outlined in our introduction. 
+• Retrofit: This engages a more localized and Developers who undertake 
+specialized value chain. It promotes a circular ‘retrofit first’ will have a much There is a sophisticated economic argument for introducing a package of financial incentives supportive of retrofit:
+economy model by extending the life of existing higher chance of reducing their 
+assets and materials, reducing waste and resource 
+extraction. This is a much more positive value potential for being left with The most effective incentives are not monolithic: 
+
+They are a targeted cocktail of programs designed WE RECOMMEND THE UK 
+chain story to disclose. stranded assets, their reportable to overcome financial barriers associated with GOVERNMENT CONSIDER  
+
+Conclusion: The holistic value chain perspective climate risk, their cost of capital, retrofitting, such as high upfront costs for energy 
+upgrades, VAT, or the “value gap” in preserving 
+
+required by UK SRS S1 forces companies and their reputational risk, thus historic structures. THE FOLLOWING:
+to acknowledge the wider negative impacts improving investor appetite.
+of demolition and new construction, further This is an investment, not a cost: Some incentives, 1.   VAT Harmonisation: France’s model is a direct 
+strengthening the case for retrofit. particularly a VAT harmonisation or a US-style tax and powerful parallel for the UK. Reducing or 
+
+credit, are a strategic investment that will pay for zero-rating VAT on repair, maintenance, and 
+themselves through a larger tax base and increased improvement work would immediately level the 
+economic activity. playing field between retrofit and new build,  
+
+remove the perverse incentive to waste, and 
+SUMMARY TABLE: RETROFIT VS. DEMOLISH & REBUILD UNDER UK SRS The French, US, German, Irish and Dutch models deliver an unmissable investment message. 
+
+are proven successes: The French reduced rate of 
+DISCLOSURE AREA DEMOLISH & REBUILD RETROFIT IMPLICATIONS HOW IT STRENGTHENS  ACTIONS FOR INVESTORS VAT on refurbishment provides a simple and easily- 2.  Tax Credits to Drive Private Investment:   
+(STANDARD REF) IMPLICATIONS THE RETROFIT CASE managed, yet incredibly effective, solution, while The US Historic Tax Credit has leveraged billions 
+GHG Emissions Highly Negative: Highly Positive: Preserves New builds generate Press for full Scope 3 reporting the US Historic Tax Credit provides a 40-year track in private investment for every dollar of public 
+(S2, 29a) Substantial, reportable embodied carbon, avoids significant supply-chain on construction activities; 
+
+spike in Scope 3 (embodied significantActions for Investors emissions (cement, steel), prioritise investments in low- record of generating a net positive return to the money foregone, showing how tax incentives 
+carbon). Contradicts climate Demonstrates progress while retrofits have much carbon refurbishment supply Treasury. The German and Dutch models are able to can be a catalyst for urban regeneration and 
+targets. towards targets. lower value-chain impacts. chains. unlock huge levels of wider economic activity, while economic growth. CGT and SDLT relief may 
+
+Climate Risks High: Faces significant Low: Mitigates transition Highlights that demolition & Ask firms for quantified the Irish model has been seen to revitalise derelict prove to be similar stimuli for the UK.
+(S2, 10) transition risks (carbon risks by being a low-carbon rebuild create large upfront upfront carbon comparisons 
+
+taxes, market shifts, solution. Lowers reputational carbon spikes, whereas of retrofit vs new build; favour properties and regenerate decaying town centres 
+stranded assets) and risk. retrofits avoid most of these retrofit projects in investment and High Streets. These are powerful, conservative, 3.  Grants to Target Specific Problems:  
+reputational risk. emissions. decisions. and fiscally prudent models to consider. Ireland’s grants for vacant properties show how 
+
+Climate Weak: Difficult to frame as a Strong: A clear example of Demolition produces high Require portfolio companies  financial incentives can be targeted to solve 
+Opportunities climate opportunity. a business activity aligned waste and demands virgin to show resource efficiency Policy design is key:  pressing issues like housing shortages, in line 
+(S2, 29d) with climate opportunities materials; retrofitting KPIs; integrate circular 
+
+(efficiency, circular economy). conserves resources and economy criteria into The Italian example serves as a cautionary tale  with the UK Government’s 1.5m homes target, 
+reduces waste liabilities. investment mandates. on the importance of getting the details right.  and dereliction in town centres, in line with its 
+
+Capital Negative: Capital deployed Positive: Capital deployed Older, energy-inefficient Ask for retrofit scenarios  We have considered the risks, and we are  new Pride in Place fund.
+Deployment towards a high-emissions towards decarbonisation and buildings face risks of in stress tests; direct capital proposing a balanced and sustainable solution. 
+(S2, 29e) activity. resilience improvements. becoming stranded assets; toward energy efficiency 
+
+retrofit improves resilience  upgrades. 4.  Subsidised Finance to Overcome Upfront 
+and compliance with Multiple wider benefits can be achieved: Beyond Costs: Germany’s KfW model is a global 
+tightening regulations. the positive fiscal return, retrofit-friendly fiscal benchmark for overcoming the significant  
+
+Strategy & Inconsistent: Actions Consistent: Actions directly Retrofits offer faster and Evaluate emission reduction policies support local jobs (retrofitting requires  upfront capital barrier associated with deep 
+Targets are misaligned with GHG support GHG reduction cheaper carbon reduction per £ invested; reward firms local skilled labour), revitalise communities  retrofits, especially for driving up levels  
+(S2, 14, 33) reduction targets. Weak targets. Strong, coherent per £ spent compared to with credible retrofit targets 
+
+strategic narrative. strategic narrative. demolition/rebuild. in financing terms (e.g. lower (as seen in Ireland), and meet climate goals  of energy efficiency.
+cost of capital). (as seen in Germany), making their introduction  
+
+Financial Effects Higher risk: Must disclose Beneficial: Can disclose Demonstrates retrofit delivers Incorporate retrofit vs. rebuild a multi-faceted policy win.
+(S1, 34; S2, 15) potential negative future anticipated positive financial lower capex, faster payback, financial modelling into These examples provide a robust and compelling case 
+
+financial effects from carbon effects from energy savings and reduced stranded-asset investment appraisals.
+pricing and market shifts. and higher asset values. risk compared to new build. that financial incentives are a standard and effective 
+
+tool used by governments worldwide to promote the 
+sustainable and economically beneficial practice  
+of retrofitting existing buildings.
+
+34 DON'T WASTE BUILDINGS Photo credit: Morris Moor, Courtesy of Up Property Pty Ltd 35
+
+
+
+ANNEX 1: IRELAND Source for investment leverage, jobs,  
+and overall economic impact:
+
+Croí Cónaithe (Towns) Fund
+
+CITATIONS AND SOURCES Citation: Prognos AG. (2021). Wirtschaftliche 
+Source: Government of Ireland, Department  Effekte der energetischen Gebäudesanierung – 
+of Housing, Local Government and Heritage Modellgestützte Analyse der KfW-Programme. 
+
+(Economic effects of energy-efficient building 
+Title: Vacant Property Refurbishment Grant refurbishment - Model-based analysis of the KfW 
+
+In addition to the footnotes in the previous document, below is a list of additional citations and sources for the data programmes).
+and analysis provided for each country highlighted in the previous pages. They are grouped by country for clarity. Description: This official government webpage 
+
+explains the eligibility and grant amounts for the Link (Example): Summary on KfW Website (in 
+General Note: Economic impact studies and government budget figures are updated periodically. The links  scheme, which aims to bring vacant and derelict German) www.kfw.de/Über-die-KfW/Service/
+provided are to the primary reports or the most recent analyses available. buildings back into residential use. Download-Center/Konzernthemen/Research/
+
+Evaluationen/Evaluationen-Energieeffizient-
+FRANCE USA www.gov.ie/en/service/f8f1b-vacant-property- Bauen-und-Sanieren
+
+refurbishment-grant
+Reduced Value Added Tax (VAT) Federal Historic Preservation Tax Credits Relevance: This is a key independent study 
+
+Source for grant statistics (applications and commissioned by the KfW itself to quantify the 
+Source: French Government, Public Service Portal Source: U.S. National Park Service (NPS) and  approvals): macroeconomic impacts of its funding programmes. 
+(service-public.fr) the Internal Revenue Service (IRS) It is the primary source for the leverage ratio (€6-
+
+Citation: Department of Housing, Local Government €7 for every €1 public) and the job creation figures 
+Title: TVA à 10 % et 5,5 % pour les travaux dans Title: Historic Preservation Tax Incentives and Heritage (Ireland). (Press Releases). (often cited as “person-years of employment”).
+votre logement (VAT at 10% and 5.5% for work  
+in your home) Description: This is the primary resource from the Link (Example): Gov.ie Press Release on Vacant Source for annual government funding levels:
+
+NPS, which co-administers the program. It outlines Homes Grants (Published Nov 22, 2023) 
+Description: This official government page details the 20% tax credit for the certified rehabilitation  www.gov.ie/en/department-of-housing-local- Citation: KfW Bankengruppe. (Annual). 
+the application of reduced VAT rates for renovation of certified historic structures. government-and-heritage/press-releases Förderreport. (Funding Report).
+works on residential properties older than two years, 
+specifying the 10% rate for improvement works  www.nps.gov/subjects/taxincentives/index.htm Relevance: Official press releases from the Link: KfW Annual and Promotional Reports 
+and the 5.5% rate for energy renovation. responsible government department are the primary www.kfw.de/About-KfW/Reporting-Portal/
+
+Source for cost, investment leverage, tax return, source for the most current figures on the uptake, Reporting-Portal.html 
+www.service-public.fr and jobs data: cost, and progress of this relatively new scheme.
+
+Relevance: The KfW’s official annual reports detail 
+Source for estimated cost (tax expenditure): Citation: National Park Service and Rutgers, The the volume of loans and grants disbursed each year 
+
+State University of New Jersey, Center for Urban GERMANY for their various programmes, including the Federal 
+Citation: French Government. (Annual). Projet de Policy Research. (2021). Federal Tax Incentives for Funding for Efficient Buildings (BEG), providing the 
+Loi de Finances - Évaluation des voies et moyens. Rehabilitating Historic Buildings Annual Report  Subsidised Loans & Repayment Grants official “cost” figure.
+(Annual Budget Bill - Annex on Tax Expenditures). for Fiscal Year 2020.
+
+Source: KfW Bankengruppe (Germany’s state-
+French Government Budget Portal  NPS Historic Preservation Tax Incentives  owned development bank) GERMANY
+www.budget.gouv.fr Annual Reports  
+
+www.nps.gov/subjects/taxincentives/index.htm Title: Energy-efficient refurbishment - Loan (261) Fuel emissions trading law
+Relevance: The annual budget documents of the 
+French government contain a detailed annex listing Relevance: This is the official annual report from the Description: This page on the KfW’s official website Source: Bundestag and industry commentators  
+all “dépenses fiscales” (tax expenditures). The cost program’s administrator (NPS). It contains the core details the low-interest loans and repayment (e.g. IEA) 
+of the reduced VAT rate on renovation work  statistics on the number of projects, the amount grants (Tilgungszuschuss) available for individuals 
+is quantified here. of credit claimed (cost), the private investment undertaking energy-efficient retrofits to meet www.cleanenergywire.org 
+
+leveraged, and job creation figures for that fiscal Germany’s “Effizienzhaus” standards. www.dehst.de 
+Source for market size and industry perspective: year. The report series also contains the cumulative www.deneff.org/von-null-auf-wachstum 
+Citation: Fédération Française du Bâtiment (FFB). data since 1976. The analysis on the net positive tax www.kfw.de/inlandsfoerderung/Privatpersonen/ www.bundestag.de/presse 
+(Various Press Releases and Economic Notes). return ($1.20-$1.25 for every $1.00) is a key finding Bestehende-Immobilie/Förderprodukte/ www.bundesregierung.de/breg-en/issues 
+
+from a major study referenced within these reports. Bundesförderung-für-effiziente-Gebäude- https://www.iea.org/policies
+FFB Economic Publications  Wohngebäude-Kredit-(261-262)/ 
+www.ffbatiment.fr Relevance: The Bundestag is the official German 
+
+government source for tracking the outcomes of the 
+Relevance: The French Building Federation is the fuel emissions and carbon pricing programme.
+main industry body. Its publications provide data on 
+the size of the renovation market and are the source 
+of the argument that the reduced VAT rate is a net 
+positive for the Treasury by discouraging informal 
+
+36 labour and stimulating taxable activity. AN INTERNATIONAL STUDY ON HOW 37
+FINANCIAL INCENTIVES CAN FUEL  
+GROWTH AND REGENERATION 
+
+
+
+ITALY NETHERLANDS ANNEX 2: BIBLIOGRAPHY
+“Superbonus” Tax Credit Environmental Investment Allowance
+
+Source: Agenzia delle Entrate (The Italian  Source: Rijksdienst voor Ondernemend Nederland 
+Revenue Agency) (RVO - The Netherlands Enterprise Agency) Below is a list of reports and articles that we studied in the production  
+
+of this paper. A number of these publications were further analysed using  
+Title: Superbonus 110% - Guide Title: MIA and Vamil our private AI platform, ChatDWB, powered by OmniChat.uk, to identify 
+
+common trends and recommendations.
+Description: This is the official guide from the Description: The official RVO page explains how 
+Italian tax authority explaining the mechanism of the the MIA and Vamil tax schemes work, allowing 
+Superbonus incentive, its objectives, and the types businesses to benefit from significant tax deductions REPORT TITLE AUTHORS (PERSON OR DESCRIPTION OF THE REPORT CONTENTS AND KEY CONCLUSIONS YEAR
+
+ORGANISATION NAMES) PUBLISHED
+of work covered. when investing in environmentally friendly 
+
+technologies and circular economy practices, 1.5M New Homes: The 1.5M New Homes Summarises a roundtable of local government and industry leaders on 2025
+Local Government campaign (Toby Fox), delivering 1.5 million new homes. Key conclusions urge MHCLG to trust 
+
+www.agenziaentrate.gov.it/portale/documents including sustainable building materials. Challenge - Unlocking Red Loft (Sponsor) councils, streamline building safety regulations, invest in skills, shift funding 
+Housing Delivery to capital, and treat housing as a national infrastructure priority.
+
+Source for overall cost and economic impact: www.english.rvo.nl/subsidies-programmes 2025 UK Net Zero UK Business Climate Summarises a survey of 2,018 UK organisations on net-zero progress. Finds 2025
+Business Census: Results Hub, Planet Mark, that while energy efficiency is widely adopted, high costs and regulatory 
+
+Citation: Bank of Italy. (2023). Economic Bulletin, and Recommendations Sage, British Business uncertainty remain major barriers. Recommends better financial support, 
+Bank, Experian, British standardised reporting, and targeted SME guidance.
+
+Number 4, July 2023. CANADA Chambers of Commerce
+A greenprint for Property Green Finance Institute, Proposes a framework for PLF in Scotland to address a £30bn retrofit 2025
+
+Link: Banca d’Italia Economic Bulletin  Canada Greener Homes Initiative Linked Finance in Scottish Government investment gap. Recommends creating a new “PLF standard security” to 
+https://www.bancaditalia.it/pubblicazioni/ Scotland link finance to Scottish properties. Details high commercial and consumer 
+
+bollettino-economico/2023-4/index.html Source: Natural Resources Canada (NRCan), demand, providing a roadmap for market launch and interoperability across 
+the UK.
+
+Government of Canada A greenprint for Property Green Finance Institute, Details a practical framework for launching PLF in England and Wales. It 2024
+Relevance: The Italian central bank provides Linked Finance in the UK Lloyds Banking Group, recommends “Local Land Charges” as the legal linking mechanism, shares 
+authoritative analysis of the “Superbonus” impact on Title: Canada Greener Homes Grant NatWest Group consumer research, maps customer journeys, and provides a step-by-step 
+GDP, public finances, and the construction sector. It roadmap to scale building decarbonisation funding.
+
+is a primary source for the macroeconomic effects. Description: The official portal for the federal A New Era of Climate Energy Transitions Analyzes global building sector decarbonization, focusing on operational 2024
+
+initiative, outlining the grants of up to C$5,000 and Policy Must Begin with the Commission (ETC) and embodied emissions. Concludes that transitioning to efficient, 
+Builders of the Future electric heat pumps, deploying passive cooling, and adopting low-carbon 
+
+Source for cost estimates and job creation: the interest-free loans of up to C$40,000 for home construction methods are critical and feasible for achieving net-zero 
+energy efficiency retrofits. emissions.
+
+Citation: ANCE (Associazione Nazionale Costruttori 
+Edili). (Various Reports 2022-2023). Osservatorio www.nrcan.gc.ca/energy-efficiency/homes Achieving Zero-Carbon Energy Transitions Analyzes global building sector decarbonization, focusing on operational 2025
+
+Buildings: Electric, Commission (ETC) and embodied emissions. Concludes that transitioning to efficient, 
+congiunturale sull’industria delle costruzioni. Efficient and Flexible electric heat pumps, deploying passive cooling, and adopting low-carbon 
+
+construction methods are critical and feasible for achieving net-zero 
+Link: ANCE Economic Observatory Reports BELGIUM (Flanders Region) emissions.
+
+www.ance.it/attivita-e-servizi ADAPTIVE LONDON: Katie Mulkowsky (Future Showcases London’s leadership in adaptive reuse and retrofitting. Identifies 2025
+
+Mijn VerbouwPremie Reusing Existing Buildings Places Studio), NLA (New policy, viability, and heritage constraints as challenges. Concludes that early 
+London Architecture collaboration, robust data, and embedding a “retrofit-first” approach in 
+
+Relevance: ANCE, the Italian construction industry planning are vital for sustainable urban regeneration.
+association, provides detailed reports on the direct Source: Government of Flanders (vlaanderen.be) An estimate of the effects Experian (co-funded Evaluates the impacts of reducing VAT on housing repairs from 20% to 5%. 2020
+impact of the scheme, including their widely cited of a reduction in the by the Cut the VAT Concludes the cut would create 95,480 jobs, provide a £15.1bn economic 
+estimates on job creation (both direct and indirect). Title: Mijn VerbouwPremie (My Renovation rate of VAT on housing Campaign Coalition) stimulus, and reduce CO2 emissions by encouraging energy-efficient home 
+
+Premium) renovation and repair retrofits.
+work: 2015 to 2020
+
+Source for official cost tracking:
+Description: This is the central information hub from Architects Declare Will Hurst Details Architects Declare’s criticism of the UK government’s delayed 2022
+
+savages government’s embodied carbon regulations. Highlights industry demand for urgent, 
+Citation: ENEA (Agenzia nazionale per le nuove the Flemish government for its unified renovation ‘woefully inadequate’ regulated whole-life carbon assessments for large buildings and supports 
+tecnologie, l’energia e lo sviluppo economico premium, which combines former separate energy climate action Jerome Mayhew’s proposed parliamentary bill to combat the climate crisis.
+
+sostenibile). (Monthly Reports). Report mensile and housing renovation grants into a single, income- Are empty offices the The Times Explores converting vacant UK office spaces into housing. While offering 2024
+Superbonus 110%. dependent application process. solution to the UK’s potential for thousands of new homes, it highlights significant challenges, 
+
+housing crisis? including structural unsuitability, complex planning regulations, and poor-
+quality homes created via Permitted Development Rights (PDR).
+
+Link: ENEA Superbonus Monthly Reports  www.vlaanderen.be/premies-voor-renovatie Balancing the tax CIOB (Chartered Institute Proposes adjusting Ireland’s VAT system to incentivise building repair over 2023
+www.efficienzaenergetica.enea.it system with Ireland’s of Building) Ireland Policy demolition. Recommends applying the standard 23% VAT rate to demolition 
+
+climate goals: a case for & Research while maintaining the 13.5% reduced rate for renovation to decrease 
+Relevance: ENEA is the official government agency incentivising retrofit over construction waste and embodied carbon.
+
+tracking the uptake and cost of the Superbonus. demolition using VAT
+
+Their monthly reports provide the most up-to-date 
+figures on the total cost to the state.
+
+38 DON'T WASTE BUILDINGS AN INTERNATIONAL STUDY ON HOW 39
+FINANCIAL INCENTIVES CAN FUEL
+GROWTH AND REGENERATION
+
+
+
+REPORT TITLE AUTHORS (PERSON OR DESCRIPTION OF THE REPORT CONTENTS AND KEY CONCLUSIONS YEAR REPORT TITLE AUTHORS (PERSON OR DESCRIPTION OF THE REPORT CONTENTS AND KEY CONCLUSIONS YEAR
+ORGANISATION NAMES) PUBLISHED ORGANISATION NAMES) PUBLISHED
+
+Building Blocks: a UK Architects Declare A policy manifesto urging the UK government to adopt regenerative, 2024 ESG Property Investor Knight Frank Surveys global property investors on ESG strategies. Finds that 76% 2025
+manifesto to transform the (Lead authors: Anna circular built environment models. Proposes three key actions: prioritising Survey 2025 prioritize retrofitting existing assets, driven by net-zero commitments and 
+Built Environment Woodeson, Julia Barfield, resource efficiency, kick-starting a circular economy, and restoring social enhanced financial returns. Concludes that data-driven ESG due diligence 
+
+Zoe Watson) and natural infrastructure to enable sustainable living and climate resilience. is now fundamentally embedded in real estate investment decisions.
+Building Renovation: A BPIE (Buildings Reviews 35 reports to highlight the macroeconomic benefits of EU building 2020 Essex Embodied Carbon Currie & Brown, Etude, Provides a technical evidence base for Essex local authorities to implement 2024
+kick-starter for the EU Performance Institute energy renovations. Concludes that every €1 million invested creates 18 Policy Study: A technical Hawkins\Brown, Introba, embodied carbon planning policies. Recommends a presumption against 
+recovery Europe), Renovate Europe local jobs, while also boosting productivity, reducing healthcare costs, and evidence base for Levitt Bernstein (for demolition, lean design requirements, and strict limits on upfront embodied 
+
+driving post-COVID-19 economic recovery. planning policy Essex County Council) carbon, supported by typological modelling.
+Building Reuse: A Proven American Institute Advocates for retrofitting and adaptively reusing existing buildings to 2022 Federal Tax Incentives for Technical Preservation Details the FY 2021 achievements of the US Historic Tax Credit program. 2022
+Climate and Economic of Architects (AIA), avoid embodied carbon emissions from new construction. Recommends Rehabilitating Historic Services, National Park Concludes it successfully leveraged $7.16 billion in private investment 
+Strategy National Trust for Historic strengthening Historic Tax Credits and the Historic Preservation Fund to Buildings: Annual Report Service (U.S. Dept. of the for historic rehabilitation, effectively creating jobs, generating affordable 
+
+Preservation (NTHP) support climate goals, job creation, and economic investment. for Fiscal Year 2021 Interior) housing, and revitalising local communities.
+Building to net zero: Environmental Audit Investigates the sustainability of the UK built environment. Concludes 2022 Get SMEs Building Again: Pocket Living Presents a 10-point plan to rescue SME housebuilders. Recommendations 2024
+costing carbon in Committee, House the government must mandate whole-life carbon assessments, promote 
+
+A 10-Point Plan to Save (Contributors include to boost delivery include reforming brownfield tax, introducing SME 
+construction of Commons (UK low-carbon building materials, reform permitted development rights, and 
+
+Parliament) prioritise the retrofit and reuse of existing buildings to achieve net zero. the Sector Marc Vlessing, Paul planning quotas, creating a public land portal, and streamlining planning 
+Rickard, Andrew White, committees.
+
+Built Different Charlie Mercer & Neil Details the UK ClimateTech sector's potential to decarbonise the built 2024 and others)
+McLoughlin (Startup environment. Recommends ten policy shifts, including mandating 
+Coalition) embodied emissions reporting, reforming Energy Performance Certificates Get up to speed on Will Hurst Reports on leading UK property developers urging architects to calculate, 2023
+
+(EPCs), introducing a retrofit sandbox, and leveraging Smart Data to embodied carbon now, disclose, and take ownership of their projects' Scope 3 embodied carbon 
+accelerate innovation. say leading developers emissions. Emphasises that climate-literate architects are essential for 
+
+driving the construction industry's transition to net-zero.
+CARBON BASED Martin Sobota, et al. Examines urban design's role in CO2 impacts across dwelling, district, 2025 Global biodiversity loss, HM Government Assesses the national security risks of global ecosystem degradation. 2024
+URBANISM: a sustainable (CITYFÖRSTER) & and resident levels. Concludes that lifestyle emissions far outweigh built-
+
+ecosystem collapse Warns that collapsing critical ecosystems—like the Amazon and coral 
+city is more than the sum Megan Visscher, et al. environment emissions, demanding holistic urban planning and tailored 
+
+and national security: reefs—will cause severe water and food insecurity, geopolitical instability, 
+of sustainable buildings (PosadMaxwan) reduction strategies that go beyond building-scale solutions.
+
+A national security migration, and conflict, emphasizing the urgent need for nature restoration.
+Carbon Emissions Jerome Mayhew MP / UK A proposed parliamentary bill amending the Building Regulations 2010. It 2022 assessment
+(Buildings) Bill Parliament mandates the calculation and reporting of whole-life carbon emissions and 
+
+sets strict legal limits on upfront embodied carbon for new buildings over Greening Homes, Creating UK Finance Details recommendations to stimulate consumer demand for green home 2025
+1,000m2 or developments with more than 10 dwellings. Growth: Unlocking improvements. Concludes that lenders need government support through 
+
+demand for green home clear policy roadmaps, tax/price incentives (rebalancing electricity/gas), 
+Carbon footprint of the Chaohui Li, Prajal Quantifies the global construction carbon footprint, projecting it will double 2025 finance strategic grants, and public information campaigns to successfully scale the 
+construction sector is Pradhan, Guoqian Chen, by 2050, exhausting the 1.5°C carbon budget. Concludes that a material green home finance market.
+projected to double by Jürgen P. Kropp, Hans revolution, replacing traditional high-carbon materials with bio-based 
+
+Heritage Building Retrofit City of London Provides a nine-step methodology empowering historic building owners 2024
+2050 globally Joachim Schellnhuber alternatives, is urgently needed to align construction growth with climate 
+
+commitments. Toolkit Corporation, Purcell to implement carbon reduction and climate resilience adaptations. 
+Emphasizes a "whole building approach" balancing sustainability with 
+
+Circularity in the Built World Economic Forum, Quantifies material needs for building retrofits to meet net-zero targets. 2025 heritage preservation to protect assets from climate hazards like flooding 
+Environment: Unlocking McKinsey & Company Concludes that a circular approach—recirculating 50% of extracted and overheating.
+Opportunities in Retrofits materials—can save billions of tonnes of virgin resources and abate CO2 
+
+emissions, requiring digital tracking and cross-value-chain collaboration. Laying the India Burgess & Julian Maps accountability tactics—transparency, reputation, and sanctions/ 2024
+Groundwork: Mapping Siravo (Autonomy incentives—to drive climate and social transformation in Europe's built 
+
+Combating climate Clark Brockman (Trellis / Examines the embodied carbon emissions of construction. Using Portland’s 2021 and implementing Institute / Laudes environment. Provides a transferability framework to help organizations 
+change: A study of SERA Architects) Edith Green-Wendell Wyatt Federal Building as a case study, it concludes (Updated accountability tactics for Foundation) prioritize effective strategies, such as planning regulations and investment 
+embodied carbon that reusing and adapting existing buildings avoids 50–75% of the 2024) transforming the built portfolio reviews.
+
+embodied carbon emissions generated by new builds. environment in Europe
+CUT THE VAT: A proposal FMB (Federation of Proposes a temporary 5-year VAT cut to 5% on home repair, maintenance, 2021 Low Carbon Development London Councils A collaborative toolkit for London boroughs to achieve low-carbon 2023
+for building back better Master Builders), RICS, and improvement. Concludes this would stimulate a £51bn economic boost, Toolkit 2023/24 outcomes in the built environment. Provides policy guidance, checklists, 
+and greener CBI Economics create over 344,000 jobs, accelerate decarbonization of existing homes, and KPIs, and best practices to help planning departments secure zero-carbon 
+
+help formalize the construction economy. buildings and infrastructure by 2030.
+Embodied Carbon and Miriam Graham, Charles Analyses over 4,000 UK Local Planning Authority documents. Finds 2024 Meeting the Commercial Knight Frank Examines obsolescence risks driving commercial property retrofits. 2024
+the Circular Economy: Gillott, Stephen Hincks, high awareness of embodied carbon but few mandatory requirements. Property Retrofit Highlights the gap between current building performance and future 
+Analysing UK Planning Danielle Densley Tingley Recommends widespread adoption of measurable policies, including Whole 
+
+Challenge – Part 1: net-zero targets. Concludes that strategic retrofitting, guided by occupier 
+Systems and Policy (University of Sheffield) Life Carbon Assessments and "refurbish first" approaches.
+
+Defining a Strategy demand and ESG metrics, is essential to future-proof assets and secure 
+Embodied Carbon and Miriam Graham, Charles Summarises workshops with 25 UK Local Planning Authorities on 2025 premium returns.
+the Circular Economy: Gillott, Danielle Densley embodied carbon policies. Highlights the need for specific national policies, Meeting the Commercial Knight Frank Quantifies costs and benefits of improving ESG credentials in UK 2024
+LPA Viewpoints on UK Tingley (University of standardised Whole Life Carbon Assessments, pre-redevelopment audits, Property Retrofit commercial properties. Concludes that retrofitting yields rental uplifts, 
+Planning Policy Sheffield) and digital tools to help planners enforce "retrofit-first" objectives. Challenge – Part 2: The reduces void periods, and lowers obsolescence risks, but viability depends 
+Embodied Carbon and Philip Comerford (for Assesses the embodied carbon of Irish housing typologies, including hilip 2025 Business Case for Action heavily on asset-specific costs, amenity provision, and local market 
+
+dynamics.
+the Climate Impact of Our the Housing Agency ernal neighbourhood infrastructure. Finds that lower-density housing emits 
+Housing Research Programme) more embodied carbon per dwelling. Recommends bio-based materials, Mission Zero: What does Copper Consultancy Analyzes Chris Skidmore's independent Net Zero Review ('Mission Zero'). 2023
+
+higher densities, and nature-based solutions to decarbonize construction. the Skidmore review Summarises key recommendations across solar, onshore wind, hydrogen, 
+asizing the need for streamlined planning, grid 
+
+Embodied Carbon Summit Dr. Helen Freeman Summarizes the 2025 Embodied Carbon Summit. Concludes that 2025 mean for the future of and construction, emph
+
+2025 Report and evidence (supported by UKGBC, reducing embodied carbon is technically achievable but requires systemic infrastructure? modernization, and devolved policy to unlock the economic opportunities of 
+reaching Net Zero.
+
+RICS, RIBA, IStructE, change, including government leadership, mandatory whole-life carbon 
+CIBSE, Happold assessments, standardized databases, and targeted upskilling across the Net Zero Readiness KPMG ESG (Mike Hayes, Assesses the preparedness of 24 countries and key economic sectors to 2023
+Foundation, Useful built environment sector. Report 2023 David Greenall, and achieve net-zero emissions by 2050. Highlights rapid renewable energy 
+Simple Trust) various KPMG national growth alongside challenges like grid capacity constraints, supply chain 
+
+specialists) bottlenecks, and social resistance to costs.
+
+40 DON'T WASTE BUILDINGS AN INTERNATIONAL STUDY ON HOW 41
+FINANCIAL INCENTIVES CAN FUEL
+GROWTH AND REGENERATION
+
+
+
+REPORT TITLE AUTHORS (PERSON OR DESCRIPTION OF THE REPORT CONTENTS AND KEY CONCLUSIONS YEAR ROADMAP TO NET ZERO Wasps (Workshop & Outlines Wasps' roadmap to achieve net-zero emissions by 2045 across its 2024
+ORGANISATION NAMES) PUBLISHED 2045 Artists Studio Provision 21 buildings. Concludes that prioritizing energy efficiency, decarbonizing 
+
+Scotland) heating in high-emitting buildings, circular procurement, and sustainable 
+Net Zero Whole Life UK Green Building Evaluates progress against the 2021 Net Zero Roadmap. Concludes the 2026 travel are essential to future-proof their Scottish creative community 
+Carbon Roadmap Council (UKGBC) UK built environment is failing to decarbonize fast enough, with embodied spaces.
+Progress Report: A carbon rising. Urges immediate action, mandatory whole-life carbon 
+Pathway to Net Zero for regulations, and prioritising retrofits to recover lost ground. SMEs and Net Zero: UK British Business Bank, UK Analyzes UK SMEs' progress towards net zero. Finds that 14% of SMEs 2025
+
+Net Zero Business Census Business Climate Hub, produce 84% of SME emissions. Concludes that while most take basic 
+the UK Built Environment Report PlanetMark actions, systemic barriers like high costs and fragmented reporting hinder 
+New Homes from Vacant Rory Milne, Adala Leeson Explores the potential to provide 560,000 to 670,000 new homes in England 2025 deeper decarbonization without targeted financial support.
+Historic Buildings (Historic England) by repairing and repurposing vacant or underused historic buildings, Taking Stock: A Arup, Dark Matter Argues England’s housing crisis cannot be solved by new builds alone 2025
+
+including non-domestic spaces. Concludes that adaptive reuse is a foundation for future Laboratories, Rising due to environmental limits. Recommends better utilizing existing stock, 
+massive, sustainable opportunity for housing supply. housing strategy Tide, UCL Institute for accelerating neighbourhood-scale retrofits, and diversifying delivery 
+
+Nordic Innovation Policies Simon Kaarsberg, Lea Examines European and Nordic legislation affecting construction product 2023 (Executive summary) Innovation and Public models. Concludes that aligning fiscal and spatial levers addresses 
+Enabling the Reuse of Kress (Norion Consult), reuse. Identifies policy barriers and highlights enablers like designing for Purpose (Housing that affordability and climate goals.
+Construction Products in Nordic Sustainable disassembly. Recommends harmonising policies across Nordic countries to Doesn’t Cost the Earth)
+the Nordics Construction, Nordic accelerate the transition to a circular economy. The Business Case for Annisa Sekaringtias, Explores the business case for integrated housing retrofit, combining 2025
+
+Innovation Integrated Retrofit: How Gwyn Rhodes, et al. climate mitigation, adaptation, and socio-economic benefits. Concludes 
+Policy Position Paper: Will Arnold (Institution An industry position paper urging UK political leaders to regulate embodied 2024 banks, insurers and the (University of Cambridge that banks, insurers, and government must collaborate to fund and 
+Embodied carbon of Structural Engineers) carbon. Proposes mandating whole-life carbon assessments for large government can support Institute for Sustainability incentivize resilient, energy-efficient homes to ensure long-term financial 
+regulation – alignment / Part Z (supported by projects by 2026 and introducing legal limits on upfront embodied carbon healthy, efficient and Leadership - CISL) stability.
+of industry policy various industry groups) by 2028. resilient homes
+recommendations The Case for Office to Anonymous / Examines the hollowing out of Kuala Lumpur's urban core and proposes 2025
+Progress in reducing Climate Change Assesses UK progress in reducing greenhouse gas emissions. While 2025 Residential Conversion in Independent Research converting vacant office buildings into residential units. Concludes this 
+emissions: 2025 report to Committee (CCC) territorial emissions have halved since 1990, achieving 2030 targets requires Kuala Lumpur adaptive reuse strategy offers a cost-effective, low-carbon way to revitalize 
+Parliament urgent action, including lowering electricity costs, accelerating heat pump the city center and provide accessible housing for young professionals.
+
+deployment, prohibiting gas connections in new homes, and ramping up The cost of poor housing Helen Garrett, Molly Estimates poor housing costs the NHS £1.4bn annually, and society £18.5bn 2021
+tree planting. in England: 2021 Briefing Mackay, Simon Nicol, overall. Concludes that rectifying extreme health and safety hazards, such 
+
+Property Linked Finance: Martin Sobota, et al. Examines urban design's role in CO2 impacts across dwelling, district, 2025 paper Justine Piddington, Mike as excess cold and fall risks, pays for itself rapidly and deeply benefits wider 
+A new financial solution (CITYFÖRSTER) & and resident levels. Concludes that lifestyle emissions far outweigh built- Roys (BRE) society.
+to decarbonise the UK's Megan Visscher, et al. environment emissions, demanding holistic urban planning and tailored THE FUTURE IS CBI Economics, Energy & Analyzes the UK's net-zero economy, highlighting its £83.1 billion 2025
+homes and buildings (PosadMaxwan) reduction strategies that go beyond building-scale solutions. GREEN: The economic Climate Intelligence Unit GVA and support for 951,000 jobs. Concludes that green sectors drive 
+Property Linked Finance: Green Finance Institute Highlights rising consumer demand for energy efficiency amid the energy 2022 opportunities brought (ECIU) disproportionate economic growth and productivity, urging stable 
+
+Rising Consumer Demand crisis. Introduces PLF as an innovative solution to fund up to 100% of by the UK’s net zero government policy to secure investment and maximize regional 
+
+for Energy Efficiency and upfront retrofit costs, linked to properties rather than owners, effectively economy opportunities.
+
+the Need for Financial overcoming the "payback period barrier" and requiring cross-sector The Greyfield TYI Strategy (TYI) & Proposes repurposing obsolete urban "greyfield" sites, such as multi- 2025
+Innovation collaboration to implement. Renaissance: Converting CAPITAL&CENTRIC storey car parks and failing shopping malls, into high-density housing. 
+Proposed Document Z: A proposal from the Proposes an amendment (Part Z) to UK Building Regulations to mandate 2022 Car Parks into Homes Recommends implementing "Brownfield Passports", planning reforms, and 
+
+Whole life carbon construction industry whole-life carbon assessments and set upfront embodied carbon limits public-private joint ventures to alleviate housing shortages and revitalize 
+(Part Z Campaign) for major building projects. Aims to normalize carbon accounting and mid-sized UK towns.
+
+discourage excessive resource use. The Hidden Business Jeni Miles, Dario Krpan, Survey revealing 86% of UK business professionals support post- 2025
+Radical retrofit: Adapting Economist Impact Examines drivers and barriers for upgrading urban buildings globally. 2025 Majority: From Private Fred Basso (Wholeloop growth/Doughnut Economics principles, despite falsely believing peers 
+
+cities for a resilient future (Supported by JLL) Calls for a "radical retrofitting" approach utilizing mandatory performance Support to Post-Growth Labs) oppose them. Concludes that exposing this "perception gap" can unlock 
+standards, innovative financing, AI integration, and workforce upskilling to Transformation widespread systemic transformation towards sustainable business models.
+enhance climate resilience, reduce carbon footprints, and optimize urban The UK Construction Qualis Flow Limited Analyzes over 90,000 waste transfer notes to assess industry compliance, 2023
+space. Industry Annual Waste (Qflow) landfill diversion, and carbon impact. Finds that 1 in 3 transfer notes are 
+
+Reducing Embodied World Economic Forum Explores challenges and presents nine solutions to reduce embodied 2024 Report 2023 non-compliant. Concludes that adopting real-time digital tracking is 
+Carbon in Cities: (WEF) in collaboration carbon in urban built environments. Emphasizes enabling policy essential to improve compliance, transparency, and material reuse.
+Nine Solutions for with Accenture frameworks, strengthening low-carbon ecosystems, and spurring The UK's fair carbon Dr Ian Campbell Warns the UK will exceed its fair share of the 1.5°C global carbon budget by 2025
+Greener Buildings and innovation—like low-carbon materials and adaptive reuse—to achieve budget will run out in (Scientists for Global 2027. Concludes the 2050 Net Zero target is inadequate, recommending an 
+Communities greener cities and net-zero targets. 2027: here's the evidence Responsibility) urgent, radical reduction in fossil fuel use of over 90% by 2030.
+
+Repair, Reuse, Recycle: Eloise Sacares (Fabian Proposes policies to upscale England's circular economy across 2025
+Making the Circular Society) construction, automotives, and food. Recommendations include abolishing The Willow Review Nick Stace OBE & Highlights the financial and commercial benefits of sustainability for SMEs. 2025
+Economy in England Work VAT on building refurbishments, mandating recycled car parts, introducing Michelle Ovens CBE Recommends a five-point plan, reframed messaging, improved access 
+at Scale a "right to repair" price cap, and enforcing food waste targets. (Supported by Small to green finance, and local government support to help small businesses 
+
+Business Britain, overcome barriers and confidently transition to a net-zero economy.
+Reporting Scope 3 can Hattie Hartman Argues that architects should embrace measuring and reporting Scope 2023 Barclays, BT Group)
+help your business as well 3 emissions. Emphasises that understanding project carbon impacts is Time to Retrofit: RICS (Royal Institution of Argues that retrofitting the UK's ageing building stock is essential to meet 2020
+as the planet a significant business opportunity, driving circular design, better client Decarbonising UK Chartered Surveyors) decarbonisation targets. Reviews the Green Homes Grant scheme and 
+
+engagement, and genuine environmental improvement rather than 
+buildings and economic concludes there is massive potential for energy savings and green job 
+
+greenwashing.
+recovery creation through energy-efficient renovations.
+
+Retrofit at Scale Opportunity London, Identifies barriers to scaling building retrofits in London. Concludes that 2025
+Gensler (with ARUP, NLA, standardizing retrofit definitions, sharing transparent performance data, We’ve broken the climate: Will Arnold (Institution of Acknowledges global heating exceeding 1.5°C but highlights reasons for 2025
+CIVIC, ARCADIS) fast-tracking planning, and aligning tax policies will make retrofitting the now what? Structural Engineers) optimism, such as plateauing emissions and grassroots industry action 
+
+default, attractive choice for real estate investors and developers. (e.g., Part Z). Urges structural engineers to continue taking bold actions to 
+reduce embodied carbon and advocate for using fewer materials.
+
+Retrofit Policy Roundtable Don't Waste Buildings Summarises a roundtable advocating for a "presumption of retention" in UK 2025
+Report: 27 November (DWB), Institute of planning policy. Concludes that government regulation, financial incentives, What's Old Is New: Lori Ferriss, Billie Makes the business case for adaptive reuse in commercial real estate. 2025
+2024 Directors (IoD) and VAT equalisation are urgently needed to encourage building retrofitting The Business Case for Faircloth, Elizabeth Rowe Case studies demonstrate that repurposing old buildings generates strong 
+
+over carbon-intensive demolition. Adaptive Reuse (Urban Land Institute, financial returns while catalysing urban revitalisation and significantly 
+KPF, Built Buildings Lab) reducing whole-life carbon emissions.
+
+Retrofit vs Rebuild? London Assembly Investigates embodied carbon in London's built environment. Recommends 2024
+Reducing Carbon in the Planning and making Whole Life-Cycle Carbon assessments mandatory nationally, Why our Part Z proposals Tim den Dekker, Will Advocates amending UK building regulations (Part Z) to mandate whole-life 2023
+Built Environment Regeneration Committee standardising assumptions to prevent bias, reducing VAT on retrofitting, must be a milestone on Arnold carbon reporting and limits. Argues against relying solely on planning laws, 
+
+and improving infrastructure to prioritise building retention over demolition. the road to net zero emphasizing that carbon calculations require building control oversight. 
+Concludes the government must urgently provide clear policy signals.
+
+42 DON'T WASTE BUILDINGS AN INTERNATIONAL STUDY ON HOW 43
+FINANCIAL INCENTIVES CAN FUEL
+GROWTH AND REGENERATION
+
+
+
+Photo credits, clockwise from top right: 
+Michael Savin/Unsplash.com
+Ducie Street, Courtesy of Capital&Centric
+Heal’s Building, Courtesy of Don’t Waste Buildings
+Neptune Manchester, Courtesy of Capital&Centric
+
+DESIGN AND ARTWORK  
+BY SERJENT DESIGN LIMITED
+www.serjent.com
+
+44 DON'T WASTE BUILDINGS AN INTERNATIONAL STUDY ON HOW 
+FINANCIAL INCENTIVES CAN FUEL  
+GROWTH AND REGENERATION 
+
+
+
+Please join the Don’t Waste Buildings group on LinkedIn: 
+www.linkedin.com/groups/13002786/
+
+DON’T WASTE BUILDINGS WAS CO-FOUNDED BY:
+Will Hurst
+www.linkedin.com/in/will-hurst
+
+Leanne Tritton
+www.linkedin.com/in/leanne-tritton
+
+Richard Nelson
+www.linkedin.com/in/richardnelsonabyss
+
+www.dontwastebuildings.com

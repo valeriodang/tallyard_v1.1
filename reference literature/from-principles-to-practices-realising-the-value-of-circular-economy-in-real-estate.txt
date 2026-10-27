@@ -1,0 +1,4235 @@
+﻿FROM PRINCIPLES TO PRACTICES: 
+REALISING THE VALUE OF           
+
+CIRCULAR ECONOMY IN REAL ESTATE
+
+
+
+CONTENTS
+
+About this project 3
+
+Foreword 4
+
+Endorsements 6
+
+Project team 10
+
+Disclaimer 11
+
+Executive summary 12
+
+Introduction 16
+
+Methodology 22
+
+Source of lost value 26
+
+Market trends 30
+
+Circular real estate business models 34
+
+Flexible Spaces 36
+
+Adaptable Assets 46
+
+Relocatable Buildings 58
+
+Residual Value 66
+
+Performance Procurement 74
+
+Key findings 82
+
+Next steps 88
+
+Further research 90
+
+Appendices 92
+
+Abbreviations 100
+
+References 102
+
+1 Finsbury Avenue, London
+
+2  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+ABOUT THIS PROJECT
+
+From Principles to Practices is a two-phase 
+collaborative project led by Arup and the Ellen 
+MacArthur Foundation that aims to translate the 
+principles of a circular economy into everyday built 
+environment practices. 
+Phase 1 of the project established our vision for a circular built 
+environment and identified the key barriers, opportunities and enablers of 
+implementing circular economy practices. It also informed proposals for 
+who needs to lead the change and what their first steps might be. The key 
+outputs from Phase 1 were published in a report titled, First Steps Towards 
+a Circular Built Environment, released in July 2018.
+The second phase of the project, described in this report, aims to 
+demonstrate the value and process of implementing circular economy 
+principles in the built environment to real estate investors and construction 
+clients. We have focused on these two stakeholder groups because our 
+Phase 1 work highlighted they are best placed to lead the transition to 
+a circular built environment, since they have the greatest capacity to 
+influence decision-making, set direction and catalyse action throughout the 
+value chain. Policy makers were also identified as possible first movers, 
+yet in our interviews in Phase 1, policy makers made it clear they needed 
+an evidence base of the benefits of a circular economy to be developed by 
+investors and construction clients. Our research also revealed that value 
+and the way in which it is created from real estate assets is set by investors 
+and construction clients through investment requirements, tenure models 
+and design briefs (developed within the confines of the policy environment 
+in which they operate). Despite this, the business case for implementing 
+circular economy principles has not yet been explicitly articulated to 
+investors or construction clients to incentivise a change in this direction. 
+The aim of this project is, therefore, to signpost the business case.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  3
+
+© Paul Carstairs / Arup
+
+
+
+FOREWORD
+The built environment sector faces a desperate need to become more sustainable. The environmental and ethical 
+cases to adapt have never been stronger. Less well articulated is the business case.  
+Our own research shows us that a business’ customers and prospective employees increasingly expect it to act in 
+a socially and environmentally responsible manner. But what are the financial benefits of doing so? Making the 
+investment case is vital to turbocharging the adoption of circular economy principles, helping the sector tackle its 
+environmental footprint and create better places for people to live and work. So too is practicality. What tangible 
+changes could real estate investors and businesses make to tap into these benefits?  
+With these questions in mind, we welcome both the findings of the research, and the cross-industry collaboration 
+that has supported the work of Arup and the Ellen MacArthur Foundation. Indeed, I am pleased that RICS has been 
+able to help develop the five circular economy real estate business models outlined in this report. 
+The research doesn’t just demonstrate that circular economy practices can be built into existing real estate business 
+models, it highlights the benefits of doing so, whether creating new value from an asset, keeping an asset at its 
+highest value, or eliminating waste.   
+At their core, the five business models developed support the optimal use of resources across a real estate asset’s 
+life cycle, rather than simply at the design stage. This will mean RICS professionals will be uniquely placed to 
+realise circular economy practices. Among the other built environment professions, it is our profession alone that is 
+engaged at every stage of an asset’s lifespan. 
+The successful adoption of circular economy practices will be heavily dependent on the buy-in of investors, so the 
+importance of investors’ risk perception and appetite, as well as their understanding of an asset’s financing, can’t 
+be overlooked. Valuation standards are integral to building investors’ trust; applied by trusted professionals, they 
+aid transparency and give investors confidence in the underlying valuation. 
+Adapting to circular economy practices, and the techniques this will require, will drive broader adoption of new 
+tools among RICS professionals. The profession is already closely involved with several innovations identified 
+within this report, such as buildings passports and digital twins; blockchain, to assure the provenance of materials, 
+will also become part of the toolkit. Throughout this, RICS will continue to advance the future of the profession, 
+providing it with the guidance and resources that will be required to match the needs of the evolving landscape in 
+which they work.    
+As a global industry, and for the benefit of future generations, we have to deliver the sustainable cities that a 
+growing global population requires. Working together, we can pioneer better built environments at the same time 
+as meeting the challenges that rapid urbanisation brings. 
+This means embracing innovation. It’s often all too easy to see change as a threat, rather than an opportunity. But 
+as this research shows, those who are bold enough to blaze a trail will ultimately deliver greater value for their 
+clients and gain competitive edge.  
+
+Sean Tompkins | Global Chief Executive Officer | RICS
+February 2020
+
+4  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Bosco Verticale, Milan
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  5
+
+© Arup
+
+
+
+ENDORSEMENTS
+“Many actors in the real estate sector recognise the need to move from a linear to a circular approach, but struggle 
+with building the financial business case due to lack of evidence and examples. This report gives validity to 
+several clear business cases to apply circular principles to asset management and development and should be 
+an invitation to investors, financiers, construction companies and service providers to put these principles into 
+practice to promote a virtuous circle of further evidence, more innovation and greater adoption.”
+Clemens Brenninkmeijer | Head of Sustainable Business Operations | Redevco B.V. 
+
+“This report clearly showcases the many ways public and private real estate investors can realise value in the 
+circular economy. The transition it calls for must happen fast. Lejerbo has taken an important first step to 
+demonstrate that circular construction is feasible for social housing through the Circle House project, which will 
+see 60 homes built in line with circular economy principles by 2023. Building better homes within the constraints 
+of our planetary and social boundaries is a key challenge for the coming decades; circular real estate investment 
+plays a vital role in overcoming this challenge.”
+Jesper Kort Andersen | Project Lead Circle House | Lejerbo Housing Association
+
+“We desperately need to rethink the whole building lifecycle and appreciate the resources our planet provides. 
+Adopting one or more of the circular real estate business models in this report during the early stages of the 
+development process can significantly decrease the need for raw materials by making use of existing building 
+structures and materials. The key enabler is the idea of a material passport, which can help to unlock residual 
+value that was unknown before, alongside the benefits of reduced waste creation and a lower carbon footprint.”
+Coen van Oostrom | Founder & CEO | EDGE
+
+“This report provides practical steps towards a circular economy by identifying five ways companies in the real 
+estate industry can adjust their business models. It is very useful in explaining the impact of the circular principles 
+on the real estate sector and I am pleased JLL has been able to support the Ellen MacArthur Foundation  and 
+Arup by contributing to this report.”
+Guy Grainger | Chief Executive Officer, Europe, Middle East and Africa | JLL
+
+“As this report makes clear, the shift towards circular economy needs to be viewed as a business strategy, not just 
+a waste management or design strategy. Currently our industry has one foot firmly in the past, with the other 
+stepping tentatively into the future. If we are to witness the kinds of productivity, efficiency, profitability and 
+sustainability outcomes that are not only economically desirable but urgently required, and create places that are 
+genuinely fit for the future, we need to take a bold leap forward and start deploying these strategies today.”
+Paul King | Managing Director Sustainability & Social Impact - Europe | Lendlease
+
+“If we are to seriously reduce carbon emissions, it is necessary to get the construction industry involved. Realdania 
+is currently investing in new circular economy projects to mature the market for circular construction in Denmark. 
+We wholeheartedly welcome this important report which clearly shows the business potential of circular economy 
+for real estate.”
+Simon Kofod-Svendsen | Project Director Sustainable Construction | Realdania
+
+6  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+“This report brings a new focus on the economic impact of sustainable business models. There is an undeniable 
+link between sustainable real estate investment decisions and financial performance. The positive results reported 
+make a strong argument that the circular economy is more than the management of resources and waste in the 
+real estate sector. It’s also clear that a change of behavior by all parties (i.e. landlords, tenants, asset / property 
+managers) and a review of regulation  (e.g. accounting standards) is required to support and incentivise the 
+uptake of circular business models in the future.”
+Alexander Piur | Head of Innovation & Sustainability, Real Estate | ING Wholesale Banking
+
+“Ronan Group is hugely encouraged by the ‘Realising the value of circular economy in real estate’ report findings. 
+The Ellen MacArthur Foundation and Arup led initiative provides clear and timely blueprints for the application 
+of circular principles to the real estate sector. The United Nations estimates that the built environment accounts 
+for 40% of global energy use and 30% of energy-related greenhouse gas emissions. Consequently, as real estate 
+industry leaders we have an ethical responsibility to adopt socially and environmentally progressive solutions. The 
+time for debate has passed – the time is now – and it is to be hoped that this report will provide the catalyst for 
+action. We must lead by example, and we will.”
+John Ronan Jnr | Director | Ronan Group Real Estate
+
+“British Land is delighted to endorse the findings of this report. We recognise the importance of emerging circular 
+economy thinking for the real estate sector, and acknowledge that the principles of a circular economy will play a 
+key part in helping the UK’s transition to a net zero carbon economy.” 
+Nigel Webb | Head of Development | British Land
+
+“Our society is at beginning of a profound shift towards a circular economy. The traditional linear economy model 
+shaped our world, giving us the possibility to thrive throughout the last century, but this achievement has come 
+with huge environmental consequences. The real estate sector is the largest carbon emitter and the largest waste 
+producer. This report sets the basis for the real estate sector to identify the technical and financial challenges that 
+our industry shall address to sustain our industry and the future of our generations.”  
+Stefano Corbella | Sustainability Officer | COIMA
+
+“We believe that the only way forward for our industry is to go from a linear to a circular business model. H&M 
+Group is currently in the process of defining and setting a strategy for circular built environment and the findings 
+from this report will provide important input parameters for our future journey, especially considering the 
+definitions of circular KPI’s and business models. Additionally, we are also welcoming the external collaboration 
+behind this report since we believe that industry-wide collaboration is key to create long lasting change.”
+Ulrika Nordvall Bardh | Circular Strategy Lead Non-Commercial Goods |  H&M Group
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  7
+
+
+
+London skyline
+
+8  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  9
+
+© Paul Carstairs / Arup
+
+
+
+PROJECT TEAM
+PROJECT LEADS AUTHORS
+
+Devni Acharya, Arup
+devni.acharya@arup.com
+
+Arup is an independent firm of designers, planners, Richard Boyd, Arup 
+engineers, consultants and technical specialists, working richard.boyd@arup.com
+across every aspect of today’s built environment. Together 
+we help our clients solve their most complex challenges – Olivia Finch, Ellen MacArthur Foundation                     
+turning exciting ideas into tangible reality as we strive to olivia.finch@ellenmacarthurfoundation.org
+find a better way and shape a better world.
+
+CONTRIBUTORS
+Matthew Dunn, Arup     
+Kåre Stokholm Poulsgaard, 3XN/GXN
+
+The Ellen MacArthur Foundation was launched in 2010 
+with the aim of accelerating the transition to the circular ACKNOWLEDGEMENTS
+economy. Since its creation, the charity has emerged Francesca Auch, Arup
+as a global thought leader, putting circular economy Chandresh Bhatt, Bishop & Sewell LLP
+on the agenda of decision-makers across businesses, Damien Canning, Arup
+governments, and academia. Guglielmo Carra, Arup
+
+Chiara Catgiu, Arup
+Emily Chadwick, JLL
+
+PROJECT PARTNERS Casper Østergaard Christensen, 3XN/GXN
+Susan Cooney, M&G Real Estate
+Dorina Demertzi, Arup
+Hatice Cigdem Demirel, Arup
+
+3XN Architects and GXN Innovation create buildings that Jeroen van der Waal, Gemeente Amsterdam
+challenge conventions while advancing a Scandinavian Carlijn van der Werf, Arup
+tradiarcthiteictuore • innnova tioon f functionality and beauty. GXN is driving Ben Elder, RICS
+design innovation in materials, behaviour and technology, Filippo Gaddo, Arup
+and with projects such as ‘Building a Circular Future’ Salome Galjaard, Arup
+and ‘Circle House‘, the company is taking a lead in the Charles Golding, RICS
+circular economy. Lena Gravis, Ellen MacArthur Foundation 
+
+Petran van Heel, ABN AMRO Bank
+Kasper Guldager Jensen, 3XN/GXN   
+
+EXPERT ADVISORS Carol Lemmens, Arup
+Andrew Morlet, Ellen MacArthur Foundation    
+Mark Morris, Arup
+Martin Pauli, Arup 
+
+JLL is a leading international professional services firm Lorenzo Piacentino, Arup
+that specialises in real estate and investment management Neil Rebeugeot, Arup
+operating in over 80 countries. JLL is passionate about Richard Scott, Arup
+sustainability and was one of the first companies in the Adam Smith, Stanhope
+UK to commit to net zero carbon by 2030. Luke Smith, Arup
+
+Chris Strathon, JLL
+
+We would also like to thank all our roundtable attendees and 
+five testbed partners for supporting this project.
+
+As a globally recognised professional body, everything 
+RICS does is designed to effect positive change in the GRAPHICS
+built and natural environments. Through its respected 
+global standards, leading professional progression and Matthew Cox, Arup
+its trusted data and insight, RICS promotes and enforces Eddie Ion, Arup
+the highest professional standards in the development Agostino Nickl, Arup
+and management of land, real estate, construction and 
+infrastructure.
+
+10  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+DISCLAIMER
+
+This report has been produced by Arup in collaboration with the Ellen MacArthur Foundation. While care and 
+attention has been exercised in the preparation of the report, we make no representation or warranty of any kind 
+(whether express or implied) as to the accuracy of this report. Furthermore, Arup accepts no liability of any 
+kind and disclaims all responsibility for the consequences of any person acting or refraining from acting, or any 
+decisions made or not made, based upon the information or findings presented in this report. We emphasise that 
+the forward-looking projections, forecasts, or estimates are based upon interpretations or assessments of available 
+information at the time of writing. The realisation of the prospective financial information is dependent upon the 
+continued validity of the assumptions on which it is based. Actual events frequently do not occur as expected, and 
+the differences may be material. For this reason, we accept no responsibility for the realisation of any projection, 
+forecast, opinion or estimate. Arup and the Ellen MacArthur Foundation would like to thank the organisations that 
+have contributed to the paper for their constructive input. Contribution to the paper, or any part of it, should not 
+necessarily be deemed to indicate any kind of partnership or agency between the contributors and Arup and the 
+Ellen MacArthur Foundation, nor an endorsement of its conclusions or recommendations.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  11
+
+
+
+EXECUTIVE SUMMARY
+
+Improved financial performance of up to 18% over 12 years is available to investors 
+and construction clients who unlock the potential of underutilised space in their 
+portfolios. This is one of five new business models for real estate presented in 
+this report, each of which offers better returns than business-as-usual. They 
+demonstrate the potential of circular economy principles to improve the resource 
+productivity of real estate while contributing to the decarbonisation of the sector.
+This report is timely. Global leaders in business, The lost value endemic within the sector presents 
+government and cities have acknowledged the ideas profit opportunities which our models exploit to deliver 
+behind a circular economy offer the opportunity returns. This report explores the possibility that new 
+to add value and reduce waste. At the same time, a circular real estate business models can deliver better 
+new generation of customers are highly aware of the returns on a reduced resource footprint.
+environmental and social costs of business-as-usual. 
+Circular economy thinking offers real estate investors Projects in diverse sectors and markets can benefit 
+a framework for achieving environmental and from these models. Feasibility studies using data 
+social goals while at the same time delivering better from real projects in commercial, residential, retail 
+economic performance. Yet until now, consideration and mixed-use markets and in five European cities 
+of circular economy principles in this sector has demonstrate the models have relevance across 
+principally focussed on design strategies, which is typologies and markets.
+only half the story. This report tells the other half; how 
+do real estate business models also need to change if THE FIVE MODELS
+circular economy principles are to scale in this sector? Significant amounts of space in buildings is wasted. 
+This report also comes at a time when the real estate The average office is 40-60% unoccupied during 
+sector is facing significant disruption, demanding a office hours, while the space in UK higher education 
+response from market players. A response to these is 72% underutilised. The first model, called Flexible 
+trends based on linear ways of working will lock-in Spaces, builds on the trend of co-working spaces to 
+wasteful and polluting practices for the foreseeable unlock the potential of underutilised space in buildings 
+future, just at the moment when the sector needs to while balancing the risks normally associated with 
+eliminate waste and decarbonise. This report presents short tenure space. When explored on a tenanted office 
+business models which work with these trends space in Milan, the potential additional revenue was 
+while also giving asset owners the ability to rapidly found to be equivalent to 18% of the net present lease 
+reposition assets if the worst happens. cost over 12 years.
+
+Flexible Adaptable  Relocatable Residual       Performance 
+Spaces Assets Buildings Value Procurement
+
+12  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Buildings are typically demolished before they reach NEXT STEPS
+the end of their technical life. A model based on 
+Adaptable Assets considers the value of creating The models demonstrate how circular economy 
+buildings which are resilient to both changing market principles can be operationalised to deliver improved 
+conditions and social expectations by being able to financial performance to real estate investors and 
+adapt to alternative uses. This is tested on a residential construction clients. To deliver their full value, these 
+development in Denmark and found to increase its models will require new roles, relationships and 
+internal rate of return by 3% over 50 years. requirements to be disseminated throughout the value 
+
+chain. This report offers initial thoughts on what these 
+Meanwhile uses on otherwise vacant sites are an roles, relationships and requirements might be.
+increasingly popular tactic for developers looking 
+to create places and build a brand ahead of major It is also important to note the models are not exclusive 
+regeneration schemes. Yet many existing building – they are presented separately in this report for 
+solutions for these temporary uses are architecturally simplicity, yet it is likely that many projects will be 
+constrained and can have poor operational able to realise even greater value by adopting several 
+performance. A business model based on Relocatable of the models, either in combination or for different 
+Buildings moving across several sites in Amsterdam elements of a single development.
+could create an internal rate of return of up to 26% Ultimately this report is a call to action directed at 
+over 11 years without accounting for land costs. the real estate investment and construction client 
+Material depreciation in the built environment communities. It articulates how circular economy 
+accounts for approximately €2.1tn of lost value principles can be realised in practice by adopting real 
+each year. The Residual Value model envisages the estate business models and demonstrates that they 
+creation of tradable futures contracts related to the could deliver improved financial performance using 
+value of building materials at deconstruction. During discounted cash flow analysis. Moreover, it lays out 
+construction, clients can sell these futures contracts, what practical changes can be made on projects to 
+which then could be traded while the building is make these models everyday industry practices. 
+operational, changing in value in response to local What is needed now are commercial-scale pilot 
+real estate and global commodity markets. Transfer projects to demonstrate this potential is achievable. 
+of ownership and cash settlement takes place upon 
+deconstruction after which the materials re-enter the 
+market for reuse. This model reduced the whole life 
+cost of ownership by over 5% across 10 years when 
+tested on a retail fitout in Berlin.
+Approximately 20-40% of building energy could 
+be profitably conserved, with many buildings not 
+performing as designed. One response to this is to pay 
+for performance, not products, a key idea in product-
+as-a-service business models. Scaling this approach 
+up to whole building systems creates the concept of 
+Performance Procurement, which when tested for a 
+build-to-rent development in London delivered up to 
+a 3% improvement in internal rate of return over 30 
+years.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  13
+
+
+
+The report concludes with four calls to action: Action 4: Evaluation tools which capture lost value 
+Action 1: Investor and construction client must be developed. Value is lost because current 
+communities must lead the adoption of circular evaluation models do not measure it. The resulting 
+principles on scalable, commercial-scale real estate externalities are the climate emergency, the waste 
+projects. This entails those communities evaluating mountain and collapsing biodiversity. Real estate 
+the models presented in this report against their own evaluation models that inform investors on projects 
+specific needs and ambitions. Commercial directors that will make a positive contribution to restoring 
+should review their project strategies checking against damaged natural systems are sorely needed.
+the sources of lost value identified here. Investors 
+and construction clients will need to challenge their CIRCULAR ECONOMY AS A BUSINESS 
+commercial and sustainability professionals to adopt STRATEGY
+circular economy thinking to create and respond to Circular economy approaches will only be adopted 
+new project briefs. at scale if business models change. In other words, 
+Action 2: Real estate professionals must drive circular economy needs to be viewed as a business 
+this conversation. This report starts a conversation strategy, not just a waste management or a design 
+between those already driving change in the industry strategy. 
+and those who are stuck in the linear, business- If a critical mass of investors and construction clients 
+as-usual model. Communities of experts such as embraces this message and takes the actions above, 
+agents, insurers and accountants must be part of we are confident the real estate sector can deliver 
+this conversation, and must be ready to over-turn significant returns while reducing its negative burden 
+long-standing conventions, framed entirely on linear on the planet. Success in this will help meet financial, 
+economy thinking, to realise the opportunity presented economic, social and environmental needs – making a 
+by circular business models. positive impact, not just reducing negative ones – on a 
+Action 3: Policy makers must be involved from reduced resource footprint. 
+the beginning of commercial-scale pilots. If private The procurement power held by investors and 
+sector influencers lead on applying circular business construction clients is immense. We are confident that 
+models and reporting their benefits, they will create the supply chain will respond to their lead, investing in 
+the evidence base that policy makers are requesting to new service offerings that deliver non-toxic, durable, 
+ensure these approaches are adopted across the market reusable and repairable products as part of high-
+and at all levels of the value chain. In some cases, performance, user-focussed systems.   
+policy changes will be needed for these models to be 
+realised, for example, planning policies may need to As this shift happens, the whole sector will move from 
+adapt to facilitate widespread uptake of Relocatable discussing principles to changing practices, to create 
+Buildings. Requests to policy makers to support a more productive, more agile and less damaging real 
+circular economy implementation are more likely to estate sector, accelerating the global transition to a 
+succeed if policy makers have seen for themselves the circular built environment.
+value unlocked by this approach.
+
+14  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Futurium, Berlin
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  15
+
+© Matthias Geipel / Arup
+
+
+
+INTRODUCTION
+
+THE OPPORTUNITY OF A CIRCULAR BUILT By contrast, a circular economy aims to decouple 
+ENVIRONMENT economic growth from the consumption of finite 
+This report aims to demonstrate to real estate investors resources and build economic, natural, and social 
+and construction clients the financial opportunity capital. Underpinned by a transition towards renewable 
+associated with applying circular economy business energy sources and increasing use of renewable 
+models to built environment assets. materials, the concept recognises the importance of 
+
+the economy working effectively at all scales. This 
+The built environment - comprised of the man-made means it features active participation and collaboration 
+elements of our surroundings such as buildings and between businesses both small and large, and from 
+infrastructure – currently represents a major global countries and cities to local communities and the 
+consumer of natural resources and a significant people within them. Such a distributed, diverse, and 
+contributor to global carbon emissions. This is because inclusive economy will be better placed to create and 
+the built environment we live in today continues to be share the benefits of a circular economy.
+designed around the linear ‘take-make-dispose’ model, 
+in which materials are sourced, used and then disposed A circular economy approach employs three main 
+of as waste. As a result, construction materials and the principles:
+building sector are responsible for more than one-third 
+of global resource consumption. Furthermore, current 
+projections estimate that by 2060 across the world the 
+equivalent of the city of Paris will be built each week.1 
+With such trends, it is estimated that between now DESIGNING OUT KEEPING REGENERATING 
+and 2050, carbon emissions from construction will WASTE AND PRODUCTS AND NATURAL 
+be responsible for almost half of total new building POLLUTION MATERIALS IN USE SYSTEMS
+
+emissions.2
+Applying these principles to the built environment 
+
+The linear approach to current construction and can create a sector that is resilient to volatile prices 
+building practices also results in significant structural of raw materials, that maintains essential natural 
+waste (herein referred to as lost value): 40-60% of ecosystem services, and that creates urban areas that 
+office space is unoccupied during working hours3,4 are more liveable, productive and convenient. Value 
+and it is estimated that 20-40% of energy in existing is created by using design, technologies and business 
+buildings could be more profitably conserved.5,6,7,8 models to manage healthy, non-toxic materials and 
+Construction and demolition account for up to 40% resources in loops that maintain them at their highest 
+of urban solid waste9, and recovery of materials from possible intrinsic value in every use. Our vision for 
+buildings at end-of-life is often unattractive because a circular built environment (Appendix A), therefore 
+the waste is hard to separate and contains toxic embeds the principles of a circular economy across 
+materials. These are all clear examples that the current all its functions, establishing an urban system that is 
+linear system does not work and needs to change. regenerative, accessible and abundant by design, thus 
+
+supporting human well-being and natural systems. 
+
+16  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Importantly, a transition to a circular built environment IMPLEMENTING CIRCULAR ECONOMY IN 
+would also help to significantly reduce the carbon THE BUILT ENVIRONMENT
+emissions associated with how we design, construct 
+and use buildings. A recent report by the Ellen Circular economy implementation can be considered 
+Macarthur Foundation titled ‘Completing the Picture: at many different scales within the built environment, 
+how the circular economy tackles climate change’, including component, building, city, national and 
+found that a circular scenario for the built environment global levels.12 In order to realise the full opportunity 
+could reduce global carbon emissions from building of a circular built environment, new circular economy 
+materials by 38% in 2050, due to a reduced demand approaches will have to be implemented at all scales. 
+for steel, aluminium, cement and plastic.10 A report However for this project, we have chosen to focus 
+by C40 Cities (a network of the world’s megacities primarily on the building scale, exploring initiatives 
+committed to addressing climate change), Arup and that influence the life cycle of a building as a whole. 
+the University of Leeds exploring consumption- At the building scale, this will require the application 
+based emissions from 96 global cities found that of systems thinking and new approaches for the way 
+material efficiency interventions for buildings and stakeholders in the built environment develop, finance, 
+infrastructure has the highest emissions reduction procure, design, construct, operate, maintain, and 
+impact, followed by enhancing building utilisation11 - repurpose building services and assets. Our research 
+both circular economy strategies we explore further in has identified two key approaches to implementing 
+this report. circular economy in the built environment - circular 
+
+design and new business models. 
+Adopting circular economy approaches in a high-
+growth, high-waste sector like the built environment 
+therefore presents a tremendous opportunity for 
+investors and construction clients to minimise sources 
+of lost value and thus improve return on investment 
+from built environment assets, whilst also taking a 
+fundamental step towards achieving carbon emissions 
+targets. 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  17
+
+
+
+CIRCULAR DESIGN NEW BUSINESS MODELS
+
+How buildings are designed is key to how they are It is clear from Brand’s model that circular economy 
+used, the impact they have on their surroundings design strategies have been around for some time. Yet 
+and how long they remain fit for purpose. Designing we know that new circular products and approaches 
+buildings in line with circular principles is therefore an are not widespread in the built environment.14 Why 
+important way of implementing circular economy in have they not scaled?
+the built environment. Indeed, our analysis of over 100 
+built environment case studies showed that currently, Our research shows that implementing circular 
+the primary application of circular economy in the economy in the built environment industry requires 
+built environment is via design strategies for buildings, understanding of the whole building life cycle and the 
+with a focus on reducing resource consumption and construction value chain, which involves high levels of 
+extending the life of materials and components. collaboration and information exchange. In order to do 
+
+this, new business models are needed that reimagine 
+Among the better known, but not yet widely adopted, the currently fragmented value chain and facilitate 
+circular design strategy is the shearing layers model. more circular behaviour, for example by increasing 
+The concept of ‘building in layers’ was first proposed asset use and fostering more use of reusable resources 
+by architect Frank Duffy in the 1970s and developed and components. New tools and incentives are required 
+by Stewart Brand in the 1990s.13 Buildings, they said, that enable investors to receive a financial return on 
+are made of separate and interlinking layers, each decisions that affect not only the selling and leasing 
+with a different lifespan. Figure 1 shows Brand’s of properties and spaces, but also their end-of-use and 
+model which includes six layers: Site, Structure, Skin, repurposing.  
+Services, Space Plan and Stuff. There is therefore significant opportunity for 
+Building in layers means elements with different stakeholders to extend their application of circular 
+lifespans can be separated and removed, allowing economy principles by implementing new business 
+longer-lasting elements to be kept in use even if models. Businesses can take advantage of innovative 
+those with shorter lifespans require replacing. This ideas that harness both digital technologies and 
+facilitates reuse, remanufacture and recycling. For changing stakeholder behaviour to implement circular 
+example, facades or heating systems may be designed economy principles as well as encouraging smarter 
+and fitted as independent entities, integrated with other use of buildings. To ensure success, however, the 
+building systems but not entwined with the fabric of enabling conditions also need to be right – potential 
+the building. This also avoids large scale wastage of and existing barriers to implementing circularity in the 
+assets, lowers resource use and other environmental built environment need to be addressed. In particular, 
+impacts, and obviates the need to construct entirely large-scale implementation of new business models 
+new buildings and assets. that accelerate the shift to a circular built environment 
+Building in separate layers with different lifespans will only occur if key stakeholders can see how they 
+also allows each element to be repaired, replaced, add value.
+moved or adapted at different times without affecting 
+the whole building or infrastructure asset. This 
+reduces unnecessary obsolescence and increases 
+flexibility of use and longevity over time. Design 
+for deconstruction, design for ease of maintenance 
+and report, design for flexibility, and design for 
+adaptability are all examples of circular design that are 
+supported by building in layers.
+
+18  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Sk
+S in
+truc
+
+S t
+e u
+r re
+
+S v
+p ic
+a e
+c s
+e P
+
+S la
+tu n
+
+ff
+
+Site
+
+Skin Structure Services Space Plan Stuff
+20-35yrs 30-300yrs 15-30yrs 10-30yrs 5-20 yrs
+
+Site is the fixed location of the building
+Structure is the building’s skeleton including the foundation and load-bearing elements
+Skin is the façade and exterior
+Services are the pipes, wires, energy and heating systems
+Space Plan is the solid internal fit-out including walls and floors
+Stuff is the rest of the internet fit-out including the furniture, lighting, and ICT
+
+Figure 1. 6S building layers13,15,16,17,18 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  19
+
+
+
+REALISING VALUE To align the application of our models with market 
+Our research revealed that real estate investors and principles and professional practice we have, where 
+construction clients are fundamental to driving the appropriate, recognised and referred to International 
+transition to a circular built environment because Valuation Standards (IVS), RICS Valuation - Global 
+they have the greatest capacity to set the direction Standards, International Construction Measurement 
+and nature of their development strategies, ownership Standards (ICMS) and International Property 
+structures and operations models for each project Measurement Standards (IPMS). 
+across all stages of life cycles. We also heard from We acknowledge that the circular economy is designed 
+these stakeholders that uncertainty around how to create value beyond financial value, namely 
+circular economy business models might work, and environmental, social and economic value. All value 
+scepticism of whether the business case would stack is important, yet we have set ourselves the challenge 
+up, contributed to a reluctance to implement circular of demonstrating in the most direct sense the business 
+business strategies. case for adopting circular models; in other words, we 
+We assert, therefore, that a crucial first step towards want to prove these circular models deliver improved 
+implementing scalable circular economy projects is profitability in their own right.
+the development of viable business models that help 
+realise the added value of circular economy business STRUCTURE OF THIS REPORT
+models. If real estate investors and construction This report summarises the research and analysis 
+clients were to integrate circular economy as an carried out as part of this work and presents the 
+inherent part of their overall business strategy, the overall conclusions from the From Principles to 
+building industry would begin to embed circular Practices project. We explore where value is being 
+thinking in investment decisions, revenue models and lost from the current, linear model of delivering real 
+the supply chain, moving beyond a singular focus on estate and key market trends that are influencing how 
+reduced resource consumption towards employing buildings should be delivered. We then illustrate the 
+circular models that focus on realising maximum opportunity that applying circular economy models 
+value from real estate assets. creates to recover identified sources of lost value, and 
+To do this, we have developed five real estate business how such circular models can be applied using real 
+models based on circular economy principles that help world examples of different development types in five 
+to realise value from real estate assets in new ways, European cities. Finally, we evaluate the financial 
+boosting their resource productivity. By testing the performance of the circular models, and consider some 
+added financial value of these new circular business of the new relationships and requirements that might 
+models using discounted cash flow analysis, we are be needed to implement them. The outcome is a set 
+in a position to deliver a message to the real estate of tangible models for realising circular value from 
+investment community that adopting circular economy real estate assets, referencing current professional 
+principles will deliver improved financial performance standards and guidance, with financial estimates for 
+in their real estate portfolios. the potential of these new approaches.
+
+20  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Circular Building, London
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  21
+
+© Daniel Imade / Arup
+
+
+
+METHODOLOGY
+
+The aim of this project is to convey a message to the real estate community that 
+investing in circular economy development projects will deliver improved financial 
+performance in their real estate portfolios. 
+
+We developed a four-stage methodology to substantiate We hope the response to this message will be 
+that message with financial analyses based on real invitations from real estate investors and construction 
+development projects. Each of these strands were clients to pilot these models on commercial scale 
+delivered in parallel across five European cities: projects, thereby creating the evidence base needed to 
+Aarhus, Amsterdam, Berlin, London and Milan.  scale this thinking across the industry.
+
+1 2
+IDENTIFYING DEVELOPING NEW 
+
+SOURCES OF LOST CIRCULAR REAL 
+VALUE AND MARKET ESTATE BUSINESS 
+
+TRENDS MODELS 
+
+Our first step was to hold semi-structured We developed circular real estate business 
+interviews and roundtables from long-standing models inspired by circular economy principles 
+real estate professionals. Participants included to capture the lost value identified. These 
+investors, construction clients, valuation business models either build on existing 
+professionals and consultants. The sessions business models and industry standards or are 
+captured insight to help shape the new circular entirely new. This was a collaborative effort 
+real estate business models by interrogating with input from 3XN/GXN, RICS and JLL. 
+what participants saw as the greatest sources of These models harness the trends bringing 
+lost value in real estate assets and portfolios as change to the real estate sector and are enabled 
+well as the biggest trends affecting the future of by emerging digital technology.
+the sector. We were supported by 3XN/GXN for 
+the Danish interviews and roundtables.
+
+22  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+BLOX, Copenhagen
+
+3 4
+TESTING THE CONSIDERING NEW 
+
+FINANCIAL VALUE RELATIONSHIPS AND 
+REQUIREMENTS
+
+We tested the impact of the models at feasibility The models require new relationships 
+level using data from real development projects to be established between value chain 
+(hereafter referred to as ‘testbed projects’), by participants, and new requirements to define 
+comparing the investment value of the circular the dependencies in those relationships. The 
+model to a business as usual, linear equivalent. methodology concludes with consideration 
+Discounted cash flow analysis was used to of how the models change relationships and 
+estimate the investment performance in each requirements at each stage of the development 
+case. life cycle, and which value chain participants 
+
+they affect. The intention is that these 
+considerations will be translated into project 
+briefs, giving a set of tangible practices that 
+capture how a built environment operating on 
+circular economy principles will differ from 
+today.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  23
+
+ © Blox.de / Rasmus Hjortshoj
+
+
+
+Macquarie University Incubator, North Ryde
+
+24  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+© Murray Fredericks
+
+
+
+STUDY ASSUMPTIONS AND LIMITATIONS 
+
+This study does not consider site location within 
+the assessment of the financial performance of each 
+circular business model. This is because the economics 
+of site location will vary dramatically according 
+to geography and market dynamics and is valued 
+in a different way to the other building layers. We 
+acknowledge that the site location will have impact the 
+financial performance of any real estate and therefore 
+should be taken into account when considering the 
+application of any circular business model.  
+Attendees at the investor roundtable discussions 
+emphasised that adopting circular business models 
+will impact the wider ecosystem within which the built 
+environment industry operates in. This ecosystem is 
+the legal, financial, planning and insurance practices, 
+specific to markets and changing with time, within 
+which real estate assets are developed.
+We have identified the following key factors which 
+influence the wider ecosystem and could therefore 
+affect the application of circular real estate business 
+models:   
+•	 Tax and capital allowances
+•	 Supportive regulatory and policy changes 
+•	 Insurance requirements
+•	 Financing
+•	 Investor risk perception and appetite 
+•	 Applicable tenure type
+
+It is outside the scope of this project to fully consider 
+each of the above ecosystem factors. Further work is 
+needed to consider their implications for the adoption 
+of the models across the five study cities.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  25
+
+
+
+SOURCES OF LOST VALUE
+
+Before developing effective value creation strategies, existing sources of lost or 
+untapped value must be clearly identified. Roundtable discussions were held with 
+real estate investors, clients and policymakers in each of the five study cities to 
+explore sources of lost value in real estate. The five emerging sources arising from 
+these discussions and their causes are provided in this section.
+
+UNDERPERFORMING 
+COMPONENTS
+
+DEPRECIATED 
+MATERIALS
+
+PREMATURE             
+DEMOLITION
+
+UNDERUTILISED 
+SPACE
+
+VACANT LAND
+
+26  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+LOST VALUE 1. UNDERUTILISED SPACE LOST VALUE 2. PREMATURE DEMOLITION
+Description Description
+Full revenue-generating potential of spaces is Buildings are demolished even when they still provide 
+unrealised usable spaces
+Causes Causes
+•	 Commercial leases are designed to provide •	 Demolition and divestment decisions are made 
+
+consistent rents to landlords irrespective of the based on the economic life (generic time period over 
+tenant’s headcount which assets are depreciated to zero on company 
+
+•	 Commercial leases that prohibit subletting balance sheets) and opportunity cost (demolition and 
+reconstruction is seen as a necessary investment to 
+
+•	 Tenant concerns about security and a reluctance to reduce liabilities and unlock the income generation 
+change living or working practices to make their potential of the site) rather than the technical life 
+spaces available to others outside their core hours of (the time period that a building and its structural 
+occupation materials could last)19
+
+•	 Uncertain demand for space outside core hours of •	 Current spaces in buildings focus on a single 
+occupation use. Retrofits and refurbishments are likely to be 
+
+constrained by the existing shell and core 
+•	 Refurbishments of unadaptable buildings are 
+
+often not viable as they cannot add sufficient area 
+to generate the necessary returns. In such cases, 
+redevelopment is therefore only viable if significant 
+area is added to the site, creating pressure for larger, 
+denser development
+
+•	 Changing planning and building regulations allow 
+ongoing use of existing buildings but preclude 
+significant retrofits or changes of use
+
+•	 Split incentives between the original construction 
+client who pays costs for adaptability and subsequent 
+asset owners who benefits from owning an adaptable 
+building
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  27
+
+© Jurre Houtkamp on Unsplash
+
+© Crawford Jolly on Unsplash
+
+
+
+LOST VALUE 3. VACANT LAND LOST VALUE 4. DEPRECIATED MATERIALS
+Description Description
+Land not being used for any purpose or awaiting Building materials lose market value
+development Causes
+Causes •	 Standard industry depreciation rates are used for 
+•	 The time taken to assemble plots and secure accounting purposes; materials and components may 
+
+permission for new developments, particularly lose value more quickly on paper than they actually 
+complex mixed-use developments on challenging do during use
+urban brownfield sites •	 Buildings are not designed for deconstruction, which 
+
+•	 Developers sitting on land without planning increases the cost of recovering reusable materials. 
+permission (also known as ‘land banks’) in These higher costs absorb the profit opportunity 
+anticipation of rising prices related to the price difference between virgin and 
+
+•	 Many existing temporary building solutions do scrap material
+not provide an attractive option due to being •	 Initial investors are not incentivised to absorb 
+architecturally limited and low-quality additional construction costs to ensure materials 
+
+can be removed from buildings at their highest 
+value; any value that does remain in the materials 
+is normally captured by the demolition sector, long 
+after the investor has moved on
+
+28  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+© Stefano Zanin on Unsplash
+
+© Richard Boyd / Arup
+
+
+
+LOST VALUE 5. UNDERPERFORMING 
+COMPONENTS
+Description
+Buildings and their systems do not perform as they 
+were designed or installed
+Causes
+•	 The separation of capital and operational budgets 
+
+disincentives life cycle thinking
+•	 Capital budgets run low at the end of a project, just 
+
+when resource is needed to commission building 
+systems properly. This hits more complex energy 
+efficient systems hardest, impacting building 
+performance
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  29
+
+© Vladislav Nikonov on Unsplash
+
+
+
+MARKET TRENDS
+
+To ensure that the value creation strategies are market relevant, the context in 
+which they will operate should be considered. Six key trends facing the real estate 
+sector, shaped by a combination of social needs, technological advances and 
+regulatory changes, are described in this section. It is important that buildings 
+are delivered in a way that responds to user preferences and requirements. The 
+trends therefore provide important framing and context for the development of 
+new business models in the real estate sector and should inform the way they are 
+structured and implemented. 
+
+FLEXIBLE OFFICE SPACE BUILD-TO-RENT
+CO-LIVING
+
+Unfixed allocation of Residential property 
+A residential set up with 
+
+office space for different designed and built for the 
+shared living spaces for 
+
+employees or additional rental market instead of for 
+tenants
+
+tenant organisations to use sale
+
+SHORT LEASES OR 
+E-COMMERCE OWNERSHIP RESPONSIBLE BUSINESS
+
+Commercial transactions Preferring short leases or Value is created for the 
+conducted electronically on building ownership over mid- business, shareholders, 
+
+the Internet to long-term leases people and planet alike
+
+30  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+TREND 1. FLEXIBLE OFFICE SPACE TREND 2. CO-LIVING
+
+According to a recent report by Ernst & Young, four It is not just workspaces, but also living spaces that 
+of the top ten reasons millennials - who will represent people are starting to share. Co-living providers 
+75% of the global workforce by 2025 - have been found offer private bedrooms with shared amenities such 
+to quit their jobs relate to a lack of flexibility in how as kitchens, dining rooms, libraries, gyms, bars, 
+and where they can work.20 Companies ranging from restaurants and other social spaces. Tenants typically 
+start-ups to corporations are increasingly seeking pay one monthly bill to cover everything, including 
+enhanced flexibility in the office space they occupy in utilities and taxes.
+response to their growing number of agile employees. In PWC’s survey on emerging trends in real estate 
+This has led to a rise in flexible office spaces, which for 2019, co-living ranked highest for investment and 
+aim to match office space supply with demand through development prospects in the ‘alternative’ investment 
+lease agreements that vary in length from days to ranking.22 Other subareas of co-living were also placed 
+months (and sometimes years). As well as short lease in the top ten, with retirement/assisted living coming 
+lengths, rolling month-to-month contracts and shorter in 3rd while student housing ranked 6th.
+notice periods are common for flexible office spaces. 
+The spaces are typically shared among several tenants The demand for co-living is thought to result from 
+in the form of serviced offices. Hot-desks might be increasing social isolation and excessive rent prices 
+used by several people throughout the day while in prime accessible neighbourhoods. The Housing 
+communal areas serve multiple companies. Anywhere European Rent Index shows that residential 
+
+rental prices rose across Europe in 2018 compared to 
+A global survey with over 7,300 office users by JLL the previous year: 7.3% in Berlin, 3.4% in Milan, 3.3% 
+found co-working spaces can support employee in Amsterdam and 2.1% in London.23 According to a 
+engagement more than other traditional work Harvard report, social isolation has increased two-fold 
+environments.21 JLL also report that the flexible in the last 20 years.24 This is linked to the age of the 
+office space sector in Europe has more than doubled internet on millennials and the loss of contact with 
+in size since 2014 and is set to grow up to 30% friends and family, decreased mobility, poor health, 
+per year by 2023. Well-known players such as single living or limited income within the over-65 
+WeWork, The Instant Group, IWG, The Bureau and demographic.25 
+Work Club Global are already established in the 
+sector. Additionally, a number of more traditional Recently, co-living developments aimed specifically at 
+organisations are investing in flexible office spaces, millennials have increased, with recent market entrants 
+including OVG (EDGE), L&G (Capsule), Tishman including Homy, Roam and Outsite. The Collective, 
+Speyer (Studio) and Landsec (Myo). the UK’s largest co-living provider, has portfolio 
+
+expansion plans for 4,500 co-living apartments across 
+the UK, US and Germany.26 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  31
+
+© Austin Distel on Unsplash
+
+© Helena Lopes on Unsplash
+
+
+
+TREND 3. BUILD-TO-RENT TREND 4. E-COMMERCE
+
+Difficulty in accessing mortgage finance and the According to Statista, in 2019, retail e-commerce 
+experience economy has created ‘Generation Rent’, sales worldwide amounted to US $3.5tn and e-retail 
+which has given rise to the ‘build-to-rent’ (or revenues are projected to grow to US $6.5tn in 2022.30
+
+sometimes referred to as ‘multifamily’) model. Under 
+build-to-rent, landlords focus on the provision of One challenge for retailers has become balancing high 
+“services” such as high-speed internet, cleaning and street presence with their e-commerce market; mixed-
+laundry services, access to gyms and recreational use environments with flexible spaces and a diverse 
+space, and tastefully planned community events – service offering are increasingly seen as vital to the 
+much like co-living. success of retail asset.31 For example, some Uniqlo 
+
+stores offer in-store events including yoga mornings 
+A market study by JLL in 2019 indicated that Germany and meditation classes. Selfridges has launched a 
+had the largest build-to-rent market in Europe at live-theatre, integrating a space for events and even 
+€18.6bn, while the second largest is the UK at €6.8bn.27 a skateboarding ramp into its London flagship store. 
+In the UK, Savills reported that the build-to-rent Some established brands have taken a different 
+pipeline grew almost five-fold (478%) between 2013 approach and explored short-term retail pop up or 
+and 2018. As of Q4 2019, there were just over 40,000 concept stores. One example from clothes retailer COS 
+build-to-rent homes operational in the UK with is a modular installation in Milan from 2013 designed 
+112,000 homes under planning or construction. The to be reconstructable in any shape or format, with the 
+Netherlands and Denmark have slightly smaller market aspiration to relocate it in other cities in the future.32 
+sizes than the UK at €5.6bn and €4.5bn, respectively.28 Dimension Data reports that 84% of companies who 
+A report by CBRE ‘The rise of investment in improve their in-store customer experience see a 
+multifamily housing’, published in June 2019, revenue increase.33 
+highlighted this growth, stating that multifamily has The increase in e-commerce will also see an increase 
+now become the second largest sector for real estate in distribution and logistics centres. E-commerce 
+investments in Europe, tripling in size since 2007 and operations require three times the amount of 
+with cross-border investments more than doubling over warehouse space that brick-and-mortar stores need to 
+the last four years.29 guarantee that inventory is on hand and returns can be 
+
+processed in a timely manner.34 The increased growth 
+of e-commerce also drives demand for new, adaptable 
+facilities, characterised by modular design and flexible 
+semi-permanent structures, including small-scale 
+micro-depots deployed to enable the decarbonisation 
+of last-mile deliveries.35 The European warehousing 
+and logistics market is growing rapidly, with 1.3m 
+sqm per year of new logistics and distribution assets 
+in Central and Eastern Europe markets required until 
+at least 2022.36 Logistics facilities were ranked second 
+in the ‘alternative’ investment category for investment 
+and development prospects by PWC in their latest 
+survey on emerging trends in real estate.22 
+
+32  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+© Bernard Hermant on Unsplash
+
+© Rupixen Com on Unsplash
+
+
+
+TREND 5. SHORT LEASES OR OWNERSHIP TREND 6. RESPONSIBLE BUSINESS
+
+A PWC report acknowledges that asset needs are A responsible business is one that puts creation of 
+changing due to the latest accounting standards, which shareholder value alongside making a positive long-
+will likely affect asset managers’ business models term impact for wider stakeholders at the heart of their 
+and service offerings.37 Accounting standard IFRS16, strategy. These wider stakeholders include customers, 
+which became effective 1 January 2019, requires a the community and wider society, the environment, 
+lessee to recognise assets and liabilities for all leases and co-creators including staff and suppliers.
+with a term of more than 12 months, unless the 
+underlying asset is below a threshold value. The full In a recent survey conducted by the World Economic 
+term, therefore, of a lease obligation is now required Forum, almost 50% of millennials believe that climate 
+to be shown on balance sheets, meaning long leases change and sustainability issues should be a major 
+
+concern of governments and institutions.40
+will show up as big liabilities on balance sheets. A  In late 2018, 
+Bloomberg report in 2017 estimated that companies BlackRock CEO Larry Fink claimed that within the 
+had placed as much as US $3tn of operating lease next five years, all investors will measure a company’s 
+obligations ‘off balance sheet’, demonstrating the scale impact on environmental, social and governance 
+of the transition.38 (ESG) factors to determine its worth.41 An increasing 
+
+number of investment funds are including ESG criteria 
+This is driving a trend in both short-term leasing and into their decision-making process and more real estate 
+ownership over long-term leasing for commercial managers are recognising the importance of including 
+properties, increasing payment variability. The result social and environmental factors in the long term. 
+would be increased risks. Asset managers might 
+therefore focus on the acceleration of existing market Sustainable investments have grown 34% globally 
+developments in leasing and co-working, focussing in the last two years, mainly as a response to climate 
+mainly on services rather than on tangible assets. change.42 BNP Paribas had already dedicated €155bn 
+IFRS16 may well motivate large companies to consider to the energy transition and to the achievement of the 
+co-working and more flexible leasing contracts to United Nations Sustainable Development Goals by 
+reduce the impact of financial leases on their balance the end of 201743, Intesa Sanpaolo opened a credit 
+sheets. ceiling of up to €5bn for innovative circular economy 
+
+businesses in 201844 and BlackRock launched a 
+Conversely, it could eventually become more circular economy fund with US$20m seed funding in 
+financially attractive for a company to purchase the 2019 to drive investment in businesses contributing 
+building they are currently leasing. Some banking to the transition to a circular economy.45 Additionally, 
+and financial institutions who have typically remained ABN AMRO has said it wants to finance at least €3bn 
+long-term tenants are already considering this. For worth of sustainable assets by 2020 of which €1bn will 
+example, Citigroup bought its 25 Canada Square be in circular business assets.46
+
+skyscraper offices in London. “The purchase is in line 
+with the Citi strategy of owning rather than renting 
+our major premises in an effort to cut costs in the long 
+term,” said a spokesperson for the company.39
+
+ 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  33
+
+© Matthew Foulds on Unsplash
+
+© You X Ventures on Unsplash
+
+
+
+CIRCULAR REAL ESTATE 
+BUSINESS MODELS
+
+Lost value and market trends present themselves as business opportunities. This 
+project proposes five new business models which capture each source of lost value 
+and respond to the market trends using circular economy principles. 
+
+Flexible Adaptable  Relocatable Residual       Performance 
+Spaces Assets Buildings Value Procurement
+
+Figure 2. Five circular real estate business models
+
+These models have been developed with input from In this section, each model is explored in detail and 
+3XN/GXN, JLL and RICS. The models deliberately covers:
+challenge conventional thinking and processes, but 
+at the same time reflect activity from organisations •	 Overview: A description of how the model works, 
+leading the transition to a circular built environment. how it relates to circular economy, enabling 
+The models have similar elements to those created conditions and what might be required for the model 
+by the EIT Climate-KIC funded Reusable Buildings to be applied at scale. 
+Pathfinder project, developed independently and in •	 Modelling the testbed: Information about the 
+parallel to this work.47 This highlights a growing testbed project and how it has been modelled to 
+consensus on how circular economy principles are best evaluate the financial value created by the circular 
+applied to real estate. business model compared to a linear model 
+For the purposes of illustration, each model is equivalent using illustrative cash flow model 
+presented in isolation with the financial performance diagrams.
+evaluated for one specific testbed project in one •	 Exploring the financial performance: An 
+specific city to which the model has been applied. assessment of the financial performance of the 
+In reality, a development project could adopt more model in the context of a selected testbed project 
+than one or even all five of the models. Early stage with sensitivity analysis on identified inputs.
+commitment from project leaders and a collaborative •	 New relationships and requirements: A 
+rather than a competitive approach from the supply consideration of the relationships and requirements 
+chain will be required to identify which combination needed to implement the circular model, looking at 
+of models is best suited for each project. the key activities and stakeholders involved across 
+
+the life cycle of a development project.
+•	 Applications: The building typologies and 
+
+situations where the model could be adopted both 
+now and in the future.
+
+34  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+MODELLING APPROACH as illustrated in Figure 3. The green box indicates 
+Discounted Cash Flow (DCF) analysis is a widely from which stakeholder’s perspective the cash flow 
+used method for determining the Net Present Value has been modelled. The horizontal line represents 
+(NPV) of a project (i.e. the value of a project in today’s the time axis with the light grey text indicating the 
+monetary terms) by discounting the project’s estimated construction period and the dark grey text representing 
+future cash flows using the time value of money the operational period. The revenues and costs are 
+concept.48 By discounting estimated future cash flows shown separately for construction and operation. The 
+for projects under consideration for investment to length of the arrows are only indicative of the value 
+their NPV, the financial performance of these projects they represent rather than scaled. Light green text 
+can be evaluated and compared against each other. A and arrows in the circular model cash flow diagrams 
+positive NPV indicates that the investment would be represent changes to the cash flow from the linear 
+profitable whereas a negative NPV indicates that the model. Further detail on the inputs and assumptions 
+investment would result in a loss. for each cash flow model is provided in Appendix B.
+
+The NPV formula is presented below: The financial information provided for each testbed 
+has been reviewed with relevant inputs added to 
+
+CF1 CF2 CF the DCF analysis. This has been supported by 
+n
+
+NPV = + +···+ desktop research to develop missing inputs and other 
+(1 + r)1 (1 + r)2 (1 + r)n assumptions, where required, for both the linear and 
+
+circular models. The financial performance has been 
+NPV = net present value calculated as either an Internal Rate of Return (IRR) 
+CF = cash flow or Net Present Cost (NPC). The IRR calculates what 
+r = discount or interest rate the discount rate would need to be for the NPV to 
+n = the cash flow period equal zero. If the IRR exceeds the opportunity cost of 
+
+capital (rate of return that can be earned elsewhere), 
+In order to evaluate the financial performance of the the project should be accepted. The NPC is the sum of 
+five circular real estate business models, DCF analysis the present value of all costs over the evaluation period 
+has been undertaken to compare the cash flows of each and has been calculated in cases where the testbed’s 
+of the circular models to a linear model equivalent. revenue streams are not pertinent.
+For this analysis, estimated future cash flows only The findings have been presented in a manner 
+at the earnings before interest, tax, depreciation and which ensures that individual testbed projects are 
+amortisation (EBITDA) level have been analysed given non-identifiable given the confidential nature of the 
+the financial information available for each testbed information provided and does not take into account 
+project. how any additional financial value achieved could 
+To understand the difference in the type and timing of be shared between the stakeholders involved in each 
+the cash flows between the linear and circular models, model. Given the level of uncertainty with some of the 
+annual cash flows have been developed over a selected assumptions, and to understand the key drivers in each 
+evaluation period. In this report, the annual cash of the circular real estate models, sensitivity analysis 
+flows are presented by simplified cash flow diagrams has been undertaken on selected inputs.
+
+Construction Operational 
+cash flows cash flows
+
+t 0,ops Revenue t n,ops
+Stakeholder 
+whose cash t
+
+flow is modelled
+Cost
+
+t 0,con t n,con
+
+Cost
+
+Figure 3. Format of illustrative cashflow diagrams
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  35
+
+
+
+FLEXIBLE SPACES
+
+Lost value captured: Underutilised space
+
+Profit opportunity: Increased revenue from additional 
+tenants
+
+Supporting fact: According to CoreNet Global 
+research published in 2012, traditional firms underutilise 
+workspace by 40-50%.3 A study by the British Council 
+for offices published in 2018 found that workspaces are 
+under-occupied by between 50-60% through the core 
+working day.4 It has been estimated that sharing and 
+multi-purposing buildings could add €300–€450m to 
+the Danish economy by 2035.49
+
+OVERVIEW The spaces can be listed on platforms in real time if a 
+The Flexible Spaces model seeks to list existing, building is ‘smart,’ in that it can feed live information 
+underutilised building spaces for short-term use on on space availability to the platform. The additional 
+online platforms. The spaces could be completely revenue generated (the upside) could be shared 
+unused or in use but under-occupied. Depending on between the landlord and tenant by changing the fixed 
+the lease agreements, either one of the following three rent price or through a pain / gain share mechanism. 
+parties could be responsible for arranging additional The model offers the asset-utilisation-boosting 
+tenants to rent the space: capacity of the sharing economy without the risk 
+
+and volatility that part of the flexible space market is 
+1. Landlord: The core tenant signs a lease which currently facing.
+includes provisions allowing the landlord to advertise 
+unused space through agreed processes. The landlord The link to circular economy is clear: if existing 
+leads on finding additional tenants in parallel with the spaces are used more smartly and to their full potential 
+anchor tenant. The landlord controls who accesses the using new business models, the need to build new 
+space. spaces and the resource use associated with that is 
+
+avoided. The model gives people in need of short-term 
+2. Anchor tenant: An anchor tenant will sign a lease space the opportunity to access well-designed spaces. 
+with a typical lease period, but with clauses that allow There are also potential benefits around bringing 
+them to maximise the use of their spaces. The tenant diversity of thought into the workplace and connecting 
+leads on finding additional tenants and controls who different industries.
+accesses the space. 
+3. Third party operator: The anchor tenant and / 
+or landlord work with a third party space sharing 
+platform operator who run their business model on 
+a portfolio of underutilised space. The third party 
+leads on finding additional tenants and controls who 
+accesses the space, with oversight from the anchor 
+tenant and / or landlord.
+
+36  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Life cycle stage
+
+Building layers Design and construction Operation
+
+Skin
+
+Structure Landlord
+
+Services
+Anchor tenant
+
+Space plan Third party operator
+Additional tenants
+
+Stuff
+
+Figure 4. Key stakeholders by life cycle stage and building layer for Flexible Spaces 
+
+Under-occupied Fully occupied 
+building building
+
+Landlord
+
+Anchor tenant
+
+Unoccupied space
+Third party 
+operator Occupied space
+
+Demand
+Figure 5. Schematic of Flexible Spaces during operation 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  37
+
+
+
+Planning authorities will need to be as flexible as the Architects and engineers will need to develop design 
+building to support the model, for example, allow approaches that move away from mono-functional 
+additional uses that may be considered non-compliant spaces in favour of flexibility. This will be best 
+with the planning use class of the building. delivered through open plan design, flexible fitout 
+For this model to succeed, a real focus is needed on solutions, smart components and sensors, building 
+changing behaviours. One of our investor roundtable services design that accommodates multiple uses, 
+attendees put it well; organisations need to “change supportive building management systems and security 
+how they operate before they change how they build.” design.50 However, implementing flexibility into a 
+It is acknowledged that for some organisations, sharing space does not necessarily demand additional costs; 
+space is not an option given the sensitivity of what they it depends on the desired level of flexibility and the 
+do. Yet, the growth of shared offices in the co-working additional measures required to deliver it.
+market shows that, for many occupiers, sharing space Elements of the technology needed to deliver this 
+is compatible with their operational and security needs. model are proven in the marketplace. In Amsterdam, 
+For participating existing offices, a new approach space availability information is already available 
+to desk allocation will also be needed, building on through a city scale pilot project called “Vacant 
+discussions around agile and flexible working. Space Finding”. Registered users of the platform can 
+Traditionally rigid tenure types like commercial leases book and use those spaces for a fee, increasing space 
+will need to change to permit the use of underutilised utilisation and boosting revenue for the building 
+space. The way in which repair costs are charged by owners. Also in Amsterdam, The Edge building 
+the landlord will need to be reconsidered – irrespective developed by OVG and occupied by Deloitte, has 
+of whether it is a full repairing and insuring lease, a smart building system that allocates space in the 
+an internal repairing insuring lease or a new type of building each day to every employee based on their 
+lease altogether. Insurance, whether held by the tenant work schedule. Space sharing platforms like Hire 
+or the landlord, will need to be appropriately priced Space in London mean that these spaces can be 
+for additional risks arising from more diverse and brought to market with bearable transaction costs, and 
+increased use of the building. the review systems and security offered by sharing 
+
+economy applications like Airbnb could be used to 
+give primary occupants the reassurance that they know 
+who they are sharing their space with.
+
+38  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+MODELLING THE TESTBED Under the linear model, there remain significant areas 
+The testbed chosen for the Flexible Spaces model is a of underutilised desk space during core working hours 
+tenanted office in Milan with the tenant organisation in the early years of the lease term. However, as the 
+looking to expand into a 270m2 extension to their tenant organisation grows over the remaining 12 years 
+existing office space. The tenant organisation decided of the lease term, there are fewer unoccupied desks 
+to extend the office (with agreement from the landlord) as shown in Figure 6. The open space and convertible 
+in anticipation of future growth in headcount. The meeting rooms are only used by the tenant organisation 
+extension took one month to complete and was during normal working hours. 
+undertaken while the office remained operational. This The cash flows for the linear model are presented in 
+testbed lends itself well to the model as, following Figure 7 (overleaf).
+expansion, there are several spaces within the office 
+that can be listed on the platform, including desk space 
+in the extension as well as open space and convertible 
+meeting rooms in the original space.
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+1 2 3 4 5 6 7 8 9 10 11 12
+
+Operational year
+
+Occupied desks Unoccupied desks
+
+Figure 6. Occupied vs. Unoccupied desks under the linear model
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  39
+
+Desks
+
+
+
+The circular model allows for additional revenue 
+streams to be created by renting out available desks 
+during core working hours, as well as offering unused 7am– No. of fitness 2 hours, twice a 
+
+9am classes week
+open spaces and meeting rooms for activities such as 
+fitness classes and corporate meetings outside office 
+hours. The model is based on a high-level market 
+assessment undertaken by the testbed partner reflective 9am– Co-working 
+of a moderate additional space use scenario. occupancy of 75%
+
+6pm unused desks
+In the analysis, the additional capital expenditure 
+required to make the space flexible is not considered as 
+the additional uses are accommodated by the existing 
+design (this is considered further in the sensitivity No. of fitness 2 hours, twice a 
+
+classes week
+analysis). Furthermore, it has been assumed that any 
+additional net income (additional rental income minus 
+additional operating costs) is earned by the tenant. 6pm– No. of night 3 hours, once a 
+In practice, this could be shared with the landlord 10pm classes week
+depending on the commercial arrangements between 
+the parties. 
+
+No. of meetings 
+The cash flows for the circular model are presented or corporate 15 per year
+in Figure 8. Like the linear model, the extension is events
+
+indicated as a cost during the operational period 
+as it took place while the rest of the office was still Table 1. Additional space use - moderate scenario
+operational.
+A summary of the key inputs and assumptions for the 
+DCFs are presented in Appendix B.
+
+0 1 12
+
+Anchor 
+tenant t
+
+0 1 12
+Extension Annual operations and maintenance
+
+Anchor 
+tenant t
+
+Extension Annual operations and maintenance
+
+Figure 7. Illustrative cash flows modelled for the comparable linear model of Flexible Spaces
+
+0 1 Additional tenant rent 12
+
+Anchor 
+tenant t
+
+0Exte1nsion Annual Aopdedriatitoionnasl  taennda nmt areinnttenance 12
+
+Anchor 
+tenant t
+
+Extension Annual operations and maintenance
+
+Figure 8. Illustrative cash flows modelled for Flexible Spaces
+
+40  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+EXPLORING THE FINANCIAL PERFORMANCE The additional tenant rent received remains the 
+By applying the Flexible Spaces model to the testbed largest source of uncertainty. Optimistic and 
+project, the additional net income earned equates to an pessimistic additional space use scenarios have been 
+NPC saving of 18% over the remaining 12-year lease developed to compare their financial performance 
+term (circular base case) compared to the linear model. with that calculated for the circular base case. The 
+
+optimistic scenario considers a greater uptake of 
+A sensitivity analysis has been undertaken for: co-working from 75% to 90% of unoccupied desks, 
+1. the extent of additional space use while the pessimistic scenario considers an uptake 
+
+of 50%, as well as a reduction in out-of-hours 
+2. the additional cost of designing for flexibility activity. The three additional space use scenarios are 
+
+presented in Table 2.
+
+Table 1. Additional space use - moderate scenario
+
+Moderate 
+Pessimistic (circular base case) Optimistic
+
+7am– No. of fitness 2 hours, twice a 2 hours, twice a 
+None
+
+9am classes week week
+
+9am– Co-working 
+occupancy of 50% 75% 90%
+
+6pm unused desks
+
+No. of fitness 2 hours, twice a 2 hours, twice a 
+None
+
+classes week week
+
+6pm– No. of night 3 hours, once a 3 hours, once a 
+None
+
+10pm classes week week
+
+No. of meetings 
+or corporate 15 per year 15 per year 15 per year
+events
+
+Table 2. Additional space use – pessimistic, moderate and optimistic scenarios
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  41
+
+
+
+The potential NPC savings that might be achieved 
+over the lease term for all three additional space use 
+scenarios is provided in Figure 9. These highlight that 
+even under the pessimistic scenario there are still cost 
+savings to be realised compared to the linear model. 
+
+100%
+Cost saving 7%
+
+Cost saving 18%
+80% Cost saving 23%
+
+60%
+
+40%
+
+20%
+
+-
+Linear Pessimistic Moderate Optimistic
+
+(circular base case)
+
+Addititional space use scenario
+
+Linear Circular
+
+Figure 9. Sensitivity of NPC to different space use scenarios
+
+42  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+NPC
+
+
+
+For the circular base case, there was no additional 
+cost assumed associated with designing for flexibility. 
+As shown in Figure 10, the quantum of savings in the 
+circular base case could support a 58% increase in 
+extension costs associated with making the space more 
+flexible to break-even with the linear model. In reality, 
+the costs associated with making the space flexible 
+is unlikely to be this high. It should be noted that if 
+additional investment was made in making the testbed 
+project more flexible, the extent of additional space 
+use, and therefore revenue earned from it, would likely 
+be greater.
+
+120%
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+-
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+(circular 
+base case) Increase in construction cost
+
+Linear Circular
+
+Figure 10. Sensitivity of NPC to additional upfront design for flexibility cost 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  43
+
+NPC
+
+
+
+NEW RELATIONSHIPS AND REQUIREMENTS
+
+ACTIVITIES STAKEHOLDERS
+
+Preparation and Brief
+•	 Define possibilities for unused space, alternative Construction client, Designers
+
+uses for underutilised space and shared spaces
+
+•	 Liaise with the planning authority about flexible Policymaker, Construction client
+space use aspirations and agree on additional 
+documentation requirements if needed
+
+•	 Discuss commercial arrangements related to who Landlord, Anchor tenant, Third party operator
+will lead on identifying additional tenants and how 
+the additional rental income will be shared, if at all
+
+•	 Define additional tenant pricing structure e.g. m2- Landlord, Anchor tenant, Third party operator, Lawyer
+hours, % sales revenue, internet data usage etc.
+
+•	 Develop flexible lease structures Lawyer
+
+Design and Construction 
+•	 Develop flexible design solutions that consider Designers, Contractors, Suppliers, Third party operator
+
+factors including floorplate design, grid size, smart 
+floors, dumb walls, building services provisions, 
+core distribution, smart building technology, access 
+and security
+
+•	 Plan for spatial variability and versatility e.g. work Landlord, Anchor tenant, Third party operator, Designers
+scenarios, multi-use functions, shared functions, 
+amenities density etc.
+
+•	 Document flexible space use strategy including Landlord, Anchor tenant, Third party operator, Designers
+access and security components
+
+Operations and End-of-use
+•	 Define space specification for additional tenants Landlord, Anchor tenant, Third party operator
+
+•	 Use building data to match space supply with Landlord, Anchor tenant, Third party operator
+demand
+
+•	 Use building operations data to charge additional Landlord, Anchor tenant, Third party operator
+tenants
+
+•	 Monitor and measure space utilisation Landlord, Anchor tenant, Third party operator
+
+•	 Update flexible space use strategy, if required Landlord, Anchor tenant, Third party operator
+
+44  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Ogden Centre for Fundamental Physics, Durham University 
+
+APPLICATIONS
+
+Premises that have core operational hours or discrete 
+opening times could adopt this model by making 
+their spaces available out of hours. This could include 
+offices, retail, government and leisure buildings, or 
+even commercial kitchens.
+Spaces in use but under-occupied, as well as 
+completely unoccupied spaces (perhaps between 
+leases) would also be well suited for this model. 
+Under-occupied offices have already been mentioned 
+on p36 but there is also data on higher education51 
+and healthcare52 in the UK that suggests these are 
+opportunity areas. Further work is needed to identify 
+under-occupied spaces to which this model could be 
+applied.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  45
+
+ © Hufton + Crow
+
+
+
+ADAPTABLE ASSETS
+
+A new player in the value chain is needed: the long-
+Lost value captured: Buildings demolished term investor in the adaptable skin and structure. 
+prematurely At present, the benefit of an adaptable building is 
+Profit opportunity: Delivering new uses demanded by not recognised; often it is assumed by the client that 
+the market at lower cost
+
+their needs will not change significantly during the 
+Supporting facts: A study of UK residential buildings 
+published in 2000 found 46% of demolished structures building’s economic life, or any change is assumed to 
+fell in the 11-32 year age class.53 A study in Finland happen after the developer has made their return on 
+showed that out of the 50,818 buildings that were the building. With organisational needs and market 
+demolished between 2000 and 2012, residential changes accelerating, these assumptions can be 
+buildings had an average age at the time of demolition misguided. 
+of 58 years while non-residential was 43 years.54
+
+The skin and structure of the building can account 
+for over half the construction costs, so designing it 
+
+OVERVIEW for adaptability is an insurance policy against market 
+risk for these high-cost elements. Suitable approaches 
+
+Adaptable Assets are buildings that can accommodate borrowed from masterplanning, such as horizon 
+more than one use during their lifetime through retrofit scanning and scenario planning, can be adopted to 
+rather than demolition. The model operates through manage the extent to which the building is designed 
+a new investment partnership; a long-term investor for adaptability. These approaches consider several 
+invests in the skin and structure (similar to what is possible futures, or scenarios, identifying priorities 
+often referred to as ‘shell and core’) acting as a chassis and commonalities between them. This can be used 
+that can accommodate multiple functions, while a to create an envelope of adaptability requirements 
+short-term investor rents the chassis to adapt it for a pertinent to the more rigid parts of the building, such 
+specific use. If the market changes so that a change in that a design team can effectively and efficiently make 
+use is required, another short-term investor can cost passive provision for future changes. Key design 
+effectively rent and adapt the chassis to reposition it on parameters to get right include:
+the market, installing the function-specific elements 
+which are most exposed to market risk (falling rents, •	 floor-to-floor height
+increasing vacancy rates). This division serves the •	 floor plate depth
+purpose of separating the longer-term, lower-risk, 
+lower-return skin and structure from the building •	 core positions and entrances
+layers which are function-specific, shorter-term, •	 riser sizing
+higher-risk and higher-return, namely the services, 
+space plan and stuff. •	 plant-room sizing and positioning 
+
+This model incentivises a long-life, loose-fit Masterplan design can be an enabler in itself. Specific 
+design to ensure the opportunity cost of adaptation plots are usually allocated to specific land uses. 
+(or conversion) does not exceed demolition and The masterplanner could identify which plots in a 
+reconstruction. The aim is to keep buildings in use for development might be mono-functional and which 
+as long as possible at their highest value - one of the might be adaptable. 
+three principles of the circular economy. 
+
+46  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Life cycle stage
+
+Building layers Design and construction Operation Adapt Operation
+
+Skin
+Shell and core contractor Long-term investor
+
+Structure
+
+Services
+Fit out Fi
+
+contractor 1 Short-term investor 1 t out 
+contractor 2 Short-term investor 2
+
+Space plan
+
+Stuff Tenant 1 Tenant 2
+
+Figure 11. Key stakeholders by life cycle stage and building layer for Adaptable Assets
+
+Adaptable skin Adaptable skin 
+and structure Fit out 1 Use 1 and structure Fit out 2 Use 2 
+
+Long-term investor Short-term investor 1 Tenant 1 Long-term investor Short-term investor 2 Tenant 2
+
+Figure 12. Schematic of Adaptable Assets over two operational life cycles
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  47
+
+
+
+MODELLING THE TESTBED A horizon scanning exercise for this location could 
+The testbed chosen for the Adaptable Assets model is have anticipated this change in demand, arising from 
+a five-floor, 15-unit residential block in Aarhus located the following site-specific emerging trends:
+within a larger masterplan. The baseline development •	 decrease in population can create oversupply and 
+has elements designed for adaptability, a particular lower prices 
+challenge given the low floor-to-floor heights, low 
+structural loading and constrained riser capacity •	 increase in demand for local, last-mile logistics hubs 
+typical of housing as a building typology. or micro-depots, creating opportunity costs
+
+A reasonable assumption for an investor is that demand •	 changing ideas of the most desirable mix of 
+for housing will remain steady, ensuring income from functions in development 
+the 15 residential units over a 50-year operational The following scenario has been developed 
+period. If demand was expected to fall, the investment representative of a medium-term downturn as 
+may not be viable. presented in Figure 13.
+The DCF has been developed assuming the steady- Under the linear model, it is assumed that the building 
+demand assumption was wrong and, due to economic is demolished when it reaches 60% vacancy (40% 
+and demographic changes, residents start moving occupancy) in the face of falling residential demand, 
+out. The resulting vacancies warrant a change of as shown in Figure 14. The investor (or construction 
+use, one that would require an extensive engagement client) evicts the remaining residents, demolishes the 
+programme with any remaining residents. building and redevelops it into logistics use.
+
+The cash flows under the linear model are presented in 
+Figure 16.
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+5 14 50
+
+Operational year
+Figure 13. Medium-term market downturn assumption 
+
+48  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+ Residential occupancy
+
+
+
+100%
+
+80%
+
+60%
+
+40%
+Demolition
+
+20%
+
+0%
+5 10 50
+
+Operational year
+
+Figure 14. Demolition response to the market downturn under the linear model 
+
+100% 100%
+
+80% 80%
+
+60% 60%
+
+40% 40%
+
+20% 20%
+
+0%
+5 14 50
+
+Operational year
+
+Figure 15. Assumed transition to micro-depot use under the circular model
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  49
+
+100%
+
+80%
+
+60%
+
+40%
+Demolition
+
+20%
+
+0%
+5 10 50
+
+Operational year
+
+Residential occupancy Residential occupancy Residential occupancy
+
+Micrologistics occupancy
+
+
+
+In the circular model, the possibility of a downturn is For the purposes of modelling, the cash flows of the 
+acknowledged during brief development, and passive long-term investor and short-term investor have been 
+provision for this is provided in the design from the combined into a single cash flow model. Therefore, 
+beginning. As the downturn takes effect and the cash flows exchanged between them, such as the 
+vacancy increases, the building adapts the space to rent paid by the short-term investor to the long-term 
+micrologistics use - a decentralised distribution centre investor for use of the adaptable shell and core, is not 
+located close to customers - as shown in Figure 15. accounted for. The cash flows under the circular model 
+This adaptation happens progressively, floor-by-floor, are presented in Figure 17.
+as occupancy gets consolidated and whole floors 
+become unoccupied. A summary of the key assumptions for the modelling 
+
+is presented below in Appendix B. 
+This adaptation process retains the foundations, 
+structure and envelope of the building, while requiring 
+changes to the building services and fit out. For 
+example, the partition walls may be removed to create 
+a single open space on each floor, with racking added 
+to store parcels. An upgrade to the lift may be needed 
+to allow larger or heavier items to move in and out of 
+the building. As the cost of conversion is unknown, it 
+is not considered directly for the circular base case but 
+rather tested in the sensitivity analysis. 
+
+Annual residential Annual logistics 
+0 tenant rent 10 11 tenant rent 50
+
+Investors t
+0 1 2 Annual operations Demolition Annual operations 
+
+Construction and maintenance and rebuild and maintenance
+
+Figure 16. Illustrative cash flows modelled for the comparable linear model of Adaptable Assets
+
+Reducing annual residential tenant rent, 
+increasing annual logistics tenant rent
+
+Annual residential Annual logistics 
+0 tenant rent 7 9 10 12 14 tenant rent 50
+
+Investors t
+0 1 2 Annual operations Annual operations and maintenance Annual operations 
+
+Shell and core and maintenance (t5-14,ops) + Conversions and maintenance
+construction (t7/9/10/12/14,ops)
+
+Fit out
+
+ Figure 17. Illustrative cash flows modelled for Adaptable Assets
+
+50  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+EXPLORING THE FINANCIAL PERFORMANCE
+
+The starting assumption where residential income is 
+maintained over the 50-year operational period gives 
+an IRR of 3.7%. The linear model where the building 
+would be demolished and rebuilt into a logistics centre 
+gives an IRR of 0.3%. The circular model where each 
+floor is progressively converted into micrologistics use 
+gives an IRR of 3.6% (circular base case).
+A sensitivity analysis has been undertaken for:
+1.	 different market down-turn scenarios
+2.	 the additional cost associated with design for 
+
+adaptability
+3.	 the cost of conversion
+4.	 the annual rental income of the second use
+
+Early-term and late-term downturn scenarios have 
+been developed to compare against the medium-term 
+downturn scenario assumed for the circular base case. 
+The way in which each scenario affects residential and 
+micrologistics occupancy is provided in Figure 18. 
+
+100% 100%
+
+80% 1 2 3 1 Early-term downturn 80%
+
+2 Medium-term downturn 
+(circular base case)
+
+60% 1 2 3 60%
+3 Late-term downturn
+
+40% 40%
+
+20% 20%
+
+0%
+2 5 10 11 14 19 50
+
+Operational years
+Figure 18. Assumed transition to micro-depot use under different market downturn scenarios 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  51
+
+100% 100%
+
+80% 80%
+
+60% 60%
+
+40% 40%
+
+20% 20%
+
+0%
+5 14 25 50
+
+Operational year
+
+Residential occupancy Residential occupancy
+
+Micrologistics occupancy 
+
+Micrologistics occupancy
+
+
+
+The IRRs for each of the market downturn scenarios Similar to additional design for adaptability costs, 
+are presented in Figure 19, showing the comparison in the cost of converting an adaptable building from one 
+terms of IRR between the linear and circular models. use to another was not considered directly. Therefore, 
+Given that in the circular base case, an additional further analysis has been undertaken to assess the 
+upfront cost associated with design for adaptability impact of conversion costs on the IRR. Figure 21 
+was not assumed (the testbed project was designed shows that under the medium-term downturn scenario, 
+already with some degree of adaptability), further the cost of conversion would need to be 110% of the 
+analysis has been undertaken to assess the impact of initial construction cost to break-even with the linear 
+additional upfront cost on the IRR. Figure 20 indicates model.
+that under the medium-term downturn scenario, the 
+circular model hits the break-even point with the 
+linear model with an additional 110% added to the 
+construction cost.
+
+5%
+
+4% 3.59% 3.60% 3.61%
+
+3%
+
+2%
+
+1% 0.32% 0.30% 0.27%
+-
+
+Early-term Medium-term Late-term
+(circular base case)
+
+Downturn scenario
+
+Linear Circular 
+
+Figure 19. Sensitivity of IRR to different market downturn scenarios
+
+52  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+IRR
+
+
+
+4.0%
+
+3.5%
+
+3.0%
+
+2.5%
+
+2.0%
+
+1.5%
+
+1.0%
+
+0.5%
+
+-
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 110%
+
+(circular 
+base case) Increase in construction cost
+
+Linear Circular 
+Figure 20. Sensitivity of IRR to additional upfront design for adaptability cost
+
+4.0%
+
+3.5%
+
+3.0%
+
+2.5%
+
+2.0%
+
+1.5%
+
+1.0%
+
+0.5%
+
+-
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 110%
+
+(circular 
+base case) Proportion of construction cost
+
+Linear Circular 
+
+Figure 21. Sensitivity of IRR to cost of conversion into micrologistics use
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  53
+
+IRR IRR
+
+
+
+Further sensitivity analysis has been undertaken 
+under the medium-term downturn scenario to show 
+the impact on the IRR to changes in the rental income 
+from the second use. Figure 22 shows the change in 
+IRR were the second use to command higher rents 
+than the first use.  
+
+7%
+
+6%
+
+5%
+
+4%
+
+3%
+
+2%
+
+1%
+
+-
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+(circular 
+base case) Increase in rent from second use
+
+Figure 22. Sensitivity of IRR to changes in rental income of the second use
+
+54  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+IRR
+
+
+
+LocHal, Tilburg
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  55
+
+© Arjen Veldt Fotografie
+
+
+
+NEW RELATIONSHIPS AND REQUIREMENTS
+
+ACTIVITIES STAKEHOLDERS
+
+Preparation and Brief
+•	 Undertake horizon scanning and scenario planning Long-term investor, Policymaker
+
+to identify possible future uses for site
+
+•	 Liaise with the planning authority about adaptable Long-term investor, Policymaker
+asset aspirations and agree on additional 
+documentation requirements
+
+•	 Undertake life cycle cost and life cycle assessment Long-term investor, Designers 
+for the building to set targets
+
+•	 Identify short-term investor or developer for first use Long-term investor, Short-term investor
+
+•	 Define contract terms between long-term and short- Long-term investor, Short-term investor, Lawyer
+term investors
+
+•	 Define tender and procurement process for Long-term investor
+competing on quality and price
+
+Design and Construction
+•	 Plan for passive provision / redundancy in structure Long-term investor, Designers
+
+and systems
+
+•	 Define anticipated use lifetimes for each building Long-term investor, Short-term investor, Designers, Suppliers
+layer 
+
+•	 Develop design response to possible future uses Long-term investor, Short-term investor, Designers, Suppliers
+
+•	 Design for deconstruction, modularity and Designers, Suppliers, Contractors
+standardised components
+
+•	 Document adaptability plan including: Long-term investor, Designers, Suppliers, Contractors
+•	 building layer separation
+•	 accessible joints and connections
+•	 access strategies 
+•	 structural loading allowances
+•	 sufficient floor-to-floor heights
+•	 core positioning
+•	 floor plate depths
+•	 passive provision in risers, cores and plant rooms
+•	 system upgrade or replacement strategies with 
+
+focus on failure-critical elements
+•	 transfer floors (load and services)
+•	 specific consideration of features exposed to 
+
+high risk of obsolescence
+
+•	 Develop digital twin and materials passport to Long-term investor, Short-term investor, Designers, Suppliers, 
+facilitate changes in use Contractors
+
+Operations and End-of-use
+•	 Establish operations and maintenance contracts Long-term investor, Short-term investor, Suppliers, Facilities 
+
+manager 
+
+•	 Plan for documenting future building adaptations Long-term investor, Short-term investor, Designers, Suppliers, 
+Contractors
+
+•	 Update digital twin and materials passport Long-term investor, Short-term investor, Designers, Suppliers, 
+throughout operation and adaptation Contractors, Facilities manager
+
+56  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Acne Studios, Seoul
+
+APPLICATIONS Eventually, all buildings become unsuitable as a 
+This model is particularly relevant in circumstances result of changed occupation practices, and thereby 
+where market risk is significant. The retail sector is face being repositioned in the market. As Stewart 
+currently witnessing how digital technology can drive Brand said in How Buildings Learn, “all buildings 
+rapid obsolescence through a real estate asset class.55,56 are predictions; all predictions are wrong.” Whether 
+Out-of-town retail assets are typically designed for the building responds through deconstruction or 
+only one purpose and are now facing significant adaptation will depend on local market conditions and 
+devaluations globally. Another example is car parks, the location. Therefore, it may be more insightful to 
+where the anticipated adoption of autonomous vehicles say that the Adaptable Assets model is best applied to 
+is expected to make such structures obsolete in the types of location rather than types of buildings. For 
+next decade. example, locations with low building turn-over yet 
+
+uncertain future market performance could be cases 
+Office-to-residential conversions are relatively where the planning system takes the lead in creating 
+common in some markets where planning regulation hybrid classifications for plots. This would have the 
+facilitates it, for example, under Permitted implication that any proposed building on that site 
+Development Rights in the UK. However, the quality would need to demonstrate compliance with the 
+of conversion has come under scrutiny, suggesting that requirements of more than one planning type.
+the market would benefit from the Adaptable Assets 
+model.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  57
+
+ © Annabel Elston / Acne Studios
+
+
+
+RELOCATABLE BUILDINGS
+
+architecturally constrained and often have an 
+Lost value captured: Vacant land industrial look and feel, such as shipping containers, 
+Profit opportunity: Revenue generation from short- aluminium box framed structures or steel framed and 
+term space use clad structures. These types of temporary building 
+Supporting facts: In 2015, UK housebuilders were solutions have limited appeal to higher value tenants, 
+sitting on 600,000 plots for houses with planning 
+permission, yet delivered only one tenth of that.57 The representing an opportunity for the supply chain to 
+problem of land going undeveloped led to government position itself to a new market segment by offering 
+changing policy, strengthening powers of compulsory permanent-quality premises without the cost of new 
+purchase. construction. Some solutions already emerging on the 
+
+market include those by Bauhu, NUSSLI and ModCell.
+
+OVERVIEW Planning and licensing authorities will play key roles 
+in scaling this model. They will need to look at how 
+
+The Relocatable Buildings model sees an operator to allow greater flexibility over temporary planning 
+deploying a portfolio of relocatable buildings on applications and operating licenses, respectively, where 
+unused sites to create short-term, or meanwhile, risks associated with the temporary development 
+spaces. Relocatable Buildings are modular, designed are clearly low.58 In the UK, for example, temporary 
+for deconstruction and made of durable, high quality planning applications are considered through the same 
+materials that create spaces with a permanent feel. process as permanent buildings; when the statutory 
+The operator is responsible for identifying tenants to determination period for validated planning application 
+rent the space; this could be done in alliance with the is eight weeks, this constitutes a considerable wait for 
+landowner. The revenue generated from the rental short-term uses that might only have a life of a couple 
+income could be shared between the operator and of months.
+landowner to incentivise the landowner to activate 
+the vacant land. When the space is no longer needed Local government has a supporting role to play 
+on one site, the building is easily deconstructed and by making information on unused greenfield and 
+relocated to another site. brownfield sites available to operators. This was behind 
+
+the success of The Living Lots NYC pilot project by 
+This model designs out waste by incentivising 596 Acres. This used data from the New York City 
+prefabricated and modular construction techniques, OpenData portal and the Department of Citywide 
+whilst ensuring materials are kept in use for as long Administrative Services, among others, to transform 
+as possible by designing buildings for deconstruction. 32 vacant lots in the city into community spaces. 
+The effect is to be able to relocate buildings from one As well as whole unused sites, unused space within 
+vacant plot to another. Leaving sites empty is costly, development sites, especially those undergoing phased 
+especially in cities where land is at a premium. Making construction, should also be considered for deployment 
+use of such sites by deploying the Relocatable Buildings opportunities. The Queen Elizabeth Olympic Park, 
+model can support placemaking, offer affordable space White City Campus South and Elephant Park 
+to a range of different users, and allow operators and developments in London have all successfully deployed 
+landowners to recover the lost value of vacant land. temporary buildings in this way, putting in place a 
+The model seeks an improvement on traditional legacy strategy that considers how the temporary plots 
+temporary building solutions, which can be will be managed in the long term.
+
+58  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Life cycle stage
+
+Deconstruction, Deconstruction, 
+Relocatable Design Transport and Operation transport and Operation transport and Operation
+building portfolio construction
+
+reconstruction reconstruction 
+
+Relocatable building operator
+
+Relocatable Landowner 1 Landowner 2 Landowner 3
+building 1
+
+Tenant(s) Tenant(s) Tenant(s)
+
+Relocatable building operator
+
+Relocatable Landowner 4 Landowner 5 Landowner 6
+building 2
+
+Tenant(s) Tenant(s) Tenant(s)
+
+Relocatable building operator
+Relocatable 
+building 3 Landowner 7 Landowner 8 Landowner 9
+
+Tenant(s) Tenant(s) Tenant(s)
+
+Figure 23. Key stakeholders by life cycle stage for Relocatable Buildings
+
+Reloctable Deployment profile
+building portfolio
+
+Vacant plot 1 Vacant plot 2 Vacant plot 3
+
+Vacant plot 1 Vacant plot 2 Vacant plot 3
+
+Vacant plot 1 Vacant plot 2 Vacant plot 3 Vacant plot 4
+
+Figure 24. Schematic of the Relocatable Buildings model during operation
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  59
+
+
+
+MODELLING THE TESTBED After five years, the relocatable building is 
+The testbed chosen for this model is a 2,200m2 mixed- deconstructed in a way that keeps the building 
+use development in Amsterdam that has been designed materials in a reusable condition. They are then 
+for deconstruction. In theory, this could enable the directly transported to a new vacant site; the building 
+building to adopt the relocatable building model by is reconstructed and remains operational for another 
+being deconstructed, relocated and reconstructed as five years. 
+required. For the purposes of modelling, only two operational 
+The Relocatable Buildings model is not directly phases have been considered. It is assumed that 
+comparable to an existing linear model. Temporary arrangements are made in such a way that the 
+building providers like Neptunus, Springfield, relocatable building is transported directly between 
+Losberger and Maco Technology lease temporary the two sites so no intermediate storage is required. 
+buildings but are not responsible for identifying Planning costs associated with the relocation are 
+tenants to occupy the space. There are temporary assumed to be small as it is unlikely that an operator 
+building providers in the form of social enterprises would choose a site that is particularly sensitive 
+who are responsible for identifying tenants but their to development. Furthermore, the rent paid to the 
+goals and therefore financial performance cannot be landlord and any profit share with the landlord has not 
+compared like-for-like with this model. Therefore, been considered. Instead, the total potential financial 
+a DCF for the linear model equivalent has not been value unlocked by the model is calculated (which 
+developed for the Relocatable Buildings model. could be shared between the landlord and relocatable 
+
+building operator).
+Under the circular model, following an initial design 
+and construction period lasting a year, it is assumed The cash flows for the circular model are presented in 
+that the relocatable building would be erected and Figure 25.
+remain operational on the first site for five years. A summary of the key inputs and assumptions for the 
+The specification of the building means that it can be DCF is presented in Appendix B.
+leased close to market rental prices achieved by similar 
+spaces provided by permanent buildings. 
+
+Annual Annual 
+0 tenant(s) rent 5 6 tenant(s) rent 10 11
+
+Relocatable
+building t
+operator
+
+0 1
+
+Design, transport Deconstruction, transport Deconstruction
+and construction and reconstruction
+
+Figure 25. Illustrative cash flows modelled for Relocatable Buildings
+
+60  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+EXPLORING THE FINANCIAL PERFORMANCE Therefore, a sensitivity analysis has been undertaken 
+An IRR of 26% has been calculated for the on:
+hypothetical relocatable building operator of the 1. the cost of design and construction 
+testbed project (circular base case). It should be noted 
+that planning costs, landlord rent and any profit share 2. the rental income
+with the landlord has not been modelled, which would 3. the cost of deconstruction and reconstruction
+lower the return for the relocatable building operator. Figure 26 indicates that changes to the rental income 
+In reality, the initial design and construction cost (and have greatest impact on the IRR followed by initial 
+the derived deconstruction and reconstruction cost) design and construction cost. Comparatively, the 
+for a relocatable building is likely to be lower than the cost of deconstruction and reconstruction appears 
+value used in the modelling, due to the testbed project to have minimal impact on financial viability of the 
+being a bespoke construction project with limited relocatable model when considering two relocations 
+prefabrication. This would improve the financial during the evaluation period. Even if deconstruction 
+performance. The rental income remains an area of and reconstruction costs would double, an IRR of 24% 
+uncertainty in the analysis. A desk study suggests would be maintained.
+that rents charged to tenants for spaces created from 
+temporary buildings are typically lower compared 
+to the same for permanent buildings. However, this 
+relocatable model is designed to offer permanent-
+quality business premises that could, arguably, attract 
+close-to-market rental prices. 
+
+IRR
+
+0% 10% 20% 30% 40%
+
+Design and construction cost (+/- 20%) 20% 35%
+
+Rental income (+/- 20%) 13% 37%
+
+Deconstruction and reconstruction cost (+/- 50%) 24% 28%
+
+Figure 26. Sensitivity of IRR to the (1) cost of design and construction, (2) rental income and (3) cost of deconstruction and reconstruction
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  61
+
+
+
+The impact of rental income has been further analysed 
+in Figure 27. A monthly rental income of €226/m2 
+would give a break-even scenario. This means in 
+the circular base case, if planning and storage costs 
+remained small, the landlord rent and any profit share 
+with the landlord would need to be less than €124/m2 
+each month for the relocatable building operator to stay 
+in profit. 
+
+40%
+34%
+
+35%
+
+30%
+
+25%
+26%
+
+20%
+17%
+
+15%
+
+10% 7%
+
+5%
+- 10%
+
+-
+
+-5%
+
+-10%
+
+-15%
+€400/m2 €350/m2 €300/m2 €250m2 €200m2
+
+(circular base case)
+
+Monthly rental income
+
+Figure 27. Sensitivity of IRR to monthly rental income
+
+62  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+IRR
+
+
+
+People’s Pavilion, Eindhoven
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  63
+
+© Filip Dujardin
+
+
+
+NEW RELATIONSHIPS AND REQUIREMENTS
+
+ACTIVITIES STAKEHOLDERS
+
+Preparation and Brief
+•	 Identify portfolio of vacant sites over the next five years and their Relocatable building operator, Policymakers, 
+
+respective landowners Landowners
+
+•	 Engage landowners and municipalities on short-, mid- and long-term Relocatable building operator, Policymakers, 
+vision for the sites and surrounding areas Landowners
+
+•	 Define meanwhile use(s), placemaking strategy, legacy strategy and Relocatable building operator 
+how this fits with the vision for the site and surrounding areas
+
+•	 Agree contractual terms with the landowner Relocatable building operator, Landowners, 
+Lawyers
+
+•	 Identify tenant(s) to take up meanwhile use(s) that meet(s) the rental Relocatable building operator, Landowners, 
+income requirements Tenants
+
+•	 Discuss planning requirements with the municipality. Prepare and Relocatable building operator, Policymakers, 
+submit agreed documents to obtain planning permission Landowners
+
+•	 Discuss operating license requirements with the municipality and Relocatable building operator, Policymakers
+other parties. Prepare and submit agreed documents to obtain 
+operating licenses
+
+Design and Construction
+•	 Design portfolio of buildings for deconstruction by considering each Relocatable building operator, Designers, 
+
+building layer, reversible fittings, simple connections and temporary Suppliers, Contractors
+foundations
+
+•	 Develop standard kit of parts for future modular expansion or Relocatable building operator, Designers, 
+contraction and flexible space use Suppliers, Contractors
+
+•	 Select materials based on defined criteria including durability and Relocatable building operator, Designers, 
+environmental product declaration Suppliers, Contractors
+
+•	 Tag materials and record standard kit of parts being used for each Relocatable building operator, Suppliers, 
+building to create a materials passport Contractors
+
+•	 Design on- and off-grid mechanical, electrical and public health Relocatable building operator, Designers, 
+services to minimise environmental impact Suppliers, Contractors, Tenants
+
+•	 Develop deconstruction and reconstruction plans that minimise plant Relocatable building operator, Contractors
+and labour requirements
+
+Operations and End-of-use
+•	 Develop and implement an operations and maintenance plan Relocatable building operator, Tenants
+
+•	 Prepare relocation plans and identify tenants for next meanwhile use Relocatable building operator, Contractors, 
+Landowners, Tenants
+
+•	 Plan interim storage requirements if needed between deconstruction Relocatable building operator
+and reconstruction
+
+•	 Define weight and dimensions for transport between sites Relocatable building operator, Contractors
+
+•	 Repair and refurbish any materials that might have been damaged Relocatable building operator, Suppliers
+during deconstruction
+
+64  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Deconstructed materials from the People’s Pavilion, Eindhoven
+
+APPLICATIONS Municipalities are also a good candidate for adopting 
+The relocatable model could be suitable to several the business model as they too should have good 
+different types of stakeholders. Current temporary oversight of the vacant and unused land they own 
+building suppliers are well placed to coordinate new or have mapped out. They could use the relocatable 
+relocatable building solutions in the supply chain. buildings to activate land and surrounding areas as 
+They also understand which site conditions have lower part of a longer-term land use strategy.
+construction and deconstruction costs, so would be 
+able to select cost effective sites.  
+Developers with large regeneration portfolios would 
+be suit the model as they have oversight of the vacant 
+and unused land in their portfolio. In such cases, 
+the relocatable building operator and landlord could 
+be the same entity. For some developers, deploying 
+relocatable buildings might just be an extension of 
+what they are already doing around meanwhile spaces. 
+For others, it will require diversifying operations. 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  65
+
+ © Jeroen van der Wielen
+
+
+
+RESIDUAL VALUE
+
+The following have been identified as enablers of the 
+Lost value captured: Depreciated building materials model:
+Profit opportunity: Price received for reclaimed 
+building materials are closer to (if not higher) than the •	 Design for deconstruction, material selection and 
+cost of the original building materials reversible construction techniques, for example, 
+Supporting facts: Material depreciation in the built eliminating wet trades, using precast concrete over 
+environment accounts for approximately €2.1tn of lost cast in-situ concrete and partition systems available 
+value each year.59
+
+from suppliers like DIRTT Environmental Solutions
+•	 Building Information Modelling (BIM) allows 
+
+detailed 3D models of buildings to be created 
+OVERVIEW with precise details on material content to create a 
+
+materials passport for the building
+The Residual Value model involves the creation of a 
+new contract, similar to a commodity futures contract. •	 Sensors to monitor the performance of building 
+These contracts will be traded on a centralised materials, for example, smart lighting which records 
+exchange, their value tied to the estimated future how long the bulbs have been used for
+of materials in a building when deconstructed. The •	 Testing and recertification protocols for pre-used 
+futures contract, which contains detailed information materials
+about the recoverable materials (reusable when 
+deconstructed) from the building, would first be •	 Blockchain technology to provide a transparent 
+placed on the market by the construction client after ledger of transactions to give all participants 
+the building is constructed. The futures contract real-time information about a material’s location, 
+can then be traded while the building is operational ownership and audit history
+and the building materials are in use. Buyers are 
+expected to be anyone seeking to manage their Reliable and accessible data on material provenance 
+position against increasingly volatile material prices is critical to the success of this model; if the 
+such as contractors, suppliers and commodity traders. specifications of building materials are known, their 
+Whoever owns the futures contract at the time of historic uses are logged and their performance is 
+deconstruction is the owner of the materials. In effect, tracked, their value can be estimated. Once their value 
+the centralised exchange becomes a source of reusable is known, the materials can be traded on a future 
+building materials. For the original construction client, or forward basis and much like current commodity 
+additional capital expenditure related to design for markets, this can be done without the materials moving 
+deconstruction or durable materials is covered by the or changing hands. An early indication that this 
+sale of the futures contract. could be viable is the success of Dutch organisation, 
+
+Madaster. The platform uses a database of BIM 
+The residual value model is designed to ensure that models to create a materials bank and uses commodity 
+the true value of building materials is captured and markets to estimate the value of the materials in its 
+recovered when they are removed from a building, thus database.
+creating an incentive to keep those materials in use at 
+their highest value for as long as possible - one of the 
+key principles of a circular economy. 
+
+66  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Material owner 1 Material owner 2 Material owner 3
+
+Construction Operation Deconstruction Next service life
+
+Futures contract trading period
+
+Futures contract Futures contract
+
+Futures contract Futures contract
+
+Futures contract
+
+Figure 28. Schematic of the Residual Value model over a life cycle
+
+Life cycle stage
+
+Design and Next 
+Operation Deconstruction
+
+Constructuction service life
+Building 
+Material
+
+Futures contract trading period
+
+eg. Structural 
+eg. Commodities trader e.g. Construction client 2
+
+Steel Construction clients 
+eg. Parquet or Suppliers
+
+Construction client 1 eg. Supplier e.g. Construction client 3
+flooring or Contractors
+
+eg. Kitchen or Commodity traders
+eg. Contractor
+
+units
+
+Figure 29. Example building material owners by life cycle stage for Residual Value
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  67
+
+Deconstruction 
+contractor
+
+
+
+MODELLING THE TESTBED For the circular model, it still takes one year to extend 
+The testbed chosen for the Residual Value model is and refurbish the store, but this time the tenant adopts 
+an extension and refurbishment of a 1,000m2 high- the principles of design for deconstruction and makes 
+end retail store in Berlin with a sales area of 600m2. use of recoverable materials, fixtures and fittings 
+This testbed was chosen as retail stores generally where possible. A 5% increase in the construction cost 
+undergo more frequent refurbishment cycles compared is assumed to account for potential additional costs 
+to other typologies. This can be due to changing associated with design for deconstruction. 
+brand identities, changing interior design trends and Based on information provided by the testbed partner, 
+upgrades to the customer experience. approximately 82% of building materials by spend 
+Under the linear model, it takes one year to extend (equivalent to 37% of the construction cost) used 
+and refurbish the store using irrecoverable materials, in the extension and refurbishment are potentially 
+fixtures and fittings. At the end of the lease recoverable, meaning futures contracts associated with 
+following 10-years of operation, the retail tenant these materials can be sold on the exchange during 
+pays a contractor to strip out the retail store, with the the operational period. The cash settlement of the 
+materials managed as waste. traded product occurs at the end of the lease following 
+
+strip out. In the absence of detailed pricing models 
+The cash flows for the linear model are presented in of the newly traded commodities product, the futures 
+Figure 30. contract sale value is assumed to be 50% of the price 
+
+that the building materials were originally bought.
+
+0 10
+
+Retail tenant t
+0 1
+
+Extension and 
+refurb Strip out
+
+Figure 30. Illustrative cash flows modelled for the comparable linear model of Residual Value
+
+Futures contract cash settlements
+
+0 10
+
+Retail tenant t
+0 1
+
+Extension and 
+refurb Strip out
+
+Figure 31. Illustrative cash flows modelled for Residual Value
+
+68  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+The strip out is modelled to be cheaper than the linear EXPLORING THE FINANCIAL PERFORMANCE
+model as the waste management cost to the strip out 
+contractor will be reduced.  Based on the application of the Residual Value model 
+
+to the testbed project, an NPC saving of 5% could be 
+The cash flows for the circular model are presented in achieved (circular base case) when compared to the 
+Figure 31. linear model. In order to understand the key drivers 
+A summary of the key inputs and assumptions for the of the residual model, sensitivity analysis has been 
+DCFs are presented in Appendix B. undertaken on:
+
+1. the futures contract value
+2. the additional cost of design for deconstruction 
+3. the recovery rate of materials
+A summary of the sensitivity analysis on the future 
+contract value and additional design for deconstruction 
+cost is provided in Table 3.
+
+SENSITIVITY VALUE
+
+Futures contract 
+value as % of 
+
+21% 25% 50% 75% 100% 125% 50% 50% 50% 50%
+original material 
+cost
+
+Additional 
+design for
+
+5% 5% 5% 5% 5% 5% 7.5% 5% 2.5% -
+deconstruction 
+cost
+
+NPC saving - 1% 5% 10% 15% 20% 3% 5% 8% 10%
+
+(circular  (circular  
+base case) base case)
+
+Table 3. Sensitivity of NPC to the (1) futures contract value and (2) additional cost of design for deconstruction
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  69
+
+
+
+The sensitivity analysis shows that the futures contract Figure 32 compares the NPC saving that could be 
+value (related to the original cost of the recoverable achieved for different recovery rates of materials. A 
+materials in the DCF) has greater impact on the NPC recovery rate above 82% represents a scenario where 
+savings than does the additional cost related to design more materials than those identified as recoverable 
+for deconstruction. Ultimately, it will be the market would be sold. A recovery rate below 82% represents 
+that dictates the futures contract value, while the cost cases where, for example, materials might be damaged 
+of designing for deconstruction is likely to become during deconstruction. The sensitivity analysis 
+cheaper as it becomes common design practice, indicates break-even occurs when approximately 33% 
+and more solutions are developed by the industry. of all materials by spend (equivalent to 15% of the 
+The analysis shows that without any additional construction cost) are sold.
+deconstruction cost, the NPC savings could increase 
+from the circular base case to 10%. 
+
+8%
+
+6%
+
+4%
+
+2%
+
+- 20% 40% 60% 80% 100%
+
+-2%
+
+-4%
+
+-6%
+
+-6%
+
+Recovery rate of identified recoverable materials
+
+Figure 32. Sensitivity of NPC savings to the recovery rate of identified recoverable materials
+
+70  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+NPC saving
+
+
+
+Triodos Bank, Driebergen-Rijsenburg
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  71
+
+© Bert Rietberg for J.P. van Eesteren
+
+
+
+NEW RELATIONSHIPS AND REQUIREMENTS
+
+ACTIVITIES STAKEHOLDERS
+
+Preparation and Brief
+•	 Set out plan to maximise residual value by selling futures Investor, Construction client
+
+contracts on the centralised exchange* in the brief 
+
+•	 Develop digital strategy to record, update and share material data Construction client, Designers, Contractors, 
+with the market (BIM/materials passport/sensors/digital twin/ Facilities manager
+blockchain)
+
+Design and Construction
+•	 Design for deconstruction by considering for each building Designers, Suppliers, Contractors
+
+layer reversible fittings, simple connections and standardised 
+components
+
+•	 Select materials based on defined criteria including durability and Designers, Suppliers, Contractors
+environmental product declarations
+
+•	 Develop operations and maintenance plan that maintains material Construction client, Designers, Suppliers, 
+value Contractors, Facilities manager
+
+•	 Develop deconstruction plans that maximise recoverable materials Designers, Suppliers, Contractors
+
+•	 Establish list of recoverable materials and collate drawings and Construction client, Designers, Contractors
+information required by the centralised exchange* for their sale
+
+•	 Sell futures contracts of recoverable building materials on the Investor, Construction client
+centralised exchange* once the building is constructed
+
+Operations and End-of-use
+•	 Implement operations and maintenance plan Tenant, Facilities management
+
+•	 Update digital twin of building Tenant, Facilities management
+
+•	 Trade building material futures contracts Construction clients, Suppliers, Contractors, 
+Traders
+
+•	 Identify and contract a suitable deconstruction contractor Construction client, Contractors
+
+•	 Notify market of deconstruction date Investor, Construction client
+
+•	 Undertake deconstruction and notify new building material owners Contractors
+of available date
+
+•	 Inspect and/or test material specification for reuse Contractors
+
+*assumes centralised exchange is already set up
+
+72  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Circl, Amsterdam
+
+APPLICATIONS Overall, a critical mass of users of the centralised 
+As indicated by the testbed, retail lends itself well to exchange is needed to increase the supply, visibility 
+this model due to the frequency of refurbishment. The and demand of building materials available at 
+reuse, refurbishment and resale of retail fit-out is a deconstruction. Information related to both new builds 
+growing market, so barriers to entry could be lower and existing building stocks will be required for 
+than other sectors; Marks and Spencer (a multinational this. City municipalities could provide the enabling 
+retailer) have a programme around reusing fit-out, conditions through the planning system.
+Globechain (a reuse marketplace) have a retail 
+catalogue and Fitout UK (a fit-out contractor) have a 
+fit-out refurbishment business unit. 
+Owners of single-storey steel portal frames could also 
+be an early adopter, given these structures are easily 
+deconstructable and reconstructable. Materials or 
+components with standard dimensions are a good fit 
+for this model as there is likely to be greater future 
+demand for them. 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  73
+
+ © Ossip van Duivenbode
+
+
+
+PERFORMANCE PROCUREMENT
+
+Lost value captured: Underperforming components
+Profit opportunity: Subscription costs for access 
+to building systems is less than the whole life cost of 
+ownership of those services 
+Supporting facts: 20-40% of building energy use could 
+be profitably conserved through retrofit.5,6,7,8
+
+OVERVIEW The model changes incentives in two ways:
+Performance Procurement extends the product-as-a- 1.	 As the service providers are paid for performance 
+service model, currently seen in individual products over the technical life of assets, they are incentivised 
+such as lighting, to the building level. Under product- to use remote monitoring to deliver predictive 
+as-a-service procurement, rather than buying products maintenance to minimise downtime. This enables 
+from suppliers through capital budgets, construction them to optimise the performance of the system, 
+clients and tenants buy subscriptions for services reduce running costs and give an improved occupant 
+provided by those products through operational experience.
+budgets. Following Brand’s Layers model, the 
+Performance Procurement model takes the concept 2.	 As the service providers retain ownership and 
+to whole systems and assemblies within the skin, therefore responsibility for repurposing or disposing 
+services and space plan layers (since skin and services of the products, they are incentivised to design 
+determine the energy performance of a building products that can be easily repaired, remanufactured 
+and all three layers have economic lifetimes within and reused, as well as to eliminate toxic, hard-to-
+reasonable investment to allow this model to offer dispose-of materials.
+a return). The subscription payments are linked to The link to circular economy is clear; this model 
+real-time performance, or key performance indicators, incentivises service providers to create high 
+and include operations and maintenance costs. The performance systems that last.
+supplier, now a service provider, retains ownership of 
+the products themselves and is responsible for their 
+maintenance, repair and upgrade. 
+
+74  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Life cycle stage
+
+Building Design and 
+layers construction Operation End-of-use
+
+Skin Skin service providers
+
+Structure Construction client Waste
+contractor
+
+Services Services service providers
+
+Space plan Space plan service providers
+
+Stuff Construction client or Tenant Waste
+contractor
+
+Figure 33. Key stakeholders by life cycle stage and building layer for Performance Procurement
+
+S Sensor
+
+Construction client 
+and/or Tenant
+
+Skin subscriptions
+S
+
+S Service providers Space plan subscriptions
+
+S
+Services subscriptions
+
+Figure 34. Schematic showing building layer ownership under Performance Procurement 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  75
+
+
+
+Design, procurement, construction and operation During construction, the main contractor will continue 
+processes will need to change. A new value chain to coordinate trades and manage the overarching 
+member, the service provider, is needed. Service programme, while the service providers arrange the 
+providers will be consortia of product manufacturers installation and commissioning of their systems. 
+who are collectively able to provide whole systems, Following practical completion, the subscription 
+such as complete building envelopes or heating, contracts for the entire building could be managed by a 
+ventilation and air conditioning systems, rather than facilities management company.
+individually providing products or sub-assemblies 
+such as insulation panels or air-handling units. Existing and emerging product-as-a-service solutions 
+Construction clients and tenants may want to enter include purchasing ‘lux’ rather than buying lighting 
+into framework relationships with service providers systems (e.g. Signify), refrigeration-ton-hours 
+to secure economies of standardisation and contract rather than air conditioning units (e.g. Kaer), energy 
+management across their portfolios. The service performance and user comfort rather than facade 
+providers will then work closely to coordinate with the panels (e.g. pilot project at TU Delft), electrical 
+client’s design team to create highly-optimised, high- distribution as a service (e.g. Engie), and office 
+performance systems. furniture services (e.g. Steelcase).
+
+One reason these relationships are not currently 
+entered into at an early stage is the risk of over-
+charging once a project is locked-in to a single 
+supplier. In Performance Procurement, this risk is 
+mitigated as replacement parts and maintenance costs 
+are borne by the service provider and paid for by the 
+pre-agreed subscription charge.
+
+76  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+MODELLING THE TESTBED Under the circular model, the build-to-rent operator 
+procures the skin, services and space plan building 
+
+The testbed chosen for the Performance Procurement layers through annual subscriptions from service 
+model is a 150-unit residential build-to-rent providers (representative of 45% of the construction 
+development in London. Build-to-rent lends itself cost). The remainder is procured through capital 
+well to this model as the provision of more reliable budgets as per the linear model. For the purposes of 
+and streamlined services for tenants is a source of modelling, the subscription charge has been estimated 
+competitive advantage over buy-to-let. by amortising the capital cost of each layer over its 
+Under the linear model, the build-to-rent operator anticipated economic lifetime. The operator receives 
+procures all building layers through capital budgets. an annual rental income from tenants, including utility 
+The operator is also responsible for the annual bills covering energy and water, to capture operations 
+operations and maintenance expenditure associated and maintenance efficiency gains from the higher 
+with common areas and associated services, building performing systems. 
+maintenance, and replacement of building systems The cash flows of the circular model are presented in 
+including those within the skin, services and space Figure 36.
+plan layers. The operator receives an annual rental 
+income from tenants, which excludes the utility costs A summary of our key assumptions for the modelling 
+paid directly by tenants. is presented below in Appendix B. 
+The cash flows for the linear model are presented in 
+Figure 35.
+
+0 Annual tenant rent 15 Annual tenant rent 20 Annual tenant rent 30
+
+Build-to-rent
+ operator t
+
+0 1 2 Services Skin + Space plan 
+replacement replacement
+
+Construction
+Annual operations Annual operations Annual operations 
+and maintenance and maintenance and maintenance
+
+Figure 35. Illustrative cash flows modelled for the comparable linear model of Performance Procurement
+
+0 Annual tenant rent including utility bills 30
+
+Build-to-rent
+ operator t
+
+0 1 2 Annual subscription contracts including operations and maintenance
+
+Construction
+
+Figure 36. Illustrative cash flows modelled for Performance Procurement
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  77
+
+
+
+EXPLORING THE FINANCIAL PERFORMANCE The IRR achieved from the circular base case is 
+Based on the analysis, the Performance Procurement most likely to be conservative since product-as-a-
+model would see the build-to-rent operator achieve an service models are structurally more profitable for 
+IRR of 10.8% (circular base case) compared to 7.5% service providers, as they are able to put products 
+under the linear model. on the market over multiple use cycles. It would 
+
+be expected that as the circular economy grows, 
+Sensitivity analysis has been undertaken on: suppliers who have adopted these approaches would 
+1. the subscription charges offer more competitive pricing versus legacy linear 
+
+businesses. Such a development would reduce costs for 
+2. operations and maintenance costs construction clients, creating a circular win-win.
+3. construction costs
+
+In reality, the subscription charge will include 
+financing costs, accounting for organisation- and 
+system-specific considerations such as suppliers’ 
+financial position, design specifications and market 
+maturity. The starting assumption for the subscription 
+charge was to amortise the capital cost of each layer 
+over its anticipated economic lifetime, excluding any 
+financing costs. This established an upper bound 
+on the achievable IRR. A lower bound is set by 
+calculating the financing cost that would cause the 
+circular model to deliver the same IRR as the linear 
+model. Finance costs to the service provider are taken 
+between these bounds to provide a sensitivity profile. 
+Figure 37 shows that the IRR achieved by the operator 
+is sensitive to financing costs. 
+
+12% 10.8%
+
+10% 9.4% 8.3%
+
+8% 7.5% 7.5%
+
+6%
+
+4%
+
+2%
+
+-
+Linear 0% service 3% service 5% service 6.4% service 
+
+provider return provider return provider return provider return
+(circular base 
+
+case)
+
+Additional financing costs
+
+Linear Circular
+
+Figure 37. Sensitivity of IRR to financing costs
+
+78  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+IRR
+
+
+
+A sensitivity of +/- 10% of operational and 
+maintenance costs against the circular base case 
+results in little change of the IRR, as shown in Figure 
+38. This is a conservative allowance for the potential 
+of Internet of Things (IoT) technology and durable 
+products designed for long life to significantly increase 
+performance and reduce operation and maintenance 
+costs from buildings.
+A sensitivity of +/- 10% of construction cost against 
+the circular base case shows that the construction cost 
+has much greater impact on the IRR when compared 
+to operational and maintenance costs, as shown in 
+Figure 38. This checks the potential impact of main 
+contractors increasing cost in tender returns to account 
+for not having worked in this way before.
+
+IRR
+
+8% 10% 12%
+
+Operations and 10.6% 11.0%
+maintenance cost (+/- 10%)
+
+Construction cost (+/- 10%) 9.4% 12.7%
+
+Figure 38. Sensitivity of IRR to (1) operations and maintenance costs and (2) construction costs
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  79
+
+
+
+NEW RELATIONSHIPS AND REQUIREMENTS
+
+ACTIVITIES STAKEHOLDERS
+
+Preparation and Brief
+•	 Develop repairable, remanufacturable and reusable products with suitable Service providers
+
+subscription contracts for the market. Subscription contracts to consider:
+•	 lease and use rights
+•	 contract length
+•	 payment structure including options such as: 
+
+•	 paying the same amount over the full contract duration
+•	 paying a higher price over an initial period followed by a lower price for 
+
+the remainder
+•	 key performance indicators (e.g. occupant satisfaction, energy use, water 
+
+use), including measurement, reporting and verification
+•	 interoperability standards to mitigate risk of lock-in
+•	 protocols for remote sensing and optimisation
+•	 data security standards and data ownership
+•	 methods for determining and sharing performance risk and reward
+•	 penalties due for poor performance
+•	 protocols and insurance requirements covering compensation events such 
+
+as fire, theft and damage
+•	 maintenance plans
+•	 break-clauses 
+•	 provisions for service provider insolvency
+
+•	 Create consortia to develop complete systems aligned to building layers Service providers
+
+•	 Develop technology for remote monitoring, optimisation and predictive Service providers
+maintenance
+
+•	 Develop briefs based on performance (technical performance, reliability, Investor, Construction client, Designers
+target whole life cost, environmental impact)
+
+•	 Define possibilities for portfolio-wide subscription agreements Investor, Construction client, Tenant, 
+Service providers
+
+Design and Construction
+•	 Design and specify systems that meet performance set out in brief Construction client, Designers, Service 
+
+providers 
+
+•	 Develop building-specific subscription plan including operations and Construction client, Service providers
+maintenance strategy
+
+•	 Coordinate overlapping trades, manage site logistics, security, welfare Contractors
+provision etc.
+
+•	 Align BIM strategy, operations and maintenance manual, subscription Investor, Construction client, Designers, 
+contracts and asset management plan Service providers
+
+Operations and End-of-use
+•	 Record real-time performance data using IoT feedback system with which to Service providers
+
+inform charges to the client
+
+•	 Continuous commissioning using remote optimisation Service providers
+
+•	 Implement operations and maintenance strategy Construction client, Service providers
+
+80  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+Schiphol Airport, Amsterdam
+
+APPLICATIONS
+
+Beyond closing the performance gap, which 
+is applicable to all buildings, the Performance 
+Procurement model has particular relevance in two 
+applications. The first is where tenant retention is 
+central to the revenue model, and another where 
+minimal disruption is of utmost importance. Tenant 
+retention is central to the build-to-rent, co-living and 
+co-working typologies. All buildings aspire for minimal 
+disruption but buildings where the user experience 
+really matters lend themselves well to subscription 
+contracts. This includes:
+•	 hospitals for patient comfort, health and safety
+•	 hotels for guest comfort and experience
+•	 airports for improved passenger flows and 
+
+experience.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  81
+
+ © Signify
+
+
+
+KEY FINDINGS
+
+This report, Realising the Value of Circular Economy in Real Estate, represents one 
+of the most advanced and sophisticated attempts to date to consider what applying 
+circular economy business models to real estate might mean in practice. It has 
+identified which actors in the real estate value chain are best placed to instigate 
+a transition to circular practices in this sector, and it has explored new real estate 
+business models which enable those actors to add value at all stages of an asset’s 
+life cycle.
+
+Circular 
+real estate 
+business 
+model
+
+Flexible Adaptable  Relocatable Residual       Performance 
+Spaces Assets Buildings Value Procurement
+
+3% increase in 26% increase in 3% increase in 
+18% reduction in 5% reduction in 
+
+Financial internal rate of internal rate of internal rate of 
+net present cost net present cost 
+
+returns return over 50 return over 11 return over 30 
+over 12 years over 10 years
+
+years years years
+
+Tradable futures 
+Additional Buildings that Extension of the 
+
+Buildings that contracts 
+tenants occupy can be reused product-as-a-
+
+can adapt to related to value 
+Description underutilised multiple times service model to 
+
+alternative uses of recoverable  
+space in across multiple the whole building 
+
+over time materials at 
+buildings sites level
+
+deconstruction
+
+Lost value Underutilised Premature Vacant Depreciated Underperforming
+captured space demolition land materials components 
+
+Testbed  
+Milan Aarhus Amsterdam Berlin London
+
+location
+
+Testbed Tenanted Tenanted Tenanted   Tenanted  Build-to-rent 
+project commercial residential mixed-use retail residential
+
+Readiness
+Now New Next
+
+Figure 39. Summary of the financial returns of the five circular real estate business models     
+
+82  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+KEY FINDING 1: CIRCULAR ECONOMY KEY FINDING 2: THESE FIVE MODELS OFFER 
+PRINCIPLES OFFER IMPROVED FINANCIAL VALUE ACROSS BUILDING TYPOLOGIES, 
+RETURNS TENURE TYPES, MARKETS AND 
+
+This report has found that applying circular economy TIMEFRAMES
+
+principles to real estate business models improves The models developed were tested on real (‘testbed’) 
+the financial performance of assets. Five models have projects with different asset classes in different 
+been developed that each capture a different source European cities (Aarhus, Amsterdam, Berlin, London 
+of lost value, creating five ways of applying circular and Milan). The circular model delivered improved 
+principles in this sector. performance versus the linear case across a range of 
+The potential benefits likely exceed the numbers typologies and tenures:
+shown. A conservative approach is taken for the •	 tenanted commercial
+feasibility studies, and on real projects where open 
+and direct conversations are possible, there will be •	 tenanted residential
+opportunities for greater value capture and benefit •	 tenanted mixed-use
+sharing. •	 tenanted retail
+Additionally, the models are presented separately for •	 build-to-rent residential
+clarity; many projects will benefit from applying the 
+models in combination, meaning benefits will exceed Study periods varied from 10 years (Residual Value) 
+those reported here. A holistic, blended approach to to 50 years (Adaptable Assets) showing returns can 
+circular economy principles on a project will be the be realised within reasonable medium- and long-term 
+most effective way of maximising the benefits. horizons.     
+This improved performance offers investors and It should be noted that the models can be applied to 
+construction clients with the opportunity to improve other asset classes and tenure types, not only those 
+their competitive position while at the same time tested. The real estate sector is a highly heterogeneous 
+strengthening their appeal among increasingly industry, meaning this versatility is important. It is 
+environmentally-aware and climate-conscious also worth noting again that the five models presented 
+potential customers. here are not mutually exclusive; it is likely that many 
+
+real estate investors and construction clients will be 
+able to draw from all five to improve the financial 
+and environmental performance of their projects. For 
+example, a building operator may be forced to move in 
+response to a population shift, and with a relocatable 
+fit-out could move their operation from one adaptable 
+asset to another, realising maximum residual value 
+from the elements they are not able to reuse.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  83
+
+
+
+KEY FINDING 3: MANY OF THE TOOLS KEY FINDING 4: NEW RELATIONSHIPS 
+NEEDED TO ADOPT CIRCULAR THINKING IN ARE NEEDED IN THE REAL ESTATE AND 
+REAL ESTATE ARE ALREADY HERE CONSTRUCTION VALUE CHAIN
+
+The models deliberately challenge conventional Each of the models, particularly Residual Value, 
+thinking and processes, while simultaneously building Relocatable Buildings and Performance Procurement, 
+on best practice from industry leaders. The readiness envisage the development of new relationships in the 
+framework, ‘Now, New, Next’, gives an indication of value chain. In the case of Residual Value, this means 
+maturity levels for each model, Figure 39. For example, a new market for financial instruments linked to the 
+Flexible Spaces addresses the trend towards fluid co- future value of materials. For Relocatable Buildings 
+working environments. It is directly enabled by online and Performance Procurement, the value chain 
+platforms that drastically reduce transaction costs will change shape, with service providers offering 
+for finding tenants. IoT technology allows real-time integrated offerings around whole systems directly to 
+monitoring of space utilisation and dynamic billing of construction clients, building operators and investors. 
+users only for the space and time they have used. Collaboration, entrepreneurship and investment are 
+Similarly, Adaptable Assets borrows from procurement needed to drive these changes.
+approaches already prevalent in the infrastructure Exactly how these markets and value chains will 
+sector to ensure all value chain members, from develop is difficult to predict. For example, Flexible 
+investors through to operators, benefit from longer- Spaces may provide space in abundance on a low 
+term thinking and user-centric service provision. resource footprint - one of the key outcomes of a 
+Meanwhile use buildings are already being used circular economy. Yet there will be a natural limit 
+as a tactic for regeneration schemes to bring life to to this abundance, not from limited supply but 
+otherwise derelict locations and to bring value to from limited demand. As more space becomes 
+local communities earlier in the development process. available, marginal rates will fall and the business 
+Relocatable Buildings is a model that develops this case for making more space available will weaken. 
+further to encompass higher value spaces and more Conversely, a growing market will reduce the price 
+diverse uses. of the technology needed to make spaces flexible, 
+
+strengthening the business case. Value chain 
+The emergence of material passports, provenance stakeholders will need to be as flexible as their spaces 
+standards, blockchains and digital twins make the to manage these changes.
+concept behind Residual Value, namely a financial 
+instrument priced against the future value of materials 
+in buildings, a new possibility. Whether financial 
+markets and institutions buy into this concept remains 
+to be seen.
+Finally, Performance Procurement, though 
+technically feasible, will require careful testing of 
+new relationships, requirements and contracts. This 
+is best done through commercial-scale pilots led by 
+leaders in the real estate asset classes and city markets 
+considered in this report.
+
+84  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+AARHUS
+
+AMSTERDAM
+BERLIN
+
+LONDON
+
+MILAN
+
+KEY FINDING 5: THESE FIVE MODELS CAN 
+HELP REAL ESTATE ACTORS ACHIEVE THEIR 
+NET ZERO CARBON TARGETS AS WELL AS 
+BOOSTING ECONOMIC PERFORMANCE
+
+While not explicitly quantified in this report, the five 
+models presented improve the resource productivity of 
+real estate and in turn will also serve to decarbonise 
+the sector. Construction material manufacturing is 
+a growing and hard-to-abate source of emissions. 
+A recent report by C40 Cities with Arup and the 
+University of Leeds identified five actions to cut 9.1Gt 
+of greenhouse gas emissions associated with materials 
+for buildings and infrastructure from the footprints of 
+96 global cities, using strategies linked to the models 
+in this report. For example, two of the five actions 
+are enhanced building utilisation, the focus of the 
+Flexible Spaces and Adaptable Assets models, and the 
+reuse of building components, enabled by Relocatable 
+Buildings, Residual Value and Performance 
+Procurement.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  85
+
+
+
+Circl, Amsterdam
+
+86  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  87
+
+ © Ossip van Duivenbode
+
+
+
+NEXT STEPS
+
+CALL TO ACTION Action 4: Evaluation tools which capture lost value 
+This report is a call to action directed at the real estate must be developed. Value is lost because current 
+investment and construction client communities. It has evaluation models do not measure it. The resulting 
+articulated how circular economy principles can be externalities are the climate emergency, the waste 
+realised in practice in real estate business models. It mountain and collapsing biodiversity. Real estate 
+has used discounted cashflow analysis to demonstrate evaluation models are sorely needed which can 
+they have the potential to deliver improved financial inform investors which projects will make a positive 
+performance. What is needed now are commercial- contribution to restoring damaged natural systems.
+scale pilot projects to demonstrate this potential is 
+achievable. CLOSING REMARKS
+
+Action 1: Investor and construction client Circular economy approaches will only be adopted 
+communities must lead the adoption of circular at scale if business models change. In other words, 
+principles on scalable, commercial-scale real estate circular economy needs to be viewed as a business 
+projects. This entails those communities evaluating strategy, not just a waste management or a design 
+the models presented in this report against their own strategy. 
+specific needs and ambitions. Commercial directors If a critical mass of investors and construction clients 
+should review their project strategies checking against embrace this message and take the actions above, 
+the sources of lost value identified here. Investors we are confident the real estate sector can deliver 
+and construction clients will need to challenge their significant returns while reducing its negative burden 
+commercial and sustainability professionals to adopt on the planet. Success in this will help meet financial, 
+circular economy thinking to create and respond to economic, social and environmental needs – making a 
+new project briefs. positive impact, not just reducing negative ones – on a 
+Action 2: Real estate professionals must drive reduced resource footprint. 
+this conversation. This report starts a conversation We are also confident that the supply chain will 
+between those already driving change in the industry respond to their lead, investing in new service 
+and those who are stuck in the linear business-as- offerings that deliver non-toxic, durable, reusable and 
+usual. Communities of experts such as agents, insurers repairable products as part of high-performance, user-
+and accountants must be part of this conversation, and focused systems. 
+must be ready to over-turn long-standing conventions, 
+framed entirely on linear economy thinking, to realise As this shift happens, the whole sector will move from 
+the opportunity presented by circular business models. discussing principles to changing practices, to create 
+
+a more productive, more agile and less damaging real 
+Action 3: Policy makers must be involved from estate sector, accelerating the global transition to a 
+the beginning of commercial-scale pilots. If private circular built environment.
+sector influencers lead on applying circular business 
+models and reporting their benefits, they will create 
+the evidence base that policy makers are requesting to 
+ensure these approaches are adopted across the market 
+and at all levels of the value chain. In some cases, 
+policy changes will be needed for these models to be 
+realised, for example, planning policies may need to 
+change to facilitate widespread uptake of Relocatable 
+Buildings. Requests to policy makers to support 
+circular economy implementation are more likely to 
+succeed if policy makers have seen for themselves the 
+value unlocked by this approach.
+
+88  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+HAUT, Amsterdam
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  89
+
+© Team V Architecture
+
+
+
+FURTHER RESEARCH
+
+This report provides a high-level illustration of the THINKING BEYOND PROJECTS AND ACROSS 
+power of circular thinking in real estate. There remains PORTFOLIOS
+more work to do to deliver these models in practice. 
+The following are topics which struck the project team Elements of each of the models require consideration 
+most strongly as needing additional consideration. beyond individual projects to incorporate whole real 
+
+estate portfolios and realise their full potential value. 
+For example, under Performance Procurement, service 
+
+DEVELOPING PRICE STRUCTURES agreements may be best delivered through frameworks 
+This report has sought to quantify the net financial encompassing several buildings or an entire estate, 
+benefit associated with reducing sources of lost value. while Relocatable Buildings envisages a portfolio of 
+In reality, the added value will be shared across mobile buildings deployed across many sites at any 
+the value chain through pricing mechanisms. The given time. The business case of applying these models 
+price point of new cash flows, like the commodity to portfolios needs to be estimated. 
+futures contracts in Residual Value and subscription 
+costs in Performance Procurement, have only been QUANTIFYING MARKET RISK MITIGATION 
+estimated. Although some sensitivity analysis has been 
+carried out to test the impact of price on the financial While not quantified in this report, the models help 
+performance, appropriate and industry-accepted mitigate market risk. Flexible Spaces, Adaptable 
+pricing structures, likely in future to include carbon Assets, Relocatable Buildings and Residual Value all 
+pricing, will be determined by the market. offer investors and construction clients greater options 
+
+for an exit strategy in the event the market moves away 
+from what they planned for. Further research is needed 
+
+DEMONSTRATING CO-BENEFITS into how the proposed models offer greater benefit 
+This report does not attempt to quantify the additional through improved business resilience, strengthened 
+benefits that these models bring. All five models seek client relationships and better feedback on actual 
+to reduce the climate impact of this sector through product performance.
+systemic change. In addition, the models offer other 
+co-benefits. For example, Adaptable Assets reduces CLOSING THE GAP BETWEEN TECHNICAL 
+demolition activity, improving air quality from reduced AND ECONOMIC LIFETIMES
+dust and traffic. Relocatable Buildings could bring 
+significant social benefits to communities impacted by Building design lives bear little relation to actual 
+blight from unoccupied sites. Further work is needed observed service lives; the latter being determined 
+to demonstrate the benefits of these models beyond the by by complex interactions of social, technical and 
+improved financial performance demonstrated here. economic drivers. Further research is needed into 
+
+the reasons why buildings are demolished, to equip 
+designers, construction clients and investors with the 
+insight they need to anticipate and avoid premature 
+demolition to the greatest possible degree.
+
+90  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+L’Innesto - Milano Greco, Reinventing Cities, Milan
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  91
+
+© Barreca & La Varra, Wolf Visualizing Architecture
+
+
+
+APPENDICES
+
+APPENDIX A: VISION
+
+How will a built environment operating on circular 
+principles actually differ from the one we have today? 
+A circular built environment embeds the principles of a circular economy 
+across all its functions, establishing an urban system that is regenerative, 
+accessible and abundant by design.
+
+Support human well-being and natural Continuous material cycles
+systems Building occupants and infrastructure 
+Human living standards, health and operators are responsible for tracking and 
+well-being are improved, and natural returning construction materials (in the 
+systems are restored. Building occupants quantity and quality received) to suppliers 
+have improved outcomes in health and for reuse. Use of looping, non-toxic 
+productivity. Material abundance comes materials reduces pollution and virgin 
+without environmental degradation. material consumption.
+Guided by systems thinking Design for maintenance and 
+Decisions made across the built deconstruction
+environment value chain are guided by Buildings are designed to enable 
+feedback-rich and data-driven models maintenance, repair and reuse at all life 
+that will account for interactions cycle stages (including operation and end-
+between buildings, infrastructure, users of-service). Techniques such as modular 
+and the biosphere, as well as change over construction minimise waste generation 
+time. The models consider economic, during construction and deconstruction 
+environmental and social outcomes. stages.
+Leveraged by digital technology Flexible productive buildings
+Digital technologies provide accessible Buildings meet their own energy and 
+platforms to facilitate asset sharing water needs while waste generation is 
+and the management of buildings and dramatically reduced thanks to circular 
+materials. Smart apps and innovative products. Internal utilisation rates increase 
+practices virtualise many services thanks to shared, flexible and modular 
+currently rendered by the built spaces.
+environment as more people shop online 
+and work from home. Integrated infrastructure systems
+
+Integrated water, energy and waste 
+Holistic urban planning networks prioritise natural systems and 
+The overall design of space supports can be used more intensively as smart 
+resilient and thriving communities management flattens peaks, making use of 
+with new business models to stimulate capacity available throughout the day.
+growth, and address congestion and 
+pollution. Nature becomes part of urban 
+areas, improving air quality, moderating 
+extremes of temperature and supporting 
+human well-being.
+
+92  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+GUIDED BY HOLISTIC URBAN 
+SYSTEMS THINKING PLANNING
+
+SUPPORT HUMAN LEVERAGED 
+WELL-BEING AND BY DIGITAL 
+
+NATURAL SYSTEMS TECHNOLOGY
+
+FLEXIBLE DESIGN FOR 
+PRODUCTIVE MAINTENANCE AND 
+BUILDINGS DECONSTRUCTION
+
+CONTINUOUS INTEGRATED 
+MATERIAL INFRASTRUCTURE 
+
+CYCLES SYSTEMS
+
+Figure A1. A vision for a circular built environment
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  93
+
+
+
+APPENDIX B: MODELLING INPUTS AND ASSUMPTIONS
+
+FLEXIBLE SPACES
+
+VALUE UNIT SOURCE
+
+GENERAL
+
+Evaluation period 12 (including 1 month fit out) years testbed
+
+Inflation rate 0.5 % / annum desk study60
+
+Anchor tenant rent 60 - 80 €’000 / annum testbed
+
+Total desks 120 # testbed
+
+Occupancy post expansion 65 % testbed
+
+Anticipated employee growth 
+5 % / annum project assumption
+
+rate
+
+LINEAR MODEL
+
+Extension cost 200-250 €’000 testbed
+
+CIRCULAR MODEL
+
+Additional design for flexibility 
+0 €’000 project assumption
+
+cost
+
+Co-working occupancy of 
+75 % project assumption
+
+unused desks
+
+desk study - lower end of 
+Co-working price 200 € / month / desk
+
+range used61
+
+Co-working operating margin 20 % project assumption
+
+No. of fitness classes 4 / week testbed
+
+No. of night classes 1 / week testbed
+
+Recreational class price 90 € / class desk study - average used62
+
+Open space operating margin 40 % project assumption
+
+No. of corporate meetings / 
+15 / annum testbed assumption
+
+events
+
+Corporate meeting / event 
+290 € / meeting or event desk study - average used63
+
+price 
+
+Meeting space operating 
+40 % project assumption
+
+margin
+
+Table B1. Key inputs and assumptions for Flexible Spaces
+
+94  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+ADAPTABLE ASSETS
+
+VALUE UNIT SOURCE
+
+GENERAL
+
+52 (2 years of construction 
+Evaluation period years project assumption
+
+and 50 years of operation)
+
+Inflation 0.5 % / annum desk study64
+
+Number of floors 5 # testbed
+
+Number of flats per floor 3 # testbed
+
+Average flat size 50 sqm testbed
+
+Total floor area 750 sqm testbed
+
+Construction cost 20,000 - 25,000 DKK’000 testbed
+
+Residential rent 1.1 DKK'000 / sqm / annum testbed
+
+Logistics rent 1.1 DKK'000 / sqm / annum testbed
+
+Annual operations and 
+25 % of rent project assumption
+
+maintenance cost
+
+LINEAR MODEL
+
+Demolition and 
+20,000 - 25,000 DKK’000 project assumption
+
+reconstruction cost
+
+Demolition and 
+2 years project assumption
+
+reconstruction period
+
+CIRCULAR MODEL
+
+Additional design for unknown so included in 
+negligible - 
+
+adaptability cost sensitivity analysis
+
+unknown so included in 
+Conversion cost negligible -
+
+sensitivity analysis
+
+Conversion years 7, 9, 10, 12, 14 year of operation project assumption
+
+Table B2. Key inputs and assumptions for Adaptable Assets
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  95
+
+
+
+RELOCATABLE BUILDINGS
+
+VALUE UNIT SOURCE
+
+GENERAL
+
+Evaluation period 11 years project assumption
+(9 months of design, 3 
+months of construction, 
+5 years of operation, 3 
+months of deconstruction, 
+transport and 
+reconstruction, 5 years of 
+operation, and 1 month 
+deconstruction and 
+transport)
+
+Inflation rate 2.4 % / annum desk study65
+
+LINEAR MODEL
+
+- -
+
+CIRCULAR MODEL
+
+Initial design and 6,000 - 7,000 € / sqm testbed
+construction cost
+
+Deconstruction cost 15 % of initial construction project assumption
+cost
+
+Transport and 30 % of initial construction project assumption
+reconstruction cost cost
+
+Floor area 2,200 sqm testbed
+
+Leasable floor area 60 % of total floor area project assumption
+
+Average monthly rent 350 € / sqm desk study66
+
+Operations and 17 % of initial construction desk study67 
+maintenance cost cost
+
+ Table B3. Key inputs and assumptions for Relocatable Buildings
+
+96  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+RESIDUAL VALUE
+
+VALUE UNIT SOURCE
+
+GENERAL
+
+11 (1 year of construction 
+Evaluation period years project assumption
+
+and 10 years of operation)
+
+Inflation 1.5 % / annum desk study68
+
+LINEAR MODEL
+
+Construction cost 1,000 - 1,500 €’000 testbed
+
+Recoverable materials 
+0 % of total materials project assumption
+
+identified
+
+Demolition year 10 year of operation project assumption
+
+Demolition cost 70 - 80 €’000 project assumption
+
+CIRCULAR MODEL
+
+desk study - a 7% increase 
+in capital expenditure was 
+found for a whole office 
+
+Additional design for % of linear model building in Flanders. This 
+5
+
+deconstruction cost construction cost testbed only considers fit out 
+so a slightly lower increase in 
+capital expenditure has been 
+assumed69 
+
+Recoverable materials 
+37 % of construction cost project assumption
+
+identified
+
+Deconstruction year 10 year of operation project assumption
+
+Deconstruction cost 50 - 60 €‘000 project assumption
+
+% of material cost in year of 
+Futures contract value 50 project assumption
+
+construction
+
+Futures contract settlement 
+10 year of operation project assumption
+
+year
+
+ Table B4. Key inputs and assumptions for Residual Value
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  97
+
+
+
+PERFORMANCE PROCUREMENT
+
+VALUE UNIT SOURCE
+
+GENERAL
+
+Construction period: Testbed
+32 (2 for construction plus
+
+Evaluation period years Operational period: Project 
+30 for operation)
+
+assumption
+
+Inflation 2.0 % / annum desk study70
+
+Design and construction cost 35,000 - 45,000 GBP’000 testbed
+
+Skin average useful life 20 years project assumption
+
+Services average useful life 15 years project assumption
+
+Space plan average useful life 20 years project assumption
+
+% of design and 
+Skin construction cost 15 testbed
+
+construction cost
+
+% of design and 
+Services construction cost 15 testbed
+
+construction cost
+
+% of design and 
+Space plan construction cost 16 testbed
+
+construction cost
+
+Operational expenditure 350 - 400 GBP’000 / annum testbed
+
+CIRCULAR MODEL
+
+Service providers’ financing 
+0 % project assumption
+
+cost
+
+Average annual utility bill 1,699 GBP / annum desk study71
+
+Component of energy bill with desk study - includes heating, 
+83 %
+
+potential efficiency gains hot water and lights72
+
+desk study - includes 
+Component of water bill with 
+
+72 % toilet, internal tap, bath and 
+potential efficiency gains
+
+shower73
+
+Utility bill reduction from 
+20 % desk study74,75,76
+
+efficiency gains
+
+Operations and maintenance 
+20 % desk study74,75,76 
+
+cost savings for services
+
+Table B5. Key inputs and assumptions for Performance Procurement
+
+98  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+PERFORMANCE PROCUREMENT END-OF-
+CONTRACT ASSUMPTIONS
+
+At the end of the service agreement, the building 
+operator has two options. The first is to renew the 
+agreement for another period. This point in time is an 
+opportunity to upgrade the system to meet the latest 
+performance standards. 
+The second option is for the building operator to 
+take ownership of the system. Subscription charges 
+stop, in exchange for the building operator taking 
+responsibility for maintenance and replacement costs.
+In the first option, replacement costs are covered 
+by the service provider and will be included in the 
+subscription fee. In the second, replacement costs are 
+borne by the building operator. In all cases modelled 
+for this study, the first option is taken. 
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  99
+
+
+
+ABBREVIATIONS
+
+Abbreviation		  Definition
+3XN/GXN		  3XN Architects / GXN Innovation
+BIM 			   Building information modelling
+DCF			   Discounted cash flow
+EBITDA		  Earnings before interest, tax, depreciation and amortisation
+ESG			   Environmental, social and governance
+ICMS			   International Construction Measurement Standards
+IoT			   Internet of Things
+IPMS			   International Property Measurement Standards
+IRR			   Internal rate of return
+IVS			   International Valuation Standards
+NPC			   Net present cost
+NPV			   Net present value
+RICS			   Royal Institution of Chartered Surveyors
+
+100  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+White Collar Factory, London
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  101
+
+© Paul Carstairs / Arup
+
+
+
+REFERENCES
+
+1  International Energy Agency and the United Nations Environment Programme, 2018 Global Status Report: 
+Towards a Zero Emission, Efficient and Resilient Buildings and Construction Sector, 2018.
+
+2 Architecture 2030, New Buildings: Embodied Carbon, available at: https://architecture2030.org/new-buildings-
+embodied/, 2019.
+
+3 Norm G. Miller, Workplace Trends in Office Space: Implications for Future Office Demand, Journal of Corporate 
+Real Estate, 2014.
+
+4 British Council for Offices, Office Occupancy: Density and Utilisation, 2018.
+5 International Energy Agency, Energy Balances of Non-OECD Countries, 2015. 
+6 International Energy Agency, Energy Statistics of Non-OECD Countries, 2015.
+7 International Energy Agency, Energy Statistics of OECD Countries, 2015.
+8 United Nations, Energy Statistics Yearbook, 2016.
+9 World Bank, What A Waste: A Global Review of Solid Waste Management, 2012.
+10 Ellen MacArthur Foundation, Completing the Picture: How the Circular Economy Tackles Climate Change, 
+
+2019.
+11 Arup, C40 Cities and University of Leeds, The Future of Urban Consumption in a 1.5°C World, 2019.
+12 Arup, Circular Economy in the Built Environment, 2016.
+13 Stewart Brand, How Buildings Learn: What Happens After They’re Built, 1994.
+14 Arup and Ellen MacArthur Foundation, From Principles to Practices: First Steps to a Circular Built 
+
+Environment, 2018. 
+15 Royal Institution of Chartered Surveyors, Whole Life Carbon Assessment for the Built Environment, 2017.
+16 Building Cost Information Service, Life Expectancy of Building Components: A Practical Guide to Surveyors’ 
+
+Experiences of Buildings in Use, 2006.
+17 C hartered Institution of Building Services Engineers, CIBSE Guide M: Maintenance Engineering and 
+
+Management, 2008.
+18 C hris W. Scheuer, Gregory A. Keoleian and Peter Reppe, Life Cycle Energy and Environmental Performance of a 
+
+New University Building: Modeling Challenges and Design Implications, Energy and Buildings, 2003.
+19 Jennifer O’Connor, Survey on Actual Service Lives for North American Buildings, 2004.
+20 EY, Global Generations: A Global Study on Work-Life Challenges Across Generations, Detailed Findings, 2015.
+21 JLL, Disruption or Distraction: Is Flex Space Here for Good, or Just the Latest Real Estate Fashion?, 2018.
+22 PwC and Urban Land Institute. Emerging Trends in Real Estate: Europe 2019, 2018.
+23 Housing Anywhere, International Rent Index by City, available at: https://housinganywhere.com/rent-index-by-
+
+city, 2020.
+24 Entrepeneur India, 6 Reasons Why ‘Co-Living’ is The New Trend Amongst Millennials, available at: https://www.
+
+entrepreneur.com/article/320713, 2018.
+
+102  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+25 No Isolation, What is the Prevalence of Social Isolation in Europe?, available at: https://www.noisolation.com/
+global/research/the-prevalence-of-social-isolation-in-europe/, 2019.
+
+26 Forbes, Exclusive: Britain’s Co-Living King Has Raised $400m To Take On WeWork In America, available at: 
+https://www.forbes.com/sites/oliversmith/2018/03/27/exclusive-britains-co-living-king-has-raised-400m-to-take-
+on-wework-in-america/#47aa8cad9fca, 2018.
+
+27 JLL, European Multifamily Investment Market Update, 2019.
+28 Savills, Five-Fold Growth Leaves Build to Rent Set to Become a Mainstream Asset Class, available at: https://
+
+www.savills.co.uk/insight-and-opinion/savills-news/267907/five-fold-growth-leaves-build-to-rent-set-to-become-
+a-mainstream-asset-class, 2018.
+
+29 CBRE, The Rise of Investment in Multifamily Housing, 2019.
+30 Statista, Retail E-Commerce Sales Worldwide From 2014 to 2023, available at: https://www.statista.com/
+
+statistics/379046/worldwide-retail-e-commerce-sales/, 2019.
+31 Arup, The Future of Retail, 2017.
+32 The Dots, COS Concept Store, available at: https://the-dots.com/projects/cos-concept-store-88416.
+33 PR Newswire, New Research from Dimension Data Reveals Uncomfortable CX Truths, available at: https://www.
+
+prnewswire.com/news-releases/new-research-from-dimension-data-reveals-uncomfortable-cx-truths-300433878.
+html, 2017.
+
+34 The New York Times, As Amazon Moves In, Demand for Warehouse Space Climbs, available at: https://www.
+nytimes.com/2017/10/24/business/amazon-ecommerce-warehouse-demand.html, 2017.
+
+35 Deloitte, The Shed of the Future, E-Commerce: Its Impact on Warehouses, 2014.
+36 White & Case, European Logistics and Warehousing: The outlook for 2019, 2019.
+37 PwC, IFRS 16: The Leases Standard is Changing, Are You Ready?, 2016.
+38 Bloomberg, Say Hello to $3 Trillion in Forgotten Debt, available at: https://www.bloomberg.com/opinion/
+
+articles/2017-03-20/say-hello-to-3-trillion-in-forgotten-debt, 2017.
+39 Reuters, Citigroup Splashes Out on London HQ, available at: https://uk.reuters.com/article/citigroup-splashes-
+
+out-on-london-hq/citigroup-splashes-out-on-london-hq-idUKL8N21U4HO, 2019.
+40 World Economic Forum, This is What Millennials Want in 2018, available at: https://www.weforum.org/
+
+agenda/2018/01/this-is-what-millennials-want-in-2018/, 2018. 
+41 BlackRock, Larry Fink’s 2018 Letter to CEOs: A Sense of Purpose, available at: https://www.blackrock.com/
+
+corporate/investor-relations/2018-larry-fink-ceo-letter, 2018.
+42 The Energy Mix, Sustainable Investments Grow 34% Over Two Years, with Climate as Prime Motivator, 
+
+available at: https://theenergymix.com/2019/04/03/sustainable-investment-grow-34-over-two-years-with-climate-
+as-prime-motivator/, 2019.
+
+43 BNP Paribas, Energy Transition: BNP Paribas, The Number One Bank According to NGOs, available at: https://
+group.bnpparibas/en/news/energy-transition-bnp-paribas-number-bank-ngos, 2018.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  103
+
+
+
+44 Intesa Sanpaolo and Fondazione Cariplo, Press Release: For a Future-Proof Development Model, 2018.
+45 BlackRock, BGF Circular Economy, available at: https://www.blackrock.com/uk/intermediaries/
+
+products/310167/, 2020.
+46 ABN AMRO, Circular Economy, available at: https://www.abnamro.com/en/about-abnamro/in-society/
+
+sustainability/circular-economy/circular-economy.html.
+47 EIT Climate-KIC, Re-usable Buildings Pathfinder Project, 2018.
+48 DCF is defined and described within IVS 105, 50.
+49 Ellen MacArthur Foundation, Potential for Denmark as a Circular Economy, A Case Study From: Delivering the 
+
+Circular Economy – A Toolkit for Policy Makers, 2015.
+50 Arup, Living Workplace, 2017.
+51 Association of University Directors of Estates, Delivering Value from the Higher Education Estate, 2015.
+52 The King’s Fund, NHS Buildings: Obstacle or Opportunity?, 2013.
+53 UK Department of the Environment, Transport and the Regions, Demolition and New Building on Local 
+
+Authority Estates, 2000.
+54 Satu Huuhka and Jukka Lahdensivu, A Statistical and Geographical Study on Demolished Buildings, Building 
+
+Research and Information, 2006.
+55 The Times, Retail Landlord Counts Cost of Devaluations, available at: https://www.thetimes.co.uk/edition/
+
+business/retail-landlord-counts-cost-of-devaluations-0mjvvn3zv, 2019. 
+56 Business News Australia, Stockland Profits Smashed by Devaluations, available at: https://www.
+
+businessnewsaus.com.au/articles/stockland-profits-smashed-by-devaluations.html, 2019.
+57 The Guardian, Revealed: Housebuilders Sitting on 600,000 Plots of Land, available at: https://www.theguardian.
+
+com/society/2015/dec/30/revealed-housebuilders-sitting-on-450000-plots-of-undeveloped-land, 2015.
+58 Centre for London, Meanwhile, in London: Making Use of London’s Empty Spaces, 2018.
+59  Estimated based on data from p22-23 of the following report: Circle Economy, The Circularity Gap Report, 2019.
+60 Trading Economics, Italy Inflation Rate, available at: https://tradingeconomics.com/italy/inflation-cpi.
+61 What a Space, Milan: Meeting Space, available at: https://www.whataspace.it/, 2019. 
+62 Immobiliare, Rent: Milan Gym, available at: https://www.immobiliare.it/, 2019.
+63 What a Space, Milan: Event Location, available at: https://www.whataspace.it/, 2019. 
+64 Trading Economics, Denmark Inflation Rate, available at: https://tradingeconomics.com/denmark/inflation-cpi.
+65 Trading Economics, Netherlands Inflation Rate, available at: https://tradingeconomics.com/netherlands/inflation-
+
+cpi.
+66 Savills, City Special: Amsterdam, 2018.
+67 Graham Ive, Re-Examining the Costs and Value Ratios of Owning and Occupying Buildings, Building Research 
+
+and Information, 2006.
+
+104  |  From Principles to Practices: Realising the value of circular economy in real estate
+
+
+
+68 Trading Economics, Germany Inflation Rate, available at: https://tradingeconomics.com/germany/inflation-cpi.
+69 K Wang et al, Why Invest in a Reversible Building Design?, IOP Conference Series Earth and Environmental 
+
+Science, 2019.
+70 Trading Economics, United Kingdom Inflation Rate, available at: https://tradingeconomics.com/united-kingdom/
+
+inflation-cpi.
+71 The Money Advice Service, What is the Average Cost of Utility Bills Per Month?, https://www.
+
+moneyadviceservice.org.uk/blog/what-is-the-average-cost-of-utility-bills-per-month, 2019. 
+72 UK Department of Energy and Climate Change, United Kingdom Housing Energy Fact File, 2013.
+73 Market Transformation Programmee, BNWAT28 Water Consumption in New and Existing Homes, 2008.
+74 Philips, Minimize Your Environmental Footprint and Create Instant Savings, 2017.
+75 Ellen MacArthur Foundation, Kaer: Air Conditioning as a Service Reduces Building Carbon Emissions, available 
+
+at: https://www.ellenmacarthurfoundation.org/case-studies/air-conditioning-as-a-service-reduces-building-
+carbon-emissions.
+
+76 European Waster Label, Find a Product, available at: http://www.europeanwaterlabel.eu/findaproduct.
+asp?country=GB&category=&rating=A&manufacturer=&order=, 2019.
+
+From Principles to Practices: Realising the value of circular economy in real estate  |  105
+
+
+
+Arup Amsterdam
+Beta Building, Naritaweg 118
+1043 CA Amsterdam
+The Netherlands
+
+Arup Berlin
+Joachimsthaler Str. 41
+10623 Berlin
+Germany
+
+Arup Copenhagen
+Axel Towers
+Axeltorv 2k, 3rd floor
+1609 Copenhagen V
+Denmark
+
+Arup London
+13 Fitzroy Street
+London
+W1T 4BQ
+United Kingdom
+
+Arup Milan
+Corso Italia 1
+20122 Milan
+Italy
+
+Further information:
+www.arup.com
+@ArupGroup
+linkedin.com/company/arup
+
+Ellen MacArthur Foundation
+The Sail Loft
+42 Medina Road
+Cowes
+Isle of Wight
+PO31 7BX
+United Kingdom
+
+Further information: 
+www.ellenmacarthurfoundation.org 
+@circulareconomy
+linkedin.com/company/ellen-macarthur-foundation

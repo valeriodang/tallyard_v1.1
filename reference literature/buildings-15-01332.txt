@@ -1,0 +1,2864 @@
+﻿Hurd les to a circular built environment: A look at the economic and market barriers
+ 
+ 
+ 
+
+Griffith s, P., Itanola, M., Andabaka, A., & Atstāja, D. (2025). Hurdles to a circular built environment: A look at the
+econo mic and market barriers. Buildings, 15(8), 1-18. Article 1332. https://doi.org/10.3390/buildings15081332
+
+ 
+
+Link to publication record in Ulster University Research Portal
+
+Published in:
+Buildings
+
+Publication Status:
+Published (in print/issue): 30/04/2025
+
+DOI:
+10.3390/buildings15081332
+
+Document Version
+Publisher's PDF, also known as Version of record
+
+Document Licence:
+CC BY
+
+General rights
+The copyright and moral rights to the output are retained by the output author(s), unless otherwise stated by the document licence.
+
+Unless otherwise stated, users are permitted to download a copy of the output for personal study or non-commercial research and are
+permitted to freely distribute the URL of the output. They are not permitted to alter, reproduce, distribute or make any commercial use of the
+output without obtaining the permission of the author(s).
+
+If the document is licenced under Creative Commons, the rights of users of the documents can be found at
+https://creativecommons.org/share-your-work/cclicenses/.
+
+Take down policy
+The Research Portal is Ulster University's institutional repository that provides access to Ulster's research outputs. Every effort has been
+made to ensure that content in the Research Portal does not infringe any person's rights, or applicable UK laws. If you discover content in
+the Research Portal that you believe breaches copyright or violates any law, please contact pure-support@ulster.ac.uk
+
+Download date: 23/06/2025
+
+
+
+Article
+
+Hurdles to a Circular Built Environment: A Look at the Economic
+and Market Barriers
+Philip Griffiths 1,* , Moses Itanola 1 , Ana Andabaka 2 and Dzintra Atstāja 3
+
+1 Belfast School of Architecture and the Built Environment, Ulster University, Belfast BT15 1ED, UK;
+itanola-m@ulster.ac.uk
+
+2 Faculty of Business and Economics, University of Zagreb, 10000 Zagreb, Croatia; ana.andabaka@efzg.unizg.hr
+3 Faculty of Social Sciences, Riga Stradins University, 1007 Riga, Latvia; dzintra.atstaja@rsu.lv
+* Correspondence: p.griffiths@ulster.ac.uk
+
+Abstract: The circular economy is considered the best principle through which sustainable
+practices may be established. Mineral exhaustion, decarbonisation, and waste elimination
+can all be addressed through a circular economy. The built environment is one of the largest
+waste producers and a significant user of materials such as concrete and steel. However,
+there are considerable barriers to the adoption of a circular economy. The objective of
+the study was to identify, examine, and comprehend the main challenges that impede the
+implementation and scaling of circular practices within the built environment. As part of
+the CircularB network, a questionnaire was launched in 2024 to gather opinions on the
+technical, political, regulatory, cultural, societal, economic, and market barriers to circular
+economy from built environment professionals. This paper focuses on the economic and
+market barriers, which were recognised as the most important according to the insights
+of 270 respondents. The hurdles investigated include extra costs of building insurance,
+inadequate collaboration, linear public procurement, unwillingness to take back used
+components, low awareness of exchange marketplaces, and market disconnection due to
+significant transport distances. Addressing these barriers plays a crucial role in advancing a
+circular built environment, and all stakeholders must explore solutions to overcome them.
+
+Keywords: circular built environment (CBE); circular construction; circular economy;
+construction ecosystem; economic barriers; market barriers; stakeholders
+
+Academic Editor: Theodosiou
+Theodoros
+
+Received: 12 March 2025
+Revised: 12 April 2025 1. Introduction
+Accepted: 14 April 2025
+Published: 17 April 2025 Climate change and the subsequent climate emergency, finite resources and the en-
+
+vironmental impact of winning them from the earth’s crust, and increased emphasis on
+Citation: Griffiths, P.; Itanola, M.;
+Andabaka, A.; Atstāja, D. Hurdles to a sustainability through the UN Sustainable Development Goals (UN SDGs) have led to a
+Circular Built Environment: A Look at rethinking of the linear economic model, where the ultimate end product is the waste heap.
+the Economic and Market Barriers. The circular economy, as advocated by the Ellen McArthur Foundation (EMF), brings us
+Buildings 2025, 15, 1332. https:// back to an approach to resources that global society abandoned in a race for profit, efficiency,
+doi.org/10.3390/buildings15081332 and convenience. The built environment is a major consumer of resources globally. In
+Copyright: © 2025 by the authors. the EU, 5.5 tonnes of material per capita are consumed during construction [1]. In the
+Licensee MDPI, Basel, Switzerland. UK, construction and demolition waste (CDW) accounted for 62% of the material sent to
+This article is an open access article landfills in 2018 [2]. However, landfills have become an issue for local governments across
+distributed under the terms and
+
+the EU with the introduction of landfill taxes. Between 2008 and 2012, it was estimated that
+conditions of the Creative Commons
+Attribution (CC BY) license the construction sector in England paid approximately £1000 million in landfill taxes. At
+(https://creativecommons.org/ the same time, dedicated efforts to divert construction, demolition, and excavation (CD&E)
+licenses/by/4.0/). waste from landfills saved the industry £144 million [3].
+
+Buildings 2025, 15, 1332 https://doi.org/10.3390/buildings15081332
+
+
+
+Buildings 2025, 15, 1332 2 of 18
+
+The application of a circular approach to resource management in the built environ-
+ment is gaining increasing attention. The EMF has been leading the way since 2012 [4].
+In conjunction with EMF, Arup, the multinational engineering consultancy, published a
+Circular Buildings Toolkit in 2022 [5]. An EU COST Action (CircularB) was also established
+in 2022 to investigate how to implement a circular economy in the built environment [6].
+
+The transition to a circular built environment (CBE) is essential for addressing sustain-
+ability challenges, yet it faces significant market barriers rooted in stakeholder dynamics.
+The CBE promotes resource efficiency by integrating the principles of reduce, reuse, and re-
+cycle into construction and urban planning. However, the construction sector’s entrenched
+linear models and associated cultural norms hinder its adoption. These barriers include
+fragmented responsibilities among stakeholders, regulatory misalignments, and the per-
+ceived financial risks of innovative circular solutions. As part of the CircularB network [6], a
+multi-national questionnaire was launched in 2024 to gather opinions on the technological,
+regulatory, political, cultural, societal, economic, and market barriers to circular economy
+from built environment professionals.
+
+Economic and market barriers received the greatest attention from respondents in
+terms of their importance (38%), rated by 270 stakeholders ranging from academia, ar-
+chitects, engineers, professionals engaged in investment, development, and insurance,
+manufacturers of building/construction products, consultants, environmental specialists,
+and project managers, to building and construction professionals. Although this paper
+focuses on market barriers, they cannot be observed in isolation as they are deeply inter-
+related with other barriers that need to be addressed to achieve more circularity in the
+construction industry. Almost one-third of the respondents found policy and regulatory
+barriers to be critical factors hindering the upscaling of circular practices, while 17% of
+respondents perceived technical and technological barriers as a significant concern. Cul-
+tural and societal hurdles were prioritised by nearly 11% of survey participants, while
+five participants indicated that some other barriers play a crucial role in impeding the
+implementation of circular economy principles.
+
+Considering the profit-oriented nature of companies in the construction ecosystem,
+the market barriers deserve special attention, and a deeper understanding can support
+policy interventions to facilitate the transition toward a CBE. For instance, developers and
+investors often prioritise short-term returns, deterring investments in long-term sustainable
+practices [7,8]. When examining the development of theories reflected in the literature, it
+is most often mentioned that “Market barriers” are most often attributed to competitive
+product prices, exaggeratedly high investment costs, or insufficient compensation for social
+and environmental benefits, hence small or non-existent profit margins, which prevent
+companies from successfully transitioning to new markets, including the introduction of
+a circular economy. The elimination of market barriers will also solve organisational and
+cultural problems as obstacles [9].
+
+Regulatory frameworks and policy incentives play a critical role in enabling or ob-
+structing the CBE. Policymakers face challenges in harmonising legislation across regions,
+often resulting in fragmented market conditions that discourage innovation. Stakeholders,
+including architects, contractors, and municipalities, cite the lack of standardised criteria
+for circular materials and unclear financial incentives as barriers. Moreover, the absence of
+robust digital tools to track material lifecycles exacerbates inefficiencies in the transition.
+Strengthening regulatory incentives and fostering public–private partnerships can catalyse
+systemic changes, as highlighted by the Circular Cities and Regions Initiative [10].
+
+Various studies have considered the barriers to a CBE. Nordby [11] considered the
+barriers to material reuse in the construction industry in Norway. She found that the time
+to demolish buildings in a manner to recover materials was a barrier, along with the lack of
+
+
+
+Buildings 2025, 15, 1332 3 of 18
+
+documentation of these resources. She also noted that not knowing what materials will be
+available in the future limits the designers’ decision-making processes. She also cited a lack
+of professionals with the right skills as a market barrier. Charef and Lu [12] considered how
+a circular economy could be facilitated in the built environment. They point out that there
+is a lack of infrastructure for processing and storing materials and systems, which leads to
+a lack of materials that meet circular economy principles. The available resources also often
+lack the certification and product information required by designers. They also raised the
+issue of approval by insurance bodies and how the current procurement method hinders a
+circular economy. However, they envisage that the digitisation of buildings and the use of
+that information by the demolition/refurbishment industry will stimulate the market and
+provide the relevant information and certification needed for the reuse of materials.
+
+Oluleye et al. [13] considered barriers to CE in the built environment in both developed
+and developing countries. They point out that the costs of information technology and the
+development of secondary markets may be barriers to the adoption of a circular economy.
+They also noted that the perception that circular materials were inferior also acted as a
+market barrier. Their survey highlighted that the cheaper cost of virgin material was a
+significant market barrier for circular materials. They also found that market barriers
+were more prevalent in developing countries. Hassan et al. [14] identified 12 barriers that
+they considered related to the market, including labour supply, lack of synchronisation,
+perceived risks, lack of innovation capacity, past technological failures and a lack of external
+stakeholder involvement. They used a Fuzzy Delphi Method to analyse the results of their
+survey of 30 individuals with a minimum of five years of experience. The skills barrier was
+identified as a significant market barrier. Bajare et al. [15] advocated that the simplification
+of design processes, manufacturing, retrofitting and renovation to incorporate circular
+economy principles and practices was required, and again, data and building information
+were seen as key in overcoming market barriers.
+
+2. Materials and Methods
+To establish the literature in this field, six keyword phrases related to sustainability and
+
+resource management were chosen: “Circular Built Environment”, “Circular Construction”,
+“Circular Economy”, “Construction Ecosystem”, “Market Barriers”, and “Stakeholders”.
+These keywords were used to search for relevant research papers in the SCOPUS database,
+an extensive collection of academic publications. The materials were selected from 2014 to
+2024, with a regional focus on Europe.
+
+The search results were filtered to identify the most relevant studies, providing
+209 documents which were selected and analysed to gather information about when and
+where the research was conducted. The data was exported into a CSV file and then visu-
+alised using a software called VOSviewer 1.6.20 to create a visual representation of the
+research trends. By visualising this data, the researchers can gain a better understanding of
+the current state of research and identify potential gaps or areas for future study.
+
+Figure 1 shows significant connections across the circular economy field. The relation-
+ship between the circular economy and sustainable development is evident, connecting
+with other aspects like climate change, SDGs, carbon, and greenhouse gases. Literature
+reviews are dominant, resulting in the development of conceptual frameworks and models.
+Digital platforms and technologies, new business models, and supply chain optimisations
+often present required solutions to address the barriers. Decision-making and governance
+approaches by stakeholders are also vital for effective adoption.
+
+
+
+Buildings 2025, 15, x FOR PEER REVIEW 4 of 19 
+ Buildings 2025, 15, 1332 4 of 18
+
+ 
+FigureF 1ig. uCroe-o1c. cCuor-roecnccuer vreisnucaelvisiastuioalnis oaft ikoenyowfokredysw. ords.
+
+WorkWinogr wkiinthg wthiet hknthoewklendogwel eodbgtaeinoebdta firnoemd fpruomblisphuebdl islihteerdatluitreer aotnu rbeaorrniebras rtroie trhset o the
+impleimepnlteamtieonnt aotfi oan coirfcualcairr ceucloanroemcoyn, oam wyo, rakswhoorpk swhaosp hwelads ahmelodnagmsto mngesmt bmeersm obfe trhseo f the
+CircuClairrBc unlaertwB onrekt wtoo rdkevtoeldopev ae lsouprvaesyu frovre yprfoofrespsrioofneaslssi otnoa clsontosidcoenr s(i1d)e erc(o1n)oemcoicn oamndic and
+markemt abrakreritebras,r r(2ie)r tse,c(h2n) itceaclh bnaicrarilebrsa rirni ecrisrciunlacirr scyuslatermsyss, t(e3m) sso,c(i3e)tasol cainedta clualntudrcaul lbtuarrrailebrsa,r riers,
+and (4a)n pdo(l4it)icpaoll iatnicda lreagnudlaretogruyl abtaorrryiebrasr. riers.
+
+ParticPipaartnitcsi pwanertes wasekreeda tsok eiddetnotiifdye anntiyfy baanrryiebras rtrhiearts htahda tnhoat dbeneont bpereesnenptreedse innt etdhei n the
+questqiounensatiioren.n Tahiree .suTrhveeysu wrvaesy pwlaacsedp lianc ethdei nfiethlde afinedld oavnedrseoevne rbseye tnheb yEuthreopEeuarno pJoeiannt Joint
+ReseaRrcehs eCarecnhtrCe einnt rtehein lathtee slaptreinsgp/rsiunmg/mseurm omf e2r02o4f. 2T0h24e. CTihrceuClairrBc unlaertwB onrekt wmoermk bmeersm bers
+transltartaends ltahteed suthrevesyu rcvreeyatcerdea itne dEinngElinshgl iisnhtoin 1t1o 1la1nlgaunaggueasg etos  two iwdiedne nitsit sreraecahch. .FFininaalllyly, ,aa total
+total ooff 227700 rreessppoonnddeennttss ppaarrttiicciippaatteedd iinn tthhee ssuurrvveeyy. .T Thheea annaalylyssisiso of ft hthees usurvrveyeyo nonc ucultlutruarlavl alues
+valuehs ahsabs ebeenenre rpeoprotertdedb ybyR aRjčaijćčiećt eatl a. l[.1 [61]6. ]. 
+
+SevenS espveecnifsipc eqcuifiecstqiouness trieolnasterde ltaot emdatrokmet abrakrertiebrasr rwieerrse wasekreeda.s kReedsp. oRnedsepnotnsd wenertse were
+askeda stok erdatteo trhaetier trheespirornessepso inns etesrimnst eorfm asbsooflaubtes oilmutpeoirmtapnocert, avnecrey, vimerpyoirmtapnot,r atavnetr,aagvee rage
+imporimtanpcoer,t aonr cleit,toler ilmittpleorimtanpcoer,t aonr cteo, noor tteo inf othteeyif dthide yndoti dknnoowt k. nTohwe .mTahrekemt abrakrertiebrasr troie rs to
+be conbseidcoernesdid aerree dlisatreedl iinst eTdabinleT 1a. bAlet 1th. eA etntdh,e tehned r,etshpeornedsepnotnsd wenertes wasekreeda tsok endamtoen oatmheer other
+markemt abrakrertiebras.r riers.
+
+Table 1. List of economic and market barriers rated by stakeholders according to their importance.
+Table 1. List of economic and market barriers rated by stakeholders according to their importance. 
+
+No Economic and MaNrkoe tEBcaorrnieorms ic and Market Barriers 
+1 Extra costs of building Einxsturraa ncocestasn odf/ obrupilrdoifnesgs iionnsaulrinandecme nanityd/wohr epnruosfeinsgsiroencyacl lienddmematenriitayls .when using recycled mate-
+2 Inadequate collabo1r atiorniablse.t ween stakeholders and everyone involved in the value chain in transition to the circular economy.
+3 Public procuremen Inadequate collaboration between stakeholders and everyone involved in the value chain in 
+
+2t currently s pports inea business models.
+
+4 Lack of technologies antdrainnfsriatsitornu cttou rtehfeo rciprrcoumlaort iencgocnirocmulayr. buildings and construction projects. There are insufficient procurement
+strategies towards3C E-bPausebdlicm patreorciaulrsermeqeunirte cmuernrtesn. tly supports linear business models. 
+
+5 Unwillingness of compLanaiceks orf stetackhenholldoegrisesto atnakde ibnafcrkasutsreudctcuormep fonre pnrtsomoromtiantegr icailrsc.ular buildings and construction 
+
+6 Lack of knowledge4i ntoptrhoejeacvtasi.l aTbhileitrye oafr‘es eicnosnudf-fhicainedntm partoerciualrse’mcoemnpt asntireast,eagnide/s otrowexachrdans gCeEm-barakseetdpl amceast—ereia.gl.s, require-
+https://www.materialrmeuesnetpso. rtal.com
+
+7 Market disconnecti5o n dUunewtoilsliignngifinceasnst otrfa cnospmoprtadniisetas nocre sstoarkaedhdoitlidoenrasl dtoe mtaakned bfoarckm uatseerdia lcpormocpeossninegntbse foorr emreautesrei.als. 
+Lack of knowledge into the availability of ‘second-hand materials’ companies, and/or ex-
+
+6 
+change marketplaces—e.g., https://www.materialreuseportal.com 
+MarkFeitg duisrceo2nnsehcotiwons dthuee gtoe osiggrnaifpichaincta tlrdanisstproibrtu dtiisotnanocfest hoer aredsdpitoionndael ndtesm. Sanodci faolrm meadtei-a, such
+
+7 arisalL pinrokceedssIinn,g Xbe(fTowre irteteurs)e,. and Instagram, were used to promote the survey along with
+
+ 
+
+
+
+Buildings 2025, 15, x FOR PEER REVIEW 5 of 19 
+ 
+
+Buildings 2025, 15, x FOR PEER REVIEW 5 of 19 
+ 
+
+Buildings 2025, 15, 1332 Figure 2 shows the geographical distribution of the respondents. Social media, such 
+5 of 18
+
+as LFiingkuerde I2n ,s Xho (wTws tithte rg),e oangdra Ipnhsitcaaglr daimst,r wibeurteio uns eodf  tthoe p rreosmponted ethnets s. uSrovceiayl  amloendgi aw, situhc har -
+ast iLcliensk iend Inne,w Xs l(eTtwteirtst,e rd)i,r aenctd e Imnsatialsg rtoa m,e wmebrer us soefd p tro fpersosmionotael bthoed sieusr,v aenyd a tlhornogu wghit hw aor-d-
+tiacorlfet-ismc lieonsu nitnehw.n Ceslwoentstlceeertrstne, rd swi,radescir tre eacmitseeamdil saw itlohs etmone mtheebm esrbuser rovsfe oypf rwpofraeossf secisloosnisoaenld ab ltohbdaoitde stihe, sea,rnaedn w dthatrsho rauo gushigg hwniwofirocdar-dn-t 
+oofr-fem-smpooounuthsth.e  .CfrCoonomcne corenr enw cwaosau srnatrirasyies.d eR dwajwčhiehćn ee nt hatehl. e s[u1sur6v]r evuyen ywdwearsat oscolcoklso aesd esd etnhtshaitat ittvhtihetyree ra ewnwaalsay ssaia ss siogifgn tnihfiiefic acdanantt ta 
+reraesnpspdoo nfnoseus enfrdfor otmhm aoto ntnhee ecrcoeou wunnatrstyr ny. .oR Rbaaijčajičsći  aćeste  ata ral.el .s[1u[16l6t] ]oufun tndhdeer striotgoonokik faica assenentn srisetisitvpiviotiynty saean fnaraloylmysis sRi soofm ftahthne eiadd,a aatanta d 
+aanhnded nfocfoueu,n tndhd eth tdhaaatt ttaht hwereaerse w cwoaasn ssninodo ebrbieaidsa s atsoa s ab aree rvseauslulitdl to. fo tfhteh esisginginfiificacnant trersepspoonnses efrforomm RRoommaanniaia, ,aanndd 
+hheenncece, ,ththee ddaatata wwaas scoconnsisdideereredd toto bbee vvaalildid. .
+
+ 
+Figure 2. Geographic distribution of respondents.  
+
+FFigiguurer e2.2 G. Geoegorgarpaphhici cddisitsrtirbibuutitoionn oof frersepspoonnddenentst.s .
+The respondents were first asked about their profession, with a majority being from 
+
+acaTdThehme eriaere,s psspeooen ndFdeignenutstr sew w3earee,rb ef.i firTsrhts tiasas ksiske ednd oatab bsoourutp ttrhtiheseinri rgpp,r orcoofefnesssiisdoioenrn,i ,wnwgit ihtthh aa tm mthaajeoj orsirotiyctyi bable eimningeg dfrifaoro mamc -
+a
+
+acc
+c
+ao
+a
+du
+d
+en
+e
+mt
+msi 
+
+ia
+a,n
+
+,
+ sd
+
+se
+e eo
+
+e
+ u
+F
+Ft
+
+i
+ir
+g
+ge
+
+u
+ua
+
+r
+rc
+e
+eh  
+
+3
+3o
+a
+ar
+,
+,i
+b
+bg
+.
+.i n
+T
+Ta
+h
+ht
+iesisd
+
+is
+  if
+
+n
+sr o
+
+o
+nm
+
+t s
+ot 
+
+u
+ asc
+
+r
+ua
+p
+rd
+ri
+pe
+s
+rm
+ing
+isic
+
+,
+ns
+
+c
+g, 
+
+o
+,a
+
+n
+ cn
+
+s
+od
+
+i
+n 
+dist
+
+e
+i w
+rin
+dea
+
+g
+rsi nw
+
+th
+gia t
+
+t t
+thihan
+
+e
+t  tth
+
+so
+he
+
+c
+ei r
+
+ia
+s n
+
+l
+oemctiw
+
+ed
+alo
+
+i
+ mr
+
+aka
+esd 
+
+ctcih
+o
+aau at 
+
+n
+cth
+
+ts
+- e 
+
+a
+cos
+
+nd
+unrvotse
+
+u
+ ay
+
+t
+n 
+rwea
+d a
+
+c
+os
+
+h
+u tm
+
+or
+reo
+
+i
+as
+g
+ct
+i
+h 
+nsa oe
+
+teerin
+d
+g.i 
+
+f
+nT
+ro
+ah
+
+m
+te da
+
+a
+ c
+c
+fra
+
+a
+od
+d
+me
+emm aiicc
+
+c
+as
+s
+d’
+, ep
+
+an
+mrodicfse
+
+it
+,s as
+
+wino
+a
+dn
+s
+ a
+w
+itl  
+
+i
+wa
+thrae
+
+in
+sa ws
+
+t hiw
+ei
+the
+
+r
+irne
+
+n
+ t 
+e
+hd
+tw
+eria
+
+o
+rw
+
+rk
+ nns
+
+e twf
+trha
+
+omtrk tsa
+h
+ tc
+e
+hr
+
+sou
+ats s
+
+rv
+th t
+
+e
+eh
+y
+ e 
+
+w
+susrp
+
+a
+ve
+s
+ec
+m
+ytr
+
+o
+ u
+
+s
+wmt s
+
+as o
+e
+ mf
+
+e ntoh
+.
+se
+Th
+t bsu
+
+e
+eei
+
+alnt
+c a.e
+
+d
+ Tn
+
+evm
+hier o
+
+ic
+an
+
+s
+cm’ p
+ade
+
+r
+en
+o
+mt
+f.ei cO
+
+ss
+sn
+io
+’ c
+
+n
+pe
+
+a
+r oa
+
+lcafea
+r
+sd
+e
+se
+a
+iom
+s w
+niac
+
+e
+ls
+r
+ ’a 
+
+epd
+rerora
+
+afse
+w
+ wssneio
+
+fr
+rn
+
+o
+e a
+
+m
+dl ra
+
+a
+ar
+
+c
+we
+
+raon i
+s
+ s
+s
+f rm
+
+th
+oma
+
+eps
+ p
+
+p
+ace
+
+e
+rd
+c
+o,
+t
+s 
+raus g
+
+m
+thoeo
+
+o
+ d
+f  
+
+t
+spr
+
+he
+ecp
+
+b
+tre
+
+u
+usime
+
+ltne
+ ota
+
+n
+f t
+
+v
+tiho
+
+ir
+en
+o
+  
+n
+bis
+
+m
+u in
+
+e
+lto
+
+n
+ ete
+
+t.
+nd
+
+O
+v ifrr
+
+nc
+onm
+
+e a
+m acec
+
+a
+nr
+
+d
+to
+
+e
+. s
+
+m
+Os nt
+
+ihcs’
+ce ab
+
+p
+cu
+r
+ai
+o
+dl
+ftee e
+
+s
+mnsi
+
+iv
+o
+cinsr’o
+
+a
+ pn
+
+l
+rm
+ar
+ofe
+
+e
+en
+a
+stis 
+
+s
+ipormnoaf
+
+a
+le
+p
+ as
+
+psrei
+eodan, ia
+
+a
+sl ms
+
+g, oafr
+o
+po
+
+d
+pm
+
+r
+ed 
+
+eap, r
+r
+ac
+e
+ h
+s
+gieote
+
+n
+octdt
+
+a
+ s
+-, 
+
+t
+rec
+
+io
+po
+
+n
+rn
+
+i
+esu
+
+s
+enl
+
+ntti
+o
+an
+t
+tg
+e
+io 
+denn
+
+fr
+ ig
+
+o
+si
+
+m
+ neoe
+
+a
+tr
+c
+es
+r
+d,
+o
+ p
+ss
+frroo
+
+th
+mje
+
+e
+ cat
+
+b
+c m
+ui
+roaltsn
+
+e
+s a
+
+n
+tg
+
+vi
+herr bs
+
+o ua
+n
+in
+m
+ltd
+
+e
+ e t
+
+n
+nh
+
+t
+ve
+
+p
+i rp
+
+ro
+ouf
+
+nbemlsisec
+i
+n 
+oste
+
+n
+ pc
+
+atlsror,f.
+f
+e 
+r
+sS
+o
+so
+m
+i,o tnh
+
+ar
+ae
+
+c
+l ss
+
+h
+,u
+ite
+ frv
+
+c
+oetmys,
+
+  ac
+c
+ra
+o
+cn
+n
+h 
+s
+ib
+ul
+te tcs
+
+i
+ta
+n
+s,i
+
+g
+ d 
+
+e
+cot
+
+n
+no
+
+g
+s b
+
+in
+uel 
+
+e
+ta
+
+e
+in g
+
+rs
+go
+
+,
+ eo
+
+p
+nd
+r
+g 
+orj
+ie
+e
+npcertee
+
+m
+rse
+
+a
+, n
+
+n
+ptara
+
+g
+otji
+
+e
+eo
+r
+cn
+s
+t o
+
+an
+mf dath
+
+t
+nae
+
+h gi
+enp
+erd
+
+u
+su
+
+b
+ asnt
+
+lricdy .
+s
+t 
+ector. So, the survey can be said to be a good
+he public sector. So, the survey can be said 
+
+representation of the industry.
+to be a good representation of the industry. 
+
+  
+(a)  (b)  
+
+(aF)i gure 3. Profession of the respondents: (a) main profess(ibon) Figure . Profe sion of the respondents: (a) main professio, n(b, )( bp)ropfreossfeiosnsiaoln baalcbkagcrkogurnodu nodf tohfe 
+Ftiahgceuaradece a3md. iePcmsr.oi cfse.ssion of the respondents: (a) main profession, (b) professional background of the 
+academics. 
+
+Whheenn aasskkeedd hhoow muucchh eexxppeerriieennccee tthheeyy hhaadd aass aa pprrooffeessssiioonnaall,, tthhee rreessppoonnsseess,, sshhoownn 
+iinn FFWiigguhurerene 4a4asa,k, ieinnddd ihiccoaawttee dmd tuthhcaahtt  tethxhepee mriaeajnjoocrrieit tytyh oeofyf r rheesaspdpo oannsd daee npntrtsos fhheasadsdi o110n0a ttloo, t 22h00ey yreeasarprsso onofsfee esxx,p pseherroiiewennncce e 
+
+inoo rFr imguoorrreee ..4 RaR,ee issnppdooinncdadteeenndtt sst haaalsltso ot hiniend mdiciacjatoetredidt ytht hoe fel irlfeifs ecpyoccynlcdel eesntasttsga ehg aoedfo  b1fu0bi lutdoiil nd20gin syg teshaatrhts  atohtfe teyhx empyearmiinealnyinc ielny -
+oirfn lmufleuonercene.c ,Re a,esas pdsoedpneidpcetiencdttes di nal isFnoig Fiunigrduei cr4eabt4.e bTd. htehT ehm eloifmset  ocrysatctelreda ts wetadagswe  toahsfe  btphuleailndpnilnaingngsn ,it ndhgeas,t idtghenes,y iag mnnd,a aipnnrldoyc piunrr-oe--
+flcumuerenencmte s,e tanastg des te(ap4g0ice%te()4d, 0w i%nh )iF,cihwg uahlriiecg hn4bsa .wl iTgihtnhes tmhweoi tsihdt ertaohtleeodgid ywe toahslao tg hdyee spthilgaant nrdeienpsgrieg, sdneenrsetisgp tnrhe, esa evnnidttas pl trshoteacguverie tfa-olr 
+mseetmangtbe setfdaodgreien m(g4 b0e%thd)ed, iwnchgiritchuhel acrlii rgcenucslo awnroietmcho ytnh oepm irdiynepcoirlpoinlgecysip,  tlhepasat, rdptiaecrsutiiglcanur llryaer plyrergseeagnradtrsidn tihgn eg dvdeietcacilis sisiotoanngsse  wfoiitrth h 
+emmbateedrdiailngse ltehceti ocni,rcpurloajre cetcsopneocmifiyca tpiorinn,caipnldesc, olplaabrtoicrautliaornly.  Trhegeacrodninstgr udcteicoinsio(1n3s% w) aitnhd 
+
+ reuse/recovery/recycling (13%) were also rated high. Despite the essential requirement for
+ enabling circularity, raw material supply (4%) and deconstruction/demolition (2%) have
+
+
+
+Buildings 2025, 15, x FOR PEER REVIEW 6 of 19 
+ Buildings 2025, 15, x FOR PEER REVIEW 6 of 19 
+
+ 
+
+mmaatteerriiaall s seelelecctitoionn, ,p prorjoejcetc stp sepceifciicfaictiaotnio, na,n adn cdo lcloablloarbaotiroanti.o Tnh. eT choen csotrnuscttriuonct (io13n% (1) 3a%nd)  aren-d re-
+Buildings 2025, 15, 1332 uussee//rreeccoovveerryy/r/reeccyyclcilning g( 1(31%3%) w) wereer ael saols roa treadte hdi ghhi.g Dh.e Dspeistep itthee  tehses eenstsieanl trieaql urierqemuiernemt 6feonfr 1t 8for 
+
+eennaabblliinngg  ccirirccuulalarirtiyty, ,r arwaw m mataetreiaril aslu spupplyp l(y4 %(4)% a)n dan dde cdoencsotrnusctrtiuocnt/idoenm/doelmitioolnit (i2o%n )( 2h%av) eh ave 
+aa  mmiinniimmaal lr reeppreresesenntattaitoino.n I.t  Iits  ias lasols soi gsnigifnicifaincat ntht atth tahte trhee irse a ins  ianns uinffsiucifefnicti erenpt rreespenretasetinotna tion 
+ooffa  HHmVViAnAiCmC//papluurbeblpilcirc eh sheeaenlattlhath tei oneng.ignIietneiesreianrligsn o(g1s %(i1g)%n pi)fir opcfareonsftseitsohsnaiaotlntsh,a ealsrlei, gainsliiganng iiwngistu hwf firietchciee rnnettc rreeenspter raeerscsehena ttrahctaihot  nthat 
+tthhoiissf  iHinnVddAuusCsttr/rypy su sebeglgmicmehneenta tils tih so efotneftgnei nnoe voeevrrielnorgolok(o1e%kde )idnp  ricnoirf ceciusrslciaourn leaacrlo se,ncaoolmingoynm ienfygfo werftifsto h[r1tr7se] c[. e1Tn7ht]e.r  eTmsheoead rmcehroatdtheea rtate 
+iintvhoilslvvienedmueensnttr ty oofs feo gothmtheere nrp tpriosrfooeffsetsesinosinooavnlesa rlflsro oofrmkoe mdm iamnncauinfracucuftaluacrrtiunecrgio n(n9go% m()9,y% me)f,af oimnrttaesinn[1at7ne]cn.eaT n(h1ce0e% m(1)o,0 da%enr)da, t aend 
+wianssvtteoe  lmveaamnnaeagngetemmoefenontt t(h 8(e%8r%)p i)rs oi sef seesssessnieotnniatali lafslo frfro oernm esnumrsiuannrgiun cfgiar cctuiurlcraiurniltgayr (ia9tcy%r oa),scsrm othasisen  tbtheueni labdnuicnielgd (li1inf0eg%  cl)yi,fceal enc dycle 
+offw  maasatnneuumffaaaccntutaurgreeedmd ce ocnomtm(p8po%no)eninestnests. ss.e ntial for ensuring circularity across the building life cycle of
+
+manufactured components.
+
+ 
+  
+
+(a) (b)  
+(a) (b) 
+
+Figure 4. (a) Respondents’ years of experience. (b) most influenced life-cycle stage. 
+FiFgiugruer e4.4 (.a()a )RResepspoonnddeennttss’’ yyeearrs of experiienccee.. ((bb)) moosstti ninflfuluenencecdedli fleif-ecy-ccyleclset asgtaeg. e. 
+
+The level of awareness of circular economy principles was also measured to ensure 
+the quTaThlheit eyle loevfve elc looonf ftaraiwbwuaatrrieoennneess,s sss eooeff  Fcciiirrgccuuurlleaa r5r .ee cMcooonnsootm moyfy tp hpreir nirnceicspipploelnsesdw ewansatssa  lhasalosvome  meaeosaudsreuerdraettedo  (te3on4 %seun)r seure 
+ttoht eeh xeqtquenuasaliiltviytey  o(o3ff3 c%coo)nn ettrrxiipbbeuurttiiieoonnncsse,,, s saeeneedF  Fiagibguouruerte5 9 .5%M.  Maorsoet sogtfl othbf aetlhr eeexs rppeoesrnptdso,e nrndetfselenhctatsvi nehgam vao esd omelriodatd feoe(ru3an4t%de a)(-3to4%) 
+tiooe nex xtaetnnednsi sveievxpe(3 e(3r3%t3is%)ee )ix nep xetphriee rnriecsene,caaern,c dahn aadbr oeaaub.t oA9u% ts m9a%rael lag rpleor bogaplloebrxtaipol enerx tispn,edrreitcflsae,t certedifn llegimcatiistneogdl i ade xsfpoouleirndide fnaoctuieon nda-
+(t2ioa0nn%d )a,e naxdnp dee rxat pivseertiyni ssetmh ieanlr let phsreeoa rprecohsretaaiorrencah o. fAa ressmap. aoAlnl dpsemrnoaptslo lh rptaidroo nnpoion ardtwiicoaanrte eindnedlsiismc (ai1tt%eedd)  oelxrim pneoitr eiiedne caee x(2p(2%e0r)%i.e )n, ce 
+T(2ha0ins%d i)m,a apvnleiderys a t svhmaetra ytllh spem rroeapslluo plrttrsio oopnfo tohrfteir oesnusp rovofen ryde ersenpltoysn ohdnae dtnhnteso  ohapawidna inroeonn sae wosfsa s(rt1ea%nke)shosor (lnd1o%eri)sd  owerai nt(h2o %a i d)h.eigTah h( 2is%). 
+lTehv
+
+imeisl
+p
+  io
+li
+mf
+e aspwthlia
+
+a
+esr
+
+te tn
+th
+heeasts
+
+r
+ t 
+eoshfue c
+
+l
+ ri
+t
+er
+scof
+sulla
+
+th
+tsr  
+
+e
+oecsf o
+
+u
+tn
+rv
+hoe
+
+e m
+y
+suy
+
+r
+r 
+epl
+vryeiyn
+
+o
+ c
+n
+riep
+
+th
+lyle
+
+e
+ so,on p
+
+p
+ ta
+in
+hret
+
+iio c
+n
+ou
+
+s
+plia
+
+o
+nr
+fliy
+
+st
+o ni
+
+anks  
+e
+oth
+h
+f e
+o
+s 
+l
+tb
+d
+au
+
+e
+ki
+r
+el
+sth e
+
+w
+on
+
+i
+lv
+th
+dier
+
+a
+rosn
+
+h
+ wm
+
+ig
+ie
+h
+tn
+
+l
+hte a. 
+
+vel
+ high 
+
+of awareness of circular economy principles, particularly in the built environment.
+level of awareness of circular economy principles, particularly in the built environment. 
+
+ 
+Figure 5. Level of CE awareness.
+
+Figure 5. Level of CE awareness. 
+ 
+
+3. Results
+3F.i gRurees 5u. lLtesv el of CE awareness. 
+
+Among the various barriers to the implementation of a circular economy, market, and
+Among the various barriers to the implementation of a circular economy, market, 
+
+a3n.
+economic barriers ranked the highest in the survey, see Figure 6. This is interesting s other
+s duR reevceosynusol,mtfsoi cr beaxrarmieprsl er,aOnkluedle ytheee htigalh.e[s1t3 i]n,  dthide snuortvceoyn, seide eFrigthuerem 6a. Trkheits tiso ibnetetrheestihnig haess t.
+
+otHheorwAsemuvroevrne,ygths ,te hfleoit revreaxrtaiuomruepsdl ebid,aOrinrlidueilrcesay tteeo etththaaetl .bi my[1rp3e]lm,emdoivedinn tngao/ttil ocnwo neosrfii dnage crm irthcaurek lamerta berakcroertni eotroms ,byceu, lmthuaerrakl et, 
+anadn decoorngaonmisiact bioanrarilebrasr raienrksecdo uthlde bheigrhedeustc iend .the survey, see Figure 6. This is interesting as 
+
+ other surveys, for example, Oluleye et al. [13], did not consider the market to be the 
+
+ 
+
+
+
+Buildings 2025, 15, x FOR PEER REVIEW 7 of 19 
+ 
+Buildings 2025, 15, x FOR PEER REVIEW 7 of 19 
+ 
+
+highest. However, the literature did indicate that by removing/lowering market barriers, 
+hcuiglhtuersat.l  Hanodw oervgearn, itshaet iloitnearla btuarrer iderids  cionudlidca bte  trheadtu bcyed r.e moving/lowering market barriers, 
+
+Buildings 2025, 15, 1332 cultural and organisational barriers could be reduced. 7 of 18
+
+ 
+Figure 6. The importance of various barriers to the implementation of a circul ar economy. 
+FFigiguurer e6.6 T. Thhe eimimpporotratnancec eoof fvvarairoiouus sbbararrireiresr stoto ththe eimimpplelmemenentatatitoionn oof faa cicricrcuulalar reeccoonnoommyy. .
+
+RReessppoonnddeennttss wweerree aasskkeedd ttoo rraattee tthheei mimppoortratannceceo fotfh tehee xetxratrcao csotsstosf obfu biludiilndginings iunrsaunrc-e
+aanncde Respondents were asked to rate the importance of the extra costs of building insur-
+
+/aonrdp/ror fpesrsoifoensasiloinnadle minndietmy wnihtye nwusinng urseicnygc lreedcymclaetder mialast.eFriiaglusr. eF7igausrheo 7was sthhoewosv etrhael l
+aonce and/or professional indemnity when using recycled materials. Figure 7a shows the 
+rveesrpaolln sreestpootnhseeq tuoe tshtieo nq,uaenstdioFig, uanred7 Fbigshuorew 7sbh oshwowthse hdoawta wthaes dbartoak wenads obwronkaencc odrodwinng 
+
+oaverall response to the question, and Figure 7b shows how the data was broken down 
+tcocothrdeirnegs ptoo nthde nret’sspjoonbdreonlet.’s job role. 
+
+according to the respondent’s job role. 
+
+ 
+  
+
+(a) (b)  
+(a) (b) 
+FFigiguurere 7. 7(.a) T(hae)  eTxhtrea ecxotsrtas ocfo isntsuroafncines aunrdan icnedeamnndityin. d(be)m Bnrietay.kdo(wb)n Bacrceoarkddionwg nto apcrcooferdssiinognatlo 
+Fbpiagrcuokfrgers o7sui.o n(nada) .l Tbhaec kexgtrroau cnods.ts of insurance and indemnity. (b) Breakdown according to professional 
+background. 
+
+TToo aasssseessss wwhheetthheerr ththeerree wwaass aa ssigignnifiificcaannt tddififfeferreennccee bbeetwtweeeenn rreessppoonnsseess aaccccoorrddiningg toto 
+ththee jojTobob  rarooslslee,,s aas  wppaahiirerwthiiessree  tcchhheiir--sesq qwuuarsre eadd s titegessnttiw fwicaassnp tpe derfrioffforemrrmeendecdoe  nobneth ttwehed eadntaa rt,eacs,o pcmonmpsapersian ragicnctgho erthddeian dtgaa tftoa  r
+tfhoeear  cejhoabcjo hrb ojorleob,l  erao wpleiat iwhrwietahisc eh acochthhi- eosrqt.huTeahrr.e Tdrhe tseeu srltet sswusaultsgs  gpseusrgtfeogdremsttheadt  ttohhnae rtt ehthew edaraset nwao, acssoi gnmnopi fisaicrgainigtf idtchiafenfe tdr edanitfac-e 
+ffoerrr eednaeccpeh eo njord bde ernpocleien swdbeienthtcw ieeasec bnhe tothwteheereern.s  uTtlhtese  rarecescsuoulrltdtss i anscgucgotogrdetshintegdj ot obth trahotel et hj;oesbre er owTlaeab;s ls eneeo2  Tbsiaegblonlewif i2.c abnelto dwif.- 
+
+ fere ncOe voer rdaellp, e6n2%deonfciress pboentwdenents tchoen rseidsuerltesd aicncsourrdaincge taon tdhep jrobfe rsoslieo;n saelei nTdaebmlen 2i tbyetlowbe. a
+ sig nificant barrier. When investigating this barrier, there is concern that re-used products
+
+do not have certification/product guarantees. Also, professionals are concerned that
+their professional indemnity will not cover them when specifying reused/remanufactured
+materials/equipment. Among engineers, academia, and architects, there was a high
+concern about this.
+
+The liability for reused construction products is one of the most significant concerns
+when considering the implementation of a circular approach in the built environment.
+Companies are interested in reused materials and equipment, provided there is a warranty
+
+ covering them. The need to guarantee the specific properties of reused products and to
+ 
+
+transfer liability led to the development of insurance for reclaimed building materials.
+For example, a German start-up, Concular, partnered with the country’s largest insurance
+
+
+
+Buildings 2025, 15, 1332 8 of 18
+
+company, boasting a 150-year tradition, to level the playing field in terms of warranty and
+insurance between new and reclaimed construction materials. By creating this insurance
+for reclaimed materials, their second life was enabled, and their warranty was even better
+than that of new materials. Furthermore, the cost of insurance did not make reclaimed
+materials more expensive; they remained 20–30% cheaper than new ones [18].
+
+Table 2. Statistical analysis of data to determine any significant variations using pairwise
+chi-squared test.
+
+Pair Chi2 p-Value Degrees of Freedom Adjusted p-Value Significant
+Engineers vs. Public Sector 3.497866 0.478203 4 10.04226 FALSE
+Engineers vs. Academia 8.164707 0.085728 4 1.800282 FALSE
+Engineers vs. Project Managers 3.445807 0.486166 4 10.20949 FALSE
+Engineers vs. Architect 1.744512 0.782617 4 16.43496 FALSE
+Engineers vs. Business 3.263422 0.514748 4 10.80972 FALSE
+Engineers vs. Others 2.486771 0.647006 4 13.58713 FALSE
+Public Sector vs. Academia 3.320803 0.505643 4 10.6185 FALSE
+Public Sector vs. Project Managers 2.29568 0.681556 4 14.31267 FALSE
+Public Sector vs. Architect 3.643282 0.456429 4 9.585006 FALSE
+Public Sector vs. Business 1.132429 0.889093 4 18.67096 FALSE
+Public Sector vs. Others 1.585002 0.811485 4 17.04119 FALSE
+Academia vs. Project Managers 0.405088 0.982058 4 20.62322 FALSE
+Academia vs. Architect 1.409879 0.842476 4 17.692 FALSE
+Academia vs. Business 4.015701 0.403885 4 8.481588 FALSE
+Academia vs. Others 2.885466 0.577172 4 12.1206 FALSE
+Project Managers vs. Architect 1.428571 0.839214 4 17.6235 FALSE
+Project Managers vs. Business 1.909778 0.752349 4 15.79932 FALSE
+Project Managers vs. Others 2.81583 0.589103 4 12.37117 FALSE
+Architect vs. Business 3.139717 0.534722 4 11.22917 FALSE
+Architect vs. Others 1.224377 0.874069 4 18.35545 FALSE
+Business vs. Others 2.033081 0.729674 4 15.32316 FALSE
+
+Next, the respondents were asked to rate the importance of inadequate collaboration
+between stakeholders and everyone involved in the value chain in the transition to a circular
+economy. Figure 8a,b show the results, with the latter broken down according to their
+job role. Nearly half (47%) of respondents agreed that this was very important, with 28%
+
+Buildings 2025, 15, x FOR PEER REVIEW 9 of 19 
+ agreeing that this was absolutely important, giving an overall score of 75%. Again, when
+
+looking at the individual responses across the job roles, few responded that this was of little
+importance. Again, statistical analysis did not highlight any significant differences between
+atrhcehpitreocftes sasniodn bsuinsitnheesisr panrosfwesesriotonathlsi s(iqf uyeosuti oenx;clhuodwe eovtehre,rist)i shnado ttehweo lrotwhyestth raetsaprochnistee ctots 
+caonlldabboursaintieosns. p rofessionals (if you exclude others) had the lowest response to collaboration.
+
+ 
+ 
+
+(a) (b) 
+
+FFiigguurree 88. .(a()a I)nIandaedqeuqautaet ecoclolalblaobroartiaotnio bnebtwetewenee sntasktaehkoehldoelrdse irns tinhet hvealvuael ucheacinh.a i(nb.) B(bre)aBkrdeoawkdno awcn-
+caocrcdoirndgi ntog ptoropfreosfseisosnioaln baal cbkagcrkoguronudn. d.
+
+To scale up circular solutions, it is essential to establish a circular construction eco-
+system. Collaboration is needed between the public and private sectors, as well as within 
+the private sector, to enable stakeholders to partner and build a network that promotes 
+the implementation of closed-loop systems. The transfer of knowledge, along with mak-
+ing skills and resources accessible to partnering companies, fosters innovative approaches 
+and resource-efficient practices. Within the individual responses of job roles, project man-
+agers ranked inadequate collaboration as a crucial hurdle, considering their responsibility 
+for ensuring stakeholder management. 
+
+Respondents were asked to rate if an important market and economic barrier to the 
+advancement of a circular economy is that public procurement currently supports linear 
+business models. Figure 9a,b outline the results, with a total of 67% of respondents agree-
+ing that this was essential and very important. 
+
+ 
+ 
+
+(a) (b) 
+
+Figure 9. (a) Public procurement currently supports linear business models. (b) Breakdown accord-
+ing to professional background. 
+
+Public authorities own and manage large amounts of building stock. Yet, the adop-
+tion of the EU Green Public Procurement (GPP) criteria—an important driver of sustain-
+ability and decarbonisation in building and infrastructure construction—remains 
+
+ 
+
+
+
+Buildings 2025, 15, x FOR PEER REVIEW 9 of 19 
+ 
+
+architects and business professionals (if you exclude others) had the lowest response to 
+collaboration.  
+
+ 
+ 
+
+(a) (b) 
+
+Buildings 2025, 15, 1332 Figure 8. (a) Inadequate collaboration between stakeholders in the value chain. (b) Breakdown ac-
+9 of 18
+
+cording to professional background. 
+
+ToTo scsacalele uupp ccirirccuullaarr ssoolluuttiioonnss,, iitt iiss eesssseennttiiaall ttoo eessttaabblliisshh aac cirirccuulalarrc oconnstsrtuructcitoionne ceocsoy-s-
+sytestmem. C. oClolallbaobroartaiotinonis ins eneedeeddedbe btweteweenetnh tehpeu pbulibcliacn adnpdr pivraivteatsee csteocrtos,ras,s aws ewllealls aws iwthiitnhitnh e
+thper ipvraitveatsee csteocrt,otro, teon aebnlaebsleta skteahkoehldoelrdsertos tpoa rptanretrnearn danbdu biludilad nae tnwetowrkortkh atthaptr opmroomteosteths e
+thiem ipmlepmleemnetanttiaotnioonf ocfl ocsloesde-dlo-olopopsy ssytesmtems. sT. hTehetr tarnasnfsefrero fokf nkonwowleldedgeg,ea, laolnonggw witihthm makakin-g
+insgk islklsilalsn adnrde sroeusorcuersceasc caecscseisbsliebtloe tpoa prtanretrnienrgincgo mcopmanpiaensi,efso,s ftoesrtseirnsn ionvnaotvivaetivape parpoparcohaecshaens d
+anreds oreusrocue-recfefi-ecifefinctiepnrta pctriaccetsi.ceWs.i tWhiinthtihne tihned iinvdidivuiadluraels preosnpsoenssoefsj oobf jroobl erso,lepsr,o pjercotjemcta mnaagne-rs
+agraenrsk readnkineadd ienqaudaetqeucaotell acboollraabtoiorantiaosna acsr au ccriaulchiaul rhdulerd, lceo,n csoindseirdienrgintgh etihrerier srpesopnosnibsiilbitiylitfyo r
+foern esnusruinrginsgt asktaekheohldoeldremr amnaangaegmeemnet.nt. 
+
+RResepsopnodnednetnst swwereer easaksekde dtot orartaet eifi af na nimimpporotratnatn mt marakrekte at nadn deceocnoonmomici cbabrarrireire rtot othteh e
+adavdavnacnecmemenetn ot fo af  acicricruclualra receocnoonmomy yisi sthtahta pt pubulbicli cprporcoucruermemenetn ctucrurrernetnlytl ysuspuppoprotrst slinlienaera r
+bubsuisninesess smmooddeelsl.s .FFigiguurere 99aa,b,b oouuttlilinnee tthhee rreessuullttss,, wwiitthh aa ttoottaall ooff 6677%% ooff rreessppoonnddeenntstsa aggrereeein-g
+intgh atht atht itshwis aws aess seesnsteinatliaanl danvde rvyerimy ipmoprtoarntta.nt. 
+
+ 
+ 
+
+(a) (b) 
+
+FiFgiugruer e9.9 (.a()a P) uPbulbilci cpprorocucureremmeennt tccuurrreennttllyy ssuupporrtts lliinear business modellss.. (b) Brreeaakkddoownna acccoorrddin- g
+intgo tpor opfreosfseisosnioanl abla bckagckroguronudn. d. 
+
+PuPbulbicli cauauththoorirtiiteiess oowwnn aanndd maannaaggee llaarrggee aamoouunnttss ooff bbuuilidldininggs stotocckk. .Y Yete,tt,h tehea daodpotpio-n
+tioonf  tohfe tEheU EGUr eGerneePnu bPluicblPicr oPcruorceumreemnte(nGt P(GPP) Pcr)i tcerritiear—iaa—nainm ipmoprtoarntatndtr divreivreorf osfu ssutasitnaianb-il-
+abitiylitayn dadndec adrbeocanribsaotnioisnatiinonb uiilnd inbguialdnidnign fraansdtr uicntfurraestcrouncstutrruec ticoonn—strruemctiaoinn—s vroemluanitnasr y.
+
+Recently, a handbook was designed for the public sector by over 40 industry experts in
+ collaboration with renowned law firms in Germany, ensuring that the guidelines and
+
+templates for circular public procurement in construction are legally compliant. The hand-
+book showcases successful pilot projects and includes strategies for reusing materials and
+optimising processes with standards for pre-demolition audits. It focuses on reducing emis-
+sions, managing costs, and highlighting the public sector’s role in leading the transition
+to circular construction [19]. Since 2022, the Scottish Government has required annual
+reporting of the prioritisation of the circular economy in all public procurements under
+policy note SPPN 3/2022 [20].
+
+Next, the respondents were asked to rate the lack of technologies and infrastructure
+for promoting circular buildings and construction projects as necessary and whether there
+are insufficient procurement strategies for CE-based materials requirements, see Figure 10.
+This highlights the role that BIM and other such tools could have in enabling a CBE.
+
+The respondents were next asked to rank the unwillingness of companies or stake-
+holders to take back used components or materials.
+
+
+
+Buildings 2025, 15, x FOR PEER REVIEW 10 of 19 
+ 
+
+voluntary. Recently, a handbook was designed for the public sector by over 40 industry 
+experts in collaboration with renowned law firms in Germany, ensuring that the guide-
+lines and templates for circular public procurement in construction are legally compliant. 
+The handbook showcases successful pilot projects and includes strategies for reusing ma-
+terials and optimising processes with standards for pre-demolition audits. It focuses on 
+reducing emissions, managing costs, and highlighting the public sector’s role in leading 
+the transition to circular construction [19]. Since 2022, the Scottish Government has re-
+quired annual reporting of the prioritisation of the circular economy in all public procure-
+ments under policy note SPPN 3/2022 [20]. 
+
+Next, the respondents were asked to rate the lack of technologies and infrastructure 
+for promoting circular buildings and construction projects as necessary and whether there 
+
+Buildings 2025, 15, 1332 are insufficient procurement strategies for CE-based materials requirements, see F1i0goufr1e8 
+10. This highlights the role that BIM and other such tools could have in enabling a CBE. 
+
+ 
+ 
+
+(a) (b) 
+
+FFiigguurree 10.. ((aa)) Laacck of technology,, iinffrraassttrruuccttuurreea annddp proroccuureremmenent st tsrtartaetgeigeise.s(.b (b) B) Breraekadkodwown nac accocrodridn-g
+itnogp troo pfersosfieosnsaiolnbalc bkagcrokugrnodu.nd. 
+
+TDhuer rinesgptohnedpernotcsu wreemree nntexptr oacseksesd,  ptoro rcaunrke rtshcea unniwncillulidngeneexstse nodf ecdomcopnatnraiecsto orrr setsapkoen--
+hsoibldileitrys atos taackrei tbearicokn u. sTehdi scoenmspuorensenthtsa totrh me actoenrtiraalsc.t or or material supplier is accountable
+for mDauirnitnegn athnec eproovceurreamspenetc ipfireodcepses,r ipordocauftreerrsp craonje icntcdluedliev eerxyteanndde/do cronthtreatcatokre -rbeaspckono-f
+smibailtietryi aalss aa tcrthiteereinond. oTfhtihse eirnsuusree.sT thhiast atphpe rcooancthraecntocro uorra mgeastetrhieals seulepcptiloienr oisf adcucroaubnletaabnled 
+froerc omvaeirnatbelneamncaete orviaelrs a[2 s1p].ecHifoiewde vpeerr,iothde arfetleurc ptarnocjeecot fdmeliavneurfya catnudre/orsr othrec otanktera-bctaocrks otof mtaak-e
+tbearicaklsu aste dthceo emnpdo onfe tnhtesior rumsea. tTerhiiasl saprepmroaainchs  aensicgonuirfiacgaenst tbhaer rsieelrectotioenn aobfl idnugraabsleec aonndd rlief-e
+
+Buildings 2025, 15, x FOR PEER REVIEcfWoovr erreacbolvee mreadtecorinaslstr [u2c1t]i.o Hn opwroedvuecrt,s t,haes rsehlouwctnaninceF oigf umrean1u1afa. cAtufreewrsn oort acbolnetreaxcatmorpsl 1et1os  ohtfaa k1v9ee  
+ 
+
+bdaecmk ounsestdr actoemdpthoenepnottse onrt imalaftoerritahlsis rteomaadinvsa na cseiganCifiBcEan. tT bhaerrtaiekre t-ob aecnkabplrionggr aa msemcoenbdy liafen 
+fHorV rAecCovpeurmedp cmonasnturufacctitounre pr,rGodruunctdsf, oass, shhaoswcnon intr iFbiuguterde 1to1ar.e Adu fceiwng nloatnadblfiel lexwaamstpele[1s7 h]a. ve 
+demonstrated the potential for this to advance a CBE. The take-back programme by an 
+HVAC pump manufacturer, Grundfos, has contributed to reducing landfill waste [17]. 
+
+ 
+ 
+
+(a) (b) 
+ 
+
+FFiigguurree 1111.. ((aa)) Unwillingness of compaanniieesso orrs statakkeehhooldlderesrst otota tkaekeb abcakcuk suesdecdo cmopmopnoenetsnotsr omra mtearitael-s.
+r(ibal)sB. (rbea) kBdreoawkndoawccno radcicnogrdtoinpgr otofe pssroiofnesasliboancakl gbraocukngdro. und. 
+
+RReessppoonnddeennttss nneexxtt rraatteedd tthhee iimmppoorrttaannccee ooff tthhee llaacckk ooff kknnoowwlleeddggeea abboouuttt htheea avvaailialabbiliilt-y
+itoyf ‘osfe ‘csoencdo-nhda-nhdanmda mteraitaelrsi’aclso’m copmanpieasnaiensd a/nodr/eoxrc ehxacnhgaenmgea mrkaertpkelatcpelsa,cseus,c hsuacsht hase tMhea tMeraia-l
+tRereiuals eRPeuosreta Pl o[2r2ta],l s[2ee2]F, isgeuer Feig12u.re 12. 
+
+Exchange marketplaces for second-hand construction materials are required. For
+example, to develop a circular economy, reduce the amount of construction waste generated,
+and ensure its reuse, a new construction waste sorting and recycling centre, “Nomales”,
+was established in Latvia [23]. It is the only place in the country that provides and meets
+all environmental requirements. The exchange point for construction waste, building
+materials, and repair items is open to everyone. It offers free drop-off, pick-up, or exchange
+of reusable building materials, repair items, interior furnishings, and usable electrical
+
+ 
+ 
+
+(a) (b) 
+
+Figure 12. (a) Lack of knowledge of the availability of ‘second-hand materials’ companies and/or 
+exchange marketplaces. (b) Breakdown according to professional background. 
+
+Exchange marketplaces for second-hand construction materials are required. For ex-
+ample, to develop a circular economy, reduce the amount of construction waste gener-
+ated, and ensure its reuse, a new construction waste sorting and recycling centre, “Noma-
+les”, was established in Latvia [23]. It is the only place in the country that provides and 
+meets all environmental requirements. The exchange point for construction waste, build-
+ing materials, and repair items is open to everyone. It offers free drop-off, pick-up, or ex-
+change of reusable building materials, repair items, interior furnishings, and usable elec-
+trical appliances. At the exchange point, you can also exchange construction waste of a 
+certain quality for recycled soil or chips. However, the lack of awareness of these market-
+places exists, hindering widespread use. 
+
+Where companies are talking to each other, CE principles are being delivered. A re-
+cent article in New Civil Engineer explored the reuse of steel in construction projects [24]. 
+Large-scale projects in London require the calculation of embodied carbon and whole-life 
+carbon emissions, for which the CE can be beneficial. The article highlighted a recent case 
+
+ 
+
+
+
+Buildings 2025, 15, x FOR PEER REVIEW 11 of 19 
+ 
+
+ 
+ 
+
+(a) (b) 
+
+Buildings 2025, 15, 1332 Figure 11. (a) Unwillingness of companies or stakeholders to take back used components or mate-
+11 of 18
+
+rials. (b) Breakdown according to professional background. 
+
+appliRaenscpeos.nAdetnthtse neexxcth raantgede pthoein imt, ypoourtacnancea olsfo theex clahcakn gofe kcnoonwstrleudcgtieo nabwouast ttehoef aavaceilratbaiiln-
+qituya olift ‘ysefcoornrdec-hyaclnedd msoaitleoriraclsh’i pcosm. Hpaonwieesv earn,dth/oer leaxcckhoafnagwe amreanrkeestspolafctehse, sseumcha arks etthpel aMceas-
+teexriisatls ,Rheiunsdee Prionrgtawl [i2d2e]s,p sreeea Fdiguuser.e 12. 
+
+ 
+ 
+
+(a) (b) 
+
+Figure 12. (a) Lack of knowlledge off tthhee aavvaaiillaabbiilliittyy ooff‘ s‘seeccoonndd--hhaanndd mmaatteerriiaallss’’ ccoommppaanniieess aanndd//or 
+exchange marketplaces.. (b) Breakdown according to professional background.. 
+
+Where co panies are talking to each other, CE principles are being delivered. A
+Buildings 2025, 15, x FOR PEER REVIEW Exchange marketplaces for second-hand construction materials are required1.2 F oofr  1e9x -
+ aremcepnlet ,a troti cdleevinelNope wa Cciirvciul lEanr geicnoeneor mexyp,l oreredducthe ethreeu asme oofusntet eolfi ncocnosntsrtuructcitoionn wparsotjee cgtsen[2e4r]-.
+
+aLtaerdg,e a-sncda leenpsurorjee cittss rienuLsoe,n ad nonewre cqounisretrtuhceticoanl cwualasttieo snoortfienmg banoddi reedcycaclribnogn caenndtrew, h“Noloe-mliafe-
+lceasr”b,oof ‘urb w
+
+n
+ana
+
+e
+ s
+m
+m e
+
+i
+is
+s
+nt
+saioinb
+
+n
+gli
+
+s
+’s
+,
+ h
+
+f
+weohd
+
+r
+e i
+w
+rn
+
+h
+e  L
+
+ic
+40a
+
+h
+ tv
+
+t
+toi
+
+hae
+n n[
+
+C2e3Es ]o.
+c fI
+a
+ t
+n sits
+
+b
+e 
+
+e
+eth
+
+b
+l e
+
+e
+fr o
+
+n
+onefi
+
+mlyc a 
+ipa fl
+
+l
+oa
+.
+rc
+T
+me
+h ei
+
+ena
+r  t
+
+r
+dh
+ti
+ee
+c
+p 
+lceaoh
+
+rtu
+i
+mn
+g
+et
+hrlny
+
+ig
+t  t
+
+h
+sh
+
+t
+toa
+
+etdr ep
+a
+ roo
+
+re
+nvc
+
+ iOd
+en
+xefs
+
+t
+o 
+caardn
+
+sde  
+Stm
+
+of
+ree
+
+‘
+ee
+u
+tt
+
+r
+ s
+
+b
+w aael
+
+n
+rle e
+
+m
+ nrev
+
+in
+uir
+
+i
+so
+n
+engdm’ w
+
+ ine n
+h
+atena
+
+r
+ l
+
+e
+o rffe
+
+4
+iq
+0
+cut
+e i
+
+o
+rree
+
+n
+tm
+ne
+roe
+
+s
+fnitt
+
+o
+ s
+f
+in. T
+
+st
+ th
+
+e
+heee l eCxfric
+
+o
+tyh
+
+m
+ aon
+
+a
+fg Le
+
+f
+o 
+oprnomdion
+
+e
+nt
+r .f
+
+d
+ o
+
+e
+Itr  
+
+p
+wc
+
+aor
+an
+
+t
+ssm etr
+
+e
+nu
+
+n
+actbtli
+
+s
+eo
+t
+dn
+o
+  
+r
+tw
+e
+hra
+
+o
+os
+n
+ute
+
+O
+g, hb
+
+x
+ u
+fo
+thil
+
+r
+ed
+d
+ -
+
+coi
+Sntllg
+
+re
+a bm
+
+et
+ora
+
+w
+ate
+
+e
+tir
+
+r
+oi
+eanlr s
+
+e
+o, 
+u
+fa
+s
+ n
+
+e
+ld
+
+d
+ik r
+
+i
+ee
+
+n
+-mp
+
+aan
+iinrd 
+
+oiet
+fefidm
+
+ce
+ cso 
+
+riens tso
+ro
+up
+
+fi
+letan
+
+t
+n 
+itncoie 
+
+tehsv
+e
+. e
+
+C
+Aryitno
+
+y
+onthe
+
+o.fe I
+L
+rt  
+
+oon
+scff
+
+d
+he
+
+o
+erms
+
+n f.er
+I
+ e
+t
+ie
+w
+n d
+
+a
+vor
+
+solvp
+en
+e-o
+
+a
+dfb ft,
+
+l ewp
+d
+oic
+
+t
+ k
+h
+b-
+r
+uu
+o
+ip
+u
+ld,
+
+g ohinrg 
+tehsx
+
+e
+ -
+
+owc
+chol
+
+na
+l
+en
+ab
+dg
+
+o
+ e
+
+r
+b yo
+
+a
+ f
+t
+t 
+i
+hr
+o
+ee
+n
+ u
+o
+ss
+
+f
+aamb
+
+li
+el
+kee p b
+
+-m
+ruoiipl
+
+ndderi
+end
+tyg  
+
+c
+cm
+
+on
+omatspe
+
+urlai
+t
+na
+a
+yl
+nsc
+ ,w 
+
+irehe
+sp.era
+
+A
+eir
+
+n
+ t hi
+
+ottee
+h
+ m
+er
+cosn,
+
+s ti
+c
+rn
+h
+at
+e
+ce
+m
+troi
+
+eor r
+i
+r 
+n
+ef
+vuo
+ursn
+
+lv
+edis
+
+e
+ h
+d
+1i8n
+
+tw
+0g
+
+o
+0s t, 
+
+b
+oa
+
+u
+nn
+
+i
+nd
+ld
+e su
+
+in
+ s
+
+g
+oafb
+
+s
+ sl
+
+o
+te
+
+w
+e ee
+
+n
+ll.e
+
+e
+ c
+
+d-
+tbryictahl easpapmThe laslti
+
+e
+ aqn
+
+p
+uc
+
+r
+ee
+o
+ss
+p
+t.i 
+
+e
+oA
+
+rt
+nty a tsh
+
+co
+kem
+
+e de x
+p
+rec
+a
+sh
+n
+pa
+y
+on
+
+w
+ngde
+
+h
+e 
+epr
+noetsi n
+
+th
+tot,
+
+e
+  ry
+
+c
+aooteu
+
+n
+ t 
+t
+hc
+r
+ea
+ac
+ n
+
+t
+im 
+
+oar
+pls
+
+r
+oo
+e
+r 
+u
+te
+
+s
+axencdche a
+
+1
+on
+8
+f g
+0
+me0a 
+
+tcoro
+n
+
+knn
+ets
+
+e
+ tdr
+
+s
+iu
+o
+scfcoti
+
+s
+no
+t
+nn
+ee
+e w
+
+l.
+ctiaosnte d oufe  a 
+
+toc esirgta
+T
+
+niin
+h
+fi cq
+
+e
+au
+
+la
+nas
+
+t lti
+t
+rty
+q
+an 
+
+ufso
+e
+pr
+s
+o 
+trire
+
+o
+tc
+n
+ dy
+
+a
+ic
+
+s
+slte
+
+k
+ad
+
+e
+n dcseo
+
+r
+si
+e
+ lo 
+sopr r
+
+o
+a c
+
+n
+dh
+
+d
+diip
+
+en
+tiso.
+
+t snH
+t
+aool w
+
+ra
+dee
+
+t
+mv
+eet
+arhn, 
+
+e
+dth
+
+i
+ fe
+
+m
+o rl
+
+p
+ amc
+
+okra tto
+a
+efnr ia
+
+c
+awe o
+l pa
+
+f
+rroe
+
+m
+cnee
+
+a
+ss
+r
+ss
+k
+in 
+eot
+gf  
+
+d
+bth
+is
+eecfos
+
+o
+re
+n
+e m
+
+ne
+ rea
+
+c
+ur
+
+tkisee
+o
+,t
+n
+ -
+
+sep
+d
+el
+u
+ a
+
+e
+Fcige
+
+to
+us re
+
+si
+ex
+
+g
+ 1is
+
+n
+3t
+i
+.s
+fi
+ , 
+
+chainntdterrainnsgp woritddeissptarenacdes uosre.a dditional demand for material processing before
+reuseW, sheeerFei gcoumrep1a3n.ies are talking to each other, CE principles are being delivered. A re-
+cent article in New Civil Engineer explored the reuse of steel in construction projects [24]. 
+Large-scale projects in London require the calculation of embodied carbon and whole-life 
+carbon emissions, for which the CE can be beneficial. The article highlighted a recent case 
+
+ 
+
+ 
+ 
+
+(a) (b) 
+
+FiFgiugruer e131.3 (.a()a M) Marakrekte dt idsicsocnonencetciotino ndudeu etot otrtarnasnpsoprot rdt idsitsatnacnecse soro radadidtiotinoanla dl edmemanadn dfofro rmmataetreiraila l
+prporcoecsessisnign gbebfeofroer ererueuses.e (.b()b B) rBeraekadkdowown nacacocrodrdiningg toto pprorofefsesisoionnala lbbacakckggrorouunndd. .
+
+ThTehreer ecacna nbeb ea atitmime elalgag bbetewtweeenen ththe eddeceocnonstsrtuructcitoino noro rddememoloitliitoino nofo fbubuildildinignsg sanadn d
+thteh esaslael eofo rferceocvoevreerde dmmataetreirailasl,s n, enceecsessistaittaintign gthteh estsotroargaeg eofo rfercelcaliamimede dbubiuldilidnign gmmataetreiarilas.l s.
+InI nGGeremrmanayn,y f,ofor rexeaxmampplel,e t,hthe ecoconncecpept tofo fththe eUUrbrabnan MMinininign gHHuub bwwasa sddeveevleolpoepde dtot osesrevrev e
+asa sa astsotroargaeg efafcaicliitlyit ywwhehreer emmataetreirailasl scacna nbeb ererfeufurbribsihsehde danadn dstsotroerde d[1[81]8, ]r, erpeprerseesnetnintign ga a
+crucial component in the value chain for professional reuse. The Hub serves as a bridge 
+between the period after dismantling and before subsequent use, ensuring components 
+are not prematurely discarded as waste due to lack of use [25]. Reclaimed materials and 
+components from hundreds of projects are available for purchase through an online shop 
+(https://shop.concular.de/). The first Hub was established in Berlin with the support of 
+local government as part of the Re-Use Initiative of the Berlin Senate Department for Mo-
+bility, Transport, Climate Protection and the Environment (ger. Senatsverwaltung für Mo-
+bilität, Verkehr, Klimaschutz und Umwelt—SenMVKU) in collaboration with recycling and 
+waste management company Alba and circular construction company Concular [26] and 
+will serve as a role model for further hubs to be established in other large cities [18]. In the 
+meantime, a warehouse in the underground car park has been established to store, clean, 
+and refurbish the materials and give them a second life by returning them to the office 
+spaces or selling them on the open market [27]. 
+
+Finally, the questionnaire asked whether there were market barriers not included in 
+the previous questions that hindered the implementation of the circular economy in the 
+built environment. There were 21 individual replies, as depicted in Figure 14 below. The 
+most common missing barrier was the extra cost incurred with reused/recycled materials, 
+with 10 responses. The lack of digital information, such as material passports, was cited 
+by two persons. Other barriers cited included a lack of demonstration projects, different 
+barriers between countries/regions, a lack of business models, and especially a lack of rel-
+evant contracts that are able to deal specifically with reused materials. A lack of storage 
+space for material when taken off a deconstructed building was noted, and this is some-
+thing that the authors are well aware of, as it is an issue regularly mentioned in profes-
+sional forums. One barrier mentioned was timing. The authors are aware of a UK project 
+
+ 
+
+
+
+Buildings 2025, 15, 1332 12 of 18
+
+crucial component in the value chain for professional reuse. The Hub serves as a bridge
+between the period after dismantling and before subsequent use, ensuring components
+are not prematurely discarded as waste due to lack of use [25]. Reclaimed materials and
+components from hundreds of projects are available for purchase through an online shop
+(https://shop.concular.de/). The first Hub was established in Berlin with the support
+of local government as part of the Re-Use Initiative of the Berlin Senate Department for
+Mobility, Transport, Climate Protection and the Environment (ger. Senatsverwaltung für
+Mobilität, Verkehr, Klimaschutz und Umwelt—SenMVKU) in collaboration with recycling and
+waste management company Alba and circular construction company Concular [26] and
+will serve as a role model for further hubs to be established in other large cities [18]. In the
+meantime, a warehouse in the underground car park has been established to store, clean,
+and refurbish the materials and give them a second life by returning them to the office
+spaces or selling them on the open market [27].
+
+Finally, the questionnaire asked whether there were market barriers not included in the
+previous questions that hindered the implementation of the circular economy in the built
+environment. There were 21 individual replies, as depicted in Figure 14 below. The most
+common missing barrier was the extra cost incurred with reused/recycled materials, with
+10 responses. The lack of digital information, such as material passports, was cited by two
+persons. Other barriers cited included a lack of demonstration projects, different barriers
+between countries/regions, a lack of business models, and especially a lack of relevant
+contracts that are able to deal specifically with reused materials. A lack of storage space for
+
+Buildings 2025, 15, x FOR PEER REVIEW 13 of 19 
+ material when taken off a deconstructed building was noted, and this is something that the
+
+authors are well aware of, as it is an issue regularly mentioned in professional forums. One
+barrier mentioned was timing. The authors are aware of a UK project where a company
+wwahnetreed at ocoumsepmaneyta wl baenatmeds ftroo musae bmueiltdalin bgeuamndse frrdomec oan sbturuilcdtiinogn tuonedreerc tdteecmopnosrtrauryctwioonr ktos 
+etorescut ptpemorpt oarbauryil dwinogrkfsa çtoad seu.pApfotertr aw bhuicihld, itnhge tfeamçapdoer. aAryftwero wrkhsicwho, uthlde hteamvepboeraenryu wseodrktos 
+weroecutlda phoarvtea lbfereanm uesbeudi ltdoi nerge.cHt ao wpoevrtearl, ftrhaemtiem biunigldoifntgh.e Hthorweeevperro, jethctes twimaisnagl toefr etdh,e atnhdreiet 
+wpraosjencotst pwoasss iabllteerteodu, saendth iet mwaatse nrioatl spionssthibislew toa yu.se the materials in this way. 
+
+ 
+FFiigguurree 1144.. Otthheerr maarrkkeett bbaarrrriieerrss iiddeennttiififieedd bbyy rreessppoonnddeennttss.. 
+
+TThhee bbaarrrriieerrss ddiissccuusssseedd aarree ccrruucciiaall ttoo aaddvvaanncciinngg cciirrccuullaarr ccoonnssttrruuccttiioonn,, aanndd ccoommppaanniieess 
+aarree wwoorrkkiinngg ttoo oovveerrccoommee ththemem. I.nItnerteersetisntignlyg,l ym, amnayn oyf othfetshee sbearbraierrrsie arrse aardedardesdsreedss iend thine 
+HthaenHdbanoodkb ofoork CfiorrcuClairrc PullaanrnPilnagn nanindg CaonndstCruocntsiotrnu, cdteiovne,lodpeevde lfoopr ethdef pour bthliec speucbtolirc inse Gcteorr-
+minaGneyr. mThainsy h. aTnhdisbohoakn dalbsooo skeravlseos asse rav vesalausaablve arleusaobulrecere fsooru ortcheefro srtaoktheherolsdtaekrse hino lcdirecruslainr 
+ccoirncustlraurcctoionns t[r1u9c]t.i on [19].
+
+4. Discussion 
+The investigation of these economic and market hurdles to a CBE represents a new 
+
+perspective. The current political, economic and environmental situation in the world re-
+quires immediate and radical actions to ensure sustainability for future generations. A 
+bibliographical analysis of the literature showed that when talking about economic and 
+market barriers, they should not be viewed as a problem, but rather enablers should be 
+found that turn problems into opportunities. The term built environment denotes condi-
+tions shaped by human intervention and is frequently used in fields such as architecture, 
+landscape architecture, urban planning, public health, sociology, and anthropology, 
+among others. These designed environments serve as the backdrop for human actions and 
+were developed to meet human wants and requirements. One of the most important di-
+rections is the implementation of circular economy principles to the construction and 
+demolition waste cycle, as construction waste is a vital stream of untapped resources [28]. 
+Over the past year, the number of publications on the role of stakeholders in the built 
+environment, specifically in mitigating climate change, has increased rapidly. This reso-
+nates with the relevance of the survey the authors conducted and demonstrates the prob-
+lem’s global nature [28–30]. 
+
+The lack of adequate insurance coverage for reclaimed building materials has been a 
+significant barrier to achieving a CBE. However, cooperation between a construction com-
+pany and a leading insurance provider in Germany showcases a solution that encourages 
+the greater use of reclaimed construction materials while ensuring compliance with regu-
+latory requirements. This example underscores the importance of stakeholder collabora-
+tion in developing an insurance product that provides the same coverage for reclaimed 
+materials as for new materials, aligning with industry standards and legal requirements [31]. 
+
+The extra costs of using recycled or reused materials often emerge as an obstacle to 
+upscaling circular practice. However, we must stress that the costs taken into account are 
+
+ 
+
+
+
+Buildings 2025, 15, 1332 13 of 18
+
+4. Discussion
+The investigation of these economic and market hurdles to a CBE represents a new
+
+perspective. The current political, economic and environmental situation in the world
+requires immediate and radical actions to ensure sustainability for future generations. A
+bibliographical analysis of the literature showed that when talking about economic and
+market barriers, they should not be viewed as a problem, but rather enablers should be
+found that turn problems into opportunities. The term built environment denotes condi-
+tions shaped by human intervention and is frequently used in fields such as architecture,
+landscape architecture, urban planning, public health, sociology, and anthropology, among
+others. These designed environments serve as the backdrop for human actions and were
+developed to meet human wants and requirements. One of the most important directions
+is the implementation of circular economy principles to the construction and demolition
+waste cycle, as construction waste is a vital stream of untapped resources [28]. Over the
+past year, the number of publications on the role of stakeholders in the built environment,
+specifically in mitigating climate change, has increased rapidly. This resonates with the
+relevance of the survey the authors conducted and demonstrates the problem’s global
+nature [28–30].
+
+The lack of adequate insurance coverage for reclaimed building materials has been a
+significant barrier to achieving a CBE. However, cooperation between a construction com-
+pany and a leading insurance provider in Germany showcases a solution that encourages
+the greater use of reclaimed construction materials while ensuring compliance with regula-
+tory requirements. This example underscores the importance of stakeholder collaboration
+in developing an insurance product that provides the same coverage for reclaimed materials
+as for new materials, aligning with industry standards and legal requirements [31].
+
+The extra costs of using recycled or reused materials often emerge as an obstacle to
+upscaling circular practice. However, we must stress that the costs taken into account
+are mainly the cost of the material acquisition, and the environmental costs are usually
+neglected. The benefits of savings in terms of reduced CO2 emissions and lower waste
+generation are often overlooked as the buyers are primarily concerned about the costs they
+need to bear during the construction process. Nevertheless, successful circular construction
+companies serve as living proof that those benefits can be achieved along with the profit
+and that changing from the business as usual to circular practices, can make a massive
+difference for the environment, paving the way towards a sustainable future.
+
+Stakeholders are at the nexus of the built environment transition to circularity. This is
+because engaging many stakeholders, including architects, contractors, facility managers,
+waste treatment companies, insurance providers and policymakers, is vital in tackling the
+systemic hurdles they come across. Stakeholders are often active members of dispersed
+networks with different degrees of circular economy knowledge, making cooperation and
+alignment difficult [32,33], as shown by the survey results.
+
+Incorporating a pre-demolition audit into future construction processes and recording
+the reuse potential of building products through digital tools would benefit all stakeholders
+in the construction industry. This approach can assist legislators in drafting new regulations
+and provide standardised data on construction products for the private sector. Standards
+need to be developed to establish uniform and standardised processes within the industry,
+enabling the recording of building materials as a basis for evaluating their potential for
+high-quality reuse prior to demolition or renovation work. DIN SPEC 91484, developed
+by the German Institute for Standardization in collaboration with 30 leading construction
+companies, represents a notable example of good practice [34].
+
+Most often, when talking about the circular economy, waste management is mentioned
+first. The reduction of waste through the adoption of circular economy practices could
+
+
+
+Buildings 2025, 15, 1332 14 of 18
+
+result in cost savings in the long term. However, investing in infrastructure, training,
+and technology raises economic issues that become a barrier to the successful adoption
+of circular economy practices [35]. In addition, attracting more involvement of firms that
+would be financially motivated to engage in circular practices is about addressing the
+bottom line [36]. However, this is too narrow a view, as circularity should be ensured
+throughout the entire construction cycle, which additionally requires talking about quality
+requirements and guarantees [14,15,28,35].
+
+Stakeholders require design for circularity and actionable implementation across build-
+ing life cycles. On the contrary, inconsistent quality and quantity of recovered materials
+prevent equilibrium between supply and demand. Such ambiguity calls for reliable in-
+formation systems that would enable real-time monitoring and matching of aggregated
+materials. Furthermore, from the perspective of demolition contractors, additional func-
+tional capabilities that go beyond traditional responsibilities are needed, which can help
+facilitate resource diversion for new projects [30,32,34].
+
+A paradigm shift in stakeholder collaboration is pivotal for overcoming these barriers.
+Stakeholders must move beyond isolated actions to adopt holistic, multi-disciplinary
+approaches. Collaborative business models that align incentives for all players—developers,
+suppliers, and end-users—can unlock value in circular practices. For example, flexible
+leasing models for building components and integrating circularity into procurement
+criteria have proven effective in pilot projects. Education and awareness campaigns can
+further empower stakeholders to align their strategies with circular economy principles,
+fostering a culture of innovation and sustainability [7,17,37].
+
+Cooperation sets the stage for the practical application of a circular economy. In-
+dustrial Symbiosis, where one project’s waste becomes another’s resource, illustrates the
+interconnectivity of projects with material pools. The involvement of public and private
+actors can increase such efforts. For example, resources can be organised worldwide if
+there are inter-institutional cooperation policies that encourage collaboration between the
+sectors. All such ecosystems are embedded in frameworks like the Circular Construc-
+tion Ecosystems, which highlight the role of digital collaboration platforms in managing
+complex material flows. Thus, Industrial Urban Symbiosis enables all parties to pursue
+their objectives across urban and industrial landscapes, increasing resource economy and
+minimising pollution [28,38,39].
+
+The implementation of digital technologies could help reduce these issues from within.
+Digitisation and solutions on various platforms will be important in building coopera-
+tion, starting with a materials register, stakeholder networking and collaboration, and
+education solutions. Objectives like circularity not only demand extensive information
+but also necessitate significant alterations across all related sectors. These traits indicate
+that circularity is intrinsically linked to the digital transformation of the entire system,
+similar to how digitalisation has revolutionised communication, entertainment, social
+interactions, and more. Circularity must incorporate fully integrated digital information of
+the built environment and weave it into the core of its processes, acting as the connective
+framework among various elements, stakeholders, and actors. This would represent a vital
+focus area for subsequent studies, serving as a logical progression from this survey and its
+findings [40–42].
+
+In reflecting upon the outcomes of this research study, the authors acknowledge that
+the vocabulary used in some of the questions may have limited/directed the responses
+given in the survey. For example, in the first question—“Extra costs of building insur-
+ance and/or professional indemnity when using recycled materials”—the use of the term
+recycled may have limited responses to materials that were being sent for significant
+reprocessing. However, in an open-ended question regarding additional barriers, the
+
+
+
+Buildings 2025, 15, 1332 15 of 18
+
+respondents used the term “reused materials” to refer to the extra costs of such materials,
+confirming their awareness of the difference. It may have been better to use terms devel-
+oped by Potting et al. [43], such as reused, repurposed, remanufactured, etc. This highlights
+the need for the adoption of Potting’s 10R language in the CBE.
+
+The survey was conducted within a clearly defined scope, focusing specifically on
+economic, market, technical, and cultural barriers to the implementation of circular prac-
+tices in the built environment. While the research draws on insights from a broad range of
+stakeholders, its reliance on self-reported data introduces potential limitations related to
+respondent interpretation. Furthermore, the study does not explore regulatory or environ-
+mental barriers in-depth, nor does it assess circularity from a design or life-cycle analysis
+perspective. Broader urban sustainability themes, such as long-term spatial adaptability
+and flexibility or the role of cities as dynamic material reservoirs, are acknowledged as
+highly relevant but lie outside the focus of this research. These dimensions, while impor-
+tant, merit separate inquiry to fully capture their systemic implications. Future research
+could build upon the present findings by integrating cross-disciplinary perspectives that
+address the regulatory, architectural, and ecological aspects of circular urbanism.
+
+5. Conclusions
+Although the authors had planned to focus on market barriers in this article, they
+
+cannot be observed in isolation. They are closely linked to other hurdles that need to be
+addressed to achieve greater circularity in the construction sector by initiating digitalisation
+processes and promoting collaboration with stakeholders.
+
+The survey results demonstrate the urgency of the problem, highlight its relevance,
+and show the different attitudes of different regions. A selection of the scientific literature
+shows that too little has been demonstrated regarding the analysis of the opinions and
+practices of built environment stakeholders, the risks of market barriers, and possible
+solutions. Lack of previous experience and fear of additional costs hinder circularity in all
+sectors. Successful achievements are based on stakeholder identification and engagement
+at all levels.
+
+The research highlighted that market barriers were considered to have the most signif-
+icant impact. The main means to overcome these barriers is by turning them into enablers
+and opportunities, some of which may involve new market approaches. Amongst the mar-
+ket barriers, the liability of reused products and related warranties and insurance for reused
+materials/systems raised significant concerns. The reliance on a linear model in public
+procurement was also considered significant. However, EU and national governments are
+working to develop guidelines and templates for circular procurement.
+
+This research has highlighted knowledge of material availability and actual resource
+flows. Companies already exist that act as banks of circular materials. Not all construction
+materials suit such banks and are best removed from one site for immediate reuse elsewhere.
+For urban mining to be successful, better knowledge and collaboration are required across
+the industry to counter systemic problems like supply chain fragmentation and resource
+waste. There are opportunities for new entrants to join this field as factors facilitating
+material flows.
+
+Materials costs tend to neglect environmental costs. Hence, while new materials can
+sometimes be cheaper than circular materials, the embodied carbon and environmental
+degradation linked to material extraction are not factored into new materials. If the
+environmental impact of all materials were factored into material costs, this would reduce
+the attractiveness of new materials. The EU circular economy action plan and national and
+international standards which are being developed will establish uniform processes across
+industry and, where practical, international borders to enable a CBE market.
+
+
+
+Buildings 2025, 15, 1332 16 of 18
+
+Technology can be an enabler in overcoming these barriers. Material passports deliv-
+ered through BIM tools and pre-demolition/pre-retrofit audits should be mandatory for
+all buildings, building up a database of resources in the urban landscape. Flexible leasing
+and new ownership models will drive manufacturers/construction companies to retain
+responsibility for the maintenance of products they produce across the lifespan.
+
+Policy dimensions and economic sustainability are essential parameters for addressing
+the market aspects in a CBE. High startup costs in the development of infrastructure and
+technology appear to be a burden, but in the long run, the returns and environmental
+impacts are worthwhile. Subsidies and tax exemptions, coupled with favourable policies,
+help bring high-level circular economy aims into practical form. With proper assistance,
+satellite actors can practice the circular economy, thereby working towards the aggregate
+goal of a built environment that is resource-efficient and environmentally friendly.
+
+Author Contributions: Conceptualization, P.G., M.I. and A.A.; methodology, P.G. and A.A.; statistical
+analysis, P.G.; formal analysis, M.I.; data curation, M.I.; writing—original draft preparation, P.G., M.I.,
+A.A. and D.A.; writing—review and editing, P.G., M.I., A.A. and D.A.; visualisation, M.I. and D.A.;
+supervision, P.G. All authors have read and agreed to the published version of the manuscript.
+
+Funding: This research received no external funding.
+
+Institutional Review Board Statement: The online survey was conducted anonymously, ensuring
+that no personal information was collected. All respondents provided written consent for the
+collection and analysis of the data. The data collection process fully complies with the provisions of
+the General Data Protection Regulation (GDPR) and was approved by the European Joint Research
+Centre (JRC).
+
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+
+Data Availability Statement: The original contributions presented in the study are included in the
+article; further inquiries can be directed to the corresponding author.
+
+Acknowledgments: The authors gratefully acknowledge all experts, interviewees, and responders
+who kindly contributed their time and effort to the completion of this study. This article is based upon
+work from COST Action CA21103—Implementation of Circular Economy in the Built Environment
+(CircularB), supported by COST (European Cooperation in Science and Technology). Additionally,
+the authors would like to thank Dominik Campanella, cofounder and CEO of Concular, who shared
+his insights on overcoming barriers to circular construction during one of the webinars organised
+by CircularB.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+References
+1. World Economic Forum. 6 Nature-Positive Circular Economy Strategies to Transform Europe’s Built Environment. 2024.
+
+Available online: https://www.weforum.org/stories/2024/09/circular-economy-built-environment-europe/ (accessed on
+26 November 2024).
+
+2. Woollacott, E. The Big Problem of Building Waste and How to Tackle It. BBC News, 17 September 2021. Available online:
+https://www.bbc.co.uk/news/business-57899572 (accessed on 26 November 2024).
+
+3. Adams, K. CD&E Waste: Halving Construction, Demolition and Excavation Waste to Landfill by 2012 Compared to 2008. Report
+023. Green Construction Board. 2014. Available online: https://www.constructionleadershipcouncil.co.uk/wp-content/uploads/
+2023/08/GCB-GIG-Waste-progress-report-2008-2012-Final-Summary.pdf (accessed on 5 December 2024).
+
+4. Ellen McArthur Foundation. Reimagining Our Buildings and Spaces for a Circular Economy. 2022. Available online: https:
+//www.ellenmacarthurfoundation.org/topics/built-environment/overview (accessed on 26 November 2024).
+
+5. Arup. Circular Buildings Toolkit. 2022. Available online: https://ce-toolkit.dhub.arup.com/ (accessed on 26 November 2024).
+6. COST. CA21103—Implementation of Circular Economy in the Built Environment (CircularB). Available online: https://www.
+
+cost.eu/actions/CA21103/ (accessed on 27 November 2024).
+
+
+
+Buildings 2025, 15, 1332 17 of 18
+
+7. Adabre, M.A.; Chan, A.P.C.; Darko, A.; Edwards, D.J.; Yang, Y.; Issahaque, S. No Stakeholder Is an Island in the Drive to This
+Transition: Circular Economy in the Built Environment. Sustainability 2024, 16, 6422. [CrossRef]
+
+8. RICS. A Circular Built Environment: From Principles to Practices. 2019. Available online: https://www.rics.org/news-insights/
+wbef/a-circular-built-environment-from-principles-to-practices (accessed on 16 January 2025).
+
+9. Cong, R.G.; Thomsen, M. Review of ecosystem services in a bio-based circular economy and governance mechanisms. Ecosyst.
+Serv. 2021, 50, 101298. [CrossRef]
+
+10. Circular Cities and Regions Initiative. Barriers and Recommendations to Scale the Circular Built Environment. 2023. Available
+online: https://circular-cities-and-regions.ec.europa.eu (accessed on 16 January 2025).
+
+11. Nordby, A.S. Barriers and opportunities to reuse of building materials in the Norwegian construction sector. IOP Conf. Ser. Earth
+Environ. Sci. 2019, 225, 012061. [CrossRef]
+
+12. Charef, R.; Lu, W. Factor dynamics to facilitate circular economy adoption in construction. J. Clean. Prod. 2021, 319, 128639.
+[CrossRef]
+
+13. Oluleye, B.I.; Chan, D.W.M.; Olawumi, T.O.; Saka, A.B. Assessment of symmetries and asymmetries on barriers to circular
+economy adoption in the construction industry towards zero waste: A survey of international experts. Build. Environ. 2023, 228,
+109885. [CrossRef]
+
+14. Hassan, A.M.; Negash, Y.T.; Hanum, F. An assessment of barriers to digital transformation in circular Construction: An application
+of stakeholder theory. Ain Shams Eng. J. 2024, 15, 102787. [CrossRef]
+
+15. Bajare, D.; Zsembinszki, G.; Rizaov, D.; Tambovceva, T.; Cudečka-Purina, N.; Atstāja, D.; Kaewunruen, S.; Kripa, D.; Nano, X.;
+Marangos, O.; et al. Circular Value Chain Management—Barriers and Opportunities. In Circular Economy Design and Management
+in the Built Environment; Springer Tracts in Civil Engineering; Bragança, L., Ed.; Springer: Cham, Switzerland, 2024. [CrossRef]
+
+16. Rajčić, V.; Lin, Y.-H.; Laban, M.; Tsikaloudaki, K.; Ungureanu, V. Cultural and Societal Challenges for Circular Strategies
+Implementation. Sustainability 2025, 17, 220. [CrossRef]
+
+17. Itanola, M.; Griffiths, P.; Motawa, I. Closing the loop in building services: A systematic review of circular economy applications.
+Build. Serv. Eng. Res. Technol. 2024. [CrossRef]
+
+18. Campanella Dominik. CircularB Stakeholder Webinar Series–Investors, Developers, and Insurance Providers. Hosted on BUILD
+UP YouTube. 2024. Available online: https://www.youtube.com/watch?v=nHdX0JfgZrA (accessed on 13 January 2025).
+
+19. Goerke, A.K.; Braus, C.; Campanella, D.; Blindow, F.; Schäufele, J.; Hildebrand, L.; Steinlein, R.; Benk, T. Handlungsempfehlung
+für die öffentliche Hand: Zirkuläres Planen und Bauen mit Fokus auf die Wiederverwendung von Bauprodukten. 2024.
+Available online: https://concular.de/wp-content/uploads/2024/12/2024_Concular_Handlungsempfehlung_oeffentliche_
+Hand_Wiederverwendung.pdf (accessed on 13 January 2025).
+
+20. Scottish Government. Public Procurement—Taking Account of Climate and Circular Economy Considerations: SPPN 3/2022.
+Available online: https://www.gov.scot/publications/public-procurement-taking-account-of-climate-and-circular-economy-
+considerations-3-2022/ (accessed on 25 January 2025).
+
+21. Big Buyers Initiative. Public Procurement of Circular Construction Materials. Key Takeaways from the Big Buyers Initiative
+Working Group. 2020. Available online: https://circulars.iclei.org/wp-content/uploads/2020/09/BBI-CCM-lessons-learned.pdf
+(accessed on 15 February 2025).
+
+22. Material Reuse Portal. Available online: https://materialreuseportal.com/ (accessed on 20 January 2025).
+23. Waste To Resources Latvia. Launched Latvia’s First Construction Waste, Building Material and Repair Item Exchange Point.
+
+2023. Available online: https://wastetoresources.kem.gov.lv/en/news/launched-latvia-s-first-construction-waste-building-
+material-and-repair-item-exchange-point (accessed on 13 January 2025).
+
+24. Smart, B. Why Is Steel Reuse Uptake Low Despite Proven Benefits? New Civil Engineer, 31 January 2025. Available online:
+https://www.newcivilengineer.com/in-depth/why-is-steel-reuse-uptake-low-despite-proven-benefits-31-01-2025/ (accessed
+on 13 February 2025).
+
+25. Urban Mining Hub Berlin. Available online: https://urbanmininghub.berlin/ (accessed on 25 February 2025).
+26. Concular, Berlin Urban Mining Hub. Available online: https://shop.concular.de/collections/concular-lager (accessed
+
+on 25 February 2025).
+27. PRISMA. Refurbishment Neu Gedacht: Nachhaltigkeit bis ins Detail (LinkedIn Post & Image Attached). 2024. Available online:
+
+https://www.linkedin.com/feed/update/urn:li:activity:7274815625431060480/ (accessed on 16 January 2025).
+28. Cudecka-Purina, N.; Kuzmina, J.; Butkevics, J.; Olena, A.; Ivanov, O.; Atstaja, D. A Comprehensive Review on Construction and
+
+Demolition Waste Management Practices and Assessment of This Waste Flow for Future Valorization via Energy Recovery and
+Industrial Symbiosis. Energies 2024, 17, 5506. [CrossRef]
+
+29. Nissanka, S.C.; Malalgoda, C.I.; Amaratunga, D.; Haigh, R. Role of the built environment stakeholders in climate change
+adaptation. Int. J. Disaster Resil. Built Environ. 2024, 15, 649–667. [CrossRef]
+
+30. Fernando, N.; Jayathilake, P.; De Silva, M.; Gunathilake, W.; Devapura, N.; Wise, B. Built environment stakeholders and climate
+change adaptation: The case of Sri Lanka. Int. J. Disaster Resil. Built Environ. 2024, 15, 636–648. [CrossRef]
+
+
+
+Buildings 2025, 15, 1332 18 of 18
+
+31. Wehner, B.; Campanella, D.; Martin, K. Reclaimed Construction Material Insurance (RCMI): Paving the Way for the
+Large-Scale Adoption of Reclaimed Construction Materials. Circular Building Coalition. 2024. Available online:
+https://cdn.prod.website-files.com/6540cf880126ab97b2f349fc/65d3cb3524ced419a5361368_240215-Whitepaper-Concular-
+Reclaimed_Construction%20_Material_Insurance.pdf (accessed on 13 January 2025).
+
+32. Senaratne, S.; Rodrigo, N.; Almeida, L.M.M.C.E.; Perera, S.; Jin, X. Systematic Review on Stakeholder Collaboration for a Circular
+Built Environment: Current Research Trends, Gaps and Future Directions. Resour. Conserv. Recycl. Adv. 2023, 19, 200169.
+[CrossRef]
+
+33. Mangaroska, V. Circular Built Environment as International Concept of Sustainable Innovation. In Proceedings of the Zbornik
+Radova sa Nacionalne Konferencije sa Med̄unarodnim Učešćem—Zelena Gradnja 2024, Niš, Serbia, 5 June 2024; University of
+Niš, Faculty of Civil Engineering and Architecture: Niš, Serbia, 2024; pp. 169–173.
+
+34. Interreg Europe. Pre-Demolition Audits (PDA). 2024. Available online: https://www.interregeurope.eu/good-practices/pre-
+demolition-audits-pda (accessed on 10 January 2025).
+
+35. Atstaja, D.; Cudecka-Purina, N.; Koval, V.; Kuzmina, J.; Butkevics, J.; Hrinchenko, H. Waste-to-Energy in the Circular Economy
+Transition and Development of Resource-Efficient Business Models. Energies 2024, 17, 4188. [CrossRef]
+
+36. Mohamed Rahla, K.; Bragança, L.; Mateus, R. Exploring the Sustainability Performance of Circular Business Models in the Built
+Environment. IOP Conf. Ser. Earth Environ. Sci. 2024, 1402, 012031. [CrossRef]
+
+37. Circle Economy. Barriers and Recommendations to Scale the Circular Built Environment. 2018. Available online: https:
+//circle-economy.com (accessed on 10 February 2025).
+
+38. Yu, Y. Circular Construction Ecosystems: Designing a Circularity Information Platform for the Built Environment. Ph.D. Thesis,
+University of Twente, Twente, The Netherlands, 2024.
+
+39. Kiesnere, G.; Atstaja, D.; Cudecka-Purina, N.; Susniene, R. The Potential of Wood Construction Waste Circularity. Environments
+2024, 11, 231. [CrossRef]
+
+40. Shojaei, A.; Naderi, H. Blockchain Technology for a Circular Built Environment. In A Circular Built Environment in the Digital
+Age; Circular Economy and Sustainability; De Wolf, C., Çetin, S., Bocken, N.M.P., Eds.; Springer International Publishing: Cham,
+Switzerland, 2024; pp. 213–228. ISBN 978-3-031-39674-8.
+
+41. De Wolf, C.; Çetin, S.; Bocken, N.M.P. A Circular Built Environment in the Digital Age; Circular Economy and Sustainability;
+Springer International Publishing: Cham, Switzerland, 2024; ISBN 978-3-031-39674-8.
+
+42. Atstāja, D.; Purvin, š, M.; Butkevičs, J.; Uvarova, I.; Cudečka-Purin, a, N. Developing E-Learning Course “Circular Economy” in the
+Study Process and Adult Education. E3S Web Conf. 2023, 371, 05025. [CrossRef]
+
+43. Potting, J.; Hekkert, M.P.; Worrell, E.; Hanemaaijer, A. Circular economy: Measuring innovation in the product chain. In
+Planbureau voor de Leefomgeving; Universiteit Utrecht: Utrecht, The Netherlands, 2017; p. 2544.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

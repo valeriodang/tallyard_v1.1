@@ -1,0 +1,1325 @@
+﻿A Study on the Carbon Cost of Cat A
+
+Fit Out /     / 
+Rip Out 
+A Study on the  
+Carbon Cost of Cat A
+
+/ 1 /
+
+
+
+Thank you to the individuals and 
+organisations listed below, your insight 
+and expertise has been invaluable. Contents
+Emily Samoluk British Land Samantha Carlsson Derwent London Fit Out Rip Out	 6
+Hannah Farahar British Land Cornelia De Boinville EDGE The problem	 10
+David Perowne CBRE Dan Gaunt Knight Frank Cat A case studies	 14
+Andy Heath C Squared Jonny Lee Knight Frank
+
+What’s up-front with Cat A? 	 16
+Richard Ford C Squared Nils Rage Stanhope PLC
+
+The carbon cost of Cat A	 18
+Seonaid Butler C Squared Budelia Probert Watt The Office Group
+
+Net to Gross through the eyes of Cat A	 20
+Andy Tyler Cushman & Wakefield Nick Corbyn The Office Group
+
+‘Baked In’ vs ‘At Risk’	 22
+Alice Basili Derwent London Thomas Gardner AHMM
+Benjamin Lesser Derwent London How many lives does Cat A have?	 24
+Kane Lewis Derwent London Lasting influence	 26
+
+How much room do you need to swing Cat A?	 32
+Authors Graphics by Edited by Drivers	 36
+Ella Smith     CONTACT HERE Pablo Jorge  Laura Berman 
+Dr. Craig Robertson  So , what do we do?	 38
+
+The  cat (A) is out of the bag	 43
+References	 44
+
+Morelands Copyright © 2024 Allford Hall Monaghan Morris Limited
+5-23 Old Street  
+London EC1V 9HL All rights are reserved and no part of this publication may 
+T +44 (0)20 7251 5261 be reproduced or distributed in any form or by any means, 
+www.ahmm.co.uk  or stored in a database or retrieval system, without the V 1.2
+
+www.ahmm.co.uk/profile/sustainability prior written permission of the author. Mar 2024
+
+/ 2  / / 3 /
+
+
+
+© Rob Parrish
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+Fit Out // Rip Out
+Hours of detailing and summed up, the carbon Net Zero Carbon Toolkit ¹ With the effects of climate 
+coordination, large cost they incur typically goes to analyse recent Cat A fit change becoming more 
+amounts of materials, and unquantified. The construction out projects, the Building frequent and devastating, 
+months of manufacturing industry continues to deepen Performance Team at AHMM the need for change is more 
+go into creating Cat A fit its understanding of the has been able to provide urgent than ever. Conscious 
+outs for speculative offices. carbon emissions associated much needed data. Through of this, the built environment 
+Fit outs which, too often, with the manufacture, conversations with industry has made commitments, set 
+come to their untimely end assembly, and construction of stakeholders, the team sought targets, and created guidance, 
+only weeks after practical the built environment, however to understand the drivers such as Architects Declare ², 
+completion, only to be the carbon impacts of Cat A behind the current practices. the RIBA 2030 Climate 
+replaced by a new tenant’s fit outs are not typically fully Challenge ³ and the LETI 
+bespoke specification. accounted for. The aim of sharing the findings Climate Emergency Design 
+
+in this report is to support the Guide 4. 
+This pattern of fit out - rip out This study explores the argument for radical change 
+is then repeated across the life carbon impacts of the industry within the speculative office All of the above state the need 
+of a building, in line with tenant standard approach to the market, and to demonstrate for reducing the embodied 
+turnover. design, construction, and the consequences of the carbon emissions associated 
+
+marketing of speculative office current paradigm. with construction; Cat A fit 
+While the wasted resources space and examines the outs are no exception.
+used to create these effects of continued tenant 
+temporary Cat A fit outs can turnover on whole life carbon. 
+be traced, and expenditure By utilising AHMM’s Delivering 
+
+/ 6  / / 7 /
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+The limited 
+data available 
+on Cat A makes 
+
+// it difficult to 
+understand the 
+scale of the 
+problem
+
+/ 8  / / 9 /
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+The problem
+es
+
+di
+
+The industry standard practice of Cat A fit out - rip out  st
+u
+
+// Table 1  se
+
+generates waste over the life time of a building. re r ca
+Elements within types of fit out defined by the BCO Co Flo
+
+o
+d d  in
+
+ 
+
+an * ed
+ell
+
+ 
+ell
+
+ an
+t A
+
++ ud
+Sh Sh Cat 
+
+A
+Ca Cat 
+
+B
+cl
+
+In
+
+The nature of a speculative office means it is designed tenants. This boundary is a legal one, but it also plays a Main building structure
+to appeal to as wide a market as possible. Not only key role in determining a tenant’s scope for personalising Vertical circulation, toilets, lift lobbies, common cores
+do building owners look to attract potential tenants a space with Cat B fit out. Table 1 identifies which side Base build plant and equipment (terminated at each floor)
+with high-end office space, but assurances that key of the tenant/landlord boundary building elements sit, Life safety incl. sprinkler tanks and main alarm panel
+performance parameters will be met also need to be and what is included within the following categories of 
+
+Temporary fire alarms and sprinklers (if needed)
+made for market satisfaction. Commonly used definitions development: 
+
+Finishes to office faces of core and external walls
+refer to parameters set by the British Council for Offices 
+
+Shell and Core includes the construction of the building 
+(BCO) and include everything from operational comfort 
+
+structure and external envelope, as well as core services 
+temperatures to toilet provision. These requirements can 
+
+which are terminated where they enter lettable areas, Raised access floors inc. sealing of slab below
+lead to a generic Cat A fit out which, whilst designed to be 
+
+finishes to communal areas, vertical circulation and toilets. Temporary space lighting  
+as flexible as possible, typically cannot meet the specific 
+
+Life safety core infrastructure is also installed e.g. sprinkler Suspended ceiling
+needs of an eventual tenant-specific Cat B fit out, thus 
+
+tanks. Lettable spaces are provided as simple structural Skirting
+beginning the cycle of fit out - rip out.
+
+shells. Cooling and heating systems
+
+Waste is potentially generated at two points in the life Shell and Floor includes Shell and Core provision plus Office ventilation systems
+
+cycle of a fit out: providing both raised access floor and temporary lighting Uniform lighting
+to lettable floor areas. Fire alarms, sprinklers and emergency lighting
+
+1. Initial leasing of the space Category A (Cat A) provides additional elements to the Distribution boards
+When marketing a building, it is frequently necessary to lettable space. It includes raised access floors, and basic Energy meters x
+illustrate to prospective tenants how a space is ready finishes to floor and core walls. It also extends central Office carpet
+for their Cat B fit out and demonstrate the potential of services across the lettable floorplates including lighting, Floor boxes
+the space. However, with this marketing fit out being ventilation, heating and cooling. Anti-glare blinds
+purposely generic to appeal to a wide audience, it is often 
+
+Category A+ (Cat A+) creates a ready-to-go office space Basic statutory signage
+far from what the eventual tenant wants. As a result, 
+
+provided by the landlord including Cat A, plus cellular 
+this initial fit out is often ripped out and replaced with an Basic security system to common areas
+
+spaces, furniture, and services. 
+interior bespoke to the client. Creation of cellular spaces
+
+Category B (Cat B) is usually fitted out by the tenant and Upgrade to core finishes
+
+2. Subsequent tenant turnover includes: finishes to floors and walls including bespoke Internal partitioning
+
+An office space can be occupied by many tenants over branding; IT services; and furniture. Floor finishes
+
+the life of a building. This can result in an accelerated Decoration and branding
+turnover of Cat A, as incoming tenants rip out the Despite these well-defined requirements, the exact Furniture
+existing installation and replace it with their own bespoke specification of a Cat A fit out can vary, with influences Mechanical, electrical, and lighting upgrade
+specification more suited to accommodate their Cat B. from the target market and location of the building, to 
+
+Feature lighting
+This issue can be further compounded by dilapidation aesthetic and service design strategies. This variety of 
+
+IT and communications equipment
+clauses which require outgoing tenants to reinstate the approach to Cat A delivery is the key focus of this study, 
+
+Adaptation of life safety systems
+landlord’s initial specification which is then inevitably, once with analysis of case study projects demonstrating the 
+again, ripped out by a new tenant. consequences of different design choices on upfront and Security equipment installation
+
+whole life carbon. The results highlight the misalignment Feature connections between floors
+
+The British Council for Offices (BCO) Guide to of carbon responsibility across the building life cycle, with 
+Specification 5 also defines the boundaries of responsibility emissions over the life of a building split between 
+in a building: which parts will remain the responsibility of landlords and tenants. *    Cat A+ defined by the BCO as plug-and-play. 
+
+  Elements not included as not part of case study designs
+the landlord and what will be handed over to incoming  x   Elements not included
+
+/ 10  / / 11 /
+
+TENANT DEMISE LANDLORD DEMISE   
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+Why How Limitations
+There is currently limited data available to understand the This study aims to address the lack of definition between Data from Environmental Product Declarations (EPDs) was This study uses a small sample size, using four case 
+carbon emissions associated with Cat A fit out. Despite the reporting of Cat A and Base Build emissions, by associated with the material quantity take offs to establish studies to represent four models of Cat A fit out. The 
+Cat A carbon being counted in Whole Life Carbon focusing only on elements within the lettable floor area. upfront carbon emissions associated with each case designs shown are not an exhaustive representation, 
+Assessments (WLCA), the structure of these models Four AHMM case studies have been selected for analysis, study design. These are reported as the RICS stage A1- with many more variations of Cat A possible. Therefore 
+means the data is easily lost within wider building carbon as representative examples of the central London office A3 carbon emissions, which are the emissions associated this study aims to set out an approach that can be used 
+figures. This makes it difficult to fully evaluate the benefits market, each with differing approaches to delivering with the extraction and transport of materials, and by the wider industry to quantify the carbon impact of 
+of choosing a more ‘light touch’ approach to fit out. high end, verifiable Cat A fit out. The study explores how manufacturing of the components for a building. various type of Cat A, leading to more transparency in the 
+
+these differences in approach impact upfront carbon, speculative office market. 
+The Royal Institution of Chartered Surveyors (RICS) sets and considers the lasting influence of fit out design on A key aspect of investigating the carbon impact of the 
+out the scope for WLCA models6, assigning all parts of whole life carbon when viewed alongside potential tenant different approaches to Cat A fit out is understanding This study only examines elements within the tenant demise 
+a building into element categories. As demonstrated in turnover. The case studies, categorised as Substantial, the elements that are at risk of being ripped out by an that the landlord retains responsibility for. It does not include 
+Figure 1, elements within Cat A fit out span across two Significant, Slender, and Subtle, range from a more incoming tenant to accommodate their own bespoke operational carbon, as operational efficiency is influenced 
+of these categories: ‘3 Finishes’ and ‘5 Services’. The traditional fit out design with servicing hidden above a interior. For the purposes of this study, these elements by the whole building strategy, so not specifically reflective 
+RICS provides guidance on how Cat A can be split into suspended ceiling, to designs with fully exposed soffits were categorised as ‘At Risk’. All other elements were of the Cat A design. However, it is important to recognise 
+these categories, but does not propose a standardised and servicing. Each design approach is summarised in categorised as ‘Baked In’, as they would typically be the wider context of the building within which these fit outs 
+mechanism for reporting these figures independently of Figure 2 and further illustrated in Figures 3 - 6. retained and integrated into an incoming tenant fit out. exist. Systems such as building servicing strategies can 
+those associated with the base build. It is therefore left to impact the strategy, subsequent carbon emissions, and 
+the individual assessor to make this distinction. Not having Material data was taken from late stage architectural ‘At Risk’ elements are critical in demonstrating the operational efficiency of a Cat A fit out. 
+a formalised structure to report Base Build and Cat A fit and mechanical, electrical and plumbing (MEP) building potential impact of the repeated fit out - rip out cycle on 
+out emissions separately makes it difficult to identify where information modelling (BIM) models for a typical floor of whole life carbon. A potential tenant turnover scenario The cost variation between the four case studies has 
+carbon savings can be made, despite their serving very each case study project. Care was taken to measure and is mapped across a hypothetical 60-year lifespan for not been included in this study. Cost heavily influences 
+different roles within a building. include fixings and connections which may not usually be each case study building. A worst case carbon scenario decision making in the design and delivery of projects, 
+
+picked up in more extensive whole life carbon models. is assumed at each tenant turnover, in which ‘At Risk’ and a well established approach exists for costing Cat A fit 
+This was done using guidance set out in The Chartered elements are ripped out and replaced in their entirety, even outs and subsequent Cat B tenant expenditure. This study 
+Institution of Building Service Engineers (CIBSE) TM where part-replacement of an element could be possible. focuses on the less developed area of understanding, but 
+65 7, which provides a methodology for calculating the These patterns are then compared to the RICS standard can provide the basis for further exploration into how cost 
+embodied carbon in building services. This data was then methodology, which sets out typical replacement rates for and carbon impact for Cat A fit out is related.
+processed for export into OneClick LCA, the industry elements across the life of a building.
+standard carbon accounting platform. 
+
+// Figure 2 
+Cat A classification of the four AHMM case studies 
+
+ 5 Services Substantial Significant Slender Subtle
+ Base Build
+
+ 5 Services  Supply air is delivered A displacement ventilation Supply air is delivered High level air supply is 
+ Cat A through high level ductwork strategy is used, supplying through high level ductwork combined with openable 
+
+to localised fan coil units air through the raised access to localised fan coil units windows to provide a mixed-
+providing heating and floor. providing heating and mode ventilation strategy. 
+cooling. cooling. Heating and cooling is 
+
+Recirculating fan coil units on provided via the thermally 
+ 3 Finishes 
+ Base Build Services and sprinkler system the soffit provide heating and Services and sprinkler activated concrete soffit 
+
+are concealed by a uniform cooling. system are exposed, as well and fan coil units can be 
+ 3 Finishes  suspended ceiling. Lighting as cable trays for the soffit installed where larger cooling 
+ Cat A and ventilation panels are Fan coil units are concealed hung lighting. loads are required. Trench 
+
+integrated into ceiling. above bespoke acoustic rafts heaters integrated into the 
+with integrated lighting. Anti- Anti-glare blinds are installed. raised access floor line the 
+
+Anti-glare blinds are installed. glare blinds are installed. perimeter. Anti-glare blinds 
+// Figure 1 are installed.
+
+Elements in the Base Build and Cat A fit out 
+share the same RICS categories 
+
+/ 12  / / 13 /
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+Cat A case studies
+Elements within each Cat A fit out design
+
+Substantial Slender
+// Figure 3 // Figure 5
+
+Full ceiling Exposed services
+
+Supply air provided through Exposed soffit Supply air provided through 
+Suspended metal ceiling fan coil units, with integrated and services fan coil units, with integrated 
+
+with integrated lighting heating and cooling heating and cooling
+and ventilation grilles Soffit hung light fixtures 
+
+and cable trays
+
+Anti-glare Anti-glare 
+blinds Extract ductwork blinds Extract ductwork 
+
+at high level at high level
+Sprinkler Sprinkler 
+
+system Raised access floor system Raised access floor
+
+Significant Subtle
+// Figure 4 // Figure 6
+
+Exposed services with rafts Embedded services
+
+Thermally activated concrete 
+Extract ventilation Heating and cooling soffit for heating and cooling
+
+at high level Surface mounted 
+provided through light tracks
+recirculating fan coil units
+
+Anti-glare Anti-glare 
+Bespoke metal blinds Supply and extract 
+
+blinds acoustic rafts with ductwork at high level
+integrated lighting Mixed mode ventilation 
+
+Sprinkler with openable windows
+system Supply air provided through Raised access floor with 
+
+raised access floor perimeter trench heaters
+
+/ 14  / / 15 /
+
+
+
+`
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+What’s 
+up-front 
+with 
+Cat A? 
+
+/ 16  / / 17 /
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+The carbon 
+cost of Cat A
+Aesthetic and servicing choices have a big impact on the // Figure 8 
+
+Upfront carbon emissions associated with each Cat A fit out case study
+carbon emissions associated with constructing Cat A fit out. Total Upfront Carbon
+
+120.00
+
+The RICS stage A1-A3 carbon emissions have been supports a plug-in option for FCUs if required for particular 
+calculated for the four Cat A fit outs within AHMM- environments, for example meeting rooms that have higher 
+
+LETI 2020 Design Target
+designed commercial buildings, to understand the heat gains. Aesthetic choices also influence the amount 104
+influence of design on upfront carbon. Figure 7 shows of carbon emissions for each model. The Slender and 100.00
+how the upfront carbon emissions across the four projects Subtle Cat A fit outs have exposed soffits and services, 92
+vary greatly, from 58kgCO2/m² for the Subtle fit out, to and have emissions of around 2 - 4kgCO2/m²  for ceiling 
+92kgCO2/m² for the Significant fit out. elements, compared to the Substantial model which has 
+
+a suspended ceiling required to create a uniform and 80
+80.00
+
+For each case study, the upfront carbon has been uninterrupted surface, contributing 16kgCO2/m². While the 
+categorised by elements as defined by the BCO definition Significant option has exposed soffits, it also has bespoke 
+of Cat A features. These are outlined in the key of Figure ceiling rafts that integrate fan coil units, lighting, and 66
+8. A clear trend across all designs is the notable impact acoustic absorption, resulting in a carbon contribution of 
+of raised access floor (RAF), contributing 29kgCO2/m² to 6kgCO2/m². 60.00 58
+the Substantial, Slender, and Subtle designs. The graph 
+shows that the carbon impact of RAF in the Significant Even in its most pared back form, the contribution of Cat 
+Cat A model is slightly higher than the other three models, A fit out to a building’s upfront carbon is considerable. 
+contributing 42kgCO2/m². The Significant model has The Low Energy Transformation Initiative (LETI) has set 
+
+40.00
+a deeper floor void to accommodate the underfloor targets for the upfront carbon of new build projects. The 
+displacement ventilation system which, in turn, reduces 2020 target of 600kgCO2/m² is broken down by building 
+the amount of ventilation ductwork required. In the other category: substructure, superstructure, facade, MEP, and 
+three models, high levels of ductwork are required to finishes, along with the carbon associated with transport and 
+provide on-floor ventilation. construction of the building, shown in Figure 7. Elements 20.00
+
+within a Cat A fit out span across the MEP and Finishes 
+Heating and cooling equipment contributes a considerable categories, which are estimated by LETI to contribute 
+amount of carbon in the Substantial, Significant, and 104kgCO2/m² to the building total. As well as elements within 
+Slender Cat A models. These three models all rely on the lettable floor area, this figure includes MEP and finishes 
+
+00.00
+fan coil units (FCUs) to provide heating and cooling. for the landlord spaces. As is evident in Figure 8, Cat A is UG‐C SP UG 1PS
+Despite ventilation being provided through the floor in the responsible for a large portion of these emissions. Substantial Significant Slender Subtle
+Significant model, there is still ductwork associated with 
+the FCUs. The ducts for these are insulated and wrapped // Figure 7 
+
+Breakdown of the LETI 2020 Upfront Carbon target Ventilation Systems ‐ Ductwork
+in additional aluminium, so despite fewer linear metres of Uniform Lighting ‐ Light Fitting
+ductwork, they still contribute 10kgCO2/m². A5 Uniform Lighting ‐ Control Panel
+
+A4 Uniform Lighting ‐ Cable Tray
+Finishes
+
+The Subtle Cat A model has the lowest emissions 104kgCO2/m
+2 Statutory Signage ‐ Emergency Exit Signage
+
+MEP MEP and Finishes Key Floor ‐ Raised Access Floor
+associated with heating and cooling equipment. This 
+
+600kgCO2/m
+2 
+
+model uses pipework set into the concrete soffit to provide Facade Fire alarms, sprinklers and emergency lighting ‐ Smoke Detector
+Uniform  Heating  Fire Alarms, Sprinklers Electrical  
+
+LETI 2020 Upfront Lighting Ceilings Fire alaramnsd,  Csporoilninkglers and emeargnedn Ecmy elirgghetnicnyg  L‐i gPhiptienwgork Supply
+heating and cooling through activated thermal mass, trench Building Target Superstructure Fire alarms, sprinklers and emergency lighting ‐ Alarm System
+heaters within the floor provide additional heating around   Light Fitting   Acoustic Raft Electrica l S uTApBpsly P ‐ip Ceownortkrol Panel  Smoke Detectors   Control Panel   Ventilation Ductwork
+
+  Control Panel   Concrete SealaEnlet ctrica l S uCpabplley a ‐n dC aCbalbele T Trraayy   Alarm System   Cable and Cable Tray   Anti-Glare Blinds
+the facade combined with openable windows to form 
+
+  Cable and Cable Tray   Suspended Ceiling   Trench Heater   Sprinkler System   Basic Security
+part of the cooling strategy. These measures mean the Ceiling ‐ Suspended Ceiling
+
+Substructure   Fan Coil Unit   Raised Access Floor
+Subtle model does not rely on fan coil units, but instead Ceiling ‐ Acoustic Raft
+
+  Pipework   Emergency Exit Signage
+Ceiling ‐ Concrete Sealant
+
+  Ductwork
+Basic Security ‐ ‐
+
+/ 18  / Anti‐Glare Blinds ‐ ‐ / 19 /
+Cooling and Heating Systems ‐ TABs
+Cooling and Heating Systems ‐ Cable Tray
+Cooling and Heating Systems ‐ Trench Heater
+Cooling and Heating Systems ‐ FCU
+Cooling and Heating Systems ‐ Pipework
+Cooling and Heating Systems ‐ Ductwork
+
+kgCO2/m²
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+Net to Gross through 
+the eyes of Cat A NIA of a typical floor in each 
+
+case study
+Effective 100% Net to Gross
+
+The Net to Gross ratio of an office space is important to acknowledge, as 
+the carbon emission calculations can change depending on the scope of 
+internal space being measured.
+
+core
+r a
+
+le a e
+The four case study projects are real buildings of differing This Net to Gross ratio has been used to calculate the The coloured regions illustrated in Figure 10 denote the lettab
+
+size and complexity, with Net to Gross ratios ranging from carbon totals in this study. To test the impact of this area used to calculate the carbon totals for each option. 
+82% to 87% for typical office floors. This variation in floor variation between buildings, the carbon cost per square The NIA of a typical floor measures the lettable floor GIA of a typical floor in 
+plate efficiency can skew the reported carbon data. The metre of the four case studies were calculated against area in which Cat A is installed, reporting the actual per each case study
+commercial real estate industry typically reports carbon different area metrics as illustrated in Figure 9: square meter rate of each Cat A design. For the sake Substantial : 87%
+data of a Cat A fit out in relation to the Gross Internal Area of comparison this has an effective Net to Gross ratio of 
+
+ Net Internal Area (NIA) of a typical floor in each Significant : 85%
+(GIA) of the whole building within which it sits. An average 100%. If carbon figures are rationalised over the GIA of 
+
+case study Slender : 87%
+Net to Gross ratio of 73% for a speculative commercial a typical floor, the size of the core in relation to lettable 
+
+ GIA of a typical floor in each case study Subtle : 82%
+office was established using AHMM’s database of area then comes into play. The case study projects have 
+
+ GIA of an average typical floor of 86% Net to Gross 
+riation
+
+completed projects. Net to Gross ratios ranging from 82-87%. To provide a fair 
+based on four case studies
+
+comparison of the carbon numbers, an average Net to core va
+
+// Figure 9  GIA of an average whole building of 73% Net to r
+Effect of Net to Gross Ratio on reported Cat A figures l
+
+lettab e a ea
+Gross of 86% for a typical floor has been calculated 
+
+Gross based on four case studies
+Effect of Net to Gross Areas on Carbon Figures from the four options. The most typical figure used for 
+
+reporting carbon figures is the GIA of a whole building. 
+140 140 This has a lower Net to Gross than a typical floor due to 
+
+the ground floor being given over to none lettable floor 
+125 area, such as reception space. Figure 9 shows that as the GIA of an average 
+
+120 Net to Gross ratio gets smaller so do the carbon figures. typical floor
+110  86% Net to Gross
+
+107 107 LETI 2020 Design Target
+104 It is interesting to note that the carbon cost per square 
+
+100 95 93 meter is higher than the LETI 2030 targets for the 
+92 91 Substantial case study when using the NIA ratio, and core
+
+rea
+80
+
+80 79 77 79 for the Significant case study when using NIA and both 
+le a
+
+GIA ratios. To ensure the data generated from this study lettab
+
+66 68
+65 was most comparable to the industry standard way of 
+
+reporting, as well as LETI and RIBA 2030 targets, the 
+60 58 GIA of an average 
+
+Net to Gross ratio figure of 73% was used. However, 
+whole building
+
+examining this more closely, it is clear that the true carbon 
+73% Net to Gross
+
+40 cost of fit out is disguised by the reporting methods used 
+by the profession.
+
+20 core
+
+lettable area
+
+0 0
+Upper Ground w Ceiling Soho Place Upper Ground 1 Portwall Square
+
+Substantial Significant Slender Subtle // Figure 10 
+Net to Gross ratios change depending on core
+
+kgCO2/m2 ‐NIA kgCO2/m2 ‐ As Calculated kgCO2/m2 85% NtG kgCO2/m2 73% NtG LETI Whole Building Target
+how much of the building is referenced in i n
+the calculation. Coloured regions denote ept o
+
+rec
+the areas used for carbon calculations.
+
+/ 20  / / 21 /
+
+kgCO2/m²
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+‘Baked In’ vs ‘At Risk’
+Considering the likelihood of elements within Cat A fit out that // Figure 11
+
+Upfront carbon split with elements above the axis ‘At Risk’ of being ripped 
+may be ripped out by incoming tenants can have a big impact out by a tenant and elements below the axis considered ‘Baked In’
+
+on life cycle carbon. Totall  Upfront  Carbon
+60..00
+
+One of the fundamental issues of Cat A fit out is its Items such as lighting, soffit mounted MEP equipment, 
+impermanence within a building. Over many years and and ceiling finishes (bespoke rafts or uniform suspended 45
+tenant changes, with multiple stakeholders and project ceilings) are categorised as ‘At Risk’, as they are 
+
+40.00
+teams recrafting the space, the thread of responsibility for more likely to interfere with a tenant’s Cat B fit out or .
+
+35
+the carbon impact of Cat A is difficult to trace. programmatic requirements. 
+
+29
+
+However, it is possible to make design decisions for The repeated replacement of ‘At Risk’ elements over a 
+the base build that will positively impact the carbon building’s lifetime will have a drastic impact on a building’s 20..00 17
+outcomes of an office fit out, making space easier and whole life carbon, so it is critical to understand how to 
+less costly to adapt throughout the life of a building. By mitigate this. 
+embedding functions which would typically be within a Cat 
+A specification into the base build, there would be fewer Figure 11 shows a clear difference in the proportion of ‘At 
+
+0.00
+elements at risk of being ripped out and replaced with Risk’ to ‘Baked In’ elements across the four case studies. .
+
+tenant changes. The Substantial model has the highest carbon value of 
+‘At Risk’ elements, with over 50% of embodied carbon of 
+
+To investigate this further, this study has categorised the Cat A fit out potentially wasted due to elements being 
+the elements of all four case studies as either ‘At Risk’ ripped out with future tenant changes. The Subtle model ‐‐20..00
+or ‘Baked In’. ‘At Risk’ elements are those which would has the lowest carbon value of ‘At Risk’ elements, with 
+typically be ripped out through the tenant turnover over two thirds of its embodied carbon emissions being 
+process, and ‘Baked In’ elements are those that can be ‘Baked In’. Two key reasons for this model’s good results 
+retained and reused by each incoming tenant. are that all parts of the heating and cooling strategy are 
+
+‐40.00 35
+considered ‘Baked In’ and the pipework for the thermally ‐ . 37
+
+41
+Figure 11 shows the same carbon data as Figure 8, activated slab is literally baked in to the concrete structure.
+separating the ‘At Risk’ and ‘Baked In’ elements, showing 
+them above and below the X axis respectively. Categorising the elements of a Cat A fit out in this way 
+
+provides a framework to better understand where carbon ‐‐6600..00 57
+Raised access floors have been categorised as ‘Baked savings can be made in relation to the tenant turnover 
+In’ for all case studies, as a floor can accommodate most cycle across a building’s whole life. Substantial Significant Slender Subtle
+fit out designs and, as such, does not require replacing 
+between tenants. Services such as ventilation ductwork Venttiillattiion  SSyyssttemss  ‐‐  Duccttworrkk
+and trench heaters are also considered ‘Baked In’ as they Uniifforrm  LLiighttiing  ‐‐  LLiightt  FFiittttiing
+
+Uniform Lighting ‐ Control Panel
+are integrated within the floor system. if r  Li ti  ‐  tr l  l
+
+Uniifforrm  LLiighttiing  ‐‐  Cablle  Trrayy
+SSttattuttorryy  SSiignage  ‐‐  Emerrgenccyy  Exxiitt  SSiignage
+
+For the Substantial, Significant, and Slender models an Key FFlloorr  ‐‐  Raiissed  Accccessss  FFlloorr
+on floor sprinkler system forms part of the fire strategy. FFiirre  allarrmss,,  ssprriinkkllerrss  and  emerrgenccyy  lliighttiing  ‐‐  SSmokke  Detteccttorr
+
+Uniform  Heating  Fire Alarms, Sprinklers Electrical  
+This is considered to be ‘Baked In’ as it forms part of the Lighting Ceilings FFiirre  allarramnssd,,   Cssporroiilninkkgllerrss  and  emearrgnedn Eccmyy  elliirgghettniicnyg   L‐‐i  gPhiiptienwgorrkk Supply
+
+essential life safety systems. These are generally adapted FFiirre  allarrmss,,  ssprriinkkllerrss  and  emerrgenccyy  lliighttiing  ‐‐  Allarrm  SSyyssttem
+  Light Fitting   Acoustic Raft   TABs Pipework   Smoke Detectors   Control Panel   Ventilation Ductwork
+
+Electrical Supply ‐ Control Panel
+to suit a tenant’s bespoke fit out, rather than being l ctric l S ly ‐  tr l  l
+
+  Control Panel   Concrete Sealant   Cable and Cable Tray   Alarm System   Cable and Cable Tray   Anti-Glare Blinds
+Elleccttrriiccall  SSuppllyy  ‐‐  Cablle  Trrayy
+
+replaced in their entirety.   Cable and Cable Tray   Suspended Ceiling   Trench Heater   Sprinkler System   Basic Security
+Ceiilliing  ‐‐  Suspended Ceiling S  sFan Coil U nit ili   Raised Access Floor
+Ceiilliing  ‐‐  Ac cous Pipstetiwicc Rafo rk ftt   Emergency Exit Signage
+Ceiilliing  ‐‐  Conc  Ducrcrettwte or SkSeallantt
+Bassiicc  SSeccurriittyy  ‐‐  ‐‐
+
+/ 22  / Anttii‐‐Gllarre  Blliindss  ‐‐  ‐‐ / 23 /
+Coolliing  and  Heattiing  SSyyssttemss  ‐‐  TABss
+Coolliing  and  Heattiing  SSyyssttemss  ‐‐  Cablle  Trrayy
+Coolliing  and  Heattiing  SSyyssttemss  ‐‐  Trrencch  Heatterr
+Coolliing  and  Heattiing  SSyyssttemss  ‐‐  FFCU
+Coolliing  and  Heattiing  SSyyssttemss  ‐‐  Piipeworrkk
+Coolliing  and  Heattiing  SSyyssttemss  ‐‐  Duccttworrkk
+
+kgCO2/m² baked in at risk kgCO2/m²
+
+
+
+`
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+How 
+many 
+lives 
+does  
+Cat A 
+have?
+
+/ 24  / / 25 /
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+London would have approximately eight different tenants to over half of the life cycle carbon target of 750kgCO2/m
+2  
+
+over a 60 year period, and therefore eight cycles of Cat A fit stated by the RIBA 2030 Challenge.
+
+Lasting influence out potentially being ripped out and replaced. Figure 13 also includes the carbon emissions predicted 
+when using the RICS methodology (shown in green), 
+
+To understand the implications of Cat A on whole life which calculates the total carbon emissions as 
+carbon, the carbon data from the two case studies were 189kgCO2/m
+
+2. The 281kgCO2/m
+2 disparity between the 
+
+mapped against the DeVono lease pattern information, two methods of calculating carbon emissions suggests 
+An office space will have many tenants over the life of a using AHMM’s Delivering Net Zero Toolkit.  that the current industry standard approach might not be 
+building, each adapting the space to their own needs. providing an accurate picture.
+
+In Figure 13, the carbon emissions related to the initial, 
+speculative Substantial Cat A fit out are shown by the 
+
+The RICS WLCA framework assumes that elements speculative Cat A fit out is often ripped out within months first bar prior to Practical Completion (PC) with ‘At Risk’ 
+specified and installed during the construction of a building of a building’s practical completion and the fit out - rip and ‘Baked In’ elements illustrated in orange and beige 
+will be left in-situ until the end of their service life. Despite out cycle can happen at a much faster rate in line with respectively. The study assumes that ‘At Risk’ elements // Table 2  
+the WLCA framework stating an expected lifespan, or outgoing and incoming tenants. RICS replacement rates
+
+within the Cat A fit out will be ripped out and replaced with 
+Reference Study Period (RSP), of 10 years for isolated each new tenancy, and that ‘Baked In’ elements, having Raised access floor 30 years
+fit out projects, when considering the life cycle carbon According to commercial property agent DeVono 8, the remained in-situ for the length of their service life, are Suspended grid ceiling 25 years
+impacts of a building at the start of its life, consideration typical lease length of a small office (up to 10,000 square replaced after 30 years. Space heating and air treatment 20 years
+for this fit out cycle is not included. Instead, elements feet) in the City of London is 5.1 years, with BNP Paribas 
+
+Central cooling systems 15 years
+within the initial fit out design are assumed to remain in line Real Estate stating that approximately one third of lease On this basis, the Delivering Net Zero Toolkit calculates 
+with their service life, ranging between 15 and 40 years agreements are renewed9. Using these timescales as a Galvanised ductwork 40 years
+
+that the carbon emissions from the fit out - rip out cycle of 
+depending on the item (Table 2). In practice, however, guide, this report assumes that an office space in central a Substantial level fit out could reach 470kgCO2/m
+
+2 over Electrical installations 30 years
+
+the life of the building. In this scenario, Cat A contributes Light fittings 15 years
+
+Substantial
+// Figure 12 // Figure 13
+
+Elements within the Substantial Cat A fit out Comparison of RICS replacement rates to potential tenant fit out - rip out 
+categorised as ‘Baked In’ vs ‘At Risk’ pattern for Substantial fit out, with lease size up to 10,000 square feet
+
+500 ‘At Risk’ elements 470
+‘Baked In’ elements
+
+RICS methodology
+
+Cat A replacement 281 RICS 
+underestimation
+
+at lease end
+
+Cat A replacement 
+At Risk Baked In Speculative Cat A fit at end of element 
+
+out replaced by tenant 
+specific design Baked In elements service life
+
+replaced at end of 
+Suspended ceiling Sprinkler system element service life
+
+and lighitng 189
+
+Heating and 
+ventilation systems
+
+Anti-glare blinds
+
+Raised access floor Tenancy 1 T2 T3 T4 T5 T6 T7 T8
+
+0
+
+PC building life 60 years
+Speculative Cat A fit out at Potential tenant turnover of 5.1 years, 
+the start of the buildings life every third lease agreement is renewed
+
+/ 26  / / 27 /
+
+kgCO2/m²
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+Designing minimal Cat A solutions into the base 
+build can have an influence on whole life carbon.
+
+When calculating whole life carbon emissions of the Subtle and occupier led alterations and design decisions over the design concrete core cooling into the base build. This 
+fit out case study, using AHMM’s Delivering Net Zero years. Introducing the classification of ‘Baked In’ versus might encourage incoming tenants to leave the thermal 
+Toolkit with the same assumed lease pattern and rip out ‘At Risk’ provides an additional layer of information that mass exposed and be less reliant on mechanical systems, 
+scenario, not only is the upfront carbon emissions figure can help inform teams from the outset, so that decisions thereby discouraging the unnecessary addition of materials 
+lower, but the whole life carbon emissions are reduced by can be made for the base build that minimise the carbon on the ceiling.
+250kgCO2/m
+
+2. impact of the fit out - rip out cycle throughout the building’s 
+life. It is important for all stakeholders to appreciate how 
+
+Figure 15 illustrates how the proportion of ‘Baked In’ to decisions made for base build architecture can encourage 
+‘At Risk’ elements can affect the cumulative impact of For example, if a building is designed to be reliant on fan leaner and lighter tenant fit outs across the lifespan of 
+tenant turnover and the associated Cat A fit out - rip out coil units that are provided within the Cat A specification, buildings. 
+cycle, and how the design of the base build can influence tenants will be required to install them within their own fit 
+the carbon performance throughout a building’s life. out and may be more likely to rip out and replace those 
+
+provided in the speculative fit out. 
+Once a building has reached practical completion and 
+has been contractually handed over, the original design An alternative approach demonstrated by the Subtle 
+and construction team are rarely involved with landlord model, is to utilise the thermal mass of the building and 
+
+Subtle
+// Figure 14 // Figure 15
+
+Elements within the Subtle Cat A fit out categorised as Comparison of RICS replacement rates to potential tenant fit out - rip 
+‘Baked In’ vs ‘At Risk’ out pattern for Subtle fit out, with lease size up to 10,000 square feet
+
+500 ‘At Risk’ elements
+
+‘Baked In’ elements
+
+RICS methodology
+
+Cat A replacement 
+at lease end
+
+At Risk Baked In 231
+Baked In elements 
+replaced at end of 
+
+Speculative Cat A fit element service life
+Lighting Thermally activated out replaced by tenant 99 RICS 
+
+slab specific design underestimation
+
+Ventilation ductwork
+132
+
+Cat A replacement 
+Anti-glare blinds at end of element 
+
+service life
+Raised access floor
+
+Tenancy 1 T2 T3 T4 T5 T6 T7 T8
+Trench heaters 0
+
+PC building life 60 years
+Speculative Cat A fit out at Potential tenant turnover of 5.1 years, 
+the start of the buildings life every third lease agreement is renewed
+
+/ 28  / / 29 /
+
+kgCO2/m²
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+It is important for 
+all stakeholders 
+to appreciate how 
+decisions made 
+for base build 
+
+// architecture can 
+encourage leaner 
+and lighter tenant 
+fit outs across 
+the lifespan of 
+buildings
+
+/ 30  / / 31 /
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+How much room do you The Subtle design demonstrates a similar fall off in predicted // Table 3  
+carbon emissions with increasing tenancy size, reducing Lease length data (DeVono 2019 - 2023)
+from 231kgCO2/m
+
+2 for a small office, to 197kgCO2/m
+2  for a 
+
+Lease Size Average Lease Length 
+
+need to swing Cat A? medium office and 157kgCO2/m
+2 for a large office.
+
+Up to 10,000 sq ft 5.1 years
+
+Figure 17 shows that alongside the ‘Baked In’ elements that 10,000-50,000 sq ft 8.7 years
+naturally get replaced at end of life (as with small and medium 50,000 sq ft and above 13.2 years
+models), some of the ‘At Risk’ elements are potentially being 
+
+Larger tenancies potentially generate less Cat A waste as they replaced at their end of life during a tenancy and again shortly 
+stay in an office space for longer after with the next tenant. // Table 4  
+
+Lease transaction size data for the City of London 
+(DeVono 2019 - 2023)
+
+While there is still a discrepancy between the predictions 
+This study is based on an average lease length for a small To explore the potential impacts of larger scale offices, the made using AHMM’s Delivering Net Zero Toolkit and the Lease Size Share of Market
+office in the City of London from 2019-2023. Table 4 shows carbon emissions for both the Substantial and Subtle models RICS methodology, the longer lease lengths result in a Up to 5000 sq ft 62%
+that 80% of lease transactions in the City of London are have been calculated. Potential fit out - rip out cycles have total carbon emission number that is much lower than the 
+under 10,000 square feet, and between 61% and 88% of been scaled to a medium office (10,000-50,000 square feet) 5,000 - 10,000 sq ft 18%
+
+predictions for small offices with an average lease length of 
+lease transactions in other central London locations are with an average lease length of 8.7 years (from 2019 to 2023) 10,000 - 50,000 sq ft 18%
+
+5.1 years.
+under 10,000 square feet. shown by Figure 16, and for a large office (50,000 square 50,000 - 100,000 sq ft 2%
+
+feet and above) with an average lease length of 13.2 years As highlighted in the previous section, the base build can be 100,000 sq ft and above 1%
+Larger organisations require more space and typically stay in (from 2019 to 2023) in Figure 17. adapted to mitigate waste related to Cat A. Regardless of 
+one location for longer. Naturally, with longer lease lengths, the base build design and lease length, landlords and agents 
+there will be fewer fit out - rip out cycles, and subsequently Predicted carbon emissions for the Substantial model reduce can support tenants to take a more circular approach to their 
+less waste. from 470kgCO2/m
+
+2 for a small office, to 380kgCO2/m
+2 for a office spaces. 
+
+medium office, and to 262kgCO2/m
+2 for a large office. 
+
+// Figure 16 // Figure 17
+Comparison of potential tenant fit out - rip out pattern for Subtle and Substantial Comparison of potential tenant fit out - rip out pattern for Subtle and 
+fit outs, with lease sizes between 10,000 and 50,000 square feet Substantial fit outs, with lease sizes above 50,000 square feet
+
+RICS 
+methodology
+
+Substantial fit out
+400 ‘At Risk’ - Substantial fit out 380 400
+
+Element of Cat A fit ‘At Risk’ - Substantial fit out
+RICS 
+
+‘At Risk’ - Subtle fit out out replaced at end ‘At Risk’ - Subtle fit out
+of life methodology
+
+Baked In elements Baked In elements
+Element of fit out Substantial fit out
+
+Cat A replacement 
+at lease end replaced at end of life
+
+Cat A replacement 262
+at lease end
+
+Speculative Cat A fit Speculative Cat A 
+out replaced by tenant 
+specific design 197 fit out replaced by 
+
+tenant specific design
+
+189 189
+
+157
+Subtle fit out 132 132
+
+Subtle fit out
+
+Tenancy 1 T2 T3 T4 T5 T6 Tenancy 1 T2 T3
+
+0 0
+
+PC building life 60 years PC building life 60 years
+Speculative Cat A fit out at Medium sized tenancies have an Speculative Cat A fit out at Larger tenancies have longer average 
+the start of the buildings life average lease length of 8.7 years, the start of the buildings life lease length of 13.2 years, every third 
+
+with every third lease renewed lease agreement is renewed
+
+/ 32  / / 33 /
+
+kgCO2/m²
+
+kgCO2/m²
+
+
+
+© Rob Parrish
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+Drivers
+The existing Cat A paradigm may see the potential of a space that is not fully fitted later down the line. So, if a tenant signs a lease agreement as the marketing Cat A fit out, which simply gets ripped 
+
+out, and that can advise business leaders on the proviso after the materials have been ordered, it is often too late out again by the next incoming tenant, and compounds 
+has evolved in response to that they will procure their own bespoke design. But to omit the speculative Cat A fit out, whether the tenant the already significant impact of tenant turnover on life 
+
+market needs and trends, many organisations are put off when presented with an wants it or not. cycle carbon.
+unfinished environment and opt for a space that has an 
+
+which up until recently has not initial fit out already installed. Where Cat A fit out is not installed by the landlord, a While dilapidation clauses are still fulfilled in some 
+cash contribution is typically offered to tenants at the situations, developed markets have alternative solutions in 
+
+needed to address carbon. A speculative office that can appeal to as wide an point of occupation, for them to procure and install a full place for longer tenancy agreements. A landlord accepts 
+
+Now, it does. audience as possible is an advantage when going to fit out of their own requirements. However, this could a cash contribution from an outgoing tenant to cover 
+market. The longer an office remains unlet, the more leave landlords open to risk, if costs increase beyond the the cost of the new Cat A fit out. This approach has the 
+money is lost, so it is in the agent’s interest to secure agreed sum during the construction period and the tenant potential to avoid an unnecessary Cat A fit out, if the 
+
+The wasteful nature of Cat A is widely understood within tenants as quickly as possible. The speed of this sale is expects to be reimbursed for this uplift. This gives very landlord chooses to refurbish the space. However, this 
+our industry, but the cycle of fit out - rip out continues. known as ‘lease velocity’. little financial incentive for landlords to omit Cat A fit out, relies on the landlord and incoming tenant both agreeing 
+Not only does this study quantifies the carbon impact of even if they expect it to be ripped out at a later date by to reuse and adapt the existing fit out, which may not 
+the industry standard approach to delivering speculative incoming tenants. be seen as viable or a desired option for a new bespoke 
+office space, but it also identifies the drivers behind the Lease velocity
+
+design. 
+current paradigm. If a vacant office has Cat A fit out, as soon as a lease is Market perceptions
+
+signed the office is ‘ready to go’, with incoming tenants 
+The data gathered in this report demonstrates the role Warranties
+
+theoretically only needing to install a Cat B fit out for their Decisions around the type of Cat A required can be 
+that design plays in reducing whole life carbon emissions bespoke design and paying rent from day one. If the initial influenced by the perception of what can be easily As well as the complexities associated with designing to 
+related to Cat A fit out, and could help reduce Cat B waste Cat A is ripped out and replaced, that is on the tenant’s adapted by future tenants. For example, it is typically incorporate existing elements, reusing fit out can also be 
+and cost too. But, design alone will not solve the problem. time. Not providing an initial Cat A would delay the point believed that highly partitioned offices are served best by  considered higher risk. Product warranties and service 
+The commercial office market is complex, with multiple at which the tenant would start paying rent, as it is within Cat A designs illustrated by the Substantial case study, life restrictions deter people from reusing fit out elements, 
+stakeholders who often have differing interests. Alongside their agreement to also procure the Cat A, a landlord with suspended ceilings seemingly offering the flexibility to especially if the items only have few years of use at the 
+the quantitative data, conversations with developers, responsibility. This is a disadvantage to the landlord. easily install and adapt partitions. In reality, a more pared end of a tenancy. The problem is further compounded 
+landlords, and agents have provided important qualitative back design such as the Subtle case study can be highly with the risk of warranties becoming void if products are 
+feedback highlighting the intricacies of delivering, selling, flexible and potentially more adaptable than the more reinstalled in a different way to the original fit out. Brand 
+and operating speculative offices, and insight into how this Cost certainty
+
+traditional approach. With no suspended ceilings to work new items carry less risk.
+has developed in response to market requirements. Some larger businesses look to sign a new lease with around, cellularising space can be done efficiently and with 
+
+ample time before a planned office move. This scenario minimal waste. Conversations with the industry have confirmed that 
+Marketing can give a landlord certainty on future rental yield of the pattern of Cat A fit out - rip out is shaped by the 
+
+a new building and provides the opportunity to revise 
+A key driver for providing Cat A fit out is marketing: the Dilapidation clauses choices of many stakeholders. The industry practices 
+
+a planned Cat A fit out, but it is heavily dependent on have emerged to serve specific aspects of delivering or 
+goal when developing an office building is to attract and timings. Depending on requirements, the landlord’s Cat When Cat A is provided in a speculative office space, managing speculative office space, each approach being 
+secure tenant lets. Agents confirmed that floor plates A fit out could be tailored to the future tenant’s bespoke landlords ask for the space to be returned to them in the established and honed to best serve its own purpose. 
+are easier to sell with full Cat A fit out as prospective Cat B design or could be omitted altogether and left to same usable condition at the end of their tenancy period. However, the sum of these practices is driving a wasteful, 
+occupiers can better visualise the potential of the space. be specified by the tenant themselves. The timescales This has traditionally been covered by a dilapidation clause carbon intensive sector of the real estate industry. These 
+A speculative fit out can also provide a sense of scale and for construction contracts often require materials to be within tenancy agreements. Fulfilment of this clause has well established practices must now be re-evaluated in the 
+light, which would otherwise be hard to imagine when ordered months, if not years, ahead of their programmed historically resulted in an outgoing tenant removing their context of the climate emergency.
+presented with a raw, unfinished space. Some occupiers installation date, the advantage being that costs can be bespoke fit out and re-installing Cat A to the landlord’s 
+have dedicated teams to manage office leasing who locked in and landlords are protected from price inflations original specification. This approach carries the same risk 
+
+/ 36  / / 37 /
+
+
+
+Fit Out  // Rip Out A Study on the Carbon of Cat A
+
+So , what do we do?
+The future model for Cat A As occupiers with ambitious environmental, social and Providing the two different options within one building 3. The tenant owns all fit out, including Cat A, with no
+
+governance (ESG) targets demand the most sustainable can create long term efficiencies. When creating the initial cash contribution made by the landlord. The rental
+must be shaped to respond buildings and offices for their employees, the carbon bespoke fit out, not having an existing, unsuitable Cat value reflects the space being delivered to tenants as
+
+to the climate emergency, savings from not having extensive Cat A fit out and a A to decommission or adapt can expedite the eventual Shell and Core. The tenant is responsible for the carbon,
+space that can be easily and cheaply adapted for Cat fit out meaning tenants can occupy the office sooner. reporting these numbers to the landlord.
+
+align with our aspirations for a B could be seen as a boon when reporting carbon Additionally, removing the need to deliver the Cat A fit 
+credentials in marketing materials. out on these floors means the landlord and agent saves 
+
+circular economy, and continue Formalise tenant fit out 
+programme time and increases lease velocity. Fully fitted 
+
+to provide value to the real Fully serviced offices have disrupted the market in floors have the advantage of being ready to move in to in WLCA models
+recent years. While some co-working providers have not for businesses wanting a shorter lead time to occupation, 
+
+estate market, while creating As this study illustrates, tenant choices around Cat 
+survived after their initial market disruption, this type of again potentially reducing the amount of time that floor 
+
+A and Cat B fit out can heavily contribute to the 
+office solution is still in demand. Highly flexible and with plates are unlet.
+
+uplifting spaces places people carbon emissions of a building. Reporting the life cycle 
+very short lead times to occupation, serviced offices are 
+
+carbon emissions of a building (including Cat A) is the 
+want to be. particularly popular with smaller tenants. Often referred In projects where a speculative Cat A fit out may still
+
+responsibility of the building owner, while the carbon 
+to as ‘Cat A+’, the integrated design of services ensures be required, contracts can be structured to give the 
+
+reporting of the Cat B fit outs are the responsibility of the 
+a fully coordinated fit out, with no waste generated from maximum window of opportunity to omit Cat A at a later 
+
+tenants. Additionally, the building’s design, delivery, and 
+ripping out an unsuitable Cat A fit out. Serviced offices stage. This allows agents to discuss tenant requirements 
+
+Stop speculative fit out construction can influence how it performs and supports 
+initially appealed more to businesses requiring 5,000 at the pre-let stage whereby a mutually beneficial 
+
+adaptations over the course of its life.
+once and for all square feet or less, but are now attracting a growing agreement is made regarding the inclusion or omission of 
+
+number of business requiring up to 10,000 square feet of Cat A fit out.
+The RICS industry standard reporting method recognises the 
+
+The most immediately impactful action to reduce the space. 
+short lifespan of fit outs when calculating for interior fit out 
+
+life cycle emissions that result from the Cat A fit out - rip On the other hand, where a tenant installs Cat A alongside
+projects in isolation, for example when a tenant calculates 
+
+out cycle, would simply be to stop delivering speculative Appealing to a wide audience is key when marketing their Cat B fit out, decisions over ownership of the Cat A
+whole life carbon (WLC) when moving into an office. RICS 
+
+office Cat A fit outs. But what are the viable, sustainable commercial office space, but a solution to this could be and the resultant carbon emissions need to be agreed
+specifies the expected life expectancy, or ‘Reference Study 
+
+alternatives that will still meet the needs of the various for landlords to provide a diversified offer, rather than a upon by the tenant and landlord parties. Possible models
+Period’ (RSP) of a fit out as ten years. However, the RICS 
+
+stakeholders in the commercial real estate market? blanket Cat A solution. For example, a landlord could for this are suggested below:
+methodology does not consider the effect of these short 
+
+present some floors as ‘shell and core’ or ‘shell and floor’ 
+1. The landlord makes a cash contribution to the tenant lifespans in the wider context of the building’s WLC.
+
+With Virtual Reality (VR) and Augmented Reality (AR) for businesses that have more of an appetite to procure 
+for Cat A and B fit out, the tenant taking ownership of all 
+
+technology improving year on year, these tools not only and design a fully customised fit out, and other spaces 
+elements. The landlord can then take a maintenance and Without a holistic view of the various contributors to 
+
+have the ability to show a space delivered to Cat A that are specified to Cat A+ or Cat B for those that want 
+refurbishment payment from the tenant at the end of a a building’s carbon emissions, it is almost impossible 
+
+specification, but they also have the potential to bring something more ‘ready to go’.
+tenancy, or include this within the rent. for landlords, tenants, or architects to take the actions 
+
+to life a tenant specific Cat B fit out, even including 
+needed to reduce this. Introducing a formal distinction 
+
+customisable marketing material for each potential client Small/Medium 2. The landlord makes a cash contribution for Cat A fit
+Sized out, with the tenant covering Cat B costs, as is typically between tenant and landlord demise within the WLC 
+
+at the touch of a button. Digital visualisation could also 
+done. This split ownership model means carbon reporting structure would provide clarity for reporting 
+
+be supported by ‘show offices’, in the same way show 
+purposes. 
+
+homes exist in the residential real estate market, so agents Cat A+ responsibility can be more difficult to track.
+Cat A Shell and Core/
+
+can still provide a comprehensive demonstration of an Serviced Offices Shell and Floor
+As shown with the case study calculations in this report, 
+
+office space. 
+articulating the spaces in this way not only helps to clarify 
+
+Large Sized the upfront carbon at the point of practical completion, but 
+
+/ 38  / / 39 /
+
+
+
+Fit Out  // Rip Out A Study on the Carbon of Cat A
+
+when paired with a realistic RSP cycle it also can create if it has only just been installed. After use, products and 
+a more detailed picture of the future impacts of fit out materials may also automatically be classified as waste 
+changes over the life of a building. unless specifically marked for reuse, the latter should be 
+
+written into usage requirements so products and materials 
+In turn, this will enable architects to make informed are carefully removed and stored to maintain their value.
+decisions for the base build design that supports the 
+management and use of the building while in operation to These solutions sound promising, but making them 
+minimise whole life carbon impacts. work in practice will involve a mindset change across the 
+
+industry. Fit out design needs to be recentred around 
+
+Recentre the industry’s circular principles, with disassembly and adaptation 
+prioritised by stakeholders across the industry. The 
+
+focus on circular BCO’s Circular Economy in Offices10 provides further 
+
+solutions guidance on the challenges and solutions associated with  
+implementing circular economy principles in office design.
+
+Landlords are in an influential position in the commercial 
+fit out industry. Landlords can create a culture and Encourage and 
+ecosystem within a building that tenants understand and 
+contribute to. They can build relationships with incoming incentivise adaptable 
+and outgoing tenants to ensure this lasts over the life of a fit out
+building. From this vantage point, landlords are uniquely 
+positioned to start to close the loop of a historically linear The analysis of the four case studies in this report 
+process. Vital to this will be reimagining the contractual demonstrates how different models of Cat A fit out can 
+relationship between landlord and tenant. influence the upfront and whole life carbon emissions of 
+
+a building. The four case studies were categorised as 
+If a tenant comes into the space and does not want to Substantial, Significant, Slender, and Subtle, based on 
+use the in-situ Cat A fit out provided, the landlord should the percentage of elements that were considered ‘Baked 
+have the opportunity to retain the items rather than them In’ or ‘At Risk’. The results show how these four models 
+being discarded. These same items could then be reused of Cat A perform over the life of a building, particularly in //
+between future tenancies if required. This would require relation to the fit out - rip out cycle, and how this impacts 
+additional consultation with manufacturers to ensure predicted life cycle carbon emissions. By introducing the 
+product viability and warranty for reuse. classification of ‘Baked In’ vs ‘At Risk’ into fit out design, 
+
+another layer of information is available to inform decision 
+Rigid dilapidation clauses have historically fuelled the making at design stage, enabling teams to holistically 
+linear economy of the fit out - rip out cycle. While many consider the whole life carbon impacts of early design 
+outgoing tenants still restore the office space to Cat A decisions. 
+fit out in accordance with their contract, it is becoming 
+more common for outgoing tenants to fulfil the agreement Ideas of pared back finishes and exposed services have
+by providing a cash equivalent to the landlord. Further been gaining traction over recent years, with AHMM’s
+development of this transaction could play a pivotal role White Collar Factory 11 demonstrating the success of
+in finding a potential solution. ‘Green leases’ could evolve the ‘self finished structure’ within an office environment. 
+to incorporate clauses that require landlords and tenants These moves have been influenced by a growing 
+to undertake specific responsibilities and obligations to understanding of sustainable design and the desire to 
+minimise carbon emissions. Clauses could be built into reduce unnecessary decorative materials in the process. 
+these agreements that facilitate the reuse of existing fit out This has historically been a less popular aesthetic in some 
+materials with cash contributions going to the landlords to office markets, however, the data in this report shows 
+refurbish and renew, rather than replace. Outgoing tenants how a pared back ‘look and feel’ has the benefit of also 
+would be able to leave their fit out in place, while passing being low carbon. A characterful base build paired with a 
+on materials, information, and warranties that the landlord purposeful Cat A fit out also encourages more minimal Cat 
+and/or incoming tenant could repurpose. B fit out when tenants come to personalise their space. All 
+
+of this can be marketed as good choice for tenants with 
+One of the fundamental issues with reuse is how materials ambitious ESG targets. 
+are viewed after their first use. Once a product or material 
+is uninstalled, its warranty typically becomes void, even 
+
+/ 40  / / 41 /
+
+
+
+Fit Out  // Rip Out A Study on the Carbon Cost of Cat A
+
+TTheh  ec  acta  tA (A the) curr ent piracstices ce ntreo pauradigm tthat is  Cat A fit 
+around value and risk; supply out. Critically, value must be 
+chains, contract types, found within the new ways of 
+
+of the bagsales and marketing, rental working, for stakeholders in the 
+agreements, and dilapidation industry as well as for the future 
+
+is out of clauses are some of the key of the planet.
+contributing factors.
+
+The report introduces ideas 
+Until now, the lack of data that go towards addressing 
+
+the bag has resulted in a lack of clarity this through workable and 
+about the scale of the Cat A practical new programmes 
+problem. As a result, it has and business models. There is 
+been difficult to find viable a real opportunity for the great 
+solutions to solve the issue. minds of the built environment 
+
+industry to come together to 
+Seeing jarring images of associated with Cat A fit out This report has quantified the develop these ideas and solve 
+brand new office fit out and aimed to understand the potential carbon impact of the problem of Cat A.
+being ripped out weeks established industry patterns Cat A and shone a light on 
+after a building achieved that generate the associated the driving forces keeping the Now that the cat (A) is 
+practical completion was unnecessary waste. practice in place. There needs out of the bag, there’s no 
+the catalyst to investigate to be an industry wide mindset excuse not to.
+why the fit out - rip out The study unearthed that the change to reform the complex 
+practice of Cat A continues, carbon emissions associated 
+even though the real estate with this waste are generally 
+industry understands how unaccounted for, even though 
+wasteful it is. they contribute a significant This report has come to an end, but 
+
+proportion of whole life carbon the conversation certainly has not.  
+This report used AHMM’s emissions. Conversations 
+Delivering Net Zero Toolkit to with industry experts helped Get in touch, we’d like to talk
+
+measure the carbon emissions to identify that the drivers of CONTACT HERE
+
+/ 42  / / 43 /
+
+
+
+Fit Out  // Rip Out
+
+References
+1 Delivering Net Zero In Use Toolkit  7 CIBSE TM65 Embodied carbon in building services: 
+
+https://www.ahmm.co.uk/profile/sustainability/delivering- A calculation methodology (2021) 
+net-zero-in-use-toolkit https://www.cibse.org/knowledge-research/knowledge-
+
+portal/embodied-carbon-in-building-services-a-
+2 UK Architects Declare Practice Guide calculation-methodology-tm65
+
+https://www.architectsdeclare.com/uploads/AD-
+Practice-Guide-2021-v1_3.pdf 8 DeVono 
+
+https://www.devono.com
+3 RIBA 2030 Climate Challenge 
+
+https://www.architecture.com/about/policy/climate- 9 BNP Paribas Real Estate and MSCI Lease Events 
+action/2030-climate-challenge Review 
+
+https://www.msci.com/www/research-report/uk-lease-
+4 LETI Climate Emergency Design Guide events-review-november/01157024235
+
+https://www.leti.uk/cedg
+10 BCO Circular Economy in Offices
+
+5 BCO Guide to Specification https://www.bco.org.uk/Research/Publications/
+https://www.bco.org.uk/Research/Publications/ Circular_Economy_in_Offices.aspx //
+BCO_Guide_to_Specification_Key_Criteria_Update_
+February_2023.aspx 11 White Collar Factory  
+
+https://www.ahmm.co.uk/projects/office/white-collar-
+6 RICS Whole Life Carbon Assessment for the Built factory
+
+Environment, 2nd edition 
+https://www.rics.org/profession-standards/rics-
+standards-and-guidance/sector-standards/construction-
+standards/whole-life-carbon-assessment
+
+© Tim Soar
+
+/ 44  /
+
+
+
+Fit Out  // Rip Out
+
+Fit Out /     / 
+Rip Out 
+A Study on the  
+Carbon Cost of Cat A
+
+/ 46  /

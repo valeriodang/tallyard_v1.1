@@ -1,0 +1,1258 @@
+﻿learning legacy  
+lessons learned from the London 2012 
+Games construction project
+
+
+
+The role of the construction supply chain in delivering sustainable 
+solutions on the Olympic Park 
+
+Abstract
+
+In winning the 2012 Olympic and Paralympic Games London pledged to host the ‘Greenest Games’ ever and to leave a lasting legacy 
+of physical assets and learning to be shared with future Games and other major projects.  This therefore provided a huge opportunity 
+for the UK construction industry to meet the many challenges of delivering a sustainable development project and to address the 
+radical changes needed in current construction practices.
+
+This Learning Legacy paper outlines the key processes implemented to delivery sustainability objectives on the Olympic Park and 
+explains the activities undertaken by different parts of the supply chain to help deliver these goals.
+
+Although manufacturers and suppliers have been making significant investment in products and proceses that will enhance the 
+sustainability performance of the built environment, there are many barriers to the wider take up of innovative products and practice 
+on construction projects.  
+
+As the client on the Olympic Park, the Olympic Delivery Authority (ODA) put in place processes to overcome the traditional barriers 
+against using innovative solutions by creating the culture and conditions to embrace creativity and innovation from the supply chain.  
+These processes included: Setting a strong vision and developing challenging sustainability targets; engaging early with the supply chain; 
+embedding sustainability into procurement processes; communicating contract opportunities; managing risk, rather than avoiding it; 
+employing sustainability managers; and implementing a strong auditing procedure to track delivery of sustainability targets.
+
+As a result, the ODA is on track to achieve its sustainability targets and more products with improved environmental performance 
+have been introduced to the market.  
+
+Challenges still remain which will need to be actively addressed by clients, designers, contractors, suppliers and government.  The real legacy 
+of the Games will depend on the extent to which the industry learns from, adopts and develops the processes used on the Games.  
+
+Learning Legacy 1
+
+
+
+Introduction
+
+London’s bid for the 2012 Olympic and Paralympic Games made the commitment to set new standards of sustainability for the Games 
+and the process of regenerating and constructing the Olympic Park.  London pledged to host the ‘Greenest Games’ ever and to leave 
+a lasting legacy of physical assets and learning, to be shared with future Games and other major projects.  
+
+Following the award of the Games in 2005, the Olympic Delivery Authority (ODA) translated these commitments into a Sustainable 
+Development Strategy1 that had 26 environmental targets under the themes of energy, water, materials, waste, biodiversity and 
+environmental impacts.  The ODA worked with its Delivery Partner (CLM2), designers and contractors to procure innovative products 
+and solutions from the rest of the supply chain to meet these targets.
+
+This Learning Legacy paper investigates:
+
+•	 Innovation in the construction industry, to set the context for the Park project
+
+•	 The processes (framework) that were put in place by the ODA to foster innovation
+
+•	 How the supply chain responded, illustrated through ten case studies 
+
+•	 The overall achievements and remaining challenges 
+
+The output of the paper is a set of recommendations for clients, product manufacturers, designers, contractors and government.
+
+Challenges and lessons learnt are highlighted throughout the paper as part of a commitment to promote best practice in sustainable 
+design and construction.
+
+This paper was commissioned by the Construction Products Association and the Building Research Establishment (BRE) and was 
+written by a team comprising consultants from MustRD as well as from the Construction Products Association and the BRE.  The 
+content was informed by semi-structured interviews with key members of the ODA, construction product manufacturers, contractors 
+and designers on the Games.
+
+Recommendation 4: ‘That the industry and government should work together to use the occasion of the London Olympics as a 
+showcase of how to implement plans for a low carbon built environment, embracing design and engineering; works execution right 
+through the supply chain; materials, product and component manufacture; and all other construction-related services.’ 
+
+Low Carbon Construction Innovation and Growth Team Report3
+
+2 Learning Legacy
+
+
+
+Context: 	 innovation in the construction industry
+
+The research and development is there and products are being tested in the market place, but there needs to be a step change in 
+demand both to stimulate further innovation and to bring down prices through economies of scale.  
+
+Low Carbon Construction Innovation and Growth Team Report3
+
+The need for improved efficiency, higher levels of performance and greater innovation in the construction industry has been the 
+subject of successive government reports, most notably those led by Sir Michael Latham4 and Sir John Egan5. 
+
+After London won the bid to host the 2012 Games, the ODA, the construction industry and government collectively agreed to use the 
+Games to showcase construction and exceed current best practice.  This intention was captured in the 2012 Construction Commitments6 
+which identified a range of topics in which best practice would be pursued, this included sustainability as one of the key areas. 
+
+The joint industry and UK government’s Strategy for Sustainable Construction7 (2008) highlighted the need to deliver a radical change 
+in the construction industry’s engagement with the sustainability agenda.  The Low Carbon Innovation and Growth Team (IGT) led 
+by government Chief Construction Adviser Paul Morrell, picked up this theme in 2010/11 when it conducted a review into how the 
+industry can deliver a low carbon built environment.  The IGT Steering Committee included ODA Chairman John Armitt.  The IGT’s 
+Low Carbon Construction Report3 (the IGT Report) was published in June 2011 and recognised that ‘the research and development 
+is there and products are being tested in the market place, but there needs to be a step change in demand both to stimulate further 
+innovation and to bring down prices through economies of scale.’  
+
+The IGT report identified many barriers to innovation in the construction industry and called for active engagement with the process 
+of overcoming them.  The need to capture and exchange lessons learnt from major projects, in particular the Games, is one of the key 
+recommendations from the report.  By analysing the processes established to deliver innovative and sustainable solutions (specifically 
+from the construction product supply chain), this learning legacy paper is a direct response to that call.  
+
+Manufacturers and suppliers from the Construction Products Association’s Olympic Liaison Group that contributed to this learning 
+legacy paper identified a range of drivers and barriers for utilising innovative products and solutions as set out in the table below.  
+These reinforce the influences on innovation identified in previous research and in the IGT report.
+
+Drivers Barriers
+
+•	 Reputation •	 Lack of client demand for sustainable solutions
+
+•	 Competitive advantage •	 Lack of client engagement with the supply chain
+
+•	 Client requirements •	 Client, designer and contractor concerns about the risks associated 
+with using new products 
+
+•	 Regulation/legislation
+•	 Lack of clarity from government about future changes to policy, 
+
+•	 Corporate sustainability objectives
+standards and building codes
+
+•	 Market pull (end-user requirements)
+•	 Poor communication and knowledge sharing up and down the 
+
+•	 Technological developments supply chain leading to a lack of awareness amongst designers and 
+
+•	 Aesthetics/design trends contractors about new materials/products 
+
+•	 Efficiency in construction •	 Procurement rules
+
+•	 Commercial gain •	 Poor returns on investment due to low or slow adoption of 
+innovative products
+
+•	 Unwillingness of industry to change
+
+•	 Cost of research and development 
+
+•	 Not enough time to innovate for specific projects and one-off clients
+
+The processes implemented by the ODA to overcome these barriers and to bring forward innovations from the supply chain are set 
+out in the following section, followed by an analysis of their effectiveness.  
+
+Learning Legacy 3
+
+
+
+Client demand and 
+leadership for sustain-
+
+ability
+
+Managing risks
+(Endnotes)
+
+1	  Cabinet Setting a framework for innovation 
+Office, 2011.  
+Gove(Ernndmnoetnest) As the client for the construction of the Park, the ODA had a significant role to play in creating the right environment and culture to 
+Construction enable innovation from the supply chain to flourish.  Leadership, culture, communication, design, procurement and auditing processes 
+S1t	rategy.   OAlvyamipl-ic were critical to ensure the ODA’s aspirations for a sustainable Park were achieved.  Below is a brief description of the processes that 
+aDbellCievoe frmryom Amuunt:ihc haotrtti-ngp://
+wictoyw,n 2
+
+were adopted to overcome the barriers to innovation and to embed sustainability into the programme.  This approach is echoed in 
+trw0a0c.7ct . aoSbpuppinopreliteutr-n ities 
+
+Ganudid per ohvtitdpi:n//gw swupwp.ort the Government 2011 Construction Strategy8.  The next sections of this paper analyse the effectiveness of these processes. 
+olotffinod ccooenm.2gp0ao1n2vie..cuso ktmo/ /win 
+sdiotceusm/ednwetofsa/rbkuu lstin/ess/
+fiodlea-ss/urpepslioeru-gruciedes-/
+Gjunoev-e20r0n7m.pedfnt- •	 The ODA sent a clear message to industry that as a client it was serious about delivering high 
+Construction- levels of sustainability and was committed to working proactively with the supply chain to 
+Strategy.pdf implement best practice
+
+(Endnotes)
+2	  Compete- •	 The ODA’s Sustainable Development Strategy1 was developed early (in consultation with 
+1Fo	r websiteO.  lAymvapiliacb le stakeholders) and communicated widely to industry.  It was embedded into governance structures, 
+
+Client demand 
+Dfroemliv: ehrtyt pAsu:/t/hwowriwty., and leadership  and design, procurement and construction processes
+2co0m06p. e Pterfoocru.croem/ebnuts i- for sustainability
+Pnoeslisc/ylo.  gAinva.jislpable •	 The ODA created an environment and culture that supported innovation.  Challenging 
+from: http://www. performance specifications were set, which required delivery teams to be creative and innovative 
+london2012.com/ when finding design solutions
+documents/business/
+oda-procurement- •	 The ODA encouraged collaboration between designers, project managers, contractors and 
+policy.pdf product suppliers 
+
+•	 The Construction Products Association was appointed the representative body for manufacturers 
+2	  Proceed-
+ings of ICE.  Civil and acted as a conduit for information between industry and the Games 
+Engineering 164,  May •	 The ODA engaged very early and extensively with manufacturers and distributors to identify 
+2011, Pages 34–39.  Early engagement 
+Delivering London innovation across a wide range of products and services.  By becoming a knowledgeable client the 
+
+with the supply 
+2012: Procurement.     chain ODA was in a better position to unlock innovation that was already in the materials supply chain 
+Available from: http://
+www.icevirtuallibrary. •	 The key methods of engagement were Industry Sector Days and Olympic Liaison Group meetings 
+com/docserver/full- (see page 7).  These supported communication, knowledge transfer and understanding between 
+text/cien-164-5-034. the supply chain and the ODA
+pdf?expires=1310657
+744&id=id&accname=
+guest&checksum=A6
+D40692DC753DB8B •	 The ODA integrated sustainability into its Procurement Policy9.  The policy stated that ‘The ODA 
+662CE9DB18845A1 will seek to use its purchasing power to support sustainable development in London and the 
+
+UK and the implementation of the ODA’s Sustainable Development Strategy… the ODA will 
+Embedding aim to ensure that sustainability is integrated into business cases, procurement plans and related 
+sustainability into contracts’
+procurement
+
+•	 A balanced scorecard10 was used at each stage of procurement to evaluate how a company would 
+perform against the ODA’s suite of objectives. The evaluation criteria were set typically at 70:30 
+(Technical: Price).  Sustainability formed part of the technical question
+
+•	 The ODA’s Supplier Guide11 provided information to suppliers and contractors interested in 
+opportunities on the Park.  Sustainability was listed as one of the ODA’s procurement values in 
+the Supplier Guide
+
+Communicating 
+contract •	 ‘Meet the Buyer’ events were held around the country to inform industry about contract 
+opportunities and 
+providing support opportunities and the client’s requirements, including sustainability
+to companies to •	 The online CompeteFor12 service and website was set up to enable businesses to compete for 
+win work
+
+contract opportunities linked to the Games.  Companies were required to have an Environmental 
+Policy in order to register for CompeteFor.  Representatives worked with companies that did not 
+have these to help them develop appropriate policies
+
+4 Learning Legacy
+
+
+
+•	 The ODA recognised that innovation can be risky particularly where products had not been 
+tested before or were new to the delivery team.  Risk management was therefore an active part 
+of the programme management process
+
+•	 The ODA typically adopted best practice and solutions that were tried and proven rather than 
+Managing risks procuring completely new products
+
+•	 The ODA set up trials for innovative products that designers were reluctant to specify due to 
+concerns over performance
+
+•	 The ODA established a number of site-wide supply frameworks (for concrete, timber, waste and 
+fuel) to manage risk and encourage innovation in a consistent way across projects
+
+•	 The ODA programme managers put in place well-resourced sustainability and supply chain 
+management teams to deliver the project’s sustainability targets across the multiple construction 
+projects and to manage the interface with the supply chain
+
+Employing •	 Within the ODA Sustainability Team there were specialists in materials and products who played 
+sustainability an important role in researching innovative products and bringing these to the attention of 
+managers designers and contractors, through meetings and by setting up tests and demonstration projects
+
+•	 Each contractor had a Sustainability Manager who worked full time on the Games.  They 
+researched innovative sustainability solutions, wrote business cases and promoted delivery of the 
+ODA’s sustainability targets through the supply chain
+
+Strong auditing •	 The ODA and its Delivery Partner put in place a robust sustainability auditing procedure to 
+procedure to ensure that sustainability targets were filtered down the supply chain and were being achieved.  
+track delivery 
+of sustainability The auditing procedure and risk of non-compliance was a big driver for the Tier 1 contractors to 
+targets do this
+
+Learning Legacy 5
+
+
+
+Achievements 
+
+Interviews with key members of the ODA, construction product manufacturers, contractors and designers on the Games produced 
+positive feedback about the approach taken on the Park.  The overall successes and achievements of the approach are outlined below.  
+There were, however, many challenges and lessons learnt and these are set out in a later section.
+
+Client vision
+
+The ODA’s publicly communicated vision to set stringent standards for sustainability sent a clear message to the industry that it was 
+serious about implementing best practice.  There was consensus among suppliers, designers and contractors interviewed that the 
+ODA’s demand for high levels of sustainability set the premise for the project.  
+
+“The ODA has been successful in sending signals about their sustainability requirements to the marketplace, as companies have 
+been ready to respond when procurement started”
+
+Commission for a Sustainable London 2012
+
+The ODA successfully used the high profile of the project to stimulate innovation in sustainability.  Suppliers were very keen to work 
+on the Games and understood that in order to win business they would have to demonstrate the sustainability benefits of their 
+products, as well as the sustainability credentials of their company.  Several suppliers interviewed for this learning legacy paper said 
+that the Games encouraged them to bring to market and promote innovations they were already developing, and to improve their 
+products or processes to gain competitive advantage and win work on the Park.  One supplier said: ‘The Olympics Park provided us 
+with the perfect opportunity to commercially justify some step changing process innovations.’  Another said: ‘We already had very 
+stretching targets with regards to sustainability... the Olympics allowed us to reap the benefits of this approach as we were able to 
+work with a like-minded organisation with the same goals.’
+
+Culture
+
+The ODA has demonstrated that the industry is capable of delivering sustainable projects if the right culture and project conditions 
+are created.  Creating a culture that supported and actively promoted innovation was not easy; it required behaviour change, 
+and an openness and willingness to actively challenge the status quo in an industry that tends to be conservative and risk averse.  
+Furthermore, it needed a collaborative approach that started with leadership from the client and worked its way throughout the 
+supply chain.  
+
+Many interviewees emphasised that the client Sustainability Team, which actively advocated sustainable solutions across the programme, 
+played an important role in developing a culture in support of sustainability.  Designers’ and contractors’ sustainability advisors/
+managers were very successful in raising the importance of sustainability within their project teams and the construction workforce, 
+which we hope will be transferred to future projects.  
+
+Contractor Sustainability Managers found that procuring innovative and sustainable products worked best when they had support 
+from the senior team, especially the Project Director and Procurement Manager – demonstrating the importance of senior-level 
+leadership for sustainability.   
+
+‘We created a culture where people were encouraged and motivated to do better in the supply of everything from paints 
+to seats to light fittings to taps.  We got everybody looking out for innovation and we achieved things you would never have 
+dreamed of.’
+
+Peter Bonfield, ODA Head of Construction Products
+
+6 Learning Legacy
+
+
+
+Engagement
+
+The ODA’s early and extensive engagement with the supply chain opened up opportunities for suppliers to provide best practice 
+products and services to the Park.  Contractors reported that innovative solutions were best identified when contractors engaged 
+with manufacturers prior to tender – this is a key learning point.  
+
+Sustainable Development 
+Best practice: early engagement with the supply chain Strategy Extract
+
+In the first three years of the ODA programme (2005-2008), the ODA engaged ‘The ODA aims to work 
+extensively with manufacturers and distributors to identify innovation across a wide proactively and collaboratively 
+range of products and services and to unlock innovation inherent in the materials with its supply chain to deliver 
+supply chain but which often doesn’t have a clear route to implementation.  The against its sustainability 
+ODA Sustainability Team worked with the Procurement Team to meet suppliers to requirements through its supply 
+understand the market opportunities and constraints.   chain management programme. 
+
+This will also allow for 
+The Construction Products Association13 and BRE played a key role in linking the continuous improvement and 
+ODA and the supply chain and supporting communication.  Early engagement took for shared learning across the 
+two forms: Industry Sector Days and Olympic Liaison Group meetings.  supply chain.’ 
+
+Industry Sector Days:  At the beginning of the planning phase for the construction of the Park, the principal construction 
+materials and products were identified including concrete, steel, plastics, drainage piping and timber and a series of industry 
+days were held for each of these different construction product sectors.  In advance of these industry days, the ODA provided 
+suppliers with a brief which outlined the sustainability opportunities and challenges and suppliers were invited to give a 
+presentation to the ODA and contractors on how they would meet the challenges.    
+
+This process was very instructive to the ODA, as by engaging with the product manufacturers, the client became better-informed 
+and more knowledgeable about current and forthcoming innovative solutions.  The suppliers likewise were able to innovate and 
+deliver, as they were better informed about the ODA’s requirements.  Product suppliers have recommended that meetings would 
+have been even more effective if more contractors had been present to participate in discussions about innovation.  Crossrail 
+has taken measures to address this: each contractor is contractually required to hold an industry day every year of their five year 
+contract.
+
+Olympic Liaison Group:  An Olympic Liaison Group was established by the Construction Products Association, for suppliers 
+who registered to receive regular updates about Olympic projects.  Olympic Liaison Group meetings started almost immediately 
+and three meetings were held a year ; each one was half a day and included several speakers from the ODA and contractors.  The 
+aim of the meetings was to inform industry of current progress on the Park, the ODA’s priorities (such as sustainability, health 
+and safety and design quality), processes (including procurement, CompeteFor and logistics) and most importantly forthcoming 
+contract opportunities.  This enabled industry to prepare accordingly.  
+
+There was very positive feedback from industry about these events.  As the client, the ODA found the meetings useful: it was a 
+very good way to share knowledge and information and it informed the ODA of innovations and best practice.  The Construction 
+Products Association is now arranging similar Liaison Group meetings with Crossrail.
+
+Learning Legacy 7
+
+
+
+Procurement
+
+As a non-departmental public body, the ODA was required to comply with the UK’s public sector procurement regulations.   
+To encourage sustainable solutions from the supply chain within the boundaries of these regulations, the ODA actively integrated 
+sustainability into its Procurement Policy and procurement processes.  For the ODA, this was a vital tool for communicating sustainability 
+requirements to the supply chain early and it rewarded those companies that had invested in sustainable products and processes.  
+
+An extract of the ODA’s Procurement Policy is provided below.
+
+Sustainable development
+
+Sustainable development encompasses quality and functionality, environment and legacy. 
+
+The ODA is committed to seeking continuous improvement in its own and its contractors, performance on sustainability that is 
+consistent with the need to provide Value for Money by:
+
+•	 Developing a sustainable development strategy
+
+•	 Setting and monitoring relevant, measurable sustainability objectives and reporting progress regularly
+
+•	 Establishing sustainable development as a clear feature of ODA decision-making
+
+•	 Maintaining management systems to manage and monitor sustainability performance
+
+•	 Early consultation with the supplier market
+
+•	 Setting output-based specifications, inviting bidders to submit proposals for meeting sustainability objectives, rather than 
+itself be prescriptive, so as to encourage innovation
+
+•	 Setting minimum standards to which contractors and designers will be required to work
+
+•	 Requiring major contractors to have expertise and management systems in place to manage and monitor sustainability 
+performance
+
+•	 Educating, training and motivating staff and contractors to work in a socially and environmentally responsible manner
+
+•	 Working collaboratively and proactively with contractors, whilst providing robust contract management
+
+•	 Actively managing its supply chain to achieve sustainability objectives
+
+The inclusion of sustainability performance requirements in tender documentation required contractors to address sustainability and 
+in many cases the ODA saw an improvement over a period of time, i.e. if a bidder was unsuccessful on a particular project, they were 
+given feedback on how they could improve and often did so, scoring more favourably when bidding again in the future.
+
+Many Tier 1 contractors replicated elements of the ODA’s procurement approach (e.g. balanced scorecard) within their own 
+processes, demonstrating that best practice can be client led. 
+
+Performance-based specifications
+
+Setting performance-based specifications, rather than being prescriptive about technological solutions, encouraged creativity and 
+innovation from the supply chain and resulted in the most technologically appropriate and sustainable solutions.  The ODA, designers, 
+contractors and suppliers concur that this approach should be replicated on future projects.  
+
+8 Learning Legacy
+
+
+
+Sustainable outcomes
+
+The ODA’s framework for innovation resulted in ‘...some excellent examples of its sustainability targets being delivered by the supply 
+chain.’14 A number of new, more sustainable products and processes were developed by the supply chain and implemented on the 
+Park.  A selection of case studies in the Appendix of this paper demonstrates this.
+
+The most notable sustainability achievements include:
+
+•	 More than 50% of materials were delivered by rail or water
+
+•	 A blackwater treatment plant was installed on site (Old Ford Water Recycling Treatment Works), which is the first large scale 
+wastewater recycling scheme in the UK.  This was procured as part of a seven year R&D project with Thames Water
+
+•	 Waterless urinals, water efficient fittings, rainwater harvesting and Aquatics backwash recycling have significantly reduced 
+water consumption on the Park
+
+•	 High levels of energy efficiency have been achieved – most notably on the Velodrome, which was 31% better than Part L 
+Building Regulations
+
+•	 Materials and products with low embodied carbon were used.  For example there was a 42% reduction in carbon emissions 
+for ready-mixed concrete compared with the UK industry average
+
+•	 More than £1m of waste was avoided through sustainable design, procurement and construction processes and more than 
+90% of construction waste was diverted from landfill
+
+•	 A Timber Supplier Panel was implemented to deliver the ODA’s target for 100% legal and sustainable timber
+
+The UK construction industry has gained valuable experience and confidence in delivering sustainable projects.  The majority of 
+suppliers that contributed to this learning legacy paper thought that the ODA’s approach to innovation and sustainable development 
+has influenced long term change in the industry and left a lasting legacy.  
+
+The following comments come from the interviews conducted to inform this legacy paper.
+
+‘By making companies more aware of the impact on the environment’
+
+‘It has set a benchmark, that sustainability is a top priority and can be done cost effectively’
+
+‘We believe that the ODA’s approach to sustainable development has showcased the capabilities of the construction materials sector’
+
+‘We developed products for the Olympics that are rapidly becoming the norm elsewhere’
+
+‘The experiences we have had supplying materials for the Olympics park have given us evidence that there is a commercial 
+gain to operating the way we do and providing the products and services that really drive the sustainability agenda.  Our 
+experiences on the Olympic park have led us to delve even deeper and invest more in sustainability’
+
+‘We have learnt a significant amount from our involvement with the Olympic Project, and we are keen to use this knowledge on 
+future major contracts that we hope to be involved with’
+
+Learning Legacy 9
+
+
+
+Remaining challenges
+
+The ODA put in place many successful processes to address the barriers to innovation but many still remain.  Challenges include:
+
+Integrating the supply chain
+
+The ODA developed a culture of collaboration and put in place processes and systems to address the fragmented nature of 
+construction.  However, more can be done to integrate the supply chain on future projects.  Other clients are building on the ODA’s 
+processes.  For example, on the Park suppliers were not given contractors’ contact details, so they could not approach them directly 
+with their product innovations.  Crossrail, however has published the contact details of contractors so that suppliers can make direct 
+contact with them.  Crossrail has also included a clause for contractors to hold a ‘meet the contractor’ event for suppliers every year 
+of their five year contract, to ensure they engage with the supply chain.  This will help clients, designers and contractors become more 
+aware of the products that are available on the market.  The next step is to use these events to work with the whole supply chain 
+(designers, contractors, manufacturers and suppliers) to focus on addressing the sustainability agenda – especially carbon as identified 
+by the IGT Report.
+
+Sharing risk
+
+Risk was highlighted as a major barrier to the uptake of innovative solutions by clients, designers, contractors and project managers.  
+New and untested products presented concerns over deliverability and performance and therefore professional indemnity, liability and 
+reputation.  On the Park, it was especially challenging to convince project managers to agree to the use of innovative solutions, as they 
+were incentivised by programme and delivery.  The high profile nature of the Games and the immovable deadline meant that risk was 
+actively managed and often shared.  Some of the most significant sustainability achievements derived from the site-wide framework 
+agreements, where the ODA took an active role in encouraging industry practice and managing risks on a park-wide basis (see case 
+studies on timber and concrete for examples). 
+
+Feedback from designers and contractors on the Park is that more sharing risk between clients, designers and contractors will go a 
+long way to overcoming this barrier to innovation on future projects.  Much can be learnt from other major projects, for example, 
+BAA, the client for Heathrow Terminal 5, took the highly unusual step of taking on all of the risk for the project and BAA developed 
+the ‘T5 Agreement’ with its 60 main suppliers.  The risk-free environment ensured that suppliers could focus on working together 
+effectively and were able to share more information than they would be willing to, under traditional arrangements15
+
+Certification schemes
+
+Many of the environmental claims made about products lacked third party independent review and certification.  This made it difficult 
+for the client to verify supplier’s claims, or test them against alternative products.  The ODA also found it challenging to compare 
+products that were certified, due to the many methodologies used (e.g. carbon footprinting, life cycle assessment, environmental 
+product declarations and Green Guide ratings).  There is a lack of transparency about some of the parameters that are used to assess 
+environmental performance in some certification schemes.  It is also difficult to compare elemental and systematic performance.  The 
+European CEN350 Sustainability of Construction Works standards due for completion in 2012 may provide clients with much needed 
+consistency and transparency and reduce pressure on suppliers to hold multiple certifications.
+
+Costing sustainable solutions 
+
+More sustainable solutions might have a higher capital cost, but provide better whole life value.  The traditional focus on capital cost is 
+often a barrier to the use of products that deliver more sustainable solutions.  However, products that are slightly more expensive to 
+purchase might reap financial savings from transportation, equipment, amount of labour required, installation time, amount of waste 
+produced.  The health and safety risks might be lower during construction and operation.  They also might present lower operating 
+costs and less maintenance.  Many contractors on the Park started to think more holistically about costing sustainable solutions and 
+were flexible with budget allocations, but this approach needs to be replicated and developed on future projects, to avoid more 
+sustainable solutions being disregarded for cost reasons.  
+
+Clients need to be prepared to accept some additional capital cost particularly where it can drive down operating costs.  Business 
+cases for sustainable solutions should therefore assess capital costs and whole life value.  More sophisticated assessment criteria are 
+needed to assess value.  
+
+10 Learning Legacy
+
+
+
+Stimulating innovation – long term clients
+
+Even though the ODA had the limitations of being a one-off client with a very tight deadline it was still committed to finding and 
+encouraging innovative solutions and achieved much.  Large clients with multiple projects and long term relationships with their supply 
+chain are in a much better position to stimulate research and development, trial innovative products, share risk and share learning with 
+industry.  This will only happen if the sustainability agenda is prioritised.
+
+Learning Legacy 11
+
+
+
+Recommendations 
+The sustainability challenges of climate change, resource depletion and environmental and social impacts of the built environment 
+pose very significant challenges to the construction industry and will only be addressed if there is a shared vision, collaborative 
+approach and concerted effort by the whole industry to raise standards.  The London 2012 Olympic and Paralympic Games has 
+helped to identify some of the ways that the industry can adapt and improve.  
+
+Legacy recommendations for different parts of the supply chain are set out below.
+
+  
+Recommendations for clients and client advisors
+
+Clients can act as a catalyst for, or a barrier to, innovation.  If clients are going to demand sustainable standards they need to:
+•	 Set a strong vision and sustainability strategy with clear and measurable performance targets and communicate this to 
+
+the construction industry early 
+
+•	 Create the right culture and project conditions  to support creativity and innovation 
+
+•	 Be willing to manage rather than avoid risk
+
+•	 Carry out full and early engagement with the supply chain so as to become a knowledgeable client about what is 
+achievable and to open up opportunities for the use of innovative solutions and learn from the supply chain 
+Engagement in small groups around specific themes would be most effective, with greater involvement of specifiers and 
+Tier 1 contractors
+
+•	 Implement a procurement strategy that supports sustainability (e.g through a balanced scorecard and business cases for 
+innovative/sustainable solutions that assess both capital costs and whole life value) and put in place robust supply chain 
+management processes and auditing procedures
+
+•	 Put in place resources (i.e. a Sustainability Team) to maximise the uptake of sustainability objectives throughout the supply 
+chain
+
+•	 Work with and listen to, the supply chain via industry representative bodies and trade associations that have networks 
+and experience to support client engagement with the construction product suppliers
+
+•	 Focus on whole life value not just cost
+
+Recommendations for designers
+
+Designers play a key role in specifying sustainable solutions.  Designers should:
+•	 View low environmental impact as a fundamental design objective, integrated with form and function and use tools to 
+
+help evaluate the optimum solution in whole life terms
+
+•	 Be willing to try new ideas
+
+•	 Establish a learning environment within their practices
+
+•	 Be more proactive in working with suppliers and sustainability consultants to help research the latest solutions
+
+•	 Ensure sustainability specifications are performance focused.  When the correct solution has been identified and designed, 
+this needs to be specified to ensure it is cascaded through the construction team.  Test specifications with contractors
+
+•	 Assess how they can become less risk averse
+
+Recommendations for contractors
+
+Contractors and subcontractors directly procure products and hence are close to the manufacturers.  This means they are 
+well placed to harness innovation and recommend alternative solutions.  However, they also want to minimise costs and risk.  
+Contractors should:
+
+•	 Engage with the supply chain early (before tender if possible).  Attending industry days that are organised by clients is 
+an efficient way to do this.  Engagement with trade bodies such as the Construction Products Association can help raise 
+knowledge and awareness about suppliers and products 
+
+•	 Work with designers and specifiers and support designers in trials and demonstration of products; perpetuate best 
+practice rather than block it
+
+•	 Engage more deliberately in promoting and adopting innovation and addressing the inherent risks
+
+•	 Consider the ‘price’ and not just the ‘cost’ of more sustainable alternatives; strive for the best value solution
+
+12 Learning Legacy
+
+
+
+Recommendations for manufactureres and suppliers
+
+The role of manufacturers and suppliers in driving innovation is crucial.  Suppliers need to:
+•	 Continue to invest in R&D to identify and manufacture more sustainable products and processes
+
+•	 Be proactive in engaging with clients, designers and contractors to inform them about the latest sustainable solutions and 
+work with them to develop solutions
+
+•	 Ensure that innovative products are tested and independently certified to support claims about the environmental 
+performance of their products.  Case studies are also helpful to demonstrate application
+
+•	 Set up public demonstration projects and trials to build confidence 
+
+•	 Promote the value added to new and improved products particularly where they cost more  
+
+Recommendations for government
+
+Construction activity –including innovation – is strongly influenced by government spending programmes, government procure-
+ment policy and standards and regulations.  Government needs to:
+
+•	 Implement a consistent, unified vision and strategy and improve clarity about future sustainability policy, legislation and 
+standards so that industry is aware of where the market is heading and are confident about investing in R&D
+
+•	 Set consistent and measurable targets
+
+•	 Learn from the ODA experience on the procurement of public sector projects – for example, be bolder in developing 
+policy and regulation, require adoption of best practice across public sector projects and lead by example
+
+Learning Legacy 13
+
+
+
+Conclusion
+
+Every member of a construction project supply chain has a part to play in investing in and supporting innovation, starting with the 
+client.  The ODA built on the successes and lessons learnt from previous construction projects, and demonstrated that efficient, high 
+performing, innovative and sustainable buildings and infrastructure can be delivered, if the right conditions are created.  
+
+The Park project has shown that the changes in practice and behaviour that are required to deliver a low carbon, sustainable built 
+environment are starting to occur.  There is real and significant innovation happening in the construction supply chain, particularly 
+innovation by manufacturers and suppliers.  The Games has provided an opportunity for those manufacturers that are investing in 
+research and development to improve the sustainability impact of their products, to gain a competitive advantage in the marketplace 
+and to be rewarded by increased sales.  
+
+This legacy paper demonstrates the important role played by the client in supporting the uptake of innovations from the construction 
+product supply chain.  The ODA put in place many successful processes to overcome the traditional barriers to the uptake of new and 
+more sustainable products and services.  This has contributed to the ODA being on track to achieve its best practice sustainability targets 
+and raising the benchmark for future projects.  All of this has been achieved while delivering the programme on time and to budget.
+
+The legacy of the Games will depend on the extent to which the industry learns from, adopts and develops the processes used on the 
+project.  It is now up to future projects to take the baton from the ODA.  
+
+14 Learning Legacy
+
+
+
+Appendix A
+
+Case studies: 	 the role of construction product suppliers in delivering 	
+			   innovative solutions  
+
+Learning Legacy Case Studies 15
+
+
+
+Timber – compliance process to ensure responsible sourcing 
+
+Product:  Timber
+
+Use on the Park: All projects
+
+Suppliers: Arbour Forest Products Limited, Arnold Laver & Company Limited, Brooks Bros. (UK) Limited, Christina 
+Meyer Sustainable Wood Products and International Forest Products (UK), Finnforest UK Limited, 
+Hoppings Softwood Products Plc, James Latham Plc, Jewson Ltd, John Brash & Company Limited, 
+Kronospan Limited, MLM Distribution Limited, Premier Forest Products Limited, Ridgeons Limited, 
+Timbmet Limited, Vincent Timber Limited and Wolseley UK Limited
+
+The ODA set a sustainability objective to use only timber from known legal 
+sources and to maximise the use of timber from sustainable sources.  For the 
+latter they required evidence from respected timber certification schemes which 
+had full chain of custody from forest to end user.  To fulfil this requirement the 
+ODA adopted the guidelines of the UK government’s Central Point of Expertise 
+on Timber Procurement16 (CPET). 
+
+Procuring timber from illegal or uncertified sources presented a very high 
+reputational risk to the ODA, so they put in place a rigorous process to ensure 
+
+that contractors and sub-contractors could only use certified timber.  Central to this process was the Timber Supply Panel17, which the 
+ODA established as one of its site-wide supply frameworks.   The Panel comprised 16 suppliers all of which could guarantee that the 
+timber they supplied would be 100% legal and be certified as coming from sustainably managed forests.  The ODA made it very clear 
+that if any non-certified timber was supplied by a member of the Panel they would immediately be asked to leave the Panel.  Non-
+compliance with the policy therefore carried with it a stringent commercial penalty.  
+
+All Games projects were required to order their timber from the Panel and a computer ordering system was set up to facilitate 
+this.  Each project had a designated person who could access the computer system and this helped decrease the chance of timber 
+being brought to site that might not have been ordered through the Panel.  When timber arrived on site it was further checked for 
+appropriate certification by a rigorous auditing procedure. 
+
+In addition, the ODA arranged training sessions to communicate their timber sourcing policy and chain of custody procedures 
+to designers, contractors and sub-contractors and hoped its rigorous auditing approach could be a catalyst for change and shift 
+best practice into normal practice thus leaving a lasting legacy. There is already evidence that the ODA’s timber policy has shifted 
+contractor practices.  Balfour Beatty, for example, has changed its timber policy to align with the ODA.  Significant improvement in 
+knowledge and understanding of certified timber and Chain of Custody is also becoming apparent amongst other designers and 
+contractors and discussions have been held to assess the potential of the ODA model of a Timber Supply Panel being rolled out for 
+other projects.
+
+ ‘The key lesson from the Olympic build programme is the clarity of the message on sustainable procurement from the ODA.  
+It was made clear from the outset what would and would not be allowed.  The contractors knew that their supply chain would 
+be rigorously audited and so they took extra care to ensure that the CPET procurement rules were adhered to not only by 
+their own staff but also with their subcontractors.  This was unique and the success proved that a proactive client can make a 
+significant impact on the type of materials used within the construction process.’
+
+Andrew Laver,  Arnold Laver.
+
+As well as responsible sourcing, timber suppliers also had to be proactive and innovative in their approach so as to differentiate 
+themselves from the other suppliers on the Panel, to win contracts.  For example by implementing minimum packaging policies, 
+implementing low carbon transport logistic plans such as delivery by barge and establishing supply analysis tools.  
+
+For more detailed information about innovation in timber supply to the Park, please refer to the ODA learning legacy paper18, and the 
+BRE’s detailed publication.
+
+16 Learning Legacy Case Studies
+
+
+
+PVC membranes - non-phthalate plasticisers and high recycling
+
+Product:  PVC membranes
+
+Use on the Park: Aquatics, Stadium, Basketball, Water Polo, Eton Manor
+
+Suppliers: Ferrari and Verseidag
+
+This case study neatly demonstrates how a specific innovative solution delivered 
+a specific Games sustainability objective.   
+
+London 2012 will have more temporary venues than any previous Olympic 
+Games or global event and these structures required a covering material (‘wrap’). 
+The criteria for wraps were stringent.  They had to be lightweight, flexible; have 
+a high reuse and recycling potential; have the capability to be printed on, backlit 
+and have lighting projected on them; and have a low carbon footprint.  A detailed 
+study was undertaken to assess different potential cladding systems and PVC 
+proved to be the best option. However, the environmental and social impacts 
+
+associated with its manufacture, use and disposal have often caused concern amongst environmental groups and the ODA was 
+therefore cautious about choosing this material. 
+
+The Sydney 2000 organisers had banned PVC wherever possible because of environmental and social concerns and pressure from 
+stakeholders.  The Athens and Beijing organisers did not adopt the same stance and London 2012 decided to take a different approach. 
+The ODA worked with stakeholders to develop a PVC Policy19 with a stringent specification for the manufacture, use and reuse or 
+recycling of PVC, that required the supply chain to develop innovative and sustainable PVC solutions that has left a positive legacy for 
+the industry.  The ODA PVC Policy aimed to accelerate achievement of the existing industry Vinyl 2010 commitments20.  A number of 
+PVC suppliers for the wraps around the venues attempted to develop products that could comply with the specification whilst also 
+meeting the engineering and architectural specifications.  Ferrari was particularly successful in developing a phthalate free PVC.  There 
+was a very small increase in the cost of the PVC due to the higher cost for the phthalate free plasticiser. 
+
+Some extracts from the PVC specification that incentivised the supply chain to innovate are outlined below, plus the outcome.
+
+Policy specification Outcome
+
+Reasonable endeavours to procure Building wraps on the Park contain no phthalate plasticisers which was a significant 
+PVC produced with non-phthalate achievement (with the exception of the Basketball Arena which was procured prior 
+plasticisers to the non-phthalate material entering the market)
+
+All PVC procured for structural Getting a certificate of performance for wraps with recycled content was difficult 
+membranes must have 30% recycled because it wasn’t virgin feedstock - there were concerns about weathering and 
+content unless this is specifically discolouration.  This policy specification was hard to achieve and more research into 
+precluded by performance requirements how a certification system might be established is required
+
+PVC procured for use in temporary PVC used for temporary membranes will be taken back by the supplier and reused 
+buildings must include a take back and directly or recycled (e.g. into gymnastics mats).  It was not possible to find a legacy 
+re-use clause or a take back and recycle end use for all wraps within the constraints of the procurement strategy.  The 
+clause procurement strategy did not allow for the option of relocation – as this was not part 
+
+of the process, it could be catagorised as an opportunity lost
+
+Learning Legacy Case Studies 17
+
+
+
+Concrete - low environmental impact 
+
+Product:  Concrete
+
+Use on the Park: All projects
+
+Suppliers: London Concrete (part of Aggregate Industries)
+
+ The ODA sustainability targets included requirements for products with lower 
+environmental impacts, at least 20% (by value) of secondary materials used in the 
+permanent venues and the Athletes Village and  25% recycled aggregates (by weight) 
+for the permanent venues and infrastructure.  In addition, 50% of materials were to be 
+delivered to site by rail or water.  These targets were far higher than had previously been 
+set for any other major construction project.
+
+London Concrete, the winner of the framework contract to supply ready-mix concrete 
+to the Park21 invested significant time and resources to develop the innovative solutions 
+to align the supply of concrete with the ODA’s sustainability targets:
+
+•	 The ready-mixed concrete products were designed to have lower embodied impact, especially lower embodied carbon, 
+through cement replacements (pulverised fly ash or ground granulated blast furnace slag).  As a result, there was a 42% 
+reduction in carbon emissions compared with the UK industry average for ready-mixed concrete
+
+•	 It offered a range of secondary and recycled aggregates, including recycled construction and demolition waste and the use of 
+stent (a by-product from the china clay industry in Cornwall)  
+
+•	 The logistics and internal sourcing strategy was developed to ensure that the majority of raw materials could be transported 
+to the site by rail
+
+•	 Aggregate Industries (London Concrete’s parent company) sought certification for responsible sourcing and was the first 
+company in the world to achieve the BES6001 Responsible Sourcing Standard, in March 2009 
+
+Many designers and contractors on Games projects initially specified a standard mix from London Concrete using virgin aggregates 
+and Portland cement and were reluctant to specify cement substitutes or secondary aggregate replacement due to concerns 
+such as strength, strike time and finish quality.  The ODA as client and its Delivery Partner (CLM) played a key role in pushing 
+for improvements in sustainable specifications for concrete with designers and contractors.  Balfour Beatty (the Aquatics Centre 
+contractor) was prepared to test more sustainable concrete mixes including the use of stent in high profile visible concrete, successfully 
+pouring the internal walls of the Aquatics Centre with 76% stent to an exceptional high quality finish.   Once one contractor had 
+successfully used the new concrete mix other contractors were willing to follow suit and the aversion to risk was overcome.
+
+The concrete products that have been brought to market as a result of the ODA’s sustainability targets, the projects’ sustainable 
+concrete specifications and the investment in research and development by London Concrete, have set new sustainability standards 
+for concrete across the industry.  Specifications used on the Park are already being used in other projects, delivering significant benefits 
+across a wide range of sustainability indicators. 
+
+Please refer to the ODA Sustainability Learning Legacy paper on ‘Procurement and use of sustainable concrete’22 for more detailed 
+information about achievements and lessons learnt.
+
+18 Learning Legacy Case Studies
+
+
+
+LED lighting – carbon savings
+
+Product:  LED Lighting
+
+Use on the Park: Athletes Village
+
+Suppliers: Philips
+
+The Athletes Village planning commitments and the target to achieve Code for Sustainable Homes23 
+
+Level 4 inspired Lend Lease (the Athletes Village developer) to explore innovative solutions for energy 
+efficient lighting.  
+
+In 2006, when concept designs for the Athletes Village were first being developed, consultants would 
+have tended to specify 50w halogen light bulbs.  However Lend Lease engaged with the manufacturer 
+Philips to assess technological developments in energy efficient lighting that were likely to be coming 
+to market for domestic properties by 2012.  Philips predicted that wattages of 7w rather than 50w 
+could be achieved around 2012.  The energy saving benefits of using such low voltage lighting would be 
+significant across the development of 2,818 dwellings and this was very appealing to Lend Lease.  Given 
+
+the scale and profile of the project, Philips brought forward its development of 7w LED lighting which has been installed.  Independent 
+calculations show that across the Athletes Village, the energy efficient lighting is predicted to save 5,317 tonnes of CO2 annually, 
+representing an 85% reduction on standard 60w lighting.  Dwelling occupants in the future will also benefit from reduced energy bills.
+
+This energy efficient product is available on the market earlier than Philips originally planned because of the demand by such a 
+major client as the Games.  The developer’s (Lend Lease) early engagement with the product manufacturer to discuss technological 
+innovation and availability enabled the supplier to accelerate its research and development programme.
+
+Learning Legacy Case Studies 19
+
+
+
+Plastic piping systems 
+
+Product:  Ground soil and waste drainage pipes
+
+Use on the Park: Throughout the Olympic Park
+
+Suppliers: Polypipe 
+
+The supplier Polypipe was engaged with the ODA and Bovis Lend Lease (the 
+main contractor for the Athletes Village) early on, was proactive in promoting itself 
+and was willing to develop its products as needed.  This ensured the PVC piping 
+systems supplied to the Park met all of the ODA’s requirements.  From this early 
+engagement, Polypipe developed other sustainability elements for its products so 
+as to be in a stronger position to compete for the Games work.  As a business, 
+Polypipe has invested heavily in expanding its UK manufacturing facilities which 
+enabled the company to introduce innovative new product ranges.
+
+For the Games, Polypipe:
+
+•	 Supplied products that were already in their portfolio - Polypipe supplied the plastic above-ground soil and 
+waste drainage on all of the major projects on the Park including the Olympic Stadium, Velodrome and Athletes Village, 
+bidding for each individually  
+
+•	 Brought product from its European partner to the UK market - Polypress is a high performance multi 
+layer pipework system for water supply and distribution and this type of system, whilst relatively new to the UK, is widely 
+used across Europe.  Polypipe partnered with a major European manufacturer to bring a range to market suitable for UK 
+applications.  This product has been widely used across the Athletes Village, providing a number of advantages to the project 
+not least because of its lightweight nature and requiring no hot works to install.  This product was also widely used for the 
+many bathroom pods manufactured off site for the Athletes Village
+
+•	 Developed new products as a result of client demand –The ‘Firetrap’ fire protection system for above ground 
+drainage systems and Terrain Fuze HDPE pipework – which is a substitute for cast iron drainage, has been widely used 
+across the Park and particularly on the Athletes Village
+
+David Higgins, Chief Executive of the Olympic Delivery Authority presented Polypipe with the ‘Manufacturer of the Year’ award at the 
+2010 Building Awards in recognition of their many major successes24 The company’s commitment to sustainability, early engagement 
+with the ODA and contractors, proactive attitude and communication of sustainability objectives down the supply chain were all key 
+elements to deliver more sustainable outcomes for the Park.
+
+However, Polypipe was unsuccessful in convincing contractors to purchase its new and innovative water supply system called Terrain 
+HPPE (High Pressure Polyethylene) for use on the Olympic Stadium, though it was used later for the Boosted Cold Water System ring 
+mains on the Athletes Village.  Terrain HPPE can be prefabricated in a factory to pre-set radius bends (reducing waste).  This product 
+was particularly suited for use on the Olympic Stadium because of the venue’s round shape.  The system utilised an innovative, flame 
+free jointing mechanism and was much lighter than traditional materials (bringing health and safety benefits).  The M&E subcontractor on 
+the project, already appointed for this package, put the product forward, but the design consultants would not accept it because it had 
+not been used before.  Although Polypipe had done some small trials and had warranties in place, the product had not been officially 
+launched (so there was no official literature or information on Polypipe’s website).  It was therefore deemed too risky for the project.  
+
+This is an example of designers being reluctant to use new and innovative products and shows the need for suppliers to put forward 
+products that have been launched and proven for risk averse projects like the Games.  
+
+20 Learning Legacy Case Studies
+
+
+
+Logistics - use of rail to transport materials  
+
+Product:  Rail Transport
+
+Use on the Park: Throughout the Olympic Park
+
+Suppliers: DB Schenker 
+
+As DB Schenker (the largest rail logistics company in Britain) already owned the 
+rail head in Stratford, near the Park construction site, it proactively approached 
+the consortia tendering for the Olympic Delivery Partner role with a proposal 
+for rail transport to deliver materials to the Games site.  This was of great interest 
+to CLM which was bidding to be the ODA Delivery Partner and had as one of 
+its stated targets to deliver 50% of materials by non road methods.  Subsequently, 
+CLM was chosen as the delivery partner and DB Schenker with its proposed 
+sustainable transport solution became a Tier 1 contractor to CLM. 
+
+As a result, the ODA set the sustainability target for 50% of materials (by weight) 
+to be delivered by rail or water.  The early feasibility work carried out by DB Schenker gave the ODA the confidence to set a very 
+challenging target for sustainable transport of goods and materials.  
+
+Supplying such a large percentage of materials and goods to a major regeneration project was very challenging.  An agreement was 
+set up between the rail head provider and the ODA, whereby DB Schenker leased the rail head and operated a logistics service to 
+rail providers.  They also competed to provide rail services to contractors.  The terminal supplied all of the contractors on the Park 
+as well as Westfield and the Olympic Village.  This made the logistics complex and required process innovation in inventory and order 
+management.
+
+DB Schenker discussed its sustainable transport solution with contractors and the supply chain early on via the Olympic Liaison 
+Group Meetings and had them thinking about rail deliveries as an early option.  The biggest challenge was to convince contractors 
+and the supply chain to use rail services rather than road transport with which they were familiar.  Whilst there was reluctance initially, 
+contractors came to rely more and more on rail as they began to realise that it was easy to use, flexible and had logistical advantages 
+over other forms of transport.  The biggest issue however was programming.  The more notice the contractor could provide the easier 
+it was to supply a full logistics service.  Marketing and selling the service and providing good communications was the most important 
+issue in winning over the contractors.  
+
+DB Schenker’s investment was largely recovered through aggregates, but there was a number of other examples of rail deliveries, such 
+as for tiles for the Aquatics Centre which were delivered from Italy and bathroom pods for the Media Centre which were delivered 
+from Scunthorpe.
+
+The ODA is on track to meet its target for 50% sustainable transport, with the current percentage at 67%.25  DB Schenker’s solution 
+resulted in less traffic on local roads, lower emissions of CO2 and other pollutants and a reduction in the social impacts of deliveries by 
+road (congestion and accidents).  It also contributed to security of supply and just in time deliveries.
+
+This case study demonstrates that if by providing the right site and the right people with the right attitude, outstanding levels of 
+sustainability can be achieved.  
+
+Learning Legacy Case Studies 21
+
+
+
+Asphalt - low embodied carbon 
+
+Product:  Bardon Foamix 
+
+Use on the Park: Temporary road construction 
+
+Suppliers: Aggregate Industries 
+
+Foamix is a cold foamed bitumen asphalt that is suitable for use on lightly trafficked roads.  
+The material is supplied and laid cold – so it has a lower embodied carbon and is also safe 
+to the touch.   
+
+On the Park Foamix was used as a replacement sub base for temporary roads and was 
+manufactured using 5000m3 of material from demolition of the Park, saving 25 tonnes of 
+CO2.  100% of the product can be recycled.  
+
+This product, which had been used on many projects, was presented as a solution to the 
+ODA and its contractors by Aggregate Industries and supported by the Delivery Partner 
+Materials Manager.  
+
+Carpet - high recycled content
+
+Product:  Carpet 
+
+Use on the Park: IBC, Athletes Village 
+
+Suppliers: Interface 
+
+Interface is a carpet supplier with strong sustainability commitments that are 
+implemented in practice.  This focus on sustainability is derived from an internal 
+drive to minimise the environmental impact of its products and demand for 
+sustainable products from clients.  The industry carpeting best practice performance 
+standards (which are much more stringent than legislation) have also been a driver 
+for improvement.   
+ 
+A Life Cycle Assessment (LCA) of Interface’s carpet revealed that the biggest 
+environmental impact was the yarn and in response Interface developed a carpet 
+with 100% recycled yarn.  It also focused on incorporating other recycled materials 
+
+into its products which now have about 50% recycled content, primarily because of the backing, which is made from limestone and a 
+sophisticated recycled bitumen.  The carpet was chosen because of its low life cycle impact compared to other products, plus it has better 
+recyclability.  Interface has removed VOCs from its products by using a sticker solution, rather than using glue and this helps recyclability 
+and at end of life.  Interface has invested in equipment to separate the yarn from the backing, to facilitate recycling of yarn-to-yarn 
+and backing-to-backing and has sought Environmental Product Declarations for its products; once the European standard CEN 350 is 
+introduced Interface will align its LCA to this.  Interface was very proactive in engaging with the ODA and contractors on the Park.
+
+The ODA’s sustainability targets did not require Interface to design anything new; all the products supplied already existed and already 
+met the ODA’s requirements, but the ODA’s sustainability targets confirmed the trajectory of a the business plan that Interface had 
+already started.  Interface did however implement a take-back initiative on the Games which they had not done previously.  
+
+On the International Broadcast Centre (IBC), the Sustainability Manager (who was previously aware of Interface’s sustainable solutions) 
+persuaded the project team to move from the original architect’s specification of using ‘cut pile carpet’, to Interface’s specification for 
+‘loop yarn carpet’.  Loop yarn uses 50% less yarn than the original product, has 70% recycled content and also works aesthetically.  
+
+The importance of LCAs and client demand for sustainable products and practices has been reinforced by Interface.
+
+22 Learning Legacy Case Studies
+
+
+
+Plastic kerbstones – high recycled content
+
+Product:  Charcon Durakerb 
+
+Use on the Park: Temporary roads 
+
+Suppliers: Charcon (part of Aggregate Industries Group)
+
+Durakerb plastic kerbstones have been used for civil engineering and highways 
+trades in the UK since 2006.  The product is manufactured using 88% recycled 
+material – a polymer blend based on waste plastic bottles that would otherwise 
+be destined for landfill.  
+
+The product represents a 20% carbon saving compared with a concrete kerb.  It is 
+very light (6kg compared to 67kg) making it easy to handle with associated safety 
+advantages.  In addition, it has a very fast laying time compared to other materials 
+and when cut does not produce crystalline silica dust.  The Delivery Partner 
+Materials Manager informed designers and contractors for the temporary roads 
+
+about the product, but they were initially reluctant to use it.  The Materials Manager pursued use of the product with the assistance of 
+the Delivery Partner Project Management team, due to its low environmental impact and wider benefits.  The product has a PAS 2050 
+accredited carbon footprint and is BBA-HAPAS accredited, both certifications improving its uptake by contractors.
+
+Gas generators - improved energy efficiency
+
+Product:  Gas generators 
+
+Use on the Park: Athletes Village  
+
+Suppliers: Aggreko
+
+Bovis Lend Lease needed 9MW of temporary power during construction of the Athletes Village 
+for a period of two years.  Bovis had a choice regarding the type of power, either diesel powered 
+generators that are commonly used, or gas powered generators, which although common in other 
+industrial sectors, had previously not been used for temporary power generation in construction in 
+the UK.  Bovis carried out an assessment of the two options.  Simple economics dictated the use of 
+diesel equipment, as the hire costs were roughly half that of the gas.  However, fuel costs for diesel 
+were significantly higher than for the gas.  In addition, Bovis analysed the wider implications of the two 
+options including the relative social and environmental implications.
+
+Bovis chose gas generators and rented Aggreko’s lean-burn reciprocating gas engine technology.  This 
+had the following benefits:
+
+•	 Reduction in nuisance, congestion and impact on air quality on the local community
+
+•	 Reduced CO2 emissions by 10, 552 tonnes (22.2%) 
+
+•	 Economic cost saving of around £13 million
+
+•	 Provided UK employment
+
+The technology operates on pipeline natural gas and uses a heavy duty, spark ignited, turbocharged engine.  The patented fuel system 
+and advanced engine design ensure emission regulations are met.  
+
+The willingness of Bovis Lend Lease to explore the use of innovative sustainable alternatives and to actively choose to rent the product 
+(even though the technology had not been used in this way before), set new standards for the industry.   
+
+Learning Legacy Case Studies 23
+
+
+
+ACKNOWLEDGEMENTS
+
+Authors: 
+
+Jo Carris (MustRD), Dan Epstein (Useful Simple Projects), Jane Thornback (Construction Products Association),  
+Simon Storer (Construction Products Association), Peter Bonfield (BRE).
+
+Peer reviewers: 
+
+Judith Sykes (MustRD), Jo Smit (BRE).
+
+Contributors: 
+
+Interviews (face-to-face or via email)
+
+Peter Bonfield (BRE), Jo Smit (BRE), Kerry Underhill (ODA), Mike Scott (Government Olympic Executive – Sustainability), Simon 
+Storer (Construction Products Association), Kirsten Henson (KLH Sustainability), David Legge (DB Schenker), Adam Turk (Polypipe), 
+Francoise Fournier (Ferrari), Miles Watkins (Aggregate Industries), Ramon Arratia (Interface), Peter King (Saint Gobain), Shalini Patel 
+(Saint Gobain), Neil Collins (Ecophon), Miles Ellison (British Gypsum), John Wallace (Jewson), Dan Cobe (Jewson), Piers Latham 
+(Lathams), Andrew Laver (Arnold Laver), Vanessa Good (Crossrail), John Mead (Crossrail), Chloe Souque (BioRegional), Nigel Worboys 
+(Carillion), Dean Goodliffe (ISG), Simon Attwood (ISG), Andrew Kinsey (Bovis Lend Lease),  Dorte Rich-Jorgenson (Atkins), Arup.
+
+Survey respondents
+
+J&P Building Systems Ltd, Leaderflush Shapland, Saint-Gobain Ltd, BASF, Twyford Bathrooms, Construction Products Solutions 
+International Ltd, PEIKKO UK LTD, Hird Rail Services Ltd, Forticrete, Brett Landscaping, ICI Paints Akzo Nobel, JELD-WEN, London 
+Concrete, Saint Gobain, Knauf Drywall, Butyl Products Limited, BASF plc Construction Chemicals, Marshalls plc, Thorp Precast Limited, 
+Eaton Electric Ltd, A-Plant.
+
+ 
+
+24 Learning Legacy
+
+
+
+References 
+1.	 Olympic Delivery Authority, 2007.  Sustainable Development Strategy. 
+
+Available from: www.london2012.com/documents/oda-publications/oda-sustainable-development-strategy-full-version.pdf
+
+2.	 The Delivery Partner, CLM, is a consortium of CH2MHill, Laing O’Rourke and Mace
+
+3.	 HM Government, 2010.  Low Carbon Construction Innovation and Growth Team Final Report.   
+Available from: www.bis.gov.uk/assets/biscorebusiness-sectors/docs/l/10-1266-low-carbon-construction-igt-final-report.pdf
+
+4.	 Latham, M. Constructing the team - “The Latham report”: Final report of the government/industry review of procurement and contractual 
+arrangements in the UK construction industry, 1994.   
+Available from: http://products.ihs.com/cis/Doc.aspx?AuthCode=&DocNum=84343 
+
+5.	 Egan, J, 1998.  Rethinking Construction: The Report of the Construction Task Force.   
+Available from: www.constructingexcellence.org.uk/pdf/rethinking%20construction/rethinking_construction_report.pdf
+
+6.	 Strategic Forum, 2005.  2012 Construction Commitments.   
+Available from: www.strategicforum.org.uk/2012CC.shtml
+
+7.	 HM Government. 2008.  Strategy for Sustainable Construction.   
+Available from: www.bis.gov.uk/files/file46535.pdf
+
+8.	 Cabinet Office, 2011.  Government Construction Strategy.   
+Available from: www.cabinetoffice.gov.uk/sites/default/files/resources/Government-Construction-Strategy.pdf 
+
+9.	 Olympic Delivery Authority, 2006.  Procurement Policy.   
+Available from: www.london2012.com/documents/business/oda-procurement-policy.pdf
+
+10.	 Proceedings of ICE.  Civil Engineering 164,  May 2011, Pages 34–39.  Delivering London 2012 Olympic and Paralympic Games: Procurement.     
+Available from: www.icevirtuallibrary.com/docserver/fulltext/cien-164-5-034.pdf?expires=1310657744&id=id&accname=guest&checksum=A6D4069
+2DC753DB8B662CE9DB18845A1
+
+11.	 Olympic Delivery Authority, 2007. Supplier Guide  
+Available from: www.london2012.com/documents/business/oda-supplier-guide-june-2007.pdf
+
+12.	 CompeteFor website.   
+Available from: www.competefor.com/business/login.jsp
+
+13.	 The Construction Products Association (www.constructionproducts.org.uk) is an umbrella organisation for the product manufacturing and 
+distributors sector.  Membership comprises 43 trade associations and 24 of the largest manufacturers and distributors in the UK.  Overall the 
+Association represents 85% by value of the industry and thus has an unrivalled network and access to manufacturers. 
+
+14.	 Proceedings of ICE.  Civil Engineering 164, May 2011, Pages 27 – 33.  Delivering London 2012 Olympic and Paralympic Games: Sustainability Strategy.  
+Available from: www.icevirtuallibrary.com/docserver/fulltext/cien-164-5-027.pdf?expires=1310658224&id=id&accname=guest&checksum=003F6E43
+CD2CA07386FCC80DD700858D 
+
+15.	 NESTA, 2007.  Hidden innovation: How innovation happens in six ‘low innovation’ sectors.   
+Available from;’ www.nesta.org.uk/library/documents/Nesta%20Report%20HiD%20Innov%20final.pdf
+
+16.	 The Central Point of Expertise on Timber.   
+Available from: www.cpet.org.uk/
+
+17.	 Olympic Delivery Authority, 2008.  ODA leads the way by announcing new supplier panel for legal and sustainable timber.   
+Available from: www.london2012.com/press/media-releases/2008/11/oda-leads-the-way-by-announcing-new-supplier-panel-for-legal-and-sustainable.
+php
+
+18.	 Suttie, E. 2011.  Innovation in timber supply on the London 2012 Olympic and Paralympic Games.  ODA Learning Legacy Paper.   
+Available from: www.london2012.com/learninglegacy
+
+19.	 Olympic 9Delivery Authority, 2009.   Policy on the use of PVC for the London 2012 Olympic and Paralympic Games.   
+Available from: www.london2012.com/documents/imported/use-of-pvc-policy.pdf
+
+20.	 Vinyl 2010.   
+Available from: www.vinyl2010.org/
+
+21.	 Olympic Delivery Authority, 2007.  Concrete contract for Olympic Park cements sustainability.   
+Available from: www.london2012.com/press/media-releases/2007/12/concrete-contract-for-olympic-park-cements-sustainability.php
+
+22.	 Henson, K. 2011.  Procurement and use of sustainable concrete on the Olympic Park.  ODA Sustainability Learning Legacy Paper.   
+Available from: Available from: www.london2012.com/learninglegacy
+
+23.	 Code for Sustainable Homes.   
+Available from: www.planningportal.gov.uk/buildingregulations/greenerbuildings/sustainablehomes/
+
+24.	 Outstanding business performance scoops major industry award for Polypipe Terrain.   
+Available from: www.polypipe.com/polypipe/controller?action=VIEW-NewsDetails&newsid=359
+
+25.	 Olympic Delivery Authority, 2011.  London 2012 Olympic and Paralympic Games Sustainability Report; a blueprint for change.   
+Available from: www.london2012.com/documents/sustainability/london-2012-sustainability-report-a-blueprint-for-change.pdf
+
+Learning Legacy 25
+
+
+
+26 Store Street 
+London WC1E 7BT
+t. 020 7323 3770 
+f. 020 7323 0307
+
+www.constructionproducts.org.uk
+
+March 2012
+
+© 2012 Construction Products Association
+Produced using chemical free computer-to-plate technology, 
+
+printed on chlorine-free sugar cane paper using soya & vegetable based inks.
+Design - www.tomcatdesign.co.uk
+
+2	  BRE and BBA C
