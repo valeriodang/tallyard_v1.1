@@ -1,0 +1,5913 @@
+﻿i 
+ 
+
+
+
+ 
+ 
+
+TABLE OF CONTENTS 
+TABLE OF CONTENTS .................................................................................................. II 
+
+RATING SYSTEM SCORECARDS ................................................................................. 1 
+Credit Category View ................................................................................................................................. 1 
+Impact Area Views ..................................................................................................................................... 3 
+
+INTEGRATIVE PROCESS, PLANNING, AND ASSESSMENTS .................................... 5 
+Climate Resilience Assessment ................................................................................................................. 5 
+
+Intent ................................................................................................................................... 5 
+Requirements ....................................................................................................................... 5 
+
+Human Impact Assessment ....................................................................................................................... 7 
+Intent ................................................................................................................................... 7 
+Requirements ....................................................................................................................... 7 
+
+Carbon Assessment ................................................................................................................................... 8 
+Intent ................................................................................................................................... 8 
+Requirements ....................................................................................................................... 8 
+
+Integrative Design Process ........................................................................................................................ 9 
+Intent ................................................................................................................................... 9 
+Requirements ....................................................................................................................... 9 
+
+LOCATION AND TRANSPORTATION ......................................................................... 11 
+Compact and Connected Development ................................................................................................... 11 
+
+Intent ................................................................................................................................. 11 
+Requirements ..................................................................................................................... 11 
+
+Transportation Demand Management ..................................................................................................... 15 
+Intent ................................................................................................................................. 15 
+Requirements ..................................................................................................................... 15 
+
+Electric Vehicles ....................................................................................................................................... 20 
+Intent ................................................................................................................................. 20 
+Requirements ..................................................................................................................... 20 
+
+WATER EFFICIENCY ................................................................................................... 22 
+Minimum Water Efficiency ....................................................................................................................... 22 
+
+ 
+ 
+
+
+
+ 
+ 
+
+Intent ................................................................................................................................. 22 
+Requirements ..................................................................................................................... 22 
+
+Water Metering and Leak Detection ........................................................................................................ 25 
+Intent ................................................................................................................................. 25 
+Requirements ..................................................................................................................... 25 
+
+Enhanced Water Efficiency ...................................................................................................................... 27 
+Intent ................................................................................................................................. 27 
+Requirements ..................................................................................................................... 27 
+
+ENERGY AND ATMOSPHERE ..................................................................................... 32 
+Estimated Energy Use and Operational Carbon Projection .................................................................... 32 
+
+Intent ................................................................................................................................. 32 
+Requirements ..................................................................................................................... 32 
+
+Minimum Energy Efficiency ...................................................................................................................... 34 
+Intent ................................................................................................................................. 34 
+Requirements ..................................................................................................................... 34 
+
+Fundamental Commissioning .................................................................................................................. 37 
+Intent ................................................................................................................................. 37 
+Requirements ..................................................................................................................... 37 
+
+Energy Metering and Reporting ............................................................................................................... 39 
+Intent ................................................................................................................................. 39 
+Requirements ..................................................................................................................... 39 
+
+Fundamental Refrigerant Management ................................................................................................... 41 
+Intent ................................................................................................................................. 41 
+Requirements ..................................................................................................................... 41 
+
+Electrification ............................................................................................................................................ 43 
+Intent ................................................................................................................................. 43 
+Requirements ..................................................................................................................... 43 
+
+Enhanced Energy Efficiency .................................................................................................................... 48 
+Intent ................................................................................................................................. 48 
+Requirements ..................................................................................................................... 48 
+
+Renewable Energy ................................................................................................................................... 55 
+Intent ................................................................................................................................. 55 
+Requirements ..................................................................................................................... 55 
+
+ 
+ 
+
+
+
+ 
+ 
+
+Enhanced Commissioning ....................................................................................................................... 58 
+Intent ................................................................................................................................. 58 
+Requirements ..................................................................................................................... 58 
+
+Grid Interactive ......................................................................................................................................... 62 
+Intent ................................................................................................................................. 62 
+Requirements ..................................................................................................................... 62 
+
+Enhanced Refrigerant Management ........................................................................................................ 66 
+Intent ................................................................................................................................. 66 
+Requirements ..................................................................................................................... 66 
+
+MATERIALS AND RESOURCES ................................................................................. 69 
+Planning for Zero Waste Operations........................................................................................................ 69 
+
+Intent ................................................................................................................................. 69 
+Requirements ..................................................................................................................... 69 
+
+Quantify and Assess Embodied Carbon .................................................................................................. 71 
+Intent ................................................................................................................................. 71 
+Requirements ..................................................................................................................... 71 
+
+Interior Materials Reuse ........................................................................................................................... 72 
+Intent ................................................................................................................................. 72 
+Requirements ..................................................................................................................... 72 
+
+Reduce Embodied Carbon ...................................................................................................................... 75 
+Intent ................................................................................................................................. 75 
+Requirements ..................................................................................................................... 75 
+
+Low-Emitting Materials............................................................................................................................. 77 
+Intent ................................................................................................................................. 77 
+Requirements ..................................................................................................................... 77 
+
+Building Product Selection and Procurement .......................................................................................... 82 
+Intent ................................................................................................................................. 82 
+Requirements ..................................................................................................................... 82 
+
+Construction and Demolition Waste Diversion ........................................................................................ 85 
+Intent ................................................................................................................................. 85 
+Requirements ..................................................................................................................... 85 
+
+INDOOR ENVIRONMENTAL QUALITY ....................................................................... 87 
+Construction Management ....................................................................................................................... 87 
+
+ 
+ 
+
+
+
+ 
+ 
+
+Intent ................................................................................................................................. 87 
+Requirements ..................................................................................................................... 87 
+
+Fundamental Air Quality .......................................................................................................................... 89 
+Intent ................................................................................................................................. 89 
+Requirements ..................................................................................................................... 89 
+
+No Smoking ............................................................................................................................................. 91 
+Intent ................................................................................................................................. 91 
+Requirements ..................................................................................................................... 91 
+
+Enhanced Air Quality ............................................................................................................................... 92 
+Intent ................................................................................................................................. 92 
+Requirements ..................................................................................................................... 92 
+
+Occupant Experience ............................................................................................................................... 94 
+Intent ................................................................................................................................. 94 
+Requirements ..................................................................................................................... 94 
+
+Accessibility and Inclusion ..................................................................................................................... 100 
+Intent ............................................................................................................................... 100 
+Requirements ................................................................................................................... 100 
+
+Resilient Spaces .................................................................................................................................... 102 
+Intent ............................................................................................................................... 102 
+Requirements ................................................................................................................... 102 
+
+Air Quality Testing and Monitoring ......................................................................................................... 104 
+Intent ............................................................................................................................... 104 
+Requirements ................................................................................................................... 104 
+
+PROJECT PRIORITIES .............................................................................................. 108 
+Project Priorities ..................................................................................................................................... 108 
+
+Intent ............................................................................................................................... 108 
+Requirements ................................................................................................................... 108 
+
+LEED AP ................................................................................................................................................ 110 
+Intent ............................................................................................................................... 110 
+Requirements ................................................................................................................... 110 
+
+APPENDIX I LEED PLATINUM REQUIREMENTS ..................................................... 111 
+ 
+
+ 
+ 
+
+
+
+ 
+
+RATING SYSTEM SCORECARDS 
+CREDIT CATEGORY VIEW 
+
+Integrative Process, Planning, and Assessments (IP) 1 
+ 
+
+ IPp1 Climate Resilience Assessment Required 
+ IPp2 Human Impact Assessment Required 
+ IPp3 Carbon Assessment Required 
+ IPc1 Integrative Design Process 1 
+         
+
+ Location and Transportation (LT) 14 
+ LTc1 Compact and Connected Development 8 
+ LTc2 Transportation Demand Management 4 
+ LTc3 Electric Vehicles 2 
+         
+
+ Water Efficiency (WE) 10 
+ WEp1 Minimum Water Efficiency Required 
+ WEc1 Water Metering and Leak Detection 2 
+ WEc2 Enhanced Water Efficiency 8 
+         
+
+ Energy and Atmosphere (EA) 31 
+ EAp1 Estimated Energy Use and Operational Carbon Projection  Required 
+ EAp2 Minimum Energy Efficiency Required 
+ EAp3 Fundamental Commissioning Required 
+ EAp4 Energy Metering and Reporting Required 
+ EAp5 Fundamental Refrigerant Management Required 
+ EAc1 Electrification 5 
+ EAc2 Enhanced Energy Efficiency 12 
+ EAc3 Renewable Energy 5 
+ EAc4 Enhanced Commissioning 4 
+ EAc5 Grid Interactive 3 
+ EAc6 Enhanced Refrigerant Management 2 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 1
+   
+
+
+
+ 
+
+ Materials and Resources (MR) 26 
+ MRp1 Planning for Zero Waste Operations Required 
+ MRp2 Quantify and Assess Embodied Carbon Required 
+ MRc1 Interior Materials Reuse 4 
+ MRc2 Reduce Embodied Carbon  4 
+ MRc3 Low-Emitting Materials   4 
+ MRc4 Building Product Selection and Procurement  10 
+
+ MRc5 Construction and Demolition Waste Diversion 4 
+         
+
+ Indoor Environmental Quality (EQ) 18 
+ EQp1 Construction Management  Required 
+ EQp2 Fundamental Air Quality Required 
+ EQp3 No Smoking  Required 
+ EQc1 Enhanced Air Quality 2 
+ EQc2 Occupant Experience 7 
+ EQc3 Accessibility and Inclusion 2 
+ EQc4 Resilient Spaces 3 
+ EQc5 Air Quality Testing and Monitoring 4 
+         
+
+ Project Priorities (PR) 10 
+ PRc1 Project Priorities 9 
+ PRc2 LEED AP 1 
+         
+ Total Possible Points 110 
+ 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 2
+   
+
+
+
+ 
+
+IMPACT AREA VIEWS 
+Decarbonization 
+IP Prerequisite Carbon Assessment Required 
+
+IP Credit Integrative Design Process 1 
+
+LT Credit  Compact and Connected Development 8 
+
+LT Credit  Transportation Demand Management 4 
+
+LT Credit  Electric Vehicles 2 
+
+WE Prerequisite Minimum Water Efficiency Required 
+
+WE Credit Water Metering and Leak Detection 2 
+
+WE Credit Enhanced Water Efficiency 8 
+
+EA Prerequisite Estimated Energy Use and Operational Carbon Projection Required 
+
+EA Prerequisite Minimum Energy Efficiency Required 
+
+EA Prerequisite Fundamental Commissioning Required 
+
+EA Prerequisite Energy Metering and Reporting Required 
+
+EA Prerequisite Fundamental Refrigerant Management Required 
+
+EA Credit Electrification 5 
+
+EA Credit Enhanced Energy Efficiency 12 
+
+EA Credit Renewable Energy 5 
+
+EA Credit Enhanced Commissioning 4 
+
+EA Credit Grid Interactive 3 
+
+EA Credit Enhanced Refrigerant Management 2 
+
+MR Prerequisite Planning for Zero Waste Operations Required 
+
+MR Prerequisite Quantify and Assess Embodied Carbon  Required 
+
+MR Credit Interior Materials Reuse 4 
+
+MR Credit Reduce Embodied Carbon  4 
+
+MR Credit Building Product Selection and Procurement 10 
+
+MR Credit Construction and Demolition Waste Diversion 4 
+ 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 3
+   
+
+
+
+ 
+
+Quality of life 
+
+IP Prerequisite Climate Resilience Assessment Required 
+
+IP Prerequisite Human Impact Assessment Required 
+
+IP Credit Integrative Design Process 1 
+
+LT Credit  Compact and Connected Development 8 
+
+LT Credit  Transportation Demand Management 4 
+
+WE Credit Water Metering and Leak Detection 2 
+
+MR Credit Low Emitting Materials 4 
+
+MR Credit Building Product Selection and Procurement 10 
+
+EQ Prerequisite Construction Management Required 
+
+EQ Prerequisite Fundamental Air Quality Required 
+
+EQ Prerequisite No Smoking Required 
+
+EQ Credit Enhanced Air Quality 2 
+
+EQ Credit Occupant Experience 7 
+
+EQ Credit Accessibility and Inclusion 2 
+
+EQ Credit Resilient Spaces 3 
+
+EQ Credit Air Quality Testing and Monitoring 4 
+ 
+
+Ecological conservation and restoration 
+
+IP Credit Integrative Design Process 1 
+
+LT Credit Compact and Connected Development 8 
+
+WE Prerequisite Minimum Water Efficiency Required 
+
+WE Credit Water Metering and Leak Detection 2 
+
+WE Credit Enhanced Water Efficiency 8 
+
+MR Prerequisite Planning for Zero Waste Operations Required 
+
+MR Credit Interior Materials Reuse 4 
+
+MR Credit Building Product Selection and Procurement 10 
+
+MR Credit Construction and Demolition Waste Diversion 4 
+
+EQ Prerequisite No Smoking Required 
+ 
+  
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 4
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ 
+
+ Quality of Life 
+
+— Ecological Conservation 
+
+INTEGRATIVE PROCESS, PLANNING,  and Restoration 
+ 
+
+AND ASSESSMENTS 
+Integrative Process, Planning and Assessments Prerequisite 
+
+CLIMATE RESILIENCE ASSESSMENT 
+IPp1 
+REQUIRED 
+
+INTENT 
+To promote comprehensive assessment of observed, projected, and future natural hazards for 
+climate resilience, aiming to increase awareness of hazards, increase transparency of risks, 
+reduce vulnerabilities, and ensure long-term safety and sustainability. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N/A  
+Climate and Natural Hazard Assessment 
+
+ 
+Complete a climate and natural hazard assessment. 
+ 
+As part of the assessment, identify observed, projected, and future natural hazards that could 
+potentially affect the project site and building function. Address site-specific natural hazards, 
+including, but not limited to, drought, extreme heat, extreme cold, flooding, hurricanes and high 
+winds, hail, landslides, sea level rise and storm surge, tornadoes, tsunamis, wildfires and 
+smoke, winter storms, and other relevant hazards. 
+ 
+Identify two priority hazards, at minimum, to address through proposed design strategies. For 
+each priority hazard, the project team must assess and specify the following: 
+ 
+
+• Intergovernmental Panel on Climate Change (IPCC) emissions scenario used, 
+specifying the shared socioeconomic pathways 
+
+• Projected service life of the LEED project (e.g., fiscal year 2050 or 100 years) 
+• Hazard level 
+• Hazard risk rating 
+• Exposure, sensitivity, adaptive capacity, vulnerability, and overall risk levels 
+• Potential impact on the project site and building function  
+• Potential impact on the project site during construction  
+
+ 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 5
+   
+
+
+
+ 
+
+Where possible, use the information from the assessment to inform the planning, design, and 
+operations and maintenance of the project and describe how project-specific strategies were 
+considered. 
+ 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 6
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ 
+
+ Quality of Life 
+
+— Ecological Conservation 
+Integrative Process, Planning and Assessments Prerequisite and Restoration 
+
+HUMAN IMPACT ASSESSMENT  
+
+IPp2 
+REQUIRED 
+
+INTENT 
+To ensure that project development is guided by a thorough understanding of the social context 
+of the local community, workforce, and supply chain and to address potential social inequities. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N/A  
+Human Impact Assessment 
+
+ 
+Complete a human impact assessment that draws on relevant information from the following 
+four specified categories, as applicable:  
+ 
+
+• Demographics: may include race and ethnicity, gender, age, income, employment rate, 
+population density, education levels, household types, and identification of nearby 
+vulnerable populations. 
+
+• Local infrastructure and land use: may include adjacent transportation and pedestrian 
+infrastructure, adjacent diverse uses, relevant local or regional sustainability 
+goals/commitments, and applicable accessibility code(s). 
+
+• Human use and health impacts: may include housing affordability and availability, 
+access to social services (e.g., healthcare, education, social support networks), 
+community safety, local community groups, and supply chain and construction workforce 
+protections. 
+
+• Occupant experience: may include opportunities for daylight, views, and operable 
+windows; environmental conditions of air and water; and adjacent soundscapes, lighting, 
+and wind patterns within the context of surrounding buildings (microclimate, solar scape, 
+and neighboring structures). 
+
+• Other: (specify). 
+ 
+Where possible, use the information from the assessment to inform the planning, design, and 
+operations and maintenance of the project and describe how project-specific strategies were 
+considered. 
+ 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 7
+   
+
+
+
+Impact Area Alignment 
+
+ Decarbonization 
+ 
+
+— Quality of Life 
+
+Integrative Process, Planning and Assessments Prerequisite — Ecological Conservation 
+and Restoration 
+
+CARBON ASSESSMENT  
+
+IPp3 
+REQUIRED 
+
+INTENT 
+To understand and reduce long-term direct and indirect carbon emissions, including on-site 
+combustion, grid-supplied electricity, refrigerants, and embodied carbon. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N/A  
+Carbon Assessment 
+
+ 
+USGBC will provide the project team with a 10-year projected carbon assessment for the 
+project. The assessment will use data from the following: 
+ 
+
+• EAp1: Estimated Energy Use and Operational Carbon Projection  
+• EAp5: Fundamental Refrigerant Management 
+• MRp2: Quantify and Assess Embodied Carbon 
+• LTc2: Transportation Demand Management (optional) 
+
+ 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 8
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+ 
+
+ 
+Quality of Life 
+
+ 
+Ecological Conservation 
+
+Integrative Process, Planning and Assessments Credit  and Restoration 
+
+INTEGRATIVE DESIGN PROCESS  
+
+IPc1 
+1 point 
+
+INTENT 
+To support high-performance, cost-effective, and cross-functional project outcomes through an 
+early analysis and planning of the interrelationships among systems. To provide a holistic 
+framework for project teams to collaboratively address decarbonization, quality of life, and 
+ecological conservation and restoration across the entire LEED rating system. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1 
+Integrative Design Process 1 
+OR  
+LEED-Certified Building 1 
+
+ 
+
+Integrative Design Process 
+Beginning in pre-design and continuing through early occupancy, identify and apply 
+opportunities to achieve synergies across disciplines and building systems through the following 
+initiatives: 
+ 
+
+• Integrated team: Assemble and convene an interdisciplinary project team with diverse 
+perspectives. Ensure the process is an equitable team effort through organized 
+facilitation. 
+
+• Design charrette: During pre-design or early in design, conduct a charrette with the 
+owner or owner’s representative and participants representing at least four key 
+perspectives (e.g., architect, contractor, energy modeler, or community engagement 
+representatives). 
+
+• LEED goal setting: Work as a team to define a set of specific and measurable project 
+goals that address the LEED v5 impact areas of decarbonization, quality of life, and 
+ecological conservation and restoration. Incorporate these goals into the owner’s project 
+requirements (OPR). 
+
+OR 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 9
+   
+
+
+
+ 
+
+LEED-Certified Building (1 point) 
+Locate the project in a LEED-certified building.  
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 10
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+  
+
+Quality of Life 
+ 
+
+Ecological Conservation 
+
+LOCATION AND TRANSPORTATION   and Restoration 
+ 
+
+Location and Transportation Credit 
+
+COMPACT AND CONNECTED DEVELOPMENT 
+LTc1 
+1–8 points 
+
+INTENT 
+To conserve land and ecosystem resources by encouraging development in areas with existing 
+infrastructure. To promote livability, walkability, and transportation efficiency, including reduced 
+vehicle distance traveled and associated emissions. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–8 
+Option 1. Base Building Certified with LEED BD+C 1–8 
+OR  
+Option 2. Surrounding Density 1 –3 
+AND/OR 
+Option 3. Access to Transit 1–5 
+AND/OR  
+Option 4. Walkable Location 1–3 
+
+ 
+
+Option 1. Base Building Certified with LEED BD+C (1–8 points) 
+Locate in a building certified with LEED v4/v4.1 BD+C that earned either LTc: Surrounding 
+Density and Diverse Uses or LTc: Access to Quality Transit, or locate in a building certified with 
+LEED v5 BD+C that earned LTc1: Compact and Connected Development. 
+ 
+Table 1. Points for Buildings Certified with LEED BD+C 
+
+Rating System Credit Points Earned Equivalent ID+C 
+Points 
+
+LEED v4 or LTc: Surrounding Density and Diverse 1 1 
+LEED v4.1 Uses 
+
+2 2  
+
+3 3 
+
+4 or more 4 
+
+LTc: Access to Quality Transit 1 1 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 11
+   
+
+
+
+ 
+
+Rating System Credit Points Earned Equivalent ID+C 
+Points 
+
+2–3 3 
+
+4–6 4 
+
+LEED v5 LTc1: Compact and Connected 1 1 
+Development 
+
+2–4 4 
+
+5–6 8 
+
+OR 
+
+Meet any combination of the options below for a maximum of 8 points.  
+ 
+
+Option 2. Surrounding Density (1–3 points) 
+Locate in a building where the surrounding existing density within 0.25 miles (400 meters) offset 
+of the project boundary meets the values in Table 2. Use either the separate residential and 
+nonresidential densities or the combined density values. 
+ 
+Table 2. Points for Average Existing Density Within 0.25 Miles (400 Meters) 
+
+Combined density Separate density Points 
+Sq. ft. per Sq. m. per Residential Residential Nonresidential  
+acre of hectare of density density density (FAR) 
+buildable buildable land (DU/acre) (DU/hectare) 
+land 
+22,000 5,050 7 17.5 0.5 2 
+35,000 8,035 12 30 0.8 3 
+
+NOTE: DU = dwelling unit; FAR = floor area ratio 
+
+AND/OR 
+
+Option 3. Access to Transit (1–5 points) 
+Locate any functional entry of the building in which the project is located within either: 
+ 
+
+• A walking distance of 0.25 miles (400 meters) by existing or planned bus, streetcar, or 
+informal transit stops 
+
+• A walking distance of 0.25 miles (800 meters) by existing or planned bus rapid transit 
+stops, passenger rail stations (i.e., light, heavy, or commuter rail), or commuter ferry 
+terminals 
+
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 12
+   
+
+
+
+ 
+
+The transit service at these stops and stations in aggregate must meet the minimums listed in 
+Table 3. 
+ 
+Both weekday and weekend trip minimums must be met. For each qualifying transit route, only 
+trips in one direction are counted toward the threshold. 
+ 
+
+• If service varies by day: 
+o For weekday trips, count the weekday with the lowest number of trips. 
+o For weekend trips, only count the weekend day with the highest number of trips.  
+
+• If a qualifying transit route has multiple stops within the required walking distance, only 
+trips from one stop are counted toward the threshold. 
+
+• Planned stops and stations may count if they are sited, funded, and under construction 
+by the date of the LEED project’s certificate of occupancy and are complete within 24 
+months of that date. 
+
+ 
+Table 3. Minimum Daily Public Transit Service 
+
+Weekday Trips Weekend Trips Points 
+72  30  2 
+132  78  3  
+160  120  4  
+360  216  5  
+
+AND/OR 
+
+Option 4. Walkable Location (1–3 points) 
+Locate in a building that meets the location efficiency requirements in Table 4 via Walk Score® 
+or proximity to existing and publicly available uses within a walking distance of 0.25 miles (800 
+meters) from any functional entry.  
+ 
+Table 4. Points for Location Efficiency 
+
+Walk Score  Proximity to Uses Points 
+60–69 4–7 1 
+70–79 8–10 2 
+80 or more ≥ 11 3 
+
+ 
+The following restrictions apply: 
+ 
+
+• A use may be counted as only one use type (e.g., a retail store may be counted only 
+once even if it sells products in several categories). 
+
+• No more than two uses in each use type may be counted (e.g., if five restaurants are 
+within walking distance, only two may be counted).  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 13
+   
+
+
+
+ 
+
+• The counted uses must represent at least three of the five categories.  
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 14
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+  
+
+Quality of Life 
+ 
+
+— Ecological Conservation 
+TRANSPORTATION DEMAND MANAGEMENT and Restoration 
+
+ 
+LTc2 
+1–4 points 
+
+INTENT 
+To reduce pollution and land development effects from automobile use through encouraging 
+alternative transportation networks. To promote more livable and healthy communities through 
+reduced vehicle miles traveled and reduced associated emissions. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1 –4 
+Transportation Demand Assessment  
+AND 
+Option 1. Parking 1–3 
+
+Path 1. Reduce Parking 1–3 
+AND/OR  
+Path 2. Unbundle Parking  2 
+
+AND/OR  
+Option 2. Active Travel Facilities 1–3 
+
+Path 1. Base Building certified with LEED BD+C 1–2 
+OR  
+Path 2. Active Travel Facilities in Base Building 1–2 
+
+AND/OR  
+Option 3. Compliant Base Building 1 
+
+Path 1. Bicycle Network and Storage 1 
+AND/OR  
+Path 2. Base Building Shower and Changing Facilities 1 
+AND/OR   
+Path 3. Tenant Space Shower and Changing Facilities 1 
+AND/OR  
+Path 4. Bicycle Maintenance 1 
+
+ 
+
+Transportation Demand Assessment 
+Assess the number of VMT and carbon emissions associated with regular building occupants’ 
+travel to and from the project building as outlined below:  
+ 
+
+• Estimate the annual VMT. 
+• Estimate annual baseline case for carbon emissions. 
+• Assess low-carbon transportation options. 
+• Estimate annual proposed case for carbon emissions. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 15
+   
+
+
+
+ 
+
+• Estimate the total reduction of carbon emissions between annual baseline case and 
+annual proposed case. 
+
+ 
+Projects that participate in a local or regional government-mandated TDM program satisfy the 
+transportation demand assessment (TDA) requirement. Residential affordable housing projects 
+in an infill location or an office, mixed-use, residential, or retail project located within a transit 
+priority area, or within 0.5 miles (800 meters) walking distance of an existing or planned major 
+transit stop, are exempt from the preceding requirements. 
+
+AND 
+
+Implement one or more of the following strategies for up to a total of 4 points. 
+ 
+
+Option 1. Parking (1–3 points) 
+PATH 1. REDUCE PARKING (1–3 POINTS)  
+Locate in a building that provides a reduction in parking capacity using the base ratios for 
+parking spaces found in the Institute of Transportation Engineers Parking Generation Manual, 
+sixth edition, or a comparable resource applied by a qualified transportation engineer or planner 
+or in supplementary LEED guidance. Points are awarded according to Table 1. 
+ 
+Table 1. Points for Percentage of Reduced Parking Capacity 
+
+Reduced Parking Percentage Points 
+30% reduction from base ratios 1 
+60% reduction from base ratios 2 
+100% reduction from base ratios (no parking) 3 
+
+AND/OR 
+
+PATH 2. UNBUNDLE PARKING (2 POINTS) 
+Unbundle parking by purchasing parking separately from the tenant space lease. Do not provide 
+free parking for employees. Implement a daily, monthly, or annual parking fee at a cost equal to 
+or greater than the local market rate for public or private parking. 
+
+AND/OR 
+
+Option 2. Active Travel Facilities (1–3 points) 
+PATH 1. BASE BUILDING CERTIFED WITH LEED BD+C (1–2 POINTS) 
+Locate in a building certified with LEED BD+C under LEED v4 or LEED v4.1 that earned LTc: 
+Bicycle Facilities, or in a building certified with LEED v5 BD+C that earned LTc2: Transportation 
+Demand Management. 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 16
+   
+
+
+
+ 
+
+ 
+Table 2. Points for LEED BD+C-Certified Building 
+Certification Credit Name Points Earned Equivalent LEED 
+
+ID+C Points 
+LEED v4 or LEED v4.1 LTc: Bicycle Facilities 1 2 
+LEED v5  LTc2: Transportation Demand 1 1 
+
+Management 2 2 
+
+OR 
+
+PATH 2. ACTIVE TRAVEL FACILITIES IN BASE BUILDING (1–2 POINTS) 
+Locate in a building that meets the requirements for Option 3. Compliant Base Building, Path 1, 
+for 1 point. Meet Option 3. Compliant Base Building, Path 2, for 1 additional point. 
+
+AND/OR 
+
+Option 3. Compliant Base Building (1 point) 
+PATH 1. BICYCLE NETWORK AND STORAGE (1 POINT) 
+ 
+Bicycle Network 
+Locate the project in a building such that a functional entry and/or bicycle storage is within a 
+600-foot (180-meter) walking distance or cycling distance of a bicycle network that meets the 
+following criteria: 
+ 
+
+• It is a contiguous network that spans a distance of at least 3 miles (4,800 meters). 
+• It consists of bicycle paths, lanes, multiuse trails, or streets with a maximum speed limit 
+
+of 25 mph (40 kph). Sidewalks where local code permits bicycles are acceptable. 
+ 
+Planned bicycle trails or lanes may be counted if they are fully funded by the date of the 
+certificate of occupancy and are scheduled for completion within three years of that date. 
+
+AND 
+
+Bicycle Storage 
+Provide short-term bicycle storage within a 600-foot (180-meter) walking distance of any main 
+entrance, and with no fewer than four storage spaces per building.  
+ 
+Provide long-term bicycle storage within a 300-foot (90-meter) walking distance of any 
+functional entry, but with no fewer than four storage spaces per building in addition to the short-
+term bicycle storage spaces.  
+ 
+Points are awarded according to Table 3 below. 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 17
+   
+
+
+
+ 
+
+ 
+Shared micromobility storage, bicycle-sharing stations, and/or publicly available bicycle parking 
+may be counted for up to 50% of the required short-term and long-term storage space if it meets 
+the maximum allowable walking distance, and is not double-counted (i.e., the short-term and the 
+long-term storage spaces are counted separately), and the storage location is communicated to 
+the building occupants and visitors. 
+ 
+Table 3. Number of Spaces Required for Short- and Long-Term Bicycle Storage 
+
+Storage Type Commercial, Institutional, Healthcare Retail 
+At least two short-term bicycle storage 
+
+Short-term At least 2.5% of all peak visitors but no spaces for every 5,000 sq. ft. (465 sq. m.) 
+fewer than four spaces per building but no fewer than two storage spaces per 
+
+building 
+At least 5% of all regular building At least 5% of regular building occupants 
+
+Long-term occupants but no fewer than four storage but no fewer than two storage spaces per 
+spaces per building in addition to short- building in addition to the short-term 
+term storage  bicycle storage spaces 
+
+NOTE: Healthcare projects can exclude patients from the regular building occupant count for long-term storage. 
+
+AND/OR 
+
+PATH 2. BASE BUILDING SHOWER AND CHANGING FACILITIES (1 POINT) 
+Locate the facilities in a building that provides access to on-site showers with changing facilities 
+for 1% of all regular building occupants. Off-site showers and changing facilities are acceptable 
+if they meet the needs of all occupants and are within a walking distance of 0.25 miles (400 
+meters). 
+
+AND/OR 
+
+PATH 3. TENANT SPACE SHOWER AND CHANGING FACILITIES (1 POINT) 
+Provide at least one shower within the tenant space with a changing facility for the first 100 
+regular building occupants and one additional shower for every 150 regular building occupants 
+thereafter. 
+ 
+Large Occupancy Projects 
+Provide at least one on-site shower within the tenant space with a changing facility for the first 
+100 regular project occupants and one additional shower for every 150 regular project 
+occupants thereafter, up to 999 regular project occupants. Thereafter, provide the following: 
+ 
+
+• One additional shower for every 500 regular project occupants, for an additional 1,000–
+4,999 regular project occupants 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 18
+   
+
+
+
+ 
+
+• One additional shower for every 1,000 regular building occupants, for an additional 
+5,000+ regular project occupants 
+
+AND/OR  
+
+PATH 4. BICYCLE MAINTENANCE (1 POINT) 
+Provide a permanently secured bicycle repair station that includes a complete set of tools and 
+an air pump securely fastened to the repair stand in the area dedicated to long-term bicycle 
+storage. 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 19
+   
+
+
+
+Impact Area Alignment 
+
+ Decarbonization 
+ 
+
+— Quality of Life 
+
+— Ecological Conservation 
+Location and Transportation Credit and Restoration 
+
+ELECTRIC VEHICLES  
+
+LTc3 
+1–2 points 
+
+INTENT 
+To encourage the use of electric vehicles and infrastructure. To help reduce the negative health 
+effects on communities by lowering GHG emissions and other pollutants emitted from 
+conventionally fueled cars and trucks. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–2 
+Option 1: Base Building Certified with LEED BD+C 1–2 
+OR  
+Option 2: Electric Vehicle Supply Equipment  1–2 
+
+ 
+Projects can earn up to 2 points by meeting Option 1 or Option 2. 
+ 
+
+Option 1. Base Building Certified with LEED BD+C (1–2 points) 
+Locate in a building certified with LEED v4/v4.1 BD+C or LEED v5 BD+C that earned LTc: 
+Green/Electric Vehicles or LTc5: Electric Vehicles. 
+ 
+Table 1. Equivalent ID+C Points for Building Certified with LEED BD+C 
+
+Certification  Credit Name Points Equivalent 
+Earned  ID+C Points 
+
+LEED v4 or LEED v4.1 LTc: Green/Electric Vehicles 1 1 
+
+LEED v5 LTc3: Electric Vehicles 1 1 
+
+2 2 
+
+OR 
+
+Option 2. Electric Vehicle Supply Equipment (EVSE) (1–2 points) 
+Locate in a building that has EVSE meeting the thresholds listed in Table 2. EVSE must meet 
+the following criteria: 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 20
+   
+
+
+
+ 
+
+• Provide Level 2 or Level 3 charging capacity per the manufacturer’s requirements and 
+the requirements of the National Electrical Code (NFPA 70). 
+
+• Provide 208–240 volts or greater for each required space. 
+• Meet the connected functionality criteria for ENERGY STAR®-certified EVSE and be 
+
+capable of responding to time-of-use market signals (e.g., price). 
+• Include at least one EV charging station for an accessible parking space at least 9 feet 
+
+(2.5 meters) wide with a 5-foot (1.5-meter) access aisle and have charging station 
+accessibility features for use by people with mobility, ambulatory, and visual disabilities. 
+
+ 
+Table 2. Points for Installed EVSE (Percentage of Total Building Parking Spaces) 
+Commercial Minimum EVSE Parking Points 
+5% or at least two spaces, whichever is greater 1 
+10% or at least four spaces whichever is greater 2 
+Residential Minimum EVSE Parking Points 
+10% or at least five spaces, whichever is greater 1 
+15% or at least 10 spaces, whichever is greater 2 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 21
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+  
+
+— Quality of Life 
+
+Ecological Conservation 
+
+WATER EFFICIENCY  and Restoration 
+ 
+
+Water Efficiency Prerequisite 
+
+MINIMUM WATER EFFICIENCY 
+WEp1 
+REQUIRED 
+
+INTENT 
+To reduce potable water consumption and the associated energy consumption and carbon 
+emissions required to treat and distribute water and preserve potable water resources through 
+an efficiency-first approach. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors   N/A 
+Minimum Fixture and Fittings Efficiency 
+
+Option 1. Prescriptive Path — Maximum Flush and Flow Rates 
+OR 
+Option 2. Performance Path — Calculated Reduction 
+
+AND 
+Minimum Equipment Water Efficiency 
+
+ 
+Meet all minimum water efficiency requirements outlined below, as applicable to the project 
+scope. 
+ 
+
+Minimum Fixture and Fittings Efficiency 
+Meet the minimum water efficiency requirements for fixtures and fittings outlined below. 
+ 
+Projects located where standard supply pressure is different than the LEED baseline supply 
+pressure may calculate the water consumption of flow fixtures and fittings at the local standard 
+supply pressure. 
+ 
+OPTION 1. PRESCRIPTIVE PATH — MAXIMUM FLUSH AND FLOW RATES 
+For all new and existing fixtures and fittings within the tenant space, do not exceed the 
+maximum flush and flow rates listed in Table 1.  
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 22
+   
+
+
+
+ 
+
+Table 1. Maximum Installed Flush or Flow Rates for Prescriptive Path 
+Fixture or Fitting Maximum Installed Flush Maximum Installed 
+
+or Flow Rate (IP) Flush or Flow Rate (SI) 
+Toilet (water closet)* 1.28 gpf** 4.8 lpf** 
+Urinal* 0.50 gpf 1.9 lpf 
+Public lavatory (restroom) faucet 0.50 gpm 1.9 lpm 
+Private lavatory faucets* 1.50 gpm 5.7 lpm 
+Kitchen faucet 1.8 gpm 6.8 lpm 
+Showerhead* 2.00 gpm 7.6 lpm 
+*The WaterSense label is available for this fixture type. WaterSense-labeled fixtures are recommended for projects located in the 
+U.S. and Canada. 
+**For dual-flush toilets, the full flush volume shall be equal to or less than 1.28 gpf / 4.8 lpf; a weighted average cannot be used.  
+
+OR 
+
+OPTION 2. PERFORMANCE PATH — CALCULATED REDUCTION 
+For all the new and existing fixtures and fittings within the tenant space, reduce aggregate water 
+consumption by 20% from the baseline listed in Table 2.  
+ 
+Table 2. Baseline Water Consumption of Fixtures and Fittings 
+
+Fixture or Fitting Baseline Installed Flush or Baseline Installed Flush or 
+Flow Rate (IP) Flow Rate (SI) 
+
+Toilet (water closet)* 1.6 gpf** 6.0 lpf 
+Urinal* 1.0 gpf 3.8 lpf 
+Public lavatory (restroom) faucet 0.50 gpm at 60 psi  1.9 lpm at 415 kPa 
+Private lavatory faucets* 2.2 gpm at 60 psi 8.3 lpm at 415 kPa 
+Kitchen faucet 2.2 gpm at 60 psi 8.3 lpm at 415 kPa 
+Showerhead* 2.5 gpm at 80 psi per shower 9.5 lpm at 550 kPa per 
+
+stall shower stall 
+*The WaterSense label is available for this fixture type. WaterSense-labeled fixtures are recommended for projects located in the 
+U.S. and Canada.   
+**For dual-flush toilets, the full flush volume shall be equal to or less than 1.28 gpf / 4.8 lpf; a weighted average cannot be used.  
+
+AND 
+
+Minimum Equipment Water Efficiency 
+Newly installed appliances, equipment, and processes within the tenant space must meet the 
+requirements listed in Tables 3 and 4 below. Existing appliances and equipment can be 
+excluded. 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 23
+   
+
+
+
+ 
+
+Table 3. Standards for appliances 
+Appliance Requirement 
+Residential clothes washer ENERGY STAR® or performance equivalent  
+Commercial clothes washer ENERGY STAR® for commercial clothes washers with ≤ 
+
+8.0 cubic feet (227 liters) of capacity or performance 
+equivalent 
+
+Residential dishwashers (standard and ENERGY STAR® or performance equivalent  
+compact) 
+Prerinse spray valves ≤ 1.3 gpm (4.9 lpm) 
+Ice machine ENERGY STAR® or performance equivalent and use either 
+
+air-cooled or closed-loop cooling, such as chilled or 
+condenser water system 
+
+Commercial Kitchen Equipment Requirement (IP) Requirement (SI)  
+Dishwasher Undercounter ≤ 1.6 gal/rack  ≤ 6.0 liters/rack  
+
+Stationary, single ≤ 1.4 gal/rack  ≤ 5.3 liters/rack  
+tank, door 
+
+Single tank, ≤ 1.0 gal/rack  ≤ 3.8 liters/rack  
+conveyor  
+Multiple tank, ≤ 0.9 gal/rack  ≤ 3.4 liters/rack  
+conveyor  
+
+Flight machine  ≤ 180 gal/hr  ≤ 680 liters/hr  
+Food steamer Boilerless/ ≤ 2 gal/hr/pan  ≤ 7.5 liters/hr/pan  
+
+connectionless 
+Steam generator  ≤ 5 gal/hr/pan  ≤ 19 liters/hr/pan  
+
+Combination Countertop or stand  ≤ 1.5 gal/pan  ≤ 5.7 liters/pan  
+oven  
+
+Roll-in  ≤ 1.5 gal/pan  ≤ 5.7 liters/pan  
+ 
+Table 4. Standards for processes 
+
+Process Requirement 
+Heat rejection and cooling  No once-through cooling with potable water for any equipment or 
+
+appliances that reject heat 
+Discharge water Where local requirements limit the discharge temperature of fluids into 
+temperature tempering  a drainage system, use a tempering device that runs water only when 
+
+the equipment discharges hot water.   
+OR  
+Provide a thermal recovery heat exchanger that cools drained 
+discharge water below code-required maximum discharge 
+temperatures while simultaneously preheating inlet makeup water.   
+OR   
+If fluid is steam condensate, return it to boiler.  
+
+Venturi-type flow-through Use no device that generates a vacuum by means of water flow 
+vacuum generators or through the device into the drain.  
+aspirators  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 24
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+  
+
+Quality of Life 
+ 
+
+Water Efficiency Credit Ecological Conservation 
+ and Restoration 
+
+WATER METERING AND LEAK DETECTION  
+
+WEc1 
+1–2 points 
+
+INTENT 
+To conserve potable water resources, support water management, limit potential material waste 
+due to water leak damage, and identify opportunities for additional water savings by tracking 
+water consumption. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–2 
+Option 1. Meters 1  
+AND/OR 
+Option 2. Submeters 1 
+AND/OR  
+Option 3. Leak Detection Sensors 1 
+
+ 
+
+Option 1. Meters (1 point) 
+Install (or use existing) permanent water meters or submeters that measure the total water 
+consumption for each water source for the tenant space that meet the following requirements:  
+ 
+
+• The tenant must be able to access the meter data.  
+• Meter alternative water sources separately from municipally supplied potable water.  
+• Commit to sharing with USGBC the resulting tenant space water usage data at least 
+
+annually. This commitment must carry forward for five years or until the building changes 
+ownership or lessee.  
+
+AND/OR 
+
+Option 2. Submeters (1 point) 
+Install permanent water submeters for each applicable subsystem defined below: 
+
+• Indoor plumbing fixtures and fittings with meter systems serving at least 80% of indoor 
+fixtures and fittings as described in WEp1: Minimum Water Efficiency and fixtures and 
+fittings not addressed in the prerequisite, including janitor sinks, water coolers, and bottle 
+fillers, which may be included or excluded from the measured total water consumption of 
+the tenant space at the project team’s discretion. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 25
+   
+
+
+
+ 
+
+• Commercial kitchen (if the kitchen serves at least 100 meals per day of operation). 
+• Laundry (if the project includes commercial laundry equipment that processes at least 
+
+120,000 lb [57,606 kg] of laundry per year or if the project includes a public laundry 
+room). 
+
+ 
+The tenant must be able to access the submeter data in real time via local network, building 
+management system (BMS), cloud service, app, or online database. All submeters must be 
+capable of recording data at least hourly. 
+
+AND/OR 
+
+Option 3. Leak Detection Sensors (1 point) 
+Install permanent water flow meter/sensors for at least 50% of the project flush fixtures in the 
+tenant space; water sensors can be installed on each flush fixture or for a group of flush fixtures 
+(e.g., one per restroom facility). 
+ 
+The leak detection system should be able to identify a leak triggered by abnormal flow rate 
+above normal range, or physically detect a water leak and initiate an alarm upon a leak 
+detection. 
+ 
+The tenant must be able to access the sensor data in real time via local network, BMS, cloud 
+service, app, or online database. 
+ 
+Develop an action plan that addresses how the tenant will have access to data in real time and 
+how the tenant will address and remedy any detected leak. 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 26
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+  
+
+— Quality of Life 
+
+Ecological Conservation 
+Water Efficiency Credit  and Restoration 
+
+ENHANCED WATER EFFICIENCY  
+
+WEc2 
+1–8 points 
+
+INTENT 
+To reduce potable water consumption and the associated energy consumption and carbon 
+emissions required to treat and distribute water and to reward the use of alternative water 
+sources that preserve potable water resources. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–8 
+Option 1. Whole-Project Water Use 1–8 
+OR  
+Option 2. Fixture and Fittings — Calculated Reduction 1 –6 
+AND/OR 
+Option 3. Appliance and Process Water 1–2 
+AND/OR  
+Option 4. Optimize Process Water Use 1–2 
+
+Path 1. Limit Cooling Tower Cycles 1–2 
+OR  
+Path 2. Optimize Water Use for Cooling 1–2 
+OR  
+Path 3. Process Water Use 1–2 
+
+ 
+Implement a combination of the strategies below for a maximum of 8 points. Projects may either 
+attempt Option 1 or any combination of Options 2 or 3 below. 
+ 
+
+Option 1. Whole-Project Water Use (1–8 points) 
+To pursue this pathway, project teams must develop a water use baseline and create a 
+proposed use model. Points are achieved based on reductions from the baseline in Table 1. 
+ 
+Table 1. Points for Reducing Overall Project Water Use 
+
+Percent Reduction Points Total Points for Alternative Water 
+30% 1 2 
+35% 2 3 
+40% 3 4 
+45% 4 5 
+50% 5 6 
+55% 6 7 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 27
+   
+
+
+
+ 
+
+Percent Reduction Points Total Points for Alternative Water 
+60% 7 8 
+65% 8 0 
+
+OR 
+
+Option 2. Fixture and Fittings — Calculated Reduction (1–6 points) 
+Further reduce fixture and fitting water use from the calculated baseline in WEp1: Minimum 
+Water Efficiency, Minimum Fixture and Fittings Efficiency, Option 2, Performance Path–
+Calculated Reduction. Some of these fittings and fixtures may be outside the tenant space. 
+Additional potable water savings can be earned above the prerequisite level using alternative 
+water sources. Points are awarded according to Table 2. 
+ 
+Table 2. Points for Reducing Indoor Water Use 
+
+Percentage Reduction Points 
+25% 1 
+30% 2 
+35% 3 
+40% 4 
+45% 5 
+50% 6 
+
+AND/OR 
+
+Option 3. Appliance and Process Water (1–2 points) 
+Newly installed equipment within the tenant space must meet the minimum requirements in 
+Tables 3, 4, and/or 5. 1 point is awarded for meeting all applicable requirements in any one 
+table for a maximum of 2 points. All applicable, newly installed equipment listed in each table 
+must meet the standard. Existing appliances and equipment can be excluded. 
+ 
+To use Table 3, the project must process at least 120,000 lbs. (57,606 kg.) of laundry per year. 
+ 
+Table 3. Compliant Commercial Washing Machines 
+
+Washing Machine Requirement (IP units) Requirement (SI units) 
+On-premise, minimum capacity 2,400 lbs. Maximum 1.8 gallons Maximum 7 liters per 0.45 
+(10,886 kg.) per 8-hour shift per pound* kilogram* 
+
+*Based on equal quantities of heavily, medium, and lightly soiled laundry. 
+ 
+To use Table 4, the project must serve at least 100 meals per day of operation. 
+ 
+Table 4. Standards for Compliant Commercial Kitchen Equipment 
+
+Commercial Kitchen Equipment Requirement (IP) Requirement (SI) 
+Dishwasher  Undercounter  ENERGY STAR® ENERGY STAR® or performance 
+
+equivalent 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 28
+   
+
+
+
+ 
+
+Commercial Kitchen Equipment Requirement (IP) Requirement (SI) 
+Stationary, single ENERGY STAR® ENERGY STAR® or performance 
+tank, door   equivalent 
+Single tank, ENERGY STAR® ENERGY STAR® or performance 
+conveyor   equivalent 
+Multiple tank, ENERGY STAR® ENERGY STAR® or performance 
+conveyor   equivalent 
+Flight machine ENERGY STAR® ENERGY STAR® or performance 
+
+equivalent 
+Food Boilerless/ ≤ 1.7 gal/hr/pan including ≤ 6.4 liters/hr/pan including 
+steamer  connectionless condensate cooling water condensate cooling water 
+
+Steam generator  ≤ 2.2 gal/hr/pan including ≤ 8.3 liters/hr/pan including 
+condensate cooling water condensate cooling water 
+
+Combination Countertop or ENERGY STAR®  ENERGY STAR® or performance 
+oven  stand  equivalent 
+
+Roll-in  ENERGY STAR®  ENERGY STAR® or performance 
+equivalent 
+
+Food waste Disposer 3–8 gpm, full-load 11–30 lpm, full-load condition; 
+disposer condition; 10-minute 10-minute automatic shutoff or 
+
+automatic shutoff or 1 gpm, 3.8 lpm, no-load condition 
+no-load condition 
+
+Scrap collector Maximum 2 gpm makeup Maximum 7.6 lpm makeup water 
+water 
+
+Pulper Maximum 2 gpm makeup Maximum 7.6 lpm makeup water 
+water 
+
+Strainer basket No additional water usage  No additional water usage 
+ 
+Table 5. Compliant Laboratory and Medical Equipment 
+
+Lab Equipment Requirement (IP) Requirement (SI) 
+
+Reverse-osmosis water purifier 75% recovery 
+Steam sterilizer For 60-in sterilizer: 6.3 gal/U.S. For 1,520-mm sterilizer: 28.5 
+
+tray liters/DIN tray 
+For 48-in sterilizer: 7.5 gal/U.S. For 1,220-mm sterilizer: 28.35 
+tray liters/DIN tray 
+
+Sterile process washer 0.35 gal/U.S. tray 1.3 liters/DIN tray 
+
+X-ray processor, 150 mm or more Film processor water recycling unit 
+in any dimension 
+Digital imager, all sizes No water use 
+
+AND/OR 
+
+Option 4. Optimize Process Water Use (1–2 points) 
+Include any associated base building water use that is necessary for equipment that serves the 
+tenant space. 
+ 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 29
+   
+
+
+
+ 
+
+PATH 1. LIMIT COOLING TOWER CYCLES (1–2 POINTS) 
+For cooling towers and evaporative condensers, conduct a one-time potable water analysis, 
+measuring at least the five control parameters listed in Table 6. 
+ 
+Table 6. Maximum Concentrations for Parameters in Condenser 
+
+Parameter Maximum Level 
+Ca (as CaCO3) 600 ppm 
+Total alkalinity 500 ppm 
+SiO2 150 ppm 
+Cl– 300 ppm 
+Conductivity 3,300 μS/cm 
+NOTE: ppm = parts per million 
+NOTE: µS/cm = micro siemens per centimeter 
+
+ 
+Calculate the maximum number of cooling tower cycles by dividing the maximum allowed 
+concentration level of each parameter by the actual concentration level of each parameter found 
+in the potable makeup water analysis. Limit cooling tower cycles to avoid exceeding maximum 
+values for any of these parameters. 
+ 
+The materials of construction for the water system that come in contact with the cooling tower 
+water shall be of the type that can operate and be maintained within the cycles established in 
+Table 7. 
+ 
+Table 7. Points for Cooling Tower Cycles 
+
+Cooling Tower Cycles Points 
+Maximum number of cycles achieved without exceeding any maximum concentration 1 
+levels or affecting operation of condenser water system. 
+
+Meet the maximum calculated number of cycles to earn 1 point and increase the 2 
+number of cycles by a minimum of 25% by increasing the level of treatment and/or 
+maintenance in condenser or makeup water systems. 
+ 
+OR 
+ 
+Meet the maximum calculated number of cycles to earn 1 point and use a minimum 
+of 20% alternative water. 
+
+ 
+Projects whose cooling is provided by district cooling systems are eligible to achieve Path 1 if 
+the district cooling system complies with the above requirements. 
+
+OR 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 30
+   
+
+
+
+ 
+
+PATH 2. OPTIMIZE WATER USE FOR COOLING (1–2 POINTS) 
+To be eligible for Option 2, the baseline system designated for a building using ASHRAE 90.1-
+2019 or 90.1-2022, Appendix G, Table G3.1, 1–3 must include a cooling tower (systems 7, 8, 
+11, 12, and 13). 
+ 
+Achieve increasing levels of cooling tower water efficiency beyond a water-cooled chiller system 
+with axial variable-speed fan cooling towers having a maximum drift of 0.002% of recirculated 
+water volume and three cooling tower cycles. Points are awarded according to Table 8. 
+ 
+Table 8. Points for Reducing Annual Water Use Compared to Water-Cooled Chiller System 
+
+Percentage Reduction Points 
+25% 1 
+50% 2 
+
+ 
+Projects whose cooling is provided by district cooling systems are eligible to achieve Path 2 if 
+the district cooling system complies with the above requirements. 
+
+OR 
+
+PATH 3. PROCESS WATER USE (1–2 POINTS) 
+Demonstrate that the project is using a minimum of 20% alternative water to meet the process 
+water demand for 1 point or using a minimum of 30% alternative water to meet the process 
+water demand for two points. Ensure that alternative water is of sufficient quality for its intended 
+end use. 
+ 
+The minimum percentage of alternative water used should be based on water use during the 
+month with the highest water demand. 
+ 
+Process water uses eligible for achievement of Path 3 must represent at least 10% of total 
+building regulated water use and may not include water used for cooling.  
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 31
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+  
+
+— Quality of Life 
+
+— Ecological Conservation 
+
+ENERGY AND ATMOSPHERE  and Restoration 
+ 
+
+Energy and Atmosphere Prerequisite 
+
+ESTIMATED ENERGY USE AND 
+OPERATIONAL CARBON PROJECTION 
+EAp1 
+REQUIRED 
+
+INTENT 
+To enable tenants and interior design teams to visualize the scale and relative impact of design 
+decisions that will impact their project’s long-term operational carbon emissions. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N/A  
+Provide Data on Project and Annual Energy Use 
+AND 
+Sign-Off on 10-Year Operational Carbon Projection 
+
+ 
+Comply with the following: 
+ 
+
+Provide Data on Project and Annual Energy Use 
+If the project has an energy model that includes all energy used within the project, including 
+energy provided by base building systems, provide USGBC with the estimated annual energy 
+use of each energy type. 
+ 
+If the project does not have such an energy model, provide USGBC with the following data to 
+facilitate an annual energy calculation: 
+ 
+
+• Project information: Occupancy type, age of building, gross area, location by zip code, 
+and the approximate hours of occupancy on a weekly basis. 
+
+• High-load amenity information: Include commercial kitchens, commercial laundries, 
+data centers, and so forth, and the percentage of gross floor area attributable to each. 
+
+• Energy-related information: Lighting power density; number of LEED points pursued in 
+reducing plug and process loads; and fuel types used for space heating, service hot 
+water, cooking, and clothes drying as applicable. 
+
+ 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 32
+   
+
+
+
+ 
+
+From the data provided, USGBC will provide the project team with a rough estimate of the 
+annual energy used of each energy type by the project. 
+ 
+AND 
+
+Sign-Off on 10-Year Operational Carbon Projection 
+From the modeled energy data or the energy estimate, USGBC will provide the project team 
+with a 10-year operational carbon projection. The assumptions behind the estimate include the 
+following: 
+ 
+
+• No changes are made over the decade that impact energy use. 
+• The initial electrical carbon coefficient is the latest subregional eGRID coefficient for 
+
+projects in the U.S. (or national coefficient elsewhere) or other more local coefficient that 
+can be credibly documented. 
+
+• The electrical carbon coefficient will decline linearly at 3.8% per year (the equivalent of 
+declining by 95% over 25 years). 
+
+ 
+For tenant spaces, the tenant, or for owner-occupied spaces, the owner, must attest that they 
+have reviewed the 10-year carbon projection. 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 33
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+  
+
+— Quality of Life 
+
+— Ecological Conservation 
+Energy and Atmosphere Prerequisite and Restoration 
+
+MINIMUM ENERGY EFFICIENCY  
+
+EAp2 
+REQUIRED 
+
+INTENT 
+To promote resilience and reduce the environmental and economic harms of excessive energy 
+use and GHG emissions by achieving a minimum level of energy efficiency. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors  N/A  
+Option 1. ASHRAE 90.1-2019 
+OR 
+Option 2. ASHRAE 90.1-2022  
+
+ 
+Projects registered before January 1, 2028 may comply with either Option 1 or Option 2. 
+ 
+Projects registered on or after January 1, 2028 must comply with Option 2. 
+ 
+
+Option 1. ASHRAE 90.1-2019 
+Comply with ANSI/ASHRAE/IES Standard 90.1-2019.  
+ 
+For projects applying the Normative Appendix G, “Performance Rating Method,” compliance 
+path, use the following: 
+ 
+
+• Future source energy metric: The future source energy metric may be used in place of 
+the “cost.” 
+• Replace all references to cost with “future source energy.” Use an electric site-to-
+
+source energy conversion factor of 2.0 based on future projections for the U.S. A 
+lower national average value may be used as applicable for projects outside of the 
+U.S. 
+
+• Replace ASHRAE 90.1, Table 4.2.1.1, building performance factors (BPFs), with the 
+BPFs derived for the future source energy metric in Table 1. 
+
+• Alterations: For interiors project scope except initial build-out construction, apply the 
+following ASHRAE 90.1-2022 addenda: 
+• Substantial alteration: Multiply the BPF by 1.05 if the alterations are defined as a 
+
+substantial alteration in ASHRAE 90.1-2022, Section G3.1.4(a). 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 34
+   
+
+
+
+ 
+
+• Other alterations: Apply ASHRAE 90.1-2022, Section G3.3 (“Performance 
+Calculations for Other Alterations”), replacing all references to ASHRAE 90.1-2022, 
+Sections 5–10, prescriptive criteria with the corresponding ASHRAE 90.1-2019, 
+Sections 5–10 criteria. 
+
+ 
+Table 1. ASHRAE 90.1-2019 — Equivalent BPFs for a Future Source Energy Metric 
+Building Type Climate Zone 
+
+0A 0B 1A 1B 2A 2B 3A 3B 3C 4A 4B 4C 5A 5B 5C 6A 6B 7 8 
+Multifamily 0.74 0.69 0.73 0.70 0.73 0.70 0.71 0.70 0.63 0.70 0.71 0.69 0.68 0.70 0.70 0.68 0.68 0.68 0.74 
+Healthcare/hospital 0.72 0.72 0.73 0.73 0.74 0.71 0.72 0.74 0.71 0.72 0.73 0.71 0.74 0.73 0.80 0.73 0.77 0.78 0.79 
+Hotel/motel 0.72 0.71 0.72 0.71 0.71 0.70 0.71 0.73 0.72 0.71 0.73 0.73 0.71 0.73 0.74 0.70 0.72 0.70 0.70 
+Office 0.62 0.63 0.61 0.62 0.58 0.60 0.57 0.62 0.55 0.55 0.61 0.57 0.58 0.61 0.59 0.58 0.60 0.54 0.58 
+Restaurant 0.65 0.62 0.63 0.61 0.62 0.58 0.63 0.63 0.63 0.67 0.66 0.66 0.70 0.70 0.68 0.73 0.72 0.74 0.77 
+Retail 0.57 0.54 0.53 0.53 0.48 0.47 0.47 0.47 0.47 0.52 0.50 0.56 0.57 0.53 0.59 0.58 0.56 0.53 0.60 
+School 0.57 0.57 0.58 0.57 0.55 0.54 0.57 0.51 0.49 0.48 0.51 0.52 0.51 0.53 0.51 0.53 0.50 0.51 0.58 
+Warehouse 0.28 0.30 0.24 0.27 0.23 0.24 0.27 0.23 0.20 0.33 0.26 0.28 0.40 0.32 0.29 0.44 0.38 0.40 0.44 
+All others 0.65 0.62 0.64 0.62 0.57 0.54 0.57 0.56 0.58 0.59 0.57 0.60 0.60 0.59 0.65 0.62 0.62 0.61 0.64 
+
+OR 
+
+Option 2. ASHRAE 90.1-2022 
+Comply with ANSI/ASHRAE/IES Standard 90.1-2022. Use any applicable compliance path in 
+ASHRAE 90.1, Section 4.2, or an approved equivalent standard for elements within the project 
+scope. 
+ 
+For projects applying the Normative Appendix G, Performance Rating Method compliance path, 
+one of the following metrics may be used in place of “cost”: 
+ 
+
+• Future source energy 
+o Replace all references to cost with “future source energy.” Use an electric site-to-
+
+source energy conversion factor of 2.0 based on future projections for the U.S. A 
+lower national average value may be used as applicable for projects outside of 
+the U.S. 
+
+o Replace ASHRAE 90.1, Table 4.2.1.1, BPFs with the BPFs derived for the future 
+source energy metric in Table 2. 
+
+• Site energy or source energy documented using ASHRAE 90.1-2022, Informative 
+Appendix I. 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 35
+   
+
+
+
+ 
+
+Table 2. ASHRAE 90.1-2022—Equivalent BPFs for a Future Source Energy Metric 
+Building Type Climate Zone 
+
+0A 0B 1A 1B 2A 2B 3A 3B 3C 4A 4B 4C 5A 5B 5C 6A 6B 7 8 
+Multifamily 0.64 0.59 0.62 0.60 0.61 0.59 0.61 0.60 0.49 0.57 0.59 0.56 0.55 0.57 0.57 0.55 0.55 0.55 0.60 
+Healthcare/hospital 0.64 0.64 0.66 0.65 0.66 0.63 0.64 0.65 0.63 0.64 0.65 0.62 0.64 0.62 0.69 0.63 0.68 0.69 0.70 
+Hotel/motel 0.65 0.63 0.64 0.63 0.62 0.61 0.62 0.63 0.62 0.59 0.60 0.60 0.57 0.58 0.59 0.56 0.58 0.56 0.56 
+Office 0.54 0.54 0.53 0.54 0.49 0.52 0.49 0.52 0.45 0.46 0.52 0.47 0.48 0.51 0.48 0.48 0.50 0.45 0.49 
+Restaurant 0.61 0.58 0.58 0.57 0.57 0.54 0.58 0.59 0.57 0.62 0.61 0.61 0.65 0.64 0.63 0.67 0.66 0.69 0.72 
+Retail 0.47 0.45 0.44 0.44 0.40 0.39 0.37 0.39 0.36 0.40 0.41 0.42 0.45 0.43 0.46 0.44 0.43 0.42 0.46 
+School 0.52 0.53 0.53 0.53 0.51 0.51 0.53 0.48 0.46 0.43 0.48 0.47 0.45 0.49 0.46 0.46 0.44 0.44 0.48 
+Warehouse 0.25 0.25 0.21 0.24 0.20 0.21 0.24 0.20 0.17 0.30 0.22 0.25 0.36 0.28 0.25 0.40 0.34 0.36 0.40 
+All others 0.58 0.56 0.56 0.56 0.50 0.47 0.49 0.48 0.48 0.49 0.49 0.50 0.51 0.50 0.55 0.52 0.52 0.52 0.55 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 36
+   
+
+
+
+ 
+
+Energy and Atmosphere Prerequisite 
+
+FUNDAMENTAL COMMISSIONING 
+EAp3 
+REQUIRED 
+
+INTENT 
+To improve energy performance and limit GHG emissions by verifying that systems are 
+operating per the OPR. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N/A  
+Comply With Commissioning Requirements 
+
+ 
+Comply with ANSI/ASHRAE/IES Standard 90.1 commissioning requirements for building 
+systems, controls, and the building envelope, as applicable to the project scope, with the 
+following additional provisions: 
+ 
+
+• All projects shall provide commissioning that addresses the project scope of work, 
+including any tenant interfaces or interconnections with base building systems. Section 
+4.2.5.2 exceptions shall not apply.  
+
+• The referenced version of Standard 90.1 with errata shall be: 
+o 2019 or later for projects registered before January 1, 2028. 
+o 2022 or later for projects registered on or after January 1, 2028. 
+
+• By the end of the design development phase, the owner shall designate a 
+commissioning provider (CxP) with experience completing commissioning on at least 
+two projects of equal or larger scope and complexity. For alterations meeting the criteria 
+in Exception 4.2.5.2, the CxP may be directly associated with design or installation of the 
+building systems or controls being commissioned. 
+
+• In addition to the requirements of the applicable version of ASHRAE 90.1, the CxP shall: 
+o In pre-design, or as early as possible, assist in the development of the OPR, 
+
+reviewing and updating the OPR through design and construction. OPR must 
+address project scope of work for HVAC, SWH, power, lighting, other equipment 
+including on-site renewable energy, and envelope. 
+
+o During design, review the BOD for compliance with the OPR, and attend at least 
+one meeting to discuss review comments and commissioning. 
+
+o During construction, review submittals and substitutions for design deviations 
+that impact the OPR, attend at least one milestone meeting, and perform a 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 37
+   
+
+
+
+ 
+
+sample review (minimum 10%) of completed contractor documentation for 
+QA/QC. 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 38
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+ 
+
+ 
+— Quality of Life 
+
+— Ecological Conservation 
+Energy and Atmosphere Prerequisite and Restoration 
+
+ENERGY METERING AND REPORTING  
+
+EAp4 
+REQUIRED 
+
+INTENT 
+To support energy management practices and facilitate identification of ongoing opportunities 
+for energy and GHG emissions savings by tracking and reporting building energy use and 
+demand. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N /A 
+Energy Monitoring and Recording 
+AND 
+Report Energy Data 
+
+ 
+This prerequisite applies only to project scope including at least one of the following: 
+ 
+ 
+
+• An initial fit-out of project with gross area of at least 10,000 square feet (929 square 
+meters). 
+
+• An alteration replacing electric power distribution for project with gross area of at least 
+10,000 square feet (929 square meters). 
+
+• New service for electricity, fuel, or thermal energy supplied directly to the tenant by a 
+utility, energy provider, or plant that is not in the building. 
+
+• New on-site renewable energy.  
+ 
+
+Energy Monitoring and Recording 
+For initial fit-out of interior spaces with gross area of at least 10,000 square feet (929 square 
+meter), install (or use existing) measurement devices to monitor and record tenant energy use 
+per ANSI/ASHRAE/IES Standard 90.1.  
+ 
+The referenced version of Standard 90.1 with errata shall be: 
+ 
+
+o 2019 or later for projects registered before January 1, 2028. 
+o 2022 or later for projects registered on or after January 1, 2028. 
+
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 39
+   
+
+
+
+ 
+
+For initial fit-out of interior spaces fewer than 10,000 square feet (929 square meters), or for all 
+alterations replacing electrical power distribution or providing new energy service directly to the 
+tenant from a utility, energy provider, or plant that is not in the building, provide measurement 
+devices capable of measuring total energy consumption for each new service, at least monthly.  
+ 
+For new on-site renewable energy generation systems installed in the project scope, provide 
+measurement devices capable of measuring renewable energy generation: 
+ 
+
+o At 15-minute intervals for tenant spaces larger than 10,000 square feet (929 
+square meters) 
+
+o At least monthly for interior spaces fewer than 10,000 square feet (929 square 
+meters) 
+
+ 
+AND 
+ 
+
+Report Energy Data 
+Commit to reporting the following data to USGBC at least annually: monthly energy data for 12 
+consecutive months of total energy consumption for each tenant-metered energy source; 
+tenant-metered on-site renewable energy generation; and, if available, tenant-metered peak 
+electrical demand. This commitment must carry forward for five years or until the building 
+changes ownership or lessee. 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 40
+   
+
+
+
+Impact Area Alignment 
+
+ Decarbonization 
+ 
+
+— Quality of Life 
+
+Energy and Atmosphere Prerequisite — Ecological Conservation 
+and Restoration 
+
+FUNDAMENTAL REFRIGERANT MANAGEMENT  
+
+EAp5 
+REQUIRED 
+
+INTENT 
+To reduce GHG emissions from refrigerants by accelerating the phaseout of refrigerants with 
+high global warming potential and by reducing refrigerant leakage. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N /A 
+Option 1. No Refrigerants 
+OR 
+Option 2. Refrigerants 
+
+ 
+
+Option 1. No Refrigerants 
+Do not use refrigerants in the project. 
+
+OR 
+
+Option 2. Refrigerants 
+Meet the following requirements for refrigerant-containing equipment installed, replaced, or 
+altered in the project scope of work: 
+ 
+
+• Complete refrigerant inventory: Complete an inventory of the refrigerant-containing 
+equipment installed within the project scope of work and any existing equipment under 
+control of the tenant. The inventory shall include the refrigerant type, GWP, amounts of 
+refrigerants contained in each, and the total GWP of all refrigerants. 
+
+• Do not use hydrochlorofluorocarbon (HCFC) refrigerants in new equipment. 
+• Evaluate available alternatives during the design process for any refrigerants with GWP 
+
+> 700. 
+• Leak check and repair. Prior to substantial completion, check both new and existing 
+
+refrigerant-containing equipment for refrigerant leaks and repair all leaks identified. For 
+systems with field-assembled joints, perform a leak check, vacuum check, and pressure 
+check prior to charging with refrigerant.  
+
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 41
+   
+
+
+
+ 
+
+NOTE: The refrigerant inventory may be documented for the tenant or for the entire building, 
+provided that these include tenant systems. 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 42
+   
+
+
+
+Impact Area Alignment 
+
+ Decarbonization 
+ 
+
+— Quality of Life 
+
+Energy and Atmosphere Credit — Ecological Conservation 
+and Restoration 
+
+ELECTRIFICATION  
+
+EAc1 
+1–5 points 
+
+INTENT 
+To encourage building design that does not depend on burning fuel on-site, which leads to 
+better indoor and outdoor air quality and to low-carbon operations as the grid decarbonizes. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–5 
+Option 1. No On-Site Combustion—Base Building and Tenant Systems 5  
+OR 
+Option 2. No On-Site Combustion Except at Low Temperatures—Base 1–5 
+Building and Tenant Systems 
+
+Path 1. Space Heating 2 
+AND/OR  
+Path 2. Service Water Heating 1 
+AND/OR  
+Path 3. Cooking and Other Process Loads 1–2 
+
+  OR  
+Option 3. No On-Site Combustion, Limited Scope 1–3 
+OR  
+Option 4. Base Building Documentation and Tenant Compliance 5 
+
+ 
+
+Option 1. No On-Site Combustion — Base Building and Tenant Systems (5 
+points) 
+Design and operate the project from start-up with no on-site combustion except for emergency 
+support systems. 
+ 
+The combined weighted average equipment efficiency for space heating and service water 
+heating (SWH) must be at least 1.8 Coefficient of Performance (COP) for initial build-out 
+construction or at least 1.2 COP for alterations. 
+ 
+The following equipment may be excluded from the COP determination: 
+ 
+
+• Space-heating equipment in climate zones 0–2 
+• Supplemental heating equipment designed only for operation at low temperatures 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 43
+   
+
+
+
+ 
+
+• SWH equipment in nonresidential spaces complying with the point-of-use water heater 
+criteria in ASHRAE 90.1-2022, Section 11.5.2.3.3, W05, without exceptions 
+
+OR  
+
+Option 2. No On-Site Combustion Except at Low Temperatures—Base Building 
+and Tenant Systems (1–5 points) 
+Pursue any combination of the following paths for a maximum of 5 points: 
+ 
+PATH 1. SPACE HEATING (2 POINTS) 
+Design space heating to be capable of operating without on-site combustion except at low 
+temperatures. Projects in climate zones 3 and above must have a weighted average space 
+heating equipment efficiency of at least 1.8 COP for initial build-out construction or at least 1.2 
+COP for alterations. 
+ 
+The following equipment may be excluded from the COP determination: 
+ 
+
+• Supplemental heating equipment designed only for operation at low temperatures 
+
+AND/OR 
+
+PATH 2. SWH (1 POINT) 
+Design SWH systems to be capable of operating without on-site combustion except at low 
+temperatures. Projects with total SWH capacity exceeding 34,000 Btu/hr (10 kW) must have a 
+weighted average service hot water equipment efficiency of at least 1.8 COP for initial build-out 
+construction or at least 1.2 COP for alterations. 
+ 
+The following equipment may be excluded from the COP determination: 
+ 
+
+• SWH equipment in nonresidential spaces complying with the point-of-use water heater 
+criteria in ASHRAE 90.1-2022, Section 11.5.2.3.3, W05, without exceptions 
+
+• Supplemental heating equipment designed only for operation at low temperatures 
+
+AND/OR 
+
+PATH 3. COOKING AND OTHER PROCESS LOADS (1–2 POINTS) 
+Design cooking, laundry, process equipment, and on-site power generation except emergency 
+support systems to be capable of operating without on-site combustion.  
+ 
+Not in scope (1 point) 
+
+• Cooking, laundry, or process heating systems are not in project scope of work. 
+ 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 44
+   
+
+
+
+ 
+
+In scope (2 points) 
+• Cooking, laundry, process heating, process drying, and/or on-site power generation are 
+
+installed within the project scope.  
+ 
+The following equipment may be excluded: 
+ 
+
+• Process heating equipment designed for operation at low temperatures 
+ 
+OR 
+
+Option 3. No On-Site Combustion, Limited Scope (1–3 points) 
+For the project scope of work: 
+ 
+
+• Do not install on-site combustion equipment in the project scope of work. 
+• Combined weighted average equipment efficiency for new space heating and SWH must 
+
+be at least 1.8 COP for initial build-out construction or at least 1.2 COP for alterations. 
+ 
+The following equipment may be excluded from the COP determination: 
+ 
+
+• Space heating equipment in climate zones 0–2 
+• Supplemental heating equipment designed only for operation at low temperatures 
+• SWH equipment in nonresidential spaces complying with the point-of-use water heater 
+
+criteria in ASHRAE 90.1-2022, Section 11.5.2.3.3, W05, without exceptions 
+ 
+Points are awarded according to Table 1 based on the minimum project scope of work. 
+ 
+Table 1. Points For No On-Site Combustion, Limited Scope 
+
+Minimum Project Scope of Work Points 
+One or more cooking, heating, SWH, or process heating systems 1 
+At least 20% of the project’s peak combined heating and SWH load, or all commercial 2 
+cooking equipment 
+At least 50% of the project’s peak combined heating and SWH load, or all commercial 3 
+cooking equipment  
+
+OR  
+
+Option 4. Base Building Documentation and Tenant Compliance (5 points) 
+Points are awarded according to Table 2. Locate in a building that has documented a LEED 
+credit per Table 2. 
+
+AND/OR 
+
+Meet the following criteria per system type in the project scope of work. The system types are 
+defined as: 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 45
+   
+
+
+
+ 
+
+ 
+• Space heating 
+• SWH 
+• Cooking and other process loads 
+
+ 
+Criteria per system type: 
+ 
+
+• Do not install on-site combustion equipment.  
+
+AND 
+
+• Combined weighted average equipment efficiency for space heating system type and 
+SWH system type must be at least 1.8 COP for initial build-out construction or at least 
+1.2 COP for alterations. 
+
+ 
+The following equipment may be excluded from the COP determination: 
+
+• Space heating equipment in climate zones 0–2 
+• Supplemental heating equipment designed only for operation at low temperatures 
+• SWH equipment in nonresidential spaces complying with the point-of-use water heater 
+
+criteria in ASHRAE 90.1-2022, Section 11.5.2.3.3, W05, without exceptions 
+ 
+Table 2. Points for Achievement of Base Building Performance and Tenant Performance 
+
+Base Building Documentation Minimum System Types in Points 
+LEED LEED EA Credit Name Base Building Project Scope Complying Awarded 
+Rating and Credit Option Minimum with Criteria 
+System(s) Threshold 
+LEED v5 EAc1: Electrification 1 point None 1 
+BD+C 2 points None 2 
+
+3 points At least one, or all systems in 3 
+scope 
+
+4 points At least two, or all systems in 4 
+scope 
+
+5 points (NC) All systems in scope 5 
+4 points (CS) 
+
+LEED v5 EAc1: GHG Emissions 2 points None 1 
+O+M: Reduction 3 points None  2 
+Existing Performance, Option 4 points At least one, or all systems in 3 
+Buildings 1. GHG From On-Site scope 
+
+Combustion 5 points At least two, or all systems in 4 
+scope 
+
+5 points All systems in scope 5 
+ 
+For all options 
+ 
+Equipment efficiency (for Options 1 and 2) 
+Determine weighted average COP using either of the following: 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 46
+   
+
+
+
+ 
+
+ 
+• Equipment efficiencies at rated conditions. For equipment with multiple rated conditions, 
+
+use the rating closest to 17°F (−9°C) outside air dry-bulb temperatures (OA db), 32°F 
+(0°C) entering liquid temperature, or 44°F (6°C) heating source leaving liquid 
+temperature. 
+
+• Annual average COP calculated with an energy simulation. 
+ 
+District energy 
+Projects with district energy must comply with the requirements of this credit at the district 
+facility or see additional guidance for interpretation of credit requirements. 
+ 
+Fuel cells 
+Fuel cells using fossil fuel are ineligible for credit. 
+ 
+Low temperatures 
+The term  refers to OA db below 20°F (−6.5°C). 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 47
+   
+
+
+
+Impact Area Alignment 
+
+ Decarbonization 
+ 
+
+— Quality of Life 
+
+Energy and Atmosphere Credit — Ecological Conservation 
+and Restoration 
+
+ENHANCED ENERGY EFFICIENCY  
+
+EAc2 
+1–12 points: 7 points are required for LEED Platinum projects. 
+
+INTENT 
+To design buildings that minimize energy use to reduce the environmental damage caused by 
+resource extraction, air pollution, and GHG emissions, and to facilitate the transition to a clean 
+energy future.  
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–12 
+Option 1. Prescriptive Path 1–12 
+
+Path 1. ASHRAE 90.1-2022 Compliance for Project Scope 3 
+AND/OR  
+Path 2. Regulated Loads 1–4 
+
+Case 1. Additional Efficiency—Systems Optimization 1–4 
+OR  
+Case 2. Additional Efficiency Requirements Beyond ASHRAE 90.1- 1–4 
+2022 
+
+OR  
+Path 3. Plug and Process Loads (PPL) 1–5 
+
+Case 1. Plug Load Management  1 
+AND/OR  
+Case 2. Efficient Plug and Process Load Equipment 1–5 
+OR  
+Case 3. Plug and Process Load Exceptional Calculation 1–5 
+
+  AND/OR  
+Path 4. Base Building Energy Efficiency 2 
+
+OR  
+Option 2. Energy Simulation 1–12 
+
+Path 1. Percentage Reduction Excluding On-Site Renewable 1–12 
+Contribution 
+OR  
+Path 2. Percentage Reduction Including On-Site Renewable Contribution 1–12 
+
+ 
+
+Option 1. Prescriptive Path (1–12 points) 
+PATH 1. ASHRAE 90.1-2022 COMPLIANCE FOR PROJECT SCOPE (3 POINTS) 
+Comply with the provisions of ASHRAE 90.1-2022, Sections 5–11, for the project scope of work. 
+
+AND/OR 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 48
+   
+
+
+
+ 
+
+PATH 2. REGULATED LOADS (1–4 POINTS)  
+Apply Case 1 or Case 2, up to a maximum of 4 points: 
+ 
+Case 1. Additional Efficiency — Systems Optimization (1–4 points) 
+Points are awarded according to Table 1. For projects complying with Path 1, reference 
+ASHRAE 90.1-2022 or approved equivalent standard. For other projects registered prior to 
+January 1, 2028, reference ASHRAE 90.1-2019 or approved equivalent standard. 
+ 
+Table 1. Systems optimization 
+
+ Threshold Points 
+Lighting power. Reduce connected lighting power, including 15% 1 
+existing fixtures below the lighting power allowance by the 
+specified percentage. 30% 2 
+Cooling, heating, and SWH efficiency. Demonstrate the 
+specified percent improvement in prescriptive efficiencies for at 
+least 75% of the combined cooling, heating, and SWH capacity 15% 1 
+installed or replaced in the project scope of work. 
+Fan power. Demonstrate the specified percent improvement in 
+fan power below the prescriptive fan power limitation for systems 20% 1 
+altered or replaced in the project scope of work. 
+
+OR 
+
+Case 2. Additional Efficiency Requirements Beyond ASHRAE 90.1-2022 (1–4 points) 
+Applicable only to projects complying with ASHRAE 90.1-2022, Sections 5–11, that are also 
+defined as “substantial alterations to existing buildings” per ASHRAE 90.1, Section 11.1.4. 
+Points are awarded according to Table 2. 
+ 
+Document achievement of incremental ASHRAE 90.1-2022, Section 11, energy credits above 
+the minimum required by ASHRAE 90.1-2022, Section 11, from the following list of eligible 
+measures: 
+ 
+Eligible measures from ASHRAE 90.1, Section 11.5.2, for LEED points 
+
+• HVAC measures (H01 to H07) 
+• SWH measures (W01 to W09) 
+• Lighting measures (L01 to L06) 
+• G07 Building Mass/Night Flush 
+
+ 
+Table 2. Points for ASHRAE 90.1-2022, Section 11 Credits 
+
+ASHRAE 90.1-2022, Section 11 Credits Points 
+Minimum required by 90.1-2022 plus 13 credits 1 
+Minimum required by 90.1-2022 plus 25 credits 2 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 49
+   
+
+
+
+ 
+
+ASHRAE 90.1-2022, Section 11 Credits Points 
+Minimum required by 90.1-2022 plus 38 credits 3 
+Minimum required by 90.1-2022 plus 50 credits 4 
+
+AND/OR 
+
+PATH 3. PLUG AND PROCESS LOADS (1–5 POINTS) 
+Case 1. Plug Load Management (1 point) 
+Implement the following: 
+ 
+
+• Provide a plug load dashboard that is accessible through an application to all regular 
+occupants of the space. 
+
+• For tenant types with IT departments, implement policies for PCs, monitors, and visual 
+displays to be controlled off when not in use, except for scheduled maintenance periods. 
+
+AND/OR 
+
+Case 2. Efficient Plug and Process Load Equipment (1–5 points) 
+Implement one or more of the following: 
+ 
+
+• Install or reuse eligible plug and process equipment meeting the criteria in Table 3 for 
+90% of applicable equipment by quantity or rated load. Either include or exclude all 
+eligible equipment reused in the project from the calculations. For one Table 3 
+equipment category (1 point) 
+
+• For two Table 3 equipment categories (2 points) 
+• For three or more Table 3 equipment categories (3 points) 
+
+OR 
+
+For process-intensive spaces, install or reuse eligible plug and process equipment meeting the 
+criteria in Table 3 for at least 90% of total applicable equipment rated load. Rated load of 
+compliant equipment must total at least: 
+ 
+
+• 0.3 W/sq. ft. (3.2 W/sq. m.) (3 points) 
+• 0.5 W/sq. ft. (5.4 W/sq. m.) (4 points) 
+• 1.0 W/sq. ft. (10.8 W/sq. m.) (5 points) 
+
+ 
+Table 3. Plug, Process, Refrigeration, and Conveyance Equipment Criteria 
+
+Equipment Applicable Equipment Criteria 
+Category 
+ENERGY STAR Office equipment ENERGY STAR rated or 
+products: plug Appliances approved equivalent with at 
+
+Electronics 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 50
+   
+
+
+
+ 
+
+Equipment Applicable Equipment Criteria 
+Category 
+loads and small Other least 0.1 W/sq. ft. (1.1 W/sq. 
+appliances (e.g., vending machines, pool m.) of total rated load 
+
+pumps, water coolers) 
+ENERGY STAR Commercial food service equipment ENERGY STAR rated or 
+products: process Data center/server equipment approved equivalent with at 
+loads Commercial laundry equipment least 0.1 W/sq. ft. (1.1 W/sq. 
+
+EVSE m.) of total rated load 
+Other (e.g., laboratory-grade 
+refrigerators and freezers) 
+
+People conveyance Elevators ISO 25745 
+Escalators At least Class A-rated 
+Moving walkways 
+
+Data center Electrical system design ASHRAE 90.4-2022 
+electrical system Design electrical loss 
+
+component (ELC) is at least 
+20% lower than the maximum 
+design electrical loss 
+
+Refrigeration Referenced in ASHRAE 90.1, 10% improvement beyond 
+systems  Section 6.8, tables AND not ASHRAE 90.1, Section 6.8, 
+
+ENERGY STAR eligible tables 
+Refrigerated warehouse California Title 24-2022, 
+
+Section 120.6, refrigerated 
+warehouse requirements 
+
+Airport equipment Baggage handling equipment Individual carrier systems 
+(ICS) with variable frequency 
+drive 
+
+Aircraft and jetway air-conditioning  Preconditioned air (PCA) 
+systems with efficiencies 
+meeting ASHRAE 90.1 
+prescriptive efficiencies for 
+HVAC equipment 
+
+OR 
+
+Case 3. Plug and Process Load Exceptional Calculation (1–5 points) 
+Using the ASHRAE 90.1, Section G2.5, exceptional calculation method, demonstrate a 
+minimum percentage improvement in total project plug and process, refrigeration, and 
+conveyance loads. Points are awarded according to Table 4. 
+ 
+Table 4. Points for Percent Improvement in Plug and Process Loads 
+
+Improvement (%) Points 
+8% 1 
+16% 2 
+24% 3 
+32% 4 
+40% 5 
+
+ 
+AND/OR 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 51
+   
+
+
+
+ 
+
+PATH 4. BASE BUILDING ENERGY EFFICIENCY (2 POINTS) 
+Locate in a base building that complies with one of the following: 
+ 
+
+• ASHRAE 90.1-2022 
+• Current ENERGY STAR score of at least 75 
+• LEED base building documentation of energy efficiency per Table 5 
+
+ 
+Table 5. LEED Base Building Documentation of Energy Efficiency 
+
+Interior Fit-out LEED Base Building Documentation of Energy Efficiency 
+Classification Rating EA credit name and credit Rating System(s) 
+
+System(s) option 
+Initial build-out LEED v5 Initial build-out LEED v5 BD+C 
+
+BD+C  
+ 
+
+Alterations of LEED v5 Alterations of previously LEED v5 O+M 
+previously O+M occupied space  
+occupied space  
+Initial build-out LEED v4 or Initial build-out LEED v4 or LEED v4.1 
+
+LEED v4.1 BD+C 
+BD+C 
+
+OR 
+
+Option 2. Energy Simulation (1–12 points) 
+Demonstrate an improvement in future source energy calculated per ASHRAE Standard 90.1, 
+Normative Appendix G, “Performance Rating Method,” with the following additional provisions:  
+ 
+
+• Use the ASHRAE 90.1 version applied for EAp2: Minimum Energy Efficiency. 
+• Replace ASHRAE 90.1-2019 or 90.1-2022, Table 4.2.1.1, Building Performance Factors 
+
+(BPFs), with Table 7 below. For alterations except initial build-out construction, the 
+following ASHRAE 90.1-2022 adjustments may be applied: 
+
+o Substantial alteration. Multiply the BPF by 1.05 if the alteration is defined as a 
+substantial alteration in ASHRAE 90.1-2022, Section G3.1.4(a). 
+
+o Other alterations. Apply ASHRAE 90.1-2022, Section G3.3 (“Performance 
+Calculations for Other Alterations”). For projects documented using ASHRAE 
+90.1-2019, Appendix G, replace all references to 90.1-2022, Section 5–10, 
+prescriptive criteria with the corresponding 90.1-2019, Section 5–10 criteria. 
+
+• Replace all references to “cost” with “future source energy.” Use an electric site-to-
+source energy conversion factor of 2.0 based on future projections for the U.S. A lower 
+national average value may be used as applicable for projects outside of the U.S. 
+
+• Model energy efficiency measures for plug and process loads using Section G2.5, 
+“Exceptional Calculation Method,” or approved calculations in the LEED reference 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 52
+   
+
+
+
+ 
+
+guidance. Calculate the PI and percentage improvement with and without the plug and 
+process savings. 
+
+• Calculate the PI and performance index target (PIt) as follows: 
+• PInre = PBPnre / BBP 
+• PI = PBP / BBP 
+• PIt = [BBUE + (BPF x BBRE)] / BBP 
+where: 
+
+o PInre = PI for future source energy excluding on-site renewable contribution  
+o PI = PI for future source energy including on-site renewable contribution 
+o PIt = performance index target for future source energy use 
+o BBP = baseline building performance for baseline building future source 
+
+energy use 
+o BBUE = baseline building unregulated future source energy use 
+o BBRE = baseline building regulated future source energy use 
+o PBPnre = proposed building performance without any credit for reduced 
+
+annual future source energy from on-site renewable energy generation 
+systems 
+
+o PBP = proposed building performance, including the reduced annual future 
+source energy associated with all on-site renewable energy generation 
+systems 
+
+ 
+Points are awarded according to Table 6, using either Path 1 or Path 2.  
+ 
+Table 6. Points for Percentage Improvement in PI Below PIt 
+Path 1. Percentage Reduction OR Path 2. Percentage Reduction Points 
+Excluding On-Site Renewable Excluding On-Site Renewable 
+Contribution (100%–PInre/PIt) Contribution (100%–PI/PIt) 
+0%  5% 2 
+2% 10% 3 
+4% 20% 4 
+6% 30% 5 
+8% 40% 6 
+10% 50% 7 
+12% 60% 8 
+14% 70% 9 
+16% 80% 10 
+18% 90% 11 
+20% 100% 12 
+
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 53
+   
+
+
+
+ 
+
+Table 7. ASHRAE 90.1-2019—Equivalent BPFs for a Future Source Energy Metric 
+
+Building Type Climate Zone 
+ 0A 0B 1A 1B 2A 2B 3A 3B 3C 4A 4B 4C 5A 5B 5C 6A 6B 7 8 
+
+0.74 0.69 0.73 0.70 0.73 0.70 0.71 0.70 0.63 0.70 0.71 0.69 0.68 0.70 0.70 0.68 0.68 0.68 0.74 
+Multifamily 
+
+0.72 0.72 0.73 0.73 0.74 0.71 0.72 0.74 0.71 0.72 0.73 0.71 0.74 0.73 0.80 0.73 0.77 0.78 0.79 
+Healthcare/hospital 
+
+0.72 0.71 0.72 0.71 0.71 0.70 0.71 0.73 0.72 0.71 0.73 0.73 0.71 0.73 0.74 0.70 0.72 0.70 0.70 
+Hotel/motel 
+
+0.62 0.63 0.61 0.62 0.58 0.60 0.57 0.62 0.55 0.55 0.61 0.57 0.58 0.61 0.59 0.58 0.60 0.54 0.58 
+Office 
+
+0.65 0.62 0.63 0.61 0.62 0.58 0.63 0.63 0.63 0.67 0.66 0.66 0.70 0.70 0.68 0.73 0.72 0.74 0.77 
+Restaurant 
+
+0.57 0.54 0.53 0.53 0.48 0.47 0.47 0.47 0.47 0.52 0.50 0.56 0.57 0.53 0.59 0.58 0.56 0.53 0.60 
+Retail 
+
+0.57 0.57 0.58 0.57 0.55 0.54 0.57 0.51 0.49 0.48 0.51 0.52 0.51 0.53 0.51 0.53 0.50 0.51 0.58 
+School 
+
+0.28 0.30 0.24 0.27 0.23 0.24 0.27 0.23 0.20 0.33 0.26 0.28 0.40 0.32 0.29 0.44 0.38 0.40 0.44 
+Warehouse 
+
+0.65 0.62 0.64 0.62 0.57 0.54 0.57 0.56 0.58 0.59 0.57 0.60 0.60 0.59 0.65 0.62 0.62 0.61 0.64 
+All others 
+
+ 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 54
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+ 
+
+ 
+— Quality of Life 
+
+— Ecological Conservation 
+Energy and Atmosphere Credit and Restoration 
+
+RENEWABLE ENERGY  
+
+EAc3 
+1–5 points: 100% of tenant annual site energy consumption from any combination of Tier 1, Tier 
+2, and Tier 3 renewable energy is required for LEED Platinum projects. 
+
+INTENT 
+To encourage and recognize the use of renewable energy to reduce environmental and 
+economic impacts associated with fossil fuel energy use, increase the supply of new renewable 
+energy within the electrical grid, and foster a just transition to a green economy. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–5 
+Renewable Energy Supply or Procurement 1–5 
+
+ 
+Supply or procure renewable energy meeting the renewable energy criteria. Points are 
+rewarded according to Table 1.  
+ 
+Points documented for Tier 1, Tier 2, and/or Tier 3 renewable energy may be added together up 
+to a maximum of 5 points.  
+ 
+Tenant annual site energy consumption must include the total estimated annual electricity and 
+fuel use for systems and equipment within the project boundary or exclusively serving the 
+project space (excluding shared air handling units or thermal energy). 
+
+AND 
+
+The total estimated annual energy consumption for thermal energy (CHW or hot water) supplied 
+directly to the tenant by a utility, energy provider, or plant that is not in the building. 
+ 
+Renewable energy may be allocated to the tenant from the base building, provided it is 
+allocated equally for the entire building area (including tenant area and base building core area). 
+
+OR 
+
+Incremental to the renewable energy required for the base building for LEED BD+C: Core and 
+Shell EAc4: Renewable Energy. 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 55
+   
+
+
+
+ 
+
+Table 1. Points for Renewable Energy Procurement 
+Tier 1 Tier 2 Tier 3 
+
+Points Minimum Rated Percent of Tenant Percent of Percent of 
+Capacity* OR Annual Site Tenant Annual Tenant Annual 
+
+Energy Site Energy Site Energy 
+A × 1 W/sq. ft. 
+
+1 (A × 10.8 W/sq. OR 5% 20% 50% 
+m.) 
+A × 2 W/sq. ft. 
+
+2 (A × 21.6 W/sq. OR 10% 40% 100% 
+m.) 
+
+3   20% 60%  
+4   35% 80%  
+5   100% Tier 1 and/or Tier 2 renewable 
+
+energy  
+*A = the sum of gross floor area of all floors of the building up to the three largest floors of the building, prorated to the project 
+based on project area. 
+
+Renewable Energy Criteria 
+RENEWABLE ENERGY CLASSIFICATIONS 
+Tier 1. On-site Renewable Energy Generation or Social Impact Project 
+The renewable generation equipment may be located 
+ 
+
+• On the project site; 
+• On the campus on which a project is located; or 
+• On the site of an equity project, as long as the renewable power system is provided, 
+
+installed, and commissioned at no cost to the equity entity; that the ownership of the 
+renewable power system is transferred to the equity entity; and that the rights to the 
+power provided be given to the equity entity. 
+
+ 
+Tier 2. New Off-site Renewable Electricity 
+Off-site renewable electricity produced by new generation asset(s) must be 
+ 
+
+• Contracted to be operational within two years of building occupancy, OR 
+• Contracted no more than five years after the renewable asset’s commercial operations 
+
+date. 
+ 
+Tier 3. Off-site Renewable Energy 
+
+• Off-site renewable electricity that is Green-e® Energy certified or equivalent 
+• Renewable fuels that are Green-e Energy certified or equivalent 
+
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 56
+   
+
+
+
+ 
+
+CONTRACT LENGTH 
+• Contract length shall be 10 years or prorated across 10 years for shorter contract 
+
+lengths 
+ 
+ENVIRONMENTAL ATTRIBUTES 
+ Ownership: All environmental attributes—Energy Attribute Certificates (EACs) or 
+
+Renewable Energy Certificates (RECs)—associated with renewable energy generation 
+must be retired on behalf of the LEED project for the renewable energy procurement to 
+contribute to credit achievement.  
+
+ Project energy source: Renewable electricity generation and EAC procurement can 
+only be applied to tenant electricity use or district energy use up to 100% of annual 
+electricity, plus district energy use. Renewable fuels can only be applied to tenant fuel 
+use or district heat up to 100% of annual fuel, plus district heat use. 
+
+ Vintage: EACs credited to the project must be generated no earlier than 18 months 
+before the LEED project’s initial application submission date. 
+
+ Location: Tier 2 and Tier 3 renewable assets must be in the same country or region 
+where the LEED project is located. 
+
+ Tier 2 bulk purchase: Green-e Energy certification or equivalent is required for one-
+time purchase or annual purchase of EACs or renewable power totaling more than 100% 
+of the tenant’s annual electricity use. 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 57
+   
+
+
+
+Impact Area Alignment 
+
+ Decarbonization 
+ 
+
+— Quality of Life 
+
+— Ecological Conservation 
+Energy and Atmosphere Credit and Restoration 
+
+ENHANCED COMMISSIONING  
+
+EAc4 
+1–4 points 
+
+INTENT 
+To further ensure that the building systems function as designed, and that they continue to 
+maintain energy performance over time.  
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–4 
+Option 1. Enhanced Commissioning 2 
+AND/OR  
+Option 2. Monitoring-Based Commissioning (MBCx) 1–2 
+
+Path 1. Basic MBCx 1 
+OR  
+Path 2. Enhanced MBCx 2 
+
+ 
+
+Option 1. Enhanced Commissioning (2 points) 
+Owner must designate an independent commissioning provider (CxP) during pre-design or very 
+early in the design phase. 
+ 
+Comply with ANSI/ASHRAE/IES Standard 202-2024, “Commissioning Process” for mechanical, 
+electrical, plumbing, data center, process, building monitoring, building enclosure, and 
+renewable energy systems within the project scope of work (including any interconnection with 
+base building systems). 
+ 
+The CxP must comply with the following additional requirements: 
+ 
+
+• Attend at least one coordination meeting during the design phase and at least two 
+milestone meetings during the construction phase to discuss review comments and 
+commissioning. 
+
+• Provide an ongoing commissioning plan. 
+• During occupancy, review the training materials to confirm that they meet the training 
+
+plan, and confirm that the training occurred. 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 58
+   
+
+
+
+ 
+
+If the project scope includes alterations to 25% or more of the building envelope area or 5,000 
+square feet (465 square meters) of the building enclosure, then field testing for the building 
+enclosure shall include the following if applicable:  
+ 
+
+• Water penetration testing per ASTM E1105 or AAMA 501.2, as appropriate. 
+• Infrared imaging per ASTM C1153 or ASTM C1060, as appropriate. 
+
+AND/OR 
+
+Option 2. Monitoring-Based Commissioning (MBCx) (1–2 points) 
+PATH 1. BASIC MBCX (1 POINT) 
+Process and communications 
+Commit to implementing MBCx for a minimum of three years. Include all the following: 
+ 
+
+• MBCx plan: Develop an MBCx plan and include it in the current facilities requirements 
+and operations and maintenance plan. The MBCx plan must describe: 
+o Roles and responsibilities 
+o Training of operations staff 
+o A software technology description, including frequency and duration of trend 
+
+monitoring. 
+o An action plan for identifying, prioritizing, correcting, and verifying correction of 
+
+operational errors. 
+o Review and reporting criteria. At least annually, provide a summary report of trends, 
+
+benchmarks, faults, energy savings opportunities, corrective actions taken, and 
+planned actions. 
+
+• Energy information system: Have in place a remotely accessible platform with 
+software functionality to perform smart analytics and visually present project electricity 
+consumption and fuel consumption, excluding shared systems serving the project space. 
+Tenant access to the building EIS is acceptable. 
+
+ 
+Include the following functionality: 
+ 
+
+• Annual energy benchmarking of energy use intensities. 
+• Comparison of total project energy consumption and energy consumption of fuel and 
+
+electricity to the prior interval annually and monthly. 
+• If electricity interval metering is required in EAp4: Energy Metering and Reporting, 
+
+provide visualization and reporting of hourly total electricity and submetered data. For 
+total tenant electricity, include an hourly loadshape and comparison of hourly electricity 
+to the prior interval, and to the same interval of the prior year annually, monthly, weekly, 
+and daily. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 59
+   
+
+
+
+ 
+
+• Provide hourly monitoring and visualization of electric energy use for: 
+o Commercial kitchen equipment in project spaces with more than 20 kW of rated 
+
+capacity. 
+o Process equipment in project spaces with more than 20 kW of rated capacity. 
+
+• Training: Train operations staff to use the EIS to proactively inform energy-efficient 
+operations or confirm training occurred within the past six years. 
+
+OR 
+
+PATH 2. ENHANCED MBCX (2 POINTS) 
+Comply with Path 1 and implement the following enhanced MBCx practices and software 
+capabilities: 
+ 
+
+• Provide MBCx through a corporate MBCx program or contracted service. Fully 
+coordinate the MBCx process between the space operations staff and the monitoring-
+based commissioning provider (MBCxP). 
+
+• Process and communications: The MBCxP process must include 
+o Expeditious communication of major anomalies or faults identified by MBCxP to 
+
+facilities staff. 
+o At least quarterly, an MBCxP summary of anomalies and faults detected and 
+
+communication with facilities staff to discuss and prioritize issues. 
+o For projects with fault detection and diagnostics (FDD), training of operations staff in 
+
+the use of FDD to proactively identify and correct building system issues for 
+optimized system operation or a confirmation that training occurred within the past 
+six years. 
+
+ 
+Enhanced EIS.  
+Include the following additional functionality: 
+ 
+
+• Normalization of energy consumption 
+• Automated reporting of energy use anomalies 
+• GHG reporting 
+• Hourly metering and visualization of electricity for the following, if applicable: 
+
+o On-site electricity generation 
+o At least 90% of lighting power altered or installed in the project scope of work. 
+o HVAC or refrigeration equipment with thermal energy capacity exceeding 900,000 
+
+Btu/hr (264 kW, 75 tons), or with rated fan power exceeding 75 hp (56 kW). 
+o Electricity use for process equipment with thermal energy capacity exceeding 
+
+900,000 Btu/hr (264 kW, 75 tons) 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 60
+   
+
+
+
+ 
+
+FDD for projects with large HVAC and refrigeration capacity.  
+For total project installed capacity of either cooling systems, heating systems, or refrigeration 
+systems exceeding 7,200 kBtu/hr (600 tons, or 2,110 kW), provide a remotely accessible FDD 
+system that addresses at least 60% weighted by capacity of: 
+ 
+
+• Air-handling equipment, AND 
+• Large hydronic or commercial refrigeration equipment (chillers, boilers, etc.). 
+
+ 
+The FDD system must be able to: 
+ 
+
+• Perform smart analytics and visually present FDD data.  
+• Direct link from reported fault to view relevant trend data. 
+• Sort and filter faults. 
+• Export fault reports (summary reports and detailed individual faults). 
+• Act as a data historian capable of storing critical trend data for at least three years. 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 61
+   
+
+
+
+Impact Area Alignment 
+
+ Decarbonization 
+ 
+
+— Quality of Life 
+
+Energy and Atmosphere Credit — Ecological Conservation 
+and Restoration 
+
+GRID INTERACTIVE  
+
+EAc5 
+1–3 points 
+
+INTENT 
+To enhance power resilience and position buildings as active partners contributing to grid 
+decarbonization, reliability, and power affordability through peak thermal load reduction and 
+integrated management of building loads in response to variable grid conditions. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors  1–3 
+Option 1. Peak Thermal Load Reduction  1–3 
+
+Path 1. Ventilation Energy or Heat Recovery 1 
+AND/OR  
+Path 2. Low Thermal Conductance 1 
+AND/OR  
+Path 3. Infiltration  1 
+
+AND/OR  
+Option 2. Energy Storage  1–2 
+AND/OR  
+Option 3. Demand Response Program  1 
+AND/OR  
+Option 4. Automated Demand-Side Management 1 
+
+Path 1. System-Level Controls 1 
+OR  
+Path 2. Building Automation System 1 
+
+  AND/OR  
+Option 5. Power Resilience 1 
+
+ 
+Comply with any of the following up to a maximum of 3 points. Each requirement may be 
+documented at the building level or for the project only.  
+ 
+
+Option 1. Peak Thermal Load Reduction (1–3 points) 
+Comply with any of the following peak thermal load reduction criteria for 1 point each.  
+ 
+PATH 1. VENTILATION ENERGY OR HEAT RECOVERY (1 POINT) 
+Each fan system supplying outdoor air to the project shall have an energy or heat recovery 
+system with a minimum 70% enthalpy recovery ratio or a minimum 75% sensible heat recovery 
+ratio. Provisions must be made to bypass or control the energy recovery system during 
+moderate outside air conditions. 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 62
+   
+
+
+
+ 
+
+ 
+In aggregate, fan systems supplying less than 15% of the project’s total outdoor air can be 
+excluded.  
+
+AND/OR 
+
+PATH 2. LOW THERMAL CONDUCTANCE (1 POINT)  
+For initial build-out, comply prescriptively with the thermal bridging requirements of ASHRAE 
+90.1-2022, Section 5.5.5. Projects in climate zones 0–3 shall not be excepted. 
+ 
+For projects locating in an existing building, demonstrate one of the following: 
+ 
+
+• Total envelope UA (the sum of U-factor times assembly area) no more than 125% of the 
+total building envelope UA that meets the ASHRAE 90.1-2022 prescriptive building 
+envelope criteria for new construction. 
+
+• Minimum 30% improvement in total envelope UA for the alteration versus historical total 
+envelope UA (no more than three years prior to project registration), AND total envelope 
+UA is no more than 200% of the conductance of a total building envelope UA that meets 
+the ASHRAE 90.1-2022 prescriptive envelope criteria for new construction. 
+
+AND/OR 
+
+PATH 3. INFILTRATION (1 POINT) 
+Either at the building level, or for the compartmentalized tenant space, demonstrate one of the 
+following through air leakage testing conducted within five years of project occupancy: 
+ 
+
+• Measured air leakage of the building envelope less than or equal to Table 1, OR 
+• For projects locating in existing buildings, a reduction in air leakage of at least 30%, to a 
+
+measured air leakage less than 1.0 cfm/sq. ft. (5 L/s × sq. m.) at 75 Pascals (0.3 in H2O) 
+
+documented through air leakage testing before and after alterations are implemented. 
+ 
+Table 1. Caps on Air Leakage Rates 
+
+Pressure Test Conditions Across Maximum Air Leakage* 
+
+the Building Envelope Initial Build-Out Renovation of Previously 
+Occupied Space 
+
+At pressure difference of 50 Pascals 0.17 cfm/sq. ft. 0.26 cfm/sq. ft. 
+(0.2 in H2O) (0.85 L/s × sq. m.) (1.3 L/s × sq. m.) 
+At pressure difference of 75 Pascals 0.24 cfm/sq. ft. 0.35 cfm/sq. ft. 
+(0.3 in H2O) (1.20 L/s × sq. m.) (1.75 L/s × sq. m.) 
+*Air leakage per square foot or square meter of building envelope area (including exterior walls, roofs, and base floor/slab). 
+PATH 3 NOTE: Complete air leakage testing using ASTM E779, ANSI/RESNET/ICC 380, ASTM E3158, ASTM E1827, or 
+equivalent. 
+
+AND/OR 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 63
+   
+
+
+
+ 
+
+Option 2. Energy Storage (1–2 points) 
+Provide on-site electric storage and/or thermal storage meeting the criteria in Table 2. 
+ 
+Include automatic load management controls capable of storing the electric or thermal energy 
+during off-peak periods or periods with low grid carbon intensity, as well as using stored energy 
+during on-peak periods or periods of high grid carbon intensity. 
+ 
+Table 2. Peak Storage Capacity Relative to Peak Demand 
+
+Storage 1 Point 2 Points 
+Electric storage capacity 0.2 kWh/kW 0.4 kWh/kW 
+Relative to peak electric demand 
+Thermal storage capacity 1.0 kWh/kW 2.0 kWh/kW 
+Relative to peak coincident thermal demand or Btu/Btu/hr or Btu/Btu/hr 
+(heating + cooling + SWH + process heat) or ton-hr/ton or ton-hr/ton 
+
+AND/OR 
+
+Option 3. Demand Response Program (1 point) 
+Enroll in a minimum one-year demand response (DR) contract with a qualified DR program 
+provider, with the intention of multiyear renewal. 
+ 
+On-site combustion-based electricity cannot be used to meet the demand-side management 
+criteria. 
+
+AND/OR 
+
+Option 4. Automated Demand-Side Management (1 point) 
+On-site combustion-based electricity cannot be used to meet the demand-side management 
+criteria. 
+ 
+PATH 1. SYSTEM-LEVEL CONTROLS (1 POINT)  
+Provide automated demand response controls for at least two of the following systems installed 
+within the project scope of work:  
+ 
+
+• HVAC systems (50% of rated capacity) 
+• Lighting systems (50% of power) 
+• Automatic receptacle controls (50% of number of receptacles) 
+• Service water heating (90% of capacity) 
+• Electric vehicle supply equipment 
+
+OR 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 64
+   
+
+
+
+ 
+
+PATH 2. BUILDING AUTOMATION SYSTEM (1 POINT) 
+Develop a plan for shedding at least 10% of the project’s peak electricity demand for a minimum 
+of one hour. The plan shall address both winter and summer peaks considering electrified grid 
+projections.  
+ 
+Use a control system that automatically sheds electricity demand in response to triggers 
+denoting strain on the grid or high grid emissions. For example: 
+ 
+
+• Signal from a DR program provider 
+• Data obtained through an API indicating high grid emissions 
+• Peak demand tariff period when the grid is operating in the highest demand window 
+• Time-of-use rate when pricing is highest 
+
+AND/OR 
+
+Option 5. Power Resilience (1 point) 
+Identify critical equipment that requires continuous operation. Design the project to be capable 
+of islanding and operating independently from the grid to power the critical loads with the 
+project’s on-site renewable and energy storage systems for a minimum of three days. 
+
+ 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 65
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+ 
+
+ 
+— Quality of Life 
+
+— Ecological Conservation 
+Energy and Atmosphere Credit and Restoration 
+
+ENHANCED REFRIGERANT MANAGEMENT  
+
+EAc6 
+1–2 points 
+
+INTENT 
+To reduce greenhouse gas emissions (GHG) by accelerating the use of refrigerants with low 
+global warming potential and promoting better refrigerant management practices. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–2 
+Option 1. No Refrigerants or Low GWP 1–2 
+
+Path 1. No Refrigerants 2 
+OR  
+Path 2. Low GWP Refrigerants 1–2 
+
+AND/OR  
+Option 2. Limit Refrigerant Leakage 1 
+Retail 1–2 
+Option 1 or 2  1 
+AND/OR  
+Option 3. GreenChill Certification for Food Retailers 1–2 
+
+ 
+Commercial Interiors 
+
+Option 1. No Refrigerants or Low GWP (1–2 points) 
+PATH 1. NO REFRIGERANTS (2 POINTS) 
+Do not use refrigerant-containing equipment in the project.  
+
+OR 
+
+PATH 2. LOW GWP REFRIGERANTS (1–2 POINTS) 
+The maximum total weighted average refrigerant GWP in all new refrigerant-containing 
+equipment is less than or equal to 80% (1 point) or 50% (2 points) of the total weighted average 
+GWP of refrigerants meeting the benchmarks in Table 1. 
+ 
+Projects that limit effective refrigerant GWP by reducing refrigerant charge per unit of capacity 
+relative to comparable equipment may use adjusted benchmarks per additional guidance. 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 66
+   
+
+
+
+ 
+
+Table 1. Refrigerant GWP benchmarks 
+
+GWP Equipment and Systems   
+Benchmark*  
+1,400 Heat pump service hot water heaters  
+700 HVAC  
+
+Data centers, computer room air conditioning, and information 
+technology equipment cooling  
+Process chiller equipment or ice rink refrigeration equipment  
+
+300 All other process refrigeration for retail, industrial, or cold storage  
+*GWP benchmarks are based on a 100-year time horizon GWP relative to CO2. 
+
+AND/OR 
+
+Option 2. Limit Refrigerant Leakage (1 point) 
+Design, construct, and operate the project’s refrigerant-using equipment to minimize refrigerant 
+leakage. For initial build-out of projects with less than 50% of the capacity of refrigerant-using 
+equipment installed in the project scope of work, compliance must be documented for base 
+building systems as well as any systems installed in the project scope of work. 
+ 
+Refrigerant-using equipment shall be self-contained, with no field-installed piping: 
+ 
+
+• For equipment with refrigerants > 700 GWP, AND 
+• For at least 80% of the total GWP of refrigerants used in the project 
+
+ 
+Specify an “automatic leak detection” system in fully enclosed spaces with equipment that has 
+an overall refrigerant charge exceeding 100 tons of equivalent CO2 emissions (tCO2e). 
+ 
+Installation 
+Field-installed refrigerant piping shall use brazed or press-type fittings. 
+ 
+Operation 
+Have in place a refrigerant maintenance plan and designate a responsible oversight party. The 
+plan shall include standards for recordkeeping and protocols for: 
+ 
+
+• Updating the refrigerant inventory. 
+• Tracking and recording refrigerant charge and leakage rates for all refrigerant-using 
+
+equipment. 
+• Ensuring that installation, maintenance, and removal of refrigeration-containing 
+
+equipment is performed by appropriately certified refrigeration personnel, including in 
+tenant spaces. 
+
+• Auditing annually and calibrating automatic leak detection systems. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 67
+   
+
+
+
+ 
+
+• For equipment without automatic leak detection systems, this means checking pressure 
+loss and leaks at least as frequently and with the minimum intervals for equipment 
+containing refrigerants as follows, with a total GWP as follows: 
+o Every 24 months for 50 tCO2e or less 
+o Every 12 months for 50 to 500 tCO2e 
+o Every 3 months for more than 500 tCO2e 
+
+• Identifying the maximum time frame for repairing leaks. 
+• More frequent leakage testing and repairing must be twice as frequent if the total annual 
+
+refrigerant recharge/leakage exceeds 1%. 
+ 
+Retail (1–2 points) 
+• Meet Option 1 and/or Option 2 above, or Option 3 below, for a maximum of 2 points. 
+
+AND/OR 
+
+Option 3. GreenChill Certification for Food Retailers (1–2 points) 
+Available to projects where food retailing constitutes more than 20% of the project’s gross area. 
+ 
+Demonstrate achievement of the U.S. EPA’s GreenChill certification for projects in the U.S. For 
+international projects, comply with the relevant GreenChill requirements for the certification 
+level. 
+ 
+
+• GreenChill Silver certification (1 point) 
+• GreenChill Gold or Platinum certification (2 points) 
+
+ 
+For all options 
+DISTRICT ENERGY 
+Projects with district energy must comply with the requirements of this credit at the district 
+facility or see additional guidance for interpretation of credit requirements. 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 68
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+ 
+
+ 
+— Quality of Life 
+
+Ecological Conservation 
+
+MATERIALS AND RESOURCES   and Restoration 
+ 
+
+Materials and Resources Prerequisite 
+
+PLANNING FOR ZERO WASTE OPERATIONS  
+MRp1 
+REQUIRED 
+
+INTENT 
+To reduce the amount of waste that is generated by building occupants and hauled to and 
+disposed of in landfills and incinerators through reduction, reuse, and recycling services and 
+education, and to conserve natural resources for future generations. To set the building up for 
+success in pursuing zero waste operations. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N/A 
+Storage and Collection of Recyclables  
+AND 
+Zero Waste Operations Planning  
+
+ 
+Comply with the following requirements: 
+ 
+
+Storage and Collection of Recyclables 
+Provide dedicated areas accessible to waste haulers, janitorial staff, and building occupants for 
+the collection and storage of recyclable materials for the entire building.  
+ 
+
+• Collection and storage areas may be separate locations. 
+• Recyclable materials must include organics/food waste, mixed paper, corrugated 
+
+cardboard, glass, plastics, and metals. 
+o Mixed recyclables are acceptable for paper, corrugated cardboard, glass, plastics, 
+
+and metals if required by local conditions. 
+o Space for the storage of organics/food waste recycling is required even if service is 
+
+not available at the time of building occupancy. 
+• Take appropriate measures for the safe collection, storage, and disposal of batteries, 
+
+mercury-containing lamps, and electronic waste. 
+ 
+AND 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 69
+   
+
+
+
+ 
+
+Zero Waste Operations Planning 
+Include design details, maintenance manuals, and/or other resources from the design and 
+construction team that help facilitate building occupants and operators to meet high-
+performance waste prevention and recycling goals once in operation.  
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 70
+   
+
+
+
+Impact Area Alignment 
+
+ Decarbonization 
+ 
+
+— Quality of Life 
+
+— Ecological Conservation 
+Materials and Resources Prerequisite and Restoration 
+
+QUANTIFY AND ASSESS EMBODIED CARBON  
+
+MRp2 
+REQUIRED 
+
+INTENT 
+To quantify embodied carbon impacts of materials used in commercial interiors projects and 
+assess the top sources of embodied carbon. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors  N/A  
+Embodied Carbon  
+AND 
+High-Priority Embodied Carbon Sources 
+
+ 
+Comply with the following requirements: 
+ 
+
+Embodied Carbon 
+Quantify the embodied carbon impacts (GWP) and quantities of interior materials for the project. 
+Include the following when included in the scope of work: gypsum wallboard, flooring, insulation, 
+wood and wood composites, wall framing, ceiling systems, concrete, metals, and paints and 
+coatings. Project teams may include furniture at their discretion. 
+ 
+Quantify the cradle-to-gate (A1–A3) embodied carbon emissions for each material defined as 
+the product’s GWP/unit times the amount of material used. 
+ 
+Alternatively, projects using life-cycle assessment or embodied carbon software tools may 
+report A1–A3 results from their tool. 
+
+AND 
+
+High-Priority Embodied Carbon Sources 
+Identify the top three sources of embodied carbon on the project and describe how project-
+specific strategies were considered to reduce the impacts of these hot spots. 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 71
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+ 
+
+ 
+— Quality of Life 
+
+Ecological Conservation 
+Materials and Resources Credit  and Restoration 
+
+INTERIOR MATERIALS REUSE   
+
+MRc1 
+1–4 points 
+
+INTENT 
+To discourage unnecessary demolition and encourage the on-site reuse of existing interior 
+elements and furniture, and to incorporate reused materials into new project design wherever 
+possible. Such practices reduce embodied carbon, keep materials in circularity, reduce demand 
+for virgin material sourcing, preserve cultural resources and histories, and foster markets for 
+reused materials.  
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors  1–4 
+Option 1. Reuse Existing Interior and Minimize Renovation 1–4 
+
+Path 1. Furniture and Interior Nonstructural Elements Reuse 1–4 
+OR  
+Path 2. Furniture Reuse  1–2 
+
+AND/OR  
+Option 2. Materials Reuse 1–3 
+
+ 
+Demonstrate reduced environmental impacts during initial project decision-making by reusing 
+existing building resources and by incorporating off-site reused materials into the project design. 
+For projects with deconstruction or demolition in scope, conduct a salvage assessment prior to 
+deconstruction or demolition activities and identify materials that can be retained on-site or 
+diverted off-site to reuse markets.  
+ 
+NOTE: Materials sent for off-site reuse contribute to waste diversion in MRc5: Construction and 
+Demolition Waste Diversion. Materials retained on-site or acquired from off-site sources and 
+incorporated into the project contribute to this credit. 
+ 
+Achieve points through building and/or material reuse. Pursue Option 1 and/or Option 2 for a 
+maximum of 4 points. 
+ 
+
+Option 1. Reuse Existing Interior and Minimize Renovation (1–4 points) 
+Maintain the existing interior nonstructural elements and furniture. Only materials that remain in 
+place (on-site reuse) are included in this credit option. On-site reuse can include materials that 
+come from the same project owner’s stockpile or warehouse but excludes any off-site reused 
+materials incorporated into the project that originate from external sources. Hazardous materials 
+remediated as a part of the project must be excluded from the calculation. 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 72
+   
+
+
+
+ 
+
+ 
+PATH 1. FURNITURE AND INTERIOR NONSTRUCTURAL ELEMENTS REUSE (1–4 
+POINTS) 
+Compile the total cost for the project’s on-site reused and new nonstructural elements and 
+furniture, pricing reused elements as if they were new. Include all the following elements in the 
+project, as applicable to the scope of work: flooring, walls, ceilings, insulation, and furniture.  
+Determine the cost of the elements of the project that are reused on-site and calculate the 
+percentage of the total value of the project, including both new and reused. Points are awarded 
+according to Table 1. 
+ 
+Table 1. Points for On-Site Reuse of Interiors and Furniture as a Percentage of Total 
+
+Percentage of Furniture and Interior Systems Reused On-Site (By 
+Cost) Points 
+
+10% 1 
+
+20% 2 
+
+30% 3 
+
+40% 4 
+
+OR 
+
+PATH 2. FURNITURE REUSE (1–2 POINTS) 
+Compile the total cost for the project’s furniture that is reused on-site. Include the total project 
+cost for reused and new furniture, pricing the reused furniture as if it were new. Determine the 
+percentage of reused furniture based on cost and earn points according to Table 2.  
+ 
+Table 2. Points for Furniture Reuse 
+
+On-site Furniture Reuse (By Cost) Points 
+
+20% 1 
+
+40% 2 
+
+AND/OR 
+
+Option 2. Material Reuse (1–3 points) 
+Survey and identify material procurement opportunities from off-site reuse and/or salvage 
+sources. Incorporate reused materials into the project design. Specific targeted reuse materials 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 73
+   
+
+
+
+ 
+
+are valued higher because they have high impacts (embodied carbon or pollution) and are hard 
+to recycle, and because significant amounts of these materials end up in landfill.  
+ 
+Earn points according to Tables 3 and 4. Calculate the percentage reused per material type 
+according to Equation 1.  
+ 
+Table 3. Points for Salvaging Materials 
+
+Salvage Strategies and Percentages Points  
+Incorporate off-site reused materials for at least 25% of 1 targeted material type 1 point  
+OR 
+Incorporate off-site reused materials for at least 25% of 2 other material types 
+OR 
+Incorporate an equivalent weighted average of targeted and other material reuse types 
+Incorporate off-site reused materials for at least 50% of 1 targeted material type 2 points  
+OR 
+Incorporate off-site reused materials for at least 25% of 2 targeted material types 
+OR 
+Incorporate off-site reused materials for at least 25% of 4 other material types 
+OR 
+Incorporate an equivalent weighted average of targeted and other material reuse types 
+Incorporate off-site reused materials for at least 75% of 1 targeted material type 3 points 
+OR 
+Incorporate off-site reused materials for at least 50% of 2 targeted material types 
+Or 
+Incorporate an equivalent weighted average of targeted and other material reuse types 
+
+ 
+Table 4. Salvage Material Types and Correlating Units 
+
+Material Type Unit 
+Targeted Materials 
+Carpeting Surface area 
+Ceilings Surface area 
+Furniture (ancillary and systems) Count, weight, volume, or floor area 
+Other Materials 
+Dimensional lumber Board foot or linear 
+Doors Count  
+Casework Linear 
+Floor-covering materials (not including carpet) Surface area 
+Lighting fixtures Count  
+Plumbing fixtures Count  
+Mechanical equipment Count  
+Door hardware Count  
+Project defined other; must be permanently installed  Project defined  
+
+ 
+Equation 1. Reuse % per material type 
+
+Reuse % per material type = Amount of material type reused / Total amount of material type in 
+commercial interiors scope 
+
+  
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 74
+   
+
+
+
+Impact Area Alignment 
+
+ Decarbonization 
+ 
+
+— Quality of Life 
+
+— Ecological Conservation 
+Materials and Resources Credit and Restoration 
+
+REDUCE EMBODIED CARBON  
+
+MRc2 
+1–4 points: A 10% reduction of embodied carbon is required for LEED Platinum projects. 
+
+INTENT 
+To reduce the embodied carbon impacts of materials used in commercial interiors projects. 
+
+REQUIREMENTS 
+Achievement Pathways Points  
+Commercial Interiors  1–4  
+Option 1. Reduce Embodied Carbon of New Materials 1–4  
+AND/OR   
+Option 2. Interiors Life-Cycle Assessment  1–4  
+
+Option 1. Reduce Embodied Carbon of New Materials (1–4 points) 
+Points are awarded according to Table 1. Industry averages for material categories are defined 
+by the U.S. Environmental Protection Agency (EPA), the most recent Carbon Leadership Forum 
+Material Baselines report, or similarly robust and widely recognized publications and industry-
+wide environmental product disclosures applicable to the project region. 
+ 
+Projects must track the global warming potential (GWP)/unit of the materials installed and 
+reconcile the design-phase embodied carbon intensities if materials or GWP values have 
+changed. The reconciliation of material quantities is not necessary unless quantities have 
+changed more than 10% from design through construction.  
+ 
+Projects must use project-specific material quantities and identify product-specific or facility-
+specific Type III EPDs for covered materials to demonstrate reductions. Biogenic carbon may 
+only be included for calculations that include C-stage emissions. 
+ 
+Table 1. Points Awarded for Embodied Carbon Assessment and Reduction 
+
+ Points  
+Meet baseline or industry average  1 
+10% reduction  2 
+20% reduction  3 
+30% reduction 4 
+
+AND/OR 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 75
+   
+
+
+
+ 
+
+Option 2. Interiors Life-Cycle Assessment (1–4 points) 
+For tenant improvements and renovation projects, conduct a cradle-to-grave (modules A–C, 
+excluding operating energy and operating water-related energy) life-cycle assessment (LCA) of 
+the project’s entire scope of work, including structure and enclosure (if any); ceiling; wall; 
+flooring; and interior partition assemblies, including acoustic insulation, metal framing, finishes, 
+coatings, and furniture. LCA data sets must be compliant with ISO 14044. Biogenic carbon may 
+only be included for calculations that include C-stage emissions. Include results for the following 
+impact categories in the interiors LCA report: 
+ 
+ GWP (greenhouse gases), in kg CO2e 
+ Depletion of the stratospheric ozone layer, in kg CFC-11e 
+ Acidification of land and water sources, in moles H+ or kg SO2e 
+ Eutrophication, in kg nitrogen e or kg phosphate e 
+ Formation of tropospheric ozone, in kg NOx, kg O3 e, or kg ethene 
+ Depletion of nonrenewable energy resources, in millijoules using CML/depletion of fossil 
+
+fuels in TRACI1 
+ 
+Compare results to a baseline developed for the project and earn points according to Table 2. 
+ 
+Table 2. Points Awarded for Interiors LCA 
+
+Pathway Threshold Points  
+Path 1 Conduct an LCA of the project’s complete interior design and compare 1 
+
+against a baseline interiors project. 
+Path 2 Meet the requirements of Path 1 and demonstrate at least a 10% reduction 2 
+
+in GWP compared with the interiors project baseline 
+Path 3 Meet the requirements of Path 1 and demonstrate reductions compared 4 
+
+with the interiors project baseline of at least 20% for GWP and demonstrate 
+at least a 10% reduction in two additional targeted impact categories 
+
+  
+
+ 
+1. The CML method, developed by Leiden University’s Centre for Environmental Science (Centrum voor Milieukunde Leiden), is an 
+
+LCIA method used to assess the environmental impact of products and processes. 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 76
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ Quality of Life 
+
+ 
+
+— Ecological Conservation 
+Materials and Resources Credit and Restoration 
+
+LOW-EMITTING MATERIALS  
+
+MRc3 
+1–4 points 
+
+INTENT 
+To reduce concentrations of chemical contaminants that can damage air quality and the 
+environment. To protect human health and the comfort of installers and building occupants. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–4 
+Low-Emitting Material Criteria 1–4 
+
+ 
+Specify and install permanent products, paints, coatings, adhesives, sealants, flooring, walls, 
+ceilings, insulation, furniture, and/or composite wood products that meet the low-emitting 
+criteria. Points are awarded according to Table 1 below.  
+ 
+Table 1. Thresholds for Low-Emitting Materials 
+
+Number of Product Categories Threshold Points 
+
+2 > 90% of all products in each product category 1 
+
+4 > 90% of each additional product category 2 
+
+6 > 80% of each product category 3 
+
+8 > 80% of each product category 4 
+ 
+Product categories 
+The following products and materials are not applicable to the low-emitting materials product 
+categories: equipment related to fire suppression, HVAC (including ductwork), plumbing, 
+electrical, conveying and communications systems, poured concrete, structural framing, 
+structural insulated panels, and water-resistive barriers (i.e., material installed on a substrate to 
+prevent bulk water intrusion). 
+ 
+Paints and coatings 
+
+• Paints and coatings, by volume, cost, or surface area, must meet the volatile organic 
+compound (VOC) emissions evaluation criteria.  
+
+• The paints and coatings product category includes all interior paints and coatings wet-
+applied on-site. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 77
+   
+
+
+
+ 
+
+• Exclude foamed-in-place and sprayed insulation (include in insulation category). 
+ 
+The following products and materials are applicable: 
+ 
+Adhesives and sealants 
+
+• Adhesives and sealants, by volume or cost, must meet the VOC emissions evaluation 
+criteria. 
+
+• The adhesives and sealants product category includes all interior adhesives and 
+sealants wet-applied on-site, including those used to install air or vapor barrier 
+membranes and floor-setting materials. 
+
+ 
+Flooring 
+
+• Nonstructural flooring materials, by surface area or cost, must meet the VOC emissions 
+evaluation criteria. 
+
+• The flooring product category includes all types of hard and soft surface flooring finishes 
+(e.g., carpet, ceramic tile, vinyl, rubber, engineered wood, solid wood, stone, and 
+laminate), raised flooring systems, entryway (“walk-off”) systems, area rugs, wood 
+subflooring, underlayments, sandwich panels, and air barrier membranes and vapor 
+barrier/vapor retarder membranes (if used inside an air barrier membrane). 
+
+• Exclude poured concrete, composite wood subflooring (include in the composite wood 
+category, if applicable), and wet-applied products applied on the floor. 
+
+ 
+Walls 
+
+• Nonstructural wall materials, by surface area or cost, must meet the VOC emissions 
+evaluation criteria. 
+
+• The walls product category includes all finish wall treatments (e.g., wall coverings and 
+wall tile), finish carpentry (e.g., millwork, paneling, railings, and trim/moldings), gypsum 
+wallboard, wall base/skirting, interior and exterior doors, nonstructural wall framing, and 
+nonstructural sandwich panels. 
+
+• Exclude wet-applied products applied on the wall, case goods, cabinetry (include in the 
+furniture category), countertops (include in the furniture category), bathroom 
+accessories, door hardware, and curtain wall and storefront systems. 
+
+ 
+Ceilings 
+
+• Nonstructural ceilings materials, by surface area or cost, must meet the VOC emissions 
+evaluation criteria. 
+
+• The ceilings product category includes all types of ceiling finishes (e.g., ceiling panels 
+and ceiling tile), suspension grids, surface ceiling structures (such as gypsum wallboard 
+or plaster), suspended systems (including canopies and clouds), and nonstructural 
+sandwich panels. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 78
+   
+
+
+
+ 
+
+• Exclude wet-applied products applied on the ceiling and corrugated metal decking. 
+ 
+Insulation 
+
+• Insulation products, by surface area or cost, must meet the VOC emissions evaluation 
+criteria. 
+
+• The insulation product category includes all thermal and acoustic boards; batts (faced 
+and unfaced); rolls; blankets; sound attenuation fire blankets; and foamed-in-place, 
+loose-fill, blown, and sprayed insulation. 
+
+• Exclude insulation installed outside an air barrier membrane. 
+ 
+Furniture 
+
+• Furniture in the project scope of work, by cost, area, or number of units, must meet the 
+furniture emissions evaluation criteria or VOC emissions evaluation criteria. 
+
+• The furniture product category includes all permanently installed office furniture, 
+cubicles/systems furniture, seating, desks, tables, filing/storage, specialty items, beds, 
+case goods, casework, countertops, movable/demountable partitions, bathroom/toilet 
+partitions, shelving, lockers, retail fixtures (including slatwall), window treatments, and 
+furnishing items (such as nonfixed area rugs, cubicle curtains, and mattresses) 
+purchased for the project. 
+
+• A custom item in the furniture category is considered to meet the low-emitting criteria if 
+all components of the finished piece, applied on-site or off-site, are declared under the 
+furniture category and meet the VOC emissions evaluation criteria. Alternatively, a 
+custom piece meets the criteria if the finished piece, as a whole, meets the furniture 
+emissions evaluation or VOC emissions evaluation criteria. 
+
+• Exclude office and bathroom accessories, art, recreational items (such as game tables), 
+cabinet and drawer hardware, and planters from the credit. 
+
+ 
+Composite wood 
+
+• Composite wood products, by surface area or cost, must meet the formaldehyde 
+emissions evaluation criteria. 
+
+• The composite wood product category includes all particleboard, medium-density 
+fiberboard (both medium density and thin), hardwood plywood with veneer, composite or 
+combination core, and wood structural panels or structural wood products. 
+
+ 
+
+Low-Emitting Criteria 
+VOC EMISSIONS EVALUATION CRITERIA 
+Third-party certification: Product has a qualifying third-party certification, valid at the time of 
+product purchase, that demonstrates testing and compliance according to the California 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 79
+   
+
+
+
+ 
+
+Department of Public Health (CDPH) Standard Method v1.2-2017 using the private office 
+scenario. Products used in classrooms may be modeled using the schools or private office 
+scenario. 
+
+OR 
+
+Qualified independent laboratory report: Product has a qualifying laboratory report (or 
+summary) demonstrating the product has been tested no more than three years prior to the 
+product’s purchase, according to the CDPH Standard Method v1.2-2017. Products may use the 
+private office scenario and must meet the VOC limits in Table 4-1 of the private office scenario. 
+Products used in classrooms may be modeled using the schools or private office scenario.  
+
+OR 
+
+Product is inherently non-emitting, salvaged, or reused. 
+ 
+FURNITURE EMISSIONS EVALUATION  
+Product has a qualifying third-party certification, valid at the time of product purchase, that 
+demonstrates testing according to ANSI/BIFMA Standard Method M7.1-2011 (R2021) and 
+complies with specific sections of ANSI/BIFMA e3-2014 or e3-2024, “Furniture Sustainability 
+Standard.” Statements of product compliance must include the exposure scenario(s). 
+ 
+Seating products must be evaluated using the seating scenario. Classroom furniture must be 
+evaluated using the standard school classroom scenario. Other products should be evaluated 
+using the open plan or private office scenario, as appropriate. The open plan scenario is more 
+stringent. 
+
+OR 
+
+Product is inherently non-emitting, salvaged, or reused. 
+ 
+ 
+FORMALDEHYDE EMISSIONS EVALUATION 
+Product has a qualifying third-party certification from a California Air Resources Board (CARB) 
+approved/EPA recognized third-party certifier, valid at the time of product purchase, that 
+demonstrates the product is one of the following: 
+ 
+
+• Certified as ultra-low-emitting formaldehyde product under EPA’s Toxic Substances 
+Control Act, Formaldehyde Emission Standards for Composite Wood Products (TSCA, 
+Title VI) (EPA TSCA Title VI), or the CARB Airborne Toxic Control Measure (ATCM). 
+
+• Certified as no-added-formaldehyde resins (NAF) product under EPA TSCA Title VI or 
+CARB ATCM. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 80
+   
+
+
+
+ 
+
+• Wood structural panels manufactured according to PS 1-09 or PS 2-10 (or one of the 
+standards considered by CARB to be equivalent to PS 1 or PS 2) and labeled bond 
+classification exposure 1 or exterior. 
+
+• Structural wood product manufactured according to ASTM D5456 (for structural 
+composite lumber), ANSI A190.1 (for glued laminated timber), ASTM D5055 (for I-joists), 
+ANSI PRG 320 (for cross-laminated timber), or PS 20-15 (for finger-jointed lumber). 
+
+OR 
+
+Product is inherently non-emitting, salvaged, or reused. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 81
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ 
+
+ Quality of Life 
+
+Ecological Conservation 
+Materials and Resources Credit  and Restoration 
+
+BUILDING PRODUCT SELECTION  
+
+AND PROCUREMENT 
+MRc4 
+1–10 points 
+
+INTENT 
+To encourage the use of products and materials that have sustainability information available 
+and that have environmentally, economically, and socially preferable impacts in alignment with 
+industry momentum. To reward project teams for selecting products from manufacturers who 
+have disclosed sustainability information about their products and optimized their products 
+across multiple criteria areas.  
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors  1–10 
+Product Categories 1–10 
+
+ 
+Select nonstructural building products that demonstrate achievement in one or more of five 
+criteria areas: 
+ 
+
+• Climate health  
+• Human health  
+• Ecosystem health 
+• Social health and equity 
+• Circular economy 
+
+ 
+Products that achieve two or more criteria areas are considered multi-attribute. Products that 
+achieve higher levels of achievement and/or across additional criteria areas will be given a 
+higher value in credit calculations.  
+ 
+Achievement is demonstrated through eligible compliant manufacturer product documentation, 
+which includes third-party product certifications, ecolabels, declarations, and standards. A single 
+product document can demonstrate multiple benefits and/or achievement levels, or the product 
+can earn multi-attribute criteria through a combination of separate eligible product documents.  
+ 
+There are three achievement levels for products: 
+ 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 82
+   
+
+
+
+ 
+
+• Level 1: A product in this level achieves a first step toward sustainability for a criteria 
+area. Widespread achievement of these practices drives market transformation toward 
+sustainability outcomes within the criteria area. Products scored at this level earn a 1x 
+multiplier. 
+
+• Level 2: This level represents a leadership position in the marketplace for a given 
+sustainability attribute. Products at this level are optimized and demonstrate a level of 
+sustainability that peers aspire to achieve. Products scored at this level earn a 2x 
+multiplier. 
+
+• Level 3: Products that earn this level are elite and represent the forefront of 
+sustainability. Products scored at this level earn a 3x multiplier. 
+
+ 
+This credit rewards the selection of eligible interior and enclosure materials from the following 
+product categories: 
+ 
+
+• Paints and coatings 
+• Adhesives and sealants 
+• Flooring 
+• Walls 
+• Ceilings 
+• Insulation 
+• Furniture 
+• Composite wood 
+• Plumbing fixtures 
+
+ 
+Eligible products meet the achievement levels and are scored as 1, 2, or 3. These scores are 
+added across criteria areas to sum to a maximum score of five per product. This cumulative 
+score is called the product multi-attribute score. 
+ 
+Each individual product’s value (cost, area, volume, or unit) is adjusted based on its multi-
+attribute score: 
+ 
+
+Product value × multi-attribute score = Adjusted product value for LEED 
+ 
+To determine total compliant product value per category, follow Equation 1. 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 83
+   
+
+
+
+ 
+
+Equation 1. Calculate the multi-attribute adjusted value of a product category 
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 𝑓𝑓𝑓𝑓𝑓𝑓 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿
+
+�𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐴𝐴 𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚-𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 ×
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐴𝐴 𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 � + �𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐵𝐵 𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚-𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 ×
+
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐵𝐵 𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 � +
+
+�𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐶𝐶 𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚-𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 ×
+= 100 × 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐶𝐶 𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 � + �𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐷𝐷 𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚-𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 ×
+
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐷𝐷 𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 � 
+ 
+
+(𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 𝑜𝑜𝑜𝑜 𝑎𝑎𝑎𝑎𝑎𝑎 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 𝑖𝑖𝑖𝑖 𝑡𝑡ℎ𝑒𝑒 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐)
+ 
+ 
+Any product category adjusted value for LEED that exceeds 100% earns 1 point. Any product 
+category adjusted value for LEED that exceeds 200% earns 2 points. Points are awarded for 
+achievement of whole product categories, up to a maximum of 10 points. 
+ 
+NOTE: Please see the resources section of the credit library for additional details on this credit.  
+
+ 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 84
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+ 
+
+ 
+— Quality of Life 
+
+Ecological Conservation 
+Materials and Resources Credit  and Restoration 
+
+CONSTRUCTION AND DEMOLITION  
+
+WASTE DIVERSION 
+MRc5 
+1–4 points 
+
+INTENT 
+To reduce construction and demolition (C&D) waste disposed of in landfills and incineration 
+facilities and to decrease pollution to the environment. To reduce the environmental impacts and 
+embodied carbon of manufacturing new materials and products. To delay the need for new 
+landfill facilities that are often located in frontline communities. To create green jobs and 
+materials markets for building construction services. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1 –4 
+Construction and Demolition Materials Management Plan 
+AND  
+Diversion 1–4 
+
+ 
+Comply with the following requirements: 
+ 
+
+Construction and Demolition Materials Management Plan 
+Develop and implement a C&D materials management plan and achieve points through 
+diversion and recycling. 
+
+AND 
+
+Diversion (1–4 points) 
+Follow the materials management plan and provide a final waste management report detailing 
+all waste generated, including disposal and diversion rates for the project. Calculations can be 
+by weight or volume but must be consistent throughout. Points are awarded according to Table 
+1. 
+ 
+Divert C&D waste materials by using strategies including off-site salvage, source-separation for 
+single-material recycling, mixed C&D recycling, and industry/manufacturer take-back programs. 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 85
+   
+
+
+
+ 
+
+ Source-separated materials are considered 100% diverted for credit calculation 
+purposes. These include: 
+
+ 
+• Recovered materials sent to a single-material recycler. 
+• Recovered materials sent for off-site salvage/reuse. 
+• Materials sent to a qualifying manufacturer or industry take-back program. 
+• Salvaged materials, which are valued at twice the diversion rate (200%) of other 
+
+diverted materials for credit calculation purposes and include recovered materials 
+sent off-site for reuse. 
+
+• NOTE: Materials reused on-site contribute to MRc1: Interior Materials Reuse. 
+ Mixed C&D materials sent to a processing facility for recovery must take the facility 
+
+average recycling rate. Recycling rates not verified by a third party must assume a 
+maximum of 35% recovery rate.  
+
+ Materials destined for alternative daily cover or incineration/energy recovery are 
+considered waste (0% diverted). 
+
+ Exclude hazardous waste from calculations. Exclude on-site reuse from credit 
+calculations (include in MRc1: Interior Materials Reuse). 
+
+ Exclude excavated soil and land-clearing debris from calculations. 
+ 
+Table 1. Points for C&D Diversion 
+Meet any criteria up to a total of 4 points: 
+Pathway Thresholds Points 
+Path 1 Divert at least 35% of the total construction and demolition materials. At 1 
+
+least 10% of diverted materials must be salvaged or source-separated and 
+sent to a single-material recycler(s). 
+
+Path 2 Divert at least 50% of the total construction and demolition materials. At 2 
+least 20% of diverted materials must be salvaged or source-separated and 
+sent to a single-material recycler(s). 
+
+Path 3 Divert at least 65% of the total construction and demolition materials. At 3  
+least 30% of diverted materials must be salvaged or source-separated and 
+sent to a single-material recycler(s) 
+
+Path 4 Salvage or source-separate and recycle these targeted materials: clean 1 
+gypsum, carpet, ceilings, and furniture. Targeted materials diversion must 
+exceed 10% of the total construction and demolition materials. 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 86
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ 
+
+Quality of Life 
+ 
+
+— Ecological Conservation 
+
+INDOOR ENVIRONMENTAL QUALITY  and Restoration 
+ 
+
+Indoor Environmental Quality Prerequisite 
+
+CONSTRUCTION MANAGEMENT 
+EQp1 
+REQUIRED 
+
+INTENT 
+To promote the well-being of construction workers and building occupants by minimizing 
+environmental quality problems associated with construction and renovation. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N /A 
+Construction Management 
+
+ 
+Develop and implement construction management practices for the construction and 
+preoccupancy phases of the building. The practices must address all of the following: 
+ 
+
+• No smoking: Prohibit smoking during construction except in designated smoking areas 
+located at least 25 feet (7.5 meters) from the building. Install signage that prohibits 
+smoking during construction.  
+
+ Extreme heat protection: Implement measures that protect construction workers from 
+extreme heat.  
+
+ HVAC protection: Keep contaminants out of the HVAC system. Do not run permanently 
+installed equipment, if possible, but if it must be used, maintain proper filtration. Replace 
+all air filtration media after completion of construction and before occupancy. Confirm 
+that testing and balance work is completed with new filtration. 
+
+ Source control: Keep sources of contaminants out of the building and have a plan to 
+eliminate any that are introduced. 
+• Store carpets, acoustic ceiling panels, fabric wall coverings, insulation, upholstery 
+
+and furnishings, and other absorptive materials in a designated area protected from 
+moisture damage. 
+
+ Pathway interruption: Prevent circulation of contaminated air when cutting concrete or 
+wood, sanding drywall, installing VOC-emitting materials, or performing other activities 
+that affect indoor air quality in other workspaces.  
+o Isolate areas of work to prevent contamination of other spaces, whether they are 
+
+finished or not. Seal doorways, windows, or tent off areas as needed using 
+temporary barriers.  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 87
+   
+
+
+
+ 
+
+o Use walk-off mats at entryways to reduce introduced dirt and pollutants. 
+o Use dust guards and collectors on saws and other tools. 
+
+• Housekeeping: Maintain a clean jobsite. Use vacuum cleaners with high-efficiency 
+particulate filters and use sweeping compounds or wetting agents for dust control when 
+sweeping.  
+
+• Scheduling: Sequence construction activities to reduce air quality problems. For 
+renovation projects, coordinate construction activities to minimize or eliminate disruption 
+of operations in occupied areas.  
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 88
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ Quality of Life 
+
+ 
+
+— Ecological Conservation 
+Indoor Environmental Quality Prerequisite and Restoration 
+
+FUNDAMENTAL AIR QUALITY  
+
+EQp2 
+REQUIRED 
+
+INTENT 
+To design for above-average indoor air quality (IAQ) to support occupant health and well-being. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N/A  
+Investigate Regional and Local Air Quality 
+AND 
+Ventilation and Filtration Design 
+AND 
+Entryway System Designs 
+
+ 
+Comply with the following requirements:  
+ 
+
+Investigate Regional and Local Air Quality 
+Investigate outdoor air quality in accordance with ASHRAE Standard 62.1-2022, Sections 4.1–
+4.3.  
+
+AND 
+
+Ventilation and Filtration Design 
+Meet the requirements of ASHRAE Standard 62.1-2022, Sections 5 and 6. Use the ventilation 
+rate procedure, the IAQ procedure, the natural ventilation procedure, or a combination thereof. 
+Where the ventilation rate procedure or IAQ procedure are used, comply with the following 
+additional provisions: 
+ 
+Filtration 
+Each central HVAC system within the project’s scope of work that supplies outdoor air and/or 
+recirculated air to regularly occupied spaces must meet one of the following: 
+ 
+
+• Minimum efficiency reporting value of 13, in accordance with ASHRAE Standard 
+52.2-2017; OR 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 89
+   
+
+
+
+ 
+
+• Equivalent filtration media class of ePM1 50%, as defined by ISO 16890-2016, 
+“Particulate Air Filters for General Ventilation — Determination of the Filtration 
+Performance.” 
+
+• In-room air-cleaning systems. 
+o Systems tested for effectiveness and safety per ASHRAE Standard 241-2023, 
+
+Section 7.4 and Normative Appendix A. If treating for particles and gases, use 
+systems tested for effectiveness per ASHRAE 62.1-2022, Addendum n. If treating for 
+infectious aerosols, use systems tested for effectiveness per ASHRAE Standard 
+241-2023, Section 7. 
+
+ 
+Outdoor air measurement 
+Provide outdoor airflow measurement devices for all mechanical ventilation systems in the 
+project scope of work with outdoor air intake flow greater than 1,000 cfm (472 L/s). 
+
+ 
+Healthcare 
+• For healthcare spaces, meet the requirements of Sections 6–10 of ASHRAE Standard 
+
+170-2021 as applicable. 
+
+AND 
+
+Entryway System Designs 
+Install permanent entryway systems to capture dirt and particulates entering the building at 
+primary exterior entrances within the project scope of work. There is no length requirement for 
+entryway systems. 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 90
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ 
+
+ Quality of Life 
+
+Ecological Conservation 
+Indoor Environmental Quality Prerequisite  and Restoration 
+
+NO SMOKING  
+
+EQp3 
+REQUIRED 
+
+INTENT 
+To minimize exposure to tobacco smoke, smoke from tobacco substitutes or cannabis, and 
+vehicle emissions. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors N/A  
+Option 1. Locations With Smoking Prohibitions  
+OR 
+Option 2. Projects Located in Buildings Where Smoking Is Not Prohibited 
+by Law 
+
+ 
+
+Option 1. Locations with Smoking Prohibitions 
+Locate the project in a building in which smoking inside the building is prohibited by law or by 
+the landlord, and the no-smoking policy is communicated to all building occupants according to 
+the law or with permanently installed signage. 
+ 
+Prohibit smoking outside the project, except in designated smoking areas located at least 25 
+feet (7.5 meters), or the maximum extent allowable by local codes, from all exterior entries, 
+outdoor air intakes, and operable windows to the project. 
+
+OR 
+
+Option 2. Projects Located in Buildings Where Smoking is Not Prohibited by 
+Law 
+Prohibit smoking in the project spaces. 
+ 
+Smoking must also be prohibited in all common areas used by the project occupants and any 
+areas of the building served by the same HVAC system as the project. Ensure that smoke 
+cannot migrate by either mechanical or natural ventilation into the project spaces. 
+ 
+Communicate the no-smoking policy to occupants of the project. Have in place provisions for 
+enforcement or no-smoking signage. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 91
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ 
+
+Quality of Life 
+ 
+
+— Ecological Conservation 
+Indoor Environmental Quality Credit and Restoration 
+
+ENHANCED AIR QUALITY  
+
+EQc1 
+1–2 points 
+
+INTENT 
+To design for increased indoor air quality to better protect the health of building occupants. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–2 
+Option 1. Increased Ventilation 1-2 
+OR  
+Option 2. Enhanced Indoor Air Quality Design 1 
+OR  
+Option 3. Verification of Ventilation and Filtration  1 
+
+ 
+Design the project to exceed the requirements of ASHRAE 62.1-2022, Section 6. If using the 
+ventilation rate procedure to comply with EQp2: Fundamental Air Quality, use Option 1 or 
+Option 2; if using the IAQP, use Option 2. 
+ 
+
+Option 1. Increased Ventilation (1–2 points) 
+Increase breathing zone outdoor air ventilation rates by at least 15% above the minimum rates 
+(for 1 point, or 30% for 2 points) as determined in EQp2: Fundamental Air Quality.  
+ 
+Increased outdoor air rates should be provided to 95% of all regularly occupied spaces.   
+
+OR 
+
+Option 2. Enhanced Indoor Air Quality Design (1 point)  
+In addition to the design compounds and design limits outlined in ASHRAE 62.1-2022, Tables 6-
+5 and 6-6, design and verify enhanced IAQ using the lower design limits listed below in Table 1.  
+ 
+Table 1. Additional Design Limits for Enhanced IAQ Design 
+
+Design Compound or PM2.5 Enhanced IAQP Design Limit*  
+PM2.5 10 µg/m3  
+Formaldehyde 20 µg/m³  
+Ozone 10 ppb  
+
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 92
+   
+
+
+
+ 
+
+Note: ppb = parts per billion. 
+
+OR 
+
+Option 3. Verification of Ventilation and Filtration (1 point) 
+For spaces receiving mechanical ventilation from base building systems, measure the total 
+quantity of outdoor air delivered to the project and verify the results are within 10% of the rates 
+reported in EQp2: Fundamental Air Quality and outlined in the current facilities requirements 
+and operations and maintenance plan. Measurements shall quantify the amount of outdoor air 
+for each base building air-handling unit serving the project and account for worst-case 
+conditions. 
+ 
+NOTE: This path is only applicable for tenant improvements to a previously occupied space and 
+is not applicable for initial build-out. 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 93
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ 
+
+Quality of Life 
+ 
+
+— Ecological Conservation 
+Indoor Environmental Quality Credit and Restoration 
+
+OCCUPANT EXPERIENCE  
+
+EQc2 
+1–7 points 
+
+INTENT 
+To move beyond neutral or sufficient spaces toward human-centered design that supports 
+customization, enjoyment, and emotional connections between people and the building, thus 
+increasing the likelihood of consistent satisfaction and ongoing stewardship.  
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–7 
+Option 1. Biophilic Environment 1–4 
+
+Path 1. Integrated Biophilic Design 1 
+AND/OR  
+Path 2. Quality Views  2–3 
+  AND/OR  
+
+Option 2. Adaptable Environment 1–2 
+AND/OR  
+Option 3. Thermal Environment 1 
+AND/OR  
+Option 4. Sound Environment 1–2 
+
+Path 1. Mapping Acoustical Expectations for Indoor and Outdoor Spaces 1 
+OR  
+Path 2. Acoustic Criteria for Indoor and Outdoor Spaces  1 
+
+AND/OR  
+Option 5. Lighting Environment 1–6 
+
+Path 1. Solar Glare 1 
+AND/OR  
+Path 2. Quality Electric Lighting 1 
+AND/OR  
+Path 3. Proximity to Windows for Daylight Access 1 
+AND/OR  
+Path 4. Daylight Simulation 1–4 
+
+ 
+
+Option 1. Biophilic Environment (1–4 points) 
+PATH 1. INTEGRATED BIOPHILIC DESIGN (1 POINT)  
+Integrate biophilic design that demonstrates each of the following five principles adapted from 
+The Practice of Biophilic Design by Kellert and Calabrese2:  
+
+ 
+2 Kellert, S. and Calabrese, E. The Practice of Biophilic Design, (2015), https://www.biophilic-design.com. 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 94
+   
+
+
+
+ 
+
+• Biophilic design requires repeated and sustained engagement with nature. 
+• Biophilic design focuses on human adaptations to the natural world that, over 
+
+evolutionary time, have advanced people’s health, fitness, and well-being. 
+• Biophilic design encourages an emotional attachment to the building and building 
+
+location. 
+• Biophilic design promotes positive interactions between people and nature that 
+
+encourage an expanded sense of relationship and responsibility for the human and 
+natural communities. 
+
+• Biophilic design encourages mutual reinforcing, interconnected, and integrated 
+architectural solutions.  
+
+AND/OR 
+
+PATH 2. QUALITY VIEWS (2–3 POINTS) 
+Provide occupants in the building with a view to the outdoor natural or urban environment for 
+75% (for 2 points, 90% for 3 points) of all regularly occupied floor area. Auditoriums, conference 
+rooms dedicated to video conferencing, and gymnasiums may be excluded. Views into interior 
+atria may be used to meet up to 30% of the required area. 
+ 
+
+• Views must be through glass with a visible light transmittance above 40%. If the glazing 
+has frits, patterns, or tints, the view must be preserved. Neutral gray, bronze, and blue-
+green tints are acceptable. 
+
+• Views must include at least one of the following. 
+o Nature, urban landmarks, or art; OR 
+o Objects at least 25 feet (7.5 meters) from the exterior of the glazing. 
+
+• Occupants must have direct access to the view and be within three times the head 
+height of the glazing. 
+
+AND/OR 
+
+Option 2. Adaptable Environment (1–2 points) 
+Allow occupants choice and flexibility and/or the capability to adapt the space to meet their 
+individual needs. Provide variability and/or optionality for thermal, sound, and lighting 
+environments that invite occupants to either alter their experience and/or move between 
+sensory zones. Include at least one accessible quiet space that allows occupants to retreat from 
+high levels of sensory stimulation. 
+ 
+Projects must also demonstrate at least one of the listed additional strategies for 1 point or three 
+for 2 points: 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 95
+   
+
+
+
+ 
+
+Additional strategies 
+• Provide socializing, meeting, dining, eating, and/or working areas where occupants can 
+
+sit outside the main action and have permanent architectural features at their backs that  
+creates a comfortable, semi-protected space that overlooks the larger area (prospect). 
+
+• Provide alternative paths that enable travel around the perimeter of the area so that 
+people are not required to travel across a large open space. 
+
+• Provide choice in furniture configuration and a variety of seating to accommodate a wide 
+range of body types, including seating with back rests and without arm rests. 
+
+• Provide height variety for permanently installed fixtures, like counters and sinks, and/or 
+height-adjustable tables and desks, where appropriate. 
+
+• Provide the ability for all occupants to easily access outdoor or transitional space located 
+within 200 feet (60 meters) of a building entrance or access point. 
+
+AND/OR 
+
+Option 3. Thermal Environment (1 point) 
+Design indoor occupied spaces to meet the requirements of ASHRAE Standard 55-2023, 
+“Thermal Environmental Conditions for Human Occupancy” with errata. Investigate thermal 
+conditions in and around the project and explain how the design considers the following: 
+ 
+
+• Thermal conditions that align and adjust with changing seasons. 
+• Overcooling during nontemperate seasons. 
+
+o Design solutions for newly arrived occupants or occupants transitioning between 
+different thermal environments to adjust to the space while maintaining an 
+appropriately warm environment for those already in the building. 
+
+o Design solutions for long-term occupants in transition spaces to customize their 
+working area. 
+
+• Support for occupants carrying out different tasks requiring varying levels of movement. 
+o Cooling solutions for those completing high-movement tasks. 
+
+AND/OR 
+
+Option 4. Sound Environment (1–2 points) 
+PATH 1. MAPPING ACOUSTICAL EXPECTATIONS FOR INDOOR AND OUTDOOR 
+SPACES (1 POINT) 
+Determine the desired sound environment early in the design process by mapping the acoustic 
+expectations for each primary indoor and outdoor space that is specific to the use of the space 
+and occupant needs. Categories to consider include noise exposure, acoustic comfort and noise 
+sensitivity, acoustic privacy, communication, and soundscape, with the following possible 
+classifications: 
+ 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 96
+   
+
+
+
+ 
+
+ 
+o Noise exposure zones: high risk, medium risk, low risk, or no risk. 
+o Acoustic comfort: loud zone, quiet zone, mixed zone, circulation, sensitive, and no 
+
+specific expectations. 
+o Acoustic privacy: high speech security, confidential speech privacy, normal speech 
+
+privacy, marginal speech privacy, or no privacy. 
+o Communication zones: excellent, good, marginal, and none or no specific 
+
+expectations. 
+o Soundscape management: preserve, improve, restore, mitigate, specialized (e.g., 
+
+wellness, therapeutic, or agency in equity), or no specific expectations. 
+ 
+Define acoustic criteria and potential design strategies and solutions to meet the acoustic 
+expectations for each space. Categories to consider include internally generated background 
+noise, externally intrusive background noise, electronically generated masking sound, outdoor 
+acoustic environment, airborne sound reverberation, sound insulation, vibration insulation, and 
+impact noise. 
+
+OR 
+
+PATH 2. ACOUSTIC CRITERIA FOR INDOOR AND OUTDOOR SPACES (2 POINTS) 
+Through calculations, modeling, and/or measurements, demonstrate that the mapping exercise 
+completed in Path 1 informed design strategies and solutions to meet acoustic criteria for at 
+least 75% of the occupied spaces and all classrooms and other core learning spaces.  
+
+AND/OR 
+
+Option 5. Lighting Environment (1–6 points) 
+PATH 1. SOLAR GLARE (1 POINT) 
+Provide manual or automatic (with manual override) glare-control devices in all regularly 
+occupied spaces that will receive direct or reflected sun penetration. Spaces designed 
+intentionally for direct sunlight may be excluded. 
+
+AND/OR 
+
+PATH 2. QUALITY ELECTRIC LIGHTING (1 POINT) 
+Comply with the following requirements for regularly occupied spaces:  
+ 
+Electric light glare control 
+Each luminaire shall meet one of the following requirements: 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 97
+   
+
+
+
+ 
+
+• Have calculated luminance of less than 6,000 candela per square meter (cd/sq. m.) 
+between 45 and 90 degrees from nadir. 
+
+• Achieve a unified glare rating (UGR) of 19 or lower using the UGR tabular method for 
+each space. 
+
+• Achieve a UGR rating of 19 or lower using software modeling calculations of the 
+designed lighting. (Modeling must be performed as outlined in the NEMA White Paper 
+on Unified Glare Rating3.) 
+
+ 
+Color rendering 
+Use luminaires that have a color rendering index (CRI) of at least 90 or that meet the color 
+rendering requirements in Table 1, in accordance with Illuminating Engineering Society (IES) 
+TM-30-20. 
+ 
+Table 1. Color Rendering Requirements Using IES TM-30-20 
+
+Measure Requirement 
+Fidelity index Rf 78 or higher 
+Gamut index Rg 95 or higher 
+Red Local Chroma Shift  Rcs,h1 −1% to 15% 
+
+AND/OR 
+
+PATH 3. PROXIMITY TO WINDOWS FOR DAYLIGHT ACCESS (1 POINT)  
+Design the interior layout to provide at least 30% of the regularly occupied area to be within a 
+20-foot (6-meter) horizontal distance of envelope glazing. The glazing must have a visible light 
+transmittance above 40%. Regularly occupied areas with visual obstructions (incapable of 
+providing a view to envelope glazing) should be excluded from the compliant area. 
+
+OR 
+
+PATH 4. DAYLIGHT SIMULATION (1–4 POINTS) 
+Perform a daylight simulation analysis for the project to understand and optimize access to 
+daylight and visual comfort. Use the calculation protocols in IES LM-83-23 with the following 
+clarifications: 
+ 
+
+• Calculate spatial daylight autonomy300/50% (sDA300/50%) and annual sunlight 
+exposure1000,250 (ASE1000,250) as defined in IES LM-83-23 for each regularly occupied 
+space in the project. sDA150/50% may be used for areas without visual tasks with design 
+targets of 225 lux. 
+
+• For any regularly occupied spaces with ASEnet(1000,250h) greater than 20%, identify how 
+the space is designed to address glare. 
+
+ 
+3 “NEMA White Paper on Unified Glare Rating”, NEMA, (2021), accessed March 21, 2025, 
+https://www.nema.org/standards/view/white-paper-on-unified-glare-rating-(ugr) 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 98
+   
+
+
+
+ 
+
+• Calculate the average sDA300/50% or sDA150/50% for the total regularly occupied floor area.  
+Do not exclude spaces based on annual sunlight exposure (ASE). Points are awarded 
+based on this calculation, according to Table 2. 
+ 
+
+Table 2. Points for Daylight Simulation 
+Average sDA300/50% or sDA150/50% Value  Points 
+≥ 40%  1 
+≥ 55%  2 
+≥ 65% 3 
+≥ 75%  4 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 99
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ Quality of Life 
+
+ 
+
+— Ecological Conservation 
+Indoor Environmental Quality Credit and Restoration 
+
+ 
+ACCESSIBILITY AND INCLUSION 
+EQc3 
+1–2 points 
+
+INTENT 
+To support the diverse needs of occupants and increase widespread usability of the building to 
+foster an individual and collective sense of belonging. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–2 
+Accessibility and Inclusion Strategies 1–2 
+
+ 
+
+Comply with Local Accessibility Codes 
+Support access for those with physical disabilities by locating in a building that meets all locally 
+applicable accessibility codes identified in the IPp2: Human Impact Assessment.  
+ 
+If there is no locally applicable code, the base building must include the following strategies: 
+ 
+
+• Accessible routes or regularly used exterior building entrances must have ramps to 
+accommodate elevation changes. 
+
+• All doors meant for human passage from the main exterior building entrance to the 
+project entrance have a minimum clear width of 32 inches (0.86 meters). 
+
+• Reception desks, security counters, and service counters within the project boundary all 
+have a front-approach, wheelchair-accessible section. 
+
+AND 
+
+Include at least five (1 point) or 10 (2 points) of the following accessibility and inclusion 
+strategies that go beyond the locally applicable accessibility code and are most relevant to the 
+project: 
+ 
+
+Accessibility for Physical Diversity 
+• Provide wave-to-open or vertical hand/foot-press door operators at all regularly used 
+
+building entrances. 
+• Design meeting spaces to accommodate mobility devices for at least 10% of occupants. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 100
+   
+
+
+
+ 
+
+• Incorporate accessible and inclusive equipment and activities in fitness facilities. Ensure 
+an open and accessible route to and around the equipment. 
+
+• Where inaccessible routes are provided (e.g., stairs), provide an alternate accessible 
+route that starts and terminates at the same location. 
+
+ 
+
+Accessibility for Safety and Aging 
+• Provide nonslip flooring. 
+• Fix area rugs to the floor below and provide transition strips at all edges. 
+• Provide a visual indication or a railing at all full-height glazing, except in private 
+
+residences. 
+• Provide audible and visual alerts for emergency alerts. 
+• Provide closed risers (visually and physically) in all stairs. 
+• Use visual contrast between walls and floors, walls and doors, and walls and casework. 
+• Provide visual, tactile, contrasting, or photoluminescent warnings at floor level changes. 
+
+ 
+
+Accessibility for Social Health 
+• Provide lactation rooms or pods. 
+• Provide at least one fully accessible, all-gender, single-user restroom OR one multiuser 
+
+all-gender restroom on each floor of the building. 
+• Include at least one adult changing station or table in a designated, accessible restroom 
+
+or family restroom, or in one men’s and one women’s restroom. 
+• Provide signage in all languages spoken by more than 5% of the local population. 
+• Support neurodivergent users by achieving EQc2: Occupant Experience, Option 1. 
+
+Biophilic Environments, Path 1, Integrated Biophilic Design. 
+ 
+
+Accessibility for Navigation 
+• Provide wayfinding signage that clearly indicates exits, entrances, and major functions in 
+
+the project. 
+• Provide nontext diagrams and symbols on signage. 
+• Provide Braille, visual and auditory cues, and/or continuous linear indicators on paths of 
+
+travel. 
+• Use pattern and color blocking to identify key access spaces. 
+• Provide haptic/tactile maps for wayfinding. 
+ 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 101
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ 
+
+Quality of Life 
+ 
+
+— Ecological Conservation 
+Indoor Environmental Quality Credit and Restoration 
+
+RESILIENT SPACES  
+
+EQc4 
+1–3 points 
+
+INTENT 
+To support design features that increase the capacity for occupants to adapt to changing 
+climate conditions and be protected from events that may compromise the quality of the indoor 
+environment and, subsequently, occupant health and well-being. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–3 
+Option 1. Management Mode for Episodic Outdoor Ambient Conditions 1 
+AND/OR  
+Option 2. Management Mode for Respiratory Diseases 1 
+AND/OR  
+Option 3. Design for Occupant Thermal Safety During Power Outages 1–2 
+
+Path 1. Consider Extreme Heat 1 
+AND/OR  
+Path 2. Consider Extreme Cold 1 
+
+AND/OR  
+Option 4. Operable Windows 1–2 
+
+ 
+Comply with any of the following options for up to 2 points. 
+ 
+
+Option 1. Management Mode for Episodic Outdoor Ambient Conditions (1 
+point) 
+Design systems with the capability to operate an episodic outdoor event management mode as 
+described in ASHRAE Guideline 44. The mode should address varying outdoor conditions or 
+events that could negatively influence indoor air quality, such as wildland fire smoke. Include the 
+management mode in the design and commissioning documents. Verify proper implementation 
+of the mode during commissioning. 
+
+AND/OR 
+
+Option 2. Management Mode for Respiratory Diseases (1 point)  
+Design occupied spaces with the capability to operate an infection risk management mode that 
+provides the minimum equivalent clean airflow rates outlined in ASHRAE 241-2023, Section 5.1. 
+Include the management mode in the design and commissioning documents as outlined in 
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 102
+   
+
+
+
+ 
+
+ASHRAE 241-2023, Section B10.2, “Design Documentation.” Verify proper implementation of 
+the mode during commissioning. 
+
+AND/OR 
+
+Option 3. Design for Occupant Thermal Safety During Power Outages (1–2 
+points)  
+PATH 1. CONSIDER EXTREME HEAT (1 POINT) 
+Demonstrate through thermal modeling that a building will passively maintain thermally 
+habitable conditions during a power outage that lasts two days during peak summertime 
+conditions of a typical meteorological year. Designate specific thermal safety zones where 
+habitable conditions will be maintained during a power outage. 
+
+AND/OR 
+
+PATH 2. CONSIDER EXTREME COLD (1 POINT) 
+Demonstrate through thermal modeling or Passive House certification that a building will 
+passively maintain thermally habitable conditions during a power outage that lasts two days 
+during peak wintertime conditions of a typical meteorological year. Designate specific thermal 
+safety zones where habitable conditions will be maintained during a power outage. 
+
+AND/OR  
+
+Option 4. Operable Windows (1–2 points) 
+Design 50% (for 1 point) or 75% (for 2 points) of the regularly occupied spaces to have operable 
+windows with the capability to provide access to outdoor air during heat waves or localized 
+power outages. The windows must meet the opening size and location requirements of 
+ASHRAE 62.1-2022, Section 6.4. 
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 103
+   
+
+
+
+Impact Area Alignment 
+
+— Decarbonization 
+ Quality of Life 
+
+ 
+
+— Ecological Conservation 
+Indoor Environmental Quality Credit and Restoration 
+
+AIR QUALITY TESTING AND MONITORING  
+
+EQc5 
+1–4 points 
+
+INTENT 
+To support better management of IAQ and identify opportunities for health-based approaches to 
+building operations.  
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–4 
+Option 1. Pre-Occupancy Air Testing 1–2 
+
+Path 1. Particulate Matter and Inorganic Gases 1  
+AND/OR 
+Path 2. Volatile Organic Compounds 1 
+
+AND/OR  
+Option 2. Continuous Indoor Air Monitoring 1 
+
+ 
+
+Option 1. Pre-Occupancy Air Testing (1–2 points) 
+After construction ends and before occupancy, but under ventilation conditions typical for 
+occupancy, conduct baseline IAQ testing. Retail projects may conduct the testing within 14 days 
+of occupancy. The number of measurements should be specified according to Table 1 and 
+taken in respective locations of the building. 
+ 
+Table 1. Number of Measurements Required for Preoccupancy Air Testing 
+
+Total Occupied Floor Area, sq. ft (sq. Number of Measurements 
+m.) 
+
+≤ 5,000 (500) 1 
+
+> 5,000 (500) and ≤ 15,000 (1,500) 2 
+
+> 15,000 (1,500) and ≤ 25,000 (2,500) 3 
+
+4 plus one additional measurement per 
+> 25,000 (2,500) and ≤ 200,000 (20,000) each 25,000 sq. ft. (2,500 sq. m.) above 
+
+25,000 sq. ft. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 104
+   
+
+
+
+ 
+
+Total Occupied Floor Area, sq. ft (sq. Number of Measurements 
+m.) 
+
+10 plus one additional measurement per 
+> 200,000 (20,000) each 50,000 sq. ft. (4,600 sq. m.) above 
+
+200,000 sq. ft. 
+
+ 
+PATH 1. PARTICULATE MATTER AND INORGANIC GASES (1 POINT)  
+Test for the particulate matter (PM) and inorganic gases listed in Table 2, using an allowed test 
+method, and demonstrate that the contaminants do not exceed the concentration limits listed in 
+the table. Measure for a four-hour period and calculate the peak concentration for carbon 
+monoxide and average concentration for ozone, PM2.5, and PM10. 
+ 
+Table 2. Limits for Particulate Matter and Inorganic Gases 
+
+Contaminant Concentration Limit Allowed Test Methods Direct Reading 
+(CAS#) (µg/m3) (laboratory-based) Instrument Minimum 
+
+Specifications 
+Carbon 9 ppm; no more than 2 ISO 4224 Direct calibrated 
+monoxide (CO) ppm above outdoor EPA Compendium Method electrochemical 
+
+levels IP-3 instrument with 
+GB/T 18883-2002 for accuracy of ± 3% of 
+projects in China reading and resolution 
+ of 0.1 ppm 
+
+ 
+NDIR CO sensors with 
+accuracy of 1% of 10 
+ppm full scale and 
+display resolution of 
+less than 0.1 ppm 
+
+Particulates (for ISO class 8 or lower per n/a Accuracy (±): Greater of 
+projects in ISO 14644-1:2015 5 μg/m3 or 20% of 
+attainment  reading 
+areas) OR meet 10A  Resolution (±): 5 μg/m3
+
+IP-  
+ 
+PM10: 50 μg/m3 
+
+ 
+PM2.5: 12 μg/m3 
+
+Particulates (for ISO class 8 or lower per n/a Accuracy (±): Greater of 
+projects in ISO 14644-1:2015 5 μg/m3 or 20% of 
+nonattainment  reading 
+areas) OR meet IP-10A  Resolution (±): 5 μg/m3 
+
+ 
+PM10: 50 μg/m3 
+
+ 
+PM2.5: 35 μg/m3 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 105
+   
+
+
+
+ 
+
+Contaminant Concentration Limit Allowed Test Methods Direct Reading 
+(CAS#) (µg/m3) (laboratory-based) Instrument Minimum 
+
+Specifications 
+Ozone 0.07 ppm ISO 13964 Monitoring device with 
+
+ ASTM D5149-02 accuracy greater of 5 
+OR EPA-designated methods ppb or 20% of reading 
+ for ozone and resolution (5 min 
+0.01 ppm for projects average data) ± 5 ppb 
+pursuing EQc1:  
+Enhanced Air Quality, 
+Option 1, Path 2 
+
+Note: ppm = parts per million; ppb = parts per billion. 
+
+AND/OR 
+
+PATH 2. VOLATILE ORGANIC COMPOUNDS (1 POINT) 
+• Perform a screening test for total volatile organic compounds (TVOC). Use ISO 16000-6, 
+
+EPA TO-17, or EPA TO-15 to collect and analyze the air sample. Calculate the TVOC 
+value per EN 16516:2017; California Department of Public Health Standard Method v1.2 
+2017, Section 3.9.4; or an alternative calculation method, as long as the full method 
+description is included in the test report. 
+o If the TVOC levels exceed 500 µg/m3, investigate for potential issues by comparing 
+
+the individual VOC levels from the gas chromatography-mass spectrometry (GC/MS) 
+results to associated cognizant authority health-based limits. Correct any identified 
+issues and retest if necessary. 
+
+• Test for the individual VOCs listed in Table 3 using an allowed test method and 
+demonstrate that the contaminants do not exceed the concentration limits listed in the 
+table. Laboratories that conduct the tests must be accredited under ISO/IEC 17025 for 
+the test methods they use.  
+
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 106
+   
+
+
+
+ 
+
+Table 3. Volatile Organic Compound Limits 
+
+Contaminant (CAS#) Concentration Limit Allowed Test Methods 
+(µg/m3) 
+
+Formaldehyde 50-00-0 20 µg/m3 (16 ppb) ISO 16000-3, 4; 
+EPA TO-11a; 
+EPA comp. IP-6A; 
+
+Acetaldehyde 75-07-0 140 µg/m3 ASTM D5197-16 
+
+Benzene 71-43-2 3 µg/m3 ISO 16000-6; 
+EPA IP-1; 
+
+Hexane (n-) 110-54-3 7,000 µg/m3 EPA TO-17; 
+Naphthalene 91-20-3 9 µg/m3 EPA TO-15; 
+
+ISO 16017-1, 2; 
+Phenol 108-95-2 200 µg/m3 ASTM D6196-15 
+
+Styrene 100-42-5 900 µg/m3 
+Tetrachloroethylene 127-18-4 35 µg/m3 
+Toluene 108-88-3 300 µg/m3 
+Vinyl acetate 108-05-4 200 µg/m3 
+Dichlorobenzene (1,4-) 106-46-7 800 µg/m3 
+Xylenes—total 108-38-3, 95-47-
+6, and 106-42-3 700 µg/m3 
+
+AND/OR 
+
+Option 2. Continuous Indoor Air Monitoring (1 point) 
+Provide indoor air monitors for all of the following parameters: 
+ 
+
+• Carbon dioxide (CO2) 
+• Particulate matter (PM2.5) 
+• TVOC 
+• Temperature 
+• Relative humidity 
+
+ 
+Monitors must be building grade or better and located between 3 and 6 feet (1–2 meters) above 
+the floor.  
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 107
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+ 
+
+ 
+Quality of Life 
+
+ 
+Ecological Conservation 
+
+PROJECT PRIORITIES   and Restoration 
+ 
+
+Project Priorities Credit 
+
+PROJECT PRIORITIES 
+PRc1 
+1–9 points 
+
+INTENT 
+To promote the achievement of credits that address geographically sensitive or adaptation-
+specific environmental, social equity, and public health priorities. To encourage projects to think 
+creatively to test and accelerate new sustainable building practices and strategies. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors 1–9 
+Regional Priority 
+Project-Type Credits 
+Exemplary Performance 1–9 
+Pilot Credits 
+Innovation Strategies 
+
+ 
+Achieve any combination of the following for a maximum of 9 points: 
+ 
+Regional priority 
+Achieve a regional priority credit from USGBC’s Project Priority Library. These credits have 
+been identified by USGBC as having additional regional importance for the project’s region. 
+ 
+Project-type credits 
+Achieve a project-type credit from USGBC’s Project Priority Library. These credits have been 
+identified by USGBC as addressing unique needs for the given adaptation or building 
+application. 
+ 
+Exemplary performance 
+Achieve an exemplary performance credit from USGBC’s Project Priority Library. These credits 
+have been identified by USGBC as going above and beyond an existing LEED v5 prerequisite 
+or credit in the LEED v5 priority areas of scale, decarbonization, resilience, health, equity, 
+and/or ecosystems. 
+ 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 108
+   
+
+
+
+ 
+
+Pilot credits 
+Achieve a pilot credit from USGBC’s Project Priority Library. 
+ 
+Innovative Strategies 
+Achieve significant, measurable, environmental performance using a strategy not addressed in 
+the LEED green building rating system. 
+ 
+Identify all the following: 
+ 
+
+• The intent of the proposed innovation strategy 
+• Proposed requirements for compliance 
+• Proposed submittals to demonstrate compliance 
+• The design approach or strategies used to meet the requirements 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 109
+   
+
+
+
+Impact Area Alignment 
+
+Decarbonization 
+ 
+
+ 
+Quality of Life 
+
+ 
+Ecological Conservation 
+
+Project Priorities Credit  and Restoration 
+
+LEED AP  
+
+PRc2 
+1 point 
+
+INTENT 
+To encourage team integration required by a LEED AP and to streamline the application and certification 
+process. 
+
+REQUIREMENTS 
+Achievement Pathways Points 
+Commercial Interiors  1 
+LEED AP 1 
+
+ 
+At least one principal participant of the project team must be a LEED AP with a specialty 
+appropriate for the project. 
+
+  
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 110
+   
+
+
+
+ 
+
+APPENDIX I LEED PLATINUM REQUIREMENTS 
+ 
+EAc1: Electrification 
+Do not install new on-site combustion equipment in the project scope of work. 
+ 
+EAc2: Enhanced Energy Efficiency 
+Seven points are required. 
+ 
+EAc3: Renewable Energy 
+100% of tenant annual site energy consumption is from any combination of Tier 1, Tier 2, and 
+Tier 3 renewable energy. 
+ 
+MRc2: Reduce Embodied Carbon 
+10% reduction in embodied carbon. 
+
+ 
+U.S. Green Building Council 
+LEED v5 Reference Guide for Interior Design and Construction, November 2025 Edition 111

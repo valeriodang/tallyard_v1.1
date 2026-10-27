@@ -1,0 +1,2021 @@
+﻿L ondon Plan Guidance 
+ 
+
+  
+  
+
+   
+
+Circular Economy 
+
+Statements 
+ 
+
+March 2022 
+ 
+
+
+
+Copyright 
+ 
+
+Greater London Authority 
+March 2022 
+
+Published by: 
+Greater London Authority 
+City Hall 
+Kamal Chunchie Way 
+London E16 1ZE 
+ 
+www.london.gov.uk  
+Enquiries 020 7983 4000 
+ 
+ 
+Other formats and languages  
+For a large print, Braille, disc, sign language video or audio-tape version of this 
+document, please contact us using the details above. You will need to supply your 
+name, your postal address and state the format and title of the publication you 
+require. If you would like a summary of this document in your language, please 
+phone the number or contact us at the address above. 
+
+Acknowledgements 
+
+The GLA would like to thank the individuals and organisations who contributed to the 
+guidance, including consultation respondents. Special thanks go to ReLondon and 
+AECOM for their contribution to the preparation of this guidance document and the 
+Circular Economy Statements template. 
+
+ 
+
+  
+
+2 
+ 
+
+
+
+Table of contents 
+
+1. About this document ...................................................................................................... 5 
+
+1.1. What is the circular economy? ............................................................. 5 
+
+1.2 Relationship to other London Plan Guidance ....................................... 6 
+
+2. Applying the circular economy principles ...................................................................... 7 
+
+2.1. Circular Economy principles ................................................................. 7 
+
+2.2 Building in layers framework ................................................................ 7 
+
+2.3. Circular Economy design approaches .................................................. 9 
+
+2.4. Circular Economy design approaches for existing buildings ............... 10 
+
+2.5. Circular Economy design approaches for new developments ............ 13 
+
+3. Circular Economy statement process .......................................................................... 16 
+
+3.1. Requirements for Circular Economy statements ................................ 16 
+
+3.2. What should Circular Economy statements contain?.......................... 19 
+
+3.3. How should Circular Economy statements be submitted? .................. 19 
+
+3.4. Level of ambition ................................................................................ 20 
+
+4. Elements of Circular Economy statements ................................................................. 22 
+
+4.1 Overview ............................................................................................ 22 
+
+4.2. Circular Economy targets ................................................................... 22 
+
+4.3. Circular Economy design approaches ................................................ 23 
+
+4.4. Circular Economy design principles ................................................... 23 
+
+4.5. Circular Economy design principles by building layer ......................... 23 
+
+4.6. Pre-redevelopment audit and pre-demolition audit ............................. 24 
+
+4.7. Bill of Materials ................................................................................... 26 
+
+4.8. Operational waste management plan ................................................. 28 
+
+4.9. Recycling and waste reporting ........................................................... 30 
+
+4.10. Lessons learned and key achievements............................................. 33 
+
+5. Monitoring ..................................................................................................................... 34 
+
+Appendix 1: Application flowchart ......................................................................................... 35 
+
+Appendix 2: Essential elements of Circular Economy statements ....................................... 37 
+
+Appendix 3: Recycled content by value example calculation ............................................... 38 
+
+Appendix 4: Analysis of data collected to date for key Circular Economy statement metrics
+ ...................................................................................................................................... 39 
+
+  
+
+ 
+
+3 
+ 
+
+
+
+ 
+
+London Plan policy Policy D3: optimising site capacity 
+through the design-led approach; Policy 
+SI 7: reducing waste and supporting the 
+circular economy (CE); and Policy SI 2: 
+minimising greenhouse gas emissions. 
+ 
+This London Plan Guidance (LPG) 
+should be read in conjunction with 
+London Plan Policy SI 2: minimising 
+greenhouse gas emissions and the 
+Whole Life-Cycle Carbon Assessments 
+LPG.  
+
+Planning application type London Plan 2021 Policy SI 7(B) 
+requires applications that are referred to 
+the Mayor1 to promote CE outcomes, 
+and to aim to be net-zero-waste.  
+ 
+All applications for referable 
+development (outline, detailed and/or 
+hybrid applications) are required to 
+submit a CE statement. 
+ 
+Local planning authorities may require 
+CE statements for other development in 
+local Plans or other Development Plan 
+Documents. 
+
+Who is this guidance for? Planning authorities, applicants, 
+ developers, architects, designers, 
+ consultants, engineers, contractors, 
+ building owners, operators and facilities 
+ managers. 
+  
+Submitting CE statements CE statements should be submitted at 
+
+each stage to the GLA at: 
+circulareconomystatements@ 
+london.gov.uk with an email subject 
+line: Circular Economy statement for 
+[insert planning reference]. 
+
+ 
+1 As defined in the Town and Country Planning (Mayor of London) Order 2008. See 
+www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/what-powers-does-
+mayor-have-planning-applications for more details. 
+
+4 
+ 
+
+
+
+ 
+
+1. About this document 
+
+1.1. What is the circular economy? 
+
+1.1.1. London Plan Policy SI 7 defines a circular economy (CE) as ‘…one where 
+materials are retained in use at their highest value for as long as possible 
+and are then reused or recycled, leaving a minimum of residual waste.’ It is a 
+move away from the current linear economic model, where materials are 
+mined, manufactured, used and thrown away, as shown in Figure 1. 
+
+Figure 1: CE model, compared to the linear and recycling economies 
+
+ 
+
+1.1.2. To demonstrate how this will be achieved, applicants are required to submit 
+a CE statement.  
+
+1.1.3. This guidance explains how to prepare a CE statement to comply with Policy 
+SI 7, including the information that must be submitted under Policy SI 7(B). It 
+also includes guidance on how the design of new buildings, and prioritising 
+the reuse and retrofit of existing structures, can promote CE outcomes.2 
+Further, London Plan Policy D3 requires all development to aim for high 
+sustainability standards, and to take into account the principles of the circular 
+economy.  
+
+ 
+2 The London Plan 2021 defines reuse as the: 
+ 
+‘operation or process of checking, cleaning or repairing materials that have been discarded and are 
+waste so that they can be used again for their original purpose as non-waste without any other pre-
+processing.’  
+ 
+Recycling is defined in the London Plan as involving:  
+ 
+‘the reprocessing of waste, either into the same product or a different one. Many non-hazardous 
+wastes such as paper, glass, cardboard, plastics and metals can be recycled. Hazardous wastes 
+such as solvents can also be recycled by specialist companies, or by in-house equipment’. 
+
+5 
+ 
+
+
+
+ 
+
+1.1.4. How these concepts relate to the built environment is further explored in the 
+Design for a Circular Economy Primer; and further information on applying 
+CE principles to developments and good practice examples can be found on 
+the CE wiki.3 
+
+1.1.5. This section of the London Plan Guidance (LPG) sets out how CE principles, 
+the concept of building in layers and appropriate design approaches should 
+inform referable applications. 
+
+1.2 Relationship to other London Plan Guidance  
+
+1.2.1.  There is a close relationship between this guidance and the Whole Life-
+Cycle Carbon (WLC) LPG, which should be addressed as follows:4  
+
+• the same Bill of Materials should be used for CE and WLC assessments 
+
+• the promotion of CE outcomes should also reduce the WLC of the 
+development (modules A-C of BS EN 15978), or provide additional 
+benefits beyond the development’s life (module D)5 
+
+• the end-of-life scenarios developed through the CE statement process 
+should be used to inform the assumptions made in the WLC assessment 
+(see sections 4.7.9 to 4.7.11 and 4.7.14) 
+
+• design decisions should be informed by the principles and results of both 
+studies 
+
+• the CE statement should cross-reference relevant parts of other 
+documents submitted as part of the planning application.6 
+
+  
+
+ 
+3 London Circular Economy Statements LPG - Additional resources - Designing Buildings 
+Circular economy case studies - Designing Buildings  
+4 London Plan Policy SI 2(F) requires WLC assessments to be submitted as part of referable planning 
+applications. 
+5 BS EN 15978 and the RICS PS set out four stages in the life of a typical project, described as life-
+cycle modules: 
+
+• Module A1 – A5 (Product sourcing and construction stage) 
+• Module B1 – B7 (Use stage) 
+• Module C1 – C4 (End of life stage) 
+• Module D (Benefits and loads beyond the system boundary) 
+
+Refer to section 2.5 of the WLC assessment guidance for further information on the life-cycle 
+modules. 
+6 Such as the WLC assessment; Site Waste and Operational Waste Management (OWM) plans or 
+similar; Design and Access Statements; Energy Statements; and other environmental or sustainability 
+statements. 
+
+6 
+ 
+
+
+
+ 
+
+2. Applying the circular economy principles 
+
+2.1. Circular Economy principles  
+
+2.1.1. The six circular economy (CE) principles, which should be a fundamental 
+part of the building design process, are:7 
+
+1. building in layers – ensuring that different parts of the building are 
+accessible and can be maintained and replaced where necessary 
+
+2. designing out waste – ensuring that waste reduction is planned in from 
+project inception to completion, including consideration of standardised 
+components, modular build, and reuse of secondary products and 
+materials 
+
+3. designing for longevity  
+
+4. designing for adaptability or flexibility  
+
+5. designing for disassembly  
+
+6. using systems, elements or materials that can be reused and recycled. 
+
+2.1.2. The principles support the application of the waste hierarchy8 in that avoiding 
+or reducing waste is prioritised.  
+
+2.2 Building in layers framework  
+
+2.2.1. A useful way to understand a building or development is in terms of ‘layers’, 
+where each layer has its own life cycle, life span, and relevant CE design 
+approaches (see sections 2.3 to 2.5) and solutions as shown in Figure 2 
+below.9  
+
+2.2.2. To support reuse and recycling, the different layers should be independent, 
+accessible and removable whilst maintaining their value, where possible. This 
+is especially important for layers that may need more frequent replacement, 
+such as building services and internal fit-outs. 
+
+2.2.3. CE design approaches will be applicable to each layer depending on its 
+function and expected lifespan. 
+
+ 
+
+ 
+
+ 
+
+ 
+7 Paragraph 3.3.10 of the London Plan. 
+8 The waste hierarchy is described in DEFRA (2011) Guidance on applying the Waste Hierarchy. 
+9 See Frank Duffy’s ‘Shearing Layers’ concept described in Brand, S. (1994), How Buildings Learn. 
+
+7 
+ 
+
+
+
+ 
+
+Figure 2: Building layers and their indicative lifespans10 
+
+ 
+ 
+
+2.2.4. A standard list of layers is defined in Table 1 below, with reference to the 
+Royal Institute of Chartered Surveyors (RICS) New Rules of Measurement 
+(NRM) (2012)11 building elements where relevant. The NRM building 
+elements form the basis of CE statement reporting, particularly from outline 
+application stage in the Bill of Materials.  
+
+ 
+
+Table 1: Building layer summary and equivalent building element/RICS 
+reference 
+
+Building layer Summary and constituent elements RICS 
+reference  
+
+Site The geographical location, context, external works, NRM 8 – 
+earth works and landscaping.  External works 
+
+Skin/shell e.g. The layer keeping out water, wind, heat, cold, direct NRM 2.3, 2.5, 
+façade  sunlight and noise. Includes exterior surfaces such as 2.6 – 
+
+the roof, siding, sheathing and windows. This layer Superstructure 
+includes the façade (front or face of a building). (roofs, external 
+
+walls, windows 
+
+ 
+10 The lifespans in Figure 2 are for illustration purposes and will be specific to each development. 
+11 The RICS New Rules of Measurement 2012 classification system is a standard set of measurement 
+rules and essential guidance for the cost management of construction projects and maintenance 
+works.  
+
+8 
+ 
+
+
+
+ 
+
+Building layer Summary and constituent elements RICS 
+reference  
+
+This layer often has biggest impact on long-term and external 
+durability, occupant comfort and building-energy doors) 
+performance. 
+
+Structure/ Load-bearing elements above plinth including roof- NRM 2.1, 2.2 
+structural supporting structure. Generally, it is the longest- and 2.4 and 7 – 
+frame/ lasting building element. Insulation and services may Frame, upper 
+superstructure be embedded here.  floors, stairs 
+
+and ramps, 
+work to existing 
+building  
+
+Substructure Excavations, foundations, basements and ground NRM 1 
+floors. Substructure 
+
+Services Installations to ensure comfort, practicality, NRM 5 
+(building) accessibility and safety, including plumbing, heating, Services (MEP) 
+
+cooling, ventilation and electrics. Distribution systems 
+can be hard to change. 
+
+Space/space The layout, internal walls and partitions, ceilings, NRM 2.7, 2.8 
+plan/interior/ floors, surface finishes, fixtures, doors, fitted furniture. and NRM 3 
+interior space Changeable without changing structure, services or (Finishes, 
+
+skin. superstructure 
+– internal walls 
+and partitions, 
+internal doors) 
+
+Stuff/contents  Anything that could fall if the building was turned Fittings, 
+upside down. Not permanent, easily movable, most furnishings and 
+frequently changed by occupant, e.g., appliances, equipment 
+lamps, electronics, furniture, art. 
+
+Construction Any temporary installations/works/materials, NRM 0 
+materials  packaging and equipment. 
+
+ 
+
+2.3. Circular Economy design approaches  
+
+2.3.1. CE design approaches are set out in section 2.4 for sites that have buildings 
+on site; and section 2.5 for sites that do not. These approaches support the 
+implementation of the six CE principles. The design approaches should 
+inform the initial land-use planning and design stage. 
+
+2.3.2. CE design approaches are not mutually exclusive. Multiple approaches are 
+expected to be adopted for each project, development aspect, layers or 
+uses, particularly for larger developments.  
+
+2.3.3. CE principles and design approaches should be applied to the whole 
+development, including external spaces and structures and internal ancillary 
+spaces. 
+
+9 
+ 
+
+
+
+ 
+
+2.3.4. Figure 3 sets out a hierarchy for building approaches that maximises the use 
+of existing materials. Diminishing returns are gained by moving through the 
+hierarchy outwards, working through refurbishment and reuse through to the 
+least preferable option of recycling materials produced by the building or 
+demolition process. This provides an overall strategy for the redevelopment 
+of buildings, with retention as the starting point. The decision trees in the 
+following sections (Figures 4 and 5) expand on this, setting out a hierarchy of 
+CE design approaches for development. 
+
+Figure 3: CE hierarchy for building approaches (from London Plan Policy D3 
+Figure 3.2) 
+
+ 
+
+2.4. Circular Economy design approaches for existing buildings  
+
+2.4.1. The decision tree (Figure 4) should be followed to inform the design process 
+for the development from the outset. It should be informed by the pre-
+redevelopment and pre-demolition audits where possible (see section 4.6 for 
+more information) and WLC assessment, with the outcomes from these 
+aligning.  
+
+10 
+ 
+
+
+
+ 
+
+Figure 4: Decision tree for design approaches for existing structures/buildings  
+
+ 
+
+* With exceptions, refer to paragraph 2.4.4 below.  
+
+11 
+ 
+
+
+
+ 
+
+Table 2: CE design approaches for existing structures  
+
+Existing structures Definition  
+a pproaches 
+
+Retain and retrofit The vast majority of the building’s fabric is retained, with 
+the building refurbished for the same or new uses 
+through restoring, refinishing and future-proofing.  
+This also encompasses retrofitting, where new 
+technology or features are added to existing buildings to 
+make them more efficient and to reduce their 
+environmental impacts.  
+
+Partial retention and Significant quantities of carbon-heavy aspects of the 
+refurbishment building are retained in place, such as the floors and 
+
+substructure, with replacement of some elements of the 
+building, such as walls or roofing. 
+More significant refurbishment can involve adding floors 
+o r extensions. 
+
+Disassemble and reuse Disassemble sections of a building and enable their 
+direct reuse ideally on the site or, where this is not 
+possible, off site (with nearby sites preferred). This 
+approach also includes careful selective deconstruction 
+of the building and material types i.e. taking apart each 
+layer and material type as much as possible, minimising 
+damage to parts and maintaining their value, and then 
+reusing those elements and materials.  
+If reuse is not possible, materials may be carefully and 
+selectively separated for processing and recycling into 
+new elements, materials and objects. 
+
+Demolish and recycle Traditional demolition, with elements and materials 
+processed into new elements, materials and objects for 
+use on the site or on another site.  
+
+ 
+
+2.4.2. To follow the approach set out in Figure 3 (London Plan Policy D3 Figure 
+3.2), retaining existing built structures totally or partially should be prioritised 
+before considering substantial demolition, as this is typically the lowest-
+carbon option.  
+
+2.4.3. The CE statement should set out the justification for whichever of the four 
+approaches set out in Table 4, above, is being proposed for the 
+development.12 Proposals that are further down the hierarchy will require 
+more detailed and compelling justification. 
+
+2.4.4. There may be other planning reasons that necessitate the demolition or 
+retention of existing buildings, such as heritage considerations, which the 
+process set out in Figure 4 cannot and does not override. 
+
+ 
+12 This should go into the relevant ‘circular economy design approaches’ table, with further 
+explanation in the pre-demolition audit.  
+
+12 
+ 
+
+
+
+ 
+
+2.4.5. When assessing whether existing buildings are suited to the requirements 
+for the site, applicants should robustly explore the options for retaining 
+existing buildings (either wholly or in part). Where disassembly or demolition 
+is proposed, applicants should set out how the options for retaining and 
+reconstructing existing buildings have been explored and discounted; and 
+show that the proposed scheme would be a more environmentally 
+sustainable development. 
+
+2.4.6. Local planning authorities should be involved in this process from an early 
+stage, along with other stakeholders. A dialogue is strongly encouraged 
+early on between CE statement authors and local planning authorities on the 
+retention or demolition of existing buildings, and making the best use of land. 
+
+2.5. Circular Economy design approaches for new developments  
+
+2.5.1. All developments should be designed so that buildings can be adapted to 
+extend their life. They should also be designed so they can be deconstructed 
+and reconstructed to allow components and materials to be salvaged for 
+reuse or recycling, whilst maintaining their economic and environmental 
+value.  
+
+2.5.2. The appropriate design approach for new buildings and infrastructure, or 
+new additions to existing buildings, should be informed by the decision tree 
+in Figure 5 and the seven CE design approaches in Table 3. The decision 
+tree should be applied for each aspect of a proposal. 
+
+  
+
+13 
+ 
+
+
+
+ 
+
+Figure 5: Decision tree for design approaches for new buildings, infrastructure and layers over the lifetime of 
+development 
+
+ 
+
+14 
+ 
+
+
+
+ 
+
+Table 3: CE design approaches for new buildings and definitions 
+
+New building CE 
+d esign approaches Definition  
+
+Designing to allow the whole building to be used on a different 
+site, either by moving as a whole or disassembling into large 
+
+Building relocation modules. 
+The use of a product in its original form with minimal 
+reprocessing. Preparation for reuse involves checking, 
+cleaning or repairing materials so that they can be used again 
+for their original purpose.  
+
+Component or Materials can be reused as a whole; redeployed as modules; 
+material reuse or reused as a kit of parts on one or more different sites.  
+
+A building that has been designed with thought of how it might 
+be easily altered to prolong its life, for instance by alteration, 
+addition, or contraction, to suit new uses or patterns of use.13 
+Often used interchangeably with flexibility; however, it relates 
+
+Adaptability more to building structural changes. 
+A building that has been designed to allow easy rearrangement 
+of its internal fit-out and arrangement to suit the changing 
+needs of occupants.14 Often relates to floorplates rather than 
+
+Flexibility  structural changes (see Adaptability).  
+Designing to facilitate easy removal and upgrade, and ideally 
+to be reused, remanufactured or recycled on a part-by-part 
+
+Replaceability basis. 
+Designed to allow the building and its components to be taken 
+apart with minimal damage to facilitate reuse or recycling. If 
+
+Disassembly designed well, it should be possible to replace any component. 
+Designing to avoid a premature end of life for all components 
+
+Longevity through considering maintenance and durability.  
+ 
+
+ 
+
+ 
+
+ 
+13 Addis and Schouten (2004), Design for deconstruction: Principles of design to facilitate reuse and 
+recycling 
+14 Addis and Schouten (2004), Design for deconstruction: Principles of design to facilitate reuse and 
+recycling 
+
+15 
+ 
+
+
+
+ 
+
+3. Circular Economy statement process 
+
+3.1. Requirements for Circular Economy statements 
+
+3.1.1. Planning applicants for proposals referred to the Mayor are required to submit a 
+Circular Economy (CE) statement at the following stages:  
+
+• pre-application (where relevant) 
+
+• planning application submission (both outline and detailed) 
+
+• post-construction (i.e. upon commencement of RIBA Stage 6 and prior to 
+the building being handed over, if applicable. Generally, it would be 
+expected that the assessment would be received no more than three 
+months post-construction). 
+
+3.1.2. Error! Reference source not found.4 and 5 outline the information required at 
+each planning stage and the approaches recommended for pioneering CE 
+statements (see sections 3.4 and 4). The Application Flowchart in Appendix 1 
+sets out the information and actions required at each stage of the planning 
+process, and the roles and responsibilities of different stakeholders. 
+
+3.1.3. The CE statement must include two parts: a written report and the CE template 
+spreadsheet. 
+
+3.1.4. Early collaboration between the people outlined in Table 4 can support CE 
+outcomes being achieved and embedded. Compiling the required information is 
+likely to need at least one workshop during the pre-application phase of the 
+development between the people outlined in Table 4. Applicants are 
+encouraged to set out how the CE workshop has informed the design of the 
+development. 
+
+Table 4: People to involve at different stages 
+
+Requirement Pre-application Outline Full application/ Post-construction 
+by application (suggested) application15 reserved 
+stage matters16 
+RIBA stages 0 – 2 0 – 2 2 – 3 4 – 7 
+Critical people • Planner • Planner • Developer • Developer 
+to involve • Developer • Developer • Design Team • Design Team 
+
+• Design Team • Design • Sustainability • Contractor 
+• Sustainability Team adviser • Sub-contractors 
+
+adviser • Sustainability  • Suppliers 
+ adviser  • Facility Manager 
+  • Waste operators 
+
+ 
+15 Also applicable to the outline and detailed part of hybrid applications. 
+16 Also applicable to the outline and detailed part of hybrid applications. 
+
+16 
+ 
+
+
+
+ 
+
+Requirement Pre-application Outline Full application/ Post-construction 
+by application (suggested) application15 reserved 
+stage matters16 
+Other people Construction Construction • Subcontractors Occupants/tenants 
+to involve Adviser or Adviser or • Suppliers 
+(desirable) Contractor Contractor • Facility 
+
+Manager 
+ 
+
+Table 5: Minimum submission requirements at different stages  
+
+Requirement by Pre- Outline Full Post- Evidence in 
+application stage application application17 application/ construction CES template 
+
+(suggested) reserved spreadsheet 
+matters18 
+
+RIBA stages 0 – 2 0 – 2 2 – 3 4 – 7 N/A 
+CE targets (see Encouraged Yes  Yes  Yes Yes 
+section 4.2) (Performance 
+
+reported) 
+CE design Yes  Yes Yes  N/A Yes 
+approaches (see 
+sections 2.3 – 2.5 
+and 4.3) 
+CE design principles Yes No No No Yes 
+(see sections 2.1, 
+4.4 – 4.5) 
+CE design principles No Yes Yes No Yes 
+by building layer 
+(see sections 4.5) 
+Pre-redevelopment Encouraged  Yes Yes N/A No 
+audit (see section 
+4.6)19 
+Pre-demolition audit Encouraged Yes  Yes N/A No  
+(see section 4.6) 
+Bill of materials No Yes Yes Yes (Actual) Yes 
+(including (Estimated) (Estimated)  
+calculations – see 
+section 4.7) 
+End of life strategy No No Yes  Encouraged No20 
+(see section 4.7) 
+
+ 
+17 Also applicable to the outline and detailed part of hybrid applications. 
+18 Also applicable to the outline and detailed part of hybrid applications. 
+19 Example of supporting evidence. Detailed technical studies or calculations underpinning the CE 
+statement should be submitted as appendices at each stage. Further supporting evidence may be 
+requested depending on the project to support the applicant’s CE statement. This list is not exhaustive; 
+the applicant should use their judgement as to what supporting information will be necessary to undertake 
+an informed assessment of the CE statement. 
+20 The End of Life strategy should be submitted in a separate written report. However, the Bill of Materials 
+includes information that is relevant to the End of Life Strategy (for example, on designing for 
+disassembly and end of life scenarios by material type). 
+
+17 
+ 
+
+
+
+ 
+
+Requirement by Pre- Outline Full Post- Evidence in 
+application stage application application17 application/ construction CES template 
+
+(suggested) reserved spreadsheet 
+matters18 
+
+Operational waste No No Yes  Encouraged No 
+management plan  
+(see section 4.8) 
+Recycling and waste No Yes Yes Yes (Actual) Yes 
+reporting (see (Estimated) (Estimated)  
+section 4.9) 
+Lessons learnt and N/A N/A N/A Yes  Yes 
+key achievements 
+(see section 4.10) 
+
+ 
+
+Outline, reserved matters, and hybrid applications 
+
+3.1.5. All building elements should be included in the CE statement. Less information 
+will be available for outline planning applications and information may be high-
+level, with gaps (for example, specific materials and products may not be 
+known). However, it is expected that information on certain materials will be 
+available at outline stage, for example, based on experience from previous 
+schemes, and to estimate costs. Applicants are expected to provide as much 
+information as possible to ensure CE principles and targets are embedded early 
+in the design process. Particularly important to include at outline stage are 
+building layers or elements (see section 2.2) that are likely to be decided early 
+on (for example site, structure and skin/shell) and which have the longest 
+lifespans or will be changed less frequently.  
+
+3.1.6. A condition should be attached to an approval of a referable outline planning 
+permission, securing the submission of a CE statement with each reserved 
+matters application. Applications for reserved matters should review and 
+address the information provided at outline stage and update any default values 
+used as far as possible.  
+
+Roles and responsibilities  
+
+3.1.7. At planning application stage, it should be confirmed who will be providing the 
+information at post-construction stage. Prior to planning permission being 
+granted, it is the applicant’s responsibility to ensure that the relevant people are 
+aware of their responsibilities to provide information at different stages, and to 
+ensure that the information is provided at each stage. Planning applicants 
+should pass on the previous assessments to the developer and their contractors 
+to allow for a smooth transition of responsibility. After planning permission is 
+granted, it is the developer’s responsibility to ensure that the correct information 
+is provided at each stage (for example, at post-construction stage). 
+
+18 
+ 
+
+
+
+ 
+
+3.2. What should Circular Economy statements contain? 
+
+3.2.1. The CE statement consists of a written report and a spreadsheet, with the 
+relevant tab(s) filled in at each stage.21 Each tab contains a number of tables 
+where information should be recorded.  
+
+3.2.2. Applicants should also submit an accompanying written narrative for aspects 
+not captured in the spreadsheet (such as calculations, studies or other 
+supporting evidence); or, where an achievement is not adequately captured by 
+quantitative metrics, the applicant should highlight the achievement within the 
+CE statement written report, explaining: 
+
+• how it reflects the objectives of London Plan 2021 policies relating to the CE 
+(D3, SI 2 and SI 7) 
+
+• any other benefits, for example to occupants, neighbourhoods, and local 
+authorities. These may be qualitative or quantitative but will need to be 
+backed up by evidence (for example reports, calculations, or specification 
+documents). Early engagement with stakeholders, ideally at pre-application 
+stage, is encouraged, for example with boroughs (who may need to seek 
+input from wider teams e.g., waste, design, environmental health), to ensure 
+that the proposed benefits align with wider strategies or objectives. 
+
+3.2.3. Where the application consists of multiple buildings, and/or where different CE 
+design approaches are being adopted or different targets are being set, this 
+should be reflected in the Project Details table (number of use types, and floor 
+area by use class/type must be provided). The spreadsheet should include 
+details on different CE design approaches being adopted for different building 
+parts, for example in the CE Design Approaches table in the phase/area/type 
+column. The written report should explain the different approaches being 
+adopted for different buildings or aspects, with reference to a site plan. 
+
+3.2.4. Any changes in design following the submission should be accounted for in the 
+post-construction CE statement. 
+
+3.2.5. Appendix 2 sets out how the information required by different tables in the CE 
+statement spreadsheet aligns with the requirements of Policy SI 7(B).  
+
+3.3. How should Circular Economy statements be submitted? 
+
+3.3.1. The CE statement should be submitted at each stage to the GLA at: 
+circulareconomystatements@london.gov.uk. The subject line of the email 
+should read: Circular Economy statement for [insert planning reference]. 
+
+3.3.2. Post-construction CE statements and any associated evidence should be 
+submitted upon commencement of RIBA Stage 6; and prior to the building being 
+
+ 
+21 Circular Economy Statement template spreadsheet 
+
+19 
+ 
+
+
+
+ 
+
+handed over and occupied, if applicable. Generally, it would be expected that 
+the CE statement would be received three months post-construction and prior to 
+the final occupation of the development. Details on how this can be secured are 
+provided in section 5, below.  
+
+3.4. Level of ambition 
+
+3.4.1. CE statements, or elements of the statement, can be submitted as compliant or 
+pioneering. To demonstrate the promotion of CE outcomes in line with Policy SI 
+7, all CE statements should aim to set out best practice, rather than recording 
+business-as-usual activities. 
+
+3.4.2. A compliant CE statement is one that meets the requirements set out in Policy 
+SI 7 and the requirements of this guidance.  
+
+3.4.3. To encourage innovation, and maximise the economic and environmental value 
+of materials, developers are encouraged to go beyond the ‘compliant’ standard 
+and demonstrate a ‘pioneering’ level of commitment to the CE by: 
+
+• showing depth – for example, by:  
+
+o exceeding the minimum policy requirements, or going above and 
+beyond standard practice by setting higher targets than required by 
+policy, including for building layers or elements22 
+
+o using innovative and creative techniques to refurbish and repurpose all 
+existing buildings and structures on site 
+
+o including innovative and creative measures to reuse all or nearly all 
+materials on-site 
+
+o investing in and testing experimental and innovative design approaches 
+for building layers and elements 
+
+• showing breadth – for example, by setting additional targets (for example, 
+by providing separate targets for reuse and recycling, and for on-site 
+and/or local and off-site reuse), demonstrating that a broad range of 
+measures have been investigated. 
+
+3.4.4. ‘Pioneering’ statements should look beyond the technical challenges and 
+analyse structural and other issues to be addressed to achieve significant CE 
+goals. The use of circular business models as part of the construction and 
+
+ 
+22 Best practice examples can be found on the CE wiki (see footnote 3).  
+
+20 
+ 
+
+
+
+ 
+
+operation of the development, such as ‘product as a service,’23 are also strongly 
+encouraged. 
+
+3.4.5. More detail on the options for pioneering statements for relevant elements of CE 
+statements are provided in section 4. 
+
+  
+
+ 
+23 As noted in the Mayor’s Designing for a Circular Economy Primer, instead of an occupier owning 
+carpets, for example, the carpets could be owned by the manufacturer and the occupier pays a rent for 
+their use. The manufacturer would have an incentive to make the carpets last as long as possible and 
+then recycle them. 
+
+21 
+ 
+
+
+
+ 
+
+4. Elements of Circular Economy statements 
+
+4.1 Overview  
+
+4.1.1. This section sets out what information needs to be submitted in each of the 
+tables in the Circular Economy (CE) statement template spreadsheet. The 
+requirements below demonstrate how to meet Policy SI 7(B).  
+
+4.2. Circular Economy targets  
+
+4.2.1. For all applications, applicants should complete the ‘CE targets and 
+commitments’ table in the CE statement template spreadsheet in the relevant 
+application stage tab.  
+
+4.2.2. In the table, applicants should outline the targets that they are committing to.24 
+The London Plan Policy SI 7(A) targets should be set as a minimum level of 
+compliance with that part of the policy. Applicants should provide an explanation 
+for the target that they are committing to and how they intend to meet these 
+targets and monitor performance, including the metrics to be used.  
+
+4.2.3. Policy SI 7 requires the management of excavation waste to be focused on-site 
+or within local projects. Where partial or complete demolition is proposed, the 
+materials already on-site should be reviewed for their potential retention and 
+inclusion into the proposed scheme before off-site options are considered. To 
+maximise the potential for the reuse of materials on-site, an area for the 
+potential processing and storing of these materials should be identified on or 
+close to the development site. 
+
+4.2.4. After on-site opportunities have been exhausted, applicants should refer to the 
+London Waste Map25 to consider opportunities for using local sites to manage 
+materials and waste. Sourcing materials locally is also encouraged, particularly 
+for reprocessed materials, to meet the Mayor’s 100 per cent net waste self-
+sufficiency target by 202626 and to comply with Policy SI 10.27 
+
+ 
+24 All waste streams should be reported in tonnes, and targets should be presented as a percentage by 
+weight/tonnes. BREEAM Wst 01 credits expect reporting of the percentage of waste diverted by volume. 
+Depending upon the waste stream type, this will not equate to the same percentage by tonnage. The 
+BREEAM New Construction 2018 methodology (see point 4) shows the difference in metrics. Applicants 
+that are targeting BREEAM Wst 01 credits are encouraged to demonstrate consistency in reporting. 
+25 London Waste Map 
+26 London Plan 2021 Policy SI 8: Waste capacity and net waste self-sufficiency 
+27 London Plan 2021 Policy SI 10: Aggregates notes ‘…the best option is the use of local materials where 
+feasible’.  
+
+22 
+ 
+
+
+
+ 
+
+Options for pioneering 
+
+4.2.5. For pioneering statements, targets by each building layer or element (see 
+section 2.2) could be provided at pre-application, outline, and full application 
+stages. 
+
+4.2.6. Applicants are encouraged to go further than the London Plan Policy SI 7(A) 
+targets, where possible – for example, by committing to percentages for reused 
+materials on-site; separating reused and recycled targets; and committing to 
+higher targets than that required by policy, for example, for recycled content.  
+
+4.3. Circular Economy design approaches 
+
+4.3.1. The six CE principles, and the decision tree in Figures 4 and 5, should inform 
+the design of the development and be used to determine the design approaches 
+adopted (see sections 2.3 to 2.5 for further details). 
+
+4.3.2. At pre-application, outline and full application stages, applicants should 
+complete the CE design approaches table in the relevant tab of the CE 
+statement template spreadsheet. Applicants should confirm which of the CE 
+design approaches listed in the table are being adopted for the existing building 
+and new development, and provide an explanation for the approach chosen.  
+
+4.3.3. Applicants should set out where they are retaining and refurbishing a building 
+that might otherwise be demolished. 
+
+4.3.4. Where adaptability is selected as a design approach, information should be 
+submitted showing how the building can be adapted for different uses. 
+
+4.4. Circular Economy design principles  
+
+4.4.1. At pre-application stage, applicants should demonstrate in the ‘circular economy 
+principles’ table the CE principles that will be adopted (see section 2.1), with 
+reasons explained.  
+
+4.4.2. Applicants should outline how the proposal will design out waste (in terms of 
+how waste materials will be reduced, treated as a resource, and managed) at 
+each module stage (see footnote 5 for further details on life-cycle modules).  
+
+4.5. Circular Economy design principles by building layer  
+
+4.5.1.  For all applications, applicants should complete the ‘circular economy design 
+principles by building layer’ table.  
+
+4.5.2. Multiple CE design approaches will often be needed for each building layer or 
+element.  
+
+23 
+ 
+
+
+
+ 
+
+4.5.3. This table should align with the two tables above – for example, if a commitment 
+is shown to designing for replaceability, this should be reflected in this table, 
+highlighting the building layers or elements that will be designed for 
+replaceability. The metrics to be used to quantify or monitor performance should 
+be included. 
+
+4.6. Pre-redevelopment audit and pre-demolition audit 
+
+4.6.1. Pre-redevelopment and pre-demolition audits are important tools to establish 
+whether building components can be reclaimed and how any demolition 
+materials will be managed.  
+
+Pre-redevelopment audit 
+
+4.6.2. A pre-redevelopment audit is a tool for understanding whether existing 
+buildings, structures and materials can be retained, refurbished, or incorporated 
+into the new development.28 The audit should be carried out early on (at pre-
+application stage) and should inform the design.  
+
+4.6.3. If there are existing buildings on a site, a third-party, independently verified or 
+peer-reviewed pre-redevelopment audit is strongly encouraged, including 
+analysis that fully explores options for retaining existing structures, materials 
+and the fabric of existing buildings into the new development; and the potential 
+to refurbish buildings before considering substantial demolition.  
+
+4.6.4. Applicants should complete and submit a pre-redevelopment audit as 
+supporting evidence to their CE statements, where a robust in-depth 
+assessment has not already been completed.  
+
+4.6.5. Applicants should outline in a pre-redevelopment audit an explanation of the 
+existing buildings on the site and brief description of state of their repair. Details 
+should include: the building’s age, key materials, photos of typical internal 
+spaces and facades, and site plans. 
+
+Pre-demolition audit 
+
+4.6.6. A pre-demolition audit is a detailed inventory of the materials in the building that 
+will need to be managed upon demolition. 
+
+4.6.7. At pre-application stage, applicants are strongly encouraged to submit an 
+independent pre-demolition audit with all applications where demolition is 
+proposed, as supporting evidence to their CE statement.  
+
+ 
+28 A resource for developing pre-redevelopment audits can be found in Code of Practice: Pre-
+development audits, BRE, July 2017. 
+
+24 
+ 
+
+
+
+ 
+
+4.6.8. If substantial demolition is proposed, the pre-demolition audit should include the 
+following core information: 
+
+• An explanation as to why it is proposed that the building(s) be demolished. 
+Applicants should explain the different considerations for developing the 
+site. This should go beyond simply saying that the buildings are of ‘low 
+quality’. Justification for demolition should be provided, in line with the 
+approach set out in sections 2.4.3 to 2.4.5, above. An assessment of 
+carbon impacts should be highlighted and, where relevant, the WLC 
+assessment should be cross-referenced. It should be explained how any 
+negative impacts resulting from demolition, such as the loss of embodied 
+carbon in existing buildings, would be mitigated and offset. 
+
+• A summary of the key components and materials present in the existing 
+buildings, with an estimate of the quantities and associated embodied 
+carbon and whether they are suitable for reclamation.  
+
+• An explanation and drawings that show the extent of the proposed 
+demolition and whether any parts of the building are being considered for 
+retention. 
+
+• Opportunities for reuse and recycling either within the proposed 
+development or off-site nearby/locally or further afield. 
+
+4.6.9. Where possible, the following best practice information should also be included: 
+
+• how the value of existing building elements or materials can be recovered 
+
+• the amount of demolition waste (cross-reference the Recycling and Waste 
+reporting table – refer to section 4.9 for further details) 
+
+• a schedule of practical and realistic providers who can act as brokers for 
+each of the reclaimed items 
+
+• target reuse and reclamation rates. 
+
+4.6.10. An audit that simply lists out the likely waste arisings and the routes for treating 
+those waste streams (i.e., crushing and shredding) is not suitable. 
+
+4.6.11. The audit should be undertaken by a third-party independent specialist with 
+expertise in reclamation of components and materials and experience in 
+preparing these types of reports. 
+
+4.6.12. Applicants should justify reasons for adopting less preferred approaches or 
+moving down the hierarchy of CE design approaches in Figure 3 (London Plan 
+Figure 3.2), and the decision trees in Figures 4 and 5. Refer to sections 2.4.3 to 
+2.4.5 and 4.6.8 for further information. 
+
+25 
+ 
+
+
+
+ 
+
+4.6.13. In limited circumstances it may be appropriate to secure a pre-demolition audit 
+by condition – for example, where there is limited demolition proposed. 
+
+4.7. Bill of Materials 
+
+4.7.1. London Plan Policy SI 7 (B)(2) requires CE statements to demonstrate how a 
+development’s material demands will be reduced and how building materials, 
+components and products will be disassembled and reused at the end of their 
+life. 
+
+4.7.2. Applicants should complete the Bill of Materials table in the CE statement 
+template to demonstrate how material demands have been minimised and on-
+site reuse and recycling maximised.  
+
+4.7.3. Applicants should submit a draft Bill of Materials, based on estimated figures, at 
+outline and full-planning-application stages.  
+
+4.7.4. The template will use this information to: automatically calculate the material 
+and waste quantities throughout the building’s life cycle; and calculate the 
+intensity of these indices, where relevant, using the gross internal area (GIA). 
+The table has links to the WLC assessment; consistent information should be 
+used for both.  
+
+4.7.5. The building weight calculations used in calculating material intensity should be 
+submitted in the written report accompanying the CE statement. 
+
+Recycled content 
+
+4.7.6. Applicants should identify opportunities for the use of reused or recycled 
+materials; and aim for at least 20 per cent recycled or reused content, by value, 
+for the whole building. This target requires both an estimate of the quantities of 
+materials and the capital cost of that material. Appendix 3 provides an example 
+of the recycled content by value calculation from previous guidance from the 
+Waste and Resources Action Programme (WRAP); applicants may find this 
+useful when calculating reused and recycled content by value in the Bill of 
+Materials table. 
+
+4.7.7. In the Bill of Materials table, applicants will be expected to detail how each 
+building element or material type contributes to achieving the recycled content 
+target. When reporting by material type, calculations should focus on those with 
+the highest economic and environmental value. If all materials cannot be 
+accounted for in the calculation, the materials that make up at least 80 per cent 
+of the cost (i.e., 80 per cent by value) should be accounted for.  
+
+4.7.8. Reused and recycled content calculations should be submitted as 
+accompanying supporting evidence. 
+
+26 
+ 
+
+
+
+ 
+
+End-of-life scenarios 
+
+4.7.9. The Bill of Materials should include assumptions on the end-of-life scenarios for 
+each building element or material. Based on the approaches adopted and how 
+the building and its elements have been designed to facilitate reuse or 
+recycling, an end-of-life scenario should be described. For example, ‘assumed 
+90 per cent reusable’, 10 per cent ‘business as usual (BAU)’.  
+
+4.7.10. For any buildings or elements where, after careful consideration, there is no 
+potential to reuse or recycle, and no specific design changes have been made 
+to influence the recoverability of the materials, then the end-of-life scenario 
+should be assumed to be ‘BAU’, using the industry average reuse, recycling, 
+other recovery and disposal rates.29  
+
+4.7.11. The written report element of the CE statement should also set out an end-of-
+life strategy for the development, including how this will be communicated to 
+future building owners, managers and occupiers; and how the building 
+information will be stored, for example, by using Building Information Modelling 
+or material passporting during the building’s life to facilitate disassembly and 
+identify any key challenges. This will support the recovery of components and 
+materials at the end of the life of the building. 
+
+Options for pioneering  
+
+4.7.12. A Pioneering Bill of Materials could include:  
+
+•  reused and recycled content by value (percentage) 
+
+• additional targets for specific parts of the building(s)  
+
+• separate targets for the minimum amounts of reused materials.  
+
+4.7.13. Environmental Product Declarations offer supporting evidence of recycled 
+content, healthy materials, renewable energy used in the manufacturing 
+process, etc. 
+
+4.7.14. A pioneering end-of-life strategy could include, for example, a disassembly plan 
+for each building element or layer; or the specification of materials and products 
+that have been specifically designed for disassembly, or are certified as having 
+met circularity criteria such as Cradle to Cradle (C2C) certification. 
+
+ 
+29 For further information, see section 3.5.4 and table 10 (page 25) of the RICS guidance, Whole life 
+carbon assessment for the built environment (November 2017), or any update. OneClick software uses 
+default end-of-life scenarios. 
+
+27 
+ 
+
+
+
+ 
+
+Post-construction-stage reporting 
+
+4.7.15. Post-construction, an update to the Bill of Materials should be provided based 
+on actual materials used. There will need to be engagement with all parties, 
+including interior designers, suppliers and occupants to collate as-built 
+information and compare against the design-stage assessment, confirming 
+whether targets have been met. 
+
+4.7.16. At post-construction stage, developers are encouraged to submit an updated 
+end-of-life strategy. In addition to updating the relevant sections of the planning 
+stage submission, it could also include: 
+
+• full as-built drawings  
+
+• details of how the building can be disassembled (a deconstruction plan) 
+
+• manufacturers’ warranties, details, and any opportunities to return to 
+manufacturer. 
+
+4.8. Operational waste management plan 
+
+4.8.1. An operational waste management (OWM) plan should be submitted in the 
+written report/appendix to CE statements to demonstrate that the proposed 
+development will: achieve the relevant targets (depending on the operational 
+activity) set out in London Plan Policy SI 7;30 and include shared, adequate, 
+flexible, and easily accessible storage space and collection systems, as 
+required by London Plan policies D3, SI 7 and D6. Applicants should also note 
+that both the 65 per cent municipal waste recycling target by 2030 (as required 
+in London Plan Policy SI 7 and London Environment Strategy Policy 7.2.2) and 
+75 per cent minimum target for business waste recycling by 2030 (as required 
+by London Environment Strategy Policy 7.2.2) may apply depending on the 
+nature of the operations of the building. 
+
+4.8.2. At planning application stage, applicants can submit a draft OWM plan, since 
+some waste information may be estimates as the proposed land uses may not 
+be known at this stage – for example, where the final end use is not defined. 
+The OWM plan should demonstrate: 
+
+• how much operational and municipal waste the proposed development 
+(resulting from occupants) is expected to generate (where the final land use 
+is not known, some scenarios for potential land uses should be provided)31 
+
+ 
+30 See London Plan Policy SI 7 (A) parts 3-5. 
+31 London Plan SI 7 A(4) footnote 163 notes:  
+ 
+ 
+
+28 
+ 
+
+
+
+ 
+
+• how and where (on-site versus offsite) operational waste will be managed in 
+accordance with the waste hierarchy 
+
+• that the proposed development has adequate, flexible, easily accessible 
+and shared storage space and collection systems 
+
+• that the proposed development supports the separate collection of dry 
+recyclables (at least card, paper, mixed plastics, metals and glass), food 
+waste and other waste. 
+
+• how operational performance will be monitored and reported 
+
+• that measures such as consolidated, smart logistics and community-led 
+waste minimisation schemes have been explored. 
+
+4.8.3. The Site Waste or Resource Management Plan(s) and OWM plan should refer 
+to relevant aspects of the Recycling and Waste reporting table (see section 4.9) 
+and the estimates provided should align. 
+
+Options for pioneering  
+
+4.8.4. A pioneering OWM plan could include the following: 
+
+• A Reuse, Recycling and Waste plan and summary, which covers the five 
+different stages of recycling and waste management: occupier separation; 
+occupier deposit points and storage; collection method; servicing 
+(removal/on-site treatment method); end destination; and ongoing 
+monitoring (see  Tower Hamlets Reuse, Recycle and Waste Supplementary 
+Planning Document p75-76 for a template and p80-83 for an example). 
+
+• A Communications Plan detailing how all occupants across the site will be 
+helped to access and use deposit points to reduce, reuse and recycle as 
+much waste as possible. This Communications Plan will include information 
+on how, when and where occupiers should store and deposit recyclables 
+and dispose of waste; what resources and information will be made 
+available (e.g., clear signage, printed and online noticeboards, in-home 
+storage, resident induction); and how the sharing and reuse of materials 
+could be promoted.32 
+
+• An Operations and Maintenance Plan that outlines how on-site systems will 
+be monitored and maintained during the expected life of the development, 
+
+ 
+‘Based on the EU definition of municipal waste being household waste and other waste similar in 
+composition to household waste. This includes business waste collected by local authorities and by the 
+private sector.’ 
+32 For information on writing Communication Plans, see ReLondon’s guidance Making recycling work for 
+people in flats and Toolkit for the Flats Recycling Package (January 2020). 
+ 
+
+29 
+ 
+
+
+
+ 
+
+including parties responsible for maintenance and management of the 
+systems, on-site operations and maintenance, and resident engagement. 
+
+• Evidence that the different parties are aware of their responsibilities.  
+
+Post-construction-stage reporting 
+
+4.8.5. At post-construction stage, developers are encouraged to submit a final OWM 
+plan with updated information. This could indicate how the OWM plan will be 
+updated on an ongoing basis and/or how the building owner (if different) has 
+been involved in developing the plan. 
+
+4.9. Recycling and waste reporting  
+
+4.9.1. London Plan Policy SI 7(B) includes a requirement for CE statements to 
+demonstrate: 
+
+• how all materials arising from demolition and remediation works will be 
+reused and/or recycled 
+
+• opportunities for managing as much waste as possible on site 
+
+• how much waste the proposal is expected to generate 
+
+• how and where the waste will be managed in accordance with the waste 
+hierarchy. 
+
+4.9.2. To comply with London Plan Policy SI 7(B), applicants should complete the 
+Recycling and Waste reporting table in the CE statement template at outline 
+and full planning application stages for module stages A to C (refer to footnote 
+5).  
+
+4.9.3. In terms of where waste will be managed, applicants should distinguish 
+between onsite versus offsite.  
+
+4.9.4. Where a site is large enough, applicants should set out in the supporting 
+evidence (such as the pre-demolition audit) where waste materials arising will 
+be sorted or treated during each phase to maximise the potential for the reuse 
+of materials on-site. For the use stage (Module B – refer to footnote 5), the 
+location of bin storage should be highlighted. 
+
+4.9.5. The Recycling and Waste Reporting table should contain: 
+
+• the overall/total amount of non-hazardous/contaminated waste material 
+arising (tonnes) for excavation, demolition and construction (report 
+separately); if contamination is present, indicate the amount 
+
+30 
+ 
+
+
+
+ 
+
+• non-contaminated material reused on-site (percentage), recycled on-site 
+(percentage), reused off site (percentage) and recycled off-site (percentage)  
+
+• landfill amount (percentage)  
+
+• recovery amount (percentage) 
+
+• clearly defined targets that, as a minimum, meet London Plan policy 
+targets:33 
+
+o 95 per cent reuse/recycling/recovery of construction and demolition 
+waste 
+
+o 95 per cent beneficial use of excavation waste34 
+
+o 65 per cent recycling of municipal waste by 2030. 
+
+4.9.6. In line with London Plan Policy SI 7 (paragraph 9.7.10), where there are no 
+reasonable alternative options but to send waste to landfill, applicants are 
+strongly encouraged to submit evidence to the GLA that all receiving waste 
+handling or landfill facilities have the capacity to deal with the waste over the 
+lifetime of the development.35 This information may be made available through 
+the London Datastore to help plan for future needs. 
+
+4.9.7. The reporting of the final destination of all waste streams (beyond the Materials 
+Recycling Facility) should be provided as soon as possible once a contractor 
+has been appointed.36 If this information is not available at application stage, the 
+local planning authority (LPA) should consider securing this by condition. The 
+table should be updated with the relevant information once the contractors have 
+been appointed.  
+
+4.9.8. During construction, applicants should record the source of all waste arising and 
+monitor using a waste management tool (such as SmartWaste). The end-of-life 
+(and next-life) plan for the elements of the building should be provided with a 
+
+ 
+33 London Plan Policy SI 7 Reducing waste and supporting the CE.  
+34 The stricter definition of ‘landfill’ post-Methley Quarry judgment, and recent changes to the regulatory 
+regime for excavated materials, mean some permitted sites that are defined as ‘landfill’ by the 
+Environment Agency can be included in the definition of ‘beneficial use’ by the GLA. The developer 
+should explain in detail why a proposed site may be regarded as ‘beneficial’ in these circumstances. 
+Every effort should then be made to use the material in other innovative ways, and to find markets for the 
+products produced from it, in accordance with the waste hierarchy, without causing harmful impacts on 
+the natural environment.  
+35 The UK Department for Environment, Food & Rural Affairs Waste Duty of Care Code of Practice (2018) 
+states:  
+ 
+‘You have a responsibility to take all reasonable steps to ensure that when you transfer waste to another 
+waste holder that the waste is managed correctly throughout its complete journey to disposal or recovery.’  
+ 
+36 London Plan Policy SI 7 Reducing waste and supporting the CE, paragraph 9.7.5 
+
+31 
+ 
+
+
+
+ 
+
+calculation of the percentages of waste that can be reused or recycled at end of 
+life.  
+
+4.9.9. At outline and full planning application stages, estimates should be provided for: 
+
+• total waste arising for key streams (tonnes) (for demolition/strip-out, it 
+should be the quantities of waste arising during the replacement and repair 
+of parts of the building) 
+
+• percentage reuse on-site 
+
+• percentage recycled or composted on-site 
+
+• percentage reuse off-site 
+
+• percentage recycled or composted off-site 
+
+• percentage to landfill  
+
+• percentage to recovery 
+
+• for demolition/strip-out and construction, description of design measures to 
+reduce the likely waste arising (to be submitted in supporting document). 
+
+4.9.10. Estimates should align with the Site Waste or Resource Management Plan(s). 
+The waste arising for key streams (t/m2 GIA) will be automatically calculated in 
+the template. Applicants should submit excavation waste or cut and fill 
+calculations in the written report/appendix accompanying the CE statement. 
+
+Options for pioneering 
+
+4.9.11. Applicants are encouraged to go further than meeting the London Plan policy SI 
+7(A) targets, where possible. For example, by committing to percentages for 
+reused materials on-site, setting higher recycled content targets (for example, 
+above 20 per cent for the whole building and/or for individual layers or 
+elements), separating reused and recycled targets, and committing to higher 
+targets than required by policy. 
+
+4.9.12. To evidence pioneering measures, applicants could submit as evidence product 
+Material Circularity Index values and supporting information.37  
+
+ 
+37 The Material Circularity Index gives an indication of the raw material used in a product. The more a 
+product contains recycled or reused materials and the less waste is used the higher the circularity index 
+becomes. 
+
+32 
+ 
+
+
+
+ 
+
+Post-construction-stage reporting 
+
+4.9.13. Post-construction, an update to the Recycling and Waste reporting table should 
+be provided based on actual (demolition, construction, excavation, municipal 
+and industrial) materials handled; and actual amounts and destinations for 
+reused and recycled materials, materials sent to landfill, and materials sent to 
+other management (for example, figures from recycling facilities by recycling 
+percentage). The final destinations of all waste streams (beyond the Materials 
+Recycling Facility) should be provided in a supporting document. It should be 
+confirmed that the ultimate receiver of material (for example another site) had 
+capacity to deal with the waste. 
+
+4.10. Lessons learned and key achievements 
+
+Post-construction-stage reporting 
+
+4.10.1 At post-construction stage, applicants should complete the ‘key achievements’ 
+and ‘lessons learnt’ tables. This should: 
+
+• highlight actual performance against quantitative and qualitative 
+targets/commitments  
+
+• describe reasons for any differences  
+
+• share key learnings that could inform best practice in the future. Lessons 
+learned should include what went well or better than expected, what went 
+wrong, and what could be done differently in the future.  
+
+Options for pioneering 
+
+4.10.2 Analysis could be included of structural issues that have to be addressed to 
+achieve significant CE goals, and ideas or suggested solutions provided.  
+
+  
+
+33 
+ 
+
+
+
+ 
+
+5. Monitoring 
+
+5.1.1. To enable transparency of information and monitoring, post-construction reports 
+and any appendices will be made available to the public through the London 
+Datastore. 
+
+Securing post-construction reports 
+
+5.1.2. The submission of a post-construction report should be secured by LPAs either 
+by condition or obligation. As the LPA approves the discharge of conditions and 
+obligations, it is responsible for verifying that reports have been received for 
+referable applications; and for submitting these to the GLA for review.  
+
+5.1.3. Suggested wording for securing post-construction monitoring reports is 
+available on the GLA’s website.38 This wording may be adapted over time to 
+improve the submission process and ensure it is robust.  
+
+5.1.4. LPAs are free to adapt this wording and/or the mechanisms for securing post-
+construction monitoring reports, provided that these are always submitted to the 
+GLA for referable applications.  
+
+5.1.5. LPAs should check reports to confirm that the minimum information 
+requirements set out in Table 5 (see section 3.1) and Appendix 2 have been 
+met before approving any conditions or obligations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+38 Circular Economy Statement conditions  
+
+34 
+ 
+
+
+
+ 
+
+Appendix 1: Application flowchart 
+
+The below steps represent RIBA Design Stages 0-7 
+
+Pre-application stage 
+
+Initial pre-application discussions and workshop(s) with design team to agree 
+approaches 
+
+ 
+
+Circular Economy (CE) goals, design approaches and draft commitments established 
+
+For large-scale multi-phase or masterplan-led schemes, the CE statement should focus 
+on reuse opportunities on-site and across broader area 
+
+CE statement prepared and presented to the LPA and/or the GLA for comments 
+
+ 
+For outline and detailed applications, the information listed in Table 5 (page 17), 
+
+including the Bill of Materials and Recycling and Waste Reporting tables, will need to be 
+completed in the CE statement 
+
+ 
+
+ 
+
+Application submission 
+
+ 
+Outline (RIBA Stages 0-2), detailed and hybrid applications: 
+
+CE statement submitted including Bill of Materials and Recycling and Waste Reporting 
+tables 
+
+Applicants provide appendices to support the information in the CE statement 
+
+ 
+
+35 
+ 
+
+
+
+ 
+
+Application and decision-making stage (RIBA Stages 2-3) 
+
+ The CE statement will be reviewed by the GLA against criteria in London Plan Policy 
+SI 7 and CE Statements LPG and comments will be provided 
+
+Amendments submitted 
+
+Do they comply with policy and guidance? 
+
+ 
+Further 
+
+Yes No 
+amendments made 
+
+  
+ 
+
+Conditions/obligations 
+The LPA should secure 
+
+ For outline applications: the LPA should 
+the submission of a 
+
+secure a condition requiring a CE 
+post-construction report 
+
+statement with the Reserved Matters 
+ 
+
+ 
+If the applicat ion is phased, then a post-construction report should 
+
+be provided prior to the occupation/operation of each phase 
+ 
+
+ 
+  
+
+ 
+
+ Reserved matters/prior to commencement 
+
+ CE statement submitted by the applicant to be 
+reviewed and approved by the LPA 
+
+ 
+
+Post-construction, prior to occupation/operation  (RIBA stages 4-7) 
+
+ Post-construction report completed ( confirming targets achieved) and submitted to the 
+GLA at circulareconomystatements@london.gov.uk  
+
+ 
+Confirmation of submission to the GLA provided by the applicant to the Council and 
+
+approved in writing 
+
+ 
+Post-construction report made available to view on London Datastore 
+
+ 
+CE statement stored as part of project documentation and updated with any future 
+
+revisions to the development 
+
+ 
+
+36 
+ 
+
+
+
+ 
+
+Appendix 2: Essential elements of Circular Economy 
+statements 
+
+CE statement requirement from Policy SI How this should be demonstrated 
+7(B) 
+ 
+How all materials arising from demolition Pre-demolition audit (see section 4.6)* 
+and remediation works will be reused and/or  
+recycled. Recycling and waste reporting, targeting 100 
+
+per cent reuse or recycling (see section 4.9) 
+How the proposal’s design and construction CE design approaches (see sections 2.3 – 
+will reduce material demands and enable 2.5and 4.3) 
+building materials, components and  
+products to be disassembled and reused at Bill of Materials (see section 4.7) 
+the end of their useful life.  
+
+End-of-life strategy (see section 4.7)* 
+ 
+CE design principles (see section 2.1 and 4.4) 
+ 
+CE design principles by building layer (see 
+section 4.5) 
+ 
+CE targets (see section 4.2) 
+
+Opportunities for managing as much Pre-demolition audit (see section 4.6)* 
+demolition, excavation, construction, and  
+operation waste as possible on-site. Bill of Materials targeting recycled and reused 
+
+content (see section 4.7) 
+ 
+Recycling and waste reporting maximising on-
+site management (see section 4.9) 
+
+Adequate and easily accessible storage Operational waste management plan (see 
+space and collection systems to support section 4.8)* 
+recycling and reuse during operation. 
+How much waste the demolition, Recycling and waste reporting (see section 
+construction and operation phase of the 4.9) 
+proposal is expected to generate, and how  
+and where the waste will be managed in Operational waste management plan (see 
+accordance with the waste hierarchy.  section 4.8)* 
+How performance will be monitored and CE targets (see section 4.2) 
+reported, during the demolition, excavation,  
+construction, and operation phases. Operational waste management plan (see 
+
+section 4.8)* 
+
+* To be submitted in separate written report 
+
+37 
+ 
+
+
+
+ 
+
+Appendix 3: Recycled content by value example calculation 
+
+Recycled content by value is a function of the material value of a component, the 
+quantity used and the percentage of the component by mass that is derived from 
+recycled content. Thus, if a material costs £100 per m2 and has 20 per cent recycled 
+content by mass, the recycled content by value of 10m2 would be:  
+
+£100 (per m2) x 10 (m2) x 20 per cent = £200 
+
+By summing the recycled content by value of all the components of a building and 
+dividing this by the total material value of all the components in the building, it is 
+possible to estimate the total percentage recycled content by value for the building, or 
+for an element (or layer) of the building. 
+
+Table 1 and the note below (an extract from previous WRAP guidance39) provides an 
+example of how recycled content by value would be calculated for a whole building.  
+
+Table 1: Recycled content by value example calculation 
+
+Component Quantity Material rate Material Recycled Recycled 
+(excluding value content content by 
+labour) by mass value 
+
+Bricks 2,000 £250/1000 £500 15% £75 
+Dense 50m2 £8m2 £400 50% £200 
+blocks 
+Plasterboard 50m2 £2m2 £100 80% £80 
+Insulation 20m2 £10m2 £200 80% £160 
+Type I fill* 100m3 £10m3 £1,000 100%* £1000 
+Other items   £2,000 0% £0 
+Total (£)   £4,200  £1,515 
+Total (%)     36% 
+
+(£1,515/£4,200) 
+ 
+
+Note * in this example, the Type I fill used in the project is from reused demolition 
+waste; it is therefore considered to be 100% ‘recycled’ and its costs is taken as being 
+equal to the purchase price of an equivalent quantity of product from the open market. 
+(units and prices are purely illustrative) 
+
+ 
+
+ 
+
+ 
+
+ 
+39 Delivering Higher Recycled Content in Construction Projects – Guidance for clients, design teams and 
+contractors (September 2009). 
+
+38 
+ 
+
+
+
+ 
+
+Appendix 4: Analysis of data collected to date for key 
+Circular Economy statement metrics 
+
+Table 2 below provides the results of an analysis of the data collected for all Circular 
+Economy (CE) statements submitted up to and including January 2022. The table 
+shows the upper, median and lower quartile figures for all key CE metrics, along with 
+the sample size for each metric. This data can be used for comparison and it is 
+expected that applications will tend towards the median and lower quartile figures in the 
+future. 
+
+Table 2. CE statements: valid data from applications reviewed 2020-22  
+
+Measure Upper Lower Sample 
+Metric Median 
+
+quartile quartile size 
+Demolition waste tonnes/m2 
+
+0.958 0.480 0.138 48 
+arisings  GIA 
+Excavation waste tonnes/m2 
+
+0.770 0.410 0.150 47 
+arisings  GIA 
+Construction tonnes/m2 
+
+0.113 0.093 0.065 56 
+waste arisings  GIA 
+Municipal waste  tonnes/m2 
+
+GIA 0.080 0.031 0.014 31 
+(annum) 
+Kg/m2 for 
+
+Foundations 
+each 907.73 572.5 222.51 77 
+
+ 
+element 
+
+Frame Kg/m2 for 
+ each 368.89 208.04 92.38 70 
+
+element 
+Upper floors Kg/m2 for 
+ each 702.27 542.33 294.75 72 
+
+element 
+Roof Kg/m2 for 
+ each 77.09 42.37 17.52 63 
+
+element 
+Fabric Kg/m2 for 
+ each 192.48 102.00 42.29 78 
+
+element 
+Partition Kg/m2 for 
+ each 118.37 60.22 18.05 75 
+
+element 
+ 
+
+ 
+
+ 
+
+39 
+ 
+
+
+
+ 
+
+Table 3. BREEAM construction waste benchmarks  
+
+BREEAM credit 
+
+No. of credits  Tonnes/m2 
+
+1 ≤ 0.110 
+
+2 ≤ 0.065 
+
+3 ≤ 0.032 
+
+Exemplary ≤ 0.019 
+ 
+
+Table 4. Home Quality Mark (HQM) construction waste benchmarks  
+
+HQM credit allocation 
+
+ 
+No. of credits  Tonnes/m2 
+
+ 
+2 ≤ 0.085 
+
+4 ≤ 0.049  
+
+6 ≤ 0.029  
+8 ≤ 0.019 
+
+ 
+
+ 
+
+ 
+
+40

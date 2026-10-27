@@ -1,0 +1,1039 @@
+﻿Greater London Authority - Circular Economy Statement template 
+
+How to use this spreadsheet
+
+This template should be used by planning applicants to fulfil the requirements of the Mayor's Circular 
+Economy (CE) Statement policy set out in London Plan Policy SI 7 'Reducing waste and supporting the 
+Circular Economy’. Before completing and submitting this spreadsheet to the GLA, applicants should read 
+the CE statement guidance: https://www.london.gov.uk/what-we-do/planning/implementing-london-
+plan/london-plan-guidance-and-spgs/circular-economy-statement-guidance-consultation-draft 
+
+Applicant are required to submit CE statement information to the GLA at the following three stages: pre-
+applicaton, outline/detailed planning submission and post-construction. Separate tabs are provided in this 
+spreadsheet for each stage. An outline of the information required at each stage and how to submit it is 
+provided below. Please enter information to the light yellow-coloured cells only, do not enter information in 
+the grey cells as these will be automatically calculated. The light green-coloured cells should be 
+completed to achieve 'pioneering' status.
+
+1. Pre-application stage
+At pre-application stage, applicants are required to complete the pre-application information tab of this 
+template which requires applicants to confirm details about the site and to provide details of the circular 
+economy design approaches that are informing the existing and new development (including by building 
+layer for the latter). All tables should be completed. This should be submitted to the GLA along with all 
+other pre-application material.
+
+2. Outline/detailed planning submission stage
+At this stage, applicants are required to complete the outline or detailed planning stage tab of this 
+template (whichever is relevant) and submit it to the GLA along with their planning application. Applicants 
+are required to complete all tables, including the Bill of Materials and Recycling and Waste Reporting 
+tables. Please enter information to the light yellow-coloured cells only, do not enter information in the grey 
+cells as these will be automatically calculated. The light green-coloured cells should be completed to 
+achieve 'pioneering' status.
+
+3. Post-construction stage
+At the final stage of the CE statement process, applicants should complete the post-construction tab of 
+this template and submit it to the GLA within three months of practical completion. This will require an 
+update of the information provided at planning submission stage and for the actual figures to be reported 
+using actual material quantities during construction. Information should be submitted to: 
+circulareconomystatements@london.gov.uk   
+
+Queries
+Any queries or feedback on this template should be submitted to:
+circulareconomystatements@london.gov.uk
+
+Full 
+Information Reference (Please indicate whether this has been 
+
+Pre-application Outline application / Post-
+Requirement by application stage (see relevant section of guidance for more information) Checklist included in the report to accompany this template or as a separate 
+
+stage (suggested) application[1] reserved construction
+submission)
+
+matters[2]
+Yes 
+
+CE targets (see section 4.2) Encouraged Yes Yes  (Performance Evidence in CES template spreadsheet
+reported)
+
+CE design approaches (see sections 2.3 - 2.5 and 4.3) Yes Yes Yes N/A Evidence in CES template spreadsheet
+
+CE design principles (see sections 2.1, 4.4 - 4.5) Yes No No No Evidence in CES template spreadsheet
+CE design principles by building layer (see sections 4.5) No Yes Yes No Evidence in CES template spreadsheet
+Pre-redevelopment audit (see section 4.6) Encouraged Yes Yes N/A
+Pre-demolition audit (see section 4.6) Encouraged Yes Yes N/A
+
+Bill of materials (including calculations – see section 4.7) No Yes (Estimated) Yes (Estimated) Yes (Actual) Evidence in CES template spreadsheet
+
+End of life strategy (see section 4.7) No No Yes Encouraged
+Operational waste management plan (see section 4.8) No No Yes Encouraged
+
+Recycling and waste reporting (see Section 4.9) No Yes (Estimated) Yes (Estimated) Yes (Actual) Evidence in CES template spreadsheet
+
+Lessons learnt and key achievements (see section 4.10) N/A N/A N/A Yes Evidence in CES template spreadsheet
+
+[1] Also applicable to the outline and detailed part of hybrid applications.
+
+
+
+[2] Also applicable to the outline and detailed part of hybrid applications.
+
+
+
+Pre-Application Stage - Circular Economy Statement
+
+Project details
+Project name 14 Blackburn Road
+
+Planning application reference number (if applicable)
+
+Hampstead Asset Management Ltd (‘HAML’) and Builder Depot Limited 
+Applicant
+
+(‘BDL’) 
+London Borough Camden
+
+Full planning permission is sought for the following description of 
+development (herein ‘the Proposed Development’):
+
+The erection of three floors of commercial floorspace (Use Class Eg), 
+together with cycle parking, and associated works.
+
+A section 73 application to the full planning application is submitted in 
+tandem.  The Section 73 application seeks amendments to the 
+implemented application allowing for the new floors to ‘drop in’ above the 
+implemented scheme.  The description of development for the Section 
+
+Brief description of the project
+73is as follows:
+
+“Variation of Condition 2 (approved plans) pursuant to planning 
+permission [PWX0202103] dated 06.01.2004 for Redevelopment of 
+whole site by the erection of a 4 storey eastern block comprising two 
+Class B8 and eight Class B1 units with associated service yard, together 
+with a 4 storey plus basement western block comprising 8 
+dwellinghouses and 6 self-contained flats with associated underground 
+car parking.  Changes include: revisions to ground floor elevation and 
+roof plan.”
+
+Author/s IN2
+Date of assessment 22.03.2023
+Number of Use Types 1
+
+Use Class / Type Floor Area by use type (m2)
+9126
+
+Overall GIA (m2) 9126.00
+
+Circular Economy Design Approaches
+Circular Economy Design Approaches for Existing Structures / Buildings Applicant Response
+Is there an existing building on the site? Yes
+
+No
+Is it technically feasible to retain the building(s) in whole or in part?
+Is it technically feasible to recover the 'residual value' of the buildings elements or Yes
+materials?
+
+The preferred strategy is: NEW BUILDING
+
+The preferred strategy is: DISASSEMBLE/DECONSTRUCT AND REUSE
+
+Circular Economy 
+Phase / Building / Area / Layer
+
+Design Approach Strategic Response
+Existing building is of poor quality and is not suitable for retention for use in the 
+
+Retain and Retrofit N/A
+redevelopment.
+
+Reconstruct N/A N/A
+
+A pre demolition audit will be carried out to determine if any elements of the 
+existing structure are fit for reuse in the redevelopment. Any recommendations for 
+
+Disassemble All Layers
+reuse in the pre demolition audit will be carried forward with materials being 
+reused.
+
+Any materials deemed not appropriate for reuse will be recycled where possible. 
+Demolish and Recycle All Layers Only as a worst case scenario will material be sent to landfill. Targets are set for 
+
+95% of demolition and excavation waste to be diverted from landfill.
+
+Circular Economy Design Approaches for New Buildings, Infrastructure and LayersA pOpvleicratnhteRLeifseptiomnes eof the Development
+Is the whole building designed to have a short life on its current site? (e.g. less than No
+10 yrs)
+Is it foreseeable that the building will need to change use/function within its design No
+life?
+All developments should apply the 6 Circular Economy principles, including: Designing for DISASSEMBLY and ADAPTABILITY, MATERIAL REUSE 
+
+ON-SITE and/or RECYCLING should be maximised
+Circular Economy 
+
+Phase / Building / Area / Layer
+Design Approach Strategic Response
+
+Due to the scale of the project building relocation is not currently being 
+All Layers
+
+considered however this can be discussed further in CE workshops.
+
+Building relocation
+
+A pre demolition audit will be undertaken to consider the feasibility of reusing 
+any demolitoon or excavation waste. The design will consider new materials 
+
+All Layers with recycled content for example cement with up to 25% GGBS content 
+where feasible.These options will be further explored at the next design stage 
+
+Component or material and the CES will include details of materials with recycled content included.
+
+reuse
+
+Ground floor industrial unit will be flexible and will be able to change use 
+All Layers
+
+without major renovation.
+
+Adaptability
+
+
+
+Ground floor industrial unit will be flexible and will be able to change use 
+All Layers
+
+without major renovation. .
+
+Flexibility
+
+Standard materials and material sizes will be used where possible so that 
+All Layers replacements are easily sourced. M+E services will be designed so that singl 
+
+parts can be replaced without the need to change the whole system.
+
+Replaceability
+
+Where possible constructions will be designed to be dismantled as 
+"Shell/Skin", "Services" and "stuff" constructed for potential reuse. M+E services will be designed for easy 
+
+maintenance to avoid the need for replacement of whole systems.
+
+Disassembly
+
+LCA will be carried out against a 60 year life expectancy. All services and materials will be 
+designed to meet this life expectancy where feasible. If it is not possible for the material 
+
+All Layers specified to have a lifespan similar to that of the devlopment then the design will 
+incorporate measure for ease of replacement and materials used should be recyclable 
+where possible.
+
+Longevity
+
+Circular Economy Design Principles
+
+Design Principle
+
+Phase / Building / Area / Layer Design Response
+
+A sustainable waste management plan will be produced and a target of 95% diversion of construction waste 
+from landfill will be set.The main contractor will be responsible for monitoring progress against this target. 
+
+All Building Layers When sourcing products just in time delivery will be used when feasible to prevent wastage of materials and 
+where possible comapnies will remove their own packaging when delivering to site to reduce onsite waste 
+and promote the use of reusable packaging.
+
+Module A - Product Sourcing and Construction Stage
+
+Module B - In-Use Stage "Space" Appropriate space will be provided on site for the segragation of waste into appropriate waste streams.
+
+Designing out waste
+
+When carrying out WLC assesment focus will be placed the end of life option for materials selected. Priority 
+will be given to materials which can be reused or recycled at end of life. Full details of the end of life state of 
+all materials will be avaialble in the circular economy statement at planning. This will result in less waste 
+
+Module C - End-of-Life Stage All Building Layers going to landfill at the end of the buildings lifespan.
+
+Full details of module D of the WLC assesment will be available at planning stage. This will give a detailed 
+breakdown of all benefits of the site beyond the system boundary. A discussed in the end of life stage 
+
+Module D - Benefits and Loads Beyond the System Boundary All building layers section materials which can be reused/recycled at end of life will be given priority.
+
+Designing for longevity LCA will be carried out against a 60 year life expectancy. All services and materials will be designed to meet 
+this life expectancy where feasible. If it is not possible for the material specified to have a lifespan similar to 
+that of the devlopment then the design will incorporate measure for ease of replacement and materials used 
+
+All Building Layers should be recyclable where possible.
+
+Designing for adaptability or flexibility
+
+"Space" Ground floor industrial unit will be flexible and will be able to change use without major renovation. 
+It will be discussed at the next design stage and in the CE workshops the possibility of installing unitised 
+bathroom and kitchens resulting in ease of dissassembly for reuse or replacement where necessary. M+E 
+
+Designing for disassembly
+services will be designed for disassembly so parts can be replaced without the need for replacing the whole 
+
+"Stuff" and "Services" system.
+
+When carrying out WLC assesment focus will be placed the end of life option for materials selected. Priority 
+Using systems, elements or materials that can be re-used and recycled
+
+will be given to materials which can be reused or recycled at end of life. Full details of the end of life state of 
+All Building Layers all materials will be avaialble in the circular economy statement at planning.
+
+Circular Economy Targets
+Circular economy targets for existing and new development Policy Requirement Target Aiming For (%) Policy Met?
+
+Demolition waste materials (non-hazardous) Minimum of 95% diverted from landfill for reuse, recycling or recovery. 95% Yes
+
+Excavation waste materials Minimum of 95% diverted from landfill for beneficial reuse. 95% Yes
+
+Construction waste materials Minimum of 95% diverted from landfill for reuse, recycling or recovery. 95% Yes
+
+
+
+Municipal waste Minimum 65% recycling rate by 2030. 65% Yes
+
+Recycled content Minimum 20% of the building material elements to be comprised of recycled or 20% Yes
+reused content.
+
+
+
+Outline Application Stage - Circular Economy Statement
+
+Project details
+Project name
+Planning application reference number (if 
+applicable)
+Applicant
+London Borough
+Brief description of the project
+Author/s
+Date of assessment
+Number of Use Types
+Use Class / Type Floor Area by use type (m2)
+Use Class / Type 1 Use Class / Type 1 GIA
+Overall GIA (m2) 0.00
+
+Circular Economy Design Approaches
+Circular Economy Design Approaches for Existing Structures / Buildings Applicant Response
+Is there an existing building on the site?
+Circular Economy 
+
+Phase/Building/Area/Layer
+Design Approach Strategic Response
+
+Refurbish
+
+Repurpose
+
+Disassemble / 
+Deconstruct and Reuse
+Demolish / 
+Deconstruct and 
+Recycle
+Circular Economy Design Approaches for New Buildings, Infrastructure and Layers AOpvpelri ctahnetLRifeestipmonesoef the Development
+Is the whole building designed to have a short life on its current site? (e.g. less 
+than 10 yrs)
+Circular Economy 
+
+Phase/Building/Area/Layer
+Design Approach Strategic Response
+
+Building relocation
+Component or material 
+reuse
+
+Adaptability
+
+Flexibility
+
+Replaceability
+
+Disassembly
+
+Longevity
+
+Circular Economy Design Principles by Building Layer
+The Circular Economy Commitments table should consider where the Applicant seeks to go beyond standard practice. If there are multiple phases / buildings / areas with different measures / strategies, please specify these separately within the table below.
+
+Building Layer
+Site Substructure Superstructure Shell/Skin Services Space Stuff Construction Stuff Summary Challenges Actions & Counter-Actions, Who and When Plan to Prove and Quantify
+
+1. Is it likely the layer (or components within it) will need to be moved or otherwise modified within 5-15 years, e.g. due to changing use patterns or user requirements? N/A N/A
+2. Is it likely the layer (or components within it) will need to be changed, upgraded or replaced within 5-15 years, e.g. for improved performance, aesthetics N/A N/A
+The preferred strategy is: - -
+
+Design Principles All developments should apply the 6 circular economy principles, including designing for DISASSEMBLY and ADAPTABILITY, MATERIAL REUSE ON-SITE and/or RECYCLING should be maximised.
+Module A - Product Sourcing and Construction Stage
+
+Designing out waste Module B - In-Use Stage
+Module C - End-of-Life Stage
+Module D - Benefits and Loads Beyond the System Boundary
+
+Designing for longevity
+
+Designing for adaptability or flexibility
+
+Designing for disassembly
+
+Using systems, elements or materials that can be re-used and recycled
+
+Bill of Materials
+Please click the + symbol to the left hand side of the Bill of Materials table to view or hide the input rows for each Building Element Category. The rows for substructure and frame have been unhidden to highlight this.
+
+BUILDING ELEMENT CATEGORY -  LEVEL 1 (based on the RICS New Rules of
+Measurement (NRM) classification system level 2 sub-elements https://www.rics.org/globalassets/rics-
+
+PRODUCT AND CONSTRUCTION STAGE (MODULE A) USE STAGE (MODULE B) END OF LIFE STAGE (MODULE C) BENEFITS BEYOND THE SYSTEM BOUNDARY (MODULE D)
+website/media/products/data-products/bcis-construction/bcis-elemental-standard-form-cost-analysis-4th-nrm-edition-
+
+2012.pdf)
+
+Estimated 
+Material quantity Material intensity Construction Waste Repair and Replacement quantities of materials Construction Waste Assumed End of Estimated reusable Estimated 
+
+Building Element Category Recycled Content Recycled Content Expected Lifespan Number of Replacements (over assumed 60-year 
+Material Type (Module A) (Module A) Construction Waste Factor Construction Waste Factor Design for Estimated reusable recyclable 
+
+Performance Indicator (LPG Appendix 1) (Module A) (Module B) (Module B) Life Scenario % Reusing % Recycling % Landfill materials intensity recyclable 
+(Module A) by mass (kg) by value (%) (years) period) (Module B) Disassembly materials (kg) materials intensity
+
+(kg) (kg/m2 GIA) (kg)  (kg) (kg) (Description) (kg/m2 GIA) materials (kg)
+(kg/m2 GIA)
+
+0.1 Demolition: Toxic/Hazardous/Contaminated Material Treatment - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0.2 Major Demolition Works - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0.3 Temporary Support to Adjacent Structures - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0.4 Specialist Ground Works - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+1 Substructure - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+
+1 Substructure 0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+
+2.1 Superstructure: Frame - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+
+2.1 Superstructure: Frame 0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+
+2.2 Superstructure: Upper Floors - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.3 Superstructure: Roof - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.4 Superstructure: Stairs and Ramps - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.5 Superstructure: External Walls - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.6 Superstructure: Windows and External Doors - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.7 Superstructure: Internal Walls and Partitions - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.8 Superstructure: Internal Doors - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+3 Finishes - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+4 Fittings, furnishings & equipment (FFE) - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+5 Services (MEP) - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+6 Prefabricated Buildings and Building Units - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+7 Work to Existing Building - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+8 External works - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+
+Overall 0 0 0 0 0 0% 0% 100% 0 0 0 0
+
+Recycling and Waste Reporting table
+The light green-coloured cells should be completed to achieve 'pioneering' status.
+
+TOTAL ESTIMATES OF WASTE WASTE MANAGEMENT ROUTES SUMMARY
+
+REUSE RECYCLE OTHER DISPOSAL
+
+Overall Waste Overall Waste
+Performance Indicator (LPG Appendix 1) Total Reuse (%) Total Recycle (%) Total Reuse and Recycle (%) Total Waste Reported (%)
+
+Type of Waste Source of Information (tonnes) (tonnes/m2 GIA)
+Reuse Onsite (%) Reuse Offsite (%) Recycle Onsite(%) Recycle Offsite (%) To Landfill (%) To Other Management (%)
+
+PRODUCT AND CONSTRUCTION STAGE (MODULE A)
+
+1 Demolition Waste 0.000 0% 0% 0% 0%
+2 Excavation Waste 0.000 0% 0% 0% 0%
+3 Construction Waste 0.000 0% 0% 0% 0%
+
+USE STAGE (MODULE B)
+
+3 Demolition / Strip-out Waste 0 0.000 - 0% 0% 0% 0%
+4 Construction Waste 0 0.000 - 0% 0% 0% 0%
+
+Overall Waste (tonnes/annum
+Overall Waste (tonnes/annum) Performance Indicator (LPG Appendix 1) Reuse Onsite (%) Reuse Offsite (%) Recycle Offsite(%) Recycle Offsite (%) To Landfill (%) To Other Management (%) Total Reuse (%) Total Recycle (%) Total Reuse and Recycle (%) Total Waste Reported (%)
+
+/m2)
+5 Municipal Waste 0.000 0% 0% 0% 0%
+6 Industrial Waste (if applicable) - - 0% 0% 0% 0%
+
+MODULE A - MODULE C
+
+Overall Materials Overall Materials (Modules A-C) (tonnes
+- Reuse Onsite (%) Reuse Offsite (%) Recycle Offsite(%) Recycle Offsite (%) To Landfill (%) To Other Management (%) Total Reuse (%) Total Recycle (%) Total Reuse and Recycle (%) Total Waste Reported (%)
+
+(tonnes) /m2)
+
+7 Total Materials 0 0.000 - 0% 0% 0% 0%
+
+Circular Economy Targets
+Circular economy targets for existing and new development Policy Requirement Target Aiming For (%) Policy Met? Explanation (How will performance against this metric be secured through design, implementation and monitoring?)
+
+Demolition waste materials (non-hazardous) Minimum of 95% diverted from landfill for reuse, recycling or recovery. Yes
+95%
+
+Excavation waste materials Minimum of 95% diverted from landfill for beneficial reuse. Yes
+95%
+
+Construction waste materials Minimum of 95% diverted from landfill for reuse, recycling or recovery. Yes
+95%
+
+Municipal waste Minimum 65% recycling rate by 2030. Yes
+65%
+
+Recycled content Minimum 20% of the building material elements to be comprised of recycled or Yes
+reused content.
+
+20%
+Additional requirements Policy Requirement Please acknowledge acceptance for a planning condition Please set out an indicative timescale and responsible party for the provision of this information
+
+A condition will be attached to an approval of a referable outline 
+planning permission, securing the submission of a CE Statement as a 
+
+Reserved Matters Reporting reserved matter. Applications for reserved matters will be required to 
+review and address the information provided at outline stage and 
+update any default values used as far as possible. 
+
+
+
+Detailed Application Stage - Circular Economy Statement
+
+Project details
+Project name 14 Blackburn Road
+Planning application reference number (if 
+applicable)
+
+Applicant Hampstead Asset Management Ltd (‘HAML’) and Builder Depot Limited (‘BDL’) 
+
+London Borough Camden
+Full planning permission is sought for the following description of development 
+(herein ‘the Proposed Development’):
+
+The erection of three floors of commercial floorspace (Use Class Eg), together 
+Brief description of the project
+
+with cycle parking, and associated works.
+
+A section 73 application to the full planning application is submitted in tandem.  
+The Section 73 application seeks amendments to the implemented application 
+
+Author/s IN2
+Date of assessment 22.03.2023
+Number of Use Types 1
+
+Use Class / Type Floor Area by use type (m2)
+9126
+
+Overall GIA (m2) 9126.00
+
+Circular Economy Design Approaches
+Circular Economy Design Approaches for Existing Structures / Buildings Applicant Response
+Is there an existing building on the site? Yes
+
+Yes
+Is it technically feasible to retain the building(s) in whole or in part?
+Is the existing building, or parts of the building, suited to the requirements for the No
+site?
+Is it technically feasible to recover the 'residual value' of the buildings elements or Yes
+materials?
+The preferred strategy is: NEW BUILDING
+
+The preferred strategy is: DISASSEMBLE/DECONSTRUCT AND REUSE
+
+Circular Economy 
+Phase/Building/Area/Layer
+
+Design Approach Strategic Response
+Existing building is of poor quality and is not suitable for retention for use in the 
+
+Refurbish N/A
+redevelopment.
+
+Repurpose N/A N/A
+
+A pre demolition audit will be carried out to determine if any elements of the 
+Disassemble / existing structure are fit for reuse in the redevelopment. Any recommendations 
+
+All Layers
+Deconstruct and Reuse for reuse in the pre demolition audit will be carried forward with materials being 
+
+reused.
+
+Any materials deemed not appropriate for reuse will be recycled where possible. 
+Demolish / Deconstruct 
+
+All Layers Only as a worst case scenario will material be sent to landfill. Targets are set for 
+and Recycle
+
+95% of demolition and excavation waste to be diverted from landfill.
+
+Circular Economy Design Approaches for New Buildings, Infrastructure and Layers AOpvpelri ctahnetLRifeestipmonesoef the Development
+Is the whole building designed to have a short life on its current site? (e.g. less No
+than 10 yrs)
+Is it foreseeable that the building will need to change use/function within its design No
+life?
+All developments should apply the 6 Circular Economy principles, including: Designing for DISASSEMBLY and ADAPTABILITY, MATERIAL 
+
+REUSE ON-SITE and/or RECYCLING should be maximised
+Circular Economy 
+
+Phase/Building/Area/Layer
+Design Approach Strategic Response
+
+Due to the scale of the project building relocation is not currently being 
+All Layers
+
+Building relocation considered.
+
+A pre demolition audit will be undertaken to consider the feasibility of 
+reusing any demolitoon or excavation waste. The design will consider 
+
+All Layers new materials with recycled content for example cement with  GGBS 
+content where feasible.These options will be further explored at the next 
+
+Component or material design stage.
+reuse
+
+Ground floor industrial unit will be flexible and will be able to change use 
+All Layers
+
+without major renovation. 
+
+Adaptability
+
+Ground floor industrial unit will be flexible and will be able to change use 
+All Layers
+
+without major renovation.
+
+Flexibility
+Standard materials and material sizes will be used where possible so 
+
+All Layers that replacements are easily sourced. M+E services will be designed so 
+that singl parts can be replaced without the need to change the whole 
+
+Replaceability system.
+Where possible constructions will be designed to be dismantled as 
+
+"Shell/Skin", "Services" and "stuff" constructed for potential reuse. M+E services will be designed for easy 
+
+Disassembly maintenance to avoid the need for replacement of whole systems.
+
+LCA will be carried out against a 60 year life expectancy. All services and materials 
+will be designed to meet this life expectancy where feasible. If it is not possible for 
+
+All Layers the material specified to have a lifespan similar to that of the devlopment then 
+the design will incorporate measure for ease of replacement and materials used 
+
+Longevity should be recyclable where possible.
+
+Circular Economy Design Principles by Building Layer
+The Circular Economy Commitments table should consider where the Applicant seeks to go beyond standard practice. If there are multiple phases / buildings / areas with different measures / strategies, please specify these separately within the table below.
+
+Building Layer
+Site Substructure Superstructure Shell/Skin Services Space Stuff Construction Stuff Summary Challenges Actions & Counter-Actions, Who and When Plan to Prove and Quantify
+
+Is it likely the layer (or components within it) will need to be moved or otherwise modified within 5-15 years, e.g. due to changing use patterns or user requirements? N/A N/A
+Is it likely the layer (or components within it) will need to be changed, upgraded or replaced within 5-15 years, e.g. for improved performance, aesthetics N/A N/A
+The preferred strategy is: - -
+
+Design Principles All developments should apply the 6 circular economy principles, including designing for DISASSEMBLY and ADAPTABILITY, MATERIAL REUSE ON-SITE and/or RECYCLING should be maximised.
+
+Foundations and groundworks excavated during Larger pack sizes to be ordered to reduce total 
+Where possible pre-fabricated elements of façade will M+E service providers to be made responsible for their Space will be set aside for the storage of construction 
+
+N/A demolition will be reused on site where possible and N/A To be considered as part of tenant fit out. packaging waste.Contractor will be responsible for a Range of measure to  reduce waste throughout the constrTuoc tbioen  rpehvaiesweewdaosntec ethcronutgrhaoctuotrt hiseacpopnosintrtuecdt.ion phase Main contractor to monitor and ensure waste managemenMt paliann c oisn tbraecitnogr ifso sllaotwisefiedd. that waste management plan has been followed
+be specified. own waste to promote reusable packaging. waste.
+
+Module A - Product Sourcing and Construction Stage reused elsewhere otherwise where feasible. site waste management plan to reduce waste but also 
+to segregate to aid recycling and reuse.
+
+Services to have a long service life to limit Space to be provided on site for the segregation of 
+Module B - In-Use Stage N/A N/A N/A N/A To be considered as part of tenant fit out. N/A Design to ensure appropriate space for segregation of waPstreo visidpinrgovaidedq utoa tper esvpeancteuin naecoenssvaernyieunst eloocfaltaionndfill Architecht to provide space for segregation of watse Site plans to confirm space for segregation of watse provided
+
+Designing out waste replacements waste streams.
+Substructure to be long lasting lending itself to be Superstructure to be long lasting lending itself to be Nuts and bolts etc used to allow for adaptabiliy can be 
+
+N/A potentially reused at end-of-life stage of the potentially reused at end-of-life stage of the N/A N/A N/A To be considered as part of tenant fit out. Vast majority of building materials can be recycled at end CofolsifteI mrepdliuccaitniogntshe need for landfill WLC and CES studies to be carried out to ensure recyclinWg LaCt  aenndd C oESf slitfeat eism menatx qimuaisnetidfy materials which can be recycled at end of life
+Module C - End-of-Life Stage recovered and reued at end of life.
+
+development. development.
+Substructure to be long lasting lending itself to be Where feasible frame will be disassembled with beams 
+
+N/A potentially reused at end-of-life stage of the and columns being graded at end of life for possible Bricks to be reused where feasible at end of life. N/A N/A To be considered as part of tenant fit out. N/A Frame to be reused where possible after the end fo the deCvoeslot pImpelnictast iuosnesful life CES statement to include section on building end of life plCaEnS statement includes section detailing end of life strategy of all materials
+Module D - Benefits and Loads Beyond the System Boundary development. reuse
+
+Substructure to be long lasting lending itself to be Superstructure to be long lasting lending itself to be M+E services will be designed to be long lasting but 
+Designing for longevity Standard material sizes and components to be used to 
+
+N/A potentially reused at end-of-life stage of the potentially reused at end-of-life stage of the where service life cannot meet building lifespan a N/A To be considered as part of tenant fit out. N/A Building elements to be long lasting in order to reduce theCnoesetdImfoprl irceaptiloancsement during buildings lifespan Sustainable procurement plan Sustainable procurement plan to take into account component lifespan in order to aid in ciruclar economy principles
+aid maintenance and replacement of parts.
+
+development development. replacement strategy will be in place.
+
+Designing for adaptability or flexibility Industrial units could be changed use easily due to their majority of spaces are open plan and could change use Where possible construction for easy disassembly i.e 
+N/A N/A N/A Modular systems to be used where possible To be considered as part of tenant fit out. Open plan spaces allow for the building to change use witNho/Aut the need for major refurbishment team to consider production of an adaptability guide Adaptability guide to demonstrate how the development can be adapted to different uses.
+
+design. without the need for major refurbishment nuts and bolts rather than welding
+
+Where feasible frame will be disassembled with beams 
+Designing for disassembly Plant disassembly strategy to be developed to allow for Where possible construction for easy disassembly i.e 
+
+N/A N/A and columns being graded at end of life for possible N/A N/A To be considered as part of tenant fit out. Services will be designed to be disassembled at end of lifeCost Implications Production of a disassembly Guide Disassembly guide will show that development has been designed taking consideration of disassembly
+ease of replacement and maintenance. nuts and bolts rather than welding
+
+reuse
+
+Using systems, elements or materials that can be re-used and recycled Frame elements can be graded and potentially reused 
+N/A N/A Bricks to be reused where feasible at end of life. N/A N/A To be considered as part of tenant fit out. N/A vast majority of building materials can be recycled at end oEfnlsifuer.ing actions carried out at End of life Ensure that building owners are aware of recycling opportWunLCit iaensd a CtE eSn sdta otefm liefent quantify materials which can be recycled at end of life
+
+at end of building life.
+
+Bill of Materials
+Please click the + symbol to the left hand side of the Bill of Materials table to view or hide the input rows for each Building Element Category. The rows for substructure and frame have been unhidden to highlight this.
+
+BUILDING ELEMENT CATEGORY -  LEVEL 1 (based on the RICS New Rules of
+Measurement (NRM) classification system level 2 sub-elements https://www.rics.org/globalassets/rics-
+
+PRODUCT AND CONSTRUCTION STAGE (MODULE A) USE STAGE (MODULE B) END OF LIFE STAGE (MODULE C) BENEFITS BEYOND THE SYSTEM BOUNDARY (MODULE D)
+website/media/products/data-products/bcis-construction/bcis-elemental-standard-form-cost-analysis-4th-nrm-edition-
+
+2012.pdf)
+
+Estimated 
+Material quantity Material intensity Construction Waste Repair and Replacement quantities of materials Construction Waste Assumed End of Estimated reusable Estimated 
+
+Building Element Category (Module A) Construction Waste Factor Recycled Content Recycled Content Expected Lifespan Number of Replacements (over assumed 60-year Construction Waste Factor Design for Estimated reusable recyclable materials 
+Material Type (Module A) Performance Indicator (LPG Appendix 1) (Module A) (Module B) (Module B) Life Scenario % Reusing % Recycling % Landfill materials intensity recyclable materials 
+
+(Module A)
+(kg/m2 by mass (kg) by value (%) (years) period) (Module B) Disassembly materials (kg)
+
+(kg) GIA) (kg)  (kg) (kg) (Description) (kg/m2 intensity
+ GIA) (kg)
+
+(kg/m2 GIA)
+
+0.1 Demolition: Toxic/Hazardous/Contaminated Material Treatment - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0.2 Major Demolition Works - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0.3 Temporary Support to Adjacent Structures - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0.4 Specialist Ground Works - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+1 Substructure - 11,496,771 1,260 Building Element Category 1, 4th Quartile - 461,866 - - - - 0 - 0 - - 0% 100% 0% 0 0 11,486,466 1,259
+
+2.1 Superstructure: Frame - 1,245,511 136 Building Element Category 2.1, 2nd Quartile - 32,269 - - - - 0 - 0 - - 0% 100% 0% 0 0 1,245,511 136
+2.2 Superstructure: Upper Floors - 6,031,161 661 Building Element Category 2.2, 4th Quartile - 269,576 - - - - 0 - 0 - - 0% 100% 0% 0 0 6,031,161 661
+2.3 Superstructure: Roof - 913,778 100 Building Element Category 2.3, 4th Quartile - 1,232 - - - - 0 - 0 - - 0% 99% 1% 0 0 901,159 99
+2.4 Superstructure: Stairs and Ramps - 80,576 9 - - 3,881 - - - - 0 - 0 - - 0% 100% 0% 0 0 80,576 9
+2.5 Superstructure: External Walls - 1,732,707 190 Building Element Category 2.5 & 2.6, 4th Quartile - 153,993 - - - - 0 - 0 - - 0% 89% 11% 0 0 1,536,659 168
+2.6 Superstructure: Windows and External Doors - 32,489 4 Building Element Category 2.5 & 2.6, 4th Quartile - 0 - - - - 0 - 0 - - 0% 100% 0% 0 0 32,489 4
+2.7 Superstructure: Internal Walls and Partitions - 321,166 35 Building Element Category 2.7 & 2.8, 3rd Quartile - 40,146 - - - - 0 - 0 - - 0% 100% 0% 0 0 321,166 35
+2.8 Superstructure: Internal Doors - 10,187 1 Building Element Category 2.7 & 2.8, 3rd Quartile - 0 - - - - 0 - 0 - - 0% 100% 0% 0 0 10,187 1
+3 Finishes - 52,374 6 - - 5,237 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+4 Fittings, furnishings & equipment (FFE) - 36,154 4 - - 1,242 - - - - 0 - 0 - - 96% 0% 4% 34,874 4 0 0
+5 Services (MEP) - 113,992 12 - - 4,658 - - - - 0 - 0 - - 0% 100% 0% 0 0 113,451 12
+6 Prefabricated Buildings and Building Units - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+7 Work to Existing Building - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+8 External works - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+
+Overall 22,066,866 2,418 974,099 25% 0 0 0% 0% 100% 69,748 8 43,517,650 4,769
+
+Recycling and Waste Reporting table
+The light green-coloured cells should be completed to achieve 'pioneering' status.
+
+TOTAL ESTIMATES OF WASTE WASTE MANAGEMENT ROUTES SUMMARY
+
+REUSE RECYCLE OTHER DISPOSAL
+
+Overall Waste Overall Waste
+Performance Indicator (LPG Appendix 1) Total Reuse (%) Total Recycle (%) Total Reuse and Recycle (%) Total Waste Reported (%)
+
+Type of Waste Source of Information (tonnes) (tonnes/m2 GIA)
+Reuse Onsite (%) Reuse Offsite (%) Recycle Onsite(%) Recycle Offsite (%) To Landfill (%) To Other Management (%)
+
+PRODUCT AND CONSTRUCTION STAGE (MODULE A)
+
+1 Demolition Waste 2850 0.312 2nd Quartile 80% 20% 0% 100% 100% 100%
+2 Excavation Waste 3800 0.416 3rd Quartile 80% 20% 100% 0% 100% 100%
+3 Construction Waste 850 0.093 3rd Quartile 100% 0% 100% 100% 100%
+
+USE STAGE (MODULE B)
+
+3 Demolition / Strip-out Waste 0 0.000 - 95% 5% 0% 95% 95% 100%
+4 Construction Waste 0 0.000 - 0% 0% 0% 0%
+
+Overall Waste (tonnes/annum
+Overall Waste (tonnes/annum) Performance Indicator (LPG Appendix 1) Reuse Onsite (%) Reuse Offsite (%) Recycle Offsite(%) Recycle Offsite (%) To Landfill (%) To Other Management (%) Total Reuse (%) Total Recycle (%) Total Reuse and Recycle (%) Total Waste Reported (%)
+
+/m2)
+5 Municipal Waste 305 0.033 3rd Quartile 65% 35% 0% 65% 65% 100%
+6 Industrial Waste (if applicable) N/A - - 0% 0% 0% 0%
+
+MODULE A - MODULE C
+
+Overall Materials Overall Materials (Modules A-C) (tonnes
+- Reuse Onsite (%) Reuse Offsite (%) Recycle Offsite(%) Recycle Offsite (%) To Landfill (%) To Other Management (%) Total Reuse (%) Total Recycle (%) Total Reuse and Recycle (%) Total Waste Reported (%)
+
+(tonnes) /m2)
+
+7 Total Materials 0 0.000 - 0% 0% 0% 0%
+
+Circular Economy Targets
+Circular economy targets for existing and new development Policy Requirement Target Aiming For (%) Policy Met? Explanation (How will performance against this metric be secured through design, implementation and monitoring?)
+
+Demolition waste materials (non-hazardous) Minimum of 95% diverted from landfill for reuse, recycling or recovery. Yes Demolition arisings to be crushed on site for reuse where feasible.
+95%
+
+Excavation waste materials Minimum of 95% diverted from landfill for beneficial reuse. Yes excavated materials to be used for cut and fill where feasible.
+95%
+
+Construction waste materials Minimum of 95% diverted from landfill for reuse, recycling or recovery. Yes
+95%
+
+Municipal waste Minimum 65% recycling rate by 2030. Yes Waste to be segregated on site.
+65%
+
+Recycled content Minimum 20% of the building material elements to be comprised of recycled or Yes recycled materials included in table above. Currently assuming 25% GGBS in cement, this will be confirmed at the next stage of design.
+reused content.
+
+20%
+Additional requirements Policy Requirement Please acknowledge acceptance for a planning condition Please set out an indicative timescale and responsible party for the provision of this information
+
+A CE Statement is required at post-construction (i.e. upon 
+Post-Construction Report commencement of RIBA Stage 6 and prior to the building being handed 
+
+over, if applicable. Generally, it would be expected that the assessment 
+would be received no more than three months post-construction)
+
+
+
+Post-Construction Stage - Circular Economy Statement
+
+Project details
+Project name
+Planning application reference number (if 
+applicable)
+Applicant
+London Borough
+Brief description of the project
+Author/s
+Date of assessment
+Number of Use Types
+Use Class / Type Floor Area by use type (m2)
+Use Class / Type 1 Use Class / Type 1 GIA
+Overall GIA (m2) 0.00
+
+Bill of Materials
+Please click the + symbol to the left hand side of the Bill of Materials table to view or hide the input rows for each Building Element Category. The rows for substructure and frame have been unhidden to highlight this.
+
+BUILDING ELEMENT CATEGORY -  LEVEL 1 (based on the RICS New Rules of
+Measurement (NRM) classification system level 2 sub-elements https://www.rics.org/globalassets/rics-
+
+PRODUCT AND CONSTRUCTION STAGE (MODULE A) USE STAGE (MODULE B) END OF LIFE STAGE (MODULE C) BENEFITS BEYOND THE SYSTEM BOUNDARY (MODULE D)
+website/media/products/data-products/bcis-construction/bcis-elemental-standard-form-cost-analysis-4th-nrm-edition-
+
+2012.pdf)
+
+Estimated 
+Material quantity Material intensity Construction Waste Repair and Replacement quantities of materials Construction Waste Assumed End of Estimated reusable Estimated 
+
+Building Element Category  Waste Factor Recycled Content Recycled Content Expected Lifespan Number of Replacements (over assumed 60-year Construction Waste Factor Design for Estimated reusable recyclable 
+Material Type (Module A) (Module A) Construction
+
+Performance Indicator (Planning Stage Estimate) (Module A) (Module B) (Module B) Life Scenario % Reusing % Recycling % Landfill materials intensity recyclable 
+(Module A) by mass (kg) by value (%) (years) period) (Module B) Disassembly materials (kg) materials intensity
+
+(kg) (kg/m2 GIA) (kg)  (kg) (kg) (Description) (kg/m2 GIA) materials (kg)
+(kg/m2 GIA)
+
+0.1 Demolition: Toxic/Hazardous/Contaminated Material Treatment - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0.2 Major Demolition Works - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0.3 Temporary Support to Adjacent Structures - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0.4 Specialist Ground Works - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+1 Substructure - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+
+1 Substructure
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+
+2.1 Superstructure: Frame - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+
+2.1 Superstructure: Frame
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+0 - 0 0 0 0 0% 0% 100% 0 0 0 0
+
+2.2 Superstructure: Upper Floors - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.3 Superstructure: Roof - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.4 Superstructure: Stairs and Ramps - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.5 Superstructure: External Walls - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.6 Superstructure: Windows and External Doors - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.7 Superstructure: Internal Walls and Partitions - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+2.8 Superstructure: Internal Doors - 0 0 - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+3 Finishes - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+4 Fittings, furnishings & equipment (FFE) - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+5 Services (MEP) - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+6 Prefabricated Buildings and Building Units - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+7 Work to Existing Building - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+8 External works - 0 0 - - 0 - - - - 0 - 0 - - 0% 0% 100% 0 0 0 0
+
+Overall 0 0 0 0 0 0% 0% 100% 0 0 0 0
+
+Recycling and Waste Reporting table
+The light green-coloured cells should be completed to achieve 'pioneering' status.
+
+TOTAL ESTIMATES OF WASTE WASTE MANAGEMENT ROUTES SUMMARY
+
+REUSE RECYCLE OTHER DISPOSAL
+
+Overall Waste Overall Waste
+Performance Indicator (Planning Stage Estimate) Total Reuse (%) Total Recycle (%) Total Reuse and Recycle (%) Total Waste Reported (%)
+
+Type of Waste Source of Information (tonnes) (tonnes/m2 GIA)
+Reuse Onsite (%) Reuse Offsite (%) Recycle Onsite(%) Recycle Offsite (%) To Landfill (%) To Other Management (%)
+
+PRODUCT AND CONSTRUCTION STAGE (MODULE A)
+
+1 Demolition Waste 0.000 0% 0% 0% 0%
+2 Excavation Waste 0.000 0% 0% 0% 0%
+3 Construction Waste 0.000 0% 0% 0% 0%
+
+USE STAGE (MODULE B)
+
+3 Demolition / Strip-out Waste 0 0.000 0% 0% 0% 0%
+4 Construction Waste 0 0.000 0% 0% 0% 0%
+
+Overall Waste (tonnes/annum
+Overall Waste (tonnes/annum) Performance Indicator (Planning Stage Estimate) Reuse Onsite (%) Reuse Offsite (%) Recycle Offsite(%) Recycle Offsite (%) To Landfill (%) To Other Management (%) Total Reuse (%) Total Recycle (%) Total Reuse and Recycle (%) Total Waste Reported (%)
+
+/m2)
+5 Municipal Waste 0.000 0% 0% 0% 0%
+6 Industrial Waste (if applicable) 0.000 0% 0% 0% 0%
+
+MODULE A - MODULE C
+
+Overall Materials Overall Materials (Modules A-C) (tonnes
+rformance Indicator (Planning Stage Estimate) Reuse Onsite (%) Reuse Offsite (%) Recycle Offsite(%) Recycle Offsite (%) To Landfill (%) To Other Management (%) Total Reuse (%) Total Recycle (%) Total Reuse and Recycle (%) Total Waste Reported (%)
+
+(tonnes) /m2 Pe
+)
+
+7 Total Materials 0 0.000 0% 0% 0% 0%
+
+Circular Economy Targets 
+Circular economy targets for existing and new development Policy Requirement Actions Undertaken / Explanation (How has this been achieved? What are the reasons for any differences between targets/performance?)
+
+Target at Application Stage (%) Rate Achieved (%) Policy Met?
+
+Demolition waste materials (non-hazardous) Minimum of 95% diverted from landfill for reuse, recycling or recovery.
+95%
+
+Excavation waste materials Minimum of 95% diverted from landfill for beneficial reuse.
+95%
+
+Construction waste materials Minimum of 95% diverted from landfill for reuse, recycling or recovery.
+95%
+
+Municipal waste Minimum 65% recycling rate by 2030.
+65%
+
+Recycled content Minimum 20% of the building material elements to be comprised of recycled or 
+reused content.
+
+20%
+
+Key Achievements and Gap Assessment:
+Summary of key actions undertaken to achieve circular economy outcomes, including achievements and reasons for any differences between targets/performance
+
+Measure / Target Proposed at Application Stage (if applicable) Actions Undertaken / Explanation (How has this been achieved? What are the reasons for any 
+Key Achievements
+
+differences between targets/performance?)
+[This list does not need to be exhaustive but should identify the actions with the 
+biggest impacts.]
+
+Lessons Learnt:
+Lessons learnt from the process of undertaking a CE Statement that will inform future projects
+Description Explanation / Solution / Future Approach
+
+[i.e. Design options or materials that could be used, design principles that could be applied.]

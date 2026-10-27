@@ -1,0 +1,1782 @@
+﻿GLA Planning 
+ 
+ 
+ 
+
+ 
+
+Circular E conomy 
+Stateme nts LPG  
+
+ 
+
+   
+ 
+ 
+ 
+
+C onsultation summary 
+report  
+
+March 2022 
+
+ 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+Copyright 
+ 
+Greater London Authority 
+March 2022 
+
+Published by: 
+Greater London Authority 
+City Hall 
+Kamal Chunchie Way 
+London E16 1ZE 
+ 
+www.london.gov.uk 
+Enquiries 020 7983 4000 
+ 
+Other formats and languages  
+For a large print, Braille, disc, sign language video or audio-tape version of this 
+document, please contact us using the details above. You will need to supply your 
+name, your postal address and state the format and title of the publication you 
+require. If you would like a summary of this document in your language, please 
+phone the number or contact us at the address above. 
+
+Acknowledgements 
+
+The GLA would like to thank the individuals and organisations who contributed to the 
+guidance, including consultation respondents. Special thanks go to ReLondon and 
+AECOM for their contribution to the preparation of this guidance document and the 
+Circular Economy Statements template.  
+ 
+  
+
+GLA Planning   2 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+Table of contents 
+
+1. Introduction ...................................................................................... 4 
+
+2. Who took part? ................................................................................ 4 
+
+3. Consultation feedback and GLA response ....................................... 5 
+
+3.1. Core principles ................................................................................. 5 
+
+3.2. ‘Building in layers’ ............................................................................ 7 
+
+3.3. Development of CE statement ....................................................... 10 
+
+3.4. Strategic approach ......................................................................... 11 
+
+3.5. What a CE statement should include ............................................. 14 
+
+3.6. Structure ........................................................................................ 17 
+
+3.7. Assessment ................................................................................... 18 
+
+3.8. Pioneering statements ................................................................... 19 
+
+3.9. Monitoring ...................................................................................... 21 
+
+3.10. Resources, terms and further comments ..................................... 244 
+
+4. Other themes raised during engagement ....................................... 27 
+
+5. Equality impacts ............................................................................. 30 
+
+6. Next steps and monitoring ............................................................. 30 
+
+Appendix 1: Summary of formal engagement ............................................. 31 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+GLA Planning   3 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+1. Introduction  
+
+On 19 October 2020, the Greater London Authority (GLA) launched a consultation 
+on the Mayor’s draft Circular Economy Statements London Plan guidance (LPG). 
+The consultation closed on 15th January 2021. Online seminars were held during the 
+consultation, attended by 100 people. 
+
+Thirty-three written responses were received. This document provides a summary of 
+the consultation responses received. The Mayor would like to thank everyone who 
+took part for engaging with the guidance. 
+
+2. Who took part? 
+
+Formal consultation survey 
+
+Respondents were asked what type of organisation they represent or whether they 
+were responding as an individual.  
+ 
+Respondent type Number  Percentage 
+Individual 5 15% 
+Business 16 48% 
+Campaign group 2 6% 
+Community group 0 - 
+Government body or agency 3 9% 
+Local authority outside London 0 - 
+London borough 5 15% 
+Professional body 0 - 
+Other 2 6% 
+Total 33  
+
+Respondents were also asked equality monitoring information in order to assess how 
+representative respondents were compared to the demographics of Londoners. The 
+number of responses received on those questions was limited and therefore the 
+relevant analysis has not been included in this consultation summary report.  
+
+Other engagement  
+
+During the consultation, several events were held with stakeholders to promote 
+awareness of the guidance and consultation, and to answer questions, with over 100 
+attendees across the different events. This included a webinar for borough officers, 
+which was attended by representatives from 19 different boroughs.  
+
+Other engagement was undertaken prior to the formal consultation, including 
+technical meetings with consultants. Equality monitoring information was not 
+collected for these engagements. 
+
+GLA Planning   4 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+3. Consultation feedback and GLA response 
+
+As part of the engagement on the draft guidance, respondents to the formal 
+consultation survey were asked to submit responses to specific questions, which are 
+summarised here.  
+
+3.1 Core principles 
+
+Q1: To what extent do you agree or disagree with the three core principles? 
+
+Thirty respondents answered this question. One hundred per cent agreed with the 
+three core principles set out in the guidance. Ninety per cent strongly agreed with 
+core principle 3.  
+
+Principle 1: Conserve resources, increase efficiency and source sustainably 
+ 
+Response Number Percentage 
+Strongly agree 21 72% 
+Somewhat agree 8 28% 
+Total 29  
+
+ 
+Principle 2: Design to eliminate waste (and for ease of maintenance) 
+ 
+Response Number Percentage 
+Strongly agree 23 77% 
+Somewhat agree 6 20% 
+Total 29  
+
+ 
+Principle 3: Manage waste sustainably and at the highest value 
+ 
+Response Number Percentage 
+Strongly agree 26 90% 
+Somewhat agree 3 10% 
+Total 29  
+
+ 
+
+Q2: Please tell us if you have any comments on the core principles and 
+commitments set out in Section 2.1 and/or if you have any changes you would 
+like to suggest? 
+
+Nineteen responses were received to this question. Respondents made the following 
+points:  
+
+• The guidance should emphasise conserving primary materials, using 
+secondary materials and reducing material demand, and should prioritise 
+refurbishment over demolition. The guidance should encourage better use of 
+existing buildings, including retrofitting for energy performance. The principles 
+and commitments in the guidance should link better to the strategic 
+approaches. 
+
+GLA Planning   5 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+• There should be greater focus in the guidance on reusing and recycling 
+materials onsite or locally, rather than sustainable sourcing. 
+
+• The guidance should emphasise Circular Economy (CE) approaches being 
+embedded early on in the design process and at all life cycle stages. Pre-
+demolition audits should be mandatory, and a template audit should be 
+provided with the guidance. 
+
+• The guidance should include best practice approaches and examples (for 
+example – refurbishment, reuse and recycling) including for excavation and 
+contaminated sites. 
+
+• The guidance should recognise more clearly that waste is not inevitable, and 
+should shift the focus to materials being treated as a resource, using this term 
+instead of ‘waste’. The guidance should emphasise eliminating and managing 
+waste during operation, maintenance, refurbishment, adaptation and at end-
+of-life. Positive feedback was received on strategic approaches that are 
+further up the Waste Hierarchy. It was suggested that the Waste Hierarchy 
+should be referred to more in the guidance. 
+
+• The guidance should cover the qualities of reusable materials (not just 
+quantities). 
+
+• There are potential conflicts that could arise from the application of the 
+guidance – for example, designing for longevity vs. minimising the quantity of 
+materials and transport emissions. 
+
+• There should be clearer links between the guidance and other submission 
+requirements, including the Whole Life-Cycle Carbon assessment (WLC). 
+
+• The guidance should require and provide examples of evidence and 
+justification to avoid developments only achieving the bare minimum. 
+
+• The guidance should make better use of data, and should be supported by the 
+development of databases, markets and material passports to encourage 
+reuse and high-quality recycling. The use of construction waste management 
+certifications should be considered. 
+
+• There are a number of barriers to implementing the guidance, particularly 
+contamination and achievability. 
+
+ 
+GLA response 
+
+The principles and commitments have been aligned to the Policy D3 circular 
+economy principles to make the process simpler, simplify the guidance, make the 
+reporting and assessment process easier and ensure reporting against the policy 
+principles. All principles and commitments are still covered by the reporting 
+requirements - for example, designing out waste is reflected in the CE targets table. 
+The CE principles emphasise reuse of materials. 
+
+The decision tree has been developed to include a hierarchy of circular economy 
+design approaches, which emphasises retention and refurbishment over demolition, 
+and reuse of materials on-site.  
+
+GLA Planning   6 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+Emphasis has been added on sourcing materials locally, particularly for 
+reprocessed materials.  
+
+Pre-redevelopment audits are now required early on in the development and 
+design process, and pre-demolition audits are strongly encouraged at pre-
+application stage and required at later stages.  
+
+Further detail on the circular economy design approaches has been included in the 
+guidance. ReLondon (a strategic body of the Mayor of London and London Councils) 
+through the Circular Constructure in Regenerative Cities (CIRCuIT) project, are 
+developing further information for boroughs and industry, including examples and 
+best practice.1 Where appropriate, lessons learned and best practice examples 
+from submitted CE statements will be shared to encourage innovation. 
+
+To emphasise material value, the terms ‘resources’ and/or ‘materials’ are used 
+more (rather than ‘waste’). The guidance emphasises the need to design buildings in 
+ways that will minimise waste throughout a building’s lifecycle. The waste hierarchy 
+has been emphasised more in the guidance. 
+
+Designing for longevity is included as a circular economy principle, in line with 
+London Plan Policy D3. The guidance emphasises using secondary materials, with 
+re-use on-site or locally preferred. 
+
+More links and references have been made to the other submission requirements, 
+such as the WLC assessment. 
+
+The need for evidence and justification, where retention and refurbishment are not 
+selected, is now emphasised. 
+
+Material passporting is now referred to in the guidance. We will continue to work with 
+ReLondon and others to explore how innovative approaches and greater use of 
+data can improve CE outcomes, informed by the information received on CE 
+statements. 
+
+It is recognised that there may be barriers such as dealing with contaminated sites. 
+The guidance is flexible enough to allow for these scenarios, and they can be taken 
+into account as material considerations by decision-makers.  
+
+3.2 ‘Building in layers’ 
+
+Q3: To what extent do you agree or disagree that the concept of 'building in 
+layers' is useful for applying circular economy principles to development? 
+
+Twenty-eight responses were received to this question, of which 96 per cent 
+somewhat or strongly agreed that the concept is useful. 
+
+ 
+1 https://www.designingbuildings.co.uk/wiki/Circular_economy_case_studies   
+
+GLA Planning   7 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+ 
+
+Response Number Percentage 
+Strongly agree 17 61% 
+Somewhat agree 10 36% 
+Neither agree or disagree 1 4% 
+Total 28  
+
+ 
+
+Q4: Please tell us if you have any comments on the concept of 'building in 
+layers' and/ or if you have any changes you would like to suggest? 
+
+Thirteen responses were received to this question. Most respondents were 
+supportive of the approach. Respondents suggested that: 
+
+• More guidance is needed on sustainable design approaches and building in 
+design implications.  
+
+• Barriers to meeting the requirements of the guidance include infrastructure for 
+CE uses and application to residential buildings with multiple owners.  
+
+• The guidance should give greater emphasis to building in layers at the pre-
+application stage. The guidance should provide ideas and examples for how 
+building in layers can be achieved. Some examples were provided.  
+
+• The guidance should refer to application types, such as change of use. 
+
+• The guidance should consider a different approach for short-lived buildings. 
+
+• The guidance should require monitoring by layer. 
+
+• Figure 1 in the guidance should align with the layer definition table. 
+
+ 
+GLA response 
+
+The layers concept has been included in the decision tree, as well as a hierarchy of 
+circular economy design approaches. Emphasis has been added on applying 
+different and multiple circular economy design approaches for different layers.  
+
+In terms of infrastructure, London Plan policies aim to safeguard sufficient industrial 
+capacity, which could potentially be used for storing materials to encourage more 
+reuse, upcycling and recycling. ReLondon’s CIRCuIT project includes storage and 
+logistics requirements to facilitate more reuse. 
+
+Emphasis has been added on considering building in layers from pre-application 
+stage to support innovation. Lessons learned and best practice examples will be 
+shared by the GLA and partners. 
+
+Application types have been expanded on, including hybrid applications (for 
+example, see Table 5 Minimum Submission requirements by planning application 
+stage). The decision tree includes a hierarchy of circular economy design 
+approaches. This hierarchy prioritises approaches where minimal changes are made 
+
+GLA Planning   8 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+to the fabric of buildings, regardless of whether a scheme proposes change of use or 
+not. 
+
+Different circular economy design approaches are emphasised depending on the 
+nature of the development, including schemes where development will have a 
+shorter life. 
+
+In terms of monitoring, reporting CE principles by building layer is now required for 
+outline and full planning applications. The Bill of Materials now requires reporting by 
+material type for consistency with the WLC assessment. The guidance highlights 
+how building layers relate to material types (see Table 1). 
+
+Figure 1 has been amended and aligned to the layer definition table. For example, 
+skin/shell is now the outer most layer. 
+
+Q5: Do you have any further comments to make on Section 2? 
+
+Eleven responses were received to this question. Respondents suggested that:  
+
+• The guidance should explain the relationship between embodied carbon and 
+designing for longevity.  
+
+• Reducing transport emissions and cleaner modes of transporting waste 
+should be encouraged. 
+
+• Innovative ideas should be explored, such as creating ID references for 
+interior fixtures and making data available to potential users. 
+
+• Pre-demolition audits should capture material qualities. 
+
+ 
+GLA response 
+
+Designing for longevity is included as a circular economy principle, in line with 
+Policy D3. Greater links have been made to the WLC assessment (see Section 1.2). 
+The promotion of circular economy outcomes should also reduce the whole life-cycle 
+carbon of the development or provide additional benefits beyond the development’s 
+life. Design decisions should be informed by the principles and results of both 
+studies.  
+
+London Plan policies include supporting cleaner modes of transport (e.g. Policy SI 
+10 and SI 15 (part I)). The guidance emphasises the importance of local sourcing, 
+especially for reprocessed materials. 
+
+The GLA will look to use levers and seek to influence wherever possible. Ideas 
+suggested have been shared with partners. 
+
+Further information has been added on pre-demolition audits. Opportunities for 
+reuse and recycling should be highlighted. 
+
+GLA Planning   9 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+3.3 Development of CE statement 
+
+Q6: To what extent do you agree or disagree that the steps set out in Section 
+3.1 will result in the effective development of Circular Economy Statements? 
+
+Twenty-nine responses were received for this question, of which 76 per cent 
+somewhat or strongly agreed that the steps set out in Section 3.1 would result in the 
+effective development of Circular Economy Statements. Twenty-one per cent neither 
+agreed nor disagreed and three per cent somewhat disagreed with this statement. 
+
+Response Number Percentage 
+Strongly agree 7 24% 
+Somewhat agree 15 52% 
+Neither agree or disagree 6 21% 
+Somewhat disagree 1 3% 
+Total 29  
+
+ 
+
+Q7: Please tell us why? 
+
+Twenty-three responses were received to this question. Respondents suggested 
+that: 
+
+• The guidance should emphasise providing information early on at pre-
+application stage. 
+
+• The guidance should emphasise benchmarks, targets, existing certifications, 
+and industry-wide standards.  
+
+• There are some barriers to complying with the guidance, including information 
+being unavailable until later in the process.   
+
+• Commitments made in the guidance can be easily reversed.  
+
+• The guidance should clarify how feedback will be provided, by whom and 
+when. 
+
+• Resource and expertise is needed to assess CE statements. 
+
+ 
+
+GLA response 
+
+The guidance has been revised to require information early on. Pre-application 
+stage is however voluntary but developments utilising the pre-application process 
+are encouraged to provide the relevant information. 
+
+The guidance refers to existing certification such as Cradle to Cradle (C2C). 
+Appendix 1 includes data collected to date for key CE statement metrics. Further 
+metrics and targets are likely to be introduced as the evidence base develops. There 
+are overlaps with BREEAM but the related credits are not mandatory and may not be 
+pursued or achieved.  
+
+GLA Planning   10 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+We recognise the challenge of obtaining some information early in the design 
+process. A detailed assessment is not required at pre-application stage, and it is not 
+expected that final materials will be known. The information submitted will be based 
+on estimates and assumptions that may be altered as the design progresses and as 
+opportunities are identified and acted upon. However, by including requirements 
+early on, we expect to see circular economy principles embedded in proposals from 
+the outset and greater innovation. Design teams are often able to make changes in 
+response to new opportunities. The guidance includes information to support 
+applicants and teams to overcome barriers. An email address has been added to 
+the guidance and template that applicants can use for queries. We will consider what 
+additional support applicants may need on an ongoing basis. 
+
+The guidance outlines the importance of justification and evidence being provided 
+if for example the hierarchy of circular economy design approaches in the decision 
+tree is not followed. 
+
+Information on how and when feedback will be provided on CE statement has been 
+included (for example in the Appendix 2 Application Flowchart). 
+
+Good practice resources are shared on the Circular Economy wiki2 and will continue 
+to be shared by the GLA and partners. The GLA will be provide training on assessing 
+CE statements for local authority officers. 
+
+3.4 Strategic approach 
+
+Q8: To what extent do you agree or disagree that defining a strategic approach 
+to the circular economy (as outlined in Section 3.2) will be useful in developing 
+a Circular Economy Statement? 
+
+Twenty-nine responses were received for this question, of which 89 per cent 
+somewhat or strongly agreed that defining a strategic approach to the circular 
+economy will be useful in developing a CE statement. Seven per cent neither agreed 
+nor disagreed and three per cent somewhat disagreed. 
+
+Response Number Percentage 
+Strongly agree 12 41% 
+Somewhat agree 14 48% 
+Neither agree or disagree 2 7% 
+Somewhat disagree 1 3% 
+Total 29  
+
+ 
+
+Q9: Please tell us if you have any comments on the guidance relating to 
+defining a strategic approach to the circular economy (Section 3.2) and/or if 
+you have any changes you would like to suggest? 
+
+Twenty responses were received to this question. Respondents suggested that: 
+
+ 
+2 https://www.designingbuildings.co.uk/wiki/London_Circular_Economy_Statements_LPG_-
+_Additional_resources 
+
+GLA Planning   11 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+• The information required needs to be clearer. 
+
+• The strategic approaches should be linked to the CE principles. 
+
+• The decision tree should be amended – it is too simplistic, the default appears 
+to be demolish and recycle, and it works better for short-lived development. 
+
+• Strategic approaches should be emphasised (including reuse on-site, 
+recycling, disassembly) for different development types, and should be framed 
+as a hierarchy. 
+
+• Multiple strategic approaches are often needed. 
+
+• The strategic approach definitions should be amended (outline the unique 
+components) and more should be added (e.g. repositioning, upgrading with 
+refurbishment, selective deconstruction and designing for reuse) 
+
+• Discussions and decisions on design approaches are needed early-on at pre-
+application stage. Pre-demolition audits are important early on – they should 
+be made mandatory. 
+
+• Justification or evidence for not adopting strategic approaches should be 
+required by the guidance. 
+
+• Monitoring and a robust assessment framework are important and should be 
+included with the guidance. 
+
+• The CE principles should be applied to longer-life buildings (e.g. longevity). 
+
+• The ‘building in layers’ concept should be more clearly embedded in the 
+guidance. 
+
+ 
+GLA response 
+
+The information required has been made clearer (for example, see Table 5 
+Minimum submission requirements and Appendix 2 Application Flowchart). 
+
+The circular economy principles, strategic approaches and building in layers concept 
+have been linked more clearly in the guidance 
+
+The strategic approaches have been renamed ‘design approaches’ to make them 
+clearer and better link them to the circular economy principles.  
+
+The decision tree has been revised and the hierarchy of design approaches made 
+clearer (for example, re-use onsite or locally).  
+
+It has been emphasised more that multiple strategic approaches will often be 
+needed.  
+
+Additional approaches were considered, and the final set chosen based on their 
+unique components. Deconstruction is emphasised more. 
+
+A pre-demolition audit is strongly encouraged at pre-application stage and required 
+at later stages. Pre-redevelopment audits are required however from an early stage, 
+
+GLA Planning   12 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+which can help to inform design approaches and encourage those further up the 
+hierarchy to be selected. 
+
+The guidance refers to evidence and justification for adopting design approaches 
+further up the hierarchy in the decision tree. The guidance emphasises the need for 
+robust justification if demolition is proposed. 
+
+Appendix 3 Essential elements of CE statements has been added to support 
+boroughs to assess policy compliance. 
+
+The CE principles apply to all types of development covered by the guidance. The 
+decision tree highlights where some design approaches could be more relevant to 
+certain types of development. All buildings should be designed for disassembly, 
+adaptability and reuse and recycling. 
+
+Building in layers has been added to the decision tree. 
+
+Q10: Do you have any further comments on Section 3? 
+
+Eleven responses were received to this question. Respondents suggested that: 
+
+• The reporting requirements, including timings, should be clearer. 
+
+• The potential to impose a monitoring fee or penalty mechanism for non-
+compliance should be explored.  
+
+• There is a need for training and resources for local authorities to assess and 
+monitor requirements, especially if applying to all major development. 
+
+• More information is needed on the suitability of different strategic approaches 
+in different contexts. 
+
+• The decision tree should be amended – for example, including the building in 
+layers approach. 
+
+ 
+GLA response 
+
+The reporting requirements have been made clearer – see for example Tables 5, 
+Appendix 2 and 3 (Minimum submission requirements, Application Flowchart, and 
+Essential Elements of CE statements). It has been made clear that post-construction 
+reports must be received no more than three months post-construction.  
+
+The CE statement requirement is established in London Plan policy and should be 
+factored into the costs of the planning application process by the planning applicant. 
+A monitoring or penalty fee does not fall within the remit of the guidance. 
+
+Training and resources will be made available to local authorities to support 
+assessment and monitoring. A template planning condition is available on the GLA’s 
+LPG webpage.  
+
+The decision tree includes more detail on the suitability of different circular 
+economy design approaches, including in relation to building layers. Justification 
+
+GLA Planning   13 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+for a chosen route will have to be determined on a case-by-case basis rather than 
+through a rule-based approach. Greater links have been made to the WLC 
+assessment to help inform the decision on the lowest carbon outcome for a project. 
+The decision tree includes the building in layers approach. 
+
+3.5 What a CE statement should include  
+
+Q11: Section 4.4 sets out what a CE statement should include. To what extent 
+do you agree or disagree with these requirements? 
+
+Twenty-nine responses were received to this question, of which 90 per cent strongly 
+or somewhat agreed with the CE statement requirements and 10 per cent neither 
+agreed nor disagreed. 
+
+Response Number Percentage 
+Strongly multiple strategic approaches agree 11 38% 
+Somewhat agree 15 52% 
+Neither agree or disagree 3 10% 
+Total 29  
+
+ 
+
+Q12: Please tell us if you have any comments on the requirements for what a 
+Circular Economy Statement should include and/or if you have any changes 
+you would like to suggest. 
+
+Twenty-nine responses were received to this question. Respondents suggested that: 
+
+• The guidance should align more closely with WLC assessment requirements 
+(e.g. Bill of Materials) and timings. For the Bill of Materials, the guidance 
+should add material type and include life span. 
+
+• The information required early on in the design process is too detailed and it 
+may not be available. Contractors are often involved later. Some layers are 
+decided later in the process. 
+
+• The guidance should provide good practice examples and solutions. 
+
+• The monitoring and assessment process should be clearer (e.g. how 
+information will be verified and when CE statements should be updated) and 
+there should be support for local authorities to assess CE statements. 
+
+• There should be greater emphasis on reuse (separate from recycling) and the 
+Waste Hierarchy, including recovery, given the resource intensity of recycling 
+processes and the extent to which recycling with be identified compared to 
+downcycling. Waste to energy and incineration should be avoided. 
+
+• Pre-demolition audits are key and should be required for projects above a 
+certain size. 
+
+• It is difficult to recycle excavated material on contaminated sites. 
+
+• Using an up-to-date London Waste Map can bring economic opportunities. 
+
+GLA Planning   14 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+• The guidance should make clear the purpose of the data and how it can be 
+accessed. 
+
+• There is a potential conflict between sustainable sourcing and carbon 
+emissions, if materials are not sourced locally. 
+
+• The guidance should explain the use of recycled content by value (not 
+volume) and provide example calculations. 
+
+• The guidance should require justification or evidence where design decisions 
+go against circular economy outcomes. 
+
+• There should be support for standardising templates (e.g. via an online 
+reporting form) for data comparison. 
+
+ 
+
+GLA response 
+
+The CE statements guidance has been aligned to the WLC assessments 
+guidance, including the Bill of Materials (both use material type), submission timings 
+(the post-completion report needs to be submitted within 3 months of construction 
+completion) and the level of information required for different application types (e.g. 
+outline) is similar. The guidance now includes in Section 1.2 information on links 
+between the CE statements and WLC assessments. 
+
+The guidance outlines the minimum submission requirements (see Table 5) for 
+different applications. Planning applicants are submitting CE statements to the GLA, 
+which indicates that enough information is available to make assumptions and 
+estimates to inform the CE statement at the different stages of an application, 
+including early stages. The information provided at pre-application stage is 
+voluntary. The guidance recognises that information submitted early on will be based 
+on estimates and assumptions that may be altered as the design progresses and as 
+an understanding of the CE statement opportunities are identified and acted upon. 
+Applicants are not prevented from selecting newer lower carbon materials later down 
+the line.   
+
+It is recognised that less information will be available for outline planning applications 
+and information may be high-level, with gaps (for example, specific materials and 
+products may not be known). However, it is expected that information on certain 
+materials will be available at outline stage, for example based on experience from 
+previous schemes, and to estimate costs. Applicants are expected to provide as 
+much information as possible to ensure circular economy principles and targets are 
+embedded early in the design process. Particularly important to include at outline 
+stage are building layers or elements that are likely to be decided early on (for 
+example site, structure, and skin/shell) and which have the longest lifespans or will 
+be changed less frequently.   
+
+We are collating good practice examples, which will be shared for example on 
+the Circular Economy wiki and through training and events. ReLondon, through 
+
+GLA Planning   15 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+the CIRCuIT project, are producing a webpage to showcase the latest case 
+studies and good practice examples.  
+
+Information on monitoring and assessment has been made clearer. For example, 
+an Application Flowchart (Appendix 2) has been included and section 5 on 
+monitoring. Training will be provided to local authorities to support CE statement 
+assessment. The GLA scrutinises all CE statements submitted with referable 
+applications. Applicants are expected to submit high quality data and undertake due 
+diligence to ensure it is accurate. 
+
+Reuse and the waste hierarchy have been emphasised more in the guidance - for 
+example, reuse on-site is included in the hierarchy of circular economy design 
+approaches in the decision tree. In the CE statements (Recycling and Waste 
+Reporting table and Operational Waste Management Plan), applicants should 
+include how and where (on-site v offsite) waste will be managed in accordance with 
+the waste hierarchy. The guidance includes more references to the waste hierarchy 
+and a link. Information on recovery amounts (per cent) should be provided in the 
+Recycling and Waste Reporting table in the CE statement spreadsheet. The 
+hierarchy of circular economy decision approaches is outlined in the decision tree, 
+and justification is required where those approaches at the top of the hierarchy are 
+not selected. 
+
+More information has been added on pre-demolition audits, and these are strongly 
+encouraged at pre-application stage and required at later stages. 
+
+The GLA and partners will share best practice examples, for example on dealing with 
+contaminated sites, in the future via the Circular Economy wiki. 
+
+The GLA strongly encourages the use of the London Waste Map and will seek to 
+understand the barriers to keeping information up to date. 
+
+The data will be used to assess performance, develop benchmarks and future 
+metrics. CE statements will be available publicly through the London Datastore. 
+
+Local sourcing of materials is encouraged, particularly for reprocessed 
+materials. Design decisions should be informed by the principles and results of 
+both the CE statement and WLC assessment. Guidance on sustainable 
+sourcing is broader than the scope of the CE statements guidance, however the 
+embodied carbon should be a key consideration in all design decisions. In line 
+with Policy D3, development must aim for high sustainability standards. 
+
+Percentage by value is a tried and tested metric that was introduced by WRAP3 
+and implemented on the 2012 Olympics very successfully. More detail has been 
+provided in the guidance on 'percentage recycled content by value', including 
+
+ 
+3 We are aware that WRAP have discontinued this guidance, however we feel it still provides a robust 
+tool for this calculation. 
+
+GLA Planning   16 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+an example calculation from previous WRAP guidance. It is intended that more 
+metrics will be introduced in the future. 
+
+Evidence and justification are required by the guidance. Elements that are 
+contradictory to the aims of the circular economy should be designed out of 
+buildings.  
+
+A CE statement template has been developed to support the standardisation 
+of information submitted, and data comparison. 
+
+3.6 Structure 
+
+Q13: To what extent do you agree or disagree with the proposed structure for 
+Circular Economy Statements set out in Section 4.1? 
+
+Twenty-eight responses were received to this question, of which 89 per cent strongly 
+or somewhat agreed with the proposed structure, and 11 per cent neither agreed nor 
+disagreed. 
+
+Response Number Percentage 
+Strongly agree 7 25% 
+Somewhat agree 18 64% 
+Neither agree or disagree 3 11% 
+Total 28  
+
+ 
+
+Q14: Please tell us if you have any comments on the proposed structure 
+and/or if you have any changes you would like to suggest. 
+
+Thirteen responses were received to this question. Respondents suggested that: 
+
+• The guidance should closely align with WLC assessment, and link more to 
+WLC, and should refer to London Plan Policy SI 2. 
+
+• Clearer information on monitoring is needed.  
+
+• The minimum requirements, targets, responsibilities and approach to 
+assessment against CE principles should be made clearer. 
+
+• The requirements for pioneering statements should be made clearer.  
+
+• It is difficult getting detailed information early on. Targets are less appropriate 
+for pre-application or outline applications. 
+
+ 
+
+GLA response 
+
+More links have been made to the WLC assessments guidance and London 
+Plan Policy SI 2. 
+
+More information is included on monitoring and a separate section has been 
+added. 
+
+GLA Planning   17 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+Table 5 has been added highlighting the minimum requirements for different 
+application types. The targets have been made clearer. The Application 
+Flowchart (Appendix 2) outlines the key stages and responsibilities. Appendix 
+3 highlights the essential elements of CE statements against the circular 
+economy principles. 
+
+Information on pioneering statements has been made clearer – for example, 
+Section 4 Elements of Statements includes options for pioneering. Table 5 
+highlights which elements are expected as a minimum requirement, and which 
+are encouraged for different application types. 
+
+It is understood that it may be difficult to get detailed information early on. 
+However, applicants are expected to provide as much information as possible to 
+ensure circular economy principles and targets are embedded early in the design 
+process. 
+
+3.7 Assessment 
+
+Q15: Section 4.3 sets out the criteria for assessing Circular Economy 
+Statements. To what extent do you agree or disagree with this approach? 
+
+Twenty-seven responses were received to this question, of which 74 per cent agreed 
+with the criteria for assessing CE statements, 22 per cent neither agreed or 
+disagreed and four per cent somewhat disagreed. 
+
+Response Number Percentage 
+Strongly agree 7 26% 
+Somewhat agree 13 48% 
+Neither agree or disagree 6 22% 
+Somewhat disagree 1 4% 
+Total 27  
+
+ 
+
+Q16: Please tell us if you have any comments on the criteria for assessing 
+Circular Economy Statements and/or if you have any suggestions for 
+additional or alternative criteria. 
+
+Seventeen responses were received to this question. Respondents suggested that: 
+
+• The CE statements assessment criteria should be closely aligned with WLC 
+guidance. 
+
+• The minimum requirements should be made clearer, including the difference 
+between standard practice and pioneering statements and how this will be 
+identified. Some pioneering aspects were described as standard practice. 
+
+• The guidance should make clear how CE statements will be assessed, the 
+need for objective assessment criteria, and how the information will be used. 
+
+• Resources will be needed to assess CE statements, especially if applying to 
+lower thresholds. 
+
+ 
+
+GLA Planning   18 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+GLA response 
+
+The guidance has been aligned with the WLC guidance as far as is practical, for 
+example, with similar levels of information being required for different application 
+types. 
+
+The minimum requirements are now outlined in Table 5, as well as information that 
+is encouraged to be submitted. Information on level of ambition (see Section 3.4) has 
+been updated with pioneering elements made clearer. Options for pioneering 
+statements are included in Section 4 of the guidance.  
+
+An Application Flowchart (Appendix 2) has been added to make the assessment 
+process clearer. To support assessment, Appendix 3 shows the essential elements 
+of CE statements and how this links to Policy SI 7. The information will be used to 
+assess performance, develop benchmarks and future metrics.  
+
+To support assessment, training will be provided to boroughs, and resources 
+provided on the Circular Economy wiki. 
+
+3.8 Pioneering statements 
+
+Q17: Section 4.3.3 and Sections 4.4.48 - 4.4.52 set out the requirements for 
+‘pioneering’ statements. To what extent do you agree or disagree that this will 
+support the delivery of development that will achieve more ambitious circular 
+economy outcomes? 
+
+Twenty-six responses were received to this question, of which 69 per cent strongly 
+or somewhat agreed, 23 per cent neither agreed or disagreed and 8 per cent 
+somewhat disagreed that the requirements for ‘pioneering’ statements will support 
+the delivery of development that will achieve more ambitious circular economy 
+outcomes. 
+
+Response Number Percentage 
+Strongly agree 5 19% 
+Somewhat agree 13 50% 
+Neither agree or disagree 6 23% 
+Somewhat disagree 2 8% 
+Total 26  
+
+ 
+
+Q18: Please tell us if you have any comments on the requirements for 
+pioneering statements and/or if you have any changes you would like to 
+suggest. 
+
+Nineteen responses were received to this question. Respondents suggested that: 
+
+• The guidance should make clearer the assessment criteria and align to WLC, 
+and it should be clear how data will be verified.  
+
+• The guidance should apply pioneering requirements to the standard 
+approach. 
+
+GLA Planning   19 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+• There is a need for resources and training to support assessment. 
+
+• The guidance should promote innovative examples (demonstrator projects 
+and contractual arrangements such as ‘Product as a Service’ schemes) and 
+the GLA should provide support (including funding and in-kind) to applicants.  
+
+• Worked examples and pioneering statements should be shared to encourage 
+improvement and innovation. 
+
+• The guidance should have clearer incentives that encourage development to 
+be pioneering. 
+
+• Materials reused on and off-site should be reported separately to waste 
+recycled. 
+
+ 
+
+GLA response 
+
+The guidance has been updated to make clearer the assessment criteria (see for 
+example Appendix 3 Essential elements of CE statements). The Application 
+Flowchart (Appendix 2) highlights that the GLA will review CE statements for 
+referable applications. Applicants are strongly encouraged in the guidance to submit 
+an independent pre-demolition audit. Boroughs that are intending to require CE 
+statements for non-referable applications will need to scrutinise the information 
+submitted.  
+
+The level of ambition section has been updated to make clearer pioneering 
+aspects- for example, setting additional targets (for example, by providing separate 
+targets for reuse and recycling, and for on-site and/or local and off-site reuse). 
+Options for pioneering statements have been added to Section 4.  
+
+We hold regular workshops for local authorities on the Mayor’s policies and we will 
+hold a specific training session on CE statements.  
+
+The guidance is focused on explaining how to produce a CE statement and what is 
+required to comply with London Plan policies, rather than providing specific 
+examples of how to achieve circular economy outcomes. The GLA will promote 
+good practice examples and support, for example, on the Circular Economy wiki. 
+ReLondon are also developing a webpage promoting good practice examples and 
+providing support to businesses in this area. A contact email address has been 
+included for queries. We will consider what additional support applicants may need 
+on an ongoing basis. 
+
+The guidance includes a worked example for the recycled content by value 
+calculation (see Appendix 4) from previous WRAP guidance, and analysis of data 
+collected from CE statements to date (Appendix 1).  
+
+The CE primer includes information on the benefits of a circular economy and 
+incentives to be pioneering.  
+
+GLA Planning   20 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+The Recycling and Waste and Reporting table has been updated to include 
+separate columns for materials reused on and off-site, from materials recycled.  
+
+3.9 Monitoring 
+
+Q19: Sections 4.463 – 4.4.70 sets out how Circular Economy Statements 
+should be monitored and reported on post-planning/completion. To what 
+extent do you agree or disagree with this approach? 
+
+Twenty-seven responses were received to this question, of which 77 per cent 
+strongly or somewhat agreed with the approach to monitoring and reporting, 15 per 
+cent neither agreed or disagreed and 7 per cent somewhat disagreed. 
+
+Response Number Percentage 
+Strongly agree 12 44% 
+Somewhat agree 9 33% 
+Neither agree or disagree 4 15% 
+Somewhat disagree 2 7% 
+Total 27  
+
+ 
+
+Q20: Please tell us if you have any comments on the monitoring of Circular 
+Economy Statements and/or if you would like to suggest any changes. 
+
+Nineteen responses were received to this question. Respondents suggested that: 
+
+• More information is needed on reporting indicators and requirements and 
+monitoring.  
+
+• Use of Building Information Modelling (BIM) should be supported to improve 
+waste estimates early on. 
+
+• Post-completion reports should be secured by condition, with penalties or 
+actions imposed.  
+
+• Resources, expertise, and training should be provided to boroughs to assess 
+and monitor, especially for non-referable schemes. 
+
+• An online reporting form or standard electronic format should be used to 
+support data analysis and share lessons learned. 
+
+• Metrics or targets should be added or clarified (e.g. add a separate target for 
+minimum amounts of reused materials; clarify 20 per cent by value target). 
+
+• The guidance should align with the WLC and Be Seen guidance in terms of 
+securing requirements, submission timings and life-cycle approach. 
+
+ 
+GLA response 
+
+More information has been included on reporting indicators and requirements 
+and monitoring (see for example Sections 3.4 and 4, Table 5 and Appendix 3). 
+
+GLA Planning   21 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+The policy has been well received to date. Project teams are often keen to change 
+their designs, even in small ways, to consider new opportunities. The guidance aims 
+to drive change.  
+
+Training will be provided for boroughs and resources, for example on the Circular 
+Economy wiki, will be available to support assessment and monitoring. We 
+encourage CE statements for major development applications. However, we 
+recognise that local authorities need sufficient resource to assess CE statements. 
+Circular economy approaches are a fast-moving area in which new research, tools 
+and approaches are being developed. We have not set specific requirements for how 
+non-referable developments could meet the guidance to allow local authorities to 
+take their own approaches. As the process develops, standards will be improved and 
+we will share learning, for example via the Circular Economy wiki.  
+
+The guidance now includes a standard template Excel spreadsheet for applicants 
+to complete and submit as part of their CE statement. 
+
+Existing targets are set by current policies in the London Plan and London 
+Environment Strategy. Targets may change in the future as more evidence and data 
+is obtained. The Recycling and Waste Reporting table asks for data to be submitted 
+separating recycled and reused materials. The guidance clarifies that the 20 per 
+cent recycled content target is for the building as a whole, rather than for each 
+building element or layer. 
+
+Greater consistency has been achieved between the guidance and the WLC and 
+Be Seen Energy Monitoring guidance, for example, submission timings, 
+benchmarks being provided and minimum information requirements 
+
+Q21: Do you have any further comments to make on Section 4? 
+
+Eleven responses were received to this question. Respondents suggested that: 
+
+• Environmental Product Declarations (EPDs) and tracking site activities should 
+be required. It may be difficult to get information (e.g. on recycled content 
+from manufacturers) and verify data without EPDs, quantify reused 
+construction materials (due to difficulty tracking site activities) and record 
+material mass (as many materials are not ordered by weight). Data may be 
+high-level estimates. 
+
+• The guidance should make it clear how data will be collated and made 
+accessible (e.g. to waste planners), for example via an online reporting form. 
+
+• There should be more requirements on end-of-life strategies, such as 
+providing examples and requiring evidence early on. 
+
+• The guidance should require justification, and make clear how much should 
+be provided. 
+
+• Measuring mass alone is onerous and a crude metric. 
+
+• Clearer benefits and incentives are needed. 
+
+GLA Planning   22 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+• The guidance should provide examples and case studies of compliant CE 
+statements. 
+
+ 
+
+GLA response 
+
+It is recognised in the guidance that less information will be available for outline 
+planning applications and information may be high-level, with gaps (for example, 
+specific materials and products may not be known). However, it is expected that 
+information on certain materials will be available at outline stage, for example based 
+on experience from previous schemes, and to estimate costs. Applicants are 
+expected to provide as much information as possible to ensure circular economy 
+principles and targets are embedded early in the design process. Particularly 
+important to include at outline stage are building layers or elements that are likely to 
+be decided early on and which have the longest lifespans or will be changed less 
+frequently. We recognise that EPDs may assist with providing detailed, precise 
+information regarding materials and as such are encouraged for pioneering 
+statements; however, these could curtail development unnecessarily if mandated by 
+the guidance for all relevant schemes.   
+
+Section 3.3 of the guidance highlights how data should be submitted. The 
+Application Flowchart (Appendix 2) highlights roles and Table 5 highlights the key 
+stakeholders who should be involved by application type. To enable transparency of 
+information and monitoring, post-construction reports and any appendices will be 
+accessible to the public through the London Datastore. Appendix 1 in the guidance 
+includes data analysis from CE statements collected to date. 
+
+More information has been provided in the guidance on requirements relating to an 
+end-of-life strategy (see Table 5 and Section 4.7).  
+
+Paragraph 2.3.3 and 4.6.8 of the guidance set out the justification required for CE 
+statements. 
+
+Information is required by mass / weight (kg) to achieve consistency and enable 
+comparison and analysis. The same information is required in the WLC assessment. 
+Where materials are measured in alternative metrics, such as m3, these should be 
+converted into kilograms by applying material densities. There is a simple conversion 
+factor from volume to weight (multiple by density). The London Environment Strategy 
+requires reporting of the municipal waste target by weight and London Plan policies 
+refer to tonnes. 
+
+The CE primer sets out benefits and examples of circular economy design 
+approaches. The GLA will continue promote good practice examples and share 
+these with partners, for example via the Circular Economy wiki, to encourage 
+innovation. ReLondon, through the CIRCuIT project, are producing implementation 
+case studies and developing online portals and platforms, including around materials 
+exchange, to improve the availability and visibility of data.  
+
+GLA Planning   23 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+3.10 Resources, terms and further comments 
+
+Q22: Are there any other resources that may be useful to include in Section 5? 
+
+Fifteen responses were received to this question. Respondents suggested that: 
+
+• The GLA should share more resources*, examples and up-to-date metrics 
+(including via a webpage).  
+
+• More guidance is needed to assess CE statements, including what constitutes 
+compliance. 
+
+• The GLA should clarify the relationship between LPG and the CE primer. The 
+documents could be merged. 
+
+ 
+*The following resources were specifically recommended for inclusion in the 
+guidance: CE primer, London Energy Transformation Initiative (LETI) guidance, Ellen 
+MacArthur Foundation (EMF) procurement programme, CIRCuIT, UK Green Building 
+Council (UKGBC) Circular Economy guidance, Clarion Housing Circular Economy 
+strategy and academic research. 
+ 
+
+GLA response 
+
+The GLA will share best practice resources and examples via the Circular 
+Economy wiki. Up-to-date metrics have been included in the guidance (see 
+Appendix 1). Data from CE statements will be available publicly via the London 
+Datastore. Using the CE statements data, the GLA will develop and share further 
+metrics in the future. ReLondon, through the CIRCuIT project, are developing case 
+studies and guidance for boroughs and industry to support implementation.  
+
+Further information is included on the minimum requirements of CE Statements (see 
+Table 5), options for pioneering statements (see Section 4) and essential elements 
+of CE statements, in relation to policy (see Appendix 3). 
+
+A link to the primer has been added to the guidance, however it is not considered 
+necessary to merge the two as they serve different purposes. 
+
+Q23: Are there any other terms used in the guidance that should be defined in 
+the glossary? 
+
+Seven responses were received to this question. Clarification has been added in the 
+guidance to key terms, and therefore the glossary has been removed. The following 
+terms have been clarified, following consultation feedback: 
+
+• New Rules of Measurement (NRM) (see 2.1.3) 
+
+• Value (financial or other) (e.g. see 2.1.4) 
+
+• Demolition audit (see 4.6) 
+
+• Design for reusability - add ‘as a whole’ (Table 3 now includes this) 
+
+GLA Planning   24 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+The following terms, which were raised in response to this question, have been 
+removed from the guidance: 
+
+• Sustainable sourcing (it was noted that this term is too broad. It has been 
+made clearer that local sourcing is encouraged, especially for reprocessed 
+materials) 
+
+• ‘as is practicable’ (requirements have been made clearer) 
+
+Further suggestions included: 
+
+• Waste streams (e.g. AD/ Pyrolysis add to municipal definition) 
+
+• Metric could be embodied carbon of primary materials displaced by 
+reuse/recycling of secondary materials 
+
+• Add Frequently Asked Questions (FAQs) 
+
+• Add ‘repositioning’ as an option, close to ‘repurpose’ 
+
+ 
+
+GLA response 
+
+The definition of municipal waste from the London Plan has been added (see 
+footnote 31). 
+
+Metrics will be developed further in the future, as we receive more data. 
+
+The guidance clearly sets out the requirements for relevant development and a 
+FAQs section is not believed to be needed currently. This will be kept under review 
+as the guidance is implemented. 
+
+The circular economy design approaches and their definitions have been reviewed 
+and made clearer. ‘Repurpose’ has been removed from the decision tree hierarchy 
+of circular economy design approaches, to reflect that minimal changes should be 
+made to the fabric of buildings, regardless of whether they are changing use or not. 
+‘Repositioning’ has not been added as this could also draw attention away from 
+making the best use of building fabric, and also as this would not be sufficiently 
+distinct from other design approaches. 
+
+Q24: Do you have any further comments to make on the guidance? 
+
+Twenty-one responses were received to this question. Respondents suggested that: 
+
+• Make the requirements, reporting process, roles and responsibilities (e.g. for 
+assessment and monitoring) clearer (including LA role). 
+
+• Include a standard template to enable data comparison at different stages.  
+
+• Provide solutions/ideas and good practice examples, such as using vacant 
+land, introducing collection services and recycling centres, manufacturer 
+guidance (e.g. on recycled content, take back options, end of life routes), 
+product EPDs. Good practice examples were also shared. Make clearer the 
+benefits.  
+
+GLA Planning   25 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+• Require evidence and justification. 
+
+• Requirements difficult to achieve, especially for lower threshold applications. 
+Tailor methodology to project size. 
+
+• Barriers include influencing Government, industry and supply chain; logistical 
+support for transport, storage and testing of materials; consideration early-on; 
+data accessibility to LA planners. 
+
+• Resources, training, expertise and support for LA officers to assess, 
+particularly for lower threshold applications.  
+
+• Securing monitoring via planning condition or Section 106 agreement (include 
+template). 
+
+• Link to other submission requirements, in particular to WLC and embodied 
+carbon. 
+
+• Positive feedback for reuse, recycling, resource efficiency, refurbishment and 
+longevity as strategic approaches. 
+
+ 
+
+GLA response 
+
+An Application Flowchart (Appendix 2) has been added to make clearer the 
+reporting process. Also, Table 5 highlights the minimum submission requirements, 
+and key actors to involve. 
+
+A standard CE statement template has been added and should be completed by 
+applicants / developers as part of their CE statement submission. This has been 
+introduced to make the requirements clearer and standardise information collection.  
+
+The GLA will share best practice examples via the Circular Economy wiki and 
+through training. ReLondon, through the CIRCuIT project, are delivering training, 
+developing e-learning and producing case studies highlighting implementation of 
+circular economy in London. An example of recycled content by value calculation 
+has been included. The purpose of the guidance is to provide information on what is 
+expected in a CE statement.  
+
+The guidance refers to justification required. 
+
+CE statements are being submitted. Whilst information early on may be high-
+level with gaps, as much as information should be provided to embed circular 
+economy design approaches into the scheme. CE statements are currently only 
+required for referable applications. 
+
+The GLA works with partners to address barriers to the circular economy. The GLA 
+is looking at safeguarding land for circular economy uses if not on-site. We are trying 
+to retain industrial capacity and provide sufficient capacity for increased demand for 
+more circular economy sites. ReLondon are looking at storage and logistic 
+requirements needed to facilitate more reuse and are discussing with boroughs 
+developing circular economy hubs centres for innovation, reuse, remanufacturing 
+
+GLA Planning   26 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+and re-testing. Data from CE statements will be accessible through the London 
+Datastore. 
+
+Boroughs will be expected to ensure that CE statements are submitted as part of 
+referable applications and that a post-construction CE statement report is secured. 
+Where possible we would also encourage boroughs to review the information 
+submitted. The GLA will be reviewing CE statements for referable applications, 
+similarly to the review we undertake of energy strategies. Boroughs that are 
+intending to require CE statements for non-referable applications will need to 
+scrutinise the information submitted in addition to securing the post-construction 
+statement and storing the information received. We hold regular workshops for local 
+authorities on the Mayor’s policies and we will hold a specific training session on CE 
+statements. The guidance and CE template include an email address for queries. 
+We will consider what additional support may need on an ongoing basis.  
+
+The submission of a post-construction report should be secured by local planning 
+authorities (LPAs) either by condition or obligation. As the LPA approves the 
+discharge of conditions and obligations, it is responsible for verifying that reports 
+have been received for referable applications and for submitting these to the GLA for 
+review. Suggested wording for securing post-construction monitoring reports is 
+available on the GLA’s website. This wording may be adapted over time to improve 
+the submission process and ensure it is robust.  
+
+More references have been included to other submission requirements, such as the 
+WLC guidance and embodied carbon.  
+
+4. Other themes raised during engagement 
+
+25 November 2021 – all stakeholders engagement event 
+
+Additional questions raised from the consultation events (which were not highlighted 
+above) were: 
+
+• Volume or area of materials should be used rather than kg for reporting. 
+
+• How will you challenge assertions that retention of an existing building isn’t 
+viable?  
+
+• A target for reuse is needed. 
+
+• Is there the potential for taxation to be used as a lever in favour of reuse?  
+
+• Is the minimum 20 per cent recycled content for each element (external wall) 
+or material (brick)?  
+
+• How relevant are privately owned reclamation yards in promoting re-use? 
+How does someone with a new reuse or remanufacturing enterprise access 
+'circular economy sites'?  
+
+• Does the Bill of Materials template need to be finalised before planning?  
+
+ 
+
+GLA Planning   27 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+GLA response 
+
+We want to get consistent figures for analysis. We recognise that kg isn't always 
+available, but we have received over 30 statements now that have included kg for 
+the key materials. 
+
+The LPG, aims to drive more consideration of retention over demolition, making 
+sure this is seen as the starting point. The requirements for pre-redevelopment and 
+pre-demolition audits will enable the scrutiny of applications in order to ensure that 
+the potential to retain existing buildings has been robustly explored.  
+
+With better data we would look to targets based on embodied carbon saved through 
+reuse, rather than only weight. This would also help to delineate 'high value 
+recycling' from typical downcycling.  
+
+Taxation is a Government decision. The Architect's Journal Retro First campaign is 
+lobbying on this point.  
+
+The minimum 20 per cent recycled content target is for the building overall.   
+
+Privately owned reclamation yards may be part of the picture for encouraging take-
+up of the circular economy. However, this is outside the scope of this guidance. 
+Organisations such as ReLondon and resources such as the London Waste Map 
+may be able to provide further information. 
+
+The Bill of Materials table needs to be finalised at full application stage 
+
+30 November 2021 – borough engagement event 
+
+Additional questions raised from the consultation events (which were not highlighted 
+above) were: 
+
+• Why does the guidance only apply to referable schemes instead of all major 
+developments?  
+
+• When will evidence need to be submitted post-planning?  
+
+• Are we involving construction contractors? 
+
+ 
+
+GLA response 
+
+London Plan policy requires referable applications to produce CE statements, but 
+encourages boroughs to introduce lower thresholds. 
+
+The post-completion CE statement must be submitted within 3 months of 
+completion of construction. 
+
+Organisations such as ReLondon are keen to engage with construction 
+contractors as part of this process. 
+
+GLA Planning   28 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+3 December 2021 - all stakeholders engagement event 
+
+Additional questions raised from the consultation events (which were not highlighted 
+above) were: 
+
+• What process is there to encourage design teams to design building elements 
+to be demounted at the end of life of a building?  
+
+• How does the LPG ensure buildings are designed to reduce waste during 
+construction (e.g. packaging waste, which can account for up to 25 per cent of 
+construction waste by volume, temporary protection and hoardings, and 
+temporary shuttering for concrete structures)? 
+
+• Is there any work taking place to help create the infrastructure; associated 
+businesses; tools and logistics to support circular economy practices (e.g. 
+digital platforms to identify sources of available resources)? 
+
+• What level of detail is required to be submitted at planning, when the design is 
+only at RIBA Stage 3, particularly within the Bill of Materials?  
+
+• The focus appears to be on minimising waste within the building design and 
+construction rather than considering wider circular economy business models 
+that could be adopted, particularly during the operation of the building. Is that 
+intentional?  
+
+• How is viability assessed in the context of Table 1?  
+
+ 
+
+GLA response 
+
+CE statements are expected to demonstrate circular economy principles, including 
+design for disassembly, provide end of life scenarios in the Bill of Materials, and 
+submit an End of Life strategy. 
+
+The Recycling and Waste Reporting table includes monitoring of construction 
+waste produced. Applicants and developers need to demonstrate compliance with 
+Policy SI 7 targets. 
+
+The GLA is looking at safeguarding land for circular economy uses if not on-site. 
+London Plan policies E4-E7 seek to retain sufficient industrial capacity, and this 
+approach factors in the provision of sufficient capacity for circular economy sites. 
+ReLondon are looking at storage and logistics requirements to facilitate reuse and 
+are discussing with boroughs developing circular economy hubs the potential for 
+centres for innovation, reuse, remanufacturing and re-testing. ReLondon are 
+developing online platforms, including around materials exchange, to improve the 
+availability and visibility of data. To enable transparency of information and 
+monitoring, post-construction reports and any appendices will be made available to 
+the public through the London Datastore. 
+
+Table 5 in the LPG sets out the minimum submission requirements by application 
+type. Refer to the CE statement template Bill of Materials table.  
+
+GLA Planning   29 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+The guidance encourages a focus on operational waste, for example by requiring 
+an Operational Waste Management Plan to be submitted at full application stage. 
+
+Applicants will be expected to provide an explanation for how they are meeting the 
+circular economy principles, and robust justification where they are not following 
+the hierarchy of circular economy design approaches outlined in the decision tree 
+(Figures 4 and 5 in the guidance).  
+
+5. Equality impacts  
+
+As part of the consultation, a draft Equality Impact Assessment (EqIA) was 
+undertaken, which did not identify any negative equality impacts on protected 
+groups. A survey on the EqIA was published and consulted on as part of the overall 
+consultation on the draft guidance. 
+
+No responses were received to the EqIA survey on the draft CE statements 
+guidance. No responses to the main LPG consultation survey referred to or identified 
+any equality impacts resulting from the guidance.  
+
+The EqIA however has been updated for the published CE statements guidance and 
+will be kept under review. 
+
+6. Next steps and monitoring  
+
+There was a significant level of interest in the development of the policy at pre-
+consultation stage. We would like to thank everyone who took the time to contribute, 
+including in the context of a pandemic situation.  
+
+All views that were shared have considered in the development of the final CE 
+statements guidance and the key points are detailed in this report. 
+
+Data from CE statements will be analysed by the GLA and lessons learned will be 
+shared. CE statements will be shared publicly through the London Datastore. 
+Training will be provided to borough officers. 
+
+Stay informed: 
+
+Circular Economy statements LPG consultation webpage 
+
+Circular Economy wiki and case studies 
+
+Previous GLA circular economy consultation events  
+
+The guidance will be monitored and kept under review. For any queries please 
+email: circulareconomystatements@london.gov.uk / londonplan@london.gov.uk   
+
+GLA Planning   30 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+Appendix 1: Summary of formal engagement 
+
+Date Activity Type Participation Representation 
+13 Oct – 15 Jan Consultation survey All 33 responses 
+2021 and written 
+
+responses 
+25 Nov 2020 Webinar All 40 attendees  
+30 Nov 2020 Webinar Borough 20 attendees  
+3 Dec 2020 Webinar All 40 attendees  
+
+GLA Planning   31 
+
+ 
+
+
+
+Circular Economy Statements London Plan Guidance - consultation summary report 
+
+ 
+
+GLA Planning   1
