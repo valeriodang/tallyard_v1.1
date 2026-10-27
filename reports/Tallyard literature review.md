@@ -258,6 +258,12 @@ Files are under `platform/src/domain/reference/` (mirrored in `src/domain/refere
 
 ## 6. What is missing from the folder
 
+**Update, 27 October 2026.** Eight more documents arrived after this review (D53 to D60). They are in `research_notes/Literature review/08_new_documents_october.md`, which also has the updated gap status. In short:
+- **Closed.** The CES template and its columns; the UK audit report format; the consultant's workflow; ICE V3 factors for common materials; and the RICS end-of-life defaults.
+- **Mostly closed.** Raised floor recertification by the trade route, and real reclaimed specification clauses.
+- **Partly closed.** BREEAM numbering, for V6 only. V6 numbers material efficiency Mat 06; Mat 05 is durability.
+- **Unchanged.** Everything else below.
+
 **Priority 1: needed for the compliance wedge or the core engines**
 - **GLA primary documents:**
   - London Plan 2021 policy SI 7;

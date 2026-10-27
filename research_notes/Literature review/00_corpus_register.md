@@ -1,6 +1,6 @@
 # Literature review: corpus register
 
-The folder `reference literature/` (added to `main` in commit 609cf8b on 27 October 2026) holds 84 files. They are 51 text extractions of PDFs, 4 saved web pages and 29 images. Removing three duplicates leaves 52 unique documents. Every file was read in full for this review; the detailed notes are in files 01 to 07 of this folder and the synthesis is in `reports/Tallyard literature review.md`.
+The folder `reference literature/` (added to `main` in commit 609cf8b on 27 October 2026) holds 84 files. They are 51 text extractions of PDFs, 4 saved web pages and 29 images. Removing three duplicates leaves 52 unique documents. Every file was read in full for this review; the detailed notes are in files 01 to 07 of this folder. Nine more files were added later on 27 October 2026 (D53 to D60, eight documents, one held as both PDF and text); they are reviewed in note 08 and the synthesis is in `reports/Tallyard literature review.md`.
 
 Line references in the notes (L123) point to the file as stored in the folder. Text was extracted from PDFs, so two-column pages and large tables are interleaved; where that garbled a figure the notes say so.
 
@@ -85,6 +85,14 @@ Line references in the notes (L123) point to the file as stored in the folder. T
 | D50 | resource_1052.txt | Circular economy in offices: implementing circular principles in fit-out and new-build offices | British Council for Offices, with Reusefully | 2022 | Industry guide | UK | Medium to high | 13, 14, 6 | 06 |
 | D51 | wmca-circular-economy-routemap-final-full-document-reduced.txt | West Midlands' circular economy routemap | West Midlands Combined Authority, by Useful Projects and SOENECS | 2021 | Regional strategy | West Midlands | Medium | 2, 6, 7, 9, 10, 11, 17 | 06 |
 | D52 | wpt3_d_2_2_procurement_strategies_20220208.txt | Reuse toolkit: procurement strategies, integrating reuse in large-scale projects and public procurements | Rotor and Bellastock with Brussels Environment, BBRI, CSTB (FCRBE) | 2022 | Procurement guide with model clauses | Belgium and France, EU law | High on mechanics; medium for UK use | 10, 1, 2, 3, 5, 6, 8, 9, 11, 12, 13, 15, 16, 18 | 04 |
+| D53 | gla_circular_economy_statements_template.xlsm | Circular economy statement template (spreadsheet) | Greater London Authority | 2022 | Template | London | High | 2, 6, 7, 9, 13 | 08 |
+| D54 | REUSEFULLY - WORKFLOW.docx | Circular economy statement workflow (service description) | Reusefully | Undated | Practice note | London | Medium | 6, 13 | 08 |
+| D55 | Pre-Redevelopment Audit Report - High Holborn v2 - Reusefully Ltd 19.06.23.txt | Pre-redevelopment audit report, three-building office site | Reusefully, for the owner's cost consultant | 2023 | Audit report | London | High | 6, 13, 15 | 08 |
+| D56 | Reusefully Pre-Demolition Audit Report - High Holborn - 16.09.2024 v1.2.txt | Pre-demolition audit report, version 1.2, same site | Reusefully | 2024 | Audit report | London | High | 5, 6, 7, 8, 14, 15 | 08 |
+| D57 | 294009-ARP-RP-YS-10001 Circular Economy Statement _MMA Draft Issue.txt | Circular economy statement, revision P04 (Section 73 update), same site | Arup, for the applicant | 2024 to 2026 | Planning statement | London | High | 2, 6, 8, 9, 13, 16 | 08 |
+| D58 | 01061-Detailed Architectural Specification-2024-08-30-DetailedRevisions.txt | Detailed architectural specification, revision P09, new office in a conservation area | Make, for GPE | 2024 | Specification | London | High | 3, 5, 10, 14 | 08 |
+| D59 | 1198-St James Ph 2 - Architectural Specification-2026-09-04.txt | Architectural specification, revision 001, mixed-use block with a listed cinema | Make, for The Crown Estate | 2026 | Specification | London | High | 3, 10 | 08 |
+| D60 | 070HAY-WPL-XXX-XXX-RP-ME-12830_P02.txt | Stage 3 sustainability report, issue P02, with BREEAM V6.1 trackers and the landowner's development sustainability principles | Watkins Payne, for The Crown Estate | 2026 | Sustainability report | London | High | 3, 6, 7, 8, 13 | 08 |
 
 ### Duplicates and partial copies
 
@@ -96,6 +104,7 @@ Line references in the notes (L123) point to the file as stored in the folder. T
 | S2352550925001174.htm (D31) | Abstract page only; the full paper is not in the folder |
 | Circular Buildings Toolkit.html (D19) | Landing page only; the toolkit's strategies and case studies were not saved |
 | BS 8001 FLYER v4.txt (D18) | A 2016 consultation flyer, not the standard |
+| 1198-St James Ph 2 - Architectural Specification-2026-09-04.pdf | The PDF of D59; the review used the text extraction |
 
 ## Images
 
