@@ -9,6 +9,9 @@ import type { AppData, ReservationStatus, Viewer } from '../types'
 import { isProjectArchitect, projectSide, projectsOfUser, roleOfUser } from '../access'
 import { acceptedReservation, generalWishlist, isLotAvailable, listingOf, lotByPublicId, projectCanSee, projectWishlist, saveBlock } from '../lots'
 import { listingCard, projectRef, RESERVATION_STATUS_LABELS, SHORTLIST_STATUS_LABELS, todayOf, type ListingCard, type ProjectRef } from './common'
+import { specClauseRows, type ClauseRow } from '../../domain/engines/procurement'
+import { ROUTE_LABELS, SELECTION_STEPS } from '../../domain/reference/procurement'
+import { clauseDefaultRoute, packOf } from '../actions/procurement'
 
 export type RowState = 'ok' | 'not_shared' | 'not_available'
 
@@ -172,7 +175,20 @@ export type SpecificationView = {
   mode: SpecMode
   sheet: SpecSheet
   headerNote: string
-  clauses: { publicId: string; title: string; status: WishStatus; statusLabel: string; rows: SpecSheet['blocks'][number]['rows']; note: string; reserved: boolean }[]
+  clauses: {
+    publicId: string
+    title: string
+    status: WishStatus
+    statusLabel: string
+    rows: SpecSheet['blocks'][number]['rows']
+    note: string
+    reserved: boolean
+    /** Round 3, stage 6: the reuse clause in the FCRBE factsheet 12 structure, generated unless the architect wrote it. */
+    reuse: ClauseRow[]
+  }[]
+  /** Round 3, stage 6: the selection pattern every reuse clause follows, and the client's supply route. */
+  selectionSteps: string[]
+  routeText: string
   canEdit: boolean
   counts: { approved: number; draft: number }
   fileName: string
@@ -214,8 +230,22 @@ export function specificationView(state: AppData, viewer: Viewer, projectId: str
     clauses: sheet.blocks.map((b) => {
       const lot = lotByPublicId(state.world, b.publicId)
       const held = lot ? acceptedReservation(state, lot.id) : null
-      return { publicId: b.publicId, title: b.title, status: b.status, statusLabel: SHORTLIST_STATUS_LABELS[b.status], rows: b.rows, note: spec.clauseNotes[b.publicId] ?? '', reserved: held?.projectId === projectId }
+      const family = rows.find((r) => r.publicId === b.publicId)!.card!.listing.family
+      return {
+        publicId: b.publicId,
+        title: b.title,
+        status: b.status,
+        statusLabel: SHORTLIST_STATUS_LABELS[b.status],
+        rows: b.rows,
+        note: spec.clauseNotes[b.publicId] ?? '',
+        reserved: held?.projectId === projectId,
+        reuse: specClauseRows(family, spec.clauses?.[b.publicId], clauseDefaultRoute(state, projectId, b.publicId)),
+      }
     }),
+    selectionSteps: SELECTION_STEPS,
+    routeText: state.procurement[projectId]
+      ? `Supply route set by the client: ${ROUTE_LABELS[packOf(state, projectId).route].toLowerCase()}. Items the client has reserved are issued free.`
+      : `Supply route until the client sets one: ${ROUTE_LABELS[packOf(state, projectId).route].toLowerCase()}. Items the client has reserved are issued free.`,
     canEdit: side === 'architect',
     counts: { approved: pick('approved').length, draft: pick('draft').length },
     fileName: `${slug(p.name)}-specification-${todayOf(viewer)}.xlsx`,

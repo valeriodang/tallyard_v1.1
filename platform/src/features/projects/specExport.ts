@@ -18,6 +18,12 @@ export function specTable(view: Pick<SpecificationView, 'clauses'>): SpecTable {
   return { columns, rows }
 }
 
+/** The reuse clauses as a table: Public ID, Title, then each row of the clause. */
+export function reuseTable(view: Pick<SpecificationView, 'clauses'>): SpecTable {
+  const labels = view.clauses[0]?.reuse.map((r) => r.label) ?? []
+  return { columns: ['Public ID', 'Title', ...labels], rows: view.clauses.map((c) => [c.publicId, c.title, ...c.reuse.map((r) => r.value)]) }
+}
+
 /** The lines above the table: title, project line, which materials, the header note, then each caveat. */
 export function specHeadLines(view: Pick<SpecificationView, 'sheet' | 'mode' | 'headerNote'>): { title: string; lines: string[]; caveats: string[] } {
   const which = view.mode === 'approved' ? 'Approved materials.' : 'Draft: every material not declined, approved first.'
@@ -54,6 +60,15 @@ export async function buildSpecWorkbook(view: SpecificationView, today: string):
   ws.views = [{ state: 'frozen', ySplit: header.number }]
   if (table.rows.length === 0) ws.addRow(['No materials in this schedule yet.'])
   for (const r of table.rows) ws.addRow(r).alignment = { vertical: 'top', wrapText: true }
+  // Round 3, stage 6: the reuse clauses, in the FCRBE factsheet 12 structure, on a sheet of their own.
+  const reuse = reuseTable(view)
+  const rs = wb.addWorksheet('Reuse clauses')
+  rs.columns = reuse.columns.map((_, i) => ({ width: i === 0 ? 12 : i === 1 ? 32 : 40 }))
+  rs.addRow([view.routeText])
+  for (const step of view.selectionSteps.map((x, i) => `${i + 1}. ${x}`)) rs.addRow([step])
+  rs.addRow([])
+  rs.addRow(reuse.columns).font = { bold: true }
+  for (const r of reuse.rows) rs.addRow(r).alignment = { vertical: 'top', wrapText: true }
   const out = await wb.xlsx.writeBuffer()
   if (out instanceof ArrayBuffer) return out
   const v = out as ArrayBufferView

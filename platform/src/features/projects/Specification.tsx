@@ -10,6 +10,7 @@ import { specificationView, type SpecificationView, type SpecMode } from '../../
 import { Button, cx, EmptyState, SegmentedControl, StatusPill, Textarea, toast } from '../../ui'
 import { downloadBlob } from '../../app/download'
 import { ProjectPage } from './ProjectParts'
+import { ReuseClause } from './ReuseClause'
 import { buildSpecWorkbook, XLSX_MIME } from './specExport'
 import './spec-print.css'
 
@@ -115,6 +116,7 @@ function Clause({ clause, index, view, projectId }: { clause: SpecificationView[
           </div>
         ))}
       </div>
+      <ReuseClause projectId={projectId} publicId={clause.publicId} rows={clause.reuse} canEdit={view.canEdit} />
       <div className="mt-4">
         {view.canEdit ? (
           <NoteEditor
@@ -217,6 +219,22 @@ export function Specification() {
               <ReadNote value={view.headerNote} label="Notes for this schedule" />
             )}
           </div>
+        ) : null}
+
+        {!view.empty ? (
+          <section className="mt-6 rounded-lg border border-line-soft bg-page/50 p-4 print:border-0 print:bg-transparent print:p-0" data-testid="spec-selection" aria-labelledby="spec-selection-title">
+            <h3 id="spec-selection-title" className="m-0 text-sm font-semibold text-ink">
+              Reclaimed items: selection and supply
+            </h3>
+            <p className="m-0 mt-1 text-sm text-ink-soft" data-testid="spec-route">
+              {view.routeText}
+            </p>
+            <ol className="m-0 mt-2 flex list-decimal flex-col gap-1 pl-5 text-sm text-ink-soft">
+              {view.selectionSteps.map((step) => (
+                <li key={step}>{step}</li>
+              ))}
+            </ol>
+          </section>
         ) : null}
 
         {view.empty ? (

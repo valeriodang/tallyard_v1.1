@@ -88,5 +88,8 @@ scripts/               scan.mjs, make-samples.mjs, make-photo-fixture.mjs, shots
      - Matching tab: the architect loads a steel schedule and matches it against stock, with cut to length, offcuts back to stock, the 30% excess rule and the steel in stock by serial size. BIM matching stays in version 2.
      - Deal terms: the client proposes a model (client-driven, stockholder, hybrid, forward sale) and its terms with a request; the seller reads them banded until accepting. Rates are placeholders.
      - Portfolio-first: the owner holds a private lot for its own projects, which see it and allocate it directly.
+   - Stage 6a is done: specification v2 and the client's procurement pack.
+     - A reuse clause in the FCRBE factsheet 12 structure under each specification clause, with the selection pattern and the supply route.
+     - The client's Procurement tab: objective, supply route and responsibility matrix, clause pack, award criteria, unit prices with a provisional sum, market consultation annex, Word and spreadsheet exports.
    - Test changes are logged in `platform/feedback/r3-test-changes-*.md` and decisions in `platform/feedback/r3-decisions.md`.
 5. Literature review of `reference literature/` done (27 October 2026): `reports/Tallyard literature review.md`, notes in `research_notes/Literature review/`. It recommends reference-value updates and ranks 17 features; none is built until the user chooses. Eight later documents (D53 to D60) are reviewed in note 08 with the updated gap status.

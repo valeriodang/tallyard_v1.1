@@ -21,6 +21,7 @@ import * as contractorWork from './actions/contractorWork'
 import * as quality from './actions/quality'
 import * as recovery from './actions/recovery'
 import * as stock from './actions/stock'
+import * as procurement from './actions/procurement'
 
 function bind<V, A extends unknown[]>(fn: (s: AppData, actor: Actor, ...args: A) => ActionResult<V>): (...args: A) => Outcome<V> {
   return (...args: A) => useApp.getState().run(fn, ...args)
@@ -150,6 +151,11 @@ export const act = {
   loadSteelSchedule: bind(stock.loadSteelSchedule),
   clearSteelSchedule: bind(stock.clearSteelSchedule),
   saveStockMatch: bind(stock.saveStockMatch),
+  // Specification v2 and the procurement pack
+  editSpecClause: bind(procurement.editSpecClause),
+  saveProcurement: bind(procurement.saveProcurement),
+  setAwardTemplate: bind(procurement.setAwardTemplate),
+  saveAwardCriteria: bind(procurement.saveAwardCriteria),
   // Team, profile, organisation and notifications
   createInvite: bind(team.createInvite),
   revokeInvite: bind(team.revokeInvite),

@@ -363,7 +363,8 @@ describe('the sidebar', () => {
     expect(after.sections.map((x) => x.title)).toEqual([null, 'Donor buildings', 'New projects', null])
     expect(after.sections[0].items.map((i) => i.label)).toEqual(['Home', 'Marketplace'])
     // Round 2 (client-consultant design 11): the owner is the client of its New project, so it gets the client's tabs, with Sustainability in place of Carbon and Requirements.
-    expect(after.sections[2].items[0].children.map((c) => c.label)).toEqual(['Overview', 'Approvals', 'Reservations', 'Specification', 'Sustainability', 'Requirements'])
+    // Round 3, stage 6: the client's Procurement tab follows Reservations. Logged in r3-test-changes-stage6.
+    expect(after.sections[2].items[0].children.map((c) => c.label)).toEqual(['Overview', 'Approvals', 'Reservations', 'Procurement', 'Specification', 'Sustainability', 'Requirements'])
     for (const tab of ['sustainability', 'requirements', 'carbon']) expect(sel.routeAccess(r.state, viewer(U.tom), `/app/projects/${r.value}/${tab}`)).toBe('ok')
     for (const tab of ['targets', 'certification', 'statement', 'compliance']) expect(sel.routeAccess(r.state, viewer(U.tom), `/app/projects/${r.value}/${tab}`)).toBe('forbidden')
     expect(sel.sustainabilityView(r.state, viewer(U.tom), r.value)).not.toBeNull()

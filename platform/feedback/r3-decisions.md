@@ -175,3 +175,32 @@ Decisions taken while building round 3 (`BRIEF.md` section 15), with the reason 
   - The reservation is accepted at once, with no request and no blind stage, since both sides are one organisation. Other waiting requests are declined, as on any acceptance.
   - Requesting your own lot is still refused, as in round 2.
 - `SEED_REVISION` is now 5, for the new key. No seeded figure changes.
+
+## Stage 6a
+
+- **Specification v2 adds a reuse clause to each clause of the schedule, in the FCRBE factsheet 12 structure.** It is generated from the family's guides until the architect writes their own text. Its rows are:
+  - the supply route;
+  - location;
+  - ranges and tolerances;
+  - accepted patina;
+  - operations on the batch;
+  - acceptance, from the grading checks and reject rules;
+  - surplus, from the grading guide;
+  - storage;
+  - the new fallback;
+  - a marking line that keeps CE or UKCA marking for new products.
+- **The schedule carries the selection pattern once.** It is the nine steps from the London specification with reclaimed clauses.
+- **The architect's entries are stored per clause in `specs[projectId].clauses`.** Clearing a field returns it to the generated text. The spreadsheet gains a "Reuse clauses" sheet, and the main sheet is unchanged.
+- **A clause's supply route is free issue once the client holds the item for the project, else the route in the client's pack.** The architect may set a clause's route.
+- **The procurement pack is the client's, on a new Procurement tab.** It is stored in a new `procurement` key. Without a saved pack it reads:
+  - the ambitious level, 5% by value;
+  - the route: sourced by the contractor, or free issue once the client holds reserved material;
+  - the clauses written for that route;
+  - the works award weightings;
+  - a 10% provisional sum, which is a placeholder.
+- **The four supply routes and the responsibility matrix follow FCRBE factsheets 3, 4 and 12 and the London specification.** The routes are free issue, sourced by the contractor, through a dealer, and a reuse lot. The matrix says who buys, stores, prepares, tests, insures and is liable.
+- **The clause library adapts the FCRBE model clauses.** It is labelled as needing UK legal review. The review clause carries the 15% cap.
+- **Award templates come from FCRBE factsheet 15.** The split of each template's remaining weights is a placeholder, and Methodology says so. The client's own weights must be whole numbers, add up to 100 and weight reuse somewhere. The toolkit asks for a reuse criterion in every contract.
+- **The price schedule lists the approved materials.** For each it gives the reclaimed range at the public low and high guide prices and the same new at the family's new price, plus a provisional sum on the guide total. The market consultation annex lists every material not declined, from public facts.
+- **The pack exports as Word, through the statement's `docxParts`, and as a workbook with six sheets.** Both are built from the view only, and privacy tests reopen them.
+- `SEED_REVISION` is now 6, for the new key.

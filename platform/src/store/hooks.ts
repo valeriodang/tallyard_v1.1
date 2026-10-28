@@ -30,6 +30,7 @@ export function useData(): AppData {
       audits: s.audits,
       contractorWork: s.contractorWork,
       recoveryPlans: s.recoveryPlans,
+      procurement: s.procurement,
       ui: s.ui,
     })),
   )

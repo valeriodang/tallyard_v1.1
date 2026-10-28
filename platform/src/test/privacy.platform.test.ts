@@ -105,6 +105,7 @@ function buyerViews(s: AppData, v: Viewer): [string, unknown][] {
     add(`reservations ${p.name}`, sel.reservationsView(s, v, p.id))
     add(`compliance ${p.name}`, sel.complianceView(s, v, p.id))
     add(`stock ${p.name}`, sel.stockMatchView(s, v, p.id))
+    add(`procurement ${p.name}`, sel.procurementView(s, v, p.id))
     for (const [name, view] of sustainabilityViews(s, v, p.id)) add(`${name} ${p.name}`, view)
     for (const it of projectWishlist(s.world, p.id)?.items ?? []) publicIds.add(it.publicId)
     for (const g of sel.sharedGroups(s, v)) for (const c of g.cards) publicIds.add(c.publicId)

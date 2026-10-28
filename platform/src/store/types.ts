@@ -5,6 +5,7 @@ import type { BuildingAudit } from '../domain/auditTypes'
 import type { ContractorWork } from '../domain/contractorTypes'
 import type { RecoveryRoute } from '../domain/reference/recovery'
 import type { DealTerms } from '../domain/dealTypes'
+import type { ProcurementPack, SpecClauseV2 } from '../domain/procurementTypes'
 import type { TermsBase } from '../domain/engines/dealTerms'
 import type { Fit } from '../domain/v1types'
 import type { TestService } from '../domain/reference/testing'
@@ -207,7 +208,13 @@ export type TestingRequest = {
 }
 
 /** The architect's own words on a project's specification: a header note and one note per clause. */
-export type SpecDoc = { header: string; clauseNotes: Record<string, string>; updatedAt: string | null }
+export type SpecDoc = {
+  header: string
+  clauseNotes: Record<string, string>
+  updatedAt: string | null
+  /** Round 3, stage 6: the architect's own entries in each reuse clause, by public ID. Absent until the first. */
+  clauses?: Record<string, SpecClauseV2>
+}
 
 export type OrgProfile = { address: string }
 
@@ -275,6 +282,8 @@ export type AppData = {
   contractorWork: ContractorWork
   /** Round 3, stage 5: the owner's chosen recovery route for each item, by building. Owner-private. */
   recoveryPlans: Record<string, RecoveryPlan>
+  /** Round 3, stage 6: the client's procurement pack, by project. */
+  procurement: Record<string, ProcurementPack>
   ui: UiState
 }
 

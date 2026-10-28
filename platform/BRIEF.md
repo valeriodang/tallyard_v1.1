@@ -444,3 +444,14 @@ Round 3 is a working name, used in documents and test logs. Screens say "Updated
   - LEED v5 interiors MRc1 and MRc5 calculators;
   - WELL X01 to X03.
 - **An indicators panel** for consultants, owners and clients.
+- **As built (stage 6a):**
+  - **Specification tab:** a reuse clause under each clause, editable by the architect and read by the client, with the selection pattern and the supply route at the head of the schedule. The spreadsheet has a "Reuse clauses" sheet.
+  - **Procurement tab (the client's):**
+    - the reuse objective;
+    - the supply route with the responsibility matrix;
+    - the clause pack;
+    - the award criteria;
+    - reclaimed and new unit prices with a provisional sum;
+    - the market consultation annex;
+    - Word and spreadsheet exports.
+

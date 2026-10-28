@@ -60,6 +60,8 @@ export function projectTabs(state: AppData, side: ProjectSide, p: Project): Proj
       tab('overview', 'Overview', ''),
       tab('approvals', 'Approvals', '/approvals', waiting > 0 ? waiting : null),
       tab('reservations', 'Reservations', '/reservations'),
+      // Round 3, stage 6: the client's procurement pack.
+      tab('procurement', 'Procurement', '/procurement'),
       tab('specification', 'Specification', '/specification'),
       tab('sustainability', 'Sustainability', '/sustainability', badges.statementForReview ? 1 : null),
       tab('requirements', 'Requirements', '/requirements', atRisk),

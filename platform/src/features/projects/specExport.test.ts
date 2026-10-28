@@ -8,7 +8,8 @@ import { lotPrivateStrings } from '../../domain/privacy/privateStrings'
 import { specificationView } from '../../store/selectors/shortlist'
 import { editSpecClauseNote, editSpecHeader } from '../../store/actions/projects'
 import type { AppData } from '../../store/types'
-import { buildSpecWorkbook, specHeadLines, specTable } from './specExport'
+import { buildSpecWorkbook, reuseTable, specHeadLines, specTable } from './specExport'
+import { editSpecClause } from '../../store/actions/procurement'
 
 function text(v: ExcelJS.CellValue): string {
   if (v === null || v === undefined) return ''
@@ -94,5 +95,22 @@ describe('buildSpecWorkbook', () => {
     for (const c of view.clauses) expect(texts).toContain(c.publicId)
     const joined = texts.join('\n')
     for (const p of privateStrings(s)) expect(joined, p).not.toContain(p)
+  })
+})
+
+describe('the reuse clauses sheet (round 3, stage 6)', () => {
+  it("writes each clause in the factsheet 12 structure, with the architect's own entries", async () => {
+    let s = fresh()
+    const first = specificationView(s, viewer(U.priya), MERROWGATE_ID, 'draft')!.clauses[0].publicId
+    s = must(editSpecClause(s, actor(U.priya), MERROWGATE_ID, first, { field: 'location', text: 'Level 2 to 4 secondary beams' })).state
+    const view = specificationView(s, viewer(U.priya), MERROWGATE_ID, 'draft')!
+    expect(reuseTable(view).columns).toEqual(['Public ID', 'Title', 'Supply route', 'Location', 'Ranges and tolerances', 'Accepted patina', 'Operations on this batch', 'Acceptance', 'Surplus for repairs', 'Storage', 'New fallback', 'Marking'])
+    const wb = await reopen(await buildSpecWorkbook(view, '2026-10-08'))
+    const ws = wb.getWorksheet('Reuse clauses')!
+    const texts: string[] = []
+    ws.eachRow((row) => row.eachCell((c) => texts.push(text(c.value))))
+    expect(texts[0]).toBe(view.routeText)
+    expect(texts).toContain('Level 2 to 4 secondary beams')
+    expect(texts).toContain(`1. ${view.selectionSteps[0]}`)
   })
 })

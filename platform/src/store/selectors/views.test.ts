@@ -428,7 +428,8 @@ describe('inbox, navigation, routes and search', () => {
     const mg = isla.sections[1].items.find((i) => i.label === 'Merrowgate Wharf')!
     expect(mg.badge).toBe(1)
     // Round 2 (client-consultant design 11): Carbon becomes Sustainability, with the statement waiting for review, and Requirements with one at risk.
-    expect(mg.children.map((c) => [c.label, c.badge])).toEqual([['Overview', null], ['Approvals', 1], ['Reservations', null], ['Specification', null], ['Sustainability', 1], ['Requirements', 1]])
+    // Round 3, stage 6: the client's Procurement tab follows Reservations. Logged in r3-test-changes-stage6.
+    expect(mg.children.map((c) => [c.label, c.badge])).toEqual([['Overview', null], ['Approvals', 1], ['Reservations', null], ['Procurement', null], ['Specification', null], ['Sustainability', 1], ['Requirements', 1]])
     expect(sel.navModel(s, viewer(U.tom))!.sections[2].items[0].badge).toBe(2)
     const priya = sel.navModel(s, viewer(U.priya))!
     // Round 3, stage 5: Matching is built (design from stock), so it no longer reads Soon. Logged in r3-test-changes-stage5.

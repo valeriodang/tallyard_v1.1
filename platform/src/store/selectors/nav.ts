@@ -280,7 +280,7 @@ export function routeAccess(state: AppData, viewer: Viewer, pathname: string): R
     if (tab === 'reservations' && sub !== undefined) return rest.length === 0 && provenancePackView(state, viewer, id, sub) ? 'ok' : 'forbidden'
     if (sub !== undefined) return 'not_found'
     const allowed = projectTabs(state, side, state.world.projects[id]).map((t) => t.id)
-    if (!['shortlist', 'specification', 'approvals', 'reservations', 'carbon', 'sustainability', 'targets', 'certification', 'requirements', 'statement', 'compliance', 'team', 'activity', 'matching'].includes(tab)) return 'not_found'
+    if (!['shortlist', 'specification', 'approvals', 'reservations', 'carbon', 'sustainability', 'targets', 'certification', 'requirements', 'statement', 'compliance', 'team', 'activity', 'matching', 'procurement'].includes(tab)) return 'not_found'
     // /carbon redirects to /sustainability, so it opens wherever Sustainability does.
     return allowed.includes(tab === 'carbon' ? 'sustainability' : tab) ? 'ok' : 'forbidden'
   }

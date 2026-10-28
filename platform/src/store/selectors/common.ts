@@ -256,7 +256,7 @@ export function activityRow(e: ActivityEntry, now: string): ActivityRow {
 /** The project tabs each side may open (the same tabs the project header shows). */
 const PROJECT_TABS_OF: Record<ProjectSide, string[]> = {
   architect: ['shortlist', 'specification', 'sustainability', 'requirements', 'team', 'activity', 'matching'],
-  client: ['approvals', 'reservations', 'specification', 'sustainability', 'requirements', 'team', 'activity'],
+  client: ['approvals', 'reservations', 'procurement', 'specification', 'sustainability', 'requirements', 'team', 'activity'],
   consultant: ['sustainability', 'targets', 'certification', 'requirements', 'statement', 'compliance', 'team', 'activity'],
 }
 /** The consultant's own sustainability pages: other sides read the same records on the Sustainability tab. */
