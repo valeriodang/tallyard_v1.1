@@ -29,7 +29,7 @@ export const AUDIT_ERRORS = {
 } as const
 
 const MAX_LINES = 400
-const MAX_OPTIONS = 8
+export const MAX_OPTIONS = 8
 
 function auditOf(state: AppData, auditId: string): BuildingAudit | null {
   return state.audits[auditId] ?? null
@@ -237,24 +237,30 @@ export function importSurveyedItems(state: AppData, actor: Actor, auditId: strin
 
 export type RetentionOptionInput = Omit<RetentionOption, 'id'> & { id?: string }
 
+/** An option as entered, checked and trimmed under the given ID, or the error. The City module checks its own the same way. */
+export function checkedOption(input: RetentionOptionInput, id: string): RetentionOption | string {
+  if (!(input.kind in OPTION_KIND_LABELS)) return ERRORS.role
+  const label = clean(input.label, 80)
+  if (!label) return AUDIT_ERRORS.label
+  const shares = [num(input.superstructureRetainedShare, { max: 1 }), num(input.facadeRetainedShare, { max: 1 })]
+  if (shares.includes('bad')) return AUDIT_ERRORS.share
+  const nums = [num(input.giaM2), num(input.upfrontKgM2, { max: 10000 }), num(input.wlcKgM2, { max: 20000 }), num(input.demolishedAreaM2), num(input.demolitionKgM2, { max: 5000 })]
+  if (nums.includes('bad')) return AUDIT_ERRORS.number
+  const [giaM2, upfrontKgM2, wlcKgM2, demolishedAreaM2, demolitionKgM2] = nums as (number | null)[]
+  return { id, label, kind: input.kind, superstructureRetainedShare: shares[0] as number | null, facadeRetainedShare: shares[1] as number | null, giaM2, upfrontKgM2, wlcKgM2, demolishedAreaM2, demolitionKgM2, note: clean(input.note, 1000) }
+}
+
 export function saveRetentionOption(state: AppData, actor: Actor, auditId: string, input: RetentionOptionInput): ActionResult<string> {
   const audit = auditOf(state, auditId)
   if (!audit || audit.kind !== 'pre_redevelopment') return fail(state, AUDIT_ERRORS.noAudit)
   const a = writer(state, actor, audit.buildingId)
   if (typeof a === 'string') return fail(state, a)
   if (audit.status === 'complete') return fail(state, AUDIT_ERRORS.complete)
-  if (!(input.kind in OPTION_KIND_LABELS)) return fail(state, ERRORS.role)
-  const label = clean(input.label, 80)
-  if (!label) return fail(state, AUDIT_ERRORS.label)
-  const shares = [num(input.superstructureRetainedShare, { max: 1 }), num(input.facadeRetainedShare, { max: 1 })]
-  if (shares.includes('bad')) return fail(state, AUDIT_ERRORS.share)
-  const nums = [num(input.giaM2), num(input.upfrontKgM2, { max: 10000 }), num(input.wlcKgM2, { max: 20000 }), num(input.demolishedAreaM2), num(input.demolitionKgM2, { max: 5000 })]
-  if (nums.includes('bad')) return fail(state, AUDIT_ERRORS.number)
   const existing = input.id ? audit.options.find((o) => o.id === input.id) : undefined
   if (!existing && audit.options.length >= MAX_OPTIONS) return fail(state, AUDIT_ERRORS.number)
-  const id = existing?.id ?? nextLocalId(audit.id, 'o', audit.options.map((o) => o.id))
-  const [giaM2, upfrontKgM2, wlcKgM2, demolishedAreaM2, demolitionKgM2] = nums as (number | null)[]
-  const option: RetentionOption = { id, label, kind: input.kind, superstructureRetainedShare: shares[0] as number | null, facadeRetainedShare: shares[1] as number | null, giaM2, upfrontKgM2, wlcKgM2, demolishedAreaM2, demolitionKgM2, note: clean(input.note, 1000) }
+  const option = checkedOption(input, existing?.id ?? nextLocalId(audit.id, 'o', audit.options.map((o) => o.id)))
+  if (typeof option === 'string') return fail(state, option)
+  const id = option.id
   const options = existing ? audit.options.map((o) => (o.id === id ? option : o)) : [...audit.options, option]
   return ok(withAudit(state, { ...audit, options, updatedAt: actor.now }), id)
 }

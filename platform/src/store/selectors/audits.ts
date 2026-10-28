@@ -159,24 +159,29 @@ export type OptionView = {
   isLowestUpfront: boolean
 }
 
-export type PreRedevelopmentView = DetailBase & {
-  kind: 'pre_redevelopment'
-  factors: FactorView[]
-  scaleOptions: { value: RetentionScale; label: string }[]
-  factorsRated: number
-  tree: { id: keyof PreRedevelopmentAudit['tree']; text: string; answer: 'yes' | 'no' | null }[]
-  outcomes: { id: string; label: string; text: string; reached: boolean }[]
-  outcomeLabel: string | null
+/** A carbon options appraisal, as the owner's pre-redevelopment audit and the consultant's City module both show it. */
+export type CarbonOptionsView = {
   options: OptionView[]
   optionKinds: { value: RetentionOptionKind; label: string }[]
   preferredOptionId: string | null
   needsJustification: boolean
   justification: string
   cityChecks: { id: string; label: string; limitText: string; valueText: string; within: boolean }[]
-  followOn: { label: string; checked: boolean }[]
   retrofitRuleText: string
   demolitionDefaultText: string
 }
+
+export type PreRedevelopmentView = DetailBase &
+  CarbonOptionsView & {
+    kind: 'pre_redevelopment'
+    factors: FactorView[]
+    scaleOptions: { value: RetentionScale; label: string }[]
+    factorsRated: number
+    tree: { id: keyof PreRedevelopmentAudit['tree']; text: string; answer: 'yes' | 'no' | null }[]
+    outcomes: { id: string; label: string; text: string; reached: boolean }[]
+    outcomeLabel: string | null
+    followOn: { label: string; checked: boolean }[]
+  }
 
 export type HazardView = { id: string; label: string; source: string; indicative: boolean; suggested: boolean; status: HazardStatus | null; statusLabel: string; basis: 'era' | 'survey' | 'test' | null; note: string }
 
@@ -269,11 +274,9 @@ function base(state: AppData, viewer: Viewer, audit: BuildingAudit, header: Buil
   }
 }
 
-function preRedevelopmentView(state: AppData, viewer: Viewer, a: PreRedevelopmentAudit, header: BuildingRef): PreRedevelopmentView {
-  const appraisal = appraiseOptions(a.options, a.preferredOptionId)
-  const outcome = existingTreeOutcome(a.tree)
-  const applies = new Set(existingTreeQuestions(a.tree))
-  const options = a.options.map((o): OptionView => {
+export function carbonOptionsView(raw: RetentionOption[], preferredId: string | null, justification: string): CarbonOptionsView {
+  const appraisal = appraiseOptions(raw, preferredId)
+  const options = raw.map((o): OptionView => {
     const m = appraisal.metrics.find((x) => x.id === o.id)!
     return {
       id: o.id,
@@ -293,13 +296,32 @@ function preRedevelopmentView(state: AppData, viewer: Viewer, a: PreRedevelopmen
       wlcTonnesText: m.wlcT === null ? 'Not given' : carbon(m.wlcT),
       retrofitText: m.retrofit === null ? 'Share kept not given' : m.retrofit ? 'Counts as retrofit' : 'Does not count as retrofit',
       retrofit: m.retrofit,
-      isPreferred: o.id === a.preferredOptionId,
+      isPreferred: o.id === preferredId,
       isLowestWlc: o.id === appraisal.lowestWlcId,
       isLowestUpfront: o.id === appraisal.lowestUpfrontId,
     }
   })
   return {
+    options,
+    optionKinds: (Object.keys(OPTION_KIND_LABELS) as RetentionOptionKind[]).map((value) => ({ value, label: OPTION_KIND_LABELS[value] })),
+    preferredOptionId: preferredId,
+    needsJustification: appraisal.needsJustification,
+    justification,
+    cityChecks: appraisal.cityChecks.map((c) => {
+      const b = CITY_OFFICE_BENCHMARKS.find((x) => x.id === c.id)!
+      return { id: c.id, label: `${c.label}, ${b.modules}`, limitText: `${fixed(c.limit, 0)} kgCO2e per m2`, valueText: `${fixed(c.value, 0)} kgCO2e per m2`, within: c.within }
+    }),
+    retrofitRuleText: `In the City of London an option counts as retrofit when it keeps at least ${fixed(RETROFIT_MIN_SUPERSTRUCTURE_SHARE * 100, 0)}% of the existing superstructure by mass. Keeping the facade alone does not count.`,
+    demolitionDefaultText: `Where an option gives no demolition figure, the demolished floor area is counted at ${DEMOLITION_DEFAULT_KGCO2E_M2} kgCO2e per m2, spread over the option's floor area.`,
+  }
+}
+
+function preRedevelopmentView(state: AppData, viewer: Viewer, a: PreRedevelopmentAudit, header: BuildingRef): PreRedevelopmentView {
+  const outcome = existingTreeOutcome(a.tree)
+  const applies = new Set(existingTreeQuestions(a.tree))
+  return {
     ...base(state, viewer, a, header),
+    ...carbonOptionsView(a.options, a.preferredOptionId, a.justification),
     kind: 'pre_redevelopment',
     factors: RETENTION_FACTORS.map((f) => {
       const v = a.factors[f.id]
@@ -310,18 +332,7 @@ function preRedevelopmentView(state: AppData, viewer: Viewer, a: PreRedevelopmen
     tree: TREE_QUESTIONS.filter((q) => applies.has(q.id)).map((q) => ({ id: q.id, text: q.text, answer: a.tree[q.id] })),
     outcomes: EXISTING_OUTCOMES.map((o) => ({ id: o.id, label: o.label, text: o.text, reached: o.id === outcome })),
     outcomeLabel: outcome ? EXISTING_OUTCOMES.find((o) => o.id === outcome)!.label : null,
-    options,
-    optionKinds: (Object.keys(OPTION_KIND_LABELS) as RetentionOptionKind[]).map((value) => ({ value, label: OPTION_KIND_LABELS[value] })),
-    preferredOptionId: a.preferredOptionId,
-    needsJustification: appraisal.needsJustification,
-    justification: a.justification,
-    cityChecks: appraisal.cityChecks.map((c) => {
-      const b = CITY_OFFICE_BENCHMARKS.find((x) => x.id === c.id)!
-      return { id: c.id, label: `${c.label}, ${b.modules}`, limitText: `${fixed(c.limit, 0)} kgCO2e per m2`, valueText: `${fixed(c.value, 0)} kgCO2e per m2`, within: c.within }
-    }),
     followOn: FOLLOW_ON_ASSESSMENTS.map((label) => ({ label, checked: a.followOn.includes(label) })),
-    retrofitRuleText: `In the City of London an option counts as retrofit when it keeps at least ${fixed(RETROFIT_MIN_SUPERSTRUCTURE_SHARE * 100, 0)}% of the existing superstructure by mass. Keeping the facade alone does not count.`,
-    demolitionDefaultText: `Where an option gives no demolition figure, the demolished floor area is counted at ${DEMOLITION_DEFAULT_KGCO2E_M2} kgCO2e per m2, spread over the option's floor area.`,
   }
 }
 

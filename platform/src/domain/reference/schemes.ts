@@ -2,6 +2,8 @@
 // construction waste bands (as tabled in the GLA guidance, Appendix 4), BREEAM UK New Construction V6.1 numbering
 // (as used in a 2026 stage 3 tracker), LEED v5 interiors materials credits and WELL v2 hazardous materials limits.
 import type { Parameter } from './assumptions'
+import type { FamilyId } from '../types'
+import { FAMILIES } from './families'
 
 export const LPG_TABLE_SOURCE = 'GLA London Plan Guidance, Circular Economy Statements (March 2022), Appendix 4'
 export const BREEAM_V61_SOURCE = 'BREEAM UK New Construction V6.1, as numbered in a 2026 stage 3 interim assessment tracker'
@@ -67,6 +69,31 @@ export const LEED_OFFSITE_REUSE_RUNGS: { points: number; alternatives: { targete
 
 export const LEED_MRC1_MAX = 4
 
+export type LeedMaterialType = (typeof LEED_TARGETED_TYPES)[number] | (typeof LEED_OTHER_TYPES)[number]
+
+export const LEED_TYPE_LABELS: Record<LeedMaterialType, string> = {
+  carpet: 'Carpeting',
+  ceilings: 'Ceilings',
+  furniture: 'Furniture',
+  dimensional_lumber: 'Dimensional lumber',
+  doors: 'Doors',
+  casework: 'Casework',
+  floor_covering: 'Floor coverings other than carpet',
+  lighting: 'Lighting fixtures',
+  plumbing: 'Plumbing fixtures',
+  mechanical: 'Mechanical equipment',
+  door_hardware: 'Door hardware',
+  other: 'Other permanently installed materials',
+}
+
+/** The LEED material type a Tallyard family falls in, for families used in interiors. Tallyard's reading, not the guide's. */
+export const LEED_FAMILY_TYPES: Partial<Record<FamilyId, LeedMaterialType>> = {
+  carpet_tile: 'carpet',
+  metal_ceiling_tile: 'ceilings',
+  raised_floor: 'floor_covering',
+  timber_joist: 'dimensional_lumber',
+}
+
 /** MRc5 construction and demolition waste diversion paths. Salvage counts twice; unverified mixed recovery is capped. */
 export const LEED_DIVERSION_PATHS: { points: number; divertedAtLeast: number; salvagedShareAtLeast: number }[] = [
   { points: 1, divertedAtLeast: 0.35, salvagedShareAtLeast: 0.1 },
@@ -88,6 +115,18 @@ export const WELL_LIMITS = {
   x01Categories: ['Thermal insulation and lagging', 'Acoustic treatments', 'Sheathing', 'Roofing and siding', 'Fire and smoke protection', 'Joint protection', 'Plaster and gypsum board', 'Ceilings', 'Resilient flooring'],
 }
 
+/** The WELL X01 product category a Tallyard family falls in, where one does. Tallyard's reading, not WELL's. */
+export const WELL_X01_FAMILIES: Partial<Record<FamilyId, string>> = {
+  metal_ceiling_tile: 'Ceilings',
+  natural_slate: 'Roofing and siding',
+}
+
+/** Timber families that may carry chromated copper arsenate from an earlier outdoor use (WELL X03). */
+export const WELL_X03_FAMILIES: FamilyId[] = ['timber_joist', 'glulam_beam']
+
+/** WELL X01 part 3: a newly applied paint finish holds at most this much lead, ppm by weight. */
+export const WELL_LEAD_PAINT_LIMIT_PPM = 100
+
 export function schemeRows(): Parameter[] {
   const rows: Parameter[] = []
   const b = 'BREEAM and Home Quality Mark'
@@ -104,5 +143,10 @@ export function schemeRows(): Parameter[] {
   rows.push({ id: 'well.x01', group: w, label: 'X01 asbestos in newly installed products', value: `No more than ${WELL_LIMITS.asbestosPpmNewProducts.toLocaleString('en-GB')} ppm in ${WELL_LIMITS.x01Categories.join(', ').toLowerCase()}`, unit: '', source: `Published: ${WELL_SOURCE}, feature X01. Reclaimed products are newly installed products`, status: 'published' })
   rows.push({ id: 'well.x02', group: w, label: 'X02 existing building hazards', value: `Asbestos confirmed above ${WELL_LIMITS.asbestosConfirmShare * 100}%; lead paint above ${WELL_LIMITS.leadPaintShareByWeight * 100}% by weight; PCBs in caulk, ballasts and capacitors made before ${WELL_LIMITS.pcbBeforeYear}`, unit: '', source: `Published: ${WELL_SOURCE}, feature X02`, status: 'published' })
   rows.push({ id: 'well.x03', group: w, label: 'X03 treated timber', value: 'Chromated copper arsenate in existing outdoor timber is identified and managed', unit: '', source: `Published: ${WELL_SOURCE}, feature X03`, status: 'published' })
+  rows.push({ id: 'well.x01.lead', group: w, label: 'X01 lead in newly applied paints', value: `At most ${WELL_LEAD_PAINT_LIMIT_PPM} ppm lead by weight`, unit: '', source: `Published: ${WELL_SOURCE}, feature X01 part 3. Tallyard asks for an existing coating on reclaimed items to be stripped or sealed and refinished`, status: 'published' })
+  rows.push({ id: 'well.families', group: w, label: 'Families in the X01 categories', value: Object.entries(WELL_X01_FAMILIES).map(([fam, cat]) => `${FAMILIES[fam as FamilyId].label}: ${cat!.toLowerCase()}`).join('; '), unit: '', source: "Indicative: Tallyard's reading of the X01 product categories; timber families are screened for X03", status: 'indicative' })
+  rows.push({ id: 'leed.mrc5.method', group: l, label: 'MRc5 from the statement estimates', value: 'Demolition and construction streams only. Reuse off site is salvage, counted twice; reuse on site goes to MRc1; source-separated recycling counts in full; mixed recycling at the facility rate, at most 35% unverified; landfill and other management are not diverted', unit: '', source: `Indicative: Tallyard's reading of ${LEED_IDC_SOURCE}, MRc5. The diversion rate is capped at 100%; the separated share is of the tonnes diverted`, status: 'indicative' })
+  rows.push({ id: 'leed.types', group: l, label: 'Families by LEED material type', value: Object.entries(LEED_FAMILY_TYPES).map(([fam, t]) => `${FAMILIES[fam as FamilyId].label}: ${LEED_TYPE_LABELS[t!].toLowerCase()}`).join('; '), unit: '', source: "Indicative: Tallyard's reading of the guide's Table 4 for MRc1 option 2", status: 'indicative' })
+  rows.push({ id: 'breeam.wst01.method', group: b, label: 'Wst 01 from the statement estimates', value: 'Construction waste per m2 GIA from the construction stream; diversion is everything not sent to landfill, for the construction and the demolition streams', unit: '', source: `Indicative: Tallyard's reading of ${BREEAM_V61_SOURCE}`, status: 'indicative' })
   return rows
 }

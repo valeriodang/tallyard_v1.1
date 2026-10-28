@@ -122,7 +122,8 @@ describe('the frameworks row', () => {
   it('says what each scheme covers from its summary, not its name again', () => {
     const items = reportingFrameworks()
     const line = (id: string) => items.find((x) => x.id === id)!.line
-    expect(line('breeam-nc')).toBe('Mat 01 covers life cycle assessment, Mat 05 rewards reusing materials and Wst 01 diverting construction waste from landfill')
+    // Round 3, stage 6c: V6.1 numbers material efficiency Mat 06.
+    expect(line('breeam-nc')).toBe('Mat 01 covers life cycle assessment, Mat 06 rewards material efficiency and Wst 01 diverting construction waste from landfill')
     expect(line('leed-v5')).toMatch(/^Materials and Resources credits cover/)
     expect(line('well-v2')).toBe('Materials concept restricts hazardous substances, which matters when reusing older materials')
     const nzcbs = NATIONAL_REQUIREMENTS.find((r) => r.id === 'nzcbs')!

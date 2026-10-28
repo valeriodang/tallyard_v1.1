@@ -221,3 +221,20 @@ Decisions taken while building round 3 (`BRIEF.md` section 15), with the reason 
 - **Typed percentages and amounts are read by `domain/input.ts`,** so screens hand the store a value and never calculate. The stage 6a procurement and reuse clause fields use it too.
 - `SEED_REVISION` is now 7, for the new key.
 
+## Stage 6c
+
+- **The City of London module is a consultant tab that shows only while the project's local authority is the City.** Its records sit in the `ces` record as `city`, with the LEED inputs as `leed`; a record saved before this stage reads both as empty. No seeded project is in the City: a buyer's project in the City would print a location the privacy tests treat as a seller's. The architect moves a project in with Edit, and the tests do the same.
+- **The carbon options card is shared with the owner's pre-redevelopment audit.** The view builder (`carbonOptionsView`), the option check (`checkedOption`) and the component (`CarbonOptions`) were taken out of the audit unchanged, so the City module and the audit compare options the same way.
+- **Retrofit follows the SPD:** at least half the superstructure kept by mass. A preferred option that keeps the facade but not half the superstructure carries a warning that the facade alone does not count.
+- **The reviewer is recorded, not invited.** The sign-off needs a name, at least three years' experience and two options; a different reviewer clears it.
+- **The reuse schedule is the project's reclaimed items:** confirmed, reserved and approved. Each takes a condition band; bands 1 and 2 are reuse, 3 and 4 repurpose, 5 and 6 recycle. The catalogue and passports are typed in.
+- **Statement updates are due during RIBA stages 4 and 6 of the programme.** Stage 4 runs to the day before site start; stage 6 runs from practical completion through handover.
+- **BREEAM uses the V6.1 numbering of the trackers in the folder.** Material efficiency is Mat 06; durability is Mat 05. The credit's stored ID stays `breeam-mat05`, so saved statuses keep, and only its code and title change. The policy rows say "reused, recycled or recovered" for the 95% target, which stage 1 had missed there.
+- **LEED codes follow the interiors guide, the only LEED v5 guide in the folder:** MRp2, MRc1, MRc2 and MRc5. The requirement itself stays LEED v5 Building Design and Construction, which a whole building seeks; its numbering is to confirm.
+- **WELL gains X03, which maps reclaimed timber.** It is targeted by default, as X01 and X02 are.
+- **The MRc5 calculator reads the demolition and construction estimates.** Reuse off site is salvage, counted twice; reuse on site belongs to MRc1 and is left out; recycling is mixed at the 35% cap unless the consultant gives a source-separated share or a verified rate; landfill and other management are not diverted. The rate is capped at 100%, and the separated share is of the tonnes diverted. Path 4 needs more than 10%.
+- **The MRc1 calculator takes costs as typed, priced as new,** and shares by material type for option 2. The guide's weighted-average route is not computed.
+- **Wst 01 reads the construction stream per m2 GIA against the Appendix 4 bands,** and diversion as every route but landfill, 80% for construction and 90% for demolition.
+- **The WELL screen is rule-based:** X01 asks for the asbestos limit on ceilings and roofing, and a lead test on coated families; X02 asks for a PCB check on old or undated sealants; X03 asks for a CCA check on timber. Hazards the listing confirms replace the checks. Project items now carry their listing's confirmed hazards.
+- **Waste-reporting credits** now say whether the statement holds estimates, in place of "Not held in Tallyard".
+

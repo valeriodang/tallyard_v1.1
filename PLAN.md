@@ -94,5 +94,8 @@ scripts/               scan.mjs, make-samples.mjs, make-photo-fixture.mjs, shots
    - Stage 6b is done: the consultant's circular economy statement workspace and the GLA template export.
      - A Statement inputs tab: requirement check, stage matrix and readiness, the decision tree, layers, the bill of materials with RICS scenarios and benchmarks, waste reporting with the reuse guard, targets with pioneering flags, post-construction reporting, and a quality check.
      - An export in the GLA template's layout, and statement sections that name the guidance they cover and draw on the workspace.
+   - Stage 6c is done: the City of London module and the certification rebase.
+     - A City of London tab for projects in the City: minimums, carbon options with the retrofit test and an independent reviewer, retention figures, condition bands, passports and the stage 4 and 6 updates.
+     - BREEAM in V6.1 numbering, LEED v5 codes, WELL X03; calculators for LEED MRc1 and MRc5, BREEAM Wst 01 and a WELL hazard screen.
    - Test changes are logged in `platform/feedback/r3-test-changes-*.md` and decisions in `platform/feedback/r3-decisions.md`.
 5. Literature review of `reference literature/` done (27 October 2026): `reports/Tallyard literature review.md`, notes in `research_notes/Literature review/`. It recommends reference-value updates and ranks 17 features; none is built until the user chooses. Eight later documents (D53 to D60) are reviewed in note 08 with the updated gap status.

@@ -21,7 +21,7 @@ import * as sel from '../store/selectors'
 import { projectsOfUser, buildingsOfUser } from '../store/access'
 import { listingOf, marketplaceListings, projectCanSee, projectWishlist } from '../store/lots'
 import { saveToProject, sendToClient, decideItem } from '../store/actions/shortlist'
-import { createProject, decideClientLink } from '../store/actions/projects'
+import { createProject, decideClientLink, updateProject } from '../store/actions/projects'
 import { requestReservation, decideReservation, withdrawReservation } from '../store/actions/reservations'
 import { setLotPortfolio, setLotVisibility, setProjectAccess } from '../store/actions/owner'
 import { captureItem } from '../store/actions/surveyor'
@@ -132,6 +132,7 @@ function sustainabilityViews(s: AppData, v: Viewer, projectId: string): [string,
     ['projectMetrics', sel.projectMetrics(s, v, projectId)],
     ['ces', sel.cesView(s, v, projectId)],
     ['cesTemplate', sel.cesTemplate(s, v, projectId)],
+    ['city', sel.cityView(s, v, projectId)],
   ]
 }
 
@@ -742,3 +743,17 @@ describe('Round 3, stage 5: deal terms and design from stock', () => {
     for (const [who, id] of [['Isla', U.isla], ['Marcus', U.marcus], ['Tom', U.tom]] as const) expect(sel.stockMatchView(s, viewer(id), MERROWGATE_ID), who).toBeNull()
   })
 })
+
+describe('Round 3, stage 6c: the City of London module and the calculators', () => {
+  it("a project moved into the City shows its consultant no seller's string but the borough it shares", () => {
+    const s = must(updateProject(fresh(), actor(U.priya), MERROWGATE_ID, { region: 'Central London', localAuthority: 'City of London' })).state
+    const v = viewer(U.marcus)
+    const views: [string, unknown][] = [['city', sel.cityView(s, v, MERROWGATE_ID)], ...SCHEME_IDS.map((id): [string, unknown] => [`certification ${id}`, sel.certificationView(s, v, MERROWGATE_ID, id)])]
+    expect(views[0][1]).not.toBeNull()
+    // The project's own local authority is the consultant's to read; a seller's building in the City says nothing more.
+    expectNone(views, allLotStrings(s).filter((x) => x !== 'City of London'), 'Marcus')
+    expectNoInternalIds(views, 'Marcus')
+    for (const [name, view] of views) expect(JSON.stringify(view).includes('£'), `${name} holds money`).toBe(false)
+  })
+})
+

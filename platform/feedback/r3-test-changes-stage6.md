@@ -20,3 +20,25 @@ The client's procurement pack is a project tab, after Reservations. Three assert
   - **What still holds.** Every other tab, its order, label and badge is unchanged.
 
 **Added, not changed.** `src/test/privacy.platform.test.ts` now also scans the workspace view and the template rows (`cesView`, `cesTemplate`) in every buyer-side and money check. No assertion changed.
+
+## Stage 6c: the certification rebase
+
+BREEAM credits now use the V6.1 numbering of the trackers in the folder, so material efficiency is Mat 06, not Mat 05 (Mat 05 is durability). WELL gains X03, chromated copper arsenate and lead, which maps reclaimed timber. Four assertions change:
+
+- `src/store/selectors/r2f-look-fix.test.ts`, "says what each scheme covers from its summary, not its name again":
+  - **What changed.** The BREEAM line reads "Mat 06 rewards material efficiency" for "Mat 05 rewards reusing materials".
+  - **Why.** The requirement's summary follows the V6.1 numbering.
+  - **What still holds.** The LEED and WELL lines, and the rule that a line never repeats the scheme's name.
+- `src/store/selectors/sustainability.test.ts`, "BREEAM lists five credits with four targeted; WELL X01 suggests at risk with TH-02 mapped":
+  - **What changed.** The WELL matrix lists X03 between X02 and X07.
+  - **Why.** X03 is targeted by default and maps reclaimed timber, so it has a column.
+  - **What still holds.** BREEAM's five credits with four targeted, X01's suggestion, its mapped item and the matrix cells.
+- `src/store/selectors/sustainability.test.ts`, "an override changes the mapping, and the summaries count targeted credits":
+  - **What changed.** WELL counts 4 targeted credits, not 3.
+  - **Why.** X03 is targeted by default.
+  - **What still holds.** The ratings, the one credit at risk, the other schemes' counts, and the client's lack of access.
+- `src/store/selectors/r2f-client-consultant.test.ts`, "leaves out the statement's own measure, names WELL X01 at risk, and asks for a WELL target where WELL is required":
+  - **What changed.** The WELL line reads "4 credits targeted, 1 in progress, 1 at risk and 2 not started".
+  - **Why.** X03 is targeted and not started: Merrowgate holds no reclaimed timber.
+  - **What still holds.** X01 is named at risk, the statement's own measure is left out, and the next steps are unchanged.
+

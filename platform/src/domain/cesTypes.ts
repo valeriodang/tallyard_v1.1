@@ -2,6 +2,8 @@
 // template. Plain data, kept with the project's sustainability records.
 import type { CesStage } from './reference/gla'
 import type { EolScenarioId } from './reference/rics'
+import type { LeedMaterialType } from './reference/schemes'
+import type { RetentionOption } from './auditTypes'
 
 export type YesNo = 'yes' | 'no'
 
@@ -24,6 +26,50 @@ export type WasteEstimate = { tonnes: number | null; routes: WasteRoutes; source
 export type Achievement = { id: string; measure: string; action: string }
 
 export type Lesson = { id: string; description: string; solution: string }
+
+/** The City of London's condition bands: 1 and 2 reuse, 3 and 4 repurpose, 5 and 6 recycle. */
+export type ConditionBand = 1 | 2 | 3 | 4 | 5 | 6
+
+/** An item of the reuse catalogue: what the existing building on the site holds for reuse. */
+export type CatalogueEntry = { id: string; item: string; quantity: string; band: ConditionBand | null }
+
+/** A material passport for a carbon-intensive new material. */
+export type PassportEntry = { id: string; material: string; reference: string }
+
+/** The City of London's records for a project in the City (round 3, stage 6c). */
+export type CityRecord = {
+  /** The carbon options appraisal for the site, in the advice note's Table A. */
+  options: RetentionOption[]
+  preferredId: string | null
+  /** Why the preferred option is chosen when it keeps less, or is not the lowest whole life carbon. */
+  justification: string
+  /** The independent reviewer of the carbon options. */
+  reviewer: { name: string; organisation: string; years: number | null; signedOffOn: string | null }
+  catalogue: CatalogueEntry[]
+  /** The condition band of each reclaimed item on the reuse schedule, by public ID. */
+  scheduleBands: Record<string, ConditionBand>
+  passports: PassportEntry[]
+  /** When the statement was updated at RIBA stages 4 and 6. */
+  updates: { stage4: string | null; stage6: string | null }
+}
+
+/** The consultant's inputs to the LEED v5 interiors calculators; waste comes from the statement's estimates. */
+export type LeedInputs = {
+  /** MRc1 option 1, path 1: interiors and furniture reused on site, and all of them, priced as new. */
+  onsiteReused: number | null
+  onsiteTotal: number | null
+  /** MRc1 option 1, path 2: furniture alone. */
+  furnitureReused: number | null
+  furnitureTotal: number | null
+  /** MRc1 option 2: the share of each material type reused from off site, 0 to 1. */
+  offsite: Partial<Record<LeedMaterialType, number>>
+  /** MRc5: the share of recycling that was source-separated; the rest goes to a mixed facility. */
+  separatedShare: number | null
+  /** MRc5: the mixed facility's verified recovery rate; null takes the 35% cap. */
+  mixedRate: number | null
+  /** MRc5 path 4: tonnes of gypsum, carpet, ceilings and furniture salvaged or source-separated. */
+  targetedT: number | null
+}
 
 export type CesRecord = {
   /** The Mayor's referral criteria that apply, by ID. */
@@ -48,6 +94,10 @@ export type CesRecord = {
   lessons: Lesson[]
   /** A pre-redevelopment and a pre-demolition audit accompany the statement. */
   audits: { preRedevelopment: boolean; preDemolition: boolean }
+  /** Round 3, stage 6c: the City of London module, for projects in the City. */
+  city: CityRecord
+  /** Round 3, stage 6c: the LEED v5 interiors calculators. */
+  leed: LeedInputs
   updatedAt: string | null
   updatedByUserId: string | null
 }

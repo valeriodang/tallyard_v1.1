@@ -19,8 +19,8 @@ import { todayOf } from './common'
 
 const NEED_LABELS: Record<StageNeed, string> = { required: 'Required', encouraged: 'Encouraged', not_needed: 'Not needed' }
 
-const pct = (x: number) => `${Math.round(x * 1000) / 10}%`
-const pctInput = (x: number) => String(Math.round(x * 1000) / 10)
+export const pct = (x: number) => `${Math.round(x * 1000) / 10}%`
+export const pctInput = (x: number) => String(Math.round(x * 1000) / 10)
 
 export type CesWasteView = {
   stream: WasteStream

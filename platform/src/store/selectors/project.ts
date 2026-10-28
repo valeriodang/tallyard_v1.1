@@ -25,6 +25,7 @@ import { applicableRequirements, sustainabilityBadges, sustainabilityOf } from '
 import { plural } from '../notifications'
 import { architectOptions, NEW_PROJECT } from './owner'
 import { consultantLinkRequests } from './consultant-requests'
+import { isCityOfLondon } from '../../domain/engines/audit'
 
 export type ProjectTab = { id: string; label: string; href: string; badge: number | null; soon: boolean }
 
@@ -78,6 +79,8 @@ export function projectTabs(state: AppData, side: ProjectSide, p: Project): Proj
     tab('statement', 'Circular economy', '/statement'),
     // Round 3, stage 6: the tables of the GLA template, behind the statement.
     tab('ces', 'Statement inputs', '/ces'),
+    // Round 3, stage 6c: the City of London's own rules, for projects in the City only.
+    ...(isCityOfLondon(p) ? [tab('city', 'City of London', '/city')] : []),
     tab('compliance', 'Compliance', '/compliance'),
     tab('team', 'Team', '/team'),
     tab('activity', 'Activity', '/activity'),

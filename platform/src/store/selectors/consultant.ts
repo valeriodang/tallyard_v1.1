@@ -1,5 +1,6 @@
 // The consultant's workspace: home, project compliance (reused content by value and avoided carbon), and waste.
 import type { EraBand, FamilyId, TestStatus, WasteBill, WasteEngagement } from '../../domain/types'
+import type { HazardId } from '../../domain/auditTypes'
 import { DEFAULT_ASSUMPTIONS as A } from '../../domain/reference/assumptions'
 import { BILL_LINE_NAMES } from '../../domain/seed/world'
 import { contentByValue, type ContentResult } from '../../domain/engines/content'
@@ -44,7 +45,8 @@ export function slug(s: string): string {
 }
 
 /** `withSeller`: an approved material whose reservation request waits on the seller. */
-export type ProjectMetricsItem = ReusedItem & { family: FamilyId; eraBand: EraBand | null; testStatus: TestStatus | null; withSeller?: boolean }
+/** Round 3: `hazards` are those the public listing confirms and has not cleared. */
+export type ProjectMetricsItem = ReusedItem & { family: FamilyId; eraBand: EraBand | null; testStatus: TestStatus | null; hazards: HazardId[]; withSeller?: boolean }
 
 /** A project's reuse figures for any side of it: content and reuse by value, avoided carbon and the reclaimed items. Indicative, from public listings. */
 export type ProjectMetrics = {
@@ -77,7 +79,7 @@ export function projectMetrics(state: AppData, viewer: Viewer, projectId: string
     add(secured, d.family, d.quantityUnits)
     const lot = lotByPublicId(state.world, d.publicId)
     const l = lot ? listingOf(state.world, lot) : null
-    items.push({ publicId: d.publicId, description: d.description, quantityLabel: d.quantityLabel, massT: d.massT, status: 'Confirmed', date: d.confirmedOn, avoidedT: d.avoidedT, source: 'earlier deal', family: d.family, eraBand: l?.eraBand ?? null, testStatus: l?.testStatus ?? null })
+    items.push({ publicId: d.publicId, description: d.description, quantityLabel: d.quantityLabel, massT: d.massT, status: 'Confirmed', date: d.confirmedOn, avoidedT: d.avoidedT, source: 'earlier deal', family: d.family, eraBand: l?.eraBand ?? null, testStatus: l?.testStatus ?? null, hazards: l?.quality.hazards ?? [] })
     avoidedSecuredT += d.avoidedT
     reclaimedSecuredT += d.massT
   }
@@ -85,7 +87,7 @@ export function projectMetrics(state: AppData, viewer: Viewer, projectId: string
     if (r.projectId !== projectId || r.status !== 'accepted') continue
     const l = listingOf(state.world, state.world.lots[r.lotId])
     add(secured, l.family, l.quantity.value)
-    items.push({ publicId: l.publicId, description: l.title, quantityLabel: quantityText(l), massT: l.massT, status: 'Reserved', date: r.decidedAt?.slice(0, 10) ?? null, avoidedT: l.carbon?.avoidedT ?? 0, source: 'reservation', family: l.family, eraBand: l.eraBand, testStatus: l.testStatus })
+    items.push({ publicId: l.publicId, description: l.title, quantityLabel: quantityText(l), massT: l.massT, status: 'Reserved', date: r.decidedAt?.slice(0, 10) ?? null, avoidedT: l.carbon?.avoidedT ?? 0, source: 'reservation', family: l.family, eraBand: l.eraBand, testStatus: l.testStatus, hazards: l.quality.hazards })
     avoidedSecuredT += l.carbon?.avoidedT ?? 0
     reclaimedSecuredT += l.massT
   }
@@ -97,7 +99,7 @@ export function projectMetrics(state: AppData, viewer: Viewer, projectId: string
     if (row.status !== 'approved' || !row.card || reservedIds.has(row.publicId)) continue
     const l = row.card.listing
     add(withApproved, row.card.family, l.quantity.value)
-    items.push({ publicId: row.publicId, description: row.title, quantityLabel: row.card.quantityText, massT: row.card.massT, status: 'Approved', date: row.decidedOn, avoidedT: row.card.avoidedT ?? 0, source: 'approval', family: l.family, eraBand: l.eraBand, testStatus: l.testStatus, withSeller: row.reservation?.status === 'pending' })
+    items.push({ publicId: row.publicId, description: row.title, quantityLabel: row.card.quantityText, massT: row.card.massT, status: 'Approved', date: row.decidedOn, avoidedT: row.card.avoidedT ?? 0, source: 'approval', family: l.family, eraBand: l.eraBand, testStatus: l.testStatus, hazards: l.quality.hazards, withSeller: row.reservation?.status === 'pending' })
     avoidedApprovedT += row.card.avoidedT ?? 0
   }
   const securedResult = contentByValue(p.billOfMaterials, secured)

@@ -14,6 +14,7 @@ import { Button, Callout, Card, Checkbox, cx, DescriptionList, EmptyState, Pill,
 import { Page } from '../../app/Page'
 import { useMediaQuery } from '../../app/media'
 import { TabHeader, TrackBar } from './parts'
+import { SchemeCalcs } from './CertificationCalcs'
 
 const STATUS_OPTIONS: readonly TrackStatusKey[] = ['not_started', 'in_progress', 'at_risk', 'evidence_ready']
 const ITEM_TONE: Record<string, 'brand' | 'info' | 'neutral'> = { Confirmed: 'brand', Reserved: 'info', Approved: 'neutral' }
@@ -293,6 +294,7 @@ export function Certification() {
         ) : v.empty ? null : (
           <Matrix v={v} projectId={projectId} />
         )}
+        <SchemeCalcs projectId={projectId} calcs={v.calcs} />
       </div>
     </Page>
   )

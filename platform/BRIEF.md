@@ -467,4 +467,20 @@ Round 3 is a working name, used in documents and test logs. Screens say "Updated
     - a quality check from the GLA's 2023 monitoring findings;
     - an export in the GLA template's layout, with SUM formulas and cached results.
   - **Statement v2:** each section names the guidance sections it covers. The approach, targets and next steps take in the workspace once it holds anything; an edited section is flagged as changed since.
+- **As built (stage 6c):**
+  - **City of London tab (the consultant's, on projects in the City only):**
+    - the SPD's three minimums: a reuse catalogue, a reuse schedule and material passports, five of each;
+    - the carbon options appraisal, shared with the owner's pre-redevelopment audit: demolition at 50 kgCO2e/m2 by default, the retrofit test of at least 50% of the superstructure by mass, the office benchmarks, and the reasons when the preferred option keeps less;
+    - retention of the preferred option by mass and by area, with a warning when only the facade is kept;
+    - the independent reviewer, with at least three years' experience, and the sign-off;
+    - condition bands 1 to 6 on the catalogue and on each reclaimed item of the reuse schedule;
+    - the statement updates at RIBA stages 4 and 6, dated against the programme.
+  - **Certification rebase:**
+    - BREEAM in the V6.1 numbering, so material efficiency is Mat 06; Version 7 is to confirm;
+    - LEED v5 credits numbered as in the interiors guide (MRp2, MRc1, MRc2, MRc5);
+    - WELL gains X03, chromated copper arsenate and lead.
+  - **Calculators under each scheme's credits:**
+    - LEED MRc1 by cost and by material type, and MRc5 from the waste estimates;
+    - BREEAM Wst 01 construction waste per m2 against the Appendix 4 bands, with diversion;
+    - a WELL X01 to X03 screen of each reclaimed item.
 

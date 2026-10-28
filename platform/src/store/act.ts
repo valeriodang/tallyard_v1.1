@@ -23,6 +23,7 @@ import * as recovery from './actions/recovery'
 import * as stock from './actions/stock'
 import * as procurement from './actions/procurement'
 import * as ces from './actions/ces'
+import * as city from './actions/city'
 
 function bind<V, A extends unknown[]>(fn: (s: AppData, actor: Actor, ...args: A) => ActionResult<V>): (...args: A) => Outcome<V> {
   return (...args: A) => useApp.getState().run(fn, ...args)
@@ -167,6 +168,19 @@ export const act = {
   addAchievement: bind(ces.addAchievement),
   addLesson: bind(ces.addLesson),
   removeCesEntry: bind(ces.removeCesEntry),
+  saveLeedInputs: bind(ces.saveLeedInputs),
+  saveCityOption: bind(city.saveCityOption),
+  removeCityOption: bind(city.removeCityOption),
+  setCityPreferred: bind(city.setCityPreferred),
+  saveCityJustification: bind(city.saveCityJustification),
+  saveReviewer: bind(city.saveReviewer),
+  signOffReview: bind(city.signOffReview),
+  addCatalogueEntry: bind(city.addCatalogueEntry),
+  setCatalogueBand: bind(city.setCatalogueBand),
+  setScheduleBand: bind(city.setScheduleBand),
+  addPassport: bind(city.addPassport),
+  removeCityEntry: bind(city.removeCityEntry),
+  markCityUpdate: bind(city.markCityUpdate),
   // Team, profile, organisation and notifications
   createInvite: bind(team.createInvite),
   revokeInvite: bind(team.revokeInvite),

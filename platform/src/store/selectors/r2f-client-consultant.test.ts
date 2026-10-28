@@ -149,7 +149,8 @@ describe('the statement reads as a statement from the project records (note 44)'
     const merrow = sel.statementView(s, viewer(U.marcus), M)!
     const cert = merrow.sections.find((x) => x.id === 'certification')!.text
     expect(cert).not.toContain('Statement')
-    expect(cert).toContain('WELL: 3 credits targeted, 1 in progress, 1 at risk and 1 not started. At risk: X01, material restrictions (precondition).')
+    // Round 3, stage 6c: WELL gains X03, targeted and not started on Merrowgate, which holds no reclaimed timber.
+    expect(cert).toContain('WELL: 4 credits targeted, 1 in progress, 1 at risk and 2 not started. At risk: X01, material restrictions (precondition).')
     const steps = merrow.sections.find((x) => x.id === 'next_steps')!.text
     // Round 2 follow-up review: UB 533x210x92 already has a reservation request with the seller.
     expect(steps).toContain('Request a reservation for 1 approved material; 1 more is with the seller.')

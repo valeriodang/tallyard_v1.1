@@ -257,10 +257,10 @@ export function activityRow(e: ActivityEntry, now: string): ActivityRow {
 const PROJECT_TABS_OF: Record<ProjectSide, string[]> = {
   architect: ['shortlist', 'specification', 'sustainability', 'requirements', 'team', 'activity', 'matching'],
   client: ['approvals', 'reservations', 'procurement', 'specification', 'sustainability', 'requirements', 'team', 'activity'],
-  consultant: ['sustainability', 'targets', 'certification', 'requirements', 'statement', 'ces', 'compliance', 'team', 'activity'],
+  consultant: ['sustainability', 'targets', 'certification', 'requirements', 'statement', 'ces', 'city', 'compliance', 'team', 'activity'],
 }
 /** The consultant's own sustainability pages: other sides read the same records on the Sustainability tab. */
-const CONSULTANT_SUSTAINABILITY_TABS = ['targets', 'certification', 'compliance', 'statement', 'ces']
+const CONSULTANT_SUSTAINABILITY_TABS = ['targets', 'certification', 'compliance', 'statement', 'ces', 'city']
 const BUILDING_TABS_OF: Record<BuildingSide, string[]> = {
   owner: ['inventory', 'capture', 'audits', 'priorities', 'listings', 'sharing', 'testing', 'destinations', 'requirements'],
   surveyor: ['inventory', 'capture', 'audits', 'testing', 'requirements', 'availability', 'method', 'destinations', 'listings', 'sharing'],

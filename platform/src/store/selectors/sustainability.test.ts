@@ -60,7 +60,8 @@ describe('certification', () => {
     const x01 = w.credits.find((c) => c.id === 'well-x01')!
     expect(x01.suggested).toEqual({ status: 'at_risk', label: 'At risk', reason: '1 item to screen: built before 1970 or untested' })
     expect(x01.items.filter((i) => i.included).map((i) => i.publicId)).toEqual(['L-WPX5A6'])
-    expect(w.matrix.credits.map((c) => c.id)).toEqual(['well-x01', 'well-x02', 'well-x07'])
+    // Round 3, stage 6c: X03 joins the matrix, for reclaimed timber.
+    expect(w.matrix.credits.map((c) => c.id)).toEqual(['well-x01', 'well-x02', 'well-x03', 'well-x07'])
     expect(w.matrix.included['well-x01:L-WPX5A6']).toBe(true)
     expect(w.matrix.included['well-x01:L-NHZ32R']).toBe(false)
   })
@@ -74,7 +75,8 @@ describe('certification', () => {
     expect(sum.map((x) => [x.scheme, x.ratingTarget, x.ratingPredicted, x.targeted, x.atRisk])).toEqual([
       ['breeam', 'Excellent', 'Very good', 4, 0],
       ['leed', 'Not targeted', null, 0, 0],
-      ['well', 'Silver', 'Silver', 3, 1],
+      // Round 3, stage 6c: X03 makes four WELL credits targeted.
+      ['well', 'Silver', 'Silver', 4, 1],
       ['circular', null, null, 4, 0],
     ])
     expect(sel.certificationView(s, viewer(U.isla), M, 'well')).toBeNull()

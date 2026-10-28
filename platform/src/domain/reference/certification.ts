@@ -5,7 +5,7 @@ import type { GoalId } from '../sustainabilityTypes'
 
 export type SchemeId = 'breeam' | 'leed' | 'well' | 'circular'
 /** Which of the project's reclaimed materials a credit maps by default. */
-export type ItemRule = 'all_reused' | 'steel' | 'pre_1970_or_untested' | 'none'
+export type ItemRule = 'all_reused' | 'steel' | 'pre_1970_or_untested' | 'timber' | 'none'
 export type CreditEvidence = 'reused_items' | 'content_by_value' | 'avoided_carbon' | 'carbon_factors' | 'hazard_screening' | 'waste_reporting' | 'statement' | 'specification'
 
 export type SchemeDef = { id: SchemeId; label: string; version: string; ratingGoal: GoalId | null }
@@ -27,8 +27,10 @@ export type CreditDef = {
 export const SCHEME_IDS: readonly SchemeId[] = ['breeam', 'leed', 'well', 'circular']
 
 export const SCHEMES: SchemeDef[] = [
-  { id: 'breeam', label: 'BREEAM', version: 'New Construction Version 7 series', ratingGoal: 'breeam' },
-  { id: 'leed', label: 'LEED', version: 'v5, Building Design and Construction', ratingGoal: 'leed' },
+  // Round 3: the V6.1 numbering of the trackers in the folder; Version 7 numbering is to confirm against its manual.
+  { id: 'breeam', label: 'BREEAM', version: 'UK New Construction V6.1 numbering, Version 7 to confirm', ratingGoal: 'breeam' },
+  // Round 3: codes and calculators from the Interior Design and Construction guide, the LEED v5 guide in the folder.
+  { id: 'leed', label: 'LEED', version: 'v5, as numbered in the Interior Design and Construction guide', ratingGoal: 'leed' },
   { id: 'well', label: 'WELL', version: 'WELL v2', ratingGoal: 'well' },
   { id: 'circular', label: 'Circular economy', version: 'London Plan 2021 Policy SI 7 and the Circular Economy Statement guidance (2022)', ratingGoal: null },
 ]
@@ -62,11 +64,12 @@ export const CREDITS: CreditDef[] = [
     defaultTargeted: true,
   }),
   credit({
+    // The ID keeps the round 2 key so saved statuses stay; V6.1 numbers material efficiency Mat 06.
     id: 'breeam-mat05',
     scheme: 'breeam',
-    code: 'Mat 05',
-    title: 'Material efficiency: reuse of materials',
-    summary: 'Rewards design and procurement that reuse materials and cut waste. Indicative summary.',
+    code: 'Mat 06',
+    title: 'Material efficiency',
+    summary: 'Rewards design and procurement that use materials efficiently, reuse included, and cut waste. Indicative summary.',
     provides: 'The reused items and their quantities',
     evidence: ['reused_items'],
     itemRule: 'all_reused',
@@ -77,8 +80,8 @@ export const CREDITS: CreditDef[] = [
     scheme: 'breeam',
     code: 'Wst 01',
     title: 'Construction waste management',
-    summary: 'Rewards diverting construction waste from landfill and measuring it. Indicative summary.',
-    provides: "Nothing yet: diversion comes from the contractor's waste reports",
+    summary: 'Rewards low construction waste per m2 and diverting construction and demolition waste from landfill. Indicative summary.',
+    provides: 'Construction waste per m2 GIA and diversion, from the waste estimates in Statement inputs',
     evidence: ['waste_reporting'],
     itemRule: 'none',
     defaultTargeted: true,
@@ -97,10 +100,10 @@ export const CREDITS: CreditDef[] = [
   credit({
     id: 'leed-mr-reuse',
     scheme: 'leed',
-    code: 'MR',
-    title: 'Building and materials reuse',
-    summary: 'Rewards reusing building elements and salvaged materials. Indicative summary.',
-    provides: 'The reused items and their quantities',
+    code: 'MRc1',
+    title: 'Interior materials reuse',
+    summary: 'Rewards keeping interior elements and furniture in place, by cost, and bringing in reused materials from off site. Indicative summary.',
+    provides: 'The reused items, and the MRc1 calculator',
     evidence: ['reused_items'],
     itemRule: 'all_reused',
     defaultTargeted: true,
@@ -108,8 +111,8 @@ export const CREDITS: CreditDef[] = [
   credit({
     id: 'leed-mr-quantify',
     scheme: 'leed',
-    code: 'MR prerequisite',
-    title: 'Quantify and assess embodied carbon',
+    code: 'MRp2',
+    title: 'Quantify and assess embodied carbon (prerequisite)',
     summary: 'Asks for the embodied carbon of the main materials to be quantified. Indicative summary.',
     provides: 'Carbon factors for the reclaimed items, as an input only',
     evidence: ['carbon_factors'],
@@ -119,7 +122,7 @@ export const CREDITS: CreditDef[] = [
   credit({
     id: 'leed-mr-reduce',
     scheme: 'leed',
-    code: 'MR',
+    code: 'MRc2',
     title: 'Reduce embodied carbon',
     summary: 'Rewards a reduction in embodied carbon against a baseline. Indicative summary.',
     provides: 'Avoided carbon against buying new, as an input only',
@@ -130,10 +133,10 @@ export const CREDITS: CreditDef[] = [
   credit({
     id: 'leed-mr-waste',
     scheme: 'leed',
-    code: 'MR',
+    code: 'MRc5',
     title: 'Construction and demolition waste diversion',
-    summary: 'Rewards diverting construction and demolition waste. Indicative summary.',
-    provides: 'Nothing yet: LEED counts diversion differently',
+    summary: 'Rewards diverting construction and demolition waste, with salvage counted twice. Indicative summary.',
+    provides: 'The MRc5 calculator, from the waste estimates in Statement inputs',
     evidence: ['waste_reporting'],
     itemRule: 'none',
     defaultTargeted: true,
@@ -143,7 +146,7 @@ export const CREDITS: CreditDef[] = [
     scheme: 'well',
     code: 'X01',
     title: 'Material restrictions (precondition)',
-    summary: 'Restricts hazardous substances in new materials, such as lead and asbestos. Indicative summary.',
+    summary: 'Restricts asbestos, mercury and lead in newly installed products, reclaimed ones included. Indicative summary.',
     provides: 'Items built before 1970 or untested, to screen for restricted materials such as lead in coatings',
     evidence: ['hazard_screening'],
     itemRule: 'pre_1970_or_untested',
@@ -158,6 +161,17 @@ export const CREDITS: CreditDef[] = [
     provides: 'The same items, for the hazardous materials survey',
     evidence: ['hazard_screening'],
     itemRule: 'pre_1970_or_untested',
+    defaultTargeted: true,
+  }),
+  credit({
+    id: 'well-x03',
+    scheme: 'well',
+    code: 'X03',
+    title: 'CCA and lead management (precondition)',
+    summary: 'Asks for timber treated with chromated copper arsenate, and lead outdoors, to be found and managed. Indicative summary.',
+    provides: 'Reclaimed timber, to check for treatment before it is used outdoors',
+    evidence: ['hazard_screening'],
+    itemRule: 'timber',
     defaultTargeted: true,
   }),
   credit({

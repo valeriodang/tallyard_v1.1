@@ -24,7 +24,6 @@ function report(r: { ok: boolean; error: string | null }) {
   return r.ok
 }
 
-
 export function CesWorkspace() {
   const { projectId = '' } = useParams()
   const v = useView(selectors.cesView, projectId)

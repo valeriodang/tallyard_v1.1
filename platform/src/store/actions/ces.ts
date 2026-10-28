@@ -1,12 +1,13 @@
 // The consultant's circular economy statement workspace (round 3, BRIEF section 15.7): whether a statement is needed
 // and at which stage, the decision tree, the layers, the bill's end-of-life scenario, waste estimates, targets, the
 // post-construction report and the audits. Consultant only. Every input is checked and trimmed here.
-import type { Achievement, CesLayer, CesRecord, DesignApproach, ExistingQuestion, Lesson, WasteRoutes, WasteStream, YesNo } from '../../domain/cesTypes'
+import type { Achievement, CesLayer, CesRecord, CityRecord, DesignApproach, ExistingQuestion, LeedInputs, Lesson, WasteRoutes, WasteStream, YesNo } from '../../domain/cesTypes'
 import { CES_STAGES, GLA_TARGETS, REFERRAL_CRITERIA, type CesStage } from '../../domain/reference/gla'
 import { EOL_SCENARIOS, type EolScenarioId } from '../../domain/reference/rics'
 import { CES_LAYERS, DESIGN_APPROACHES, EXISTING_QUESTIONS, WASTE_STREAMS } from '../../domain/reference/ces'
 import type { ActionResult, Actor, AppData } from '../types'
 import { ERRORS, projectSide } from '../access'
+import { LEED_TYPE_LABELS } from '../../domain/reference/schemes'
 import { mint } from '../ids'
 import { acting, clean, fail, ok } from './common'
 
@@ -35,9 +36,23 @@ function defaultStage(ribaStage: number): CesStage {
   return ribaStage >= 3 ? 'full' : 'pre_app'
 }
 
+export const NO_CITY: CityRecord = {
+  options: [],
+  preferredId: null,
+  justification: '',
+  reviewer: { name: '', organisation: '', years: null, signedOffOn: null },
+  catalogue: [],
+  scheduleBands: {},
+  passports: [],
+  updates: { stage4: null, stage6: null },
+}
+
+export const NO_LEED: LeedInputs = { onsiteReused: null, onsiteTotal: null, furnitureReused: null, furnitureTotal: null, offsite: {}, separatedShare: null, mixedRate: null, targetedT: null }
+
 export function cesOf(state: AppData, projectId: string): CesRecord {
   const saved = state.ces[projectId]
-  if (saved) return saved
+  // A record saved before stage 6c has no City or LEED part yet.
+  if (saved) return { ...saved, city: saved.city ?? NO_CITY, leed: saved.leed ?? NO_LEED }
   return {
     referralIds: [],
     localRequirement: false,
@@ -53,12 +68,14 @@ export function cesOf(state: AppData, projectId: string): CesRecord {
     achievements: [],
     lessons: [],
     audits: { preRedevelopment: false, preDemolition: false },
+    city: NO_CITY,
+    leed: NO_LEED,
     updatedAt: null,
     updatedByUserId: null,
   }
 }
 
-function consultantOn(state: AppData, actor: Actor, projectId: string) {
+export function consultantOn(state: AppData, actor: Actor, projectId: string) {
   const a = acting(state, actor)
   if (typeof a === 'string') return a
   if (!state.world.projects[projectId]) return ERRORS.noProject
@@ -66,7 +83,8 @@ function consultantOn(state: AppData, actor: Actor, projectId: string) {
   return a
 }
 
-function save(state: AppData, actor: Actor, projectId: string, change: (r: CesRecord) => CesRecord | string): ActionResult {
+/** Changes the project's record as the consultant, or fails with the change's error. */
+export function saveCes(state: AppData, actor: Actor, projectId: string, change: (r: CesRecord) => CesRecord | string): ActionResult {
   const a = consultantOn(state, actor, projectId)
   if (typeof a === 'string') return fail(state, a)
   const next = change(cesOf(state, projectId))
@@ -77,7 +95,7 @@ function save(state: AppData, actor: Actor, projectId: string, change: (r: CesRe
 export type CesSettings = { referralIds?: string[]; localRequirement?: boolean; stage?: CesStage; eolScenario?: EolScenarioId | null; materialCost?: number | null; audits?: Partial<CesRecord['audits']> }
 
 export function saveCesSettings(state: AppData, actor: Actor, projectId: string, s: CesSettings): ActionResult {
-  return save(state, actor, projectId, (r) => {
+  return saveCes(state, actor, projectId, (r) => {
     if (s.referralIds && s.referralIds.some((id) => !REFERRAL_CRITERIA.some((c) => c.id === id))) return CES_ERRORS.referral
     if (s.stage !== undefined && !CES_STAGES.includes(s.stage)) return CES_ERRORS.stage
     if (s.eolScenario !== undefined && s.eolScenario !== null && !(s.eolScenario in EOL_SCENARIOS)) return CES_ERRORS.scenario
@@ -96,7 +114,7 @@ export function saveCesSettings(state: AppData, actor: Actor, projectId: string,
 
 /** An answer on the decision tree for existing buildings, or null to clear it. */
 export function answerExisting(state: AppData, actor: Actor, projectId: string, question: ExistingQuestion, answer: YesNo | null): ActionResult {
-  return save(state, actor, projectId, (r) => {
+  return saveCes(state, actor, projectId, (r) => {
     if (!EXISTING_QUESTIONS.some((q) => q.id === question)) return CES_ERRORS.question
     if (answer !== null && answer !== 'yes' && answer !== 'no') return CES_ERRORS.answer
     const existing = { ...r.existing }
@@ -107,11 +125,11 @@ export function answerExisting(state: AppData, actor: Actor, projectId: string, 
 }
 
 export function saveJustification(state: AppData, actor: Actor, projectId: string, text: string): ActionResult {
-  return save(state, actor, projectId, (r) => ({ ...r, justification: clean(text, 4000) }))
+  return saveCes(state, actor, projectId, (r) => ({ ...r, justification: clean(text, 4000) }))
 }
 
 export function saveLayer(state: AppData, actor: Actor, projectId: string, layer: CesLayer, input: { approaches?: DesignApproach[]; response?: string }): ActionResult {
-  return save(state, actor, projectId, (r) => {
+  return saveCes(state, actor, projectId, (r) => {
     if (!CES_LAYERS.some((l) => l.id === layer)) return CES_ERRORS.layer
     if (input.approaches && input.approaches.some((x) => !DESIGN_APPROACHES.some((d) => d.id === x))) return CES_ERRORS.approach
     const now = r.layers[layer] ?? { approaches: [], response: '' }
@@ -128,7 +146,7 @@ const NO_ROUTES: WasteRoutes = { reuseOnsite: 0, reuseOffsite: 0, recycleOnsite:
 
 /** An estimate for a waste stream: tonnes, and the share of each route as a fraction. */
 export function saveWaste(state: AppData, actor: Actor, projectId: string, stream: WasteStream, input: { tonnes?: number | null; routes?: Partial<WasteRoutes>; source?: string }): ActionResult {
-  return save(state, actor, projectId, (r) => {
+  return saveCes(state, actor, projectId, (r) => {
     if (!WASTE_STREAMS.some((w) => w.id === stream)) return CES_ERRORS.stream
     if (input.tonnes !== undefined && input.tonnes !== null && (!Number.isFinite(input.tonnes) || input.tonnes < 0)) return CES_ERRORS.tonnes
     const now = r.waste[stream] ?? { tonnes: null, routes: NO_ROUTES, source: '' }
@@ -146,7 +164,7 @@ export function saveWaste(state: AppData, actor: Actor, projectId: string, strea
 
 /** What the scheme aims for on a GLA target, or what it achieved, as a fraction; null clears it. */
 export function setTargetRate(state: AppData, actor: Actor, projectId: string, targetId: string, which: 'aiming' | 'achieved', rate: number | null): ActionResult {
-  return save(state, actor, projectId, (r) => {
+  return saveCes(state, actor, projectId, (r) => {
     if (!GLA_TARGETS.some((t) => t.id === targetId)) return CES_ERRORS.target
     if (rate !== null && (!Number.isFinite(rate) || rate < 0 || rate > 1)) return CES_ERRORS.rate
     const next = { ...r[which] }
@@ -181,8 +199,36 @@ export function addLesson(state: AppData, actor: Actor, projectId: string, descr
 }
 
 export function removeCesEntry(state: AppData, actor: Actor, projectId: string, kind: 'achievements' | 'lessons', id: string): ActionResult {
-  return save(state, actor, projectId, (r) => {
+  return saveCes(state, actor, projectId, (r) => {
     if (!r[kind].some((e) => e.id === id)) return CES_ERRORS.noEntry
     return { ...r, [kind]: r[kind].filter((e) => e.id !== id) }
+  })
+}
+
+export const LEED_ERRORS = {
+  amount: 'Give the cost as a number of 0 or more.',
+  overTotal: 'The reused part cannot be more than the total.',
+  type: 'That material type is not in the list.',
+  share: 'Give the share as a percentage from 0 to 100.',
+  tonnes: 'Give the tonnes as a number of 0 or more.',
+} as const
+
+/** The consultant's inputs to the LEED v5 interiors calculators; fields left out stay as they are. */
+export function saveLeedInputs(state: AppData, actor: Actor, projectId: string, patch: Partial<LeedInputs>): ActionResult {
+  return saveCes(state, actor, projectId, (r) => {
+    const next: LeedInputs = { ...r.leed, ...patch, offsite: { ...r.leed.offsite, ...(patch.offsite ?? {}) } }
+    const bad = (x: number | null) => x !== null && (!Number.isFinite(x) || x < 0)
+    for (const k of ['onsiteReused', 'onsiteTotal', 'furnitureReused', 'furnitureTotal'] as const) if (bad(next[k])) return LEED_ERRORS.amount
+    if (next.onsiteReused !== null && next.onsiteTotal !== null && next.onsiteReused > next.onsiteTotal) return LEED_ERRORS.overTotal
+    if (next.furnitureReused !== null && next.furnitureTotal !== null && next.furnitureReused > next.furnitureTotal) return LEED_ERRORS.overTotal
+    for (const [type, share] of Object.entries(next.offsite)) {
+      if (!(type in LEED_TYPE_LABELS)) return LEED_ERRORS.type
+      if (share === undefined || !Number.isFinite(share) || share < 0 || share > 1) return LEED_ERRORS.share
+    }
+    for (const k of ['separatedShare', 'mixedRate'] as const) if (next[k] !== null && (!Number.isFinite(next[k]) || next[k]! < 0 || next[k]! > 1)) return LEED_ERRORS.share
+    if (bad(next.targetedT)) return LEED_ERRORS.tonnes
+    // A cleared share is dropped rather than kept as nought.
+    const offsite = Object.fromEntries(Object.entries(next.offsite).filter(([, v]) => v !== undefined && v > 0)) as LeedInputs['offsite']
+    return { ...r, leed: { ...next, offsite } }
   })
 }

@@ -3,18 +3,18 @@ export const POLICY_BASIS = 'Policy basis: London Plan 2021 and the 2022 guidanc
 
 export const CONTENT_AIM_NAME = 'the 20% aim in the Circular Economy Statement guidance'
 
-export const BREEAM_VERSION = { scheme: 'BREEAM New Construction Version 7 series', current: 'Version 7.1', note: 'confirm against the current manual' }
+export const BREEAM_VERSION = { scheme: 'BREEAM UK New Construction', current: 'V6.1 numbering', note: 'Version 7 numbering is to confirm against its manual' }
 
 export const CERTIFICATION_ROWS: { workbook: 'compliance' | 'waste'; requirement: string; provides: string }[] = [
   { workbook: 'compliance', requirement: 'Circular Economy Statement guidance (2022): bill of materials with reused and recycled content by value, aim of at least 20%', provides: 'Bill of materials, Summary' },
-  { workbook: 'compliance', requirement: 'BREEAM New Construction Version 7 series, Mat 05 Material efficiency: reuse of materials', provides: 'Reused items' },
-  { workbook: 'compliance', requirement: 'BREEAM New Construction Version 7 series, Mat 01 Building life cycle assessment', provides: 'Embodied carbon: factors for the reclaimed items, as an input to the assessment, which is done elsewhere' },
-  { workbook: 'compliance', requirement: 'LEED v5 Materials and Resources: Building and Materials Reuse', provides: 'Reused items' },
-  { workbook: 'compliance', requirement: 'LEED v5 Materials and Resources: Quantify and Assess Embodied Carbon; Reduce Embodied Carbon', provides: 'Embodied carbon, as an input only' },
-  { workbook: 'waste', requirement: 'London Plan 2021 Policy SI 7 and the Circular Economy Statement: recycling and waste reporting, at least 95% of demolition waste diverted from landfill', provides: 'Recycling and waste reporting' },
+  { workbook: 'compliance', requirement: 'BREEAM UK New Construction V6.1, Mat 06 Material efficiency', provides: 'Reused items' },
+  { workbook: 'compliance', requirement: 'BREEAM UK New Construction V6.1, Mat 01 Building life cycle assessment', provides: 'Embodied carbon: factors for the reclaimed items, as an input to the assessment, which is done elsewhere' },
+  { workbook: 'compliance', requirement: 'LEED v5 Materials and Resources: MRc1 materials reuse', provides: 'Reused items' },
+  { workbook: 'compliance', requirement: 'LEED v5 Materials and Resources: MRp2 Quantify and Assess Embodied Carbon; MRc2 Reduce Embodied Carbon', provides: 'Embodied carbon, as an input only' },
+  { workbook: 'waste', requirement: 'London Plan 2021 Policy SI 7 and the Circular Economy Statement: recycling and waste reporting, at least 95% of construction and demolition waste reused, recycled or recovered', provides: 'Recycling and waste reporting' },
   { workbook: 'waste', requirement: 'Circular Economy Statement guidance: data for the pre-demolition audit and for post-construction reporting. The audit itself is carried out independently.', provides: 'Arisings' },
-  { workbook: 'waste', requirement: 'BREEAM New Construction Version 7 series, Wst 01 Construction waste management: diversion of resources from landfill', provides: 'Arisings, Recycling and waste reporting' },
-  { workbook: 'waste', requirement: 'LEED v5 Materials and Resources: Construction and Demolition Waste Diversion. LEED counts diversion differently, so these figures are an input only.', provides: 'Recycling and waste reporting' },
+  { workbook: 'waste', requirement: 'BREEAM UK New Construction V6.1, Wst 01 Construction waste management: diversion of resources from landfill', provides: 'Arisings, Recycling and waste reporting' },
+  { workbook: 'waste', requirement: 'LEED v5 Materials and Resources: MRc5 Construction and Demolition Waste Diversion. LEED counts salvage twice and caps unverified mixed recovery, so these figures are an input only.', provides: 'Recycling and waste reporting' },
 ]
 
 export const STAGE_CHECKLIST = [

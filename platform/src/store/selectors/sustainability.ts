@@ -18,6 +18,7 @@ import { clientLinked, consultantLinked } from '../../domain/access'
 import { formatDate, formatDateShort } from '../../domain/dates'
 import * as f from '../../domain/format'
 import type { AppData, CreditTrack, Viewer } from '../types'
+import { certCalcs, type CertCalcs } from './certCalcs'
 import { projectSide, type ProjectSide } from '../access'
 import { applicableRequirements, effectiveTargets, goalTargets, schemeTargeted, sustainabilityOf } from '../sustainabilityRecord'
 import { consultantText, projectHeader, projectCarbon, type ProjectCarbon, type ProjectHeader } from './project'
@@ -203,6 +204,13 @@ export type CertificationView = {
   matrix: { items: { publicId: string; description: string; status: string }[]; credits: { id: string; label: string }[]; included: Record<string, boolean> }
   caveat: string
   empty: boolean
+  /** Round 3, stage 6c: the scheme's calculators, built from the statement inputs. */
+  calcs: CertCalcs
+}
+
+function hasWasteEstimates(state: AppData, projectId: string): boolean {
+  const w = cesOf(state, projectId).waste
+  return [w.demolition, w.construction].some((e) => e && e.tonnes !== null)
 }
 
 function mapped(m: ProjectMetrics): MappedItem[] {
@@ -230,7 +238,7 @@ function creditRowsOf(state: AppData, p: Project, m: ProjectMetrics, credits = C
       else if (ev === 'hazard_screening') shown.push({ label: 'Items to screen', value: String(included.length) })
       else if (ev === 'specification') shown.push({ label: 'Items in the specification schedule', value: String(included.length) })
       else if (ev === 'statement') shown.push({ label: 'Circular economy statement', value: statementStatusText('consultant', metrics.statement) })
-      else if (ev === 'waste_reporting') shown.push({ label: 'Waste reports', value: 'Not held in Tallyard' })
+      else if (ev === 'waste_reporting') shown.push({ label: 'Waste estimates', value: hasWasteEstimates(state, p.id) ? 'In Statement inputs' : 'None yet: add them in Statement inputs' })
     }
     return {
       id: def.id,
@@ -269,6 +277,7 @@ export function certificationView(state: AppData, viewer: Viewer, projectId: str
     matrix: { items: m.items.map((i) => ({ publicId: i.publicId, description: i.description, status: i.status })), credits: matrixCredits.map((c) => ({ id: c.id, label: `${schemeDef(c.scheme).label} ${c.code}` })), included },
     caveat: CERT_CAVEAT,
     empty: m.items.length === 0,
+    calcs: certCalcs(state, viewer, projectId, id),
   }
 }
 

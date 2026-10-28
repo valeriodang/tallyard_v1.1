@@ -5,6 +5,7 @@ import type { StatementStatus, TrackStatus } from '../sustainabilityTypes'
 import type { CreditDef, ItemRule } from '../reference/certification'
 import { TRACK_STATUSES } from '../sustainabilityTypes'
 import * as f from '../format'
+import { WELL_X03_FAMILIES } from '../reference/schemes'
 
 export type MappedItem = { publicId: string; description: string; family: FamilyId; status: 'Confirmed' | 'Reserved' | 'Approved'; eraBand: EraBand | null; testStatus: TestStatus | null }
 
@@ -15,6 +16,7 @@ export function defaultIncluded(rule: ItemRule, item: MappedItem): boolean {
   if (rule === 'all_reused') return true
   if (rule === 'steel') return item.family === 'steel_section'
   if (rule === 'pre_1970_or_untested') return item.eraBand === 'before 1970' || item.testStatus === 'untested'
+  if (rule === 'timber') return WELL_X03_FAMILIES.includes(item.family)
   return false
 }
 
