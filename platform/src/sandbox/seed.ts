@@ -103,7 +103,7 @@ export function firstRun(todayIso: string, now: string = `${todayIso}T09:00:00.0
   if (fy) fy.items = fy.items.map((it) => (it.status === 'sent' ? { ...it, sentOn: addDays(it.addedOn, 1), sentMessage: null } : it))
 
   let s: AppData = {
-    version: 2,
+    version: 3,
     seedRevision: SEED_REVISION,
     seededOn: todayIso,
     seq: 0,

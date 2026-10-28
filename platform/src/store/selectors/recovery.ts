@@ -59,14 +59,25 @@ function auditRouteOf(state: AppData, buildingId: string, itemId: string) {
   return audit?.rows.find((r) => r.itemId === itemId)?.broker.route ?? null
 }
 
+/** Each ranked item's route: the owner's choice, else the one suggested. */
+function routedItems(state: AppData, buildingId: string) {
+  const chosen = state.recoveryPlans[buildingId]?.routes ?? {}
+  return priorityFor(state, buildingId).rows.map((p) => {
+    const item = state.world.items[p.itemId]
+    const suggested = suggestedRoute(item.family, p.route, auditRouteOf(state, buildingId, item.id))
+    return { item, suggested, route: chosen[item.id] ?? suggested, chosen: chosen[item.id] !== undefined }
+  })
+}
+
+/** The recovery plan's totals for a building, for the plan itself and the owner's indicators. */
+export function recoverySummaryOf(state: AppData, buildingId: string) {
+  return planSummary(routedItems(state, buildingId).map((r) => ({ family: r.item.family, massT: itemMeasures(r.item).massT, route: r.route })))
+}
+
 export function recoveryPlanView(state: AppData, viewer: Viewer, buildingId: string): RecoveryPlanView | null {
   const header = buildingHeader(state, viewer, buildingId)
   if (!header || header.side !== 'owner') return null
-  const chosen = state.recoveryPlans[buildingId]?.routes ?? {}
-  const rows: RecoveryPlanRow[] = priorityFor(state, buildingId).rows.map((p) => {
-    const item = state.world.items[p.itemId]
-    const suggested = suggestedRoute(item.family, p.route, auditRouteOf(state, buildingId, item.id))
-    const route = chosen[item.id] ?? suggested
+  const rows: RecoveryPlanRow[] = routedItems(state, buildingId).map(({ item, suggested, route, chosen }) => {
     const massT = itemMeasures(item).massT
     const levels = RECOVERY_ROUTES.find((r) => r.id === route)!.levels
     return {
@@ -79,7 +90,7 @@ export function recoveryPlanView(state: AppData, viewer: Viewer, buildingId: str
       routeLabel: ROUTE_LABELS[route],
       suggested,
       suggestedLabel: ROUTE_LABELS[suggested],
-      chosen: chosen[item.id] !== undefined,
+      chosen,
       reuse: isReuseRoute(route),
       coefficientText: `${LEVELS_COEFFICIENTS[levels].label}, ${LEVELS_COEFFICIENTS[levels].coefficient.toFixed(2)}`,
       cascade: CASCADES[item.family],

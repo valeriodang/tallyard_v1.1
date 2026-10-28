@@ -36,3 +36,23 @@ These are carried into the prototype's About screen from one module. Add to this
 
 19. Should the next version call an AI model for bill ingestion, the agreed starting point? Everything labelled "rule-based" here is a place where that model would go.
 20. Rent premium and rental yield are left out because the figures are unverified. Should they appear as an editable assumption instead?
+
+## Answered by the platform's circular economy upgrade (28 October 2026)
+
+These two sections concern the platform in `platform/`, whose own list mirrors them (`platform/src/domain/reference/openQuestions.ts`). The demo's About screen does not show them.
+
+- Question 2: the Circular Economy Statement template's columns are now known, and the platform exports in its layout. BREEAM and LEED numbering follow the documents in the folder (questions 21 and 22 below).
+- Question 4: steel now carries the P427 screen, provenance P0 to P3, assessment S0 to S4 and protocols A to D with group sampling, so the four test statuses are a summary of the assessment.
+- Questions 11 and 12: the platform offers the deal models as options (client-driven, stockholder, hybrid, forward sale), and either the owner or the deconstruction contractor can hold title to the arisings and list them.
+- Question 17: the provenance pack reaches the client only after the seller accepts, and buyers see the assurance an item reaches without the building.
+
+## Raised by the platform's circular economy upgrade (28 October 2026)
+
+21. BREEAM: the trackers in the folder number credits as V6.1 (Mat 06 material efficiency, Mat 05 durability). Which version will your assessors use, and does Version 7 renumber them?
+22. LEED: the folder holds only the v5 interiors guide, so the codes and the MRc1 and MRc5 calculators follow it. For a whole building, do the Building Design and Construction credits use the same numbers and thresholds?
+23. MRc5 needs the share of recycling that was source-separated and the mixed facility's verified rate. Should contractors record both on the destination log, so the calculator stops relying on the consultant's estimate?
+24. The end-of-life score of a new building counts recycling as pure stream for metals and mixed stream for everything else. Is that how your assessors read Level(s) indicator 2.4?
+25. City of London: the SPD gives office benchmarks only. Which values apply to residential and other uses, and does the independent reviewer need an accreditation beyond three years of whole life carbon work?
+26. Deal terms and the storage bridge use placeholder rates. What deposit, price lock, buy-back and storage terms do clients and stockholders actually agree?
+27. The reuse bands by building layer come from 32 projects in the Interreg reuse toolkit, mostly outside the UK. Are they the right yardstick for London, or should the GLA monitoring data replace them as it grows?
+28. The sandbox holds no sample project in the City of London, because a buyer's own project there would show a borough that the privacy checks treat as a seller's location. Is a City sample project worth a narrower privacy rule?

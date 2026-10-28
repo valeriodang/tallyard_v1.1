@@ -14,6 +14,7 @@ import { Button, Callout, Card, Dialog, Field, MetricGrid, MetricTile, Pill, Pro
 import { Page } from '../../app/Page'
 import { CarbonSection } from '../carbon/ProjectCarbon'
 import { GoalMeterView, MethodologyFooter, TabHeader, TabSection, TrackBar, TrackLegend } from './parts'
+import { ProjectIndicators } from '../indicators/Indicators'
 
 const SCHEME_ICON = { breeam: ShieldCheck, leed: ShieldCheck, well: ShieldCheck, circular: Recycle } as const
 
@@ -329,6 +330,7 @@ export function Sustainability() {
         </div>
         {v.side !== 'architect' ? <StatementCard v={v} projectId={projectId} /> : null}
         <Targets v={v} />
+        <ProjectIndicators projectId={projectId} />
         <TabSection id="carbon" title="Avoided carbon" description="Against buying new, modules A1 to A4, from the public listings.">
           <CarbonSection />
         </TabSection>

@@ -65,6 +65,7 @@ function buyerViews(s: AppData, v: Viewer): [string, unknown][] {
   add('clientHome', sel.clientHome(s, v))
   add('consultantHome', sel.consultantHome(s, v))
   add('consultantDashboard', sel.consultantDashboard(s, v))
+  add('clientIndicators', sel.clientIndicators(s, v))
   add('discover', sel.discoverView(s, v, DEFAULT_DISCOVER_QUERY))
   add('discover structure', sel.discoverView(s, v, { ...DEFAULT_DISCOVER_QUERY, typology: 'structure' }))
   add('newForProjects', sel.newForProjectsFeed(s, v, null))
@@ -133,6 +134,7 @@ function sustainabilityViews(s: AppData, v: Viewer, projectId: string): [string,
     ['ces', sel.cesView(s, v, projectId)],
     ['cesTemplate', sel.cesTemplate(s, v, projectId)],
     ['city', sel.cityView(s, v, projectId)],
+    ['indicators', sel.projectIndicators(s, v, projectId)],
   ]
 }
 
@@ -142,6 +144,7 @@ function ownerViews(s: AppData, v: Viewer): [string, unknown][] {
   const add = (name: string, x: unknown) => out.push([name, x])
   add('ownerHome', sel.ownerHome(s, v))
   add('ownerDashboard', sel.ownerDashboard(s, v))
+  add('ownerIndicators', sel.ownerIndicators(s, v))
   add('buildings', sel.buildingsList(s, v))
   add('sharing', sel.sharingView(s, v))
   add('requests', sel.requestsView(s, v))

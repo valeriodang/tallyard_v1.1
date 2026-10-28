@@ -1,17 +1,21 @@
-// Returning visitors and the build from before round 2, against the production build. A browser that still holds
-// the version 1 sandbox gets the round 2 sample data, a notice on the home that links to Help, Updated on
-// 16 October, and a line at sign-in for an account made before the update. A tab of the old build left open
-// beside the new one keeps writing its own key, and nothing done in the new tab is lost. A tab left open while a
-// newer build is deployed offers to reload.
+// Returning visitors and the builds from before, against the production build. A browser that still holds a
+// version 1 or version 2 sandbox gets the current sample data, a notice on the home that links to Help, Updated on
+// 28 October (round 3; round 2 was 16 October), and a line at sign-in for an account made before the update. A tab
+// of an old build left open beside the new one keeps writing its own key, and nothing done in the new tab is lost.
+// A tab left open while a newer build is deployed offers to reload.
 import { expect, test, type Page } from '@playwright/test'
 
 const V1_STATE = 'tallyard-platform-v1-state'
 const V2_STATE = 'tallyard-platform-v2-state'
+// This build's key: version 3 since the round 3 update of 28 October.
+const STATE = 'tallyard-platform-v3-state'
 const SESSION = 'tallyard-platform-v1-session'
 const PRIYA = 'priya.nair@studiooriel.example'
 
 /** What the 14 October build stored: its own version 1 record. Only its version matters to the new build. */
 const V1_RECORD = JSON.stringify({ state: { version: 1, seededOn: '2026-10-14', seq: 40, world: { projects: {}, buildings: {} }, users: {}, notifications: [], activity: [], ui: {} }, version: 1 })
+/** What a round 2 build stored. */
+const V2_RECORD = JSON.stringify({ state: { version: 2, seededOn: '2026-10-20', seq: 90, world: { projects: {}, buildings: {} }, users: {}, notifications: [], activity: [], ui: {} }, version: 2 })
 
 function watchErrors(page: Page): string[] {
   const errors: string[] = []
@@ -49,16 +53,16 @@ test('a returning visitor from before round 2 is told the sandbox was updated, a
   await page.goto('/app/home')
   await page.waitForURL('**/signin**')
   expect(await read(page, V1_STATE)).toBeNull()
-  expect(await read(page, 'tallyard-platform-v2-upgraded')).not.toBeNull()
+  expect(await read(page, 'tallyard-platform-v3-upgraded')).not.toBeNull()
   // Before any attempt, the page says why, and the dead sign-in is forgotten.
-  await expect(page.getByTestId('signin-notice')).toContainText('The sandbox was updated on 16 October. Accounts made before then need to be created again.')
+  await expect(page.getByTestId('signin-notice')).toContainText('The sandbox was updated on 28 October. Accounts made before then need to be created again.')
   await expect.poll(() => read(page, SESSION)).toBeNull()
 
   await page.getByTestId('signin-email').fill('jo@parkstudio.example')
   await page.locator('input[autocomplete="current-password"]').fill('drawings1')
   await page.getByTestId('signin-submit').click()
   await expect(page.getByRole('alert')).toContainText('That email and password do not match.')
-  await expect(page.getByTestId('signin-error-hint')).toContainText('The sandbox was updated on 16 October. Accounts made before then need to be created again.')
+  await expect(page.getByTestId('signin-error-hint')).toContainText('The sandbox was updated on 28 October. Accounts made before then need to be created again.')
   await expect(page.getByTestId('signin-upgrade-signup')).toHaveAttribute('href', '/signup')
   await page.setViewportSize({ width: 390, height: 844 })
   expect(await horizontalOverflow(page)).toBe(0)
@@ -70,7 +74,7 @@ test('a returning visitor from before round 2 is told the sandbox was updated, a
   await page.getByTestId(`sample-${PRIYA}`).click()
   await page.waitForURL('**/app/home')
   const notice = page.getByTestId('upgrade-notice')
-  await expect(notice).toContainText('The sandbox was updated on 16 October with the changes from the 14 October review. Anything you changed before then is back to the sample data.')
+  await expect(notice).toContainText('The sandbox was updated on 28 October with the circular economy upgrade: audits, contractors, grading, procurement, the statement and its template, the City of London and certification. Anything you changed before then is back to the sample data.')
   for (const width of [390, 1024, 1440]) {
     await page.setViewportSize({ width, height: 900 })
     await expect(notice).toBeVisible()
@@ -80,11 +84,12 @@ test('a returning visitor from before round 2 is told the sandbox was updated, a
     }
   }
 
-  // See what changed lists the round 2 changes, each linked to where it is.
+  // See what changed lists the round 3 changes, then the round 2 ones under Earlier, each linked to where it is.
   await page.getByTestId('upgrade-notice-link').click()
   await page.waitForURL('**/app/help/updated')
-  await expect(page.getByTestId('what-changed').getByRole('heading', { level: 2 })).toHaveText('Updated on 16 October')
-  await expect(page.getByTestId('changes-yours').locator('li')).toHaveCount(7)
+  await expect(page.getByTestId('what-changed').getByRole('heading', { level: 2 }).first()).toHaveText('Updated on 28 October')
+  await expect(page.getByTestId('changes-yours').locator('li')).toHaveCount(4)
+  await expect(page.getByTestId('earlier-yours').locator('li')).toHaveCount(7)
   for (const width of [390, 1024]) {
     await page.setViewportSize({ width, height: 900 })
     expect(await horizontalOverflow(page), `help at ${width}`).toBe(0)
@@ -108,6 +113,27 @@ test('a returning visitor from before round 2 is told the sandbox was updated, a
   await page.reload()
   await expect(page.getByTestId('home-stats')).toBeVisible()
   await expect(notice).toHaveCount(0)
+  expect(errors).toEqual([])
+})
+
+test('a round 2 sandbox is replaced by the round 3 sample data, with the notice', async ({ page }) => {
+  const errors = watchErrors(page)
+  await page.goto('/signin')
+  await page.evaluate(
+    ([k, v]) => {
+      window.localStorage.clear()
+      window.localStorage.setItem(k, v)
+    },
+    [V2_STATE, V2_RECORD],
+  )
+  await page.reload()
+  await page.getByTestId(`sample-${PRIYA}`).click()
+  await page.waitForURL('**/app/home')
+  await expect(page.getByTestId('upgrade-notice')).toContainText('Anything you changed before then is back to the sample data.')
+  expect(await read(page, V2_STATE)).toBeNull()
+  expect(await read(page, 'tallyard-platform-v3-upgraded')).not.toBeNull()
+  await page.goto('/app/help/glossary')
+  await expect(page.getByTestId('glossary')).toContainText('What reuse means')
   expect(errors).toEqual([])
 })
 
@@ -160,24 +186,24 @@ test('a visitor who already opened the round 2 build before this one keeps their
   await page.goto('/app/settings/profile')
   await page.getByTestId('profile-name').fill('Priya Renamed')
   await page.getByTestId('profile-save').click()
-  await expect.poll(async () => (await read(page, V2_STATE)) ?? '').toContain('Priya Renamed')
+  await expect.poll(async () => (await read(page, STATE)) ?? '').toContain('Priya Renamed')
 
-  // The browser as the round 2 build deployed before this fix left it: a version 2 sandbox on the old key.
+  // The browser as a build that kept every version under one key left it: this version's sandbox on an old key.
   await page.evaluate(
     ([oldKey, newKey]) => {
       const v = window.localStorage.getItem(newKey)!
       for (const k of Object.keys(window.localStorage)) if (k.startsWith('tallyard-platform-') && !k.endsWith('-session')) window.localStorage.removeItem(k)
       window.localStorage.setItem(oldKey, v)
     },
-    [V1_STATE, V2_STATE],
+    [V1_STATE, STATE],
   )
   await page.goto('/app/home')
   const notice = page.getByTestId('upgrade-notice')
-  await expect(notice).toContainText('The sandbox was updated on 16 October with the changes from the 14 October review.')
+  await expect(notice).toContainText('The sandbox was updated on 28 October with the circular economy upgrade: audits, contractors, grading, procurement, the statement and its template, the City of London and certification.')
   await expect(notice).not.toContainText('back to the sample data')
   expect(await read(page, V1_STATE)).toBeNull()
-  expect(await read(page, V2_STATE)).toContain('Priya Renamed')
-  expect(await read(page, 'tallyard-platform-v2-whatsnew')).not.toBeNull()
+  expect(await read(page, STATE)).toContain('Priya Renamed')
+  expect(await read(page, 'tallyard-platform-v3-whatsnew')).not.toBeNull()
 
   // The close button sits in the notice's top corner at every width, and the text keeps its width.
   for (const width of [390, 1024, 1440]) {
@@ -205,7 +231,7 @@ test('a tab of the old build open beside the new one changes nothing in the new 
   await page.goto('/app/settings/profile')
   await page.getByTestId('profile-name').fill('Priya Renamed')
   await page.getByTestId('profile-save').click()
-  await expect.poll(async () => (await read(page, V2_STATE)) ?? '').toContain('Priya Renamed')
+  await expect.poll(async () => (await read(page, STATE)) ?? '').toContain('Priya Renamed')
 
   // The old build, in another tab on the same site, keeps writing its version 1 sandbox to its own key.
   const old = await context.newPage()
@@ -216,7 +242,7 @@ test('a tab of the old build open beside the new one changes nothing in the new 
   }
   await page.waitForTimeout(500)
   await expect(page.getByTestId('profile-name')).toHaveValue('Priya Renamed')
-  expect(await read(page, V2_STATE)).toContain('Priya Renamed')
+  expect(await read(page, STATE)).toContain('Priya Renamed')
 
   // A reload of the new tab keeps the work, clears the old key and shows no notice, because nothing was lost.
   await page.reload()

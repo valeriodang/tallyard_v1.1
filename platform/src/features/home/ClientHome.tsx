@@ -15,6 +15,7 @@ import { TodoList } from './client/TodoList'
 import { ProgrammeTimeline } from './client/ProgrammeTimeline'
 import { TrackingTable } from './client/TrackingTable'
 import { ClientWelcome, ProjectCards } from './client/ProjectCards'
+import { ClientIndicators } from '../indicators/Indicators'
 
 const RES_TONE = { pending: 'info', accepted: 'brand', declined: 'danger', withdrawn: 'neutral' } as const
 
@@ -113,6 +114,7 @@ export function ClientHome() {
         </div>
         <ProgrammeTimeline t={v.timeline} />
         <TrackingTable rows={v.tracking} />
+        <ClientIndicators />
         <section aria-labelledby="projects-title" className="min-w-0">
           <SectionTitle id="projects-title" title="Your projects" description={v.projects.length > 0 ? 'Projects where your organisation is the client.' : undefined} />
           <ProjectCards v={v} />

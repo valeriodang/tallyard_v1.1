@@ -5,7 +5,8 @@
 import { afterAll, beforeEach, describe, expect, it, vi } from 'vitest'
 
 const V1 = 'tallyard-platform-v1-state'
-const V2 = 'tallyard-platform-v2-state'
+// This build's key: version 3 from the round 3 update of 28 October.
+const V3 = 'tallyard-platform-v3-state'
 const v1Record = JSON.stringify({ state: { version: 1, seededOn: '2026-10-14', world: { projects: {} }, users: {} }, version: 1 })
 
 // vi.resetModules gives every test a fresh copy of the store and of the one clock it reads, so the clock is pinned
@@ -29,7 +30,7 @@ describe('loading the app over an older sandbox', () => {
     await useApp.persist.rehydrate()
     const { upgradeNoticeShown } = await import('./upgrade')
     expect(window.localStorage.getItem(V1)).toBeNull()
-    expect(window.localStorage.getItem('tallyard-platform-v2-upgraded')).toBe('2026-10-16')
+    expect(window.localStorage.getItem('tallyard-platform-v3-upgraded')).toBe('2026-10-16')
     expect(upgradeNoticeShown()).toBe(true)
     expect(getData().version).toBe(STATE_VERSION)
     expect(Object.keys(getData().users)).toHaveLength(6)
@@ -62,9 +63,9 @@ describe('storage events from other tabs', () => {
     window.localStorage.setItem(V1, v1Record)
     onStorageEvent({ key: V1, newValue: v1Record })
     // A version 1 record on this key (from any source) is not read either, so this tab never reseeds over it.
-    onStorageEvent({ key: V2, newValue: v1Record })
-    onStorageEvent({ key: V2, newValue: null })
-    onStorageEvent({ key: V2, newValue: '{ not json' })
+    onStorageEvent({ key: V3, newValue: v1Record })
+    onStorageEvent({ key: V3, newValue: null })
+    onStorageEvent({ key: V3, newValue: '{ not json' })
     await new Promise((r) => setTimeout(r, 0))
     expect(getData()).toEqual(before)
     expect(getData().ui.sidebarCollapsed).toBe(true)
@@ -78,8 +79,8 @@ describe('storage events from other tabs', () => {
     const data = getData()
     expect(data.ui.sidebarCollapsed).toBe(false)
     const raw = JSON.stringify({ state: { ...data, ui: { ...data.ui, sidebarCollapsed: true } }, version: STATE_VERSION })
-    window.localStorage.setItem(V2, raw)
-    onStorageEvent({ key: V2, newValue: raw })
+    window.localStorage.setItem(V3, raw)
+    onStorageEvent({ key: V3, newValue: raw })
     await vi.waitFor(() => expect(getData().ui.sidebarCollapsed).toBe(true))
   })
 })

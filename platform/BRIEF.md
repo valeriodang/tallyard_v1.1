@@ -483,4 +483,11 @@ Round 3 is a working name, used in documents and test logs. Screens say "Updated
     - LEED MRc1 by cost and by material type, and MRc5 from the waste estimates;
     - BREEAM Wst 01 construction waste per m2 against the Appendix 4 bands, with diversion;
     - a WELL X01 to X03 screen of each reclaimed item.
+- **As built (stage 6d):**
+  - **Circularity indicators** on each project's Sustainability tab: reused and recycled content by mass and by value; reuse by mass for structure, skin and space plan against the reuse toolkit's bands, and for the whole building against the 1% to 10% of conventional buildings; and the Level(s) 2.4 score of the new building's end of life under the statement's RICS scenario. The client's home lists each project; the owner's home scores each recovery plan against business as usual.
+  - **Help:**
+    - a Glossary topic with the three ways the sources define reuse, and how LEED splits it;
+    - the role guides brought up to date, the contractor's included;
+    - "Updated on 28 October" listing the upgrade for each workspace, with the 16 October update below it.
+  - **State version 3,** on its own key. A browser holding an older sandbox gets the sample data again and a notice on the home that links to what changed.
 

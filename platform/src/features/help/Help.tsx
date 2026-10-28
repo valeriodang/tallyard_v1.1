@@ -4,7 +4,7 @@
 import { useMemo, type ReactNode } from 'react'
 import { Link, useParams } from 'react-router'
 import type { LucideIcon } from 'lucide-react'
-import { Award, BookOpen, Boxes, Building2, CalendarRange, Camera, ChevronDown, ClipboardCheck, Columns3, Compass, Database, FileSpreadsheet, FileText, Gauge, GripHorizontal, Handshake, HardHat, History, Inbox, Info, KeyRound, Landmark, Layers, Leaf, ListOrdered, Network, PackageCheck, Recycle, Rocket, Scale, Share2, ShieldCheck, Tag, Target, Timer, Users } from 'lucide-react'
+import { Award, BookA, BookOpen, Boxes, Building2, CalendarRange, Camera, ChevronDown, ClipboardCheck, Columns3, Compass, Database, FileSpreadsheet, FileText, Gauge, GripHorizontal, Handshake, HardHat, History, Inbox, Info, KeyRound, Landmark, Layers, Leaf, ListOrdered, Network, PackageCheck, Recycle, Rocket, Scale, Share2, ShieldCheck, Tag, Target, Timer, Users } from 'lucide-react'
 import { LABELS } from '../../domain/reference/labels'
 import { useSession, type PlatformRole } from '../../store'
 import { MARKETPLACE_PATH } from '../../store/paths'
@@ -15,9 +15,11 @@ import { Badge, Card, CardBody, cx, Pill, Table, TBody, TD, TH, THead, TR, type 
 import { Page } from '../../app/Page'
 import { UPGRADE_HELP_TOPIC, UPGRADE_TITLE } from '../../store/upgrade'
 import { WhatChanged } from './WhatChanged'
+import { GLOSSARY, REUSE_DEFINITIONS, type GlossaryEntry } from '../../domain/reference/glossary'
 
 const TOPICS = [
   { id: 'getting-started', label: 'Getting started', icon: Rocket },
+  { id: 'glossary', label: 'Glossary', icon: BookA },
   { id: 'methodology', label: 'Methodology', icon: BookOpen },
   { id: 'version-2', label: 'Version 2', icon: Boxes },
   { id: UPGRADE_HELP_TOPIC, label: UPGRADE_TITLE, icon: History },
@@ -47,7 +49,7 @@ export function Help() {
             })}
           </ul>
         </nav>
-        <div className="min-w-0 flex-1">{current === 'methodology' ? <Methodology /> : current === 'version-2' ? <VersionTwo /> : current === UPGRADE_HELP_TOPIC ? <WhatChanged /> : <GettingStarted />}</div>
+        <div className="min-w-0 flex-1">{current === 'methodology' ? <Methodology /> : current === 'version-2' ? <VersionTwo /> : current === UPGRADE_HELP_TOPIC ? <WhatChanged /> : current === 'glossary' ? <Glossary /> : <GettingStarted />}</div>
       </div>
     </Page>
   )
@@ -65,7 +67,8 @@ const GUIDES: Record<PlatformRole, { title: string; intro: string; steps: Step[]
       { icon: Tag, title: 'Save to a project', text: 'Save materials to a project shortlist, or to Saved when you have no project for them yet.', href: '/app/saved', cta: 'Saved' },
       { icon: Columns3, title: 'Set the steel limits', text: "On a project's Requirements tab, record the execution class, consequence class and grade the engineer allows. Steel listings then show the testing each needs and about how long it takes." },
       { icon: Handshake, title: 'Send to your client', text: 'Once your client has accepted the project, select materials on the shortlist and send them for approval with a message. The client approves or declines.' },
-      { icon: FileSpreadsheet, title: 'Export the specification', text: 'Approved materials make the specification schedule: export the spreadsheet or print it, and download DXF, OBJ or IFC geometry.' },
+      { icon: FileSpreadsheet, title: 'Export the specification', text: 'Approved materials make the specification schedule, each with a reuse clause: supply route, location, tolerances, acceptance and the new fallback. Export the spreadsheet or print it, and download DXF, OBJ or IFC geometry.' },
+      { icon: Network, title: 'Design from stock', text: "On a project's Matching tab, load a steel schedule and match it against stock, with cut to length, offcuts back to stock and the 30% excess rule." },
     ],
   },
   client: {
@@ -74,8 +77,9 @@ const GUIDES: Record<PlatformRole, { title: string; intro: string; steps: Step[]
     steps: [
       { icon: Inbox, title: 'Accept project requests', text: 'An architect asks before adding you as the client on a project. Accept to see it and approve materials for it, or decline with a note.', href: '/app/projects/requests', cta: 'Project requests' },
       { icon: ClipboardCheck, title: 'Review approvals', text: 'Each material comes with its facts, the timeline check, avoided carbon and the guide price range. Approve or decline with a note.' },
-      { icon: Handshake, title: 'Request a reservation', text: 'For an approved material, see the indicative package for storage, testing and delivery, then ask the seller to hold it.' },
-      { icon: Users, title: 'Meet the seller', text: 'The seller sees your project as a blind line. When they accept, you both see each other\'s organisation and contact.' },
+      { icon: Handshake, title: 'Request a reservation', text: 'For an approved material, see the indicative package for storage, testing and delivery, choose a deal model and its terms, then ask the seller to hold it.' },
+      { icon: Users, title: 'Meet the seller', text: "The seller sees your project as a blind line and your terms banded. When they accept, you both see each other's organisation and contact, and you receive the provenance pack." },
+      { icon: FileText, title: 'Prepare the procurement pack', text: 'On Procurement, set the reuse objective, the supply route, the clauses and the award criteria, then export the pack as Word and a spreadsheet.' },
     ],
   },
   owner: {
@@ -84,8 +88,8 @@ const GUIDES: Record<PlatformRole, { title: string; intro: string; steps: Step[]
     steps: [
       { icon: Building2, title: 'Add a building and appoint a surveyor', text: 'The surveyor captures each item. You are told as items arrive and when the survey is submitted.', href: '/app/buildings', cta: 'Buildings' },
       { icon: ClipboardCheck, title: 'Audit the building', text: 'On Audits, the pre-redevelopment audit asks whether the building can be kept and compares the carbon of each option. The pre-deconstruction audit lists what comes out and where it goes, and lists reusable lines early.' },
-      { icon: ListOrdered, title: 'Decide what to recover', text: 'The recovery plan ranks items by net value, avoided carbon, demand and ease, with their route on the UK decision tree.' },
-      { icon: Share2, title: 'Share or publish', text: 'Keep a lot private, share it in confidence with projects you choose, or publish it. Set the ask, the reserve and the date. Or pass title to the arisings to your deconstruction contractor on Listings, and it sells instead.' },
+      { icon: ListOrdered, title: 'Decide what to recover', text: 'The recovery plan ranks items by net value, avoided carbon, demand and ease, gives each one of nine routes and scores the plan with Level(s) against business as usual. Your home shows the score of every building.' },
+      { icon: Share2, title: 'Share or publish', text: 'Keep a lot private, hold it for your own projects, share it in confidence with projects you choose, or publish it. Set the ask, the reserve and the date. Or pass title to the arisings to your deconstruction contractor on Listings, and it sells instead.' },
       { icon: Handshake, title: 'Answer requests', text: 'Buyers stay anonymous until you accept. Accepting holds the lot and exchanges contacts.', href: '/app/requests', cta: 'Requests' },
     ],
   },
@@ -117,7 +121,9 @@ const GUIDES: Record<PlatformRole, { title: string; intro: string; steps: Step[]
     steps: [
       { icon: Leaf, title: 'Read the sustainability', text: 'Each project\'s Sustainability tab totals avoided carbon and mass by status and by typology, against the project\'s targets.' },
       { icon: Target, title: 'Set goals and targets', text: 'Default targets come from the requirements that apply to the project. Override any of them, with your reason.' },
-      { icon: Award, title: 'Track certification and the statement', text: 'Map reused materials to BREEAM, LEED and WELL credits, then send the auto-written circular economy statement to the client for review.' },
+      { icon: Award, title: 'Track certification', text: 'Map reused materials to BREEAM, LEED and WELL credits. Under each scheme, the calculators score LEED MRc1 and MRc5, place construction waste in the Wst 01 bands and screen each reclaimed item for WELL.' },
+      { icon: ClipboardCheck, title: 'Fill in the statement inputs', text: 'On Statement inputs, record whether a statement is needed, the decision tree, the layers, the bill of materials, waste, targets and post-construction. Export the GLA template; the statement draws on it before you send it to the client.' },
+      { icon: Landmark, title: 'Projects in the City', text: 'A project in the City of London gains a tab for the carbon options with the retrofit test and an independent reviewer, the minimums for reuse and passports, and the updates at RIBA stages 4 and 6.' },
       { icon: Scale, title: 'Compliance', text: 'Reused and recycled content by value against the aim, the reused items and the bill of materials. Export the workbook or print it.' },
       { icon: Recycle, title: 'Waste engagements', text: 'Import a demolition bill, review its rows, and export the waste and reuse workbook.' },
     ],
@@ -164,6 +170,48 @@ function GettingStarted() {
             </details>
           ))}
         </div>
+      </section>
+    </div>
+  )
+}
+
+function Term({ e }: { e: GlossaryEntry }) {
+  return (
+    <div className="flex flex-col gap-0.5 py-3 first:pt-0 last:pb-0" data-testid={`term-${e.id}`}>
+      <dt className="text-base font-semibold text-ink">{e.term}</dt>
+      <dd className="m-0 text-sm text-ink-soft">{e.text}</dd>
+      <dd className="m-0 text-xs text-muted">{e.source}</dd>
+    </div>
+  )
+}
+
+function Glossary() {
+  return (
+    <div className="flex flex-col gap-8" data-testid="glossary">
+      <section>
+        <h2 className="m-0 text-xl font-semibold text-ink">What reuse means</h2>
+        <p className="m-0 mt-1 max-w-2xl text-base text-muted">The sources define reuse in three ways, and LEED splits it by where the material comes from. The difference decides what a figure counts, so Tallyard shows each figure on the basis its source uses.</p>
+        <Card className="mt-4">
+          <CardBody>
+            <dl className="m-0 flex flex-col divide-y divide-line-soft">
+              {REUSE_DEFINITIONS.map((e) => (
+                <Term key={e.id} e={e} />
+              ))}
+            </dl>
+          </CardBody>
+        </Card>
+      </section>
+      <section>
+        <h2 className="m-0 text-md font-semibold text-ink">Other terms</h2>
+        <Card className="mt-3">
+          <CardBody>
+            <dl className="m-0 flex flex-col divide-y divide-line-soft">
+              {GLOSSARY.map((e) => (
+                <Term key={e.id} e={e} />
+              ))}
+            </dl>
+          </CardBody>
+        </Card>
       </section>
     </div>
   )

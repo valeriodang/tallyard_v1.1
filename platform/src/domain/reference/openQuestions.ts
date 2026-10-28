@@ -45,4 +45,17 @@ export const OPEN_QUESTIONS: { group: string; items: string[] }[] = [
       'Rent premium and rental yield are left out because the figures are unverified. Should they appear as an editable assumption instead?',
     ],
   },
+  {
+    group: 'Raised by the circular economy upgrade (28 October 2026)',
+    items: [
+      'BREEAM: the trackers in the folder number credits as V6.1 (Mat 06 material efficiency, Mat 05 durability). Which version will your assessors use, and does Version 7 renumber them?',
+      'LEED: the folder holds only the v5 interiors guide, so the codes and the MRc1 and MRc5 calculators follow it. For a whole building, do the Building Design and Construction credits use the same numbers and thresholds?',
+      "MRc5 needs the share of recycling that was source-separated and the mixed facility's verified rate. Should contractors record both on the destination log, so the calculator stops relying on the consultant's estimate?",
+      'The end-of-life score of a new building counts recycling as pure stream for metals and mixed stream for everything else. Is that how your assessors read Level(s) indicator 2.4?',
+      'City of London: the SPD gives office benchmarks only. Which values apply to residential and other uses, and does the independent reviewer need an accreditation beyond three years of whole life carbon work?',
+      'Deal terms and the storage bridge use placeholder rates. What deposit, price lock, buy-back and storage terms do clients and stockholders actually agree?',
+      'The reuse bands by building layer come from 32 projects in the Interreg reuse toolkit, mostly outside the UK. Are they the right yardstick for London, or should the GLA monitoring data replace them as it grows?',
+      "The sandbox holds no sample project in the City of London, because a buyer's own project there would show a borough that the privacy checks treat as a seller's location. Is a City sample project worth a narrower privacy rule?",
+    ],
+  },
 ]

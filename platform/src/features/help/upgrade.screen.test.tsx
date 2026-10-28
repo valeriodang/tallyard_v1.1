@@ -1,6 +1,6 @@
 // @vitest-environment jsdom
 // A returning visitor whose sandbox was replaced: the notice on each home with its link to Help, closing it for
-// good, Help, Updated on 16 October with links into the viewer's own workspace, and the sign-in line for an
+// good, Help, Updated on 28 October with links into the viewer's own workspace, and the sign-in line for an
 // account made before the update. No forbidden characters (P6).
 import { act } from 'react'
 import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, it, vi } from 'vitest'
@@ -73,7 +73,7 @@ describe('the upgrade notice on the home dashboard', () => {
     for (const [who, home] of [[U.priya, 'architect-home'], [U.isla, 'client-home'], [U.tom, 'owner-home'], [U.dana, 'surveyor-home'], [U.marcus, 'consultant-home']] as const) {
       open('/app/home', who)
       await waitFor(() => q(home))
-      expect(byTestId('upgrade-notice').textContent).toContain('The sandbox was updated on 16 October with the changes from the 14 October review. Anything you changed before then is back to the sample data.')
+      expect(byTestId('upgrade-notice').textContent).toContain('The sandbox was updated on 28 October with the circular economy upgrade: audits, contractors, grading, procurement, the statement and its template, the City of London and certification. Anything you changed before then is back to the sample data.')
       expect(byTestId('upgrade-notice-link').getAttribute('href')).toBe('/app/help/updated')
       expect(allText()).not.toMatch(FORBIDDEN)
       cleanup()
@@ -104,7 +104,7 @@ describe('the upgrade notice on the home dashboard', () => {
     expect(byTestId('upgrade-notice').getAttribute('data-kind')).toBe('replaced')
   })
 
-  it('See what changed opens Help, Updated on 16 October', async () => {
+  it('See what changed opens Help, Updated on 28 October', async () => {
     writeKey('local', UPGRADED_KEY, '2026-10-16')
     const router = open('/app/home')
     await waitFor(() => q('upgrade-notice-link'))
@@ -117,16 +117,21 @@ describe('the upgrade notice on the home dashboard', () => {
   })
 })
 
-describe('Help, Updated on 16 October', () => {
-  it('lists the changes for the viewer with links, then those of the other workspaces', async () => {
+describe('Help, Updated on 28 October', () => {
+  it('lists the changes for the viewer with links, then those of the other workspaces, then the earlier update', async () => {
     open('/app/help/updated')
     await waitFor(() => q('what-changed'))
     expect(byTestId('help-updated').getAttribute('aria-current')).toBe('page')
-    expect(byTestId('what-changed').querySelector('h2')!.textContent).toBe('Updated on 16 October')
+    // Round 3: the latest update leads; the 16 October one follows under Earlier, with the same links as before.
+    expect(byTestId('what-changed').querySelector('h2')!.textContent).toBe('Updated on 28 October')
+    expect(byTestId('change-link-matching').getAttribute('href')).toMatch(/^\/app\/projects\/prj_[A-Za-z0-9]+\/matching$/)
+    expect(byTestId('changes-others').textContent).toContain('Pre-redevelopment and pre-deconstruction audits')
+    expect(byTestId('changes-others').querySelector('a')).toBeNull()
+    expect(byTestId('what-changed-earlier').querySelector('h2')!.textContent).toBe('Earlier: Updated on 16 October')
     expect(byTestId('change-link-marketplace').getAttribute('href')).toBe('/app/marketplace')
     expect(byTestId('change-link-programme').getAttribute('href')).toMatch(/^\/app\/projects\/prj_/)
-    expect(byTestId('changes-others').textContent).toContain('Sharing links')
-    expect(byTestId('changes-others').querySelector('a')).toBeNull()
+    expect(byTestId('earlier-others').textContent).toContain('Sharing links')
+    expect(byTestId('earlier-others').querySelector('a')).toBeNull()
     expect(allText()).not.toMatch(FORBIDDEN)
   })
 })
@@ -145,7 +150,7 @@ describe('sign-in after an upgrade', () => {
     writeKey('local', UPGRADED_KEY, '2026-10-16')
     await failSignIn('jo@parkstudio.example')
     expect(document.querySelector('[role="alert"]')!.textContent).toContain('That email and password do not match.')
-    expect(byTestId('signin-error-hint').textContent).toContain('The sandbox was updated on 16 October. Accounts made before then need to be created again.')
+    expect(byTestId('signin-error-hint').textContent).toContain('The sandbox was updated on 28 October. Accounts made before then need to be created again.')
     expect(byTestId('signin-upgrade-signup').getAttribute('href')).toBe('/signup')
     expect(allText()).not.toMatch(FORBIDDEN)
   })
@@ -168,7 +173,7 @@ describe('a sandbox carried over from the round 2 build deployed before', () => 
     await waitFor(() => q('upgrade-notice'))
     const notice = byTestId('upgrade-notice')
     expect(notice.getAttribute('data-kind')).toBe('carried_over')
-    expect(notice.textContent).toContain('The sandbox was updated on 16 October with the changes from the 14 October review.')
+    expect(notice.textContent).toContain('The sandbox was updated on 28 October with the circular economy upgrade: audits, contractors, grading, procurement, the statement and its template, the City of London and certification.')
     expect(notice.textContent).not.toContain('back to the sample data')
     expect(byTestId('upgrade-notice-link').getAttribute('href')).toBe('/app/help/updated')
     click(byTestId('upgrade-notice-close'))
@@ -226,7 +231,7 @@ describe('sign-in after an upgrade: typos, a stale sign-in and the way to sign u
     const router = open('/app/home', 'usr_m4k2p9')
     await waitFor(() => q('signin-notice'))
     expect(router.state.location.pathname).toBe('/signin')
-    expect(byTestId('signin-notice').textContent).toContain('The sandbox was updated on 16 October. Accounts made before then need to be created again.')
+    expect(byTestId('signin-notice').textContent).toContain('The sandbox was updated on 28 October. Accounts made before then need to be created again.')
     expect(byTestId('signin-stale-signup').getAttribute('href')).toBe('/signup')
     expect(document.querySelector('[role="alert"]')).toBeNull()
     await waitFor(() => getSessionUserId() === null)

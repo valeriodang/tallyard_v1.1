@@ -65,7 +65,7 @@ scripts/               scan.mjs, make-samples.mjs, make-photo-fixture.mjs, shots
 2. Wait for the partner's material (brief 09 section 12, docs/HANDOFF.md section 8): the product name, the office's specification template, the sustainability diagram, the frameworks list and the decision tree, and the consultant's workflow. Each replaces a placeholder named in brief 09.
 3. Decide with the user whether and when version 1.0 goes to `main`. Nothing goes to `main` without an explicit go-ahead.
 4. Version 2 items stay greyed until asked for: matching an uploaded BIM model or steel schedule against the whole marketplace, and the BIM family download.
-6. Round 3 of the platform, the literature upgrade (`platform/BRIEF.md` section 15). It is built in six stages, each tested and pushed.
+6. Round 3 of the platform, the literature upgrade (`platform/BRIEF.md` section 15), is complete. It was built in six stages, each tested and pushed.
    - Stage 1 is done: the RICS carbon method and values, the literature reference tables and engines in Methodology, six new material families, and the deconstruction contractor as a sign-in role.
    - Stage 2 is done: the Audits tab on every donor building.
      - The pre-redevelopment audit has the six factors, the GLA decision tree, the City carbon options with the retrofit test and an independent reviewer.
@@ -97,5 +97,9 @@ scripts/               scan.mjs, make-samples.mjs, make-photo-fixture.mjs, shots
    - Stage 6c is done: the City of London module and the certification rebase.
      - A City of London tab for projects in the City: minimums, carbon options with the retrofit test and an independent reviewer, retention figures, condition bands, passports and the stage 4 and 6 updates.
      - BREEAM in V6.1 numbering, LEED v5 codes, WELL X03; calculators for LEED MRc1 and MRc5, BREEAM Wst 01 and a WELL hazard screen.
+   - Stage 6d is done, and with it round 3: indicators, Help and state version 3.
+     - Circularity indicators on each project, the client's home and the owner's home.
+     - Help: a glossary with the three meanings of reuse, updated role guides, and "Updated on 28 October".
+     - State version 3: an older sandbox is replaced with a notice. New open questions are in `docs/OPEN_QUESTIONS.md` (21 to 28).
    - Test changes are logged in `platform/feedback/r3-test-changes-*.md` and decisions in `platform/feedback/r3-decisions.md`.
 5. Literature review of `reference literature/` done (27 October 2026): `reports/Tallyard literature review.md`, notes in `research_notes/Literature review/`. It recommends reference-value updates and ranks 17 features; none is built until the user chooses. Eight later documents (D53 to D60) are reviewed in note 08 with the updated gap status.

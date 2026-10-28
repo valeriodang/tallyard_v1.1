@@ -78,6 +78,8 @@ export type BomRow = {
   wasteFactor: number
   wasteT: number
   eol: EndOfLifeSplit
+  /** The RICS material whose end of life the line takes, for the Level(s) score. */
+  eolMaterial: string
   reusableT: number
   recyclableT: number
 }
@@ -114,6 +116,7 @@ export function bomRows(lines: BillLine[], giaM2: number, scenario: EolScenarioI
       wasteFactor,
       wasteT: l.massT * wasteFactor,
       eol,
+      eolMaterial,
       reusableT: l.massT * eol.reuse,
       recyclableT: l.massT * eol.recycle,
     }

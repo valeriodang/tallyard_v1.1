@@ -238,3 +238,14 @@ Decisions taken while building round 3 (`BRIEF.md` section 15), with the reason 
 - **The WELL screen is rule-based:** X01 asks for the asbestos limit on ceilings and roofing, and a lead test on coated families; X02 asks for a PCB check on old or undated sealants; X03 asks for a CCA check on timber. Hazards the listing confirms replace the checks. Project items now carry their listing's confirmed hazards.
 - **Waste-reporting credits** now say whether the statement holds estimates, in place of "Not held in Tallyard".
 
+## Stage 6d
+
+- **The indicators read the project's own bill, never a price.** Reused and recycled content are kept apart, by mass and by value, as shares. The consultant, the architect and the client read the same panel on the Sustainability tab.
+- **Layer bands map the bill's layers to the toolkit's:** substructure and superstructure to structure, shell and skin to skin, space to space plan. Services sit outside the toolkit's bands and outdoor works has no bill line, so neither shows.
+- **The end-of-life score is Level(s) 2.4 over the bill's lines,** each line's split under the statement's RICS scenario (business as usual until the consultant chooses), with recycling as pure stream for metals and mixed stream otherwise, as the owner's recovery plan already counts it.
+- **The owner's indicators reuse the recovery plan's own summary** (`recoverySummaryOf`), so the home and the plan never disagree.
+- **The glossary cites a source for every term.** Reuse comes first, because the GLA statement, the component definition from the EU steel research and the BREEAM trackers each define it differently, and LEED splits it by where the material comes from.
+- **State version 3 replaces any older sandbox, with the notice,** as round 2 did. The notice and the sign-in line name 28 October. Help lists round 3's changes first, each linked for the viewer's own workspace, then round 2's under "Earlier", whose list and links are unchanged.
+- **The role guides gained the new work:** design from stock and reuse clauses for architects; deal terms, the provenance pack and the procurement pack for clients; nine routes, the Level(s) score and holding lots for owners; the calculators, Statement inputs and the City module for consultants.
+- `SEED_REVISION` stays 7: version 3 starts every sandbox afresh in any case.
+

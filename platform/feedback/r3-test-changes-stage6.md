@@ -42,3 +42,35 @@ BREEAM credits now use the V6.1 numbering of the trackers in the folder, so mate
   - **Why.** X03 is targeted and not started: Merrowgate holds no reclaimed timber.
   - **What still holds.** X01 is named at risk, the statement's own measure is left out, and the next steps are unchanged.
 
+
+## Stage 6d: state version 3 and the "Updated on 28 October" notice
+
+The sandbox moves to version 3, on its own key `tallyard-platform-v3-state`, so a browser holding a round 2 sandbox is told it was updated, as round 2 did for round 1. The notice, the sign-in line and Help name 28 October and the circular economy upgrade. Help, Updated on 28 October lists the round 3 changes and keeps the round 2 list below under "Earlier: Updated on 16 October". The round 2 list keeps its own title, `ROUND_2_TITLE`, so `whatChanged.test.ts` is unchanged.
+
+- `src/store/upgrade.test.ts`:
+  - "keeps the data of each version under its own key, and the session under the same key as before":
+    - **What changed.** The version is 3, the key `tallyard-platform-v3-state`, the next key v4, and the earlier keys are those of versions 1 and 2.
+    - **Why.** Round 3 raises the version.
+    - **What still holds.** Each version has its own key; the session key is unchanged; every key starts with the app prefix.
+  - "a replaced sandbox wins over a carried one, and a closed notice stays closed":
+    - **What changed.** The carried notice reads the 28 October text.
+    - **Why.** The notice names the latest update.
+    - **What still holds.** Which notice wins, the closed state, and that the carried text never says work went back to sample data.
+  - "reads plainly, with no forbidden characters":
+    - **What changed.** The replaced notice reads the 28 October text.
+    - **Why.** As above.
+    - **What still holds.** No forbidden characters in any upgrade copy.
+- `src/store/app.upgrade.test.ts`, "replaces a version 1 sandbox..." and "a write of this version from another tab is picked up":
+  - **What changed.** This build's key is the v3 key, and the upgrade is recorded under `tallyard-platform-v3-upgraded`.
+  - **Why.** The keys carry the version.
+  - **What still holds.** An older sandbox is replaced and recorded; a version 1 write changes nothing; a write of this version is read.
+- `src/features/help/upgrade.screen.test.tsx`:
+  - **What changed.** Five tests read the 28 October notice and sign-in texts. The Help test reads "Updated on 28 October" first, with the matching link and the audits change among the others. It finds the round 2 links (Marketplace, programme) and "Sharing links" in the earlier section.
+  - **Why.** The latest update leads and round 2 follows.
+  - **What still holds.** The notice on every home, its link, staying closed, the sign-in explanations, and the round 2 links each opening.
+- `e2e/r2-upgrade.spec.ts`:
+  - **What changed.** The keys are v3, and the texts read 28 October. Help shows 4 round 3 changes for Priya, with the 7 round 2 ones under Earlier. A new test replaces a round 2 sandbox and opens the glossary.
+  - **Why.** As above.
+  - **What still holds.** Every journey: the replaced sandbox, the dead sign-in, signing up again, the carried sandbox keeping its work, the old tab beside the new one, and the reload offer.
+
+**Added, not changed.** The privacy test also scans `projectIndicators`, `clientIndicators` and `ownerIndicators`.

@@ -248,7 +248,7 @@ export type UiState = {
 export type RecoveryPlan = { routes: Record<string, RecoveryRoute>; updatedAt: string; byUserId: string }
 
 export type AppData = {
-  version: 2
+  version: 3
   /** The seed revision this sandbox was made from (`SEED_REVISION`, round 3). */
   seedRevision: number
   /** The date the sandbox was seeded. */

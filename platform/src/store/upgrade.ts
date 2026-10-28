@@ -13,23 +13,23 @@ import { APP_PREFIX, legacyStateKeys, readKey, removeKey, STATE_KEY, STATE_VERSI
 /** Set when an older sandbox was found and replaced; holds the day it was found. */
 export const UPGRADED_KEY = `${APP_PREFIX}v${STATE_VERSION}-upgraded`
 /**
- * Set when a sandbox of this version was carried over from an earlier key: the browser already opened the round 2
- * build deployed before this one, which replaced any older sandbox without a word. Holds the day it was found.
+ * Set when a sandbox of this version was carried over from an earlier key, as a build that kept every version under
+ * one key once left it (round 2). Holds the day it was found.
  */
 export const WHATS_NEW_KEY = `${APP_PREFIX}v${STATE_VERSION}-whatsnew`
 /** Set when the viewer closes the notice. */
 export const UPGRADE_DISMISSED_KEY = `${APP_PREFIX}v${STATE_VERSION}-upgrade-dismissed`
 
 /** The Help section that lists the changes, and its address. */
-export const UPGRADE_TITLE = 'Updated on 16 October'
+export const UPGRADE_TITLE = 'Updated on 28 October'
 export const UPGRADE_HELP_TOPIC = 'updated'
 export const UPGRADE_HELP_PATH = `/app/help/${UPGRADE_HELP_TOPIC}`
 
-export const UPGRADE_NOTICE = 'The sandbox was updated on 16 October with the changes from the 14 October review. Anything you changed before then is back to the sample data.'
-export const UPGRADE_SIGN_IN_HINT = 'The sandbox was updated on 16 October. Accounts made before then need to be created again.'
+export const UPGRADE_NOTICE = 'The sandbox was updated on 28 October with the circular economy upgrade: audits, contractors, grading, procurement, the statement and its template, the City of London and certification. Anything you changed before then is back to the sample data.'
+export const UPGRADE_SIGN_IN_HINT = 'The sandbox was updated on 28 October. Accounts made before then need to be created again.'
 
 /** The notice for a sandbox carried over: nothing here was replaced, but the changes are still new to the viewer. */
-export const UPGRADE_NOTICE_CARRIED = 'The sandbox was updated on 16 October with the changes from the 14 October review.'
+export const UPGRADE_NOTICE_CARRIED = 'The sandbox was updated on 28 October with the circular economy upgrade: audits, contractors, grading, procurement, the statement and its template, the City of London and certification.'
 
 export type UpgradeOutcome = 'none' | 'carried_over' | 'replaced'
 
@@ -77,9 +77,8 @@ export function wasUpgraded(): boolean {
 }
 
 /**
- * Whether this browser held a sandbox from before the 16 October update: one replaced here, or one carried over
- * from the round 2 build deployed before, which had already replaced any older sandbox. Accounts made in that
- * older sandbox are gone either way.
+ * Whether this browser held a sandbox from before the latest update: one replaced here, or one carried over from an
+ * earlier key. Accounts made in an older sandbox are gone either way.
  */
 export function sandboxWasUpdated(): boolean {
   return wasUpgraded() || readKey('local', WHATS_NEW_KEY) !== null

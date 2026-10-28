@@ -9,11 +9,12 @@ import { FORBIDDEN } from '../ui/testing'
 import type { AppData } from './types'
 
 const V1 = 'tallyard-platform-v1-state'
+const V2 = 'tallyard-platform-v2-state'
 const v1Record = JSON.stringify({ state: { version: 1, world: { projects: {} }, users: {} }, version: 1 })
 const v2Record = (tag: string) => JSON.stringify({ state: { version: STATE_VERSION, seededOn: tag }, version: STATE_VERSION })
 
 function clean() {
-  for (const k of [STATE_KEY, V1, UPGRADED_KEY, WHATS_NEW_KEY, UPGRADE_DISMISSED_KEY, SESSION_KEY]) removeKey('local', k)
+  for (const k of [STATE_KEY, V1, V2, UPGRADED_KEY, WHATS_NEW_KEY, UPGRADE_DISMISSED_KEY, SESSION_KEY]) removeKey('local', k)
 }
 
 beforeEach(() => {
@@ -25,10 +26,11 @@ afterAll(() => setClockForTests(null))
 
 describe('storage keys', () => {
   it('keeps the data of each version under its own key, and the session under the same key as before', () => {
-    expect(STATE_VERSION).toBe(2)
-    expect(STATE_KEY).toBe('tallyard-platform-v2-state')
-    expect(stateKey(3)).toBe('tallyard-platform-v3-state')
-    expect(legacyStateKeys()).toEqual([V1])
+    // Round 3: version 3, the update of 28 October; versions 1 and 2 are now earlier builds' keys.
+    expect(STATE_VERSION).toBe(3)
+    expect(STATE_KEY).toBe('tallyard-platform-v3-state')
+    expect(stateKey(4)).toBe('tallyard-platform-v4-state')
+    expect(legacyStateKeys()).toEqual([V1, V2])
     expect(SESSION_KEY).toBe('tallyard-platform-v1-session')
     expect(STATE_KEY.startsWith(APP_PREFIX) && SESSION_KEY.startsWith(APP_PREFIX)).toBe(true)
   })
@@ -166,7 +168,7 @@ describe('upgradeNoticeKind and its text', () => {
     expect(upgradeNoticeKind(false, false, false)).toBeNull()
     expect(upgradeNoticeKind(true, true, true)).toBeNull()
     expect(upgradeNoticeText('replaced')).toBe(UPGRADE_NOTICE)
-    expect(upgradeNoticeText('carried_over')).toBe('The sandbox was updated on 16 October with the changes from the 14 October review.')
+    expect(upgradeNoticeText('carried_over')).toBe('The sandbox was updated on 28 October with the circular economy upgrade: audits, contractors, grading, procurement, the statement and its template, the City of London and certification.')
     expect(UPGRADE_NOTICE_CARRIED).not.toContain('back to the sample data')
   })
 })
@@ -330,6 +332,6 @@ describe('signUpEmailFrom', () => {
 describe('copy', () => {
   it('reads plainly, with no forbidden characters', () => {
     for (const s of [UPGRADE_NOTICE, UPGRADE_NOTICE_CARRIED, UPGRADE_SIGN_IN_HINT, UPGRADE_TITLE]) expect(s).not.toMatch(FORBIDDEN)
-    expect(UPGRADE_NOTICE).toBe('The sandbox was updated on 16 October with the changes from the 14 October review. Anything you changed before then is back to the sample data.')
+    expect(UPGRADE_NOTICE).toBe('The sandbox was updated on 28 October with the circular economy upgrade: audits, contractors, grading, procurement, the statement and its template, the City of London and certification. Anything you changed before then is back to the sample data.')
   })
 })

@@ -20,6 +20,7 @@ import { ProgrammeTimeline } from './client/ProgrammeTimeline'
 import { TileChart } from './TileChart'
 import { BuildingRequirementsLine } from './BuildingRequirementsLine'
 import { FirstRunCard } from './FirstRunCard'
+import { OwnerIndicators } from '../indicators/Indicators'
 
 const TYPOLOGIES: { key: Typology; label: string }[] = [
   { key: 'structure', label: 'Structure' },
@@ -286,6 +287,7 @@ export function OwnerHome() {
         <>
       <Metrics v={v} />
       <WaitingForYou v={v} />
+      <OwnerIndicators />
       <AsDeveloper />
 
       <div className="mt-10 grid grid-cols-1 gap-10 xl:grid-cols-[minmax(0,1.7fr)_minmax(0,1fr)] xl:gap-6">

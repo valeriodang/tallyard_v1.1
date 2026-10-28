@@ -9,9 +9,9 @@ export const STORAGE_PREFIX = `${APP_PREFIX}v1`
 /**
  * The persisted data's version. Raising it starts a fresh sandbox, and also moves the data to its own key, so a
  * tab of an older build still open in the same browser keeps writing to its own key and the two never reseed each
- * other in a loop (round 2 audit, 16 October 2026).
+ * other in a loop (round 2 audit, 16 October 2026). Version 3 is the round 3 update of 28 October 2026.
  */
-export const STATE_VERSION = 2
+export const STATE_VERSION = 3
 /**
  * The seed's revision within a state version (round 3). A stored sandbox of an earlier revision starts again from
  * the sample data, so a key added to the data never reads as missing. Raise it whenever seeded data or keys change.
