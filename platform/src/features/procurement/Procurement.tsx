@@ -8,6 +8,7 @@ import { act, selectors, useNow, useView } from '../../store'
 import type { ProcurementView } from '../../store/selectors/procurement'
 import type { Ambition, AwardCriterion, AwardTemplateId, SupplyRoute } from '../../domain/procurementTypes'
 import { formatDate } from '../../domain/dates'
+import { shareFromPercentText } from '../../domain/input'
 import { Button, Callout, Card, CardBody, CardHeader, Checkbox, cx, EmptyState, Field, IndicativeMarker, Input, Pill, RadioCards, SegmentedControl, Table, TBody, TD, TH, THead, TR, toast } from '../../ui'
 import { downloadBlob } from '../../app/download'
 import { ProjectPage } from '../projects/ProjectParts'
@@ -74,9 +75,9 @@ function Objective({ projectId, v }: { projectId: string; v: ProcurementView }) 
     setText(v.targetPercent)
   }
   const commit = () => {
-    const n = Number(text)
-    if (text.trim() === '' || !Number.isFinite(n) || n === Number(v.targetPercent)) return setText(v.targetPercent)
-    if (!report(act.saveProcurement(projectId, { targetShare: n / 100 }))) setText(v.targetPercent)
+    const share = shareFromPercentText(text)
+    if (share === null || text.trim() === v.targetPercent) return setText(v.targetPercent)
+    if (!report(act.saveProcurement(projectId, { targetShare: share }))) setText(v.targetPercent)
   }
   return (
     <Card data-testid="pack-objective">
@@ -239,9 +240,9 @@ function Award({ projectId, v }: { projectId: string; v: ProcurementView }) {
 function Prices({ projectId, v }: { projectId: string; v: ProcurementView }) {
   const [text, setText] = useState(v.prices.provisionalPercent)
   const commit = () => {
-    const n = Number(text)
-    if (text.trim() === '' || !Number.isFinite(n) || n === Number(v.prices.provisionalPercent)) return setText(v.prices.provisionalPercent)
-    if (!report(act.saveProcurement(projectId, { provisionalShare: n / 100 }))) setText(v.prices.provisionalPercent)
+    const share = shareFromPercentText(text)
+    if (share === null || text.trim() === v.prices.provisionalPercent) return setText(v.prices.provisionalPercent)
+    if (!report(act.saveProcurement(projectId, { provisionalShare: share }))) setText(v.prices.provisionalPercent)
   }
   return (
     <Card data-testid="pack-prices">

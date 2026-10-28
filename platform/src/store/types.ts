@@ -6,6 +6,7 @@ import type { ContractorWork } from '../domain/contractorTypes'
 import type { RecoveryRoute } from '../domain/reference/recovery'
 import type { DealTerms } from '../domain/dealTypes'
 import type { ProcurementPack, SpecClauseV2 } from '../domain/procurementTypes'
+import type { CesRecord } from '../domain/cesTypes'
 import type { TermsBase } from '../domain/engines/dealTerms'
 import type { Fit } from '../domain/v1types'
 import type { TestService } from '../domain/reference/testing'
@@ -284,6 +285,8 @@ export type AppData = {
   recoveryPlans: Record<string, RecoveryPlan>
   /** Round 3, stage 6: the client's procurement pack, by project. */
   procurement: Record<string, ProcurementPack>
+  /** Round 3, stage 6: the consultant's circular economy statement workspace, by project. */
+  ces: Record<string, CesRecord>
   ui: UiState
 }
 

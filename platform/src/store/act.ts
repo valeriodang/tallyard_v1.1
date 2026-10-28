@@ -22,6 +22,7 @@ import * as quality from './actions/quality'
 import * as recovery from './actions/recovery'
 import * as stock from './actions/stock'
 import * as procurement from './actions/procurement'
+import * as ces from './actions/ces'
 
 function bind<V, A extends unknown[]>(fn: (s: AppData, actor: Actor, ...args: A) => ActionResult<V>): (...args: A) => Outcome<V> {
   return (...args: A) => useApp.getState().run(fn, ...args)
@@ -156,6 +157,16 @@ export const act = {
   saveProcurement: bind(procurement.saveProcurement),
   setAwardTemplate: bind(procurement.setAwardTemplate),
   saveAwardCriteria: bind(procurement.saveAwardCriteria),
+  // The circular economy statement workspace
+  saveCesSettings: bind(ces.saveCesSettings),
+  answerExisting: bind(ces.answerExisting),
+  saveJustification: bind(ces.saveJustification),
+  saveLayer: bind(ces.saveLayer),
+  saveWaste: bind(ces.saveWaste),
+  setTargetRate: bind(ces.setTargetRate),
+  addAchievement: bind(ces.addAchievement),
+  addLesson: bind(ces.addLesson),
+  removeCesEntry: bind(ces.removeCesEntry),
   // Team, profile, organisation and notifications
   createInvite: bind(team.createInvite),
   revokeInvite: bind(team.revokeInvite),

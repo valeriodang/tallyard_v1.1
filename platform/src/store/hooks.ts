@@ -31,6 +31,7 @@ export function useData(): AppData {
       contractorWork: s.contractorWork,
       recoveryPlans: s.recoveryPlans,
       procurement: s.procurement,
+      ces: s.ces,
       ui: s.ui,
     })),
   )

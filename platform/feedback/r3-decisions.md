@@ -204,3 +204,20 @@ Decisions taken while building round 3 (`BRIEF.md` section 15), with the reason 
 - **The price schedule lists the approved materials.** For each it gives the reclaimed range at the public low and high guide prices and the same new at the family's new price, plus a provisional sum on the guide total. The market consultation annex lists every material not declined, from public facts.
 - **The pack exports as Word, through the statement's `docxParts`, and as a workbook with six sheets.** Both are built from the view only, and privacy tests reopen them.
 - `SEED_REVISION` is now 6, for the new key.
+
+## Stage 6b
+
+- **The statement workspace is the consultant's, on a new Statement inputs tab after Circular economy.** It is stored in a new `ces` key, one record per project, and only the consultant reads or writes it. The statement itself stays on the Circular economy tab.
+- **Whether a statement is needed** follows the referral criteria of the Mayor of London Order 2008 as the 2020 draft lists them, the City of London's rule for every major, and a borough flag. The referral labels say "the City", as the guidance does. The full name stays a building's location string, which the privacy tests treat as private.
+- **The stage starts at pre-application until RIBA stage 3, then the full application.** Readiness counts the items Table 5 requires at that stage which the records already hold.
+- **The decision tree asks the template's questions in order** and stops at the first outcome: retain, disassemble and reuse, demolish and recycle, or a new building on a cleared site. Below "retain", the reasons are required before the stage matrix counts the approach as done.
+- **The bill of materials reads the project's own bill.** The RICS scenario defaults to business as usual. Lifespans and waste rates come from RICS tables 18 and 20, and replacements are counted over the 60-year study period. Benchmarks place each NRM group against the LPG Appendix 4 quartiles. Reused and recycled content are kept apart. The consultant's view gives shares by value only, so no money figure reaches the consultant, and the template carries the raw numbers.
+- **Waste estimates are shares by weight per route,** which must not add up to more than 100%. More than a quarter as reuse raises the guard: crushed concrete and hardcore used as fill count as recycling.
+- **A target aimed above the policy minimum is pioneering; one aimed at the minimum is flagged.** This answers the monitoring report's finding that most statements copy the minimums.
+- **The post-construction statement is due three calendar months after practical completion,** clamped to the month's end.
+- **The quality check has five rows from the 2023 monitoring report:** template complete, targets above the minimums, retention explored, audits attached, and a post-construction date. An unanswered tree passes neither the retention row nor the audits row.
+- **The GLA template export follows the template's sheets and columns.** Totals are SUM formulas with cached results. The template's own slips, such as the repeated "Recycle offsite" heading and totals that skip rows, are not copied.
+- **Statement sections name the guidance sections they cover.** The approach, targets and next steps take in the workspace only once a record exists, so a project without one reads as before. An edited section is flagged as changed since, as for any other change to the generated text.
+- **Typed percentages and amounts are read by `domain/input.ts`,** so screens hand the store a value and never calculate. The stage 6a procurement and reuse clause fields use it too.
+- `SEED_REVISION` is now 7, for the new key.
+

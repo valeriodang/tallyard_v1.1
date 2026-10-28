@@ -76,6 +76,8 @@ export function projectTabs(state: AppData, side: ProjectSide, p: Project): Proj
     tab('certification', 'Certification', '/certification'),
     tab('requirements', 'Requirements', '/requirements', atRisk),
     tab('statement', 'Circular economy', '/statement'),
+    // Round 3, stage 6: the tables of the GLA template, behind the statement.
+    tab('ces', 'Statement inputs', '/ces'),
     tab('compliance', 'Compliance', '/compliance'),
     tab('team', 'Team', '/team'),
     tab('activity', 'Activity', '/activity'),

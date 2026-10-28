@@ -43,6 +43,29 @@ export type StatementInput = {
   untargeted: { label: string; requirementTitle: string }[]
   /** The scheme whose targeted measure is this statement itself, left out of `credits`: its line says so, as the scheme's own counts include it. */
   selfMeasureScheme?: string | null
+  /** Round 3, stage 6: what the consultant recorded in the statement workspace, once they have recorded anything. */
+  ces?: StatementCes | null
+}
+
+/** The statement workspace's records the statement draws on. */
+export type StatementCes = {
+  outcomeLabel: string | null
+  justification: string
+  layers: { label: string; approaches: string[]; response: string }[]
+  aiming: { label: string; aimingText: string; pioneering: boolean }[]
+  postDue: string | null
+}
+
+/** Round 3, stage 6: what each section answers in the GLA guidance (LPG), for the statement's reader. */
+export const STATEMENT_LPG: Record<StatementSectionId, string> = {
+  context: 'Project details and the policy basis (LPG section 1)',
+  approach: 'Design approaches and principles by layer (LPG sections 2.3 to 2.5, 4.3 to 4.5)',
+  reuse: 'Pre-demolition audit and reuse (LPG section 4.6)',
+  content: 'Recycled and reused content, and the bill of materials (LPG sections 4.2 and 4.7)',
+  carbon: 'Whole life carbon (London Plan Policy SI 2)',
+  targets: 'Circular economy targets (LPG section 4.2)',
+  certification: 'Certification credits the statement supports',
+  next_steps: 'Reporting at the next stage and after completion (LPG section 4.10)',
 }
 
 export type StatementSection = { id: StatementSectionId; heading: string; text: string }
@@ -133,9 +156,21 @@ function context(i: StatementInput): string {
 }
 
 function approach(i: StatementInput): string {
-  if (i.items.length === 0) return 'No reclaimed materials are on record yet. The design team will look for reclaimed structure, envelope and finishes as the design develops.'
-  const families = [...new Set(i.items.map((x) => x.family))].map((fam) => FAMILY_PLURALS[fam])
-  return `The design team follows the circular economy hierarchy: keep materials in use at their highest value, reuse before recycling, and design out waste. Reclaimed ${listJoin(families)} have been chosen for this scheme, checked against the programme and, for structural steel, against testing before specification.`
+  const base =
+    i.items.length === 0
+      ? 'No reclaimed materials are on record yet. The design team will look for reclaimed structure, envelope and finishes as the design develops.'
+      : `The design team follows the circular economy hierarchy: keep materials in use at their highest value, reuse before recycling, and design out waste. Reclaimed ${listJoin([...new Set(i.items.map((x) => x.family))].map((fam) => FAMILY_PLURALS[fam]))} have been chosen for this scheme, checked against the programme and, for structural steel, against testing before specification.`
+  return [base, ...cesApproach(i.ces)].join('\n')
+}
+
+/** Round 3: the decision tree's outcome and the approaches by layer, once recorded in the workspace. */
+function cesApproach(c: StatementCes | null | undefined): string[] {
+  if (!c) return []
+  const out: string[] = []
+  if (c.outcomeLabel) out.push(`For the existing building, the approach is: ${lowerFirst(c.outcomeLabel)}.${c.justification ? ` ${c.justification}` : ''}`)
+  const layers = c.layers.filter((l) => l.approaches.length > 0 || l.response)
+  if (layers.length > 0) out.push('Design approaches by building layer:', ...layers.map((l) => bullet(`${l.label}: ${[l.approaches.length > 0 ? listJoin(l.approaches.map(lowerFirst)) : '', l.response].filter((x) => x).join('. ')}`)))
+  return out
 }
 
 /** One list line per family: "Portland stone cladding, 50 mm: 520 m2", or the family with each of its items. */
@@ -178,7 +213,13 @@ function carbon(i: StatementInput): string {
 }
 
 function targets(i: StatementInput): string {
-  if (i.targets.length === 0) return 'No targets are set yet.'
+  const aims = i.ces?.aiming ?? []
+  const aimLines = aims.length > 0 ? ['Against the London Plan targets, the scheme aims for:', ...aims.map((a) => bullet(`${a.label}: ${a.aimingText}${a.pioneering ? ', above the minimum' : ''}.`))] : []
+  if (i.targets.length === 0) return aimLines.length > 0 ? aimLines.join('\n') : 'No targets are set yet.'
+  return [targetsText(i), ...aimLines].join('\n')
+}
+
+function targetsText(i: StatementInput): string {
   // A goal with no result yet reads "target 95%, no result yet", not the same words twice.
   const lines = i.targets.map((x) => bullet(x.actualText.toLowerCase() === x.statusText.toLowerCase() ? `${x.label}: target ${x.targetText}, ${inSentence(x.statusText)}.` : `${x.label}: target ${x.targetText}, now ${x.actualText}, ${inSentence(x.statusText)}.`))
   return ['The targets for this project and where each stands:', ...lines].join('\n')
@@ -229,6 +270,7 @@ function nextSteps(i: StatementInput): string {
   for (const c of i.credits.filter((x) => x.status === 'at_risk')) steps.push(`Resolve ${c.schemeLabel} ${c.code}, ${inSentence(c.title)}, which is at risk.`)
   for (const u of i.untargeted) steps.push(`Set a target for ${u.label}, as ${u.requirementTitle} is recorded as a requirement.`)
   steps.push(stageStep(i.ribaStage))
+  if (i.ces?.postDue) steps.push(`Submit the post-construction statement, with the actual figures, by ${i.ces.postDue}.`)
   return ['Before the next issue of this statement:', ...steps.map(bullet)].join('\n')
 }
 

@@ -225,7 +225,8 @@ describe('tabs, routes and where lines lead', () => {
     expect(tabs(U.priya)).toEqual([['Overview', null], ['Shortlist', null], ['Specification', null], ['Sustainability', null], ['Requirements', null], ['Team', null], ['Activity', null], ['Matching', null]])
     // Round 3, stage 6: the client's Procurement tab follows Reservations. Logged in r3-test-changes-stage6.
     expect(tabs(U.isla)).toEqual([['Overview', null], ['Approvals', 1], ['Reservations', null], ['Procurement', null], ['Specification', null], ['Sustainability', 1], ['Requirements', 1], ['Team', null], ['Activity', null]])
-    expect(tabs(U.marcus)).toEqual([['Overview', null], ['Sustainability', null], ['Goals and targets', null], ['Certification', null], ['Requirements', 1], ['Circular economy', null], ['Compliance', null], ['Team', null], ['Activity', null]])
+    // Round 3, stage 6b: the consultant's Statement inputs tab follows Circular economy. Logged in r3-test-changes-stage6.
+    expect(tabs(U.marcus)).toEqual([['Overview', null], ['Sustainability', null], ['Goals and targets', null], ['Certification', null], ['Requirements', 1], ['Circular economy', null], ['Statement inputs', null], ['Compliance', null], ['Team', null], ['Activity', null]])
     expect(sel.projectOverview(s, viewer(U.marcus), M)!.nextSteps.map((x) => x.id)).toEqual(['targets', 'compliance'])
   })
 

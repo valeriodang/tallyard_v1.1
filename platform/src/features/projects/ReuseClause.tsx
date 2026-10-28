@@ -6,6 +6,7 @@ import { act } from '../../store'
 import type { ClauseRow } from '../../domain/engines/procurement'
 import type { SpecClauseField, SupplyRoute } from '../../domain/procurementTypes'
 import { ROUTE_LABELS, SUPPLY_ROUTE_ORDER } from '../../domain/reference/procurement'
+import { shareFromPercentText } from '../../domain/input'
 import { cx, Field, Pill, Select, toast } from '../../ui'
 import { SavedInput, SavedTextarea } from '../audits/fields'
 
@@ -52,7 +53,7 @@ export function ReuseClause({ projectId, publicId, rows, canEdit }: { projectId:
             placeholder={surplusRow.value}
             hint="Percent over the quantity needed. Clear it for the family's figure."
             inputMode="decimal"
-            onSave={(t) => save({ field: 'surplusShare', share: t.trim() === '' ? null : Number(t) / 100 })}
+            onSave={(t) => save({ field: 'surplusShare', share: shareFromPercentText(t) })}
             testId={`reuse-surplus-${publicId}`}
           />
           {EDITABLE.map((field) => {

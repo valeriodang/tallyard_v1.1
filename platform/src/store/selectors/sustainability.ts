@@ -23,6 +23,11 @@ import { applicableRequirements, effectiveTargets, goalTargets, schemeTargeted, 
 import { consultantText, projectHeader, projectCarbon, type ProjectCarbon, type ProjectHeader } from './project'
 import { projectMetrics, slug, type ProjectMetrics } from './consultant'
 import { stageLabel, todayOf } from './common'
+import { STATEMENT_LPG, type StatementCes } from '../../domain/engines/statement'
+import { existingOutcome, postConstructionDue, targetRows } from '../../domain/engines/ces'
+import { CES_LAYERS, DESIGN_APPROACHES, EXISTING_OUTCOMES } from '../../domain/reference/ces'
+import { POST_CONSTRUCTION_MONTHS } from '../../domain/reference/gla'
+import { cesOf } from '../actions/ces'
 
 export { effectiveTargets } from '../sustainabilityRecord'
 
@@ -413,6 +418,24 @@ export function statementInputFor(state: AppData, p: Project, side: ProjectSide,
     }),
     credits: credits.map(({ d, t }) => ({ schemeLabel: schemeDef(d.scheme).label, code: d.code, title: d.title, statusLabel: TRACK_STATUS_LABELS[t.status], status: t.status, kind: d.scheme === 'circular' ? ('measure' as const) : ('credit' as const) })),
     selfMeasureScheme: self ? schemeDef(self.scheme).label : null,
+    ces: statementCes(state, p),
+  }
+}
+
+/** Round 3, stage 6: the workspace's records for the statement, once the consultant has saved any. */
+function statementCes(state: AppData, p: Project): StatementCes | null {
+  if (!state.ces[p.id]) return null
+  const r = cesOf(state, p.id)
+  const outcome = existingOutcome(r.existing)
+  const pct = (x: number) => `${Math.round(x * 1000) / 10}%`
+  return {
+    outcomeLabel: outcome === 'incomplete' ? null : EXISTING_OUTCOMES[outcome].label,
+    justification: r.justification,
+    layers: CES_LAYERS.map((l) => ({ label: l.label, approaches: (r.layers[l.id]?.approaches ?? []).map((a) => DESIGN_APPROACHES.find((d) => d.id === a)!.label), response: r.layers[l.id]?.response ?? '' })),
+    aiming: targetRows(r.aiming, r.achieved)
+      .filter((t) => t.aiming !== null)
+      .map((t) => ({ label: t.label, aimingText: pct(t.aiming!), pioneering: t.pioneering })),
+    postDue: p.programme.practicalCompletion ? formatDate(postConstructionDue(p.programme.practicalCompletion, POST_CONSTRUCTION_MONTHS)) : null,
   }
 }
 
@@ -421,7 +444,8 @@ export type StatementView = {
   header: ProjectHeader
   title: string
   subtitle: string
-  sections: { id: StatementSectionId; heading: string; text: string; generated: string; edited: boolean; stale: boolean }[]
+  /** Round 3: covers says what the section answers in the GLA guidance. */
+  sections: { id: StatementSectionId; heading: string; text: string; generated: string; edited: boolean; stale: boolean; covers: string }[]
   status: StatementStatus
   statusLabel: string
   sentText: string | null
@@ -470,7 +494,7 @@ export function statementView(state: AppData, viewer: Viewer, projectId: string)
   const generated = statementSections(statementInputFor(state, p, side, m))
   const live = generated.map((g) => {
     const edit = doc?.edits[g.id]
-    return { id: g.id, heading: g.heading, text: edit ? edit.text : g.text, generated: g.text, edited: !!edit, stale: isStale(edit, g.text) }
+    return { id: g.id, heading: g.heading, text: edit ? edit.text : g.text, generated: g.text, edited: !!edit, stale: isStale(edit, g.text), covers: STATEMENT_LPG[g.id] }
   })
   const sentOnce = status !== 'draft' && !!doc?.sentAt
   const snapshot = sentOnce ? (doc?.sentSections ?? null) : null
@@ -482,7 +506,7 @@ export function statementView(state: AppData, viewer: Viewer, projectId: string)
       : status === 'draft'
         ? []
         : snapshot
-          ? snapshot.map((x) => ({ ...x, generated: x.text, edited: false, stale: false }))
+          ? snapshot.map((x) => ({ ...x, generated: x.text, edited: false, stale: false, covers: STATEMENT_LPG[x.id] }))
           : live.map((x) => ({ ...x, edited: false, stale: false }))
   const clientName = state.world.orgs[p.clientOrgId]?.name ?? ''
   const consultantName = consultantLinked(p) ? (state.world.orgs[p.consultantOrgId]?.name ?? '') : ''

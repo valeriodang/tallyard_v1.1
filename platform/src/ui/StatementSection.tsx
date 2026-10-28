@@ -50,10 +50,12 @@ export type StatementSectionProps = {
   onKeep?: () => void
   /** For example h2 inside a document. */
   headingAs?: 'h2' | 'h3'
+  /** A short line under the heading, such as what the section answers. */
+  note?: string
   className?: string
 }
 
-export function StatementSection({ id, heading, text, edited = false, stale = false, canEdit = false, onSave, onReset, onKeep, headingAs: H = 'h2', className }: StatementSectionProps) {
+export function StatementSection({ id, heading, text, edited = false, stale = false, canEdit = false, onSave, onReset, onKeep, headingAs: H = 'h2', note, className }: StatementSectionProps) {
   const [draft, setDraft] = useState<string | null>(null)
   const fieldId = useId()
   const editing = draft !== null
@@ -83,6 +85,11 @@ export function StatementSection({ id, heading, text, edited = false, stale = fa
           </div>
         ) : null}
       </div>
+      {note ? (
+        <p className="-mt-2 m-0 text-xs text-muted print:hidden" data-testid={`statement-covers-${id}`}>
+          Covers: {note}
+        </p>
+      ) : null}
       {stale && canEdit && !editing ? (
         <div data-testid={`statement-stale-${id}`} role="status" className="flex flex-wrap items-start gap-3 rounded-lg border border-warning-line bg-warning-soft/70 px-3.5 py-3">
           <TriangleAlert aria-hidden="true" className="mt-0.5 size-4 shrink-0 text-warning" />

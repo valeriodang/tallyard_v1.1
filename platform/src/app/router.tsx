@@ -75,6 +75,7 @@ export const routes: RouteObject[] = [
                   { path: 'approvals', lazy: lazyPage(() => import('../features/approvals/Approvals'), 'Approvals') },
                   { path: 'reservations', lazy: lazyPage(() => import('../features/reservations/Reservations'), 'Reservations') },
                   { path: 'procurement', lazy: lazyPage(() => import('../features/procurement/Procurement'), 'Procurement') },
+                  { path: 'ces', lazy: lazyPage(() => import('../features/ces/CesWorkspace'), 'CesWorkspace') },
                   { path: 'reservations/:reservationId', lazy: lazyPage(() => import('../features/reservations/ProvenancePack'), 'ProvenancePack') },
                   { path: 'compliance', lazy: lazyPage(() => import('../features/compliance/Compliance'), 'Compliance') },
                   { path: '*', element: <AppNotFound /> },

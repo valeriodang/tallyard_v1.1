@@ -11,3 +11,12 @@ The client's procurement pack is a project tab, after Reservations. Three assert
 - `src/store/selectors/owner-surveyor.selectors.test.ts`, "gives the owner Donor buildings with Recovery plan, then New projects and the marketplace once it has one": the owner's New project children. The owner is the client of its own project, so it has the client's tabs.
 
 **What still holds.** Every other tab, its order, label and badge is unchanged. The architect's and the consultant's tabs are unchanged.
+
+## Stage 6b: the consultant gains a Statement inputs tab
+
+- `src/store/selectors/sustainability.test.ts`, "each side gets its tabs; the consultant alone gets targets, certification and the statement":
+  - **What changed.** Marcus's tabs now have Statement inputs after Circular economy.
+  - **Why.** The consultant's statement workspace holds the GLA template's tables behind the statement.
+  - **What still holds.** Every other tab, its order, label and badge is unchanged.
+
+**Added, not changed.** `src/test/privacy.platform.test.ts` now also scans the workspace view and the template rows (`cesView`, `cesTemplate`) in every buyer-side and money check. No assertion changed.

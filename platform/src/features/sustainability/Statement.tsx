@@ -136,6 +136,7 @@ export function Statement() {
                 onReset={() => reset(s.id)}
                 onKeep={() => save(s.id, s.text, s.generated)}
                 headingAs="h3"
+                note={s.covers}
               />
             ))}
           </div>

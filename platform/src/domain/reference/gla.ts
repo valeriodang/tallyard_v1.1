@@ -9,14 +9,17 @@ export const LONDON_PLAN_SOURCE = 'London Plan 2021'
 export const MONITORING_SOURCE = 'GLA Circular Economy Monitoring 2023 (November 2024)'
 export const LPG_DRAFT_SOURCE = 'GLA Circular Economy Statement Guidance, pre-consultation draft (March 2020)'
 
-/** Referral to the Mayor, from the Town and Country Planning (Mayor of London) Order 2008 as listed in the 2020 draft. */
+/**
+ * Referral to the Mayor, from the Town and Country Planning (Mayor of London) Order 2008 as listed in the 2020 draft.
+ * "The City" is the City of London, as the guidance writes it; the full name is kept for a building's own location.
+ */
 export const REFERRAL_CRITERIA: { id: string; label: string }[] = [
   { id: 'homes_150', label: '150 homes or more' },
-  { id: 'area_city', label: 'More than 100,000 m2 of floorspace in the City of London' },
+  { id: 'area_city', label: 'More than 100,000 m2 of floorspace in the City' },
   { id: 'area_central', label: 'More than 20,000 m2 of floorspace elsewhere in central London' },
   { id: 'area_outer', label: 'More than 15,000 m2 of floorspace outside central London' },
   { id: 'height_thames', label: 'Taller than 25 m in the Thames Policy Area' },
-  { id: 'height_city', label: 'Taller than 150 m in the City of London' },
+  { id: 'height_city', label: 'Taller than 150 m in the City' },
   { id: 'height_elsewhere', label: 'Taller than 30 m elsewhere' },
   { id: 'height_increase', label: 'Raises an existing building by more than 15 m' },
   { id: 'green_belt', label: 'Inappropriate development on Green Belt or Metropolitan Open Land' },

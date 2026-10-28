@@ -130,6 +130,8 @@ function sustainabilityViews(s: AppData, v: Viewer, projectId: string): [string,
     ['complianceWorkbook', sel.complianceWorkbook(s, v, projectId)],
     ['tracking', sel.sustainabilityTracking(s, v, projectId)],
     ['projectMetrics', sel.projectMetrics(s, v, projectId)],
+    ['ces', sel.cesView(s, v, projectId)],
+    ['cesTemplate', sel.cesTemplate(s, v, projectId)],
   ]
 }
 

@@ -454,4 +454,17 @@ Round 3 is a working name, used in documents and test logs. Screens say "Updated
     - reclaimed and new unit prices with a provisional sum;
     - the market consultation annex;
     - Word and spreadsheet exports.
+- **As built (stage 6b):**
+  - **Statement inputs tab (the consultant's):**
+    - whether a statement is needed: referral to the Mayor, every major in the City of London, or the borough's own plan;
+    - the stage (pre-application, outline, full, post-construction) with the guidance's Table 5 and a readiness score;
+    - the decision tree for existing buildings, with the reasons asked for below "retain" and the two audits;
+    - design approaches and a response for each of the six layers;
+    - the bill of materials under a RICS end-of-life scenario, with lifespans, replacements over 60 years, site waste, the Appendix 4 benchmarks, reused and recycled content apart by mass and by value, and the 80% cost coverage check;
+    - recycling and waste estimates for four streams, with the benchmark and the guard against counting crushed material as reuse;
+    - the GLA targets, aimed and achieved, with pioneering and at-the-minimum flags;
+    - the post-construction due date, key achievements and lessons learnt;
+    - a quality check from the GLA's 2023 monitoring findings;
+    - an export in the GLA template's layout, with SUM formulas and cached results.
+  - **Statement v2:** each section names the guidance sections it covers. The approach, targets and next steps take in the workspace once it holds anything; an edited section is flagged as changed since.
 
